@@ -1,0 +1,585 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Spark AR TV</title>
+
+<style>
+
+body {
+  background:#cecece;
+}
+
+.content {
+  width:90%;
+  margin:0 auto;
+  padding-top:20px;
+}
+
+.vid {
+  margin-bottom: 20px;
+}
+.vid .title a {
+  font-size:14px;
+  font-weight:bold;
+  color: #222222;
+}
+
+.thumb-container {
+  background: #121212;
+  padding:4px;
+}
+
+.thumb-wrapper {
+  height:240px;
+  position: relative;
+  overflow: hidden;
+}
+
+.thumb-wrapper img {
+  width:100%;
+  position:absolute;
+}
+
+.thumb-label {
+  position:absolute;
+  right:0;
+  bottom:0;
+  padding:4px 8px 0px;
+  background:rgba(0,0,0,0.6);
+  color:#ffffff;
+  font-weight:bold;
+  font-size:12px;
+}
+
+.play-button {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border: 4px solid #efefef;
+  border-radius: 54px;
+  margin-top:-50px;
+  margin-left:-50px;
+}
+.play-button span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-top: 24px solid transparent;
+  border-bottom: 24px solid transparent;
+  border-left: 40px solid #efefef;
+  margin-top:-24px;
+  margin-left:-14px;
+}
+
+</style>
+
+  </head>
+  <body>
+    
+
+<nav class="navbar navbar-dark bg-dark">
+  <span class="navbar-brand">Spark AR TV</span>
+</nav>
+
+<div class="content">
+<div class="container-fluid">
+
+<h3>Luke Hurd</h3>
+<div class="row">
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=CkVPmixUqGA" target="_blank">
+          <img src="https://i.ytimg.com/vi/CkVPmixUqGA/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Luke Hurd</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=CkVPmixUqGA">Spark AR: Instagram Filters - Getting Started: The Facemesh</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=_DHYSYVqMow" target="_blank">
+          <img src="https://i.ytimg.com/vi/_DHYSYVqMow/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Luke Hurd</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=_DHYSYVqMow">Spark AR: Instagram Filters - Getting Started: The Basics</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=b5rw9Ypo7dY" target="_blank">
+          <img src="https://i.ytimg.com/vi/b5rw9Ypo7dY/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Luke Hurd</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=b5rw9Ypo7dY">Spark AR: Instagram Filter - How to convert an mp3 for use in a filter</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=mit9xcOSsUQ" target="_blank">
+          <img src="https://i.ytimg.com/vi/mit9xcOSsUQ/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Luke Hurd</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=mit9xcOSsUQ">Spark AR: Instagram Filters - Animation Basics</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=WWddZJflU0g" target="_blank">
+          <img src="https://i.ytimg.com/vi/WWddZJflU0g/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Luke Hurd</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=WWddZJflU0g">Spark AR: Instagram Filters - Import ANY video for testing!</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=awJsJzTP4Dc" target="_blank">
+          <img src="https://i.ytimg.com/vi/awJsJzTP4Dc/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Luke Hurd</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=awJsJzTP4Dc">Spark AR: Instagram Filters - Face Deformation</a>
+      </div>
+    </div>
+    </div>
+</div>
+<h3>Josh Beckwith</h3>
+<div class="row">
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=e6QdecFqUCA" target="_blank">
+          <img src="https://i.ytimg.com/vi/e6QdecFqUCA/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Josh Beckwith</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=e6QdecFqUCA">Spark AR Tap to Change</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=QUL-M5wTSw4" target="_blank">
+          <img src="https://i.ytimg.com/vi/QUL-M5wTSw4/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Josh Beckwith</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=QUL-M5wTSw4">Bloom effect in Spark AR</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=7l423Ro4WM4" target="_blank">
+          <img src="https://i.ytimg.com/vi/7l423Ro4WM4/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Josh Beckwith</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=7l423Ro4WM4">Threshold effect in Spark AR</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=VbFEAbeGmQc" target="_blank">
+          <img src="https://i.ytimg.com/vi/VbFEAbeGmQc/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Josh Beckwith</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=VbFEAbeGmQc">Edge Detection in Spark AR</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=tp12y4ex2W8" target="_blank">
+          <img src="https://i.ytimg.com/vi/tp12y4ex2W8/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Josh Beckwith</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=tp12y4ex2W8">Color LUTs in Spark AR part 2</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=lxF-ecbkbr4" target="_blank">
+          <img src="https://i.ytimg.com/vi/lxF-ecbkbr4/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Josh Beckwith</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=lxF-ecbkbr4">Color LUTs in Spark AR</a>
+      </div>
+    </div>
+    </div>
+</div>
+<h3>Maru Studio</h3>
+<div class="row">
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=IDI6xi9z3Zk" target="_blank">
+          <img src="https://i.ytimg.com/vi/IDI6xi9z3Zk/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Maru Studio</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=IDI6xi9z3Zk">Spark AR: Blinking Game Tutorial - Part 2</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=APWpLdvXaiE" target="_blank">
+          <img src="https://i.ytimg.com/vi/APWpLdvXaiE/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Maru Studio</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=APWpLdvXaiE">Spark AR: Blinking Game Tutorial - Part 1</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=-OC42XQM9kY" target="_blank">
+          <img src="https://i.ytimg.com/vi/-OC42XQM9kY/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Maru Studio</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=-OC42XQM9kY">Spark AR: UI Interaction - Interactive with 2D objects</a>
+      </div>
+    </div>
+    </div>
+</div>
+<h3>Yegor K</h3>
+<div class="row">
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=ZOX7L57woco" target="_blank">
+          <img src="https://i.ytimg.com/vi/ZOX7L57woco/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Yegor K</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=ZOX7L57woco">in Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=n3ZXo7GUiAo" target="_blank">
+          <img src="https://i.ytimg.com/vi/n3ZXo7GUiAo/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Yegor K</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=n3ZXo7GUiAo">Spark AR Toon Shader</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=6rcTbfrVyWo" target="_blank">
+          <img src="https://i.ytimg.com/vi/6rcTbfrVyWo/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Yegor K</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=6rcTbfrVyWo">Spark AR MatCap shader</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=d1_IFyIKy-w" target="_blank">
+          <img src="https://i.ytimg.com/vi/d1_IFyIKy-w/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Yegor K</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=d1_IFyIKy-w">Realistic glitter makeup mask in Spark AR</a>
+      </div>
+    </div>
+    </div>
+</div>
+<h3>Manhsplains</h3>
+<div class="row">
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=azOum82EbM0" target="_blank">
+          <img src="https://i.ytimg.com/vi/azOum82EbM0/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Manhsplains</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=azOum82EbM0">Manhsplains: Spark AR tutorial to fix weird face mesh artifacting around the mouth and eyes</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=p_JvPoPpLVg" target="_blank">
+          <img src="https://i.ytimg.com/vi/p_JvPoPpLVg/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Manhsplains</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=p_JvPoPpLVg">Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial</a>
+      </div>
+    </div>
+    </div>
+</div>
+<h3>Alex Dohotaru</h3>
+<div class="row">
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=0aWK8mXwBwM" target="_blank">
+          <img src="https://i.ytimg.com/vi/0aWK8mXwBwM/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">Alex Dohotaru</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=0aWK8mXwBwM">Occluder Planes SparkAR Tutorial</a>
+      </div>
+    </div>
+    </div>
+</div>
+<h3>nice dream</h3>
+<div class="row">
+
+    <div class="col-md-3">
+    <div class="vid">
+      <div class="thumb-container">
+      <div class="thumb-wrapper">
+        <a href="https://youtube.com/watch?v=oVJHordzMXo" target="_blank">
+          <img src="https://i.ytimg.com/vi/oVJHordzMXo/hqdefault.jpg" class="card-img-top">
+          <span class="play-button">
+            <span></span>
+          </span>
+        </a>
+        <span class="thumb-label">nice dream</span>
+      </div>
+      </div>
+      <div class="title">
+        <a href="https://youtube.com/watch?v=oVJHordzMXo">Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]</a>
+      </div>
+    </div>
+    </div>
+</div>
+
+
+
+</div>
+</div> 
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script>
+
+$(document).ready(function(){
+  $(".thumb-wrapper img").each(function(i, e){
+    const ele = $(e);
+    const h1 = ele.height();
+    const h2 = ele.closest(".thumb-wrapper").height();
+    ele.css({
+      top: ((h2 - h1)/2) +'px',
+    });
+  });
+});
+
+    </script>
+  </body>
+</html>
+
+
