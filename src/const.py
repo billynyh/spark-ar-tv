@@ -1,0 +1,6 @@
+ID="id"
+TITLE = "title"
+LIST = "list"
+THUMBNAIL_URL = "thumbnail_url"
+CHANNEL_ID = "channel_id"
+CHANNEL_TITLE = "channel_title"
