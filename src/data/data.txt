@@ -46,11 +46,12 @@ https://www.youtube.com/watch?v=ZOX7L57woco
 /watch?v=REqpibMDZv4
 
 # Francesco Laterza
-/watch?v=IJFodki_4uI
-/watch?v=_Pj8nYKHEkc
-/watch?v=yVjb6iBHFo8
-/watch?v=7lx9iNagJ6o
-
+/watch?v=IJFodki_4uI&t=12s //Native UI Sparkar [Instagram only]
+/watch?v=_Pj8nYKHEkc //[SPARKAR STUDIO TUTORIAL] Create/Rig/Animate/Augment a Character
+/watch?v=yVjb6iBHFo8 //Body Segmentation with SparkAr Studio
+/watch?v=7lx9iNagJ6o //Sparkar Studio -  Deformation Face
+/watch?v=4-AtN6b2Xyc //How to create your own Instagram and Facebook Face Mask Filter
+/watch?v=0spiI5g3qsQ //Image Recognition in 2 minutes with SparkAR Studio - Augmented Reality TUTORIAL
 
 # Manhsplains
 /watch?v=azOum82EbM0
