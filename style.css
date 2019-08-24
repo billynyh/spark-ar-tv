@@ -1,0 +1,74 @@
+
+body {
+  background:#c2c2c2;
+}
+
+/* reset grid padding */
+.content .row .vid-col {
+  padding:4px;
+}
+
+
+.content {
+  width:90%;
+  margin:0 auto;
+  padding-top:20px;
+}
+
+.vid {
+  margin-bottom: 20px;
+  line-height: 16px;
+}
+
+.vid .title a {
+  display: block;
+  font-size:14px;
+  font-weight:bold;
+  color: #222222;
+  padding:4px 0;
+}
+
+.thumb-container {
+  background: #121212;
+  width: 100%;
+  padding-bottom: 56.25%;
+  position: relative;
+  overflow: hidden;
+}
+
+.thumb-wrapper {
+  width:100%;
+  position:absolute;
+  top:50%;
+  transform: translateY(-50%);
+  vertical-align: middle;
+  display:block;
+}
+
+.thumb-wrapper img {
+  width:100%;
+}
+
+.thumb-label {
+  position:absolute;
+  right:0;
+  bottom:0;
+  padding:2px 8px;
+  background:rgba(0,0,0,0.6);
+  color:#ffffff;
+  font-weight:bold;
+  font-size:12px;
+}
+
+.play-button {
+  position:absolute;
+  display:block;
+  width:100%;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+.play-button img {
+  width: 30%;
+}
