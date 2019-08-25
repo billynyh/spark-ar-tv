@@ -17,8 +17,7 @@ from pprint import pprint
 
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 
-def fetch(ids):
-    print("Start fetch %s" % ids)
+def get_youtube():
     # Disable OAuthlib's HTTPS verification when running locally.
     # *DO NOT* leave this option enabled in production.
     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
@@ -29,7 +28,11 @@ def fetch(ids):
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=config.DEVELOPER_KEY)
 
-    request = youtube.videos().list(
+    return youtube
+
+def fetch(ids):
+    print("Start fetch %s" % ids)
+    request = get_youtube().videos().list(
         part="snippet,contentDetails,statistics",
         id=ids
     )
@@ -56,7 +59,26 @@ def save(response):
             data[id] = util.read_single_video_obj(item)
     return data
 
-if __name__ == "__main__":
+def list_channel(id, keyword="spark", max_result=30):
+    request = get_youtube().search().list(
+        part="snippet",
+        channelId=id,
+        q=keyword,
+        order="date",
+        maxResults=max_result,
+    )
+    response = request.execute()
+    return response
+
+def sample_fetch():
     id = "d789vqCo_-A"
     response = fetch(id)
     save(response)
+
+def sample_list_channel():
+    id = "UC3zmATtNhDuYOketH1zF5sw"
+    response = list_channel(id, max_result=5)
+    pprint(response)
+
+if __name__ == "__main__":
+    sample_list_channel()
