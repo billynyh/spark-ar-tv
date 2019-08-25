@@ -35,7 +35,7 @@ def parse():
         
     return groups
     
-def merge_groups(groups):
+def process_groups(groups, video_data):
     # merge all groups with less than 2 vid to Others
     result = []
     others = []
@@ -46,6 +46,14 @@ def merge_groups(groups):
             result.append(group)
     if len(others) > 0:
         result.append({TITLE: 'Others', LIST: others})
+
+    # sort each group by publish date
+    for group in result:
+        group[LIST] = sorted(
+            group[LIST], 
+            key=lambda id: video_data[id][PUBLISHED_AT], 
+            reverse=True)
+    
     return result
 
 def load_video_data(ids):
@@ -71,7 +79,7 @@ def sort_videos():
     ids = [id for g in groups for id in g[LIST]]
     video_data = load_video_data(ids)
     most_viewed = sorted(ids, key=lambda id: -int(video_data[id][VIEW_COUNT]))
-    latest = sorted(ids, key=lambda id: -int(video_data[id][PUBLISHED_AT]))
+    latest = sorted(ids, key=lambda id: video_data[id][PUBLISHED_AT], reverse=True)
 
     return (mosted_vided, latest)
 
@@ -80,12 +88,14 @@ def main():
     read_cache = True
 
     groups = parse()
-    groups = merge_groups(groups)
 
     all_youtube_ids = [id for g in groups for id in g[LIST]]
     print("Num of videos: %s" % len(all_youtube_ids))
 
     video_data = load_video_data(all_youtube_ids)
+
+    # merge and sort
+    groups = process_groups(groups, video_data)
 
     html = html_helper.gen_html(groups, video_data)
     with open("%s/index.html" % config.OUT_DIR, "w") as outfile:
