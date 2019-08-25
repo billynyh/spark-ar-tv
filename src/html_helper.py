@@ -76,6 +76,10 @@ def gen_video(obj):
     img = obj[THUMBNAIL_URL]
     url = "https://youtube.com/watch?v=%s" % obj[ID]
     channel = obj[CHANNEL_TITLE]
+    duration = obj[DURATION]
+    published_at = obj[PUBLISHED_AT]
+    channel_url = "https://www.youtube.com/channel/%s" % obj[CHANNEL_ID]
+
     return """
     <div class="vid-col col-xl-2 col-lg-3 col-sm-4">
     <div class="vid">
@@ -88,13 +92,26 @@ def gen_video(obj):
             </span>
           </a>
         </div>
-        <span class="thumb-label">%(channel)s</span>
+        <span class="thumb-label">%(duration)s</span>
       </div>
       <div class="title">
         <a href="%(url)s">%(title)s</a>
       </div>
+      <div class="meta">
+        <a href="%(channel_url)s">%(channel)s</a>
+        &bull;
+        %(published_at)s
+      </div>
     </div>
-    </div>""" % {'title': title, 'url':url, 'img':img, 'channel': channel}
+    </div>""" % {
+        'title': title, 
+        'url':url, 
+        'img':img, 
+        'channel': channel, 
+        'duration': duration,
+        'published_at': published_at,
+        'channel_url': channel_url,
+    }
 
 def gen_group(group, video_data):
     video_list = group[LIST]

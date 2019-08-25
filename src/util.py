@@ -2,6 +2,7 @@ import json
 import re
 import os
 import shutil
+import isodate
 
 import config
 from const import *
@@ -38,10 +39,19 @@ def read_single_video_json(f):
 def read_single_video_obj(item):
     id = item["id"]
     snippet = item["snippet"]
+    content_details = item["contentDetails"]
+    stat = item["statistics"]
+
     title = snippet["title"]
     thumbnail_url = snippet["thumbnails"]["high"]["url"]
     channel_id = snippet["channelId"]
     channel_title = snippet["channelTitle"]
+    raw_published_at = snippet["publishedAt"]
+    raw_duration = content_details["duration"]
+    view_count = stat["viewCount"]
+
+    published_at = formate_date(raw_published_at)
+    duration = format_duration(raw_duration)
    
     return {
       ID: id,
@@ -49,8 +59,23 @@ def read_single_video_obj(item):
       THUMBNAIL_URL: thumbnail_url,
       CHANNEL_ID: channel_id,
       CHANNEL_TITLE: channel_title,
+      DURATION: duration,
+      VIEW_COUNT: view_count,
+      PUBLISHED_AT: published_at,
     }
-    
+
+def format_duration(raw_duration):
+    total = isodate.parse_duration(raw_duration).total_seconds()
+    hour = total / 3600
+    minute = (total / 60) % 60
+    sec = total % 60
+
+    if minute < 60:
+        return "%d:%02d" % (minute, sec)
+    return "%d:%02d:%02d" % (hour, minute, sec)
+
+def formate_date(raw_date):
+    return isodate.parse_date(raw_date)
 
 def get_cache_files():
     return os.listdir(config.CACHE_DIR)

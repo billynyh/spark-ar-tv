@@ -65,7 +65,15 @@ def load_video_data(ids):
         data.update(fetched_data)
   
     return data
-  
+
+def sort_videos():
+    groups = parse()
+    ids = [id for g in groups for id in g[LIST]]
+    video_data = load_video_data(ids)
+    most_viewed = sorted(ids, key=lambda id: -int(video_data[id][VIEW_COUNT]))
+    latest = sorted(ids, key=lambda id: -int(video_data[id][PUBLISHED_AT]))
+
+    return (mosted_vided, latest)
 
 def main():
     fetch = True
