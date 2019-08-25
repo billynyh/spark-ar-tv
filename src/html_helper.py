@@ -1,5 +1,5 @@
 from const import *
-
+import util
 
 def get_youtube_url(id):
     return "https://youtube.com/watch?v=%s" % id
@@ -209,9 +209,32 @@ def gen_channel_groups(groups, video_data):
 
     return html
 
-def gen_html(groups, video_data, most_viewed, latest):
+def gen_debug(video_data):
+    (latest, most_viewed) = util.sort_videos(video_data)
+
+    NUM = 18
+    debug_groups = [
+      {TITLE: "Latest", LIST: latest[:NUM]},
+      {TITLE: "Most Viewed", LIST: most_viewed[:NUM]},
+    ]
+
+    dump_video_list = ["# Latest"]
+    dump_video_list += util.dump_video_list(latest[:NUM], video_data)
+    dump_video_list += ["", "# Most viewed"]
+    dump_video_list += util.dump_video_list(most_viewed[:NUM], video_data)
+
+    html = [
+      '<textarea style="width:50%%; height:400px">%s</textarea>' % '\n'.join(dump_video_list)
+    ]
+    html += gen_channel_groups(debug_groups, video_data)
+    return html
+    
+
+def gen_html(groups, video_data, most_viewed, latest, debug = False):
     html = [HTML_BEFORE]
     html += gen_featured(most_viewed, latest, video_data)
+    if debug:
+        html += gen_debug(video_data)
     html += gen_channel_groups(groups, video_data)
     html.append(HTML_AFTER)
     return '\n'.join(html)

@@ -53,6 +53,30 @@ https://www.youtube.com/watch?v=ZOX7L57woco
 /watch?v=4-AtN6b2Xyc //How to create your own Instagram and Facebook Face Mask Filter
 /watch?v=0spiI5g3qsQ //Image Recognition in 2 minutes with SparkAR Studio - Augmented Reality TUTORIAL
 
+# Catalyst
+5uzCoKQ60Tk // Spark AR - Interactions Redux
+TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
+9lg6X-hROmQ // Spark AR Studio - Comment Requested Tutorials #1
+R0pTosVgmnM // Spark AR Studio - V66+ Changes
+oCF4JtpLa0o // Spark AR - 7 Things to Remember
+g6qtVejgjUQ // Spark AR Studio - Making a Working UI
+kxToFTQnMV0 // SPARK AR Studio - Dual Lens Effect
+lO48fuDJKvA // Spark AR Studio - Beta changes and UI Overview
+_8NOUY11kyw // Spark AR comes to Windows and other rambles
+_UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
+S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
+
+
+# Eugene Training
+/watch?v=A1S8r-Tmi-U //How you can learn Augmented Reality without coding
+x0CxUl54TkI // Spark AR Studio Publish to Facebook
+ZdpSqnhMQag // Spark Ar Studio - Creative Mask
+f6mlfjizIGs // Spark AR Studio Workflow Overview
+BiGKgdll2jE // Spark AR Studio First look to the Interface
+Zmh1sqPYXco // 01 Spark AR Studio, versions 63 and 64 Beta
+VW29sr7S-gU // Spark AR
+
+
 # Manhsplains
 /watch?v=azOum82EbM0
 /watch?v=p_JvPoPpLVg
@@ -69,3 +93,11 @@ https://www.youtube.com/watch?v=LDbmH8pyjjY
 # OnaMadderz
 /watch?v=-7mJ42X9-Qc&t=662s //Spark AR - Instagram Effect Breakdown - Horns
 /watch?v=JahuumWeWbI&t=24s //Tap to change / Add instructions - Spark AR beginner tutorial
+
+# Ray Leung
+/watch?v=vfMXwODsXa0&t=43s //Spark AR - How to extract face features
+/watch?v=P6kZl8-QzUU //Spark AR - How to rotate an object around your head
+
+# Eugene Soh
+/watch?v=txhHU2K_3Jw //Facebook Developer Circle Talk - Spark AR by Eugene Soh
+/watch?v=oigtv1210wY //Spark AR Day Singapore [Eugene Soh]

@@ -9,12 +9,14 @@ import html_helper
 import util
 from const import *
 
-FILE = "data/data.txt"
+DATA_FILE = "data/data.txt"
+LATEST_DATA_FILE = "data/latest.txt"
+MOST_VIEWED_DATA_FILE = "data/most_viewed.txt"
 
 # parse data.txt
-def parse():
-    print("Parsing %s" % FILE)
-    f = open(FILE)
+def parse(file_path):
+    print("Parsing %s" % file_path)
+    f = open(file_path)
     groups = []
     current_group = None
     for s in f.readlines():
@@ -74,17 +76,13 @@ def load_video_data(ids):
   
     return data
 
-def sort_videos(ids, video_data):
-    most_viewed = sorted(ids, key=lambda id: -int(video_data[id][VIEW_COUNT]))
-    latest = sorted(ids, key=lambda id: video_data[id][PUBLISHED_AT], reverse=True)
-
-    return (most_viewed, latest)
-
 def main():
     fetch = True
     read_cache = True
 
-    groups = parse()
+    groups = parse(DATA_FILE)
+    most_viewed = parse(MOST_VIEWED_DATA_FILE)[0][LIST]
+    latest = parse(LATEST_DATA_FILE)[0][LIST]
 
     all_youtube_ids = [id for g in groups for id in g[LIST]]
     print("Num of videos: %s" % len(all_youtube_ids))
@@ -93,10 +91,13 @@ def main():
 
     # merge and sort
     groups = process_groups(groups, video_data)
-    (most_viewed, latest) = sort_videos(all_youtube_ids, video_data)
 
     html = html_helper.gen_html(groups, video_data, most_viewed, latest)
     with open("%s/index.html" % config.OUT_DIR, "w") as outfile:
+        outfile.write(html)
+        print("Generated %s" % outfile.name)
+    html = html_helper.gen_html(groups, video_data, most_viewed, latest, debug=True)
+    with open("%s/debug.html" % config.OUT_DIR, "w") as outfile:
         outfile.write(html)
         print("Generated %s" % outfile.name)
     util.copy_all("assets", config.OUT_ASSETS_DIR)
