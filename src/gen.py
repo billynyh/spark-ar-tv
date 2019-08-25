@@ -74,14 +74,11 @@ def load_video_data(ids):
   
     return data
 
-def sort_videos():
-    groups = parse()
-    ids = [id for g in groups for id in g[LIST]]
-    video_data = load_video_data(ids)
+def sort_videos(ids, video_data):
     most_viewed = sorted(ids, key=lambda id: -int(video_data[id][VIEW_COUNT]))
     latest = sorted(ids, key=lambda id: video_data[id][PUBLISHED_AT], reverse=True)
 
-    return (mosted_vided, latest)
+    return (most_viewed, latest)
 
 def main():
     fetch = True
@@ -96,8 +93,9 @@ def main():
 
     # merge and sort
     groups = process_groups(groups, video_data)
+    (most_viewed, latest) = sort_videos(all_youtube_ids, video_data)
 
-    html = html_helper.gen_html(groups, video_data)
+    html = html_helper.gen_html(groups, video_data, most_viewed, latest)
     with open("%s/index.html" % config.OUT_DIR, "w") as outfile:
         outfile.write(html)
         print("Generated %s" % outfile.name)

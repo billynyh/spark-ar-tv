@@ -77,3 +77,69 @@ body {
 .play-button img {
   width: 30%;
 }
+
+.featured.container-fluid {
+  padding:0;
+}
+
+.featured .row {
+  margin:0;
+}
+.featured-col-1 {
+  width: 14.28%
+}
+.featured-col-2 {
+  width: 28.57%;
+}
+
+.featured-block {
+  padding:0;
+}
+
+.featured img {
+  width:100%;
+}
+
+.featured .badge-container {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+
+.featured-col-2 .badge {
+  font-size:24px;
+}
+
+.featured .badge-hot {
+  background:#801010;
+  color: white;
+}
+
+.featured .badge-new {
+  background:#104C80;
+  color: white;
+}
+
+.featured .thumb-footer {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  width:100%;
+  padding:8px;
+  display:none;
+}
+
+.featured .thumb-footer .title {
+  font-size:14px;
+  color: #eaeaea;
+  font-weight: bold;
+}
+
+.featured .thumb-footer .meta {
+  font-size:12px;
+  color: #cacaca;
+}
+
+.featured .thumb-container:hover .thumb-footer {
+  display:block;
+}
