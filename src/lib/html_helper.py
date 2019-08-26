@@ -20,38 +20,16 @@ def gen_video(obj):
     published_at = obj[PUBLISHED_AT]
     channel_url = "https://www.youtube.com/channel/%s" % obj[CHANNEL_ID]
 
-    return """
-    <div class="vid-col col-xl-2 col-lg-3 col-sm-4">
-    <div class="vid">
-      <div class="thumb-container">
-        <div class="thumb-wrapper">
-          <a href="%(url)s" target="_blank">
-            <img src="%(img)s">
-            <span class="play-button">
-              <img src="assets/youtube-play5.png" />
-            </span>
-          </a>
-        </div>
-        <span class="thumb-label">%(duration)s</span>
-      </div>
-      <div class="title">
-        <a href="%(url)s">%(title)s</a>
-      </div>
-      <div class="meta">
-        <a href="%(channel_url)s">%(channel)s</a>
-        &bull;
-        %(published_at)s
-      </div>
-    </div>
-    </div>""" % {
-        'title': title, 
-        'url':url, 
-        'img':img, 
-        'channel': channel, 
-        'duration': duration,
-        'published_at': published_at,
-        'channel_url': channel_url,
-    }
+    t = get_template("_standard_video.html")
+    return t.render(
+        title = title, 
+        url = url,
+        img = img,
+        channel = channel,
+        duration = duration,
+        published_at = published_at,
+        channel_url = channel_url,
+    )
 
 def gen_group(group, video_data):
     video_list = group[LIST]
@@ -67,7 +45,8 @@ def gen_group(group, video_data):
     return html
 
 def gen_badge(text, cls):
-    return '<div class="badge-container"><span class="badge %s">%s</span></div>' % (cls, text)
+    t = get_template("_featured_badge.html")
+    return t.render(cls = cls, text = text)
 
 # 7-col
 def gen_featured(site):
@@ -108,34 +87,15 @@ def gen_featured_col(ids, video_data, badge = ""):
     return html
 
 def gen_featured_video(obj, badge):
-    return """
-<div class="thumb-container">
-<a href="%(url)s">
-<div class="thumb-wrapper">
-<img src="%(img)s" />
-</div>
-%(badge)s
-  <div class="thumb-footer">
-    <div class="title">
-      %(title)s
-    </div>
-    <div class="meta">
-      %(channel)s
-      &bull;
-      %(published_at)s
-    </div>
-  </div>
-</a>
-</div>
-
-""" % {
-    'img': obj[THUMBNAIL_URL], 
-    'badge': badge,
-    'title': obj[TITLE],
-    'channel': obj[CHANNEL_TITLE],
-    'published_at': obj[PUBLISHED_AT],
-    'url': get_youtube_url(obj[ID]),
-    }
+    t = get_template("_featured_video.html")
+    return t.render(
+        img = obj[THUMBNAIL_URL], 
+        badge = badge,
+        title = obj[TITLE],
+        channel = obj[CHANNEL_TITLE],
+        published_at = obj[PUBLISHED_AT],
+        url = get_youtube_url(obj[ID]),
+    )
 
 def gen_channel_groups(groups, video_data):
     html = []
@@ -171,7 +131,7 @@ def gen_debug(video_data):
 
 def get_template(filename):
     lookup = TemplateLookup(directories=['.'])
-    t = Template(filename=filename, lookup=lookup)
+    t = Template(filename="layouts/%s" % filename, lookup=lookup)
     return t
 
 def gen_channel_html(site, debug = False):
@@ -180,7 +140,7 @@ def gen_channel_html(site, debug = False):
         html += gen_debug(site.video_data)
     html += gen_channel_groups(site.groups, site.video_data)
 
-    t = get_template('layouts/channels.html')
+    t = get_template('channels.html')
     return t.render(content = '\n'.join(html))
 
 def gen_timeline_html(site):
@@ -188,6 +148,6 @@ def gen_timeline_html(site):
     html += gen_featured(site)
     html += gen_channel_groups(site.groups_by_time, site.video_data)
 
-    t = get_template('layouts/index.html')
+    t = get_template('index.html')
     return t.render(content = '\n'.join(html))
 
