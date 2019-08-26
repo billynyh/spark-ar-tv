@@ -8,24 +8,17 @@ from lib import util
 def get_youtube_url(id):
     return "https://youtube.com/watch?v=%s" % id
 
-def gen_video(obj):
-    title = obj[TITLE]
-    img = obj[THUMBNAIL_URL]
-    url = get_youtube_url(obj[ID])
-    channel = obj[CHANNEL_TITLE]
-    duration = obj[DURATION]
-    published_at = obj[PUBLISHED_AT]
-    channel_url = "https://www.youtube.com/channel/%s" % obj[CHANNEL_ID]
+def gen_video(video):
 
     t = get_template("_standard_video.html")
     return t.render(
-        title = title, 
-        url = url,
-        img = img,
-        channel = channel,
-        duration = duration,
-        published_at = published_at,
-        channel_url = channel_url,
+        title = video.title, 
+        url = video.video_url,
+        img = video.thumbnail_url,
+        channel = video.channel_title,
+        duration = video.duration,
+        published_at = video.published_at,
+        channel_url = video.channel_url,
     )
 
 def gen_group(group, video_data):
@@ -82,12 +75,12 @@ def gen_featured_col(ids, video_data, badge = ""):
 def gen_featured_video(obj, badge):
     t = get_template("_featured_video.html")
     return t.render(
-        img = obj[THUMBNAIL_URL], 
+        img = obj.thumbnail_url, 
         badge = badge,
-        title = obj[TITLE],
-        channel = obj[CHANNEL_TITLE],
-        published_at = obj[PUBLISHED_AT],
-        url = get_youtube_url(obj[ID]),
+        title = obj.title,
+        channel = obj.channel_title,
+        published_at = obj.published_at,
+        url = get_youtube_url(obj.id),
     )
 
 def gen_channel_groups(groups, video_data):

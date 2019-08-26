@@ -3,7 +3,6 @@ import sys
 import argparse
 
 import config
-from lib.const import *
 from lib.api import ApiDataLoader
 from lib.data_loader import load_site_config
 
@@ -22,7 +21,7 @@ def fetch_single(channel_id, keyword="spark", max_result=30):
 
 def fetch_all():
     site = load_site_config(config.DEVELOPER_KEY)
-    channels = set([(v[CHANNEL_ID], v[CHANNEL_TITLE]) for v in site.video_data.values()])
+    channels = set([(v.channel_id, v.channel_title) for v in site.video_data.values()])
     for channel in channels:
         print("# %s" % channel[1])
         fetch_single(channel[0], max_result=5)

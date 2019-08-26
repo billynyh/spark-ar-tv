@@ -2,6 +2,7 @@ import json
 
 from lib import text_util
 from lib.const import *
+from lib.model import Video
 
 def read_api_data(f):
     data = json.load(open(f))
@@ -18,25 +19,21 @@ def read_single_video_obj(item):
     snippet = item["snippet"]
     content_details = item["contentDetails"]
     stat = item["statistics"]
-
-    title = snippet["title"]
-    thumbnail_url = snippet["thumbnails"]["high"]["url"]
-    channel_id = snippet["channelId"]
-    channel_title = snippet["channelTitle"]
     raw_published_at = snippet["publishedAt"]
     raw_duration = content_details["duration"]
-    view_count = stat["viewCount"]
 
-    published_at = text_util.formate_date(raw_published_at)
-    duration = text_util.format_duration(raw_duration)
+    video = Video()
+
+    video.id = id
+    video.title = snippet["title"]
+    video.thumbnail_url = snippet["thumbnails"]["high"]["url"]
+    video.channel_id = snippet["channelId"]
+    video.channel_title = snippet["channelTitle"]
+    video.view_count = stat["viewCount"]
+
+    video.published_at = text_util.formate_date(raw_published_at)
+    video.duration = text_util.format_duration(raw_duration)
+    video.video_url = "https://youtube.com/watch?v=%s" % id
+    video.channel_url = "https://www.youtube.com/channel/%s" % video.channel_id
    
-    return {
-      ID: id,
-      TITLE: title,
-      THUMBNAIL_URL: thumbnail_url,
-      CHANNEL_ID: channel_id,
-      CHANNEL_TITLE: channel_title,
-      DURATION: duration,
-      VIEW_COUNT: view_count,
-      PUBLISHED_AT: published_at,
-    }
+    return video

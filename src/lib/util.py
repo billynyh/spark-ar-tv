@@ -31,5 +31,5 @@ def copy_all(src, dst):
         shutil.copy("%s/%s" % (src, f), "%s/%s" % (dst, f))
 
 def dump_video_list(ids, video_data):
-    return ["%s // %s" % (id, video_data[id][TITLE]) for id in ids]
+    return ["%s // %s" % (id, video_data[id].title) for id in ids]
 

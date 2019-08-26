@@ -51,7 +51,7 @@ def process_groups(groups, video_data):
 def sort_video_ids_by_time(ids, video_data):
     return sorted(
         ids,
-        key=lambda id: video_data[id][PUBLISHED_AT], 
+        key=lambda id: video_data[id].published_at, 
         reverse=True)
 
 def load_cache():
@@ -78,8 +78,7 @@ def load_video_data(ids, api_key):
 def filter_video_by_date(video_data, start_date, end_date):
     result = []
     for id,v in video_data.items():
-        published_at = v[PUBLISHED_AT] 
-        if start_date <= published_at and published_at < end_date:
+        if start_date <= v.published_at and v.published_at < end_date:
             result.append(id)
     return sort_video_ids_by_time(result, video_data)
 
@@ -129,7 +128,7 @@ def load_site_config(api_key):
 
 def sort_videos(video_data):
     ids = video_data.keys()
-    most_viewed = sorted(ids, key=lambda id: -int(video_data[id][VIEW_COUNT]))
-    latest = sorted(ids, key=lambda id: video_data[id][PUBLISHED_AT], reverse=True)
+    most_viewed = sorted(ids, key=lambda id: -int(video_data[id].view_count))
+    latest = sorted(ids, key=lambda id: video_data[id].published_at, reverse=True)
 
     return (most_viewed, latest)
