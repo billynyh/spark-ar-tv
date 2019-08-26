@@ -132,7 +132,11 @@ def gen_badge(text, cls):
     return '<div class="badge-container"><span class="badge %s">%s</span></div>' % (cls, text)
 
 # 7-col
-def gen_featured(most_viewed, latest, video_data):
+def gen_featured(site):
+    most_viewed = site.most_viewed
+    latest = site.latest
+    video_data = site.video_data
+
     new_badge = gen_badge("NEW", "badge-new")
     hot_badge = gen_badge("HOT", "badge-hot")
 
@@ -230,11 +234,11 @@ def gen_debug(video_data):
     return html
     
 
-def gen_html(groups, video_data, most_viewed, latest, debug = False):
+def gen_html(site, debug = False):
     html = [HTML_BEFORE]
-    html += gen_featured(most_viewed, latest, video_data)
+    html += gen_featured(site)
     if debug:
-        html += gen_debug(video_data)
-    html += gen_channel_groups(groups, video_data)
+        html += gen_debug(site.video_data)
+    html += gen_channel_groups(site.groups, site.video_data)
     html.append(HTML_AFTER)
     return '\n'.join(html)
