@@ -1,3 +1,4 @@
+from lib import data_loader
 from lib import util
 
 def test_extract_youtube_id():
@@ -13,3 +14,6 @@ def test_extract_youtube_id():
 
 if __name__ == "__main__":
     test_extract_youtube_id()
+
+    site = data_loader.load_site_config(None)
+    data_loader.group_by_time(site.video_data)

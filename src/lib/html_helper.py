@@ -1,4 +1,5 @@
 from lib.const import *
+from lib import data_loader
 from lib import util
 
 def get_youtube_url(id):
@@ -214,7 +215,7 @@ def gen_channel_groups(groups, video_data):
     return html
 
 def gen_debug(video_data):
-    (most_viewed, latest) = util.sort_videos(video_data)
+    (most_viewed, latest) = data_loader.sort_videos(video_data)
 
     NUM = 18
     debug_groups = [
@@ -232,7 +233,6 @@ def gen_debug(video_data):
     ]
     html += gen_channel_groups(debug_groups, video_data)
     return html
-    
 
 def gen_html(site, debug = False):
     html = [HTML_BEFORE]
@@ -240,5 +240,13 @@ def gen_html(site, debug = False):
     if debug:
         html += gen_debug(site.video_data)
     html += gen_channel_groups(site.groups, site.video_data)
+    html.append(HTML_AFTER)
+    return '\n'.join(html)
+
+def gen_timeline_html(site):
+    (most_viewed, latest) = data_loader.sort_videos(site.video_data)
+
+    html = [HTML_BEFORE]
+    html += gen_channel_groups(site.groups_by_time, site.video_data)
     html.append(HTML_AFTER)
     return '\n'.join(html)

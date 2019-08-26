@@ -30,13 +30,6 @@ def copy_all(src, dst):
     for f in os.listdir(src):
         shutil.copy("%s/%s" % (src, f), "%s/%s" % (dst, f))
 
-def sort_videos(video_data):
-    ids = video_data.keys()
-    most_viewed = sorted(ids, key=lambda id: -int(video_data[id][VIEW_COUNT]))
-    latest = sorted(ids, key=lambda id: video_data[id][PUBLISHED_AT], reverse=True)
-
-    return (most_viewed, latest)
-
 def dump_video_list(ids, video_data):
     return ["%s // %s" % (id, video_data[id][TITLE]) for id in ids]
 

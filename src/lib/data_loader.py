@@ -1,3 +1,6 @@
+import datetime
+
+from lib.api import ApiDataLoader
 from lib.const import *
 from lib.model import SiteConfig
 from lib import util
@@ -41,12 +44,15 @@ def process_groups(groups, video_data):
 
     # sort each group by publish date
     for group in result:
-        group[LIST] = sorted(
-            group[LIST], 
-            key=lambda id: video_data[id][PUBLISHED_AT], 
-            reverse=True)
+        group[LIST] = sort_video_ids_by_time(group[LIST], video_data)
     
     return result
+
+def sort_video_ids_by_time(ids, video_data):
+    return sorted(
+        ids,
+        key=lambda id: video_data[id][PUBLISHED_AT], 
+        reverse=True)
 
 def load_cache():
     cache_files = util.get_cache_files()
@@ -69,6 +75,37 @@ def load_video_data(ids, api_key):
   
     return data
 
+def filter_video_by_date(video_data, start_date, end_date):
+    result = []
+    for id,v in video_data.items():
+        published_at = v[PUBLISHED_AT] 
+        if start_date <= published_at and published_at < end_date:
+            result.append(id)
+    return sort_video_ids_by_time(result, video_data)
+
+def group_by_time(video_data):
+    dummy_start_date = datetime.date(2017, 7, 1)
+    start_date = datetime.date(2019, 7, 1)
+    today = datetime.date.today()
+    week = datetime.timedelta(weeks=1)
+
+    groups = [{
+        TITLE: "Previous Videos",
+        LIST: filter_video_by_date(video_data, dummy_start_date, start_date)
+    }]
+
+    while start_date <= today:
+        end_date = start_date + week
+        group = {
+            TITLE: "Week %s" % start_date,
+            LIST: filter_video_by_date(video_data, start_date, end_date)
+        }
+        
+        if len(group[LIST]) > 0:
+            groups.insert(0, group)
+        start_date = end_date
+    return groups
+
 def load_site_config(api_key):
     groups = parse(DATA_FILE)
     most_viewed = parse(MOST_VIEWED_DATA_FILE)[0][LIST]
@@ -87,4 +124,12 @@ def load_site_config(api_key):
     site.video_data = video_data
     site.most_viewed = most_viewed
     site.latest = latest
+    site.groups_by_time = group_by_time(video_data)
     return site
+
+def sort_videos(video_data):
+    ids = video_data.keys()
+    most_viewed = sorted(ids, key=lambda id: -int(video_data[id][VIEW_COUNT]))
+    latest = sorted(ids, key=lambda id: video_data[id][PUBLISHED_AT], reverse=True)
+
+    return (most_viewed, latest)
