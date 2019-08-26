@@ -1,4 +1,5 @@
 from mako.template import Template
+from mako.lookup import TemplateLookup
 
 from lib.const import *
 from lib import data_loader
@@ -6,16 +7,6 @@ from lib import util
 
 def get_youtube_url(id):
     return "https://youtube.com/watch?v=%s" % id
-
-HTML_BEFORE = """
-
-"""
-
-
-HTML_AFTER = """
-
-
-"""
 
 def gen_header(group):
     return '<div class="row"><h3>%s</h3></div>' % group[TITLE]
@@ -178,13 +169,18 @@ def gen_debug(video_data):
     html += gen_channel_groups(debug_groups, video_data)
     return html
 
+def get_template(filename):
+    lookup = TemplateLookup(directories=['.'])
+    t = Template(filename=filename, lookup=lookup)
+    return t
+
 def gen_channel_html(site, debug = False):
     html = []
     if debug:
         html += gen_debug(site.video_data)
     html += gen_channel_groups(site.groups, site.video_data)
 
-    t = Template(filename='layouts/base.html')
+    t = get_template('layouts/channels.html')
     return t.render(content = '\n'.join(html))
 
 def gen_timeline_html(site):
@@ -192,6 +188,6 @@ def gen_timeline_html(site):
     html += gen_featured(site)
     html += gen_channel_groups(site.groups_by_time, site.video_data)
 
-    t = Template(filename='layouts/base.html')
+    t = get_template('layouts/index.html')
     return t.render(content = '\n'.join(html))
 
