@@ -8,9 +8,6 @@ from lib import util
 def get_youtube_url(id):
     return "https://youtube.com/watch?v=%s" % id
 
-def gen_header(group):
-    return '<div class="row"><h3>%s</h3></div>' % group[TITLE]
-
 def gen_video(obj):
     title = obj[TITLE]
     img = obj[THUMBNAIL_URL]
@@ -34,15 +31,11 @@ def gen_video(obj):
 def gen_group(group, video_data):
     video_list = group[LIST]
 
-    html = [
-      gen_header(group),
-      '<div class="row">'
-    ]
+    html = []
     for vid in video_list:
         html.append(gen_video(video_data[vid]))
-    html.append('</div>')
-    
-    return html
+    t = get_template("_group.html")
+    return t.render(title = group[TITLE], content = '\n'.join(html))
 
 def gen_badge(text, cls):
     t = get_template("_featured_badge.html")
@@ -104,7 +97,7 @@ def gen_channel_groups(groups, video_data):
         <div class="container-fluid">
         """)
     for group in groups:
-        html += gen_group(group, video_data)
+        html.append(gen_group(group, video_data))
     html.append('</div></div>')
 
     return html
