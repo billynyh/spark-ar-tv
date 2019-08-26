@@ -5,8 +5,8 @@ import os.path
 
 import config
 import html_helper
-import util
 from api import DataLoader
+from lib import util
 from lib import yt_api_util
 from lib.const import *
 

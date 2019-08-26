@@ -1,5 +1,5 @@
 from lib.const import *
-import util
+from lib import util
 
 def get_youtube_url(id):
     return "https://youtube.com/watch?v=%s" % id

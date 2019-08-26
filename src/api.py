@@ -9,7 +9,7 @@ import google_auth_oauthlib.flow
 import googleapiclient.discovery
 import googleapiclient.errors
 
-import util
+from lib import util
 from lib import yt_api_util
 
 class DataLoader:

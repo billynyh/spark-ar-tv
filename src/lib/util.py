@@ -40,13 +40,3 @@ def sort_videos(video_data):
 def dump_video_list(ids, video_data):
     return ["%s // %s" % (id, video_data[id][TITLE]) for id in ids]
 
-if __name__ == "__main__":
-    tests = [
-        "IDI6xi9z3Zk",
-        "/watch?v=IDI6xi9z3Zk",
-        "/watch?v=IDI6xi9z3Zk //comment",
-        "/watch?v=IDI6xi9z3Zk&t=1",
-        "/watch?v=IDI6xi9z3Zk&t=1 //comment",
-    ]
-    for t in tests:
-        print(extract_youtube_id(t))
