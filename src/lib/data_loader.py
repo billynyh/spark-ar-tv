@@ -1,4 +1,5 @@
 from lib.const import *
+from lib.model import SiteConfig
 from lib import util
 from lib import yt_api_util
 
@@ -67,3 +68,23 @@ def load_video_data(ids, api_key):
         data.update(fetched_data)
   
     return data
+
+def load_site_config(api_key):
+    groups = parse(DATA_FILE)
+    most_viewed = parse(MOST_VIEWED_DATA_FILE)[0][LIST]
+    latest = parse(LATEST_DATA_FILE)[0][LIST]
+
+    all_youtube_ids = [id for g in groups for id in g[LIST]]
+    print("Num of videos: %s" % len(all_youtube_ids))
+
+    video_data = load_video_data(all_youtube_ids, api_key)
+
+    # merge and sort
+    groups = process_groups(groups, video_data)
+
+    site = SiteConfig()
+    site.groups = groups
+    site.video_data = video_data
+    site.most_viewed = most_viewed
+    site.latest = latest
+    return site
