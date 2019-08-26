@@ -1,6 +1,13 @@
 # Most viewed
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
 4-AtN6b2Xyc // How to create your own Instagram and Facebook Face Mask Filter
+Dbhy8C3aI_A // Spark AR Studio - Tutorial for beginners
 VvYa5yF38xQ // Spark AR - Instagram Effect Breakdown ("Automaton")
 -OC42XQM9kY // Spark AR: UI Interaction - Interactive with 2D objects
-Dbhy8C3aI_A // Spark AR Studio - Tutorial for beginners
+d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR
+cLQVGv8gG90 // Spark AR: Instagram Filters - How to use gifs as Sprite Sheets
+mit9xcOSsUQ // Spark AR: Instagram Filters - Animation Basics
+9HifpKbhI4w // Spark AR: Interacting with 3D objects
+S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
+lxF-ecbkbr4 // Color LUTs in Spark AR
+j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion

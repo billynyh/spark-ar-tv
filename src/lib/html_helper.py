@@ -135,10 +135,8 @@ def gen_badge(text, cls):
 # 7-col
 def gen_featured(site):
     most_viewed = site.most_viewed
-    latest = site.latest
     video_data = site.video_data
 
-    new_badge = gen_badge("NEW", "badge-new")
     hot_badge = gen_badge("HOT", "badge-hot")
 
     html = []
@@ -146,16 +144,16 @@ def gen_featured(site):
         <div class="container-fluid featured">
         <div class="row">
         """)
-    html += gen_featured_big_col(latest[0], video_data, new_badge)
-    html += gen_featured_col(latest[1:3], video_data, new_badge)
-    html += gen_featured_col(latest[3:5], video_data, new_badge)
     html += gen_featured_big_col(most_viewed[0], video_data, hot_badge)
     html += gen_featured_col(most_viewed[1:3], video_data, hot_badge)
+    html += gen_featured_col(most_viewed[3:5], video_data, hot_badge)
+    html += gen_featured_big_col(most_viewed[5], video_data)
+    html += gen_featured_col(most_viewed[6:8], video_data)
     html.append('</div></div>')
 
     return html
 
-def gen_featured_big_col(id, video_data, badge):
+def gen_featured_big_col(id, video_data, badge = ""):
     html = [
         '<div class="featured-col-2">',
         gen_featured_video(video_data[id], badge),
@@ -163,7 +161,7 @@ def gen_featured_big_col(id, video_data, badge):
     ]
     return html
 
-def gen_featured_col(ids, video_data, badge):
+def gen_featured_col(ids, video_data, badge = ""):
     html = [
         '<div class="featured-col-1">',
         gen_featured_video(video_data[ids[0]], badge),
@@ -234,9 +232,8 @@ def gen_debug(video_data):
     html += gen_channel_groups(debug_groups, video_data)
     return html
 
-def gen_html(site, debug = False):
+def gen_channel_html(site, debug = False):
     html = [HTML_BEFORE]
-    html += gen_featured(site)
     if debug:
         html += gen_debug(site.video_data)
     html += gen_channel_groups(site.groups, site.video_data)
@@ -244,9 +241,8 @@ def gen_html(site, debug = False):
     return '\n'.join(html)
 
 def gen_timeline_html(site):
-    (most_viewed, latest) = data_loader.sort_videos(site.video_data)
-
     html = [HTML_BEFORE]
+    html += gen_featured(site)
     html += gen_channel_groups(site.groups_by_time, site.video_data)
     html.append(HTML_AFTER)
     return '\n'.join(html)

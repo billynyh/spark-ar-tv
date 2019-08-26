@@ -20,20 +20,20 @@ def main():
     site = load_site_config(config.DEVELOPER_KEY)
 
     # Index html
-    html = html_helper.gen_html(site)
+    html = html_helper.gen_timeline_html(site)
     with open_out_file("index.html") as outfile:
         outfile.write(html)
         print("Generated %s" % outfile.name)
 
     # Debug html
-    html = html_helper.gen_html(site, debug = True)
+    html = html_helper.gen_channel_html(site, debug = True)
     with open_out_file("debug.html") as outfile:
         outfile.write(html)
         print("Generated %s" % outfile.name)
 
     # Group by published date html
-    html = html_helper.gen_timeline_html(site)
-    with open_out_file("timeline.html") as outfile:
+    html = html_helper.gen_channel_html(site)
+    with open_out_file("channels.html") as outfile:
         outfile.write(html)
         print("Generated %s" % outfile.name)
 
