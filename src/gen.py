@@ -5,9 +5,9 @@ import os.path
 
 import config
 import html_helper
-from api import DataLoader
 from lib import util
 from lib import yt_api_util
+from lib.api import ApiDataLoader
 from lib.const import *
 
 DATA_FILE = "data/data.txt"
@@ -74,7 +74,7 @@ def load_video_data(ids):
 
     if len(need_fetch) > 0:
         print("Start fetching %s video data" % len(need_fetch))
-        data_loader = DataLoader(config.DEVELOPER_KEY)
+        data_loader = ApiDataLoader(config.DEVELOPER_KEY)
         fetched_data = data_loader.fetch_all(need_fetch)
         data.update(fetched_data)
   

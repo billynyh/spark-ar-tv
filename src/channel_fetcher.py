@@ -3,13 +3,13 @@ import sys
 import argparse
 
 import config
-from api import DataLoader
+from lib.api import ApiDataLoader
 
 def get_video_id(item):
     return item['id']['videoId']
 
 def fetch(channel_id, keyword="spark", max_result=30):
-    data_loader = DataLoader(config.DEVELOPER_KEY)
+    data_loader = ApiDataLoader(config.DEVELOPER_KEY)
     response = data_loader.list_channel(channel_id, keyword, max_result)
     for item in response['items']:
         # exclude playlist

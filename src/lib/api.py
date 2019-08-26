@@ -12,7 +12,7 @@ import googleapiclient.errors
 from lib import util
 from lib import yt_api_util
 
-class DataLoader:
+class ApiDataLoader:
 
     def __init__(self, key):
         self.key = key
