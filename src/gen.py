@@ -23,6 +23,8 @@ def main():
     with open_out_file("index.html") as outfile:
         outfile.write(html)
         print("Generated %s" % outfile.name)
+
+    html = html_helper.gen_html(site, debug = True)
     with open_out_file("debug.html") as outfile:
         outfile.write(html)
         print("Generated %s" % outfile.name)

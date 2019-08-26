@@ -214,7 +214,7 @@ def gen_channel_groups(groups, video_data):
     return html
 
 def gen_debug(video_data):
-    (latest, most_viewed) = util.sort_videos(video_data)
+    (most_viewed, latest) = util.sort_videos(video_data)
 
     NUM = 18
     debug_groups = [
