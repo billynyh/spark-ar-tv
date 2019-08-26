@@ -39,49 +39,8 @@ def gen_featured(site):
     most_viewed = site.most_viewed
     video_data = site.video_data
 
-    hot_badge = gen_badge("HOT", "badge-hot")
-
-    html = []
-    html.append("""
-        <div class="container-fluid featured">
-        <div class="row">
-        """)
-    html += gen_featured_big_col(most_viewed[0], video_data, hot_badge)
-    html += gen_featured_col(most_viewed[1:3], video_data, hot_badge)
-    html += gen_featured_col(most_viewed[3:5], video_data, hot_badge)
-    html += gen_featured_big_col(most_viewed[5], video_data)
-    html += gen_featured_col(most_viewed[6:8], video_data)
-    html.append('</div></div>')
-
-    return html
-
-def gen_featured_big_col(id, video_data, badge = ""):
-    html = [
-        '<div class="featured-col-2">',
-        gen_featured_video(video_data[id], badge),
-        '</div>'
-    ]
-    return html
-
-def gen_featured_col(ids, video_data, badge = ""):
-    html = [
-        '<div class="featured-col-1">',
-        gen_featured_video(video_data[ids[0]], badge),
-        gen_featured_video(video_data[ids[1]], badge),
-        '</div>'
-    ]
-    return html
-
-def gen_featured_video(obj, badge):
-    t = get_template("_featured_video.html")
-    return t.render(
-        img = obj.thumbnail_url, 
-        badge = badge,
-        title = obj.title,
-        channel = obj.channel_title,
-        published_at = obj.published_at,
-        url = get_youtube_url(obj.id),
-    )
+    t = get_template("_featured_banner.html")
+    return [t.render(videos=[video_data[id] for id in most_viewed[0:8]])]
 
 def gen_channel_groups(groups, video_data):
     html = []

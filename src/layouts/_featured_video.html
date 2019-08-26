@@ -1,19 +1,21 @@
+<%page args="obj,badge"/>
 <div class="thumb-container">
-<a href="${url}">
+<a href="${obj.video_url}">
 <div class="thumb-wrapper">
-<img src="${img}" />
+<img src="${obj.thumbnail_url}" />
 </div>
-${badge}
+% if badge:
+<div class="badge-container"><span class="badge badge-hot">HOT</span></div>
+% endif
   <div class="thumb-footer">
     <div class="title">
-      ${title}
+      ${obj.title}
     </div>
     <div class="meta">
-      ${channel}
+      ${obj.channel_title}
       &bull;
-      ${published_at}
+      ${obj.published_at}
     </div>
   </div>
 </a>
 </div>
-
