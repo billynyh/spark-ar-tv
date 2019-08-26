@@ -2,13 +2,15 @@ import json
 import sys
 import argparse
 
-import api
+import config
+from api import DataLoader
 
 def get_video_id(item):
     return item['id']['videoId']
 
 def fetch(channel_id, keyword="spark", max_result=30):
-    response = api.list_channel(channel_id, keyword, max_result)
+    data_loader = DataLoader(config.DEVELOPER_KEY)
+    response = data_loader.list_channel(channel_id, keyword, max_result)
     for item in response['items']:
         # exclude playlist
         if item['id']['kind'] == "youtube#video":

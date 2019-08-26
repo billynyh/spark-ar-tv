@@ -3,11 +3,12 @@ import json
 import shutil
 import os.path
 
-import api
 import config
 import html_helper
 import util
-from const import *
+from api import DataLoader
+from lib import yt_api_util
+from lib.const import *
 
 DATA_FILE = "data/data.txt"
 LATEST_DATA_FILE = "data/latest.txt"
@@ -58,20 +59,23 @@ def process_groups(groups, video_data):
     
     return result
 
+def load_cache():
+    cache_files = util.get_cache_files()
+    data = {}
+    for id in cache_files:
+        file_path = util.get_cache_path(id)
+        data[id] = yt_api_util.read_single_video_json(file_path)
+    return data
+
 def load_video_data(ids):
     print("Load video data")
-    data = {}
-    need_fetch = []
-    cache_files = util.get_cache_files()
-    for id in ids:
-        if id in cache_files:
-            file_path = util.get_cache_path(id)
-            data[id] = util.read_single_video_json(file_path)
-        else:
-            need_fetch.append(id)
+    data = load_cache()
+    need_fetch = [id for id in ids if not id in data.keys()]
+
     if len(need_fetch) > 0:
         print("Start fetching %s video data" % len(need_fetch))
-        fetched_data = api.fetch_all(need_fetch)
+        data_loader = DataLoader(config.DEVELOPER_KEY)
+        fetched_data = data_loader.fetch_all(need_fetch)
         data.update(fetched_data)
   
     return data

@@ -1,4 +1,4 @@
-from const import *
+from lib.const import *
 import util
 
 def get_youtube_url(id):
