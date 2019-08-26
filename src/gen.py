@@ -4,7 +4,7 @@ import shutil
 import os.path
 
 import config
-import html_helper
+from lib import html_helper
 from lib import util
 from lib import yt_api_util
 from lib.api import ApiDataLoader
