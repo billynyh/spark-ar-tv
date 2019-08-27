@@ -1,11 +1,21 @@
-<%page args="videos"/>
+<%page args="ids,video_data"/>
 <div class="container-fluid featured">
 <div class="row">
-  <%include file="_featured_big_col.html" args="video=videos[0],badge=True" />
-  <%include file="_featured_col.html" args="video1=videos[1],video2=videos[2],badge=True" />
-  <%include file="_featured_col.html" args="video1=videos[3],video2=videos[4],badge=True" />
-  <%include file="_featured_big_col.html" args="video=videos[5]" />
-  <%include file="_featured_col.html" args="video1=videos[6],video2=videos[7]" />
+  <%include 
+      file="_featured_big_col.html" 
+      args="video=video_data[ids[0]],badge=True" />
+  <%include 
+      file="_featured_col.html" 
+      args="video1=video_data[ids[1]],video2=video_data[ids[2]],badge=True" />
+  <%include 
+      file="_featured_col.html" 
+      args="video1=video_data[ids[3]],video2=video_data[ids[4]],badge=True" />
+  <%include 
+      file="_featured_big_col.html" 
+      args="video=video_data[ids[5]]" />
+  <%include 
+      file="_featured_col.html" 
+      args="video1=video_data[ids[6]],video2=video_data[ids[7]]" />
 </div>
 </div>
 

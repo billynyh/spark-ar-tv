@@ -31,18 +31,6 @@ def gen_group(group, video_data):
     t = get_template("_group.html")
     return t.render(title = group.title, content = '\n'.join(html))
 
-def gen_badge(text, cls):
-    t = get_template("_featured_badge.html")
-    return t.render(cls = cls, text = text)
-
-# 7-col
-def gen_featured(site):
-    most_viewed = site.most_viewed
-    video_data = site.video_data
-
-    t = get_template("_featured_banner.html")
-    return [t.render(videos=[video_data[id] for id in most_viewed[0:8]])]
-
 def gen_channel_groups(groups, video_data):
     html = []
     html.append("""
@@ -91,9 +79,8 @@ def gen_channel_html(site, debug = False):
 
 def gen_timeline_html(site):
     html = []
-    html += gen_featured(site)
     html += gen_channel_groups(site.groups_by_time, site.video_data)
 
     t = get_template('index.html')
-    return t.render(content = '\n'.join(html))
+    return t.render(content = '\n'.join(html), site = site)
 

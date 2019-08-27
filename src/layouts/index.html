@@ -1,4 +1,7 @@
 <%inherit file="base.html" />
 
+<%include 
+    file="_featured_banner.html" 
+    args="ids=site.most_viewed,video_data=site.video_data" />
 ${content}
 
