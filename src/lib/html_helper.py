@@ -28,7 +28,7 @@ def gen_debug_html(site):
 
     debug_text = '\n'.join(dump_video_list)
 
-    t = get_template('channels.html')
+    t = get_template('debug.html')
     return t.render(site=site, debug_text=debug_text)
 
 def gen_channel_html(site):

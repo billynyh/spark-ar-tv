@@ -1,0 +1,20 @@
+<%page args="relative_path='.'" />
+<%def name="wrap(path)">${relative_path}/${path}</%def>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="${wrap('index.html')}">Spark AR TV</a>
+
+  <div class="collapse navbar-collapse" id="navbarColor01">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="${wrap('index.html')}">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="${wrap('channels.html')}">Channels</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://forum.sparkar.wiki/d/94-spark-ar-tv-unofficial-video-tutorial-collections">Suggest content</a>
+      </li>
+    </ul>
+  </div>
+</nav>

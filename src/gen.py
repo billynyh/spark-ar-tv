@@ -18,24 +18,15 @@ def open_out_file(name):
 
 def main():
     site = load_site_config(config.DEVELOPER_KEY)
-
-    # Index html
-    html = html_helper.gen_timeline_html(site)
-    with open_out_file("index.html") as outfile:
-        outfile.write(html)
-        print("Generated %s" % outfile.name)
-
-    # Debug html
-    html = html_helper.gen_debug_html(site)
-    with open_out_file("debug.html") as outfile:
-        outfile.write(html)
-        print("Generated %s" % outfile.name)
-
-    # Group by published date html
-    html = html_helper.gen_channel_html(site)
-    with open_out_file("channels.html") as outfile:
-        outfile.write(html)
-        print("Generated %s" % outfile.name)
+    pages = [
+        ("index.html", html_helper.gen_timeline_html(site)),
+        ("debug.html", html_helper.gen_debug_html(site)),
+        ("channels.html", html_helper.gen_channel_html(site)),
+    ]
+    for page in pages:
+        with open_out_file(page[0]) as outfile:
+            outfile.write(page[1])
+            print("Generated %s" % outfile.name)
 
     # Copy assets
     util.copy_all("assets", config.OUT_ASSETS_DIR)
