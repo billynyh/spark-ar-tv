@@ -23,6 +23,7 @@ def main():
         ("debug.html", html_helper.gen_debug_html(site)),
         ("channels.html", html_helper.gen_channel_html(site)),
     ]
+
     for page in pages:
         with open_out_file(page[0]) as outfile:
             outfile.write(page[1])
