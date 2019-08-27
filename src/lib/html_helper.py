@@ -2,6 +2,7 @@ from mako.template import Template
 from mako.lookup import TemplateLookup
 
 from lib.const import *
+from lib.model import Group
 from lib import data_loader
 from lib import util
 
@@ -22,13 +23,13 @@ def gen_video(video):
     )
 
 def gen_group(group, video_data):
-    video_list = group[LIST]
+    video_list = group.ids
 
     html = []
     for vid in video_list:
         html.append(gen_video(video_data[vid]))
     t = get_template("_group.html")
-    return t.render(title = group[TITLE], content = '\n'.join(html))
+    return t.render(title = group.title, content = '\n'.join(html))
 
 def gen_badge(text, cls):
     t = get_template("_featured_badge.html")
@@ -59,8 +60,8 @@ def gen_debug(video_data):
 
     NUM = 18
     debug_groups = [
-      {TITLE: "Latest", LIST: latest[:NUM]},
-      {TITLE: "Most Viewed", LIST: most_viewed[:NUM]},
+      Group("Latest", latest[:NUM]),
+      Group("Most Viewed", most_viewed[:NUM]),
     ]
 
     dump_video_list = ["# Latest"]

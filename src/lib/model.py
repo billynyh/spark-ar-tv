@@ -7,6 +7,14 @@ class SiteConfig:
     most_viewed = None
     latest = None
 
+class Group:
+    title = None
+    ids = None
+
+    def __init__(self, title = None, ids = None):
+        self.title = title
+        self.ids = ids
+
 class Video:
     id = None
     title = None

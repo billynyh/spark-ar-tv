@@ -2,7 +2,7 @@ import datetime
 
 from lib.api import ApiDataLoader
 from lib.const import *
-from lib.model import SiteConfig
+from lib.model import SiteConfig, Group
 from lib import util
 from lib import yt_api_util
 
@@ -19,12 +19,10 @@ def parse(file_path):
         if s.startswith("#"):
             if current_group:
                 groups.append(current_group)
-            current_group = {}
-            current_group[TITLE] = s[1:].strip()
-            current_group[LIST] = []
+            current_group = Group(title = s[1:].strip(), ids = [])
             continue
 
-        current_group[LIST].append(util.extract_youtube_id(s))
+        current_group.ids.append(util.extract_youtube_id(s))
     if current_group: 
         groups.append(current_group)
         
@@ -35,16 +33,16 @@ def process_groups(groups, video_data):
     result = []
     others = []
     for group in groups:
-        if len(group[LIST]) <= 2:
-            others += group[LIST]
+        if len(group.ids) <= 2:
+            others += group.ids
         else:
             result.append(group)
     if len(others) > 0:
-        result.append({TITLE: 'Others', LIST: others})
+        result.append(Group( 'Others', others))
 
     # sort each group by publish date
     for group in result:
-        group[LIST] = sort_video_ids_by_time(group[LIST], video_data)
+        group.ids = sort_video_ids_by_time(group.ids, video_data)
     
     return result
 
@@ -88,29 +86,29 @@ def group_by_time(video_data):
     today = datetime.date.today()
     week = datetime.timedelta(weeks=1)
 
-    groups = [{
-        TITLE: "Previous Videos",
-        LIST: filter_video_by_date(video_data, dummy_start_date, start_date)
-    }]
+    prev_videos = Group(
+        "Previous Videos",
+        filter_video_by_date(video_data, dummy_start_date, start_date)
+    )
+    groups = [prev_videos]
 
     while start_date <= today:
         end_date = start_date + week
-        group = {
-            TITLE: "Week %s" % start_date,
-            LIST: filter_video_by_date(video_data, start_date, end_date)
-        }
-        
-        if len(group[LIST]) > 0:
+        group = Group() 
+        group.title = "Week %s" % start_date
+        group.ids = filter_video_by_date(video_data, start_date, end_date)
+
+        if len(group.ids) > 0:
             groups.insert(0, group)
         start_date = end_date
     return groups
 
 def load_site_config(api_key):
     groups = parse(DATA_FILE)
-    most_viewed = parse(MOST_VIEWED_DATA_FILE)[0][LIST]
-    latest = parse(LATEST_DATA_FILE)[0][LIST]
+    most_viewed = parse(MOST_VIEWED_DATA_FILE)[0].ids
+    latest = parse(LATEST_DATA_FILE)[0].ids
 
-    all_youtube_ids = [id for g in groups for id in g[LIST]]
+    all_youtube_ids = [id for g in groups for id in g.ids]
     print("Num of videos: %s" % len(all_youtube_ids))
 
     video_data = load_video_data(all_youtube_ids, api_key)
