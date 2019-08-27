@@ -1,6 +1,12 @@
-<%page args="obj" />
+<%page args="obj,is_week=False" />
 <%namespace file="_utils.mako" import="asset" />
-<div class="vid-col col-xl-2 col-lg-3 col-sm-4">
+<%
+if is_week:
+    cls = "vid-col col-4"
+else:
+    cls = "vid-col col-xl-2 col-lg-3 col-sm-4"
+%>
+<div class="${cls}">
   <div class="vid">
     <div class="thumb-container">
       <div class="thumb-wrapper">

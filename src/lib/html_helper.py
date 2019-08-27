@@ -23,5 +23,5 @@ def gen_timeline_html(site):
 
 def gen_week_html(site, week, relative_path = ".."):
     t = get_template('week.html')
-    return t.render(site = site, week = week, relative_path = relative_path)
+    return t.render(site = site, week = week, relative_path = relative_path, is_week = True)
     
