@@ -6,44 +6,13 @@ from lib.model import Group
 from lib import data_loader
 from lib import util
 
-def get_youtube_url(id):
-    return "https://youtube.com/watch?v=%s" % id
+def get_template(filename):
+    lookup = TemplateLookup(directories=['.'])
+    t = Template(filename="layouts/%s" % filename, lookup=lookup)
+    return t
 
-def gen_video(video):
-
-    t = get_template("_standard_video.html")
-    return t.render(
-        title = video.title, 
-        url = video.video_url,
-        img = video.thumbnail_url,
-        channel = video.channel_title,
-        duration = video.duration,
-        published_at = video.published_at,
-        channel_url = video.channel_url,
-    )
-
-def gen_group(group, video_data):
-    video_list = group.ids
-
-    html = []
-    for vid in video_list:
-        html.append(gen_video(video_data[vid]))
-    t = get_template("_group.html")
-    return t.render(title = group.title, content = '\n'.join(html))
-
-def gen_channel_groups(groups, video_data):
-    html = []
-    html.append("""
-        <div class="content">
-        <div class="container-fluid">
-        """)
-    for group in groups:
-        html.append(gen_group(group, video_data))
-    html.append('</div></div>')
-
-    return html
-
-def gen_debug(video_data):
+def gen_debug_html(site):
+    video_data = site.video_data
     (most_viewed, latest) = data_loader.sort_videos(video_data)
 
     NUM = 18
@@ -57,30 +26,17 @@ def gen_debug(video_data):
     dump_video_list += ["", "# Most viewed"]
     dump_video_list += util.dump_video_list(most_viewed[:NUM], video_data)
 
-    html = [
-      '<textarea style="width:50%%; height:400px">%s</textarea>' % '\n'.join(dump_video_list)
-    ]
-    html += gen_channel_groups(debug_groups, video_data)
-    return html
-
-def get_template(filename):
-    lookup = TemplateLookup(directories=['.'])
-    t = Template(filename="layouts/%s" % filename, lookup=lookup)
-    return t
-
-def gen_channel_html(site, debug = False):
-    html = []
-    if debug:
-        html += gen_debug(site.video_data)
-    html += gen_channel_groups(site.groups, site.video_data)
+    debug_text = '\n'.join(dump_video_list)
 
     t = get_template('channels.html')
-    return t.render(content = '\n'.join(html))
+    return t.render(site=site, debug_text=debug_text)
+
+def gen_channel_html(site):
+    t = get_template('channels.html')
+    return t.render(site=site)
 
 def gen_timeline_html(site):
-    html = []
-    html += gen_channel_groups(site.groups_by_time, site.video_data)
 
     t = get_template('index.html')
-    return t.render(content = '\n'.join(html), site = site)
+    return t.render(site = site)
 

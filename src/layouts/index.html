@@ -3,5 +3,5 @@
 <%include 
     file="_featured_banner.html" 
     args="ids=site.most_viewed,video_data=site.video_data" />
-${content}
 
+<%include file="_groups.html" args="site=site,groups=site.groups_by_time" />

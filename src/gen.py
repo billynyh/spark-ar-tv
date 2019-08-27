@@ -26,7 +26,7 @@ def main():
         print("Generated %s" % outfile.name)
 
     # Debug html
-    html = html_helper.gen_channel_html(site, debug = True)
+    html = html_helper.gen_debug_html(site)
     with open_out_file("debug.html") as outfile:
         outfile.write(html)
         print("Generated %s" % outfile.name)

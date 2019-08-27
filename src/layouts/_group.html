@@ -1,6 +1,9 @@
+<%page args="group,video_data" />
 <div class="row">
-  <h3>${title}</h3>
+  <h3>${group.title}</h3>
 </div>
 <div class="row">
-  ${content}
+% for id in group.ids:
+  <%include file="_standard_video.html" args="obj=video_data[id]" />
+% endfor
 </div>

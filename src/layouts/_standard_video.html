@@ -1,23 +1,24 @@
+<%page args="obj" />
 <div class="vid-col col-xl-2 col-lg-3 col-sm-4">
   <div class="vid">
     <div class="thumb-container">
       <div class="thumb-wrapper">
-        <a href="${url}" target="_blank">
-          <img src="${img}">
+        <a href="${obj.video_url}" target="_blank">
+          <img src="${obj.thumbnail_url}">
           <span class="play-button">
             <img src="assets/youtube-play5.png" />
           </span>
         </a>
       </div>
-      <span class="thumb-label">${duration}</span>
+      <span class="thumb-label">${obj.duration}</span>
     </div>
     <div class="title">
-      <a href="${url}">${title}</a>
+      <a href="${obj.video_url}">${obj.title}</a>
     </div>
     <div class="meta">
-      <a href="${channel_url}">${channel}</a>
+      <a href="${obj.channel_url}">${obj.channel_title}</a>
       &bull;
-      ${published_at}
+      ${obj.published_at}
     </div>
   </div>
 </div>

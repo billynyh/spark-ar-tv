@@ -1,0 +1,8 @@
+<%page args="site,groups" />
+<div class="content">
+<div class="container-fluid">
+% for group in groups:
+<%include file="_group.html" args="group=group, video_data=site.video_data" />
+% endfor
+</div>
+</div>
