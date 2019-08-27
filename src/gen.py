@@ -16,13 +16,22 @@ from lib.const import *
 def open_out_file(name):
     return open("%s/%s" % (config.OUT_DIR, name), "w")
 
+def week_pages(site):
+    pages = []
+    for week in site.groups_by_time:
+        if not week.title.startswith("Week "):
+            continue
+        path = "weeks/%s.html" % week.title[5:] 
+        pages.append((path, html_helper.gen_week_html(site, week)))
+    return pages
+
 def main():
     site = load_site_config(config.DEVELOPER_KEY)
     pages = [
         ("index.html", html_helper.gen_timeline_html(site)),
         ("debug.html", html_helper.gen_debug_html(site)),
         ("channels.html", html_helper.gen_channel_html(site)),
-    ]
+    ] + week_pages(site)
 
     for page in pages:
         with open_out_file(page[0]) as outfile:

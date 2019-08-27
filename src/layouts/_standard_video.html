@@ -1,4 +1,5 @@
 <%page args="obj" />
+<%namespace file="_utils.mako" import="asset" />
 <div class="vid-col col-xl-2 col-lg-3 col-sm-4">
   <div class="vid">
     <div class="thumb-container">
@@ -6,7 +7,7 @@
         <a href="${obj.video_url}" target="_blank">
           <img src="${obj.thumbnail_url}">
           <span class="play-button">
-            <img src="assets/youtube-play5.png" />
+            <img src="${asset('youtube-play5.png')}" />
           </span>
         </a>
       </div>

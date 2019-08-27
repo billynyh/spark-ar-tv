@@ -1,16 +1,15 @@
-<%page args="relative_path='.'" />
-<%def name="wrap(path)">${relative_path}/${path}</%def>
+<%namespace file="_utils.mako" import="wrap,asset" />
 <!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta property="og:image" content="assets/logo.png"/>
+    <meta property="og:image" content="${asset('logo.png')}"/>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="${wrap('assets/style.css')}">
+    <link rel="stylesheet" href="${asset('style.css')}">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39524040-2"></script>
@@ -28,7 +27,7 @@
   </head>
   <body>
  
-  <%include file="_nav.html" args="relative_path=relative_path" />
+  <%include file="_nav.html" />
 
 ${next.body()}
 
