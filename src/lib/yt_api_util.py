@@ -27,10 +27,16 @@ def read_single_video_obj(item):
     video.id = id
     video.title = snippet["title"]
     video.thumbnail_url = snippet["thumbnails"]["high"]["url"]
-    video.highres_thumbnail_url = snippet["thumbnails"]["standard"]["url"]
     video.channel_id = snippet["channelId"]
     video.channel_title = snippet["channelTitle"]
     video.view_count = stat["viewCount"]
+
+    if snippet["thumbnails"].get("standard"):
+        video.highres_thumbnail_url = snippet["thumbnails"]["standard"]["url"]
+    elif snippet["thumbnails"].get("maxres"):
+        video.highres_thumbnail_url = snippet["thumbnails"]["maxres"]["url"]
+    else:
+        video.highres_thumbnail_url = video.thumbnail_url
 
     video.published_at = text_util.formate_date(raw_published_at)
     video.duration = text_util.format_duration(raw_duration)

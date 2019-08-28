@@ -20,10 +20,18 @@ def chunks(l, n):
 
 
 def get_cache_files():
-    return os.listdir(config.CACHE_DIR)
+    files = os.listdir(config.CACHE_DIR)
+    files.remove("images")
+    return files
 
 def get_cache_path(id):
     return "%s/%s" % (config.CACHE_DIR, id)
+
+def get_cache_images():
+    return os.listdir("%s/images" % config.CACHE_DIR)
+
+def get_cache_image_path(id): 
+    return "%s/images/%s" % (config.CACHE_DIR, id)
 
 # copy all files inside src to dst, non recursive
 def copy_all(src, dst):

@@ -103,7 +103,7 @@ def group_by_time(video_data):
         start_date = end_date
     return groups
 
-def load_site_config(api_key):
+def load_site_config(api_key = None):
     groups = parse(DATA_FILE)
     most_viewed = parse(MOST_VIEWED_DATA_FILE)[0].ids
     latest = parse(LATEST_DATA_FILE)[0].ids
