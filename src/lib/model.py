@@ -19,6 +19,7 @@ class Video:
     id = None
     title = None
     thumbnail_url = None
+    highres_thumbnail_url = None
     channel_id = None
     channel_title = None
     channel_url = None
