@@ -3,11 +3,16 @@ body {
   background:#c2c2c2;
 }
 
+a, a:hover {
+  color: #222222;
+  text-decoration: none;
+}
+
+
 /* reset grid padding */
 .content .row .vid-col {
   padding:4px;
 }
-
 
 .content {
   width:90%;
