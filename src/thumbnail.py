@@ -1,7 +1,10 @@
 import urllib.request
 import shutil
 
+import config
 from lib import data_loader, util
+from lib.data_loader import load_site_config
+from lib import image_helper
 
 def download_all(video_data):
     caches = util.get_cache_images()
@@ -17,3 +20,9 @@ def download_all(video_data):
 if __name__ == "__main__":
     site = data_loader.load_site_config()
     download_all(site.video_data)
+    site = load_site_config(config.DEVELOPER_KEY)
+    for g in site.groups_by_time:
+        img = image_helper.group_thumbnail_collage(site, g.ids)
+        outfile = "%s/assets/banner/%s.jpg" % (config.OUT_DIR, g.slug)
+        img.save(outfile, "JPEG")
+        print("Saved %s" % outfile)

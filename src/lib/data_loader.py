@@ -38,7 +38,7 @@ def process_groups(groups, video_data):
         else:
             result.append(group)
     if len(others) > 0:
-        result.append(Group( 'Others', others))
+        result.append(Group('Others', others))
 
     # sort each group by publish date
     for group in result:
@@ -94,9 +94,9 @@ def group_by_time(video_data):
 
     while start_date <= today:
         end_date = start_date + week
-        group = Group() 
-        group.title = "Week %s" % start_date
-        group.ids = filter_video_by_date(video_data, start_date, end_date)
+        title = "Week %s" % start_date
+        ids = filter_video_by_date(video_data, start_date, end_date)
+        group = Group(title, ids) 
 
         if len(group.ids) > 0:
             groups.insert(0, group)

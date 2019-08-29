@@ -9,11 +9,13 @@ class SiteConfig:
 
 class Group:
     title = None
+    slug = None
     ids = None
 
-    def __init__(self, title = None, ids = None):
+    def __init__(self, title, ids):
         self.title = title
         self.ids = ids
+        self.slug = title.lower().replace(" ", "-")
 
 class Video:
     id = None
