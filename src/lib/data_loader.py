@@ -53,10 +53,10 @@ def sort_video_ids_by_time(ids, video_data):
         reverse=True)
 
 def load_cache():
-    cache_files = util.get_cache_files()
+    cache_files = util.get_cache_json_files()
     data = {}
     for id in cache_files:
-        file_path = util.get_cache_path(id)
+        file_path = util.get_cache_json_path(id)
         data[id] = yt_api_util.read_single_video_json(file_path)
     return data
 

@@ -23,6 +23,6 @@ if __name__ == "__main__":
     site = load_site_config(config.DEVELOPER_KEY)
     for g in site.groups_by_time:
         img = image_helper.group_thumbnail_collage(site, g.ids)
-        outfile = "%s/assets/banner/%s.jpg" % (config.OUT_DIR, g.slug)
+        outfile = util.get_group_banner_path(g)
         img.save(outfile, "JPEG")
         print("Saved %s" % outfile)

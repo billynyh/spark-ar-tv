@@ -26,6 +26,8 @@ def week_pages(site):
     return pages
 
 def main():
+    util.prepare_cache()
+
     site = load_site_config(config.DEVELOPER_KEY)
     pages = [
         ("index.html", html_helper.gen_timeline_html(site)),

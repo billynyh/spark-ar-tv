@@ -52,7 +52,7 @@ class ApiDataLoader:
         data = {}
         for item in response.get('items'):
             id = item["id"]
-            file_path = util.get_cache_path(id)
+            file_path = util.get_cache_json_path(id)
             with open(file_path, "w") as outfile:
                 print("Write to %s" % outfile.name)
                 json.dump(item, outfile)

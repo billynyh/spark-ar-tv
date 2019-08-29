@@ -2,6 +2,7 @@ from mako.template import Template
 from mako.lookup import TemplateLookup
 
 from lib import debug_util
+from lib import util
 
 def get_template(filename):
     lookup = TemplateLookup(directories=['.'])
@@ -23,5 +24,10 @@ def gen_timeline_html(site):
 
 def gen_week_html(site, week, relative_path = ".."):
     t = get_template('week.html')
-    return t.render(site = site, week = week, relative_path = relative_path, is_week = True)
+    return t.render(
+        site = site, 
+        week = week, 
+        relative_path = relative_path, 
+        is_week = True,
+        og_image = util.get_group_banner_path(week))
     

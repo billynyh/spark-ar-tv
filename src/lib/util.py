@@ -18,14 +18,22 @@ def chunks(l, n):
     for i in range(0, len(l), n):
         yield l[i:i + n]
 
+def prepare_cache():
+    caches = [
+        config.CACHE_DIR, 
+        "%s/json" % config.CACHE_DIR, 
+        "%s/images" % config.CACHE_DIR
+    ]
+    for c in caches:
+        if not os.path.exists(c):
+            os.mkdir(c)
 
-def get_cache_files():
-    files = os.listdir(config.CACHE_DIR)
-    files.remove("images")
+def get_cache_json_files():
+    files = os.listdir("%s/json" % config.CACHE_DIR)
     return files
 
-def get_cache_path(id):
-    return "%s/%s" % (config.CACHE_DIR, id)
+def get_cache_json_path(id):
+    return "%s/json/%s" % (config.CACHE_DIR, id)
 
 def get_cache_images():
     return os.listdir("%s/images" % config.CACHE_DIR)
@@ -41,3 +49,6 @@ def copy_all(src, dst):
 def dump_video_list(ids, video_data):
     return ["%s // %s" % (id, video_data[id].title) for id in ids]
 
+def get_group_banner_path(g):
+    return "%s/assets/banner/%s.jpg" % (config.OUT_DIR, g.slug)
+    
