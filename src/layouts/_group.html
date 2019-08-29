@@ -1,6 +1,14 @@
-<%page args="group,video_data" />
+<%page args="group,video_data,link_to_group=False" />
+<%
+from lib import util
+group_page_url = "%s/%s" % (context.get('relative_path', '.'), util.week_page_path(group))
+%>
 <div class="row">
+% if link_to_group:
+  <h3><a href="${group_page_url}">${group.title}</a></h3>
+% else:
   <h3>${group.title}</h3>
+% endif
 </div>
 <div class="row">
 % for id in group.ids:

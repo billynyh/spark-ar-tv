@@ -19,9 +19,7 @@ def open_out_file(name):
 def week_pages(site):
     pages = []
     for week in site.groups_by_time:
-        if not week.title.startswith("Week "):
-            continue
-        path = "weeks/%s.html" % week.title[5:] 
+        path = util.week_page_path(week)
         pages.append((path, html_helper.gen_week_html(site, week)))
     return pages
 

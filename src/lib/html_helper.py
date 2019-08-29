@@ -20,7 +20,7 @@ def gen_channel_html(site):
 
 def gen_timeline_html(site):
     t = get_template('index.html')
-    return t.render(site = site)
+    return t.render(site = site, link_to_group = True)
 
 def gen_week_html(site, week, relative_path = ".."):
     t = get_template('week.html')

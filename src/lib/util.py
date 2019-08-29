@@ -51,4 +51,7 @@ def dump_video_list(ids, video_data):
 
 def get_group_banner_path(g):
     return "%s/assets/banner/%s.jpg" % (config.OUT_DIR, g.slug)
-    
+
+def week_page_path(week):
+    return "weeks/%s.html" % week.slug
+
