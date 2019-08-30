@@ -1,4 +1,6 @@
-cache
 config.py
+
+_cache
+_out
 __pycache__
 *.swp

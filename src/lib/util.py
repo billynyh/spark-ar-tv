@@ -3,7 +3,7 @@ import re
 import os
 import shutil
 
-import config
+from site_config import CACHE_DIR
 from lib.const import *
 
 def extract_youtube_id(s):
@@ -20,26 +20,26 @@ def chunks(l, n):
 
 def prepare_cache():
     caches = [
-        config.CACHE_DIR, 
-        "%s/json" % config.CACHE_DIR, 
-        "%s/images" % config.CACHE_DIR
+        CACHE_DIR, 
+        "%s/json" % CACHE_DIR, 
+        "%s/images" % CACHE_DIR
     ]
     for c in caches:
         if not os.path.exists(c):
             os.mkdir(c)
 
 def get_cache_json_files():
-    files = os.listdir("%s/json" % config.CACHE_DIR)
+    files = os.listdir("%s/json" % CACHE_DIR)
     return files
 
 def get_cache_json_path(id):
-    return "%s/json/%s" % (config.CACHE_DIR, id)
+    return "%s/json/%s" % (CACHE_DIR, id)
 
 def get_cache_images():
-    return os.listdir("%s/images" % config.CACHE_DIR)
+    return os.listdir("%s/images" % CACHE_DIR)
 
 def get_cache_image_path(id): 
-    return "%s/images/%s" % (config.CACHE_DIR, id)
+    return "%s/images/%s" % (CACHE_DIR, id)
 
 # copy all files inside src to dst, non recursive
 def copy_all(src, dst):
@@ -49,8 +49,11 @@ def copy_all(src, dst):
 def dump_video_list(ids, video_data):
     return ["%s // %s" % (id, video_data[id].title) for id in ids]
 
-def get_group_banner_path(g):
-    return "%s/assets/banner/%s.jpg" % (config.OUT_DIR, g.slug)
+def get_group_banner_path(out_dir, g):
+    return "%s/assets/banner/%s.jpg" % (out_dir, g.slug)
+
+def get_group_banner_url(config, g):
+    return "%s/assets/banner/%s.jpg" % (config.site_url, g.slug)
 
 def week_page_path(week):
     return "weeks/%s.html" % week.slug

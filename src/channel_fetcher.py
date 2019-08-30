@@ -2,9 +2,9 @@ import json
 import sys
 import argparse
 
-import config
+from site_config import DEVELOPER_KEY
 from lib.api import ApiDataLoader
-from lib.data_loader import load_site_config
+from lib.data_loader import load_site_data
 
 class Item:
     def __init__(self, id, title):
@@ -16,7 +16,7 @@ def get_video_id(item):
     return item['id']['videoId']
 
 def fetch_single_channel(channel_id, all_ids, new_only, keyword="spark", max_result=30):
-    data_loader = ApiDataLoader(config.DEVELOPER_KEY)
+    data_loader = ApiDataLoader(DEVELOPER_KEY)
     response = data_loader.list_channel(channel_id, keyword, max_result)
     result = []
     for item in response['items']:
@@ -31,7 +31,7 @@ def fetch_single_channel(channel_id, all_ids, new_only, keyword="spark", max_res
     return result
 
 def fetch_all(new_only = True):
-    site = load_site_config(config.DEVELOPER_KEY)
+    site = load_site_data(DEVELOPER_KEY)
     all_ids = set(site.video_data.keys())
     channels = set([(v.channel_id, v.channel_title) for v in site.video_data.values()])
     result = []

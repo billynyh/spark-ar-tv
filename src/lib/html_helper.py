@@ -22,12 +22,13 @@ def gen_timeline_html(site):
     t = get_template('index.html')
     return t.render(site = site, link_to_group = True)
 
-def gen_week_html(site, week, relative_path = ".."):
+def gen_week_html(site, page, week, relative_path = ".."):
     t = get_template('week.html')
     return t.render(
-        site = site, 
+        site = site,
+        page = page,
         week = week, 
         relative_path = relative_path, 
         is_week = True,
-        og_image = util.get_group_banner_path(week))
+        og_image = page.og_image)
     
