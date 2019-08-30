@@ -76,4 +76,4 @@ def main(prod=False):
         gen_site(site, config)
 
 if __name__ == "__main__":
-    main()
+    main(prod=True)
