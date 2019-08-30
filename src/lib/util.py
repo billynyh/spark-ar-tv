@@ -55,6 +55,9 @@ def get_group_banner_path(out_dir, g):
 def get_group_banner_url(config, g):
     return "%s/assets/banner/%s.jpg" % (config.site_url, g.slug)
 
+def get_logo_url(config):
+    return "%s/assets/logo.png" % (config.site_url)
+
 def week_page_path(week):
     return "weeks/%s.html" % week.slug
 

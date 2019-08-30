@@ -1,9 +1,11 @@
 
 class GeneratorConfig:
-    def __init__(self, site_url, out_dir):
+    def __init__(self, site_url, site_title, site_description, out_dir):
         self.site_url = site_url
         self.out_dir = out_dir
         self.out_assets_dir = "%s/assets" % out_dir
+        self.site_title = site_title
+        self.site_description = site_description
 
 class SiteConfig:
     video_data = None
@@ -14,8 +16,9 @@ class SiteConfig:
     url = None
 
 class PageConfig:
-    def __init__(self, title, og_image):
+    def __init__(self, title, description, og_image):
         self.title = title
+        self.description = description
         self.og_image = og_image
 
 class Group:

@@ -1,10 +1,12 @@
 <%
 from lib.mako_util import asset
-if context.get('og_image'):
-    og_image = context.get('og_image')
-else:
-    og_image = asset(context, 'logo.png')
+config = context.get('config')
+page = context.get('page')
+
+og_image = page.og_image
 style_css = asset(context, 'style.css')
+title = page.title
+description = page.description
 %>
 <!doctype html>
 <html lang="en">
@@ -12,6 +14,8 @@ style_css = asset(context, 'style.css')
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property="og:title" content="${title}"/>
+    <meta property="og:description" content="${description}"/>
     <meta property="og:image" content="${og_image}"/>
 
     <!-- Bootstrap CSS -->
@@ -29,7 +33,7 @@ style_css = asset(context, 'style.css')
     </script>
 
 
-    <title>Spark AR TV</title>
+    <title>${title}</title>
 
   </head>
   <body>

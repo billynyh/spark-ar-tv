@@ -22,17 +22,37 @@ def week_pages(site, config):
         path = util.week_page_path(week)
         page_config = PageConfig(
             title = "%s | Spark AR TV" % week.title,
+            description = config.site_description,
             og_image = util.get_group_banner_url(config, week)
         )
         pages.append((path, html_helper.gen_week_html(site, page_config, week)))
     return pages
 
+def standard_pages(site, config):
+    index_page_config = PageConfig(
+        title = config.site_title,
+        description = config.site_description,
+        og_image = util.get_logo_url(config)
+    )
+    debug_page_config = PageConfig(
+        title = config.site_title,
+        description = config.site_description,
+        og_image = util.get_logo_url(config)
+    )
+    channel_page_config = PageConfig(
+        title = config.site_title,
+        description = config.site_description,
+        og_image = util.get_logo_url(config)
+    )
+    
+    return [
+        ("index.html", html_helper.gen_timeline_html(site, index_page_config)),
+        ("debug.html", html_helper.gen_debug_html(site, debug_page_config)),
+        ("channels.html", html_helper.gen_channel_html(site, channel_page_config)),
+    ]
+
 def gen_site(site, config):
-    pages = [
-        ("index.html", html_helper.gen_timeline_html(site)),
-        ("debug.html", html_helper.gen_debug_html(site)),
-        ("channels.html", html_helper.gen_channel_html(site)),
-    ] + week_pages(site, config)
+    pages = standard_pages(site, config) + week_pages(site, config)
 
     for page in pages:
         with open_out_file(config.out_dir, page[0]) as outfile:
