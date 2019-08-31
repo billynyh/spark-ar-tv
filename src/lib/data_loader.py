@@ -27,7 +27,11 @@ def parse(file_path):
         groups.append(current_group)
         
     return groups
-    
+ 
+def parse_skip_file(file_path):
+    f = open(file_path)
+    return [line.strip() for line in f.readlines() if line.strip()]
+
 def process_groups(groups, video_data):
     # merge all groups with less than 2 vid to Others
     result = []
@@ -123,6 +127,9 @@ def load_site_data(api_key = None):
     site.latest = latest
     site.groups_by_time = group_by_time(video_data)
     return site
+
+def load_skip_ids():
+    return parse_skip_file(SKIP_FILE)
 
 def sort_videos(video_data):
     ids = video_data.keys()
