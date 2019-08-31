@@ -65,8 +65,9 @@ def load_cache():
 
 def load_video_data(ids, api_key):
     print("Load video data")
-    data = load_cache()
-    need_fetch = [id for id in ids if not id in data.keys()]
+    all_data = load_cache()
+    need_fetch = [id for id in ids if not id in all_data.keys()]
+    data = {id:all_data[id] for id in ids if id in all_data}
 
     if len(need_fetch) > 0:
         print("Start fetching %s video data" % len(need_fetch))
@@ -108,8 +109,17 @@ def group_by_time(video_data):
 
 def load_site_data(config, api_key = None):
     groups = parse(config.get_data_file())
-    most_viewed = parse(config.get_most_viewed_data_file())[0].ids
-    latest = parse(config.get_latest_data_file())[0].ids
+    most_viewed_data = parse(config.get_most_viewed_data_file())
+    if len(most_viewed_data) > 0:
+        most_viewed = most_viewed_data[0].ids
+    else:
+        most_viewed = []
+
+    latest_data = parse(config.get_latest_data_file())
+    if len(latest_data) > 0:
+        latest = latest_data[0].ids
+    else:
+        latest = []
 
     all_youtube_ids = [id for g in groups for id in g.ids]
     print("Num of videos: %s" % len(all_youtube_ids))

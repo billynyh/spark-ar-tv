@@ -32,7 +32,7 @@ def fetch_single_channel(channel_id, all_ids, skip_ids, new_only, keyword="spark
             result.append(data)
     return result
 
-def fetch_all(config, new_only = True):
+def fetch_all(config, new_only = True, keyword="spark", max_result=10):
     site = load_site_data(config, DEVELOPER_KEY)
     all_ids = set(site.video_data.keys())
     skip_ids = set(load_skip_ids(config))
@@ -40,7 +40,7 @@ def fetch_all(config, new_only = True):
     result = []
     for channel in channels:
         print("Fetching %s..." % channel[1])
-        items = fetch_single_channel(channel[0], all_ids, skip_ids, new_only, max_result=5)
+        items = fetch_single_channel(channel[0], all_ids, skip_ids, new_only, max_result=max_result)
         if len(items) > 0:
             result.append((channel[1], items))
     
@@ -60,9 +60,8 @@ if __name__=="__main__":
     parser.add_argument('--keyword', '-k', type=str)
     parser.add_argument('--max', '-m', type=int)
     args = parser.parse_args()
-    args = vars(args)
 
-    if args['id'] is None:
-        fetch_all(LOCAL_CONFIG)
+    if args.id is None:
+        fetch_all(LOCAL_CONFIG, keyword = args.keyword, max_result = args.max)
     else:
-        fetch_single(args['id'], keyword = args['keyword'], max_result = args['max'])
+        fetch_single(args.id, keyword = args.keyword, max_result = args.max)
