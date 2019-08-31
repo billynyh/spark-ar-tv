@@ -1,3 +1,4 @@
+import argparse
 import pprint
 import json
 import shutil
@@ -76,4 +77,7 @@ def main(prod=False):
         gen_site(site, config)
 
 if __name__ == "__main__":
-    main(prod=True)
+    parser = argparse.ArgumentParser(description='Site generation')
+    parser.add_argument('--prod', action='store_true')
+    args = parser.parse_args()
+    main(prod=args.prod)
