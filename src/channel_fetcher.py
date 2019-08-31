@@ -2,7 +2,7 @@ import json
 import sys
 import argparse
 
-from site_config import DEVELOPER_KEY
+from site_config import DEVELOPER_KEY, LOCAL_CONFIG
 from lib.api import ApiDataLoader
 from lib.data_loader import load_site_data, load_skip_ids
 
@@ -32,10 +32,10 @@ def fetch_single_channel(channel_id, all_ids, skip_ids, new_only, keyword="spark
             result.append(data)
     return result
 
-def fetch_all(new_only = True):
-    site = load_site_data(DEVELOPER_KEY)
+def fetch_all(config, new_only = True):
+    site = load_site_data(config, DEVELOPER_KEY)
     all_ids = set(site.video_data.keys())
-    skip_ids = set(load_skip_ids())
+    skip_ids = set(load_skip_ids(config))
     channels = set([(v.channel_id, v.channel_title) for v in site.video_data.values()])
     result = []
     for channel in channels:
@@ -63,6 +63,6 @@ if __name__=="__main__":
     args = vars(args)
 
     if args['id'] is None:
-        fetch_all()
+        fetch_all(LOCAL_CONFIG)
     else:
         fetch_single(args['id'], keyword = args['keyword'], max_result = args['max'])

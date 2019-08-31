@@ -20,7 +20,7 @@ def download_all(video_data):
 if __name__ == "__main__":
     config = site_config.LOCAL_CONFIG
 
-    site = data_loader.load_site_data()
+    site = data_loader.load_site_data(config)
     download_all(site.video_data)
     for g in site.groups_by_time:
         img = image_helper.group_thumbnail_collage(site, g.ids)

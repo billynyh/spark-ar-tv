@@ -4,7 +4,6 @@ import os
 import shutil
 
 from site_config import CACHE_DIR
-from lib.const import *
 
 def extract_youtube_id(s):
     s = re.sub(' //.*$', '', s)

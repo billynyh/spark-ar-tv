@@ -1,7 +1,6 @@
 import datetime
 
 from lib.api import ApiDataLoader
-from lib.const import *
 from lib.model import SiteConfig, Group
 from lib import util
 from lib import yt_api_util
@@ -107,10 +106,10 @@ def group_by_time(video_data):
         start_date = end_date
     return groups
 
-def load_site_data(api_key = None):
-    groups = parse(DATA_FILE)
-    most_viewed = parse(MOST_VIEWED_DATA_FILE)[0].ids
-    latest = parse(LATEST_DATA_FILE)[0].ids
+def load_site_data(config, api_key = None):
+    groups = parse(config.get_data_file())
+    most_viewed = parse(config.get_most_viewed_data_file())[0].ids
+    latest = parse(config.get_latest_data_file())[0].ids
 
     all_youtube_ids = [id for g in groups for id in g.ids]
     print("Num of videos: %s" % len(all_youtube_ids))
@@ -128,8 +127,8 @@ def load_site_data(api_key = None):
     site.groups_by_time = group_by_time(video_data)
     return site
 
-def load_skip_ids():
-    return parse_skip_file(SKIP_FILE)
+def load_skip_ids(config):
+    return parse_skip_file(config.get_skip_file())
 
 def sort_videos(video_data):
     ids = video_data.keys()

@@ -11,8 +11,6 @@ from lib import yt_api_util
 from lib.api import ApiDataLoader
 from lib.data_loader import load_site_data
 from lib.model import SiteConfig, PageConfig
-from lib.const import *
-
 
 def open_out_file(out_dir, name):
     return open("%s/%s" % (out_dir, name), "w")
@@ -67,12 +65,12 @@ def gen_site(site, config):
 def main(prod=False):
     util.prepare_cache()
 
-    site = load_site_data(site_config.DEVELOPER_KEY)
     configs = [site_config.LOCAL_CONFIG]
     if prod:
         configs.append(site_config.PROD_CONFIG)
 
     for config in configs:
+        site = load_site_data(config, site_config.DEVELOPER_KEY)
         site.url = config.site_url
         gen_site(site, config)
 

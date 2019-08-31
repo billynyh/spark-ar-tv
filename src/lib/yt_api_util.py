@@ -1,7 +1,6 @@
 import json
 
 from lib import text_util
-from lib.const import *
 from lib.model import Video
 
 def read_api_data(f):
