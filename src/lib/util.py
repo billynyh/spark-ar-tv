@@ -56,6 +56,10 @@ def copy_all_assets(config):
 def dump_video_list(ids, video_data):
     return ["%s // %s" % (id, video_data[id].title) for id in ids]
 
+def banner_generated(out_dir, g):
+    path = get_group_banner_path(out_dir, g)
+    return os.path.exists(path)
+
 def get_group_banner_path(out_dir, g):
     return "%s/assets/banner/%s.jpg" % (out_dir, g.slug)
 

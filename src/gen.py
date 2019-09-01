@@ -21,8 +21,11 @@ def week_pages(site, config):
         path = util.week_page_path(week)
         page_config = PageConfig()
         page_config.title = "%s | Spark AR TV" % week.title,
-        page_config.description = config.site_config.page_config.description,
-        page_config.og_image = util.get_group_banner_url(config, week)
+        page_config.description = config.site_config.page_config.description
+        if util.banner_generated(config.out_dir, week):
+            page_config.og_image = util.get_group_banner_url(config, week)
+        else:
+            page_config.og_image = util.get_logo_url(config)
 
         pages.append((path, html_helper.gen_week_html(site, page_config, week)))
     return pages
