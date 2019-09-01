@@ -1,6 +1,7 @@
 <%
 from lib.mako_util import wrap, wrap_lang, all_languages
-
+site = context.get('site')
+current_lang = site.lang
 %>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="${wrap_lang(context, 'index.html')}">Spark AR TV</a>
@@ -15,8 +16,9 @@ from lib.mako_util import wrap, wrap_lang, all_languages
     </ul>
     <ul class="navbar-nav float-right">
 			% for lang in all_languages(context):
+      <% cls = "active" if lang[0] == current_lang else "" %>
       <li class="nav-item">
-        <a class="nav-link" href="${wrap(context, lang[0])}">${lang[1]}</a>
+        <a class="nav-link ${cls}" href="${wrap(context, lang[0])}">${lang[1]}</a>
       </li>
 			% endfor
       <li class="nav-item">

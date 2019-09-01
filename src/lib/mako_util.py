@@ -14,8 +14,10 @@ DISPLAY_NAME = {
   'es': 'Spanish',
   'pt': 'Portuguese',
   'ru': 'Russian',
+  'global': 'All Languages',
 }
 
 def all_languages(context):
     site_config = context.get('site').site_config
-    return [(lang, DISPLAY_NAME[lang]) for lang in site_config.languages]
+    langs = site_config.languages + ['global']
+    return [(lang, DISPLAY_NAME[lang]) for lang in langs]
