@@ -30,7 +30,7 @@ def parse(file_path):
  
 def parse_skip_file(file_path):
     f = open(file_path)
-    return [line.strip() for line in f.readlines() if line.strip()]
+    return [util.extract_youtube_id(line.strip()) for line in f.readlines() if line.strip()]
 
 def process_groups(groups, video_data):
     # merge all groups with less than 2 vid to Others
@@ -156,8 +156,9 @@ def load_global_vide(config):
     video_data = load_video_data(all_youtube_ids, api_key)
     return video_data
 
-def load_skip_ids(config):
-    return parse_skip_file(config.get_skip_file())
+def load_skip_ids(data_dir):
+    ph = PathHelper(data_dir)
+    return parse_skip_file(ph.get_skip_file())
 
 def sort_videos(video_data):
     ids = video_data.keys()
