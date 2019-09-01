@@ -1,14 +1,14 @@
 # Luke Hurd
-/watch?v=CkVPmixUqGA&t=2s
-/watch?v=_DHYSYVqMow
-/watch?v=b5rw9Ypo7dY
-/watch?v=mit9xcOSsUQ
-/watch?v=WWddZJflU0g&t=161s
-/watch?v=awJsJzTP4Dc
-/watch?v=CvVhlCBInvI
-/watch?v=VvYa5yF38xQ&t=266s
-/watch?v=cLQVGv8gG90&t=11s
-/watch?v=j7klMWrJFHs&t=14s
+/watch?v=CkVPmixUqGA&t=2s //Spark AR: Instagram Filters - Getting Started: The Facemesh
+/watch?v=_DHYSYVqMow //Spark AR: Instagram Filters - Getting Started: The Basics
+/watch?v=b5rw9Ypo7dY //Spark AR: Instagram Filter - How to convert an mp3 for use in a filter
+/watch?v=mit9xcOSsUQ //Spark AR: Instagram Filters - Animation Basics
+/watch?v=WWddZJflU0g&t=161s //Spark AR: Instagram Filters - Import ANY video for testing!
+/watch?v=awJsJzTP4Dc //Spark AR: Instagram Filters - Face Deformation
+/watch?v=CvVhlCBInvI //Spark AR: Instagram Effect Breakdown ("Wichita")
+/watch?v=VvYa5yF38xQ&t=248s //Spark AR - Instagram Effect Breakdown ("Automaton")
+/watch?v=cLQVGv8gG90&t=11s //Spark AR: Instagram Filters - How to use gifs as Sprite Sheets
+/watch?v=j7klMWrJFHs&t=1s //Spark AR: Instagram Filters - “Hole in the head” with Occlusion
 
 # Josh Beckwith
 Lx2ImQ_MMWE // Spark AR Tap to Change
@@ -36,16 +36,16 @@ vzy_feLMzO4 // Spark AR: Blinking Game Q&amp;A
 /watch?v=Dbhy8C3aI_A //Spark AR Studio - Tutorial for beginners
 
 # Yegor K
-https://www.youtube.com/watch?v=ZOX7L57woco
-/watch?v=n3ZXo7GUiAo 
-/watch?v=6rcTbfrVyWo
-/watch?v=d1_IFyIKy-w
+/watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+/watch?v=n3ZXo7GUiAo //Spark AR Toon Shader
+/watch?v=6rcTbfrVyWo&t=173s //Spark AR MatCap shader
+/watch?v=d1_IFyIKy-w //Realistic glitter makeup mask in Spark AR
 
 # Robbie C
-/watch?v=l2pdFe5YdZ8
-/watch?v=5iBG-RVwDEc
-/watch?v=CvJt8-naobg
-/watch?v=REqpibMDZv4
+/watch?v=l2pdFe5YdZ8&t=8s //Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
+/watch?v=5iBG-RVwDEc //Spark AR Studio - Gold Tutorial : How To Make Gold ?
+/watch?v=CvJt8-naobg //Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
+/watch?v=REqpibMDZv4 //Spark AR Studio - Segmentation Tutorial : How To Change Background ?
 
 # Francesco Laterza
 /watch?v=RhtnsgegE1A //Sparkar Studio (V69) - Tap to Change Background and Add instructions
@@ -81,17 +81,17 @@ VW29sr7S-gU // Spark AR
 
 
 # Manhsplains
-/watch?v=azOum82EbM0
-/watch?v=p_JvPoPpLVg
+/watch?v=azOum82EbM0&t=5s //Manhsplains: Spark AR tutorial to fix weird face mesh artifacting around the mouth and eyes
+/watch?v=p_JvPoPpLVg //Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
 
 # Alex Dohotaru
-https://www.youtube.com/watch?v=0aWK8mXwBwM
+/watch?v=0aWK8mXwBwM //Occluder Planes SparkAR Tutorial
 
 # nice dream
-/watch?v=oVJHordzMXo
+/watch?v=oVJHordzMXo&t=83s //Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
 
 # Estefannie Explains It All
-https://www.youtube.com/watch?v=LDbmH8pyjjY
+/watch?v=LDbmH8pyjjY&t=6s //MAKE YOUR OWN INSTAGRAM FILTER IN 10 MINUTES
 
 # OnaMadderz
 BYjxsecEbiI // Spark AR - Track Multiple Faces
@@ -113,7 +113,7 @@ BYjxsecEbiI // Spark AR - Track Multiple Faces
 
 
 # AlwaysCoding Something
-gxQHNpwte3c
+/watch?v=gxQHNpwte3c&t=1s //How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
 
 # Lol & Epic
 /watch?v=l3kcupzw6-w //Epic edit filtering IG / Spark AR , Adobe Photoshop

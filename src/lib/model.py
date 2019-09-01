@@ -1,4 +1,4 @@
-
+import re
 # Config object
 
 class GeneratorConfig2:
@@ -40,6 +40,7 @@ class Site:
     groups_by_time = []
     most_viewed = []
     latest = []
+    topics = []
 
 class Group:
     title = None
@@ -49,7 +50,10 @@ class Group:
     def __init__(self, title, ids):
         self.title = title
         self.ids = ids
-        self.slug = title.lower().replace(" ", "-")
+        slug = title.lower()
+        for c in "/!@#$%^&*()":
+            slug = slug.replace(c, "")
+        self.slug = re.sub(r" +", "-", slug)
 
 class Video:
     id = None

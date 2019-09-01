@@ -1,0 +1,61 @@
+# Tap to change
+Lx2ImQ_MMWE // Spark AR Tap to Change
+/watch?v=RhtnsgegE1A //Sparkar Studio (V69) - Tap to Change Background and Add instructions
+/watch?v=JahuumWeWbI&t=24s //Tap to change / Add instructions - Spark AR beginner tutorial
+/watch?v=O3-c0c8XJWQ //#3 Tutorial Filtros com Toque para Alterar - Tap to Change | Spark AR Brasil
+/watch?v=yn3tzPMo0OY //Spark AR Studio Instagram Filters - Changing Glasses with Tap on Screen
+0bO1zazFUsM // Spark AR. Смена объектов по Тапу (Screen Tap). Уроки работы в Patch Editor. Trecking 2 Face.
+eDLvXDEK7us // Spark AR. Смена эффекта/цвета по Тапу (Screen Tap). Как создать маску в инстаграм. Цвет губ.
+/watch?v=Nz_ntJqRCfc //Spark AR Tutorial Instagram en Español | SCREEN TAP
+/watch?v=G38CHTTKUxA //Spark AR Tutorial: Screen Tap Experience
+
+# Native UI
+/watch?v=IJFodki_4uI&t=12s //Native UI Sparkar [Instagram only]
+/watch?v=xJXzh_ePbdI //Spark AR Native UI. Tutorial de como adicionar Native UI ao seu filtro!
+/watch?v=BP9QkRjiOOE //Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
+
+# Face deformation
+/watch?v=awJsJzTP4Dc //Spark AR: Instagram Filters - Face Deformation
+/watch?v=7lx9iNagJ6o //Sparkar Studio -  Deformation Face
+
+# Audio
+/watch?v=Cbd7kOepfLk //Spark AR Effect Development: Radiance Audio FX
+/watch?v=b5rw9Ypo7dY //Spark AR: Instagram Filter - How to convert an mp3 for use in a filter
+
+# LUT
+/watch?v=tp12y4ex2W8 //Color LUTs in Spark AR part 2
+/watch?v=lxF-ecbkbr4 //Color LUTs in Spark AR
+/watch?v=UjTQinvM_hk //Turn any preset or LUT into instagram effects. Spark AR tutorial
+/watch?v=cVBzIKQJzZc //Spark AR: LUT Patch [PT-BR] - por @aliencandies
+/watch?v=7pCKxzNX4sE //😎 Ваши Фильтры, Пресеты и LUT в SPARK AR 🔥Fast Color LUT Patch from Josh Beckwith. CUBE, 3DL=PNG
+/watch?v=j0n-DYLkZkQ //КАК СДЕЛАТЬ СВОЙ ФИЛЬТР В INSTAGRAM \\ LUTS in SPARK AR
+
+# Segmentation
+/watch?v=ZnYjohCVT_U //Spark AR Body Segmentation
+/watch?v=REqpibMDZv4 //Spark AR Studio - Segmentation Tutorial : How To Change Background ?
+/watch?v=yVjb6iBHFo8 //Body Segmentation with SparkAr Studio
+TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
+/watch?v=f5uA87D4xL8 //Spark AR Mudando o background. Tutorial de como remover o fundo da sua foto com segmentação!
+/watch?v=qKj6tSOolqk //Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación -
+/watch?v=Q_iQCbm02w8 //Spark AR Studio - Gradientes en un fondo 2D, en la textura de cámara y Segmentation.
+/watch?v=CUDt2FXFGwM //Spark AR Tutorial Segmentation & Camera texture
+
+# Animation / Gif
+/watch?v=mit9xcOSsUQ //Spark AR: Instagram Filters - Animation Basics
+/watch?v=cLQVGv8gG90&t=11s //Spark AR: Instagram Filters - How to use gifs as Sprite Sheets
+/watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+/watch?v=_Pj8nYKHEkc //[SPARKAR STUDIO TUTORIAL] Create/Rig/Animate/Augment a Character
+S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
+ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+mit9xcOSsUQ // Spark AR: Instagram Filters - Animation Basics
+S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
+NAlLn2tBZ2w // Как делать маски в Инстаграм на основе Gif Animation , Spark AR studio. Mask based on GIF Animation
+/watch?v=jaUYruyFUC0 //Spark AR Studio - Gradiente multicolor, animado
+
+# Occluder / Occlusion
+/watch?v=j7klMWrJFHs&t=1s //Spark AR: Instagram Filters - “Hole in the head” with Occlusion
+_UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
+/watch?v=0aWK8mXwBwM //Occluder Planes SparkAR Tutorial
+/watch?v=LVrlXIwUgkw //Instagram Spark AR Como adicionar um óculos com Head Occluder
+j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark Ar. Уроки по созданию маски в инстаграм.
+

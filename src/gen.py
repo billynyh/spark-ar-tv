@@ -40,6 +40,21 @@ def standard_pages(site, config):
         ("channels.html", html_helper.gen_channel_html(site, page_config)),
     ]
 
+def topic_pages(site, config):
+    pages = []
+    for topic in site.topics:
+        path = util.topic_page_path(topic)
+        page_config = PageConfig()
+        page_config.title = "%s | Spark AR TV" % topic.title
+        page_config.description = config.site_config.page_config.description
+        if util.banner_generated(config.out_dir, topic):
+            page_config.og_image = util.get_group_banner_url(config, topic)
+        else:
+            page_config.og_image = util.get_logo_url(config)
+
+        pages.append((path, html_helper.gen_topic_html(site, page_config, topic)))
+    return pages
+
 def single_lang_site(config, lang):
     site = load_site_data(
         config, 
@@ -52,11 +67,13 @@ def single_lang_site(config, lang):
 
 def gen_lang_site(site, config):
     lang = site.lang
-    pages = standard_pages(site, config) + week_pages(site, config)
+    pages = standard_pages(site, config) + week_pages(site, config) + topic_pages(site, config)
 
     out_dir = "%s/%s" % (config.out_dir, lang)
     util.mkdir(out_dir)
     util.mkdir("%s/weeks" % out_dir)
+    if site.topics:
+        util.mkdir("%s/topics" % out_dir)
 
     for page in pages:
         with open_out_file(out_dir, page[0]) as outfile:
@@ -74,6 +91,7 @@ def gen_global_site(config):
     all_youtube_ids = [id for g in site.groups for id in g.ids]
     site.video_data = load_video_data(all_youtube_ids, site_config.DEVELOPER_KEY)
     site.groups_by_time = group_by_time(site.video_data)
+    site.topics = parse("data/topics.txt")
 
     gen_lang_site(site, config)
 

@@ -72,3 +72,5 @@ def get_logo_url(config):
 def week_page_path(week):
     return "weeks/%s.html" % week.slug
 
+def topic_page_path(topic):
+    return "topics/%s.html" % topic.slug

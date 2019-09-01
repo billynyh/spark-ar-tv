@@ -22,12 +22,19 @@ def gen_timeline_html(site, page):
     t = get_template('index.html')
     return t.render(site = site, page = page, link_to_group = True)
 
-def gen_week_html(site, page, week, relative_path = ".."):
+def gen_week_html(site, page, week):
     t = get_template('week.html')
     return t.render(
         site = site,
         page = page,
         week = week, 
-        relative_path = relative_path, 
-        is_week = True)
+        large_thumb= True)
+    
+def gen_topic_html(site, page, topic):
+    t = get_template('topic.html')
+    return t.render(
+        site = site,
+        page = page,
+        topic = topic, 
+        large_thumb = True)
     

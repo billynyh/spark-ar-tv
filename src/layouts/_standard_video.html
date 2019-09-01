@@ -1,8 +1,8 @@
-<%page args="obj,is_week=False" />
+<%page args="obj,large_thumb=False" />
 <%
 from lib.mako_util import asset
 play_icon = asset(context, 'youtube-play5.png')
-if is_week:
+if large_thumb:
     cls = "vid-col col-3"
     thumbnail_url = obj.highres_thumbnail_url
 else:
