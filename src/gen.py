@@ -19,60 +19,55 @@ def week_pages(site, config):
     pages = []
     for week in site.groups_by_time:
         path = util.week_page_path(week)
-        page_config = PageConfig(
-            title = "%s | Spark AR TV" % week.title,
-            description = config.site_description,
-            og_image = util.get_group_banner_url(config, week)
-        )
+        page_config = PageConfig()
+        page_config.title = "%s | Spark AR TV" % week.title,
+        page_config.description = config.site_config.page_config.description,
+        page_config.og_image = util.get_group_banner_url(config, week)
+
         pages.append((path, html_helper.gen_week_html(site, page_config, week)))
     return pages
 
 def standard_pages(site, config):
-    index_page_config = PageConfig(
-        title = config.site_title,
-        description = config.site_description,
-        og_image = util.get_logo_url(config)
-    )
-    debug_page_config = PageConfig(
-        title = config.site_title,
-        description = config.site_description,
-        og_image = util.get_logo_url(config)
-    )
-    channel_page_config = PageConfig(
-        title = config.site_title,
-        description = config.site_description,
-        og_image = util.get_logo_url(config)
-    )
+    page_config = PageConfig(config.site_config.page_config)
+    page_config.og_image = util.get_logo_url(config)
     
     return [
-        ("index.html", html_helper.gen_timeline_html(site, index_page_config)),
-        ("debug.html", html_helper.gen_debug_html(site, debug_page_config)),
-        ("channels.html", html_helper.gen_channel_html(site, channel_page_config)),
+        ("index.html", html_helper.gen_timeline_html(site, page_config)),
+        ("debug.html", html_helper.gen_debug_html(site, page_config)),
+        ("channels.html", html_helper.gen_channel_html(site, page_config)),
     ]
 
-def gen_site(site, config):
+def gen_lang_site(site, config, lang):
     pages = standard_pages(site, config) + week_pages(site, config)
 
+    out_dir = "%s/%s" % (config.out_dir, lang)
+    util.mkdir(out_dir)
+    util.mkdir("%s/weeks" % out_dir)
+
     for page in pages:
-        with open_out_file(config.out_dir, page[0]) as outfile:
+        with open_out_file(out_dir, page[0]) as outfile:
             outfile.write(page[1])
             print("Generated %s" % outfile.name)
+    
+
+def gen_site(config):
+    for lang in config.site_config.languages:
+        site = load_site_data(
+            config, 
+            path = "data/%s" % lang,
+            api_key = site_config.DEVELOPER_KEY)
+        site.url = config.site_config.url
+        gen_lang_site(site, config, lang)
 
     # Copy assets
-    util.copy_all("assets", config.out_assets_dir)
+    util.copy_all_assets(config)
 
 
 def main(prod=False):
     util.prepare_cache()
 
-    configs = [site_config.LOCAL_CONFIG]
-    if prod:
-        configs.append(site_config.PROD_CONFIG)
-
-    for config in configs:
-        site = load_site_data(config, site_config.DEVELOPER_KEY)
-        site.url = config.site_url
-        gen_site(site, config)
+    config = site_config.generator
+    gen_site(config)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Site generation')

@@ -16,6 +16,6 @@ def test_extract_youtube_id():
 if __name__ == "__main__":
     test_extract_youtube_id()
 
-    config = site_config.LOCAL_CONFIG
-    site = data_loader.load_site_data(config)
+    config = site_config.generator
+    site = data_loader.load_site_data(config, site_config.DEVELOPER_KEY)
     data_loader.group_by_time(site.video_data)
