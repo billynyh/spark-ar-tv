@@ -1,0 +1,16 @@
+<%page args="nav_groups,current_item" />
+<%
+from lib.mako_util import wrap_lang
+%>
+% for nav in nav_groups:
+<ul class="list-group">
+  % for item in nav:
+  <% 
+  cls = "active" if item.title == current_item else "" 
+  %>
+  <li class="list-group-item ${cls}">
+    <a href="${wrap_lang(context, item.path)}">${item.title}</a>
+  </li>
+  % endfor
+</ul>
+% endfor

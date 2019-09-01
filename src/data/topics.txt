@@ -19,8 +19,11 @@ eDLvXDEK7us // Spark AR. Смена эффекта/цвета по Тапу (Scr
 /watch?v=7lx9iNagJ6o //Sparkar Studio -  Deformation Face
 
 # Audio
+/watch?v=66sEjC1-y3A&t=1s //Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
 /watch?v=Cbd7kOepfLk //Spark AR Effect Development: Radiance Audio FX
 /watch?v=b5rw9Ypo7dY //Spark AR: Instagram Filter - How to convert an mp3 for use in a filter
+/watch?v=Av3vkCKOQZA //СВОЯ МАСКА В INSTAGRAM! \\ СВЕТЯЩИЕСЯ ГЛАЗА \\ ДОБАВЛЕНИЕ МУЗЫКИ \\ Spark AR
+/watch?v=dXN1fIwQPns //Cómo hacer filtros de instagram con música Tutorial Spark AR
 
 # LUT
 /watch?v=tp12y4ex2W8 //Color LUTs in Spark AR part 2
@@ -39,15 +42,18 @@ TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 /watch?v=qKj6tSOolqk //Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación -
 /watch?v=Q_iQCbm02w8 //Spark AR Studio - Gradientes en un fondo 2D, en la textura de cámara y Segmentation.
 /watch?v=CUDt2FXFGwM //Spark AR Tutorial Segmentation & Camera texture
+/watch?v=RhtnsgegE1A //Sparkar Studio (V69) - Tap to Change Background and Add instructions
+/watch?v=T1dFtHmRIlI //How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
+/watch?v=19GXplPMD-U //Spark AR Instagram Filters - How to Change Filter Background
+/watch?v=Yj0EOIK7mNk //Spark AR studio lessons. Lessons 2 - create mask-background. How to create your mask Instagram
+/watch?v=J5xiL-4ebis //Как создать маску в Инстаграм? Видеоурок 2. Делаем маску фон
+/watch?v=4sZc4mH_bOI //Cómo crear efectos o filtros para Instagram con Spark AR | Cambiar el fondo
 
 # Animation / Gif
 /watch?v=mit9xcOSsUQ //Spark AR: Instagram Filters - Animation Basics
 /watch?v=cLQVGv8gG90&t=11s //Spark AR: Instagram Filters - How to use gifs as Sprite Sheets
 /watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
 /watch?v=_Pj8nYKHEkc //[SPARKAR STUDIO TUTORIAL] Create/Rig/Animate/Augment a Character
-S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
-ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
-mit9xcOSsUQ // Spark AR: Instagram Filters - Animation Basics
 S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
 NAlLn2tBZ2w // Как делать маски в Инстаграм на основе Gif Animation , Spark AR studio. Mask based on GIF Animation
 /watch?v=jaUYruyFUC0 //Spark AR Studio - Gradiente multicolor, animado
@@ -58,4 +64,20 @@ _UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
 /watch?v=0aWK8mXwBwM //Occluder Planes SparkAR Tutorial
 /watch?v=LVrlXIwUgkw //Instagram Spark AR Como adicionar um óculos com Head Occluder
 j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark Ar. Уроки по созданию маски в инстаграм.
+
+# 3D model
+/watch?v=9HifpKbhI4w //Spark AR: Interacting with 3D objects
+/watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+/watch?v=gxQHNpwte3c&t=1s //How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
+/watch?v=Z5qrCrQaLX0 //Spark AR studio lessons. Lessons 3 - 3D object. How to create your mask Instagram
+/watch?v=cpLXrctYrik&t=9s //Spark AR Studio - Efectos de Lentes - Objetos 3D
+/watch?v=YUisaRUrAms //Урок 11 -  Создание маски с 3D объектами Spark AR
+/watch?v=EVwmDDDgJM4 //Урок 10  -  Где брать 3D объекты Spark AR
+
+# Particles
+/watch?v=p_JvPoPpLVg //Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
+/watch?v=TGYCM2-0aG0 //Instagram Spark AR partículas saindo dos olhos e particle system com PNG.
+/watch?v=Ves_bHGQuPo //Spark AR Studio Instagram Filters - Working with Particles
+/watch?v=cjtQ8YDA7_E //Урок 9 -  Работа с системой частиц Spark AR
+TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 

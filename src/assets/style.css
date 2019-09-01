@@ -20,6 +20,17 @@ a, a:hover {
   padding-top:20px;
 }
 
+/* sidebar */
+.list-group-item {
+  background:none;
+}
+.list-group-item.active {
+  background:none;
+  font-weight: bold;
+  border-color:#444444;
+}
+
+/* video */
 .vid {
   margin-bottom: 20px;
   line-height: 16px;

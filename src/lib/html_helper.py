@@ -35,6 +35,14 @@ def gen_topic_html(site, page, topic):
     return t.render(
         site = site,
         page = page,
-        topic = topic, 
+        topic = topic,
+        topic_nav = get_topic_nav(site),
         large_thumb = True)
-    
+
+class NavItem:
+    def __init__(self, title, path):
+        self.title = title
+        self.path = path
+
+def get_topic_nav(site):
+    return [NavItem(t.title, util.topic_page_path(t)) for t in site.topics]

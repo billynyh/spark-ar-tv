@@ -92,6 +92,8 @@ def gen_global_site(config):
     site.video_data = load_video_data(all_youtube_ids, site_config.DEVELOPER_KEY)
     site.groups_by_time = group_by_time(site.video_data)
     site.topics = parse("data/topics.txt")
+    for topic in site.topics:
+        topic.ids = sort_video_ids_by_time(topic.ids, site.video_data)
 
     gen_lang_site(site, config)
 
