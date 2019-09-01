@@ -144,6 +144,18 @@ def load_site_data(config, path="data/en", api_key = None):
     site.groups_by_time = group_by_time(video_data)
     return site
 
+def load_global_groups(config):
+    groups = []
+    for lang in config.site_config.languages:
+        ph = PathHelper("data/%s" % lang)
+        groups += parse(ph.get_data_file())
+    return groups
+
+def load_global_vide(config):
+    all_youtube_ids = [id for g in groups for id in g.ids]
+    video_data = load_video_data(all_youtube_ids, api_key)
+    return video_data
+
 def load_skip_ids(config):
     return parse_skip_file(config.get_skip_file())
 

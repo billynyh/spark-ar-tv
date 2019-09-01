@@ -9,8 +9,8 @@ from lib import html_helper
 from lib import util
 from lib import yt_api_util
 from lib.api import ApiDataLoader
-from lib.data_loader import load_site_data
-from lib.model import SiteConfig, PageConfig
+from lib.data_loader import *
+from lib.model import SiteConfig, PageConfig, Site
 
 def open_out_file(out_dir, name):
     return open("%s/%s" % (out_dir, name), "w")
@@ -37,7 +37,18 @@ def standard_pages(site, config):
         ("channels.html", html_helper.gen_channel_html(site, page_config)),
     ]
 
-def gen_lang_site(site, config, lang):
+def single_lang_site(config, lang):
+    site = load_site_data(
+        config, 
+        path = "data/%s" % lang,
+        api_key = site_config.DEVELOPER_KEY)
+    site.url = config.site_config.url
+    site.site_config = config.site_config
+    site.lang = lang
+    return site
+
+def gen_lang_site(site, config):
+    lang = site.lang
     pages = standard_pages(site, config) + week_pages(site, config)
 
     out_dir = "%s/%s" % (config.out_dir, lang)
@@ -48,17 +59,27 @@ def gen_lang_site(site, config, lang):
         with open_out_file(out_dir, page[0]) as outfile:
             outfile.write(page[1])
             print("Generated %s" % outfile.name)
-    
+
+def gen_global_site(config):
+    site = Site()
+    site.video_data = None
+    site.url = config.site_config.url
+    site.site_config = config.site_config
+    site.lang = "global"
+    site.groups = load_global_groups(config)
+
+    all_youtube_ids = [id for g in site.groups for id in g.ids]
+    site.video_data = load_video_data(all_youtube_ids, site_config.DEVELOPER_KEY)
+    site.groups_by_time = group_by_time(site.video_data)
+
+    gen_lang_site(site, config)
 
 def gen_site(config):
     for lang in config.site_config.languages:
-        site = load_site_data(
-            config, 
-            path = "data/%s" % lang,
-            api_key = site_config.DEVELOPER_KEY)
-        site.url = config.site_config.url
-        site.site_config = config.site_config
-        gen_lang_site(site, config, lang)
+        site = single_lang_site(config, lang)
+        gen_lang_site(site, config)
+
+    gen_global_site(config)
 
     # Copy assets
     util.copy_all_assets(config)

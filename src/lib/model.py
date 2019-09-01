@@ -34,15 +34,12 @@ class PageConfig:
 class Site:
     video_data = None
     url = None
-    sub_sites = []
-    page_config = None
+    lang = None
     site_config = None
-
-class SubSite:
-    groups = None
-    groups_by_time = None
-    most_viewed = None
-    latest = None
+    groups = []
+    groups_by_time = []
+    most_viewed = []
+    latest = []
 
 class Group:
     title = None
