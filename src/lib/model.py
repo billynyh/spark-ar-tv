@@ -1,5 +1,7 @@
 
-class GeneratorConfig:
+# Config object
+
+class GeneratorConfig2:
     def __init__(self, site_url, site_title, site_description, out_dir, data_dir):
         self.site_url = site_url
         self.out_dir = out_dir
@@ -8,32 +10,39 @@ class GeneratorConfig:
         self.site_description = site_description
         self.data_dir = data_dir
 
-    def get_data_file(self):
-        return "%s/data.txt" % self.data_dir
-
-    def get_latest_data_file(self):
-        return "%s/latest.txt" % self.data_dir
-
-    def get_most_viewed_data_file(self):
-        return "%s/most_viewed.txt" % self.data_dir
-
-    def get_skip_file(self):
-        return "%s/skip.txt" % self.data_dir
-
+class GeneratorConfig:
+    out_dir = None
+    cache_dir = None
 
 class SiteConfig:
+    url = None
+    page_config = None
+    languages = []
+
+# Model
+
+class PageConfig:
+    title = None
+    description = None
+    og_image = None
+
+    def __init__(self, src=None):
+        if src:
+            self.title = src.title
+            self.description = src.description
+            self.og_image = src.og_image
+
+class Site:
     video_data = None
+    url = None
+    sub_sites = []
+    page_config = None
+
+class SubSite:
     groups = None
     groups_by_time = None
     most_viewed = None
     latest = None
-    url = None
-
-class PageConfig:
-    def __init__(self, title, description, og_image):
-        self.title = title
-        self.description = description
-        self.og_image = og_image
 
 class Group:
     title = None

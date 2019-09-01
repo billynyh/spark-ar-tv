@@ -1,9 +1,10 @@
 import datetime
 
 from lib.api import ApiDataLoader
-from lib.model import SiteConfig, Group
+from lib.model import Site, Group
 from lib import util
 from lib import yt_api_util
+from lib.path_util import PathHelper
 
 # parse data.txt
 def parse(file_path):
@@ -70,10 +71,13 @@ def load_video_data(ids, api_key):
     data = {id:all_data[id] for id in ids if id in all_data}
 
     if len(need_fetch) > 0:
-        print("Start fetching %s video data" % len(need_fetch))
-        data_loader = ApiDataLoader(api_key)
-        fetched_data = data_loader.fetch_all(need_fetch)
-        data.update(fetched_data)
+        if api_key is None:
+            print("Set api key to fetch data")
+        else:
+            print("Start fetching %s video data" % len(need_fetch))
+            data_loader = ApiDataLoader(api_key)
+            fetched_data = data_loader.fetch_all(need_fetch)
+            data.update(fetched_data)
   
     return data
 
@@ -107,15 +111,18 @@ def group_by_time(video_data):
         start_date = end_date
     return groups
 
-def load_site_data(config, api_key = None):
-    groups = parse(config.get_data_file())
-    most_viewed_data = parse(config.get_most_viewed_data_file())
+def load_site_data(config, path="data/en", api_key = None):
+    ph = PathHelper(path)
+
+    groups = parse(ph.get_data_file())
+    most_viewed_data = parse(ph.get_most_viewed_data_file())
+    latest_data = parse(ph.get_latest_data_file())
+
     if len(most_viewed_data) > 0:
         most_viewed = most_viewed_data[0].ids
     else:
         most_viewed = []
 
-    latest_data = parse(config.get_latest_data_file())
     if len(latest_data) > 0:
         latest = latest_data[0].ids
     else:
@@ -129,7 +136,7 @@ def load_site_data(config, api_key = None):
     # merge and sort
     groups = process_groups(groups, video_data)
 
-    site = SiteConfig()
+    site = Site()
     site.groups = groups
     site.video_data = video_data
     site.most_viewed = most_viewed

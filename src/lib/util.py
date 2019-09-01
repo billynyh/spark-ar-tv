@@ -27,6 +27,10 @@ def prepare_cache():
         if not os.path.exists(c):
             os.mkdir(c)
 
+def mkdir(path):
+    if not os.path.exists(path):
+        os.mkdir(path)
+
 def get_cache_json_files():
     files = os.listdir("%s/json" % CACHE_DIR)
     return files
@@ -42,8 +46,12 @@ def get_cache_image_path(id):
 
 # copy all files inside src to dst, non recursive
 def copy_all(src, dst):
+    mkdir(dst)
     for f in os.listdir(src):
         shutil.copy("%s/%s" % (src, f), "%s/%s" % (dst, f))
+
+def copy_all_assets(config):
+    copy_all("assets", "%s/assets" % config.out_dir)
 
 def dump_video_list(ids, video_data):
     return ["%s // %s" % (id, video_data[id].title) for id in ids]
@@ -52,10 +60,10 @@ def get_group_banner_path(out_dir, g):
     return "%s/assets/banner/%s.jpg" % (out_dir, g.slug)
 
 def get_group_banner_url(config, g):
-    return "%s/assets/banner/%s.jpg" % (config.site_url, g.slug)
+    return "%s/assets/banner/%s.jpg" % (config.site_config.url, g.slug)
 
 def get_logo_url(config):
-    return "%s/assets/logo.png" % (config.site_url)
+    return "%s/assets/logo.png" % (config.site_config.url)
 
 def week_page_path(week):
     return "weeks/%s.html" % week.slug
