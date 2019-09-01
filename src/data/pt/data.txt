@@ -1,0 +1,23 @@
+# Spark AR Tutoriais em Português
+/watch?v=xJXzh_ePbdI //Spark AR Native UI. Tutorial de como adicionar Native UI ao seu filtro!
+/watch?v=efiaOknjrIM //Spark AR Mudando a cor dos olhos. Tutorial de como alterar a cor dos olhos para Instagram
+/watch?v=1rOV0oh2tqQ //Spark AR Sardas e maquiagem. Tutorial de como adicionar sardas ao seu filtro!
+/watch?v=f5uA87D4xL8 //Spark AR Mudando o background. Tutorial de como remover o fundo da sua foto com segmentação!
+/watch?v=LVrlXIwUgkw //Instagram Spark AR Como adicionar um óculos com Head Occluder
+/watch?v=TGYCM2-0aG0 //Instagram Spark AR partículas saindo dos olhos e particle system com PNG.
+
+# Spark AR Brasil
+/watch?v=hlwlgogHlCI&t=121s //#2 Dúvidas Como publicar filtros no Instagram? ATUALIZAÇÃO DO PRIMEIRO VÍDEO | Spark AR Brasil
+/watch?v=y_-NUYh00I8 //#4 Tutorial Como criar filtros de maquiagem? Makeup Instagram Filters | Spark AR Brasil
+/watch?v=O3-c0c8XJWQ //#3 Tutorial Filtros com Toque para Alterar - Tap to Change | Spark AR Brasil
+/watch?v=7HgY3wrwK24 //#1 Dúvidas Como criar / publicar filtros no Instagram? LEIA A DESCRIÇÃO | Spark AR Brasil
+/watch?v=gJ_gu-4QqAg //#2 Tutorial Fixar Objeto na Cabeça + Publicando seu Filtro no Facebook | Spark AR Brasil
+/watch?v=7-czdbwKNqk //#1 Tutorial Filtro de Luzes Coloridas | Spark AR Brasil
+
+# Ranyere Almeida
+/watch?v=BP9QkRjiOOE //Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
+/watch?v=cVBzIKQJzZc //Spark AR: LUT Patch [PT-BR] - por @aliencandies
+
+
+# Fino
+/watch?v=y41bM9QAhlA&t=1s //Spark AR Studio - Destrinchando o efeito "I Red"
