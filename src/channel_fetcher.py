@@ -54,7 +54,14 @@ def fetch_all(config, new_only = True, keyword="spark", max_result=10):
             print("%s // %s" % (item.id, item.title))
         print()
 
-if __name__=="__main__":
+def list_channels(config):
+    site = load_site_data(config)
+    channels = dict([(v.channel_id, v.channel_title) for v in site.video_data.values()])
+    for id,title in channels.items():
+        print("%s # %s" % (id, title))
+
+
+def main():
     parser = argparse.ArgumentParser(description='Search video in channel')
     parser.add_argument('--id', type=str)
     parser.add_argument('--keyword', '-k', type=str)
@@ -65,3 +72,6 @@ if __name__=="__main__":
         fetch_all(LOCAL_CONFIG, keyword = args.keyword, max_result = args.max)
     else:
         fetch_single(args.id, keyword = args.keyword, max_result = args.max)
+
+if __name__=="__main__":
+    main()
