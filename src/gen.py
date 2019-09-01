@@ -20,7 +20,7 @@ def week_pages(site, config):
     for week in site.groups_by_time:
         path = util.week_page_path(week)
         page_config = PageConfig()
-        page_config.title = "%s | Spark AR TV" % week.title,
+        page_config.title = "%s | Spark AR TV" % week.title
         page_config.description = config.site_config.page_config.description
         if util.banner_generated(config.out_dir, week):
             page_config.og_image = util.get_group_banner_url(config, week)
