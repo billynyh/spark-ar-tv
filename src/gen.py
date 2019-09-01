@@ -57,6 +57,7 @@ def gen_site(config):
             path = "data/%s" % lang,
             api_key = site_config.DEVELOPER_KEY)
         site.url = config.site_config.url
+        site.site_config = config.site_config
         gen_lang_site(site, config, lang)
 
     # Copy assets

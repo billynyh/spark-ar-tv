@@ -19,8 +19,6 @@ class SiteConfig:
     page_config = None
     languages = []
 
-# Model
-
 class PageConfig:
     title = None
     description = None
@@ -32,11 +30,13 @@ class PageConfig:
             self.description = src.description
             self.og_image = src.og_image
 
+# Model
 class Site:
     video_data = None
     url = None
     sub_sites = []
     page_config = None
+    site_config = None
 
 class SubSite:
     groups = None
