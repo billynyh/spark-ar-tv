@@ -119,8 +119,7 @@ def main(prod=False):
     util.prepare_cache()
 
     config = site_config.generator
-    util.copy_all_assets(config)
-    #gen_site(config)
+    gen_site(config)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Site generation')

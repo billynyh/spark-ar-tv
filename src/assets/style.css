@@ -164,6 +164,10 @@ a, a:hover {
 }
 
 /* Topics */
+
+.topics .row {
+  margin-bottom:20px;
+}
 .topics .card {
   margin-bottom:20px;
   background: #343a40;

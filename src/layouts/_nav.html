@@ -13,6 +13,9 @@ current_lang = site.lang
       <li class="nav-item">
         <a class="nav-link" href="${wrap_lang(context, 'channels.html')}">Channels</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="${wrap(context, 'global/topics/')}">Topics</a>
+      </li>
     </ul>
     <ul class="navbar-nav float-right">
 			% for lang in all_languages(context):
