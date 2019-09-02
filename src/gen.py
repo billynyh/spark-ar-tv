@@ -64,15 +64,25 @@ def topic_pages(site, config):
     pages.append(("topics/index.html", html_helper.gen_topic_list_html(site, page_config)))
     return pages
 
+def facebook_pages(site, config):
+    page_config = PageConfig()
+    page_config.title = "Facebook | Spark AR TV"
+    page_config.description = config.site_config.page_config.description
+    return [("facebook.html", html_helper.gen_facebook_html(site, page_config))]
+
 def gen_lang_site(site, config):
     lang = site.lang
-    pages = standard_pages(site, config) + week_pages(site, config) + topic_pages(site, config)
-
     out_dir = "%s/%s" % (config.out_dir, lang)
     util.mkdir(out_dir)
     util.mkdir("%s/weeks" % out_dir)
+
+    pages = standard_pages(site, config) + week_pages(site, config)
+
     if site.topics:
         util.mkdir("%s/topics" % out_dir)
+        pages += topic_pages(site, config)
+    if site.facebook:
+        pages += facebook_pages(site, config)
 
     for page in pages:
         with open_out_file(out_dir, page[0]) as outfile:

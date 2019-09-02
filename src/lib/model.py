@@ -42,6 +42,7 @@ class Site:
     most_viewed = []
     latest = []
     topics = []
+    facebook = []
 
 class Group:
     title = None

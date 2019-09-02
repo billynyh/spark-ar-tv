@@ -18,6 +18,10 @@ def gen_channel_html(site, page):
     t = get_template('channels.html')
     return t.render(site=site, page = page)
 
+def gen_facebook_html(site, page):
+    t = get_template('facebook.html')
+    return t.render(site=site, page = page)
+
 def gen_timeline_html(site, page):
     t = get_template('index.html')
     return t.render(site = site, page = page, link_to_group = True)
@@ -54,3 +58,4 @@ class NavItem:
 
 def get_topic_nav(site):
     return [NavItem(t.title, util.topic_page_path(t)) for t in site.topics]
+

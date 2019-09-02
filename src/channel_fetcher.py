@@ -61,6 +61,20 @@ def list_channels(config):
     for id,title in channels.items():
         print("%s # %s" % (id, title))
 
+def facebook_playlist():
+    ids = "PLb0IAmt7-GS3YTAnK4PkLCAuB1niVQKhy,PLb0IAmt7-GS3AIinKLd6_UO59uwxY_37i,PLb0IAmt7-GS23uF0mQ0T2pDSVnmpSRmmf".split(',')
+    api = ApiDataLoader(DEVELOPER_KEY)
+    result = []
+    for id in ids:
+        items = api.fetch_playlist(id, max_result=20)
+        result.append((id, items))
+
+    for v in result:
+        print("# %s" % v[0])
+        for item in v[1]:
+            print("%s // %s" % (item.id, item.title))
+        print()
+    
 
 def main():
     parser = argparse.ArgumentParser(description='Search video in channel')
@@ -78,3 +92,4 @@ def main():
 
 if __name__=="__main__":
     main()
+    #facebook_playlist()
