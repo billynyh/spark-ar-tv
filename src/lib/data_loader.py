@@ -53,7 +53,7 @@ def process_groups(groups, video_data):
 def sort_video_ids_by_time(ids, video_data):
     return sorted(
         ids,
-        key=lambda id: video_data[id].published_at, 
+        key=lambda id: (video_data[id].published_at, id), 
         reverse=True)
 
 def load_cache():
