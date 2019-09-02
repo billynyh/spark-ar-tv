@@ -29,6 +29,14 @@ def gen_week_html(site, page, week):
         page = page,
         week = week, 
         large_thumb= True)
+ 
+def gen_topic_list_html(site, page):
+    t = get_template('topics.html')
+    return t.render(
+        site = site,
+        page = page,
+        topic_nav = get_topic_nav(site),
+        large_thumb = True)
     
 def gen_topic_html(site, page, topic):
     t = get_template('topic.html')

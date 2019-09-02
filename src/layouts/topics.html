@@ -1,0 +1,17 @@
+<%inherit file="base.html" />
+<% from lib.mako_util import wrap_lang %>
+
+<div class="content topics">
+<div class="container-fluid">
+<div class="row">
+  % for item in topic_nav:
+  <div class="col-3">
+<div class="card">
+  <div class="card-body">
+    <a href="${wrap_lang(context, item.path)}">${item.title}</a>
+  </div>
+</div>
+  </div>
+  % endfor
+</div>
+</div>

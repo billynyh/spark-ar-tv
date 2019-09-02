@@ -29,6 +29,9 @@ a, a:hover {
   font-weight: bold;
   border-color:#444444;
 }
+.list-group-item a {
+  display:block;
+}
 
 /* video */
 .vid {
@@ -158,4 +161,16 @@ a, a:hover {
 
 .featured .thumb-container:hover .thumb-footer {
   display:block;
+}
+
+/* Topics */
+.topics .card {
+  margin-bottom:20px;
+  background: #343a40;
+}
+
+.topics .card a {
+  color: white;
+  display:block;
+  text-align:center;
 }

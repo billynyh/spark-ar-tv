@@ -1,7 +1,5 @@
 <%page args="nav_groups,current_item" />
-<%
-from lib.mako_util import wrap_lang
-%>
+<% from lib.mako_util import wrap_lang %>
 % for nav in nav_groups:
 <ul class="list-group">
   % for item in nav:

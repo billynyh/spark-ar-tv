@@ -41,6 +41,8 @@ def standard_pages(site, config):
     ]
 
 def topic_pages(site, config):
+    if not site.topics:
+        return []
     pages = []
     for topic in site.topics:
         path = util.topic_page_path(topic)
@@ -53,6 +55,11 @@ def topic_pages(site, config):
             page_config.og_image = util.get_logo_url(config)
 
         pages.append((path, html_helper.gen_topic_html(site, page_config, topic)))
+
+    page_config = PageConfig()
+    page_config.title = "Topics | Spark AR TV"
+    page_config.description = config.site_config.page_config.description
+    pages.append(("topics/index.html", html_helper.gen_topic_list_html(site, page_config)))
     return pages
 
 def single_lang_site(config, lang):
@@ -112,7 +119,8 @@ def main(prod=False):
     util.prepare_cache()
 
     config = site_config.generator
-    gen_site(config)
+    util.copy_all_assets(config)
+    #gen_site(config)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Site generation')
