@@ -1,7 +1,9 @@
 <%
 from lib.mako_util import asset
 config = context.get('config')
+site = context.get('site')
 page = context.get('page')
+enable_ga = site.site_config.enable_ga
 
 og_image = page.og_image
 style_css = asset(context, 'style.css')
@@ -21,6 +23,7 @@ description = page.description
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="${style_css}">
+% if enable_ga:
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39524040-2"></script>
@@ -32,6 +35,7 @@ description = page.description
     gtag('config', 'UA-39524040-2');
     </script>
 
+% endif
 
     <title>${title}</title>
 

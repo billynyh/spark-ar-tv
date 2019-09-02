@@ -18,6 +18,7 @@ class SiteConfig:
     url = None
     page_config = None
     languages = []
+    enable_ga = False
 
 class PageConfig:
     title = None
