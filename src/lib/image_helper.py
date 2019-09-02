@@ -13,7 +13,7 @@ def crop(img): # 16:9
 def make_collage(r, c, paths):
     imgs = [crop(Image.open(path)) for path in paths]
     (w, h) = imgs[0].size
-    size = (w*2, h*2)
+    size = (w*c, h*r)
     print(size)
     
     collage = Image.new('RGB', size)
@@ -27,5 +27,8 @@ def make_collage(r, c, paths):
 
 def group_thumbnail_collage(site, ids):
     paths = [util.get_cache_image_path(id) for id in ids]
-    return make_collage(2, 2, paths)
+    l = len(ids)
+    if l >= 3:
+        return make_collage(2, 2, paths)
+    return make_collage(1, l, paths)
 

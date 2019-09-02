@@ -3,7 +3,7 @@ import shutil
 
 import site_config
 from lib import data_loader, util
-from lib.data_loader import load_site_data
+from lib.data_loader import global_site, parse
 from lib import image_helper
 
 def download_all(video_data):
@@ -23,9 +23,19 @@ def generate_week_thumbnails(site):
         img.save(outfile, "JPEG")
         print("Saved %s" % outfile)
 
-if __name__ == "__main__":
-    config = site_config.LOCAL_CONFIG
+def generate_topics_thumbnails(site):
+    groups = parse("data/topic-thumbnails.txt")
+    for g in groups:
+        img = image_helper.group_thumbnail_collage(site, g.ids)
+        outfile = util.get_topic_banner_path(config.out_dir, g)
+        img.save(outfile, "JPEG")
+        print("Saved %s" % outfile)
+        
 
-    site = data_loader.load_site_data(config)
+if __name__ == "__main__":
+    config = site_config.generator
+
+    site = global_site(config, site_config.DEVELOPER_KEY)
     download_all(site.video_data)
-    generate_week_thumbnails(site)
+    generate_topics_thumbnails(site)
+    # generate_week_thumbnails(site)

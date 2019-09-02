@@ -51,8 +51,8 @@ def topic_pages(site, config):
         page_config = PageConfig()
         page_config.title = "%s | Spark AR TV" % topic.title
         page_config.description = config.site_config.page_config.description
-        if util.banner_generated(config.out_dir, topic):
-            page_config.og_image = util.get_group_banner_url(config, topic)
+        if util.topic_banner_generated(config.out_dir, topic):
+            page_config.og_image = util.get_topic_banner_url(config, topic)
         else:
             page_config.og_image = util.get_logo_url(config)
 

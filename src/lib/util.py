@@ -66,6 +66,16 @@ def get_group_banner_path(out_dir, g):
 def get_group_banner_url(config, g):
     return "%s/assets/banner/%s.jpg" % (config.site_config.url, g.slug)
 
+def get_topic_banner_path(out_dir, g):
+    return "%s/assets/banner/topic-%s.jpg" % (out_dir, g.slug)
+
+def get_topic_banner_url(config, g):
+    return "%s/assets/banner/topic-%s.jpg" % (config.site_config.url, g.slug)
+
+def topic_banner_generated(out_dir, g):
+    path = get_topic_banner_path(out_dir, g)
+    return os.path.exists(path)
+
 def get_logo_url(config):
     return "%s/assets/logo.png" % (config.site_config.url)
 
