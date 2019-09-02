@@ -16,14 +16,16 @@ def download_all(video_data):
                 shutil.copyfileobj(response, outfile)
                 print("Downloaded %s" % outfile.name)
 
+def generate_week_thumbnails(site):
+    for g in site.groups_by_time:
+        img = image_helper.group_thumbnail_collage(site, g.ids)
+        outfile = util.get_group_banner_path(config.out_dir, g)
+        img.save(outfile, "JPEG")
+        print("Saved %s" % outfile)
 
 if __name__ == "__main__":
     config = site_config.LOCAL_CONFIG
 
     site = data_loader.load_site_data(config)
     download_all(site.video_data)
-    for g in site.groups_by_time:
-        img = image_helper.group_thumbnail_collage(site, g.ids)
-        outfile = util.get_group_banner_path(config.out_dir, g)
-        img.save(outfile, "JPEG")
-        print("Saved %s" % outfile)
+    generate_week_thumbnails(site)

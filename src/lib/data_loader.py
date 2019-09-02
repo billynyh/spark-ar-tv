@@ -151,11 +151,6 @@ def load_global_groups(config):
         groups += parse(ph.get_data_file())
     return groups
 
-def load_global_vide(config):
-    all_youtube_ids = [id for g in groups for id in g.ids]
-    video_data = load_video_data(all_youtube_ids, api_key)
-    return video_data
-
 def load_skip_ids(data_dir):
     ph = PathHelper(data_dir)
     return parse_skip_file(ph.get_skip_file())
@@ -166,3 +161,30 @@ def sort_videos(video_data):
     latest = sorted(ids, key=lambda id: video_data[id].published_at, reverse=True)
 
     return (most_viewed, latest)
+
+
+def single_lang_site(config, lang, api_key):
+    site = load_site_data(
+        config, 
+        path = "data/%s" % lang,
+        api_key = api_key)
+    site.url = config.site_config.url
+    site.site_config = config.site_config
+    site.lang = lang
+    return site
+
+def global_site(config, api_key):
+    site = Site()
+    site.video_data = None
+    site.url = config.site_config.url
+    site.site_config = config.site_config
+    site.lang = "global"
+    site.groups = load_global_groups(config)
+
+    all_youtube_ids = [id for g in site.groups for id in g.ids]
+    site.video_data = load_video_data(all_youtube_ids, api_key)
+    site.groups_by_time = group_by_time(site.video_data)
+    site.topics = parse("data/topics.txt")
+    for topic in site.topics:
+        topic.ids = sort_video_ids_by_time(topic.ids, site.video_data)
+    return site

@@ -12,6 +12,8 @@ from lib.api import ApiDataLoader
 from lib.data_loader import *
 from lib.model import SiteConfig, PageConfig, Site
 
+API_KEY = site_config.DEVELOPER_KEY
+
 def open_out_file(out_dir, name):
     return open("%s/%s" % (out_dir, name), "w")
 
@@ -62,16 +64,6 @@ def topic_pages(site, config):
     pages.append(("topics/index.html", html_helper.gen_topic_list_html(site, page_config)))
     return pages
 
-def single_lang_site(config, lang):
-    site = load_site_data(
-        config, 
-        path = "data/%s" % lang,
-        api_key = site_config.DEVELOPER_KEY)
-    site.url = config.site_config.url
-    site.site_config = config.site_config
-    site.lang = lang
-    return site
-
 def gen_lang_site(site, config):
     lang = site.lang
     pages = standard_pages(site, config) + week_pages(site, config) + topic_pages(site, config)
@@ -88,25 +80,12 @@ def gen_lang_site(site, config):
             print("Generated %s" % outfile.name)
 
 def gen_global_site(config):
-    site = Site()
-    site.video_data = None
-    site.url = config.site_config.url
-    site.site_config = config.site_config
-    site.lang = "global"
-    site.groups = load_global_groups(config)
-
-    all_youtube_ids = [id for g in site.groups for id in g.ids]
-    site.video_data = load_video_data(all_youtube_ids, site_config.DEVELOPER_KEY)
-    site.groups_by_time = group_by_time(site.video_data)
-    site.topics = parse("data/topics.txt")
-    for topic in site.topics:
-        topic.ids = sort_video_ids_by_time(topic.ids, site.video_data)
-
+    site = global_site(config, API_KEY)
     gen_lang_site(site, config)
 
 def gen_site(config):
     for lang in config.site_config.languages:
-        site = single_lang_site(config, lang)
+        site = single_lang_site(config, lang, API_KEY)
         gen_lang_site(site, config)
 
     gen_global_site(config)
