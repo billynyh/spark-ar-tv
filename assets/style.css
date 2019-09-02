@@ -20,6 +20,20 @@ a, a:hover {
   padding-top:20px;
 }
 
+/* sidebar */
+.list-group-item {
+  background:none;
+}
+.list-group-item.active {
+  background:none;
+  font-weight: bold;
+  border-color:#444444;
+}
+.list-group-item a {
+  display:block;
+}
+
+/* video */
 .vid {
   margin-bottom: 20px;
   line-height: 16px;
@@ -147,4 +161,20 @@ a, a:hover {
 
 .featured .thumb-container:hover .thumb-footer {
   display:block;
+}
+
+/* Topics */
+
+.topics .row {
+  margin-bottom:20px;
+}
+.topics .card {
+  margin-bottom:20px;
+  background: #343a40;
+}
+
+.topics .card a {
+  color: white;
+  display:block;
+  text-align:center;
 }
