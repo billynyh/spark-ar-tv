@@ -31,11 +31,21 @@ def generate_topics_thumbnails(site):
         img.save(outfile, "JPEG")
         print("Saved %s" % outfile)
         
+def generate_facebook_thumbnails(site):
+    video_data = {id:site.video_data[id] for g in site.facebook for id in g.ids}
+    download_all(video_data)
+    return
+    for g in groups:
+        img = image_helper.group_thumbnail_collage(site, g.ids)
+        outfile = util.get_topic_banner_path(config.out_dir, g)
+        img.save(outfile, "JPEG")
+        print("Saved %s" % outfile)
 
 if __name__ == "__main__":
     config = site_config.generator
 
     site = global_site(config, site_config.DEVELOPER_KEY)
-    download_all(site.video_data)
-    generate_topics_thumbnails(site)
+    #download_all(site.video_data)
+    #generate_topics_thumbnails(site)
     # generate_week_thumbnails(site)
+    generate_facebook_thumbnails(site)
