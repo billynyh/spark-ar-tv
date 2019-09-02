@@ -52,10 +52,11 @@ def gen_topic_html(site, page, topic):
         large_thumb = True)
 
 class NavItem:
-    def __init__(self, title, path):
-        self.title = title
+    def __init__(self, topic, path):
+        self.title = topic.title
+        self.video_count = len(topic.ids)
         self.path = path
 
 def get_topic_nav(site):
-    return [NavItem(t.title, util.topic_page_path(t)) for t in site.topics]
+    return [NavItem(t, util.topic_page_path(t)) for t in site.topics]
 

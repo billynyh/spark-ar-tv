@@ -7,7 +7,10 @@
   cls = "active" if item.title == current_item else "" 
   %>
   <li class="list-group-item ${cls}">
-    <a href="${wrap_lang(context, item.path)}">${item.title}</a>
+    <a href="${wrap_lang(context, item.path)}">
+        ${item.title}
+        <span class="badge badge-dark float-right">${item.video_count}</span>
+    </a>
   </li>
   % endfor
 </ul>

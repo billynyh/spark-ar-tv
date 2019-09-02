@@ -1,4 +1,6 @@
 # Tap to change
+RjBkrvU-W80 // Spark AR Toque para alterar. Tutorial de como mudar seu efeito ao toque!
+lmklVU5dzDw // Уроки Spark AR. 👌🏻 Эффект старой камеры, плёнки, vhs + LUT,  GIF Animation и Screen Tap.
 Lx2ImQ_MMWE // Spark AR Tap to Change
 /watch?v=RhtnsgegE1A //Sparkar Studio (V69) - Tap to Change Background and Add instructions
 /watch?v=JahuumWeWbI&t=24s //Tap to change / Add instructions - Spark AR beginner tutorial
@@ -26,6 +28,7 @@ eDLvXDEK7us // Spark AR. Смена эффекта/цвета по Тапу (Scr
 /watch?v=dXN1fIwQPns //Cómo hacer filtros de instagram con música Tutorial Spark AR
 
 # LUT
+lmklVU5dzDw // Уроки Spark AR. 👌🏻 Эффект старой камеры, плёнки, vhs + LUT,  GIF Animation и Screen Tap.
 /watch?v=tp12y4ex2W8 //Color LUTs in Spark AR part 2
 /watch?v=lxF-ecbkbr4 //Color LUTs in Spark AR
 /watch?v=UjTQinvM_hk //Turn any preset or LUT into instagram effects. Spark AR tutorial
@@ -50,6 +53,7 @@ TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 /watch?v=4sZc4mH_bOI //Cómo crear efectos o filtros para Instagram con Spark AR | Cambiar el fondo
 
 # Animation / Gif
+lmklVU5dzDw // Уроки Spark AR. 👌🏻 Эффект старой камеры, плёнки, vhs + LUT,  GIF Animation и Screen Tap.
 /watch?v=mit9xcOSsUQ //Spark AR: Instagram Filters - Animation Basics
 /watch?v=cLQVGv8gG90&t=11s //Spark AR: Instagram Filters - How to use gifs as Sprite Sheets
 /watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
