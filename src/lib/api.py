@@ -12,6 +12,17 @@ import googleapiclient.errors
 from lib import util
 from lib import yt_api_util
 
+class Channel:
+    def __init__(self, item):
+        self.id = item.get('id')
+        self.title = item.get('snippet').get('localized').get('title')
+        self.playlist = item.get('contentDetails').get('relatedPlaylists').get('uploads')
+
+class SimpleVideo:
+    def __init__(self, item):
+        self.id = item.get('snippet').get('resourceId').get('videoId')
+        self.title = item.get('snippet').get('title')
+
 class ApiDataLoader:
 
     def __init__(self, key):
@@ -39,16 +50,16 @@ class ApiDataLoader:
         response = request.execute()
         return response
 
-    def fetch_all(self, ids, batch_size = 10):
+    def fetch_videos(self, ids, batch_size = 10):
         result = {}
         batches = util.chunks(ids, batch_size)
         for batch in batches:
             response = self.fetch(','.join(batch))
-            data = self.save(response)
+            data = self.save_videos(response)
             result.update(data)
         return result
 
-    def save(self, response):
+    def save_videos(self, response):
         data = {}
         for item in response.get('items'):
             id = item["id"]
@@ -59,13 +70,19 @@ class ApiDataLoader:
                 data[id] = yt_api_util.read_single_video_obj(item)
         return data
 
-    def list_channel(self, id, keyword="spark", max_result=30):
-        request = self.get_youtube().search().list(
+    def fetch_channels(self, ids):
+        request = self.get_youtube().channels().list(
+            part="snippet,contentDetails",
+            id=','.join(ids),
+        )
+        response = request.execute()
+        return [Channel(item) for item in response.get('items')]
+
+    def fetch_playlist(self, id, max_result):
+        request = self.get_youtube().playlistItems().list(
             part="snippet",
-            channelId=id,
-            q=keyword,
-            order="date",
+            playlistId=id,
             maxResults=max_result,
         )
         response = request.execute()
-        return response
+        return [SimpleVideo(item) for item in response.get('items')]

@@ -76,7 +76,7 @@ def load_video_data(ids, api_key):
         else:
             print("Start fetching %s video data" % len(need_fetch))
             data_loader = ApiDataLoader(api_key)
-            fetched_data = data_loader.fetch_all(need_fetch)
+            fetched_data = data_loader.fetch_videos(need_fetch)
             data.update(fetched_data)
   
     return data
