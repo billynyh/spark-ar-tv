@@ -4,6 +4,7 @@ import json
 import shutil
 import os.path
 
+import config_factory
 import site_config
 from lib import html_helper
 from lib import util
@@ -107,7 +108,7 @@ def gen_site(config):
 def main(prod=False):
     util.prepare_cache()
 
-    config = site_config.generator
+    config = config_factory.load(prod)
     gen_site(config)
 
 if __name__ == "__main__":

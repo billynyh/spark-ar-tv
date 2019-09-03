@@ -1,3 +1,4 @@
+import config_factory
 import site_config
 from lib import data_loader
 from lib import util
@@ -18,7 +19,7 @@ if __name__ == "__main__":
 
     data_dir = "data/en"
 
-    config = site_config.generator
+    config = config_factory.load()
     site = data_loader.load_site_data(config, path=data_dir, api_key=site_config.DEVELOPER_KEY)
     data_loader.group_by_time(site.video_data)
 

@@ -1,6 +1,7 @@
 import urllib.request
 import shutil
 
+import config_factory
 import site_config
 from lib import data_loader, util
 from lib.data_loader import global_site, parse
@@ -42,7 +43,7 @@ def generate_facebook_thumbnails(site):
         print("Saved %s" % outfile)
 
 if __name__ == "__main__":
-    config = site_config.generator
+    config = config_factory.load()
 
     site = global_site(config, site_config.DEVELOPER_KEY)
     #download_all(site.video_data)

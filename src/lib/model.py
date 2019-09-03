@@ -1,18 +1,10 @@
 import re
 # Config object
 
-class GeneratorConfig2:
-    def __init__(self, site_url, site_title, site_description, out_dir, data_dir):
-        self.site_url = site_url
-        self.out_dir = out_dir
-        self.out_assets_dir = "%s/assets" % out_dir
-        self.site_title = site_title
-        self.site_description = site_description
-        self.data_dir = data_dir
-
 class GeneratorConfig:
     out_dir = None
     cache_dir = None
+    site_config = None
 
 class SiteConfig:
     url = None

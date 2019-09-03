@@ -184,7 +184,7 @@ def global_site(config, api_key):
     site.topics = parse("data/topics.txt")
     site.facebook = parse("data/facebook.txt")
     
-    all_groups = site.groups + site.facebook
+    all_groups = site.groups + site.facebook + site.topics
     all_youtube_ids = set([id for g in all_groups for id in g.ids])
     site.video_data = load_video_data(all_youtube_ids, api_key)
     site.groups_by_time = group_by_time(site.video_data)

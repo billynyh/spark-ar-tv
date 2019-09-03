@@ -2,7 +2,7 @@ import json
 import sys
 import argparse
 
-import site_config
+import config_factory
 from site_config import DEVELOPER_KEY
 from lib.api import ApiDataLoader
 from lib.data_loader import load_site_data, load_skip_ids
@@ -83,7 +83,7 @@ def main():
     parser.add_argument('--max', '-m', type=int, default=10)
     args = parser.parse_args()
 
-    config = site_config.generator
+    config = config_factory.load()
 
     if args.id is None:
         fetch_all(config, keyword = args.keyword, max_result = args.max)
