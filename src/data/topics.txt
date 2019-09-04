@@ -37,6 +37,7 @@ lmklVU5dzDw // Уроки Spark AR. 👌🏻 Эффект старой каме�
 /watch?v=j0n-DYLkZkQ //КАК СДЕЛАТЬ СВОЙ ФИЛЬТР В INSTAGRAM \\ LUTS in SPARK AR
 
 # Segmentation
+oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
 /watch?v=ZnYjohCVT_U //Spark AR Body Segmentation
 /watch?v=REqpibMDZv4 //Spark AR Studio - Segmentation Tutorial : How To Change Background ?
 /watch?v=yVjb6iBHFo8 //Body Segmentation with SparkAr Studio
@@ -85,3 +86,6 @@ j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark 
 /watch?v=cjtQ8YDA7_E //Урок 9 -  Работа с системой частиц Spark AR
 TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 
+# Plane tracker
+-8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
+/watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls

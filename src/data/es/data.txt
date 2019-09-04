@@ -10,6 +10,7 @@
 /watch?v=E5AeBJNUQds //Cómo cargar un filtro o efecto en Instagram
 
 # Cybertutoriales
+gc1mmpcRBvY // Spark AR Studio - Face Landmarks - Exacta ubicación de elementos en el rostro.
 /watch?v=cpLXrctYrik&t=9s //Spark AR Studio - Efectos de Lentes - Objetos 3D
 /watch?v=jaUYruyFUC0 //Spark AR Studio - Gradiente multicolor, animado
 /watch?v=qKj6tSOolqk //Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación -
@@ -25,3 +26,6 @@
 
 # MDALatam studio dyn Fotografia
 /watch?v=tk-pPlLi5Co //Spark Ar studio Botones desplegables-Drop-down buttons
+tbcxVqAd8Hw // Spark Ar Studio Mda latam
+m5JrirtgiOg // Spark Ar Studio Mda latam
+

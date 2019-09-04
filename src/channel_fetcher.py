@@ -26,10 +26,10 @@ def filter_videos(items, known_ids, keyword):
         result.append(item)
     return result
 
-def fetch_all(config, new_only = True, keyword="spark", max_result=10):
+def fetch_all(config, lang, new_only = True, keyword="spark", max_result=10):
     api = ApiDataLoader(DEVELOPER_KEY)
 
-    data_dir = "data/en"
+    data_dir = "data/%s" % lang
     site = load_site_data(config, path=data_dir, api_key=DEVELOPER_KEY)
     all_ids = set(site.video_data.keys())
     skip_ids = set(load_skip_ids(data_dir))
@@ -86,7 +86,9 @@ def main():
     config = config_factory.load()
 
     if args.id is None:
-        fetch_all(config, keyword = args.keyword, max_result = args.max)
+        for lang in config.site_config.languages:
+            print("==== Fetching %s ====" % lang)
+            fetch_all(config, lang, keyword = args.keyword, max_result = args.max)
     else:
         print("TODO fetch single channel")
 
