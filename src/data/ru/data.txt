@@ -67,6 +67,7 @@ NZes2-LJMaE // Spark AR studio Уроки. Как сделать маску св
 /watch?v=XrfbUw9BIGo //Анимация в Spark AR электрическая маска
 
 # ALEXEY PETROV
+Vo8cS-Xkwuo // #6 Spark AR  - отделяем задний фон камеры. Сегментация (урок).
 /watch?v=Ll0E-uQcS-A //#5 Как сделать простой фильтр-градиент для Инстаграма? — Spark AR Studio
 /watch?v=AlSPDNw_Li8 //#4 Как переключать маски (объекты) по нажатию на экран? — Spark AR Studio
 /watch?v=obdh6m8mt18 //#3 Как добавить подсказки (инструкции) на экран? Скрипты — Spark AR Studio

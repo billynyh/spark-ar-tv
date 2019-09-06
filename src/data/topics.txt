@@ -37,6 +37,7 @@ lmklVU5dzDw // Уроки Spark AR. 👌🏻 Эффект старой каме�
 /watch?v=j0n-DYLkZkQ //КАК СДЕЛАТЬ СВОЙ ФИЛЬТР В INSTAGRAM \\ LUTS in SPARK AR
 
 # Segmentation
+Vo8cS-Xkwuo // #6 Spark AR  - отделяем задний фон камеры. Сегментация (урок).
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
 /watch?v=ZnYjohCVT_U //Spark AR Body Segmentation
 /watch?v=REqpibMDZv4 //Spark AR Studio - Segmentation Tutorial : How To Change Background ?
@@ -80,12 +81,14 @@ j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark 
 /watch?v=EVwmDDDgJM4 //Урок 10  -  Где брать 3D объекты Spark AR
 
 # Particles
+uRWFeTWDg6U // Spark AR Studio - Partículas Vol. I
 /watch?v=p_JvPoPpLVg //Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
 /watch?v=TGYCM2-0aG0 //Instagram Spark AR partículas saindo dos olhos e particle system com PNG.
 /watch?v=Ves_bHGQuPo //Spark AR Studio Instagram Filters - Working with Particles
 /watch?v=cjtQ8YDA7_E //Урок 9 -  Работа с системой частиц Spark AR
 TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 
-# Plane tracker
+# Plane tracker / Target tracker
+5C2OCgx65S8 // Spark AR Tutorial Target Tracker | Español
 -8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
 /watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
