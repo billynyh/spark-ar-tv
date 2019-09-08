@@ -1,24 +1,19 @@
-from lib.model import GeneratorConfig
-
-DEVELOPER_KEY = "" 
+DEVELOPER_KEY = ""
 CACHE_DIR = "_cache"
 
-# site
-PROD_CONFIG = GeneratorConfig(
-    site_url = "https://billynyh.github.io/spark-ar-tv",
-    site_title = "Spark AR TV",
-    site_description = "Unofficial Spark AR video tutorial collections",
-    out_dir = "..",
-    data_dir = "data/en"
-)
+page_title = "Spark AR TV"
+page_description = "Unofficial Spark AR video tutorial collections"
 
-LOCAL_CONFIG = GeneratorConfig(
-    site_url = "http://localhost:8000",
-    site_title = "Spark AR TV",
-    site_description = "Unofficial Spark AR video tutorial collections",
-    out_dir = "_out",
-    data_dir = "data/en"
-)
+site_languages = ["en", "ru", "es", "pt"]
+site_url = "http://localhost:8000"
+site_enable_ga = False
+
+generator_cache_dir = "_cache"
+generator_out_dir = "_out"
+
+prod_generator_out_dir = ".."
+prod_site_url = "https://billynyh.github.io/spark-ar-tv"
+prod_site_enable_ga = True
 
 # playlist
 PLAYLIST_CHANNEL = ""
