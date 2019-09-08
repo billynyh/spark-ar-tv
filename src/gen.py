@@ -105,14 +105,21 @@ def gen_site(config):
     util.copy_all_assets(config)
 
 
-def main(prod=False):
+def main(args):
+    prod = args.prod
+    assets_only = args.assets
+
     util.prepare_cache()
 
     config = config_factory.load(prod)
-    gen_site(config)
+    if assets_only:
+        util.copy_all_assets(config)
+    else:
+        gen_site(config)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Site generation')
     parser.add_argument('--prod', action='store_true')
+    parser.add_argument('--assets', action='store_true')
     args = parser.parse_args()
-    main(prod=args.prod)
+    main(args)
