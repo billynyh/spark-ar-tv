@@ -20,8 +20,10 @@ class Channel:
 
 class SimpleVideo:
     def __init__(self, item):
-        self.id = item.get('snippet').get('resourceId').get('videoId')
-        self.title = item.get('snippet').get('title')
+        snippet = item.get('snippet')
+        self.id = snippet.get('resourceId').get('videoId')
+        self.title = snippet.get('title')
+        self.tags = snippet.get('tags')
 
 class ApiDataLoader:
 

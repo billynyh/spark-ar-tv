@@ -7,23 +7,25 @@ from site_config import DEVELOPER_KEY
 from lib.api import ApiDataLoader
 from lib.data_loader import load_site_data, load_skip_ids
 
-class Item:
-    def __init__(self, id, title):
-        self.id = id
-        self.title = title
-
-
 def get_video_id(item):
     return item['id']['videoId']
 
 def filter_videos(items, known_ids, keyword):
     result = []
+    k = keyword.lower()
     for item in items:
         if item.id in known_ids:
             continue
-        if not keyword.lower() in item.title.lower():
-            continue
-        result.append(item)
+        keep = False
+        if k in item.title.lower():
+            keep = True
+        # tags
+        if item.tags:
+            for t in item.tags:
+                if k in t:
+                    keep = True
+        if keep:
+            result.append(item)
     return result
 
 def fetch_all(config, lang, new_only = True, keyword="spark", max_result=10):
