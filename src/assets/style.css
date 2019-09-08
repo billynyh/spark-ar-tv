@@ -26,15 +26,15 @@ a, a:hover {
 }
 
 /* sidebar */
-.list-group-item {
+.sidebar .nav-item {
   background:none;
 }
-.list-group-item.active {
+.sidebar .nav-item.active {
   background:none;
   font-weight: bold;
   border-color:#444444;
 }
-.list-group-item a {
+.sidebar .nav-item a {
   display:block;
 }
 

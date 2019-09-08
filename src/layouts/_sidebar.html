@@ -1,17 +1,37 @@
 <%page args="nav_groups,current_item" />
 <% from lib.mako_util import wrap_lang %>
-% for nav in nav_groups:
-<ul class="list-group">
-  % for item in nav:
+<div class="sidebar">
+
+<ul class="nav flex-column">
+  % for item in nav_groups['lang']:
   <% 
   cls = "active" if item.title == current_item else "" 
   %>
-  <li class="list-group-item ${cls}">
-    <a href="${wrap_lang(context, item.path)}">
+  <li class="nav-item ${cls}">
+    <a href="${item.url}">
         ${item.title}
+        % if item.show_video_count:
         <span class="badge badge-dark float-right">${item.video_count}</span>
+        % endif
     </a>
   </li>
   % endfor
 </ul>
-% endfor
+
+<hr/>
+<ul class="nav flex-column">
+  % for item in nav_groups['topic']:
+  <% 
+  cls = "active" if item.title == current_item else "" 
+  %>
+  <li class="nav-item ${cls}">
+    <a href="${item.url}">
+        ${item.title}
+        % if item.show_video_count:
+        <span class="badge badge-dark float-right">${item.video_count}</span>
+        % endif
+    </a>
+  </li>
+  % endfor
+</ul>
+</div>

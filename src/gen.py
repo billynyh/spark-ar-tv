@@ -62,7 +62,7 @@ def topic_pages(site, config):
     page_config = PageConfig()
     page_config.title = "Topics | Spark AR TV"
     page_config.description = config.site_config.page_config.description
-    pages.append(("topics/index.html", html_helper.gen_topic_list_html(site, page_config)))
+    #pages.append(("topics/index.html", html_helper.gen_topic_list_html(site, page_config)))
     return pages
 
 def facebook_pages(site, config):

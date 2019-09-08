@@ -21,12 +21,6 @@ current_lang = site.lang
       </li>
     </ul>
     <ul class="navbar-nav float-right">
-			% for lang in all_languages(context):
-      <% cls = "active" if lang[0] == current_lang else "" %>
-      <li class="nav-item">
-        <a class="nav-link ${cls}" href="${wrap(context, lang[0])}">${lang[1]}</a>
-      </li>
-			% endfor
       <li class="nav-item">
         <a class="nav-link" href="https://forum.sparkar.wiki/d/94-spark-ar-tv-unofficial-video-tutorial-collections">Suggest content</a>
       </li>

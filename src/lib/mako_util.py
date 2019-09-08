@@ -9,14 +9,6 @@ def wrap_lang(context, path):
 def asset(context, path):
     return wrap(context, "assets/%s" % path)
 
-DISPLAY_NAME = {
-  'en': 'English',
-  'es': 'Spanish',
-  'pt': 'Portuguese',
-  'ru': 'Russian',
-  'global': 'All Languages',
-}
-
 def all_languages(context):
     site_config = context.get('site').site_config
     langs = site_config.languages + ['global']

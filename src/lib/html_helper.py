@@ -3,6 +3,7 @@ from mako.lookup import TemplateLookup
 
 from lib import debug_util
 from lib import util
+from lib.nav_helper import get_navs
 
 def get_template(filename):
     lookup = TemplateLookup(directories=['.'])
@@ -39,7 +40,7 @@ def gen_topic_list_html(site, page):
     return t.render(
         site = site,
         page = page,
-        topic_nav = get_topic_nav(site),
+        navs = get_navs(site),
         large_thumb = True)
     
 def gen_topic_html(site, page, topic):
@@ -48,15 +49,6 @@ def gen_topic_html(site, page, topic):
         site = site,
         page = page,
         topic = topic,
-        topic_nav = get_topic_nav(site),
+        navs = get_navs(site),
         large_thumb = True)
-
-class NavItem:
-    def __init__(self, topic, path):
-        self.title = topic.title
-        self.video_count = len(topic.ids)
-        self.path = path
-
-def get_topic_nav(site):
-    return [NavItem(t, util.topic_page_path(t)) for t in site.topics]
 

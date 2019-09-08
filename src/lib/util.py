@@ -84,3 +84,6 @@ def week_page_path(week):
 
 def topic_page_path(topic):
     return "topics/%s.html" % topic.slug
+
+def topic_page_url(site, topic):
+    return "%s/global/%s" % (site.url, topic_page_path(topic))
