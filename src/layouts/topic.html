@@ -1,13 +1,3 @@
 <%inherit file="base.html" />
 
-<div class="content">
-<div class="container-fluid">
-<div class="row">
-  <div class="col-xl-2 col-lg-2">
-    <%include file="_sidebar.html" args="nav_groups=navs,current_item=topic.title" />
-  </div>
-  <div class="col-xl-10 col-lg-10">
-    <%include file="_group.html" args="group=topic, video_data=site.video_data" />
-  </div>
-</div>
-</div>
+<%include file="_group.html" args="group=topic, video_data=site.video_data" />

@@ -28,11 +28,11 @@ def get_lang_nav(site):
     languages = ['global'] + site.site_config.languages
     return [LangNavItem(lang, "%s/%s/index.html" % (site.url, lang)) for lang in languages]
 
-def get_navs(site):
+def get_navs(master, site):
     # language nav, topic nav
     navs = {
         'lang': get_lang_nav(site),
-        'topic': get_topic_nav(site),
+        'topic': get_topic_nav(master.global_site),
         'other': []
     }
     return navs

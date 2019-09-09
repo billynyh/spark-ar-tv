@@ -6,14 +6,15 @@ import os.path
 
 import config_factory
 import site_config
-from lib import html_helper
+from lib.html_helper import HtmlHelper
 from lib import util
 from lib import yt_api_util
 from lib.api import ApiDataLoader
 from lib.data_loader import *
 from lib.model import SiteConfig, PageConfig, Site
 
-API_KEY = site_config.DEVELOPER_KEY
+
+html_helper = HtmlHelper()
 
 def open_out_file(out_dir, name):
     return open("%s/%s" % (out_dir, name), "w")
@@ -90,16 +91,23 @@ def gen_lang_site(site, config):
             outfile.write(page[1])
             print("Generated %s" % outfile.name)
 
-def gen_global_site(config):
-    site = global_site(config, API_KEY)
+def gen_global_site(master):
+    config = master.config
+    site = master.global_site
+
     gen_lang_site(site, config)
 
 def gen_site(config):
-    for lang in config.site_config.languages:
-        site = single_lang_site(config, lang, API_KEY)
-        gen_lang_site(site, config)
+    master = master_site(config)
 
-    gen_global_site(config)
+    html_helper.master = master
+    html_helper.config = config
+    html_helper.global_site = master.global_site
+
+    for lang in config.site_config.languages:
+        gen_lang_site(master.lang_sites[lang], config)
+
+    gen_global_site(master)
 
     # Copy assets
     util.copy_all_assets(config)

@@ -16,6 +16,7 @@ def load(prod = False):
     generator.cache_dir = C.generator_cache_dir
     generator.out_dir = C.generator_out_dir
     generator.site_config = site
+    generator.api_key = C.DEVELOPER_KEY
     
     if prod:
         generator.out_dir = C.prod_generator_out_dir

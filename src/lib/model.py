@@ -5,6 +5,7 @@ class GeneratorConfig:
     out_dir = None
     cache_dir = None
     site_config = None
+    api_key = None
 
 class SiteConfig:
     url = None
@@ -24,6 +25,11 @@ class PageConfig:
             self.og_image = src.og_image
 
 # Model
+class MasterSite:
+    lang_sites = {}
+    global_site = None
+    config = None
+
 class Site:
     video_data = None
     url = None

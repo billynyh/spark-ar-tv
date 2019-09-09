@@ -1,7 +1,7 @@
 import datetime
 
 from lib.api import ApiDataLoader
-from lib.model import Site, Group
+from lib.model import MasterSite, Site, Group
 from lib import util
 from lib import yt_api_util
 from lib.path_util import PathHelper
@@ -191,3 +191,14 @@ def global_site(config, api_key):
     for topic in site.topics:
         topic.ids = sort_video_ids_by_time(topic.ids, site.video_data)
     return site
+
+def master_site(config):
+    master = MasterSite()
+    api_key = config.api_key
+    print(api_key)
+    for lang in config.site_config.languages:
+        master.lang_sites[lang] = single_lang_site(config, lang, api_key)
+    master.global_site = global_site(config, api_key)
+    master.config = config
+
+    return master

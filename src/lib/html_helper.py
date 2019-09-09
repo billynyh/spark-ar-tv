@@ -5,57 +5,64 @@ from lib import debug_util
 from lib import util
 from lib.nav_helper import get_navs
 
-def get_template(filename):
-    lookup = TemplateLookup(directories=['.'])
-    t = Template(filename="layouts/%s" % filename, lookup=lookup)
-    return t
+class HtmlHelper:
 
-def render(t, site, **kwargs):
-    return t.render(
-        site = site,
-        navs = get_navs(site),
-        **kwargs)
+    master = None
+    config = None
+    global_site = None
 
-def gen_debug_html(site, page):
-    debug_text = debug_util.get_message(site)
-    t = get_template('debug.html')
-    return render(t, site=site, page = page, debug_text=debug_text)
+    def get_template(self, filename):
+        lookup = TemplateLookup(directories=['.'])
+        t = Template(filename="layouts/%s" % filename, lookup=lookup)
+        return t
 
-def gen_channel_html(site, page):
-    t = get_template('channels.html')
-    return render(t, site=site, page = page)
+    def render(self, t, site, **kwargs):
+        return t.render(
+            master = self.master,
+            site = site,
+            navs = get_navs(self.master, site),
+            **kwargs)
 
-def gen_facebook_html(site, page):
-    t = get_template('facebook.html')
-    return render(t, site=site, page = page)
+    def gen_debug_html(self, site, page):
+        debug_text = debug_util.get_message(site)
+        t = self.get_template('debug.html')
+        return self.render(t, site=site, page = page, debug_text=debug_text)
 
-def gen_timeline_html(site, page):
-    t = get_template('index.html')
-    return render(t, 
-        site = site, 
-        page = page, 
-        link_to_group = True)
+    def gen_channel_html(self, site, page):
+        t = self.get_template('channels.html')
+        return self.render(t, site=site, page = page)
 
-def gen_week_html(site, page, week):
-    t = get_template('week.html')
-    return render(t, 
-        site = site,
-        page = page,
-        week = week, 
-        large_thumb= True)
- 
-def gen_topic_list_html(site, page):
-    t = get_template('topics.html')
-    return render(t, 
-        site = site,
-        page = page,
-        large_thumb = True)
-    
-def gen_topic_html(site, page, topic):
-    t = get_template('topic.html')
-    return render(t, 
-        site = site,
-        page = page,
-        topic = topic,
-        large_thumb = True)
+    def gen_facebook_html(self, site, page):
+        t = self.get_template('facebook.html')
+        return self.render(t, site=site, page = page)
+
+    def gen_timeline_html(self, site, page):
+        t = self.get_template('index.html')
+        return self.render(t, 
+            site = site, 
+            page = page, 
+            link_to_group = True)
+
+    def gen_week_html(self, site, page, week):
+        t = self.get_template('week.html')
+        return self.render(t, 
+            site = site,
+            page = page,
+            week = week, 
+            large_thumb= True)
+     
+    def gen_topic_list_html(self, site, page):
+        t = self.get_template('topics.html')
+        return self.render(t, 
+            site = site,
+            page = page,
+            large_thumb = True)
+        
+    def gen_topic_html(self, site, page, topic):
+        t = self.get_template('topic.html')
+        return self.render(t, 
+            site = site,
+            page = page,
+            topic = topic,
+            large_thumb = True)
 
