@@ -38,11 +38,13 @@ def standard_pages(site, config):
     page_config = PageConfig(config.site_config.page_config)
     page_config.og_image = util.get_logo_url(config)
     
-    return [
+    pages = [
         ("index.html", html_helper.gen_timeline_html(site, page_config)),
         ("debug.html", html_helper.gen_debug_html(site, page_config)),
-        ("channels.html", html_helper.gen_channel_html(site, page_config)),
     ]
+    if site.lang == 'global':
+        pages.append(("channels.html", html_helper.gen_channel_html(site, page_config)))
+    return pages
 
 def topic_pages(site, config):
     if not site.topics:
@@ -59,11 +61,6 @@ def topic_pages(site, config):
             page_config.og_image = util.get_logo_url(config)
 
         pages.append((path, html_helper.gen_topic_html(site, page_config, topic)))
-
-    page_config = PageConfig()
-    page_config.title = "Topics | Spark AR TV"
-    page_config.description = config.site_config.page_config.description
-    #pages.append(("topics/index.html", html_helper.gen_topic_list_html(site, page_config)))
     return pages
 
 def facebook_pages(site, config):
