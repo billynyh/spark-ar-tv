@@ -1,4 +1,5 @@
 # Spark AR Tutoriais em Português
+lyK30WEi6nw // Spark AR Crie um efeito de coroa. Tutorial de como adicionar coroas com Head occluder!
 W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
 /watch?v=xJXzh_ePbdI //Spark AR Native UI. Tutorial de como adicionar Native UI ao seu filtro!
@@ -25,6 +26,7 @@ s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
 /watch?v=cVBzIKQJzZc //Spark AR: LUT Patch [PT-BR] - por @aliencandies
 
 # Elvis Silva
+MX-0FdVgEtw // Spark AR Studio Filtros Instagram - Como Trocar Cor de Batom
 /watch?v=yn3tzPMo0OY //Spark AR Studio Instagram Filters - Changing Glasses with Tap on Screen
 /watch?v=Ves_bHGQuPo //Spark AR Studio Instagram Filters - Working with Particles
 /watch?v=19GXplPMD-U //Spark AR Instagram Filters - How to Change Filter Background
