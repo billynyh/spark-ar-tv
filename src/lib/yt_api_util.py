@@ -29,6 +29,7 @@ def read_single_video_obj(item):
     video.channel_id = snippet["channelId"]
     video.channel_title = snippet["channelTitle"]
     video.view_count = stat["viewCount"]
+    video.tags = snippet.get("tags", [])
 
     if snippet["thumbnails"].get("standard"):
         video.highres_thumbnail_url = snippet["thumbnails"]["standard"]["url"]

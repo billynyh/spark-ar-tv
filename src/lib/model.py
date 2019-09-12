@@ -67,4 +67,4 @@ class Video:
     view_count = None
     published_at = None
     video_url = None
-        
+    tags = []        

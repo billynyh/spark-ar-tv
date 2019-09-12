@@ -12,31 +12,38 @@ eDLvXDEK7us // Spark AR. Смена эффекта/цвета по Тапу (Scr
 /watch?v=G38CHTTKUxA //Spark AR Tutorial: Screen Tap Experience
 
 # Native UI
-/watch?v=mKgo-gMEp3g //Spark AR Native UI Picker ( just for instagram )
-/watch?v=IJFodki_4uI&t=12s //Native UI Sparkar [Instagram only]
-/watch?v=xJXzh_ePbdI //Spark AR Native UI. Tutorial de como adicionar Native UI ao seu filtro!
-/watch?v=BP9QkRjiOOE //Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
+IJFodki_4uI // Native UI Sparkar [Instagram only]
+mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
+BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
+xJXzh_ePbdI // Spark AR Native UI. Tutorial de como adicionar Native UI ao seu filtro!
+
 
 # Face deformation
-/watch?v=awJsJzTP4Dc //Spark AR: Instagram Filters - Face Deformation
-/watch?v=7lx9iNagJ6o //Sparkar Studio -  Deformation Face
+7lx9iNagJ6o // Sparkar Studio -  Deformation Face
+awJsJzTP4Dc // Spark AR: Instagram Filters - Face Deformation
+
 
 # Audio
 W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.
-/watch?v=66sEjC1-y3A&t=1s //Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
-/watch?v=Cbd7kOepfLk //Spark AR Effect Development: Radiance Audio FX
-/watch?v=b5rw9Ypo7dY //Spark AR: Instagram Filter - How to convert an mp3 for use in a filter
-/watch?v=Av3vkCKOQZA //СВОЯ МАСКА В INSTAGRAM! \\ СВЕТЯЩИЕСЯ ГЛАЗА \\ ДОБАВЛЕНИЕ МУЗЫКИ \\ Spark AR
-/watch?v=dXN1fIwQPns //Cómo hacer filtros de instagram con música Tutorial Spark AR
+b5rw9Ypo7dY // Spark AR: Instagram Filter - How to convert an mp3 for use in a filter
+Av3vkCKOQZA //СВОЯ МАСКА В INSTAGRAM! \\ СВЕТЯЩИЕСЯ ГЛАЗА \\ ДОБАВЛЕНИЕ МУЗЫКИ \\ Spark AR
+66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
+sAuNuFqHChs // F8 2019: AR Music (Spark AR Studio)
+dXN1fIwQPns // Cómo hacer filtros de instagram con música Tutorial Spark AR
+Cbd7kOepfLk // Spark AR Effect Development: Radiance Audio FX
+
 
 # LUT
+tp12y4ex2W8 // Color LUTs in Spark AR part 2
 lmklVU5dzDw // Уроки Spark AR. 👌🏻 Эффект старой камеры, плёнки, vhs + LUT,  GIF Animation и Screen Tap.
-/watch?v=tp12y4ex2W8 //Color LUTs in Spark AR part 2
-/watch?v=lxF-ecbkbr4 //Color LUTs in Spark AR
-/watch?v=UjTQinvM_hk //Turn any preset or LUT into instagram effects. Spark AR tutorial
-/watch?v=cVBzIKQJzZc //Spark AR: LUT Patch [PT-BR] - por @aliencandies
-/watch?v=7pCKxzNX4sE //😎 Ваши Фильтры, Пресеты и LUT в SPARK AR 🔥Fast Color LUT Patch from Josh Beckwith. CUBE, 3DL=PNG
-/watch?v=j0n-DYLkZkQ //КАК СДЕЛАТЬ СВОЙ ФИЛЬТР В INSTAGRAM \\ LUTS in SPARK AR
+cVBzIKQJzZc // Spark AR: LUT Patch [PT-BR] - por @aliencandies
+zPAEpZCu1QI // Spark AR Crie seu LUT. Tutorial de como deixar seus filtros com cores incríveis
+7pCKxzNX4sE // 😎 Ваши Фильтры, Пресеты и LUT в SPARK AR 🔥Fast Color LUT Patch from Josh Beckwith. CUBE, 3DL=PNG
+j0n-DYLkZkQ // КАК СДЕЛАТЬ СВОЙ ФИЛЬТР В INSTAGRAM \\ LUTS in SPARK AR
+-7mJ42X9-Qc // Spark AR - Instagram Effect Breakdown - Horns
+UjTQinvM_hk // Turn any preset or LUT into instagram effects. Spark AR tutorial
+lxF-ecbkbr4 // Color LUTs in Spark AR
+
 
 # Segmentation
 Vo8cS-Xkwuo // #6 Spark AR  - отделяем задний фон камеры. Сегментация (урок).
@@ -94,3 +101,28 @@ TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 5C2OCgx65S8 // Spark AR Tutorial Target Tracker | Español
 -8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
 /watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+
+# Game
+vzy_feLMzO4 // Spark AR: Blinking Game Q&amp;A
+/watch?v=L_CoZ3XZAEA //Spark AR: Blinking Game Tutorial - Part 3
+/watch?v=IDI6xi9z3Zk&t=3s //Spark AR: Blinking Game Tutorial - Part 2
+/watch?v=APWpLdvXaiE&t=8s //Spark AR: Blinking Game Tutorial - Part 1
+/watch?v=4RSqFiOOBPM&t=126s //How to Add Score Counter In Instagram/Facebook Game
+-r256yKFeos // Spark AR Masterclass: AR and Gaming
+
+# Beauty / Makeup / Lipstick
+5iBG-RVwDEc // Spark AR Studio - Gold Tutorial : How To Make Gold ?
+d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR
+d789vqCo_-A // Johanna Jaskowska uses Spark AR Studio to re-imagine beauty
+dPCpUNwDqcY // SPARK AR LIPSTICK FACE FILTER
+y_-NUYh00I8 // #4 Tutorial Como criar filtros de maquiagem? Makeup Instagram Filters | Spark AR Brasil
+RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
+MX-0FdVgEtw // Spark AR Studio Filtros Instagram - Como Trocar Cor de Batom
+
+# Face tracker tricks
+oe0cFx5Xg9M // Spark AR Studio Filtros Instagram - Como Trocar Cor dos Olhos #SparkAR #Instagram #Tutorial
+CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
+azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting around the mouth and eyes
+p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
+W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.
+/watch?v=VYJDlyErJ0c //Spark AR Instagram Filters - Eyes Filter
