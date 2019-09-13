@@ -1,4 +1,5 @@
 import datetime
+import os
 
 from lib.api import ApiDataLoader
 from lib.model import MasterSite, Site, Group
@@ -8,6 +9,8 @@ from lib.path_util import PathHelper
 
 # parse data.txt
 def parse(file_path):
+    if not os.path.exists(file_path):
+        return []
     print("Parsing %s" % file_path)
     f = open(file_path)
     groups = []
@@ -29,6 +32,8 @@ def parse(file_path):
     return groups
  
 def parse_skip_file(file_path):
+    if not os.path.exists(file_path):
+        return []
     f = open(file_path)
     return [util.extract_youtube_id(line.strip()) for line in f.readlines() if line.strip()]
 

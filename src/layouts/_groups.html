@@ -2,7 +2,9 @@
 <div class="content">
 <div class="container-fluid">
 % for group in groups:
+  % if len(group.ids) > 0:
 <%include file="_group.html" args="group=group, video_data=site.video_data" />
+  % endif
 % endfor
 </div>
 </div>

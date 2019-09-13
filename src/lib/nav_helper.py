@@ -5,6 +5,10 @@ LANG_DISPLAY_NAME = {
   'es': 'Spanish',
   'pt': 'Portuguese',
   'ru': 'Russian',
+  'id': 'Indonesian',
+  'it': 'Italian',
+  'jp': 'Japanese',
+  'nl': 'Dutch',
   'global': 'All Languages',
 }
 
