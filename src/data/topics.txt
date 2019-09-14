@@ -81,6 +81,7 @@ _UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
 j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark Ar. Уроки по созданию маски в инстаграм.
 
 # 3D model
+5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
 /watch?v=zG5PA3lODsU //AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
 /watch?v=9HifpKbhI4w //Spark AR: Interacting with 3D objects
 /watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
@@ -105,6 +106,7 @@ TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 /watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
 
 # Game
+KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game
 vzy_feLMzO4 // Spark AR: Blinking Game Q&amp;A
 /watch?v=L_CoZ3XZAEA //Spark AR: Blinking Game Tutorial - Part 3
 /watch?v=IDI6xi9z3Zk&t=3s //Spark AR: Blinking Game Tutorial - Part 2

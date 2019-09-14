@@ -116,6 +116,7 @@ BYjxsecEbiI // Spark AR - Track Multiple Faces
 
 
 # AlwaysCoding Something
+5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
 /watch?v=gxQHNpwte3c&t=1s //How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
 
 # Lol & Epic
@@ -136,5 +137,7 @@ oOZwgC5GDxo // Add your Instagram Filter to Instagram / Spark AR upload
 /watch?v=4RSqFiOOBPM&t=126s //How to Add Score Counter In Instagram/Facebook Game
 
 # Josh Bedo
+KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game
 /watch?v=9xmR2FAsMvM //AR Spark | Playing with Face Mesh lighting effects and patch editor
 /watch?v=zG5PA3lODsU //AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
+
