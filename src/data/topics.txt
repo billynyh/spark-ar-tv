@@ -81,6 +81,7 @@ _UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
 j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark Ar. Уроки по созданию маски в инстаграм.
 
 # 3D model
+/watch?v=zG5PA3lODsU //AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
 /watch?v=9HifpKbhI4w //Spark AR: Interacting with 3D objects
 /watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
 /watch?v=gxQHNpwte3c&t=1s //How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
@@ -90,6 +91,7 @@ j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark 
 /watch?v=EVwmDDDgJM4 //Урок 10  -  Где брать 3D объекты Spark AR
 
 # Particles
+272UJik_cdM // Spark AR Partículas Novas! Novo update no sistema de partículas!
 uRWFeTWDg6U // Spark AR Studio - Partículas Vol. I
 /watch?v=p_JvPoPpLVg //Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
 /watch?v=TGYCM2-0aG0 //Instagram Spark AR partículas saindo dos olhos e particle system com PNG.
@@ -120,6 +122,7 @@ RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouchi
 MX-0FdVgEtw // Spark AR Studio Filtros Instagram - Como Trocar Cor de Batom
 
 # Face tracker tricks
+zSSX3TNSkBI // Spark AR Studio - Multiplición de Rostro - Face Extraction -
 oe0cFx5Xg9M // Spark AR Studio Filtros Instagram - Como Trocar Cor dos Olhos #SparkAR #Instagram #Tutorial
 CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
 azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting around the mouth and eyes
