@@ -46,6 +46,7 @@ lxF-ecbkbr4 // Color LUTs in Spark AR
 
 
 # Segmentation
+SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 Vo8cS-Xkwuo // #6 Spark AR  - отделяем задний фон камеры. Сегментация (урок).
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
 /watch?v=ZnYjohCVT_U //Spark AR Body Segmentation
@@ -81,6 +82,7 @@ _UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
 j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark Ar. Уроки по созданию маски в инстаграм.
 
 # 3D model
+G7V0nOhKuAk // How to rig a your own 3D model for SparkAR in Blender 2.8
 5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
 /watch?v=zG5PA3lODsU //AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
 /watch?v=9HifpKbhI4w //Spark AR: Interacting with 3D objects

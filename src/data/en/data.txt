@@ -11,6 +11,7 @@
 /watch?v=j7klMWrJFHs&t=1s //Spark AR: Instagram Filters - “Hole in the head” with Occlusion
 
 # Josh Beckwith
+vPuObKf-55I // Chromakey in Spark AR
 Lx2ImQ_MMWE // Spark AR Tap to Change
 /watch?v=e6QdecFqUCA&t=5s //Spark AR Tap to Change
 /watch?v=QUL-M5wTSw4&t=381s //Bloom effect in Spark AR
@@ -49,6 +50,7 @@ vzy_feLMzO4 // Spark AR: Blinking Game Q&amp;A
 /watch?v=REqpibMDZv4 //Spark AR Studio - Segmentation Tutorial : How To Change Background ?
 
 # Francesco Laterza
+SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 /watch?v=RhtnsgegE1A //Sparkar Studio (V69) - Tap to Change Background and Add instructions
 /watch?v=IJFodki_4uI&t=12s //Native UI Sparkar [Instagram only]
 /watch?v=_Pj8nYKHEkc //[SPARKAR STUDIO TUTORIAL] Create/Rig/Animate/Augment a Character
@@ -116,6 +118,7 @@ BYjxsecEbiI // Spark AR - Track Multiple Faces
 
 
 # AlwaysCoding Something
+G7V0nOhKuAk // How to rig a your own 3D model for SparkAR in Blender 2.8
 5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
 /watch?v=gxQHNpwte3c&t=1s //How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
 
