@@ -1,4 +1,5 @@
 # Spark AR Tutoriais em Português
+AkQiGKl1N4E // Spark AR Animando e Girando em volta da cabeça. Tutorial de como animar e rotacionar um objeto 3D!
 272UJik_cdM // Spark AR Partículas Novas! Novo update no sistema de partículas!
 zPAEpZCu1QI // Spark AR Crie seu LUT. Tutorial de como deixar seus filtros com cores incríveis
 lyK30WEi6nw // Spark AR Crie um efeito de coroa. Tutorial de como adicionar coroas com Head occluder!
