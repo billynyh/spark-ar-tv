@@ -9,6 +9,7 @@ LANG_DISPLAY_NAME = {
   'it': 'Italian',
   'jp': 'Japanese',
   'nl': 'Dutch',
+  'tr': 'Turkish',
   'global': 'All Languages',
 }
 
