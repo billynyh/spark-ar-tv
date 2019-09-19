@@ -1,40 +1,40 @@
-# Doufreelancer
-/watch?v=XDvzZVdc4Cc //Cómo hacer filtros en instagram tutorial en Español | Efecto Vintage
-WJaPYMMm554 // Cómo hacer filtros en instagram tutorial en Español | MASCARAS paso a paso
-/watch?v=cPrQW_SFTGY //Spark AR Tutorial Instagram en Español | USAR EN 2 CARAS
-/watch?v=Nz_ntJqRCfc //Spark AR Tutorial Instagram en Español | SCREEN TAP
-/watch?v=4sZc4mH_bOI //Cómo crear efectos o filtros para Instagram con Spark AR | Cambiar el fondo
-/watch?v=j416Hlsh8v8 //Filtro para Instagram de Harry Potter con Spark AR Studio
-/watch?v=dXN1fIwQPns //Cómo hacer filtros de instagram con música Tutorial Spark AR
-/watch?v=NlXFaCqxCsk //Filtro para Instagram con Spark Ar
-/watch?v=nTp5DkVaxbc //Cómo crear efectos o filtros para instagram Plano 2D
-/watch?v=x2eM0MeI4Dk //Cómo crear efectos o filtros para Instagram con Spark AR | Principiantes
-/watch?v=E5AeBJNUQds //Cómo cargar un filtro o efecto en Instagram
-
 # Cybertutoriales
 zSSX3TNSkBI // Spark AR Studio - Multiplición de Rostro - Face Extraction -
 HIFc9UUpnFQ // Spark AR Studio - Efecto de Carrousel elementos 3D - EatPizza_V68
 gc1mmpcRBvY // Spark AR Studio - Face Landmarks - Exacta ubicación de elementos en el rostro.
-/watch?v=cpLXrctYrik&t=9s //Spark AR Studio - Efectos de Lentes - Objetos 3D
-/watch?v=jaUYruyFUC0 //Spark AR Studio - Gradiente multicolor, animado
-/watch?v=qKj6tSOolqk //Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación -
-/watch?v=Q_iQCbm02w8 //Spark AR Studio - Gradientes en un fondo 2D, en la textura de cámara y Segmentation.
-/watch?v=iv9kZ_0rTX0 //Spark AR Studio. Interacción con gestos del usuario y cambio entre efectos
-/watch?v=-VLqitb7WRQ //Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
+cpLXrctYrik // Spark AR Studio - Efectos de Lentes - Objetos 3D
+jaUYruyFUC0 // Spark AR Studio - Gradiente multicolor, animado
+qKj6tSOolqk // Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación -
+Q_iQCbm02w8 // Spark AR Studio - Gradientes en un fondo 2D, en la textura de cámara y Segmentation.
+iv9kZ_0rTX0 // Spark AR Studio. Interacción con gestos del usuario y cambio entre efectos
+-VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
+
+# Doufreelancer
+XDvzZVdc4Cc // Cómo hacer filtros en instagram tutorial en Español | Efecto Vintage
+WJaPYMMm554 // Cómo hacer filtros en instagram tutorial en Español | MASCARAS paso a paso
+cPrQW_SFTGY // Spark AR Tutorial Instagram en Español | USAR EN 2 CARAS
+Nz_ntJqRCfc // Spark AR Tutorial Instagram en Español | SCREEN TAP
+j416Hlsh8v8 // Filtro para Instagram de Harry Potter con Spark AR Studio
+4sZc4mH_bOI // Cómo crear efectos o filtros para Instagram con Spark AR | Cambiar el fondo
+dXN1fIwQPns // Cómo hacer filtros de instagram con música Tutorial Spark AR
+NlXFaCqxCsk // Filtro para Instagram con Spark Ar
+nTp5DkVaxbc // Cómo crear efectos o filtros para instagram Plano 2D
+x2eM0MeI4Dk // Cómo crear efectos o filtros para Instagram con Spark AR | Principiantes
+E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
 
 # Emiliusvgs
 D5w-QcVNt3U // Spark AR Tutorial: Gif to Sprite Sheet | 2 Face trackers
 OQ64xKSeyEk // Spark AR Tutorial: Interacción 3D (Rotar & Escalar)
 5C2OCgx65S8 // Spark AR Tutorial Target Tracker | Español
-/watch?v=huS6O9seuG0 //How to publish Spark AR filters to Instagram or Facebook?
-/watch?v=G38CHTTKUxA //Spark AR Tutorial: Screen Tap Experience
-/watch?v=VsLjCqNBd1o&t=6s //Spark AR Tutorial: Hand Tracker (with subtitles)
-/watch?v=CUDt2FXFGwM //Spark AR Tutorial Segmentation & Camera texture
+huS6O9seuG0 // ¿Cómo publicar filtros de Spark AR hacia Instagram o Facebook?
+G38CHTTKUxA // Spark AR Tutorial: Screen Tap experiencia
+VsLjCqNBd1o // Spark AR Tutorial:  Hand Tracker en español
+CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
 
 # MDALatam studio dyn Fotografia
-/watch?v=tk-pPlLi5Co //Spark Ar studio Botones desplegables-Drop-down buttons
+tk-pPlLi5Co // Spark Ar studio Botones desplegables-Drop-down buttons
 tbcxVqAd8Hw // Spark Ar Studio Mda latam
 m5JrirtgiOg // Spark Ar Studio Mda latam
 
 # YeYo
-/watch?v=AbaknB4FlAM&t=1s //¡Cómo CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM! 📱
+AbaknB4FlAM // ¡Cómo CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM! 📱

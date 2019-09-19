@@ -37,12 +37,12 @@ def parse_skip_file(file_path):
     f = open(file_path)
     return [util.extract_youtube_id(line.strip()) for line in f.readlines() if line.strip()]
 
-def process_groups(groups, video_data):
+def process_groups(groups, video_data, merge_small_groups = True):
     # merge all groups with less than 2 vid to Others
     result = []
     others = []
     for group in groups:
-        if len(group.ids) <= 2:
+        if merge_small_groups and len(group.ids) <= 2:
             others += group.ids
         else:
             result.append(group)
@@ -116,7 +116,8 @@ def group_by_time(video_data):
         start_date = end_date
     return groups
 
-def load_site_data(config, path="data/en", api_key = None):
+def load_site_data(config, path="data/en", merge_small_groups = True):
+    api_key = config.api_key
     ph = PathHelper(path)
 
     groups = parse(ph.get_data_file())
@@ -139,7 +140,7 @@ def load_site_data(config, path="data/en", api_key = None):
     video_data = load_video_data(all_youtube_ids, api_key)
 
     # merge and sort
-    groups = process_groups(groups, video_data)
+    groups = process_groups(groups, video_data, merge_small_groups)
 
     site = Site()
     site.groups = groups
@@ -168,17 +169,17 @@ def sort_videos(video_data):
     return (most_viewed, latest)
 
 
-def single_lang_site(config, lang, api_key):
+def single_lang_site(config, lang, merge_small_groups = True):
     site = load_site_data(
         config, 
         path = "data/%s" % lang,
-        api_key = api_key)
+        merge_small_groups = merge_small_groups)
     site.url = config.site_config.url
     site.site_config = config.site_config
     site.lang = lang
     return site
 
-def global_site(config, api_key):
+def global_site(config):
     site = Site()
     site.video_data = None
     site.url = config.site_config.url
@@ -191,19 +192,19 @@ def global_site(config, api_key):
     
     all_groups = site.groups + site.facebook + site.topics
     all_youtube_ids = set([id for g in all_groups for id in g.ids])
-    site.video_data = load_video_data(all_youtube_ids, api_key)
+    site.video_data = load_video_data(all_youtube_ids, config.api_key)
     site.groups_by_time = group_by_time(site.video_data)
     for topic in site.topics:
         topic.ids = sort_video_ids_by_time(topic.ids, site.video_data)
     return site
 
-def master_site(config):
+def master_site(config, merge_small_groups = True):
     master = MasterSite()
     api_key = config.api_key
     print(api_key)
     for lang in config.site_config.languages:
-        master.lang_sites[lang] = single_lang_site(config, lang, api_key)
-    master.global_site = global_site(config, api_key)
+        master.lang_sites[lang] = single_lang_site(config, lang, merge_small_groups)
+    master.global_site = global_site(config)
     master.config = config
 
     return master
