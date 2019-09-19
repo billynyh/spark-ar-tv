@@ -34,6 +34,7 @@ Cbd7kOepfLk // Spark AR Effect Development: Radiance Audio FX
 
 
 # LUT
+4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 tp12y4ex2W8 // Color LUTs in Spark AR part 2
 lmklVU5dzDw // Уроки Spark AR. 👌🏻 Эффект старой камеры, плёнки, vhs + LUT,  GIF Animation и Screen Tap.
 cVBzIKQJzZc // Spark AR: LUT Patch [PT-BR] - por @aliencandies
@@ -65,6 +66,7 @@ TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 /watch?v=4sZc4mH_bOI //Cómo crear efectos o filtros para Instagram con Spark AR | Cambiar el fondo
 
 # Animation / Gif
+D5w-QcVNt3U // Spark AR Tutorial: Gif to Sprite Sheet | 2 Face trackers
 lmklVU5dzDw // Уроки Spark AR. 👌🏻 Эффект старой камеры, плёнки, vhs + LUT,  GIF Animation и Screen Tap.
 /watch?v=mit9xcOSsUQ //Spark AR: Instagram Filters - Animation Basics
 /watch?v=cLQVGv8gG90&t=11s //Spark AR: Instagram Filters - How to use gifs as Sprite Sheets
@@ -133,3 +135,14 @@ azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
 W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.
 /watch?v=VYJDlyErJ0c //Spark AR Instagram Filters - Eyes Filter
+
+# SDF
+gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
+
+# Face Retouching
+4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
+RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
+
+# Shader
+n3ZXo7GUiAo // Spark AR Toon Shader
+6rcTbfrVyWo // Spark AR MatCap shader
