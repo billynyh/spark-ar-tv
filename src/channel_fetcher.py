@@ -5,7 +5,7 @@ import argparse
 import config_factory
 from site_config import DEVELOPER_KEY
 from lib.api import ApiDataLoader
-from lib.data_loader import load_site_data, load_skip_ids
+from lib.data_loader import *
 
 def get_video_id(item):
     return item['id']['videoId']
@@ -28,11 +28,11 @@ def filter_videos(items, known_ids, keyword):
             result.append(item)
     return result
 
-def fetch_all(config, lang, new_only = True, keyword="spark", max_result=10):
+def fetch_all(config, master, lang, new_only = True, keyword="spark", max_result=10):
     api = ApiDataLoader(DEVELOPER_KEY)
 
     data_dir = "data/%s" % lang
-    site = load_site_data(config, path=data_dir, api_key=DEVELOPER_KEY)
+    site = master.lang_sites[lang]
     all_ids = set(site.video_data.keys())
     skip_ids = set(load_skip_ids(data_dir))
     channels = set([(v.channel_id, v.channel_title) for v in site.video_data.values()])
@@ -49,7 +49,7 @@ def fetch_all(config, lang, new_only = True, keyword="spark", max_result=10):
     
     if len(result) == 0:
         print("No new data")
-        return
+        return master
 
     for v in result:
         print("# %s" % v[0])
@@ -57,26 +57,35 @@ def fetch_all(config, lang, new_only = True, keyword="spark", max_result=10):
             print("%s // %s" % (item.id, item.title))
         print()
 
-def list_channels(config):
-    site = load_site_data(config)
-    channels = dict([(v.channel_id, v.channel_title) for v in site.video_data.values()])
-    for id,title in channels.items():
-        print("%s # %s" % (id, title))
-
-def facebook_playlist():
-    ids = "PLb0IAmt7-GS3YTAnK4PkLCAuB1niVQKhy,PLb0IAmt7-GS3AIinKLd6_UO59uwxY_37i,PLb0IAmt7-GS23uF0mQ0T2pDSVnmpSRmmf".split(',')
-    api = ApiDataLoader(DEVELOPER_KEY)
-    result = []
-    for id in ids:
-        items = api.fetch_playlist(id, max_result=20)
-        result.append((id, items))
-
     for v in result:
-        print("# %s" % v[0])
-        for item in v[1]:
-            print("%s // %s" % (item.id, item.title))
-        print()
+        for g in site.groups:
+            if g.title == v[0]:
+                for item in v[1]:
+                    g.ids.append(item.id)
+    # Reload video data
+    all_youtube_ids = [id for g in site.groups for id in g.ids]
+    site.video_data = load_video_data(all_youtube_ids, config.api_key)
+    return master
+
+def dump_site(site):
+    lines = []
+    groups = sorted(site.groups, key = lambda group: group.title.lower())
+    for group in groups:
+        lines.append("# %s" % group.title)
+        for id in group.ids:
+            lines.append("%s // %s" % (id, site.video_data[id].title))
+        lines.append("")
+    return lines
+
+def cleanup(master):
     
+    for site in master.lang_sites.values():
+        lines = dump_site(site)
+        # write back to data file
+        with open("data/%s/data.txt" % site.lang, "w") as f:
+            f.write('\n'.join(lines))
+            print("Updated %s" % f.name)
+
 
 def main():
     parser = argparse.ArgumentParser(description='Search video in channel')
@@ -86,14 +95,15 @@ def main():
     args = parser.parse_args()
 
     config = config_factory.load()
+    master = master_site(config, merge_small_groups = False)
 
     if args.id is None:
         for lang in config.site_config.languages:
             print("==== Fetching %s ====" % lang)
-            fetch_all(config, lang, keyword = args.keyword, max_result = args.max)
+            master = fetch_all(config, master, lang, keyword = args.keyword, max_result = args.max)
+        cleanup(master)
     else:
         print("TODO fetch single channel")
 
 if __name__=="__main__":
     main()
-    #facebook_playlist()

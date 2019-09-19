@@ -8,6 +8,7 @@
 G7V0nOhKuAk // How to rig a your own 3D model for SparkAR in Blender 2.8
 5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
 gxQHNpwte3c // How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
+gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 
 # Caroline Dunn
 -8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
@@ -73,6 +74,7 @@ QGQ-YVuY9Qo // Spark AR Translations
 5oRBVUNK6iI // Spark AR Translations (continued)
 Cbd7kOepfLk // Spark AR Effect Development: Radiance Audio FX
 o-QKwgYIHdE // Spark AR Effect Development: Radiance
+4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 
 # Josh Bedo
 KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game

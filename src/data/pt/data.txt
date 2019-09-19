@@ -45,6 +45,7 @@ LVrlXIwUgkw // Instagram Spark AR Como adicionar um óculos com Head Occluder
 TGYCM2-0aG0 // Instagram Spark AR partículas saindo dos olhos e particle system com PNG.
 abNCZDtc0dA // Instagram Spark AR Texto acima da cabeça
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
+uXcicx3cGhE // Spark AR dando Zoom. Tutorial de como dar Zoom em um retângulo!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
