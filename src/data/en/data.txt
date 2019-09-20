@@ -83,6 +83,7 @@ o-QKwgYIHdE // Spark AR Effect Development: Radiance
 KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game
 9xmR2FAsMvM // AR Spark | Playing with Face Mesh lighting effects and patch editor
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
+wvrT0LuU_Mc // Spark AR | Creating filters for Facebook and Instagram | LIVESTREAM
 
 # Lol & Epic
 l3kcupzw6-w // Epic edit filtering IG / Spark AR , Adobe Photoshop

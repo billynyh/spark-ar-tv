@@ -8,6 +8,7 @@ qKj6tSOolqk // Spark AR Studio - Neonaura - Efecto sencillo basado en segmentaci
 Q_iQCbm02w8 // Spark AR Studio - Gradientes en un fondo 2D, en la textura de cámara y Segmentation.
 iv9kZ_0rTX0 // Spark AR Studio. Interacción con gestos del usuario y cambio entre efectos
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
+zAtsHhbH1AI // Spark AR Studio - Cómo hacer sistemas de párticulas flotando en el ambiente
 
 # Doufreelancer
 XDvzZVdc4Cc // Cómo hacer filtros en instagram tutorial en Español | Efecto Vintage
