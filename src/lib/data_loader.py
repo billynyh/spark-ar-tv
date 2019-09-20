@@ -205,6 +205,7 @@ def master_site(config, merge_small_groups = True):
     for lang in config.site_config.languages:
         master.lang_sites[lang] = single_lang_site(config, lang, merge_small_groups)
     master.global_site = global_site(config)
+    master.global_site.most_viewed = master.lang_sites['en'].most_viewed
     master.config = config
 
     return master
