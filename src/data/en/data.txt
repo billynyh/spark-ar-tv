@@ -5,10 +5,10 @@
 0aWK8mXwBwM // Occluder Planes SparkAR Tutorial
 
 # AlwaysCoding Something
+gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 G7V0nOhKuAk // How to rig a your own 3D model for SparkAR in Blender 2.8
 5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
 gxQHNpwte3c // How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
-gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 
 # Caroline Dunn
 -8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
@@ -61,6 +61,7 @@ yVjb6iBHFo8 // Body Segmentation with SparkAr Studio
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
 # Josh Beckwith
+4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 vPuObKf-55I // Chromakey in Spark AR
 Lx2ImQ_MMWE // Spark AR Tap to Change
 e6QdecFqUCA // Spark AR Tap to Change
@@ -74,7 +75,6 @@ QGQ-YVuY9Qo // Spark AR Translations
 5oRBVUNK6iI // Spark AR Translations (continued)
 Cbd7kOepfLk // Spark AR Effect Development: Radiance Audio FX
 o-QKwgYIHdE // Spark AR Effect Development: Radiance
-4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 
 # Josh Bedo
 KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game
@@ -132,6 +132,7 @@ CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth
 REqpibMDZv4 // Spark AR Studio - Segmentation Tutorial : How To Change Background ?
 
 # USOV ART - CG channel
+6m9Y_QeUckA // 3D OBJECTS in INSTAGRAM FACE FILTER / Spark AR tutorial
 dPCpUNwDqcY // SPARK AR LIPSTICK FACE FILTER
 oOZwgC5GDxo // Add your Instagram Filter to Instagram / Spark AR upload
 A-EtXzBzfwQ // MAKE YOUR OWN INSTAGRAM FACE FILTER / INSTAGRAM MASK
