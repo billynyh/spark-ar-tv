@@ -2,51 +2,52 @@
 N7XaiwBYPUE // Como criar um filtro de realidade aumentada para o instagram? ( Spark AR Review 📷)
 
 # Elvis Silva
-91QvILIuSqc // Spark AR Studio Filtros Instagram - Como capturar mais de um rosto #SparkAR #Instagram #Tutorial
-oe0cFx5Xg9M // Spark AR Studio Filtros Instagram - Como Trocar Cor dos Olhos #SparkAR #Instagram #Tutorial
-MX-0FdVgEtw // Spark AR Studio Filtros Instagram - Como Trocar Cor de Batom
-yn3tzPMo0OY // Spark AR Studio Filtros Instagram - Trocando óculos com tap na tela
-Ves_bHGQuPo // Spark AR Studio Filtros Instagram - Trabalhando com Partículas
-19GXplPMD-U // Spark AR Studio Filtros Instagram - Como Trocar Fundo do Filtro
-M96jlohOWO0 // Spark AR Studio Filtros Instagram - Como criar filtro de máscara
-T7u4Y6pzL1Q // Spark AR Studio Filtros Instagram - Como colocar orelhas de gatinho
-IZY3_bwXC5I // Spark AR Studio Filtros Instagram - Criar filtro faca na cabeça
 wjMNoRznDCs // Spark AR Studio Filtros Instagram - Pinturas no Rosto
 VYJDlyErJ0c // Spark AR Studio Filtros Instagram - Filtro nos olhos
+T7u4Y6pzL1Q // Spark AR Studio Filtros Instagram - Como colocar orelhas de gatinho
+IZY3_bwXC5I // Spark AR Studio Filtros Instagram - Criar filtro faca na cabeça
+M96jlohOWO0 // Spark AR Studio Filtros Instagram - Como criar filtro de máscara
+19GXplPMD-U // Spark AR Studio Filtros Instagram - Como Trocar Fundo do Filtro
+Ves_bHGQuPo // Spark AR Studio Filtros Instagram - Trabalhando com Partículas
+yn3tzPMo0OY // Spark AR Studio Filtros Instagram - Trocando óculos com tap na tela
+MX-0FdVgEtw // Spark AR Studio Filtros Instagram - Como Trocar Cor de Batom
+oe0cFx5Xg9M // Spark AR Studio Filtros Instagram - Como Trocar Cor dos Olhos #SparkAR #Instagram #Tutorial
+91QvILIuSqc // Spark AR Studio Filtros Instagram - Como capturar mais de um rosto #SparkAR #Instagram #Tutorial
 
 # Fino
-uRWFeTWDg6U // Spark AR Studio - Partículas Vol. I
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
+uRWFeTWDg6U // Spark AR Studio - Partículas Vol. I
 
 # Ranyere Almeida
 cVBzIKQJzZc // Spark AR: LUT Patch [PT-BR] - por @aliencandies
 BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 
 # Spark AR Brasil
+7-czdbwKNqk // #1 Tutorial Filtro de Luzes Coloridas | Spark AR Brasil
+gJ_gu-4QqAg // #2 Tutorial Fixar Objeto na Cabeça + Publicando seu Filtro no Facebook | Spark AR Brasil
+7HgY3wrwK24 // #1 Dúvidas Como criar / publicar filtros no Instagram? LEIA A DESCRIÇÃO | Spark AR Brasil
+O3-c0c8XJWQ // #3 Tutorial Filtros com Toque para Alterar - Tap to Change | Spark AR Brasil
 y_-NUYh00I8 // #4 Tutorial Como criar filtros de maquiagem? Makeup Instagram Filters | Spark AR Brasil
 hlwlgogHlCI // #2 Dúvidas Como publicar filtros no Instagram? ATUALIZAÇÃO DO PRIMEIRO VÍDEO | Spark AR Brasil
-O3-c0c8XJWQ // #3 Tutorial Filtros com Toque para Alterar - Tap to Change | Spark AR Brasil
-7HgY3wrwK24 // #1 Dúvidas Como criar / publicar filtros no Instagram? LEIA A DESCRIÇÃO | Spark AR Brasil
-gJ_gu-4QqAg // #2 Tutorial Fixar Objeto na Cabeça + Publicando seu Filtro no Facebook | Spark AR Brasil
-7-czdbwKNqk // #1 Tutorial Filtro de Luzes Coloridas | Spark AR Brasil
 
 # Spark AR Tutoriais em Português
-uXcicx3cGhE // Spark AR dando Zoom. Tutorial de como dar Zoom em um retângulo!
-AkQiGKl1N4E // Spark AR Animando e Girando em volta da cabeça. Tutorial de como animar e rotacionar um objeto 3D!
-272UJik_cdM // Spark AR Partículas Novas! Novo update no sistema de partículas!
-zPAEpZCu1QI // Spark AR Crie seu LUT. Tutorial de como deixar seus filtros com cores incríveis
-lyK30WEi6nw // Spark AR Crie um efeito de coroa. Tutorial de como adicionar coroas com Head occluder!
-W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.
-oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
-RjBkrvU-W80 // Spark AR Toque para alterar. Tutorial de como mudar seu efeito ao toque!
-xJXzh_ePbdI // Spark AR Native UI. Tutorial de como adicionar Native UI ao seu filtro!
-efiaOknjrIM // Spark AR Mudando a cor dos olhos. Tutorial de como alterar a cor dos olhos para Instagram
-1rOV0oh2tqQ // Spark AR Sardas e maquiagem. Tutorial de como adicionar sardas ao seu filtro!
-f5uA87D4xL8 // Spark AR Mudando o background. Tutorial de como remover o fundo da sua foto com segmentação!
-LVrlXIwUgkw // Instagram Spark AR Como adicionar um óculos com Head Occluder
-TGYCM2-0aG0 // Instagram Spark AR partículas saindo dos olhos e particle system com PNG.
-abNCZDtc0dA // Instagram Spark AR Texto acima da cabeça
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
+abNCZDtc0dA // Instagram Spark AR Texto acima da cabeça
+TGYCM2-0aG0 // Instagram Spark AR partículas saindo dos olhos e particle system com PNG.
+LVrlXIwUgkw // Instagram Spark AR Como adicionar um óculos com Head Occluder
+f5uA87D4xL8 // Spark AR Mudando o background. Tutorial de como remover o fundo da sua foto com segmentação!
+1rOV0oh2tqQ // Spark AR Sardas e maquiagem. Tutorial de como adicionar sardas ao seu filtro!
+efiaOknjrIM // Spark AR Mudando a cor dos olhos. Tutorial de como alterar a cor dos olhos para Instagram
+xJXzh_ePbdI // Spark AR Native UI. Tutorial de como adicionar Native UI ao seu filtro!
+RjBkrvU-W80 // Spark AR Toque para alterar. Tutorial de como mudar seu efeito ao toque!
+oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
+W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.
+lyK30WEi6nw // Spark AR Crie um efeito de coroa. Tutorial de como adicionar coroas com Head occluder!
+zPAEpZCu1QI // Spark AR Crie seu LUT. Tutorial de como deixar seus filtros com cores incríveis
+272UJik_cdM // Spark AR Partículas Novas! Novo update no sistema de partículas!
+AkQiGKl1N4E // Spark AR Animando e Girando em volta da cabeça. Tutorial de como animar e rotacionar um objeto 3D!
+uXcicx3cGhE // Spark AR dando Zoom. Tutorial de como dar Zoom em um retângulo!
+lXCJjuQXrQM // Spark AR Native UI múltiplos. Native UI em várias pessoas ou materiais!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas

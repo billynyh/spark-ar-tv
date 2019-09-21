@@ -72,7 +72,8 @@ def dump_site(site):
     groups = sorted(site.groups, key = lambda group: group.title.lower())
     for group in groups:
         lines.append("# %s" % group.title)
-        for id in group.ids:
+        ids = sorted(group.ids, key = lambda id: (site.video_data[id].raw_published_at, id))
+        for id in ids:
             lines.append("%s // %s" % (id, site.video_data[id].title))
         lines.append("")
     return lines
@@ -92,10 +93,15 @@ def main():
     parser.add_argument('--id', type=str)
     parser.add_argument('--keyword', '-k', type=str, default="spark")
     parser.add_argument('--max', '-m', type=int, default=10)
+    parser.add_argument('--cleanup', action='store_true')
     args = parser.parse_args()
 
     config = config_factory.load()
     master = master_site(config, merge_small_groups = False)
+
+    if args.cleanup:
+        cleanup(master)
+        return
 
     if args.id is None:
         for lang in config.site_config.languages:

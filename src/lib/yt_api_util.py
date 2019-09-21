@@ -39,6 +39,7 @@ def read_single_video_obj(item):
         video.highres_thumbnail_url = video.thumbnail_url
 
     video.published_at = text_util.formate_date(raw_published_at)
+    video.raw_published_at = raw_published_at
     video.duration = text_util.format_duration(raw_duration)
     video.video_url = "https://youtube.com/watch?v=%s" % id
     video.channel_url = "https://www.youtube.com/channel/%s" % video.channel_id

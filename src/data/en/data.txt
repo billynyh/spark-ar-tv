@@ -5,28 +5,28 @@
 0aWK8mXwBwM // Occluder Planes SparkAR Tutorial
 
 # AlwaysCoding Something
-gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
-G7V0nOhKuAk // How to rig a your own 3D model for SparkAR in Blender 2.8
-5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
 gxQHNpwte3c // How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
+5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
+G7V0nOhKuAk // How to rig a your own 3D model for SparkAR in Blender 2.8
+gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 
 # Caroline Dunn
--8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
-T1dFtHmRIlI // How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
+T1dFtHmRIlI // How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
+-8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
 
 # Catalyst
-5uzCoKQ60Tk // Spark AR - Interactions Redux
-TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
+S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
+_UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
+_8NOUY11kyw // Spark AR comes to Windows and other rambles
+lO48fuDJKvA // Spark AR Studio - Beta changes and UI Overview
+kxToFTQnMV0 // SPARK AR Studio - Dual Lens Effect
+g6qtVejgjUQ // Spark AR Studio - Making a Working UI
+oCF4JtpLa0o // Spark AR - 7 Things to Remember
 R0pTosVgmnM // Spark AR Studio - V66+ Changes
 9lg6X-hROmQ // Spark AR Studio - Comment Requested Tutorials #1
-oCF4JtpLa0o // Spark AR - 7 Things to Remember
-g6qtVejgjUQ // Spark AR Studio - Making a Working UI
-kxToFTQnMV0 // SPARK AR Studio - Dual Lens Effect
-lO48fuDJKvA // Spark AR Studio - Beta changes and UI Overview
-_8NOUY11kyw // Spark AR comes to Windows and other rambles
-_UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
-S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
+TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
+5uzCoKQ60Tk // Spark AR - Interactions Redux
 
 # Corridor Crew
 GUNl32dzslc // Our New Instagram Filter Will Give You Big Brain
@@ -38,115 +38,116 @@ GUNl32dzslc // Our New Instagram Filter Will Give You Big Brain
 LDbmH8pyjjY // MAKE YOUR OWN INSTAGRAM FILTER IN 10 MINUTES
 
 # Eugene Soh
-txhHU2K_3Jw // Facebook Developer Circle Talk - Spark AR by Eugene Soh
 oigtv1210wY // Spark AR Day Singapore [Eugene Soh]
+txhHU2K_3Jw // Facebook Developer Circle Talk - Spark AR by Eugene Soh
 
 # Eugene Training
-x0CxUl54TkI // Spark AR Studio Publish to Facebook
-ZdpSqnhMQag // Spark Ar Studio - Creative Mask
-A1S8r-Tmi-U // How you can learn Augmented Reality without coding
-f6mlfjizIGs // Spark AR Studio Workflow Overview
-BiGKgdll2jE // Spark AR Studio First look to the Interface
-Zmh1sqPYXco // 01 Spark AR Studio, versions 63 and 64 Beta
 VW29sr7S-gU // Spark AR
+Zmh1sqPYXco // 01 Spark AR Studio, versions 63 and 64 Beta
+BiGKgdll2jE // Spark AR Studio First look to the Interface
+f6mlfjizIGs // Spark AR Studio Workflow Overview
+ZdpSqnhMQag // Spark Ar Studio - Creative Mask
+x0CxUl54TkI // Spark AR Studio Publish to Facebook
+A1S8r-Tmi-U // How you can learn Augmented Reality without coding
 
 # Francesco Laterza
-SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
-RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructions
-IJFodki_4uI // Native UI Sparkar [Instagram only]
-_Pj8nYKHEkc // [SPARKAR STUDIO TUTORIAL] Create/Rig/Animate/Augment a Character
-yVjb6iBHFo8 // Body Segmentation with SparkAr Studio
-7lx9iNagJ6o // Sparkar Studio -  Deformation Face
-4-AtN6b2Xyc // How to create your own Instagram and Facebook Face Mask Filter
 0spiI5g3qsQ // Image Recognition in 2 minutes with SparkAR Studio - Augmented Reality TUTORIAL
+4-AtN6b2Xyc // How to create your own Instagram and Facebook Face Mask Filter
+7lx9iNagJ6o // Sparkar Studio -  Deformation Face
+yVjb6iBHFo8 // Body Segmentation with SparkAr Studio
+_Pj8nYKHEkc // [SPARKAR STUDIO TUTORIAL] Create/Rig/Animate/Augment a Character
+IJFodki_4uI // Native UI Sparkar [Instagram only]
+RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructions
+SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 
 # iediting
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
 # Josh Beckwith
-4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
-vPuObKf-55I // Chromakey in Spark AR
-Lx2ImQ_MMWE // Spark AR Tap to Change
-e6QdecFqUCA // Spark AR Tap to Change
-QUL-M5wTSw4 // Bloom effect in Spark AR
-7l423Ro4WM4 // Threshold effect in Spark AR
-VbFEAbeGmQc // Edge Detection in Spark AR
-tp12y4ex2W8 // Color LUTs in Spark AR part 2
-lxF-ecbkbr4 // Color LUTs in Spark AR
+o-QKwgYIHdE // Spark AR Effect Development: Radiance
+Cbd7kOepfLk // Spark AR Effect Development: Radiance Audio FX
 ZnYjohCVT_U // Spark AR Body Segmentation
 QGQ-YVuY9Qo // Spark AR Translations
 5oRBVUNK6iI // Spark AR Translations (continued)
-Cbd7kOepfLk // Spark AR Effect Development: Radiance Audio FX
-o-QKwgYIHdE // Spark AR Effect Development: Radiance
+lxF-ecbkbr4 // Color LUTs in Spark AR
+tp12y4ex2W8 // Color LUTs in Spark AR part 2
+VbFEAbeGmQc // Edge Detection in Spark AR
+7l423Ro4WM4 // Threshold effect in Spark AR
+QUL-M5wTSw4 // Bloom effect in Spark AR
+e6QdecFqUCA // Spark AR Tap to Change
+Lx2ImQ_MMWE // Spark AR Tap to Change
+vPuObKf-55I // Chromakey in Spark AR
+4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 
 # Josh Bedo
-KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game
-9xmR2FAsMvM // AR Spark | Playing with Face Mesh lighting effects and patch editor
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
+9xmR2FAsMvM // AR Spark | Playing with Face Mesh lighting effects and patch editor
+KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game
 wvrT0LuU_Mc // Spark AR | Creating filters for Facebook and Instagram | LIVESTREAM
+dZlBUt9XDp4 // Spark AR | LIVESTREAM
 
 # Lol & Epic
 l3kcupzw6-w // Epic edit filtering IG / Spark AR , Adobe Photoshop
 
 # Look Ahead Labs
-cWXuxhD7sAc // Snakeman effect explained
 w5C9PMaHzhc // AR for Fun and Branding
+cWXuxhD7sAc // Snakeman effect explained
 
 # Luke Hurd
-_DHYSYVqMow // Spark AR: Instagram Filters - Getting Started: The Basics
-CkVPmixUqGA // Spark AR: Instagram Filters - Getting Started: The Facemesh
-b5rw9Ypo7dY // Spark AR: Instagram Filter - How to convert an mp3 for use in a filter
-mit9xcOSsUQ // Spark AR: Instagram Filters - Animation Basics
-WWddZJflU0g // Spark AR: Instagram Filters - Import ANY video for testing!
-awJsJzTP4Dc // Spark AR: Instagram Filters - Face Deformation
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
 cLQVGv8gG90 // Spark AR: Instagram Filters - How to use gifs as Sprite Sheets
 VvYa5yF38xQ // Spark AR - Instagram Effect Breakdown ("Automaton")
 CvVhlCBInvI // Spark AR: Instagram Effect Breakdown ("Wichita")
+awJsJzTP4Dc // Spark AR: Instagram Filters - Face Deformation
+WWddZJflU0g // Spark AR: Instagram Filters - Import ANY video for testing!
+mit9xcOSsUQ // Spark AR: Instagram Filters - Animation Basics
+b5rw9Ypo7dY // Spark AR: Instagram Filter - How to convert an mp3 for use in a filter
+_DHYSYVqMow // Spark AR: Instagram Filters - Getting Started: The Basics
+CkVPmixUqGA // Spark AR: Instagram Filters - Getting Started: The Facemesh
 
 # Manhsplains
-azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting around the mouth and eyes
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
+azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting around the mouth and eyes
 
 # Maru Studio
-vzy_feLMzO4 // Spark AR: Blinking Game Q&A
-L_CoZ3XZAEA // Spark AR: Blinking Game Tutorial - Part 3
-IDI6xi9z3Zk // Spark AR: Blinking Game Tutorial - Part 2
-APWpLdvXaiE // Spark AR: Blinking Game Tutorial - Part 1
--OC42XQM9kY // Spark AR: UI Interaction - Interactive with 2D objects
-9HifpKbhI4w // Spark AR: Interacting with 3D objects
-RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
 Dbhy8C3aI_A // Spark AR Studio - Tutorial for beginners
+RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
+9HifpKbhI4w // Spark AR: Interacting with 3D objects
+-OC42XQM9kY // Spark AR: UI Interaction - Interactive with 2D objects
+APWpLdvXaiE // Spark AR: Blinking Game Tutorial - Part 1
+IDI6xi9z3Zk // Spark AR: Blinking Game Tutorial - Part 2
+L_CoZ3XZAEA // Spark AR: Blinking Game Tutorial - Part 3
+vzy_feLMzO4 // Spark AR: Blinking Game Q&A
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
 
 # OnaMadderz
-WvmfpvHoaNI // Spark AR - Fill Parent V69.0
-BYjxsecEbiI // Spark AR - Track Multiple Faces
-UjTQinvM_hk // Turn any preset or LUT into instagram effects. Spark AR tutorial
--7mJ42X9-Qc // Spark AR - Instagram Effect Breakdown - Horns
 JahuumWeWbI // Tap to change / Add instructions - Spark AR beginner tutorial
+-7mJ42X9-Qc // Spark AR - Instagram Effect Breakdown - Horns
+UjTQinvM_hk // Turn any preset or LUT into instagram effects. Spark AR tutorial
+BYjxsecEbiI // Spark AR - Track Multiple Faces
+WvmfpvHoaNI // Spark AR - Fill Parent V69.0
 
 # Ray Leung
-vfMXwODsXa0 // Spark AR - How to extract face features
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
+vfMXwODsXa0 // Spark AR - How to extract face features
 
 # Robbie C
-66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
-l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
-5iBG-RVwDEc // Spark AR Studio - Gold Tutorial : How To Make Gold ?
-CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
 REqpibMDZv4 // Spark AR Studio - Segmentation Tutorial : How To Change Background ?
+CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
+5iBG-RVwDEc // Spark AR Studio - Gold Tutorial : How To Make Gold ?
+l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
+66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
 
 # USOV ART - CG channel
-6m9Y_QeUckA // 3D OBJECTS in INSTAGRAM FACE FILTER / Spark AR tutorial
-dPCpUNwDqcY // SPARK AR LIPSTICK FACE FILTER
-oOZwgC5GDxo // Add your Instagram Filter to Instagram / Spark AR upload
 A-EtXzBzfwQ // MAKE YOUR OWN INSTAGRAM FACE FILTER / INSTAGRAM MASK
+oOZwgC5GDxo // Add your Instagram Filter to Instagram / Spark AR upload
+dPCpUNwDqcY // SPARK AR LIPSTICK FACE FILTER
+6m9Y_QeUckA // 3D OBJECTS in INSTAGRAM FACE FILTER / Spark AR tutorial
 
 # Yegor K
-ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
-n3ZXo7GUiAo // Spark AR Toon Shader
-6rcTbfrVyWo // Spark AR MatCap shader
 d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR
+6rcTbfrVyWo // Spark AR MatCap shader
+n3ZXo7GUiAo // Spark AR Toon Shader
+ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
