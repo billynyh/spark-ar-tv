@@ -16,11 +16,14 @@ IJFodki_4uI // Native UI Sparkar [Instagram only]
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 xJXzh_ePbdI // Spark AR Native UI. Tutorial de como adicionar Native UI ao seu filtro!
+sHRrOD5VCwE // Уроки SPARK AR NATIVE UI PICKER. Как сделать меню для фильтра инстаграм !
+lXCJjuQXrQM // Spark AR Native UI múltiplos. Native UI em várias pessoas ou materiais!
 
 
 # Face deformation
 7lx9iNagJ6o // Sparkar Studio -  Deformation Face
 awJsJzTP4Dc // Spark AR: Instagram Filters - Face Deformation
+4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
 
 
 # Audio
@@ -44,6 +47,8 @@ j0n-DYLkZkQ // КАК СДЕЛАТЬ СВОЙ ФИЛЬТР В INSTAGRAM \\ LUTS 
 -7mJ42X9-Qc // Spark AR - Instagram Effect Breakdown - Horns
 UjTQinvM_hk // Turn any preset or LUT into instagram effects. Spark AR tutorial
 lxF-ecbkbr4 // Color LUTs in Spark AR
+kednH9VEyAg // SparkAR - Tutorial LUT Simples e Rápido (Presets) - Efeito Instagram
+
 
 
 # Segmentation
