@@ -7,7 +7,7 @@
 # AlwaysCoding Something
 gxQHNpwte3c // How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
 5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
-G7V0nOhKuAk // How to rig a your own 3D model for SparkAR in Blender 2.8
+G7V0nOhKuAk // How to rig your own 3D model for SparkAR in Blender 2.8
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 
 # Caroline Dunn
@@ -29,13 +29,13 @@ TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 5uzCoKQ60Tk // Spark AR - Interactions Redux
 
 # Corridor Crew
-GUNl32dzslc // Our New Instagram Filter Will Give You Big Brain
+GUNl32dzslc // How To Make a Custom Instagram Face Filter
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
 
 # Estefannie Explains It All
-LDbmH8pyjjY // MAKE YOUR OWN INSTAGRAM FILTER IN 10 MINUTES
+LDbmH8pyjjY // MAKE YOUR OWN INSTAGRAM FILTER IN 10 MINUTES // LEARN SOMETHING
 0sZGiUjRPdY // MAKE YOUR OWN MAKEUP INSTAGRAM FILTER // LEARN SOMETHING
 
 # Eugene Soh
