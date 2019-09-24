@@ -24,6 +24,10 @@ lXCJjuQXrQM // Spark AR Native UI múltiplos. Native UI em várias pessoas ou ma
 7lx9iNagJ6o // Sparkar Studio -  Deformation Face
 awJsJzTP4Dc // Spark AR: Instagram Filters - Face Deformation
 4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
+g7ZfSkubHbE // SparkAR - Tutorial Cirurgia Plástica - Efeito Instagram
+Lx-t9-YQLds // Spark AR Animando um faceMesh. Tutorial de como animar e extrair um Face Texture!
+HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation / Botox / Plastic Surgery Effect!
+
 
 
 # Audio
@@ -48,6 +52,7 @@ j0n-DYLkZkQ // КАК СДЕЛАТЬ СВОЙ ФИЛЬТР В INSTAGRAM \\ LUTS 
 UjTQinvM_hk // Turn any preset or LUT into instagram effects. Spark AR tutorial
 lxF-ecbkbr4 // Color LUTs in Spark AR
 kednH9VEyAg // SparkAR - Tutorial LUT Simples e Rápido (Presets) - Efeito Instagram
+wTKeKSn3Yyo // Cara membuat filter warna LUT Color (Spark AR indonesia Part III )
 
 
 
@@ -69,6 +74,8 @@ TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 /watch?v=Yj0EOIK7mNk //Spark AR studio lessons. Lessons 2 - create mask-background. How to create your mask Instagram
 /watch?v=J5xiL-4ebis //Как создать маску в Инстаграм? Видеоурок 2. Делаем маску фон
 /watch?v=4sZc4mH_bOI //Cómo crear efectos o filtros para Instagram con Spark AR | Cambiar el fondo
+6UtMnE36rFM // Creating segmentation in Spark AR studio
+
 
 # Animation / Gif
 D5w-QcVNt3U // Spark AR Tutorial: Gif to Sprite Sheet | 2 Face trackers
