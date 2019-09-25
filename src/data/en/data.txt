@@ -27,6 +27,8 @@ R0pTosVgmnM // Spark AR Studio - V66+ Changes
 9lg6X-hROmQ // Spark AR Studio - Comment Requested Tutorials #1
 TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 5uzCoKQ60Tk // Spark AR - Interactions Redux
+Ccp0qdTP5Hc // Spark AR Studio - Face meshes and Textures
+l5r3gCXUdT0 // Spark AR Studio - Image Sequences and Interactions
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -83,7 +85,7 @@ vPuObKf-55I // Chromakey in Spark AR
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
 9xmR2FAsMvM // AR Spark | Playing with Face Mesh lighting effects and patch editor
-KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game
+KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patch Editor
 wvrT0LuU_Mc // Spark AR | Creating filters for Facebook and Instagram | LIVESTREAM
 dZlBUt9XDp4 // Spark AR | LIVESTREAM
 WI-wYxCVgo4 // Learn With Me! | How To Create A Quick Zombie Effect  | Spark AR
