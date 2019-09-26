@@ -50,6 +50,7 @@ AkQiGKl1N4E // Spark AR Animando e Girando em volta da cabeça. Tutorial de como
 uXcicx3cGhE // Spark AR dando Zoom. Tutorial de como dar Zoom em um retângulo!
 lXCJjuQXrQM // Spark AR Native UI múltiplos. Native UI em várias pessoas ou materiais!
 Lx-t9-YQLds // Spark AR Animando um faceMesh. Tutorial de como animar e extrair um Face Texture!
+qQxQIVWB97w // Spark AR GIFs no seu filtro. Tutorial de como usar GIFs como textura no seu filtro
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
