@@ -19,6 +19,8 @@ obdh6m8mt18 // #3 Как добавить подсказки (инструкци
 AlSPDNw_Li8 // #4 Как переключать маски (объекты) по нажатию на экран? — Spark AR Studio
 Ll0E-uQcS-A // #5 Как сделать простой фильтр-градиент для Инстаграма? — Spark AR Studio
 Vo8cS-Xkwuo // #6 Spark AR  - отделяем задний фон камеры. Сегментация (урок).
+SJMNOFX_K1U // #7 NativeUI Picker  - создаём колесо переключения эффектов в маске Инстаграм. Spark AR Scripting
+vWYT_-fQ5E4 // #8 Показать/скрыть маску по тапу на экран - Spark AR Scripting
 
 # Anatoliy Pilipchuk
 98Kz9ZUDdXQ // Как сделать маску ИНСТАГРАМ  в Spark AR Studio | Instagram

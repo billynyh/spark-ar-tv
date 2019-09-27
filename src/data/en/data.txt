@@ -29,6 +29,7 @@ TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 5uzCoKQ60Tk // Spark AR - Interactions Redux
 Ccp0qdTP5Hc // Spark AR Studio - Face meshes and Textures
 l5r3gCXUdT0 // Spark AR Studio - Image Sequences and Interactions
+BUXGi22eSnE // Spark AR Studio - Eye-tracking (Changing Pupils)
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
