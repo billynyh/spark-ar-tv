@@ -18,6 +18,9 @@ oe0cFx5Xg9M // Spark AR Studio Filtros Instagram - Como Trocar Cor dos Olhos #Sp
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
 uRWFeTWDg6U // Spark AR Studio - Partículas Vol. I
 
+# Programador Sagaz
+DhzGw94-Ysg // Criei um Efeito do Instagram com Realidade Aumentada (Facebook Spark AR)
+
 # Ranyere Almeida
 cVBzIKQJzZc // Spark AR: LUT Patch [PT-BR] - por @aliencandies
 BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
@@ -51,6 +54,7 @@ uXcicx3cGhE // Spark AR dando Zoom. Tutorial de como dar Zoom em um retângulo!
 lXCJjuQXrQM // Spark AR Native UI múltiplos. Native UI em várias pessoas ou materiais!
 Lx-t9-YQLds // Spark AR Animando um faceMesh. Tutorial de como animar e extrair um Face Texture!
 qQxQIVWB97w // Spark AR GIFs no seu filtro. Tutorial de como usar GIFs como textura no seu filtro
+rWhj0M4av8s // Spark AR Interação com Objetos. Tutorial de como mudar ao tocar um objeto 3D interativo
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas

@@ -103,6 +103,9 @@ S_X8_ML1e2M // SparkAR Joker mask
 42VqR4TpHVU // SparkAR face distortion effect
 CuyYy4ZmspU // SparkAR talking hamburger
 
+# lucas klubb
+BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
+
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
 cLQVGv8gG90 // Spark AR: Instagram Filters - How to use gifs as Sprite Sheets
@@ -114,6 +117,7 @@ mit9xcOSsUQ // Spark AR: Instagram Filters - Animation Basics
 b5rw9Ypo7dY // Spark AR: Instagram Filter - How to convert an mp3 for use in a filter
 _DHYSYVqMow // Spark AR: Instagram Filters - Getting Started: The Basics
 CkVPmixUqGA // Spark AR: Instagram Filters - Getting Started: The Facemesh
+fj7U27H-B1c // Spark AR: Instagram Filters - Getting Started: Patch Editor
 
 # Manhsplains
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
