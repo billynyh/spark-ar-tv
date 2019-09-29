@@ -6,6 +6,7 @@ from lib.model import MasterSite, Site, Group, ChannelList
 from lib import util
 from lib import yt_api_util
 from lib.path_util import PathHelper
+from lib.nav_helper import CHANNEL_LIST_DISPLAY_NAME
 
 # parse data.txt
 def parse(file_path):
@@ -53,11 +54,11 @@ def parse_channel_lists(file_path):
             if current_list:
                 lists.append(current_list)
             current_list = ChannelList(s[1:].strip())
+            current_list.title = CHANNEL_LIST_DISPLAY_NAME[current_list.slug]
             continue
         current_list.ids.append(s.split(" # ")[0])
     if current_list:
         lists.append(current_list)
-    print([l.ids for l in lists])
     return lists
 
 def process_groups(groups, video_data, merge_small_groups = True):

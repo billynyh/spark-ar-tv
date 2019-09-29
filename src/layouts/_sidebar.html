@@ -10,9 +10,20 @@
   <li class="nav-item ${cls}">
     <a href="${item.url}">
         ${item.title}
-        % if item.show_video_count:
-        <span class="badge badge-dark float-right">${item.video_count}</span>
-        % endif
+    </a>
+  </li>
+  % endfor
+</ul>
+
+<hr/>
+<ul class="nav flex-column">
+  % for item in nav_groups['channel_list']:
+  <% 
+  cls = "active" if item.title == current_item else "" 
+  %>
+  <li class="nav-item ${cls}">
+    <a href="${item.url}">
+        ${item.title}
     </a>
   </li>
   % endfor

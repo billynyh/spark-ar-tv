@@ -12,7 +12,6 @@ from lib import yt_api_util
 from lib.api import ApiDataLoader
 from lib.data_loader import *
 from lib.model import SiteConfig, PageConfig, Site
-from lib.nav_helper import CHANNEL_LIST_DISPLAY_NAME
 
 html_helper = HtmlHelper()
 
@@ -50,8 +49,7 @@ def channel_list_pages(site, config):
     page_config.og_image = util.get_logo_url(config)
     pages = []
     for l in site.channel_lists:
-        title = CHANNEL_LIST_DISPLAY_NAME[l.slug]
-        page_config.title = "%s | Spark AR TV" % title
+        page_config.title = "%s | Spark AR TV" % l.title
         html = html_helper.gen_channel_list_html(site, page_config, l)
         pages.append(("%s.html" % l.slug, html))
     return pages

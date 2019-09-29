@@ -31,6 +31,12 @@ class LangNavItem:
         self.title = LANG_DISPLAY_NAME[lang]
         self.url = url
 
+class NavItem:
+    def __init__(self, title, url):
+        self.show_video_count = False
+        self.title = title
+        self.url = url
+
 def get_topic_nav(site):
     return [TopicNavItem(t, util.topic_page_url(site, t)) for t in site.topics]
 
@@ -38,10 +44,16 @@ def get_lang_nav(site):
     languages = ['global'] + site.site_config.languages
     return [LangNavItem(lang, "%s/%s/index.html" % (site.url, lang)) for lang in languages]
 
+def get_channel_list_nav(site):
+    if not site.channel_lists:
+        return []
+    return [NavItem(l.title, "%s/global/%s.html" % (site.url, l.slug)) for l in site.channel_lists]
+
 def get_navs(master, site):
     # language nav, topic nav
     navs = {
         'lang': get_lang_nav(site),
+        'channel_list': get_channel_list_nav(site),
         'topic': get_topic_nav(master.global_site),
         'other': []
     }

@@ -10,7 +10,7 @@ class GeneratorConfig:
 class SiteConfig:
     url = None
     page_config = None
-    languages = []
+    languages = None
     enable_ga = False
 
 class PageConfig:
@@ -35,13 +35,13 @@ class Site:
     url = None
     lang = None
     site_config = None
-    groups = []
-    groups_by_time = []
-    most_viewed = []
-    latest = []
-    topics = []
-    facebook = []
-    channel_lists = {} # map of channel list
+    groups = None
+    groups_by_time = None
+    most_viewed = None
+    latest = None
+    topics = None
+    facebook = None
+    channel_lists = None # map of channel list
 
 class Group:
     title = None
@@ -66,14 +66,17 @@ class Video:
     published_at = None
     raw_published_at = None
     video_url = None
-    tags = []        
+    tags = None
+
 
 class ChannelList:
     slug = None
-    ids = []
+    title = None
+    ids = None
 
     def __init__(self, slug):
         self.slug = to_slug(slug)
+        self.ids = []
 
 def to_slug(s):
     slug = s.lower()

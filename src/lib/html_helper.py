@@ -3,7 +3,7 @@ from mako.lookup import TemplateLookup
 
 from lib import debug_util
 from lib import util
-from lib.nav_helper import get_navs, CHANNEL_LIST_DISPLAY_NAME
+from lib.nav_helper import get_navs
 
 class HtmlHelper:
 
@@ -73,6 +73,6 @@ class HtmlHelper:
         return self.render(t, 
             site = site,
             page = page,
-            title = CHANNEL_LIST_DISPLAY_NAME[channel_list.slug],
+            title = channel_list.title,
             groups = groups)
 
