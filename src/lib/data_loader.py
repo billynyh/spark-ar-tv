@@ -2,7 +2,7 @@ import datetime
 import os
 
 from lib.api import ApiDataLoader
-from lib.model import MasterSite, Site, Group
+from lib.model import MasterSite, Site, Group, ChannelList
 from lib import util
 from lib import yt_api_util
 from lib.path_util import PathHelper
@@ -37,6 +37,29 @@ def parse_skip_file(file_path):
     f = open(file_path)
     return [util.extract_youtube_id(line.strip()) for line in f.readlines() if line.strip()]
 
+def parse_channel_lists(file_path):
+    print('Parsing channel lists: %s' % file_path)
+    if not os.path.exists(file_path):
+        print("- not exist")
+        return []
+    f = open(file_path)
+    lists = []
+    current_list = None
+    for s in f.readlines():
+        s = s.strip()
+        if not s:
+            continue
+        if s.startswith("#"):
+            if current_list:
+                lists.append(current_list)
+            current_list = ChannelList(s[1:].strip())
+            continue
+        current_list.ids.append(s.split(" # ")[0])
+    if current_list:
+        lists.append(current_list)
+    print([l.ids for l in lists])
+    return lists
+
 def process_groups(groups, video_data, merge_small_groups = True):
     # merge all groups with less than 2 vid to Others
     result = []
@@ -52,6 +75,7 @@ def process_groups(groups, video_data, merge_small_groups = True):
     # sort each group by publish date
     for group in result:
         group.ids = sort_video_ids_by_time(group.ids, video_data)
+        group.slug = video_data[group.ids[0]].channel_id
     
     return result
 
@@ -193,6 +217,7 @@ def global_site(config):
 
     site.topics = parse("data/topics.txt")
     site.facebook = parse("data/facebook.txt")
+    site.channel_lists = parse_channel_lists("data/channel-lists.txt")
     
     all_groups = site.groups + site.facebook + site.topics
     all_youtube_ids = set([id for g in all_groups for id in g.ids])

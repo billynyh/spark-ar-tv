@@ -3,7 +3,7 @@ from mako.lookup import TemplateLookup
 
 from lib import debug_util
 from lib import util
-from lib.nav_helper import get_navs
+from lib.nav_helper import get_navs, CHANNEL_LIST_DISPLAY_NAME
 
 class HtmlHelper:
 
@@ -24,9 +24,8 @@ class HtmlHelper:
             **kwargs)
 
     def gen_debug_html(self, site, page):
-        debug_text = debug_util.get_message(site)
         t = self.get_template('debug.html')
-        return self.render(t, site=site, page = page, debug_text=debug_text)
+        return self.render(t, site=site, page = page)
 
     def gen_channel_html(self, site, page):
         t = self.get_template('channels.html')
@@ -65,4 +64,15 @@ class HtmlHelper:
             page = page,
             topic = topic,
             large_thumb = True)
+
+    def gen_channel_list_html(self, site, page, channel_list):
+        groups_map = {g.slug: g for g in site.groups}
+        groups = [groups_map[id] for id in channel_list.ids]
+
+        t = self.get_template('channel_list.html')
+        return self.render(t, 
+            site = site,
+            page = page,
+            title = CHANNEL_LIST_DISPLAY_NAME[channel_list.slug],
+            groups = groups)
 

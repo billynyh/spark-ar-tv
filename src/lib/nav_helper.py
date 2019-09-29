@@ -13,6 +13,11 @@ LANG_DISPLAY_NAME = {
   'global': 'All Languages',
 }
 
+CHANNEL_LIST_DISPLAY_NAME = {
+  'beginner': 'Channels for beginner',
+  'featured': 'Featured channels',
+}
+
 class TopicNavItem:
     def __init__(self, topic, url):
         self.show_video_count = True

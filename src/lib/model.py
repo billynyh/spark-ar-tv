@@ -41,6 +41,7 @@ class Site:
     latest = []
     topics = []
     facebook = []
+    channel_lists = {} # map of channel list
 
 class Group:
     title = None
@@ -50,10 +51,7 @@ class Group:
     def __init__(self, title, ids):
         self.title = title
         self.ids = ids
-        slug = title.lower()
-        for c in "/!@#$%^&*()":
-            slug = slug.replace(c, "")
-        self.slug = re.sub(r" +", "-", slug)
+        self.slug = to_slug(title)
 
 class Video:
     id = None
@@ -69,3 +67,17 @@ class Video:
     raw_published_at = None
     video_url = None
     tags = []        
+
+class ChannelList:
+    slug = None
+    ids = []
+
+    def __init__(self, slug):
+        self.slug = to_slug(slug)
+
+def to_slug(s):
+    slug = s.lower()
+    for c in "/!@#$%^&*()":
+        slug = slug.replace(c, "")
+    return re.sub(r" +", "-", slug)
+
