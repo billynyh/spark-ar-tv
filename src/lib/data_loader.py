@@ -155,6 +155,10 @@ def load_global_groups(config):
     for lang in config.site_config.languages:
         ph = PathHelper("data/%s" % lang)
         groups += parse(ph.get_data_file())
+    all_youtube_ids = [id for g in groups for id in g.ids]
+    video_data = load_video_data(all_youtube_ids, config.api_key)
+
+    groups = process_groups(groups, video_data, False)
     return groups
 
 def load_skip_ids(data_dir):

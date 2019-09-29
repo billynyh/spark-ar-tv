@@ -81,6 +81,7 @@ znMXpXjA1s8 // Урок 18 - Переключение кнопками Spark AR.
 HdxGPvjsg3E // Урок 19 - GIF-анимация Spark AR для маски. GIF Spark AR. Анимация Spark AR
 84ftE9sODuY // Урок 20 - Как добавить gif-анимацию в маску Spark AR. Анимация Spark AR. GIF Spark AR
 cLnXsg-7US4 // Урок 21 - Как добавить анимацию в 3D объект. Анимация Spark AR. GIF Spark AR
+3bXuya898j4 // Урок 22 - Частицы, вылетающие при моргании и движении головы Spark AR. Система частиц Spark AR
 
 # Disavle
 76aLipJ--To // КАК СДЕЛАТЬ СВОЮ МАСКУ В INSTAGRAM? \\ СЕРИАЛ "ЭЙФОРИЯ" \\ ТЕПЕРЬ ВЫКЛАДЫВАТЬ МОГУТ ВСЕ! \\ Spark AR
