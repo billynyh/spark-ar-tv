@@ -53,7 +53,7 @@ def get_navs(master, site):
     # language nav, topic nav
     navs = {
         'lang': get_lang_nav(site),
-        'channel_list': get_channel_list_nav(site),
+        'channel_list': get_channel_list_nav(master.global_site),
         'topic': get_topic_nav(master.global_site),
         'other': []
     }
