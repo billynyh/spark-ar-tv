@@ -6,7 +6,7 @@ def format_duration(raw_duration):
     minute = (total / 60) % 60
     sec = total % 60
 
-    if minute < 60:
+    if hour < 1:
         return "%d:%02d" % (minute, sec)
     return "%d:%02d:%02d" % (hour, minute, sec)
 
