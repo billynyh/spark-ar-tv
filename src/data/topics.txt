@@ -20,7 +20,8 @@ sHRrOD5VCwE // Уроки SPARK AR NATIVE UI PICKER. Как сделать ме�
 lXCJjuQXrQM // Spark AR Native UI múltiplos. Native UI em várias pessoas ou materiais!
 
 
-# Face deformation
+# Face mesh / deformation
+5sBEw5QJ6R0 // FaceMesh Split - Sparkar Studio
 7lx9iNagJ6o // Sparkar Studio -  Deformation Face
 awJsJzTP4Dc // Spark AR: Instagram Filters - Face Deformation
 4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
@@ -155,6 +156,7 @@ W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com a
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 
 # Face Retouching
+gzbE9hgOL2c // Уроки Spark AR Studio. LUT + Retouch + Distortion✌🏻Маски в Инстаграм
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
 

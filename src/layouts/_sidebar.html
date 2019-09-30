@@ -3,7 +3,7 @@
 <div class="sidebar">
 
 <ul class="nav flex-column">
-  % for item in nav_groups['lang']:
+  % for item in nav_groups['channel_list']:
   <% 
   cls = "active" if item.title == current_item else "" 
   %>
@@ -17,7 +17,7 @@
 
 <hr/>
 <ul class="nav flex-column">
-  % for item in nav_groups['channel_list']:
+  % for item in nav_groups['lang']:
   <% 
   cls = "active" if item.title == current_item else "" 
   %>

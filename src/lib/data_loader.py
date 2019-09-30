@@ -226,6 +226,7 @@ def global_site(config):
     site.groups_by_time = group_by_time(site.video_data)
     for topic in site.topics:
         topic.ids = sort_video_ids_by_time(topic.ids, site.video_data)
+    site.topics = sorted(site.topics, key=lambda topic: topic.title)
     return site
 
 def master_site(config, merge_small_groups = True):
