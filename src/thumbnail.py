@@ -52,9 +52,10 @@ if __name__ == "__main__":
     config = config_factory.load()
 
     site = global_site(config)
-    #download_all(site.video_data)
+    download_all(site.video_data)
     #generate_topics_thumbnails(site)
     # generate_week_thumbnails(site)
     #generate_facebook_thumbnails(site)
     ids = 'GUNl32dzslc,4g4CoL_KCkE,cWXuxhD7sAc,4BEKaaHmjfk'.split(',')
-    generate_custom_week_thumbnails(site, ids, 'week-2019-09-16')
+    ids = 'fj7U27H-B1c,YLeZ1901qKI,BEO0v4DK7hU,Lx-t9-YQLds'.split(',')
+    generate_custom_week_thumbnails(site, ids, 'week-2019-09-23')

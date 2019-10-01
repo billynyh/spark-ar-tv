@@ -55,6 +55,7 @@ lXCJjuQXrQM // Spark AR Native UI múltiplos. Native UI em várias pessoas ou ma
 Lx-t9-YQLds // Spark AR Animando um faceMesh. Tutorial de como animar e extrair um Face Texture!
 qQxQIVWB97w // Spark AR GIFs no seu filtro. Tutorial de como usar GIFs como textura no seu filtro
 rWhj0M4av8s // Spark AR Interação com Objetos. Tutorial de como mudar ao tocar um objeto 3D interativo
+PWEqlmdAL-E // Spark AR Alterando a Voz. Tutorial de como alterar pitch e reverb da voz!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
