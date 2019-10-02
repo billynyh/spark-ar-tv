@@ -178,3 +178,6 @@ d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR
 6rcTbfrVyWo // Spark AR MatCap shader
 n3ZXo7GUiAo // Spark AR Toon Shader
 ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+
+# ZiFeng Learns to Make
+jkYt6_8RiDw // [ NOOB MAKES INSTAGRAM FILTER ] Learning Spark AR to create my first Instagram filter.
