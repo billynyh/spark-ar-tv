@@ -30,7 +30,8 @@ awJsJzTP4Dc // Spark AR: Instagram Filters - Face Deformation
 g7ZfSkubHbE // SparkAR - Tutorial Cirurgia Plástica - Efeito Instagram
 Lx-t9-YQLds // Spark AR Animando um faceMesh. Tutorial de como animar e extrair um Face Texture!
 HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation / Botox / Plastic Surgery Effect!
-
+REdq8ODB5MQ // ДЕФОРМАЦИЯ ЛИЦА в Spark AR | 2 СПОСОБА КОРРЕКЦИИ ЛИЦА | DARIA TSVET
+OHBQYAr79Dc // Spark AR Studio - Split Face Effect and Alpha Masks
 
 
 # Audio
@@ -60,7 +61,8 @@ wTKeKSn3Yyo // Cara membuat filter warna LUT Color (Spark AR indonesia Part III 
 gzbE9hgOL2c // Уроки Spark AR Studio. LUT + Retouch + Distortion✌🏻
 YEp99nDbLAs // МАСКА-ПРЕСЕТ в ИНСТАГРАМ | ПЫЛИНКИ | ПЕРЕКЛЮЧЕНИЕ Spark AR
 MA7Z2rxLKwI // Урок 15 - Как сделать фильтр в Spark AR. Пресет в Spark AR. Маска с фильтром
-
+0Ag-wI5Q5is // #SparkARIndonesia : Cara Membuat Filter VSCO/Lightroom ( Part 15 )
+8IAI9LeX_Ho // Spark AR VHS com Dynamic Text. Tutorial de como criar efeito VHS ou Glitch
 
 
 # Segmentation
@@ -132,6 +134,7 @@ m-9BdirnrK4 // Spark AR Studio - Cómo crear efectos de partículas flotando a n
 5C2OCgx65S8 // Spark AR Tutorial Target Tracker | Español
 -8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
 /watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+rFuPox0zf5Y // Spark AR Plane tracker ¿Cómo "colocar" objetos sobre superficies planas? vs Target Tracker
 
 # Game
 KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game
@@ -172,3 +175,4 @@ RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouchi
 # Shader
 n3ZXo7GUiAo // Spark AR Toon Shader
 6rcTbfrVyWo // Spark AR MatCap shader
+WQRm036B1gE // Как сделать чернобелую маску? Уроки Spark ar studio.

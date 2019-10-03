@@ -58,6 +58,7 @@ PsFovD1yeUo // КАК СОЗДАТЬ МАСКУ ДЛЯ ИНСТАГРАМ | ВИ
 MWJlc5WkGgU // КАК ЗАГРУЗИТЬ СВОЮ МАСКУ В ИНСТАГРАМ | DARIA TSVET
 8IxAoX1I3YM // КАК СДЕЛАТЬ ФИЛЬТР/ПРЕСЕТ В ИНСТАГРАМ ЗА 5 МИНУТ | DARIA TSVET
 POjyWVhYVo0 // ДЕЛАЕМ ЛЕТАЮЩИЕ ЗВЕЗДЫ И ПАДАЮЩИЙ СНЕГ В SPARK AR | DARIA TSVET
+REdq8ODB5MQ // ДЕФОРМАЦИЯ ЛИЦА в Spark AR | 2 СПОСОБА КОРРЕКЦИИ ЛИЦА | DARIA TSVET
 
 # Darya Lam
 FdYgRSSyqQw // Урок 1 - Интерфейс Spark AR. Как сделать маску в инстаграм
@@ -108,6 +109,8 @@ zLx17InqAjU // Как сделать надпись на лице? Spark ar Stud
 bJnyyz13nfA // Как сделать искры из глаз? Spark ar Studio уроки.
 1iTzlwUYz4E // Уроки Spark ar Studio. Как замедлить вращение в loop animation.
 BEZyW7b4x4g // Как добавить музыку в маски. Уроки spark ar studio
+-F_oW1R4LSQ // Spark ar Studio уроки. Как сделать zoom?
+WQRm036B1gE // Как сделать чернобелую маску? Уроки Spark ar studio.
 
 # Nastya Yakimenko
 UkR4CBgjd_k // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ в SPARK AR? / + розыгрыш на бесплатную маску

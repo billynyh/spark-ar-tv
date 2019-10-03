@@ -31,6 +31,7 @@ huS6O9seuG0 // ¿Cómo publicar filtros de Spark AR hacia Instagram o Facebook?
 OQ64xKSeyEk // Spark AR Tutorial: Interacción 3D (Rotar & Escalar)
 D5w-QcVNt3U // Spark AR Tutorial: Gif to Sprite Sheet | 2 Face trackers | Animation sequence
 KAuFceX2NSg // Spark AR: Camera Texture & Smile Interaction
+rFuPox0zf5Y // Spark AR Plane tracker ¿Cómo "colocar" objetos sobre superficies planas? vs Target Tracker
 
 # Los Taquivalos
 kCz7Nd5ftPI // Como hacer filtros para INSTAGRAM o FACEBOOK /Spark AR
