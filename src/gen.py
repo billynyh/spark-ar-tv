@@ -78,9 +78,10 @@ def facebook_pages(site, config):
     return [("facebook.html", html_helper.gen_facebook_html(site, page_config))]
 
 def music_pages(site, config):
-    page_config = PageConfig()
+    page_config = PageConfig(config.site_config.page_config)
     page_config.title = "Music Videos | Spark AR TV"
-    page_config.description = config.site_config.page_config.description
+    if site.music:
+        page_config.og_image = util.get_group_banner_url(config, site.music[0])
     return [("music-videos.html", html_helper.gen_music_html(site, page_config))]
 
 def gen_lang_site(site, config):

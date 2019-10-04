@@ -52,10 +52,19 @@ if __name__ == "__main__":
     config = config_factory.load()
 
     site = global_site(config)
-    download_all(site.video_data)
     #generate_topics_thumbnails(site)
     # generate_week_thumbnails(site)
     #generate_facebook_thumbnails(site)
     ids = 'GUNl32dzslc,4g4CoL_KCkE,cWXuxhD7sAc,4BEKaaHmjfk'.split(',')
     ids = 'fj7U27H-B1c,YLeZ1901qKI,BEO0v4DK7hU,Lx-t9-YQLds'.split(',')
-    generate_custom_week_thumbnails(site, ids, 'week-2019-09-23')
+    groups = site.music
+    ids = groups[0].ids
+
+    video_data = {id:site.video_data[id] for id in ids}
+    download_all(video_data)
+
+    for g in groups:
+        img = image_helper.group_thumbnail_collage(site, g.ids)
+        outfile = util.get_group_banner_path(config.out_dir, g)
+        img.save(outfile, "JPEG")
+        print("Saved %s" % outfile)
