@@ -9,6 +9,7 @@ gc1mmpcRBvY // Spark AR Studio - Face Landmarks - Exacta ubicación de elementos
 zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
 N5I4AU6Vumo // Spark AR Studio - Efectos giratorios con Objetos 3D que ingresan y se pierden en la boca
 m-9BdirnrK4 // Spark AR Studio - Cómo crear efectos de partículas flotando a nuestro alrededor
+72MpRcqf2Yc // Spark AR Studio - Efectos con deformación facial - Labios abultados.
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
