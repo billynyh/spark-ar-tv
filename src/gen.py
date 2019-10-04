@@ -77,6 +77,12 @@ def facebook_pages(site, config):
     page_config.description = config.site_config.page_config.description
     return [("facebook.html", html_helper.gen_facebook_html(site, page_config))]
 
+def music_pages(site, config):
+    page_config = PageConfig()
+    page_config.title = "Music Videos | Spark AR TV"
+    page_config.description = config.site_config.page_config.description
+    return [("music-videos.html", html_helper.gen_music_html(site, page_config))]
+
 def gen_lang_site(site, config):
     lang = site.lang
     out_dir = "%s/%s" % (config.out_dir, lang)
@@ -90,6 +96,8 @@ def gen_lang_site(site, config):
         pages += topic_pages(site, config)
     if site.facebook:
         pages += facebook_pages(site, config)
+    if site.music:
+        pages += music_pages(site, config)
     if site.channel_lists:
         pages += channel_list_pages(site, config)
 

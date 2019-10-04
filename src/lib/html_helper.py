@@ -33,7 +33,11 @@ class HtmlHelper:
 
     def gen_facebook_html(self, site, page):
         t = self.get_template('facebook.html')
-        return self.render(t, site=site, page = page)
+        return self.render(t, site=site, page = page, groups=site.facebook)
+
+    def gen_music_html(self, site, page):
+        t = self.get_template('facebook.html')
+        return self.render(t, site=site, page = page, groups=site.music)
 
     def gen_timeline_html(self, site, page):
         t = self.get_template('index.html')

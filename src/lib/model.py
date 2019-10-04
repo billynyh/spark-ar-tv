@@ -41,6 +41,7 @@ class Site:
     latest = None
     topics = None
     facebook = None
+    music = None
     channel_lists = None # map of channel list
 
 class Group:

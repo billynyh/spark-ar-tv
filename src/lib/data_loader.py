@@ -180,6 +180,7 @@ def load_global_groups(config):
     for lang in config.site_config.languages:
         ph = PathHelper("data/%s" % lang)
         groups += parse(ph.get_data_file())
+    
     all_youtube_ids = [id for g in groups for id in g.ids]
     video_data = load_video_data(all_youtube_ids, config.api_key)
 
@@ -219,8 +220,9 @@ def global_site(config):
     site.topics = parse("data/topics.txt")
     site.facebook = parse("data/facebook.txt")
     site.channel_lists = parse_channel_lists("data/channel-lists.txt")
+    site.music = parse("data/music.txt")
     
-    all_groups = site.groups + site.facebook + site.topics
+    all_groups = site.groups + site.facebook + site.topics + site.music
     all_youtube_ids = set([id for g in all_groups for id in g.ids])
     site.video_data = load_video_data(all_youtube_ids, config.api_key)
     site.groups_by_time = group_by_time(site.video_data)
