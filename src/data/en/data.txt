@@ -65,6 +65,7 @@ IJFodki_4uI // Native UI Sparkar [Instagram only]
 RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructions
 SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 5sBEw5QJ6R0 // FaceMesh Split - Sparkar Studio
+9sgI3HTFu48 // Animate FaceMesh - SparkAr Studio
 
 # iediting
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )

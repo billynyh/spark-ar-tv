@@ -61,6 +61,7 @@ qQxQIVWB97w // Spark AR GIFs no seu filtro. Tutorial de como usar GIFs como text
 rWhj0M4av8s // Spark AR Interação com Objetos. Tutorial de como mudar ao tocar um objeto 3D interativo
 PWEqlmdAL-E // Spark AR Alterando a Voz. Tutorial de como alterar pitch e reverb da voz!
 8IAI9LeX_Ho // Spark AR VHS com Dynamic Text. Tutorial de como criar efeito VHS ou Glitch
+FgEAV3oS_D0 // Spark AR Várias instruções. Tutorial de como adicionar Instructions ao filtro
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas

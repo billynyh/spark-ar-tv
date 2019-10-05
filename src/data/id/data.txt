@@ -17,6 +17,7 @@ ZD5lGasUVC4 // Spark AR Indonesia: Cara Menggunakan Objek 3 Dimensi (Part 12)
 PgCQIbgcWqg // Spark AR Indonesia: Cara Memasang Objek di Kepala Seperti Topi (Part 13)
 1WTaxVFxfPo // Spark AR Indonesia: Menempatkan Wajah Pada Objek (Part 14)
 0Ag-wI5Q5is // #SparkARIndonesia : Cara Membuat Filter VSCO/Lightroom ( Part 15 )
+HDbexQoUXJ0 // #SparkARIndonesia : Cara Membuat Tampilan Layar Jadi 2 ( Part 16 )
 
 # Galang Satria Wibawa
 HFpAjLsNxSw // [TUTORIAL SPARK AR ] - Membuat Filter Instagram Sendiri mudah berbahasa indonesia
@@ -25,6 +26,10 @@ HFpAjLsNxSw // [TUTORIAL SPARK AR ] - Membuat Filter Instagram Sendiri mudah ber
 mbzqqgG1BSg // Membuar Filter Instagram Sendiri (Spark AR Tutorial Part 1)
 KrSOrmMhsFw // Cara membuat Filter Efek Pengubah Suara (Spark Ar Studio Part II)
 wTKeKSn3Yyo // Cara membuat filter warna LUT Color (Spark AR indonesia Part III )
+
+# Rudy Anwar
+wnEEtYsFYdk // Как сделать сглаживание кожи в Spark AR Instagram
+MKrTFdzm7-E // Как сделать маску с 3D в Инстаграм Spark AR для новичков
 
 # xxznif
 kqfK7aQcC_8 // cara buat filter instagram sendiri ( spark ar studio part I )
