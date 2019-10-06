@@ -32,7 +32,8 @@ Lx-t9-YQLds // Spark AR Animando um faceMesh. Tutorial de como animar e extrair 
 HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation / Botox / Plastic Surgery Effect!
 REdq8ODB5MQ // ДЕФОРМАЦИЯ ЛИЦА в Spark AR | 2 СПОСОБА КОРРЕКЦИИ ЛИЦА | DARIA TSVET
 OHBQYAr79Dc // Spark AR Studio - Split Face Effect and Alpha Masks
-
+3cDr_weipeI // BETTER WAY to CHANGE a FACE (LIPS FULLER!) in SPARK AR / INSTAGRAM MASK
+72MpRcqf2Yc // Spark AR Studio - Efectos con deformación facial - Labios abultados.
 
 # Audio
 W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.
@@ -63,6 +64,7 @@ YEp99nDbLAs // МАСКА-ПРЕСЕТ в ИНСТАГРАМ | ПЫЛИНКИ | 
 MA7Z2rxLKwI // Урок 15 - Как сделать фильтр в Spark AR. Пресет в Spark AR. Маска с фильтром
 0Ag-wI5Q5is // #SparkARIndonesia : Cara Membuat Filter VSCO/Lightroom ( Part 15 )
 8IAI9LeX_Ho // Spark AR VHS com Dynamic Text. Tutorial de como criar efeito VHS ou Glitch
+QFmarjHCojM // Spark AR: Create Instagram LUTs filter
 
 
 # Segmentation
@@ -97,6 +99,7 @@ S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
 NAlLn2tBZ2w // Как делать маски в Инстаграм на основе Gif Animation , Spark AR studio. Mask based on GIF Animation
 /watch?v=jaUYruyFUC0 //Spark AR Studio - Gradiente multicolor, animado
 qQxQIVWB97w // Spark AR GIFs no seu filtro. Tutorial de como usar GIFs como textura no seu filtro
+9sgI3HTFu48 // Animate FaceMesh - SparkAr Studio
 
 # Occluder / Occlusion
 /watch?v=j7klMWrJFHs&t=1s //Spark AR: Instagram Filters - “Hole in the head” with Occlusion

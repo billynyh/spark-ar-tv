@@ -11,6 +11,7 @@ LANG_DISPLAY_NAME = {
   'nl': 'Dutch',
   'tr': 'Turkish',
   'fr': 'French',
+  'de': 'German',
   'global': 'All Languages',
 }
 
