@@ -63,6 +63,7 @@ yVjb6iBHFo8 // Body Segmentation with SparkAr Studio
 _Pj8nYKHEkc // [SPARKAR STUDIO TUTORIAL] Create/Rig/Animate/Augment a Character
 IJFodki_4uI // Native UI Sparkar [Instagram only]
 RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructions
+qYm1PosWQr0 // How to design your own Instagram mask with Ipad
 SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 5sBEw5QJ6R0 // FaceMesh Split - Sparkar Studio
 9sgI3HTFu48 // Animate FaceMesh - SparkAr Studio
@@ -151,7 +152,7 @@ WvmfpvHoaNI // Spark AR - Fill Parent V69.0
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
 vfMXwODsXa0 // Spark AR - How to extract face features
 
-# Robbie C
+# Robbie C.
 REqpibMDZv4 // Spark AR Studio - Segmentation Tutorial : How To Change Background ?
 CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
 5iBG-RVwDEc // Spark AR Studio - Gold Tutorial : How To Make Gold ?
@@ -167,7 +168,7 @@ oOZwgC5GDxo // Add your Instagram Filter to Instagram / Spark AR upload
 dPCpUNwDqcY // SPARK AR LIPSTICK FACE FILTER
 6m9Y_QeUckA // 3D OBJECTS in INSTAGRAM FACE FILTER / Spark AR tutorial
 4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
-8RxhIZ7IX3g // TAP TO CHANGE / Spark Ar Instagram Face Filter Masks
+8RxhIZ7IX3g // TAP TO CHANGE / Spark Ar Instagram Masks Instagram Filter change by tap
 
 # Vibeke Bertelsen - Udart
 OF0Usr8cpDE // Create your own Instagram and Facebook face mask filter. Tattoo Spark AR tutorial
@@ -183,3 +184,4 @@ ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane
 
 # ZiFeng Learns to Make
 jkYt6_8RiDw // [ NOOB MAKES INSTAGRAM FILTER ] Learning Spark AR to create my first Instagram filter.
+z-30w6mVaA8 // [ 3D SCULPTING IN FORGER APP (iPad) ] Dr. Stone Suika mask modeling. PART 2 (NOT TUTORIAL)

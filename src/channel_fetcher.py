@@ -17,13 +17,9 @@ def filter_videos(items, known_ids, keyword):
         if item.id in known_ids:
             continue
         keep = False
-        if k in item.title.lower():
-            keep = True
-        # tags
-        if item.tags:
-            for t in item.tags:
-                if k in t:
-                    keep = True
+        for s in item.metadata:
+            if k in s.lower():
+                keep = True
         if keep:
             result.append(item)
     return result
@@ -104,7 +100,11 @@ def main():
         return
 
     if args.id is None:
+        skip_lang = ['fr']
         for lang in config.site_config.languages:
+            if lang in skip_lang:
+                print("Skip fetching %s" % lang)
+                continue
             print("==== Fetching %s ====" % lang)
             master = fetch_all(config, master, lang, keyword = args.keyword, max_result = args.max)
         cleanup(master)

@@ -23,7 +23,12 @@ class SimpleVideo:
         snippet = item.get('snippet')
         self.id = snippet.get('resourceId').get('videoId')
         self.title = snippet.get('title')
-        self.tags = snippet.get('tags')
+
+        localized = [snippet.get("localized", {}).get(key, "") for key in ["title", "description"]] 
+        self.metadata = snippet.get('tags', [])\
+            + [snippet.get(key, "") for key in ["title", "description"]]
+        if localized:
+            self.metadata += localized
 
 class ApiDataLoader:
 

@@ -10,6 +10,7 @@ LANG_DISPLAY_NAME = {
   'jp': 'Japanese',
   'nl': 'Dutch',
   'tr': 'Turkish',
+  'fr': 'French',
   'global': 'All Languages',
 }
 

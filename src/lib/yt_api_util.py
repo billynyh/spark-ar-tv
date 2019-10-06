@@ -29,8 +29,9 @@ def read_single_video_obj(item):
     video.channel_id = snippet["channelId"]
     video.channel_title = snippet["channelTitle"]
     video.view_count = stat["viewCount"]
-    video.tags = snippet.get("tags", [])
-
+    video.metadata = snippet.get("tags", [])\
+        + [snippet.get(key) for key in ["title", "description"]]\
+        + [snippet.get("localized", {}).get(key) for key in ["title", "description"]] 
     if snippet["thumbnails"].get("standard"):
         video.highres_thumbnail_url = snippet["thumbnails"]["standard"]["url"]
     elif snippet["thumbnails"].get("maxres"):
