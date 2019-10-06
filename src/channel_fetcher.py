@@ -10,21 +10,22 @@ from lib.data_loader import *
 def get_video_id(item):
     return item['id']['videoId']
 
-def filter_videos(items, known_ids, keyword):
+def filter_videos(items, known_ids, keywords):
     result = []
-    k = keyword.lower()
+    keywords = [k.lower() for k in keywords]
     for item in items:
         if item.id in known_ids:
             continue
         keep = False
         for s in item.metadata:
-            if k in s.lower():
-                keep = True
+            for k in keywords:
+                if k in s.lower():
+                    keep = True
         if keep:
             result.append(item)
     return result
 
-def fetch_all(config, master, lang, new_only = True, keyword="spark", max_result=10):
+def fetch_all(config, master, lang, new_only = True, max_result=10):
     api = ApiDataLoader(DEVELOPER_KEY)
 
     data_dir = "data/%s" % lang
@@ -39,7 +40,7 @@ def fetch_all(config, master, lang, new_only = True, keyword="spark", max_result
     for c in channel_data:
         print("Fetching %s(%s)..." % (c.title, c.playlist))
         items = api.fetch_playlist(c.playlist, max_result=max_result)
-        items = filter_videos(items, all_ids.union(skip_ids), keyword)
+        items = filter_videos(items, all_ids.union(skip_ids), keywords=['spark', 'filter', 'mask'])
         if len(items) > 0:
             result.append((c.title, items))
     
@@ -87,7 +88,6 @@ def cleanup(master):
 def main():
     parser = argparse.ArgumentParser(description='Search video in channel')
     parser.add_argument('--id', type=str)
-    parser.add_argument('--keyword', '-k', type=str, default="spark")
     parser.add_argument('--max', '-m', type=int, default=10)
     parser.add_argument('--cleanup', action='store_true')
     args = parser.parse_args()
@@ -106,7 +106,7 @@ def main():
                 print("Skip fetching %s" % lang)
                 continue
             print("==== Fetching %s ====" % lang)
-            master = fetch_all(config, master, lang, keyword = args.keyword, max_result = args.max)
+            master = fetch_all(config, master, lang, max_result = args.max)
         cleanup(master)
     else:
         print("TODO fetch single channel")

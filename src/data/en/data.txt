@@ -3,6 +3,7 @@
 
 # Alex Dohotaru
 0aWK8mXwBwM // Occluder Planes SparkAR Tutorial
+3YY9wbp3W8c // My Instagram face filters
 
 # AlwaysCoding Something
 gxQHNpwte3c // How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
@@ -160,6 +161,7 @@ l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
 
 # Upcycling Coding
+iRbfea2knzM // First approach to Augmented Reality (with Instagram AR filters)- VLOG
 8--6oUL5Izg // How To Create An Instagram AR Filter with Spark AR Studio
 
 # USOV ART - CG channel
