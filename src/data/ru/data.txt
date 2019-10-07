@@ -45,7 +45,7 @@ YEp99nDbLAs // МАСКА-ПРЕСЕТ в ИНСТАГРАМ | ПЫЛИНКИ | 
 RgCn9oXmpX4 // Как создать маску в инстаграмм? Урок 1 - знакомство с Spark AR
 
 # Dana Ishimova
-/watch?v=aDw0N9JbDAM //Как начать создавать маски в Инстаграм! Где скачать Spark AR Studio!?
+aDw0N9JbDAM // Как начать создавать маски в Инстаграм! Где скачать Spark AR Studio!?
 
 # DARIA EVNA
 qdNVSyQZzTA // СОЗДАНИЕ ПРОСТОЙ 2D-МАСКИ В INSTAGRAM. SPARK AR
@@ -129,6 +129,7 @@ UkR4CBgjd_k // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ в SPARK A
 # Oleg Khartov
 6UtMnE36rFM // Creating segmentation in Spark AR studio
 YLeZ1901qKI // Creating a glow effect in Spark AR Studio
+hwCBJKqI3rA // Adding instructions Spark AR | Добавление инструкции
 
 # Oxy Tivanova
 VX652z5zaRo // Как сделать маску в instagram
@@ -174,7 +175,7 @@ bKVIpt7KzNY // Как загрузить свою маску в Инстагра
 7gCrh6NPvjU // Spark ar studio уроки. Как сделать маску со сглаживанием лица и эффектом светомузыки
 
 # Человек media
-/watch?v=r6WtIPSuARg&t=3112s //Воркшоп по созданию AR-маски для Instagram / Как работать в программе Spark AR Studio
+r6WtIPSuARg // Воркшоп по созданию AR-маски для Instagram / Как работать в программе Spark AR Studio
 
 # Четырехглазый Контентмейкер
 0iLYQx6PViI // КАК СДЕЛАТЬ МАСКУ ДЛЯ ИНСТАГРАМА? | Урок по созданию в Spark AR Studio

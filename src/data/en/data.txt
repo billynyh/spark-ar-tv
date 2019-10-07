@@ -160,6 +160,7 @@ CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth
 5iBG-RVwDEc // Spark AR Studio - Gold Tutorial : How To Make Gold ?
 l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
+BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
 
 # Upcycling Coding
 iRbfea2knzM // First approach to Augmented Reality (with Instagram AR filters)- VLOG
