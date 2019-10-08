@@ -36,6 +36,7 @@ xq9H47xpBW4 // It's always you - David Oreilly | Filtro de Instagram.
 D5w-QcVNt3U // Spark AR Tutorial: Gif to Sprite Sheet | 2 Face trackers | Animation sequence
 KAuFceX2NSg // Spark AR: Camera Texture & Smile Interaction
 rFuPox0zf5Y // Spark AR Plane tracker ¿Cómo "colocar" objetos sobre superficies planas? vs Target Tracker
+HyKu6y6DEcM // ¿Cómo crear filtros para Instagram? Spark AR Paso a paso
 
 # Los Taquivalos
 kCz7Nd5ftPI // Como hacer filtros para INSTAGRAM o FACEBOOK /Spark AR
