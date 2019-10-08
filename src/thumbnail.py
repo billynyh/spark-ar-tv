@@ -57,14 +57,10 @@ if __name__ == "__main__":
     #generate_facebook_thumbnails(site)
     ids = 'GUNl32dzslc,4g4CoL_KCkE,cWXuxhD7sAc,4BEKaaHmjfk'.split(',')
     ids = 'fj7U27H-B1c,YLeZ1901qKI,BEO0v4DK7hU,Lx-t9-YQLds'.split(',')
-    groups = site.music
-    ids = groups[0].ids
+    ids = 'AQyLm4d91Yo,ED9STH52g0I,OF0Usr8cpDE,8IAI9LeX_Ho'.split(',')
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    for g in groups:
-        img = image_helper.group_thumbnail_collage(site, g.ids)
-        outfile = util.get_group_banner_path(config.out_dir, g)
-        img.save(outfile, "JPEG")
-        print("Saved %s" % outfile)
+    generate_custom_week_thumbnails(site, ids, 'week-2019-09-30')
+
