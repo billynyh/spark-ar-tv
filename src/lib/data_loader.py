@@ -221,8 +221,9 @@ def global_site(config):
     site.facebook = parse("data/facebook.txt")
     site.channel_lists = parse_channel_lists("data/channel-lists.txt")
     site.music = parse("data/music.txt")
+    site.interviews = parse("data/interviews.txt")
     
-    all_groups = site.groups + site.facebook + site.topics + site.music
+    all_groups = site.groups + site.facebook + site.topics + site.music + site.interviews
     all_youtube_ids = set([id for g in all_groups for id in g.ids])
     site.video_data = load_video_data(all_youtube_ids, config.api_key)
     site.groups_by_time = group_by_time(site.video_data)

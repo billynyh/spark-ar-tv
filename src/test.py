@@ -19,4 +19,3 @@ if __name__ == "__main__":
 
     config = config_factory.load(False)
     master = data_loader.master_site(config)
-

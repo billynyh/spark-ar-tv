@@ -84,6 +84,13 @@ def music_pages(site, config):
         page_config.og_image = util.get_group_banner_url(config, site.music[0])
     return [("music-videos.html", html_helper.gen_music_html(site, page_config))]
 
+def interviews_pages(site, config):
+    page_config = PageConfig(config.site_config.page_config)
+    page_config.title = "Interviews | Spark AR TV"
+    if site.interviews:
+        page_config.og_image = util.get_group_banner_url(config, site.interviews[0])
+    return [("interviews.html", html_helper.gen_interviews_html(site, page_config))]
+
 def gen_lang_site(site, config):
     lang = site.lang
     out_dir = "%s/%s" % (config.out_dir, lang)
@@ -99,6 +106,8 @@ def gen_lang_site(site, config):
         pages += facebook_pages(site, config)
     if site.music:
         pages += music_pages(site, config)
+    if site.interviews:
+        pages += interviews_pages(site, config)
     if site.channel_lists:
         pages += channel_list_pages(site, config)
 

@@ -39,6 +39,10 @@ class HtmlHelper:
         t = self.get_template('facebook.html')
         return self.render(t, site=site, page = page, groups=site.music)
 
+    def gen_interviews_html(self, site, page):
+        t = self.get_template('facebook.html')
+        return self.render(t, site=site, page = page, groups=site.interviews)
+
     def gen_timeline_html(self, site, page):
         t = self.get_template('index.html')
         return self.render(t, 

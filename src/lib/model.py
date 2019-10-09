@@ -42,6 +42,7 @@ class Site:
     topics = None
     facebook = None
     music = None
+    interviews = None
     channel_lists = None # map of channel list
 
 class Group:

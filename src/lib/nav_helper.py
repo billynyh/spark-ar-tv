@@ -49,8 +49,10 @@ def get_lang_nav(site):
 def get_channel_list_nav(site):
     channel_lists = site.channel_lists or []
     music = site.music or []
+    interviews = site.interviews or []
     return [NavItem(l.title, "%s/global/%s.html" % (site.url, l.slug)) for l in channel_lists]\
-      + [NavItem(l.title, "%s/global/%s.html" % (site.url, l.slug)) for l in music]
+      + [NavItem(l.title, "%s/global/%s.html" % (site.url, l.slug)) for l in music]\
+      + [NavItem(l.title, "%s/global/%s.html" % (site.url, l.slug)) for l in interviews]
 
 def get_navs(master, site):
     # language nav, topic nav
