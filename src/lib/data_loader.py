@@ -83,7 +83,7 @@ def process_groups(groups, video_data, merge_small_groups = True):
 def sort_video_ids_by_time(ids, video_data):
     return sorted(
         ids,
-        key=lambda id: (video_data[id].published_at, id), 
+        key=lambda id: (video_data[id].published_at, video_data[id].channel_id, id), 
         reverse=True)
 
 def load_cache():

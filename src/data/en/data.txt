@@ -11,6 +11,9 @@ gxQHNpwte3c // How to reduce polygon count of a 3D model in Blender 2.8 for Spar
 G7V0nOhKuAk // How to rig your own 3D model for SparkAR in Blender 2.8
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 
+# B3D Interactive
+mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
+
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
 T1dFtHmRIlI // How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
@@ -55,6 +58,11 @@ f6mlfjizIGs // Spark AR Studio Workflow Overview
 ZdpSqnhMQag // Spark Ar Studio - Creative Mask
 x0CxUl54TkI // Spark AR Studio Publish to Facebook
 A1S8r-Tmi-U // How you can learn Augmented Reality without coding
+
+# Eugenio Solis de Ovando
+V2kxsysXsOo // 01 Spark AR
+nOu050rZYyE // 02 Spark AR Interface
+bsKS4Mp02og // 03 Spark AR workflow
 
 # Francesco Laterza
 0spiI5g3qsQ // Image Recognition in 2 minutes with SparkAR Studio - Augmented Reality TUTORIAL
@@ -161,7 +169,6 @@ CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth
 l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
-Dj-KePNWFXs // Spark AR Studio Tutoriel en Français : Comment faire de l'or ?
 
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13
