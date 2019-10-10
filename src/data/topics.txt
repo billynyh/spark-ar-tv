@@ -34,6 +34,7 @@ REdq8ODB5MQ // ДЕФОРМАЦИЯ ЛИЦА в Spark AR | 2 СПОСОБА КО
 OHBQYAr79Dc // Spark AR Studio - Split Face Effect and Alpha Masks
 3cDr_weipeI // BETTER WAY to CHANGE a FACE (LIPS FULLER!) in SPARK AR / INSTAGRAM MASK
 72MpRcqf2Yc // Spark AR Studio - Efectos con deformación facial - Labios abultados.
+SftvIaRPF_A // МАСКИ ДЛЯ ИНСТАГРАМ.SPARK/ПУХЛЫЕ ГУБЫ/ДЕФОРМАЦИЯ ЛИЦА.
 
 # Audio
 W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.
@@ -156,6 +157,10 @@ dPCpUNwDqcY // SPARK AR LIPSTICK FACE FILTER
 y_-NUYh00I8 // #4 Tutorial Como criar filtros de maquiagem? Makeup Instagram Filters | Spark AR Brasil
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
 MX-0FdVgEtw // Spark AR Studio Filtros Instagram - Como Trocar Cor de Batom
+0LsXOlaCi9E // Как сделать маску макияж? Spark ar Studio уроки.
+f6dBMmrm4GE // Уроки Spark AR. Как сделать маску макияж для инстаграм, стрелки, тени и тп.
+yQ3EeS7jxiU // Spark AR Cílios perfeitos. Tutorial de como criar cílios interativos com os olhos!
+yNMN3kvv0CI // Spark AR  Make UP. Como fazer sua Maquiagem Completa !
 
 # Face tracker tricks
 zSSX3TNSkBI // Spark AR Studio - Multiplición de Rostro - Face Extraction -
@@ -174,6 +179,7 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 gzbE9hgOL2c // Уроки Spark AR Studio. LUT + Retouch + Distortion✌🏻Маски в Инстаграм
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
+Z-q3Gev3vQ0 // Сглаживание лица+фильтр.Как сделать чтобы сглаживание лица работало одновременно с фильтром
 
 # Shader
 n3ZXo7GUiAo // Spark AR Toon Shader
