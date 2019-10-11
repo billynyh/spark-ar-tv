@@ -35,6 +35,8 @@ Ccp0qdTP5Hc // Spark AR Studio - Face meshes and Textures
 l5r3gCXUdT0 // Spark AR Studio - Image Sequences and Interactions
 BUXGi22eSnE // Spark AR Studio - Eye-tracking (Changing Pupils)
 OHBQYAr79Dc // Spark AR Studio - Split Face Effect and Alpha Masks
+E9L0uQKwmug // Spark AR Studio - Object Tap + Switch
+HizvZHPA00s // Spark AR Studio - Target Tracking
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -170,6 +172,9 @@ l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
 
+# TechMe Show
+j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
+
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13
 O00Pqph0-oc // A Taste of Spark with Trashy Muse Ep. #11
@@ -179,6 +184,7 @@ aiCKtDyx1JQ // A Taste of Spark with Marc Wakefield - Ep. #08
 yWpqA1pArS0 // A Taste of Spark with Matheusz Ziemann - Ep. #07
 jzNCq2JR5YM // A Taste of Spark with Ant Aug - Ep. #06
 vykjbNUDcLM // A Taste of Spark with Caroline Rocha - Ep. #05
+RKerr3UDXTw // Taste of Spark Episode 13 with Marcus Benisty
 
 # Upcycling Coding
 iRbfea2knzM // First approach to Augmented Reality (with Instagram AR filters)- VLOG

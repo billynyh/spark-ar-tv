@@ -12,6 +12,7 @@ LANG_DISPLAY_NAME = {
   'tr': 'Turkish',
   'fr': 'French',
   'de': 'German',
+  'zh': 'Chinese',
   'global': 'All Languages',
 }
 

@@ -10,6 +10,7 @@ zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
 N5I4AU6Vumo // Spark AR Studio - Efecto come pizza - Eat_Pizza_V68
 m-9BdirnrK4 // Spark AR Studio - Cómo crear efectos de partículas flotando a nuestro alrededor
 72MpRcqf2Yc // Spark AR Studio - Efectos con deformación facial - Labios abultados.
+u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Patch Editor
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
@@ -46,6 +47,9 @@ H6DJPJKSbeQ // Como subir filtros a INSTAGRAM / Spark AR / español
 m5JrirtgiOg // Spark Ar Studio Mda latam
 tbcxVqAd8Hw // Spark Ar Studio Mda latam
 tk-pPlLi5Co // Spark Ar studio Botones desplegables-Drop-down buttons
+
+# Mobillers TV Desarrollo de Aplicaciones
+RMC2gR6DsBI // Taller de Spark AR en Chile
 
 # YeYo
 AbaknB4FlAM // ¡Cómo CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM! 📱
