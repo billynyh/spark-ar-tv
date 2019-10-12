@@ -54,3 +54,40 @@ Ves_bHGQuPo
 TGYCM2-0aG0
 p_JvPoPpLVg
 TnWrJoPCfco
+
+# beauty-makeup-lipstick
+d789vqCo_-A
+RapfrXtyliU
+f6dBMmrm4GE
+yQ3EeS7jxiU
+
+# face-retouching
+gzbE9hgOL2c // Уроки Spark AR Studio. LUT + Retouch + Distortion✌🏻Маски в Инстаграм
+4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
+RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
+Z-q3Gev3vQ0 // Сглаживание лица+фильтр.Как сделать чтобы сглаживание лица работало одновременно с фильтром
+
+# plane-tracker-target-tracker
+5C2OCgx65S8 // Spark AR Tutorial Target Tracker | Español
+-8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
+/watch?v=ZOX7L57woco&t=9s //Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+rFuPox0zf5Y // Spark AR Plane tracker ¿Cómo "colocar" objetos sobre superficies planas? vs Target Tracker
+
+# instructions
+RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructions
+JahuumWeWbI // Tap to change / Add instructions - Spark AR beginner tutorial
+iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
+FgEAV3oS_D0 // Spark AR Várias instruções. Tutorial de como adicionar Instructions ao filtro
+
+# game
+KdniK0Y3UOs // Spark AR | Finishing up collision detection, scoring, and sounds for game
+/watch?v=APWpLdvXaiE&t=8s //Spark AR: Blinking Game Tutorial - Part 1
+/watch?v=4RSqFiOOBPM&t=126s //How to Add Score Counter In Instagram/Facebook Game
+-r256yKFeos // Spark AR Masterclass: AR and Gaming
+
+# face-tracker-tricks
+
+zSSX3TNSkBI // Spark AR Studio - Multiplición de Rostro - Face Extraction -
+oe0cFx5Xg9M // Spark AR Studio Filtros Instagram - Como Trocar Cor dos Olhos #SparkAR #Instagram #Tutorial
+CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
+W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.

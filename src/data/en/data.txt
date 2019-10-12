@@ -38,6 +38,7 @@ OHBQYAr79Dc // Spark AR Studio - Split Face Effect and Alpha Masks
 E9L0uQKwmug // Spark AR Studio - Object Tap + Switch
 HizvZHPA00s // Spark AR Studio - Target Tracking
 mybMDLu4YVs // Spark AR Studio - Target Tracking and Animation (Image) Sequences  [Part One]
+Y1nY36lX11o // Spark AR Studio - Controlling Animation (Image) Sequences [Part Two]
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -211,3 +212,4 @@ ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane
 # ZiFeng Learns to Make
 jkYt6_8RiDw // [ NOOB MAKES INSTAGRAM FILTER ] Learning Spark AR to create my first Instagram filter.
 z-30w6mVaA8 // [ 3D SCULPTING IN FORGER APP (iPad) ] Dr. Stone Suika mask modeling. PART 2 (NOT TUTORIAL)
+U5m2_3SX0zE // [ NOOB UV MAPPING TUTORIAL - BLENDER 2.8 ] adding Color to 3D models

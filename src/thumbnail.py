@@ -31,10 +31,11 @@ def generate_custom_week_thumbnails(site, ids, group_slug):
     print("Saved %s" % outfile)
 
 def generate_topics_thumbnails(site):
-    groups = parse("data/topic-thumbnails.txt")
+    groups = parse("data/thumbnails-topics.txt")
     for g in groups:
         img = image_helper.group_thumbnail_collage(site, g.ids)
         outfile = util.get_topic_banner_path(config.out_dir, g)
+        print(outfile)
         img.save(outfile, "JPEG")
         print("Saved %s" % outfile)
         
@@ -48,11 +49,12 @@ def generate_facebook_thumbnails(site):
         img.save(outfile, "JPEG")
         print("Saved %s" % outfile)
 
-if __name__ == "__main__":
-    config = config_factory.load()
+def main():
 
     site = global_site(config)
-    #generate_topics_thumbnails(site)
+    #download_all(site.video_data)
+    generate_topics_thumbnails(site)
+    return
     # generate_week_thumbnails(site)
     #generate_facebook_thumbnails(site)
     ids = 'GUNl32dzslc,4g4CoL_KCkE,cWXuxhD7sAc,4BEKaaHmjfk'.split(',')
@@ -64,3 +66,7 @@ if __name__ == "__main__":
 
     generate_custom_week_thumbnails(site, ids, 'week-2019-09-30')
 
+
+if __name__ == "__main__":
+    config = config_factory.load()
+    main()
