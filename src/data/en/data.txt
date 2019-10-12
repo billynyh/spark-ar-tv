@@ -37,6 +37,7 @@ BUXGi22eSnE // Spark AR Studio - Eye-tracking (Changing Pupils)
 OHBQYAr79Dc // Spark AR Studio - Split Face Effect and Alpha Masks
 E9L0uQKwmug // Spark AR Studio - Object Tap + Switch
 HizvZHPA00s // Spark AR Studio - Target Tracking
+mybMDLu4YVs // Spark AR Studio - Target Tracking and Animation (Image) Sequences  [Part One]
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
