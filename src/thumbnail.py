@@ -53,18 +53,19 @@ def main():
 
     site = global_site(config)
     #download_all(site.video_data)
-    generate_topics_thumbnails(site)
-    return
+    #generate_topics_thumbnails(site)
+    #return
     # generate_week_thumbnails(site)
     #generate_facebook_thumbnails(site)
     ids = 'GUNl32dzslc,4g4CoL_KCkE,cWXuxhD7sAc,4BEKaaHmjfk'.split(',')
     ids = 'fj7U27H-B1c,YLeZ1901qKI,BEO0v4DK7hU,Lx-t9-YQLds'.split(',')
     ids = 'AQyLm4d91Yo,ED9STH52g0I,OF0Usr8cpDE,8IAI9LeX_Ho'.split(',')
+    ids = '_7grT2XOlcc,5dUVBjjKy0k,U5m2_3SX0zE,HizvZHPA00s'.split(',')
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2019-09-30')
+    generate_custom_week_thumbnails(site, ids, 'week-2019-10-07')
 
 
 if __name__ == "__main__":
