@@ -39,6 +39,7 @@ E9L0uQKwmug // Spark AR Studio - Object Tap + Switch
 HizvZHPA00s // Spark AR Studio - Target Tracking
 mybMDLu4YVs // Spark AR Studio - Target Tracking and Animation (Image) Sequences  [Part One]
 Y1nY36lX11o // Spark AR Studio - Controlling Animation (Image) Sequences [Part Two]
+SA7p4Xcu0RY // Spark AR Studio - Delay Patch
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -196,6 +197,7 @@ iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
 
 # Vibeke Bertelsen - Udart
 OF0Usr8cpDE // Create your own Instagram and Facebook face mask filter. Tattoo Spark AR tutorial
+bItiWOkgHhc // Insert yourself on a new background with Spark AR - background segmentation tutorial
 
 # Vidushi Agarwal
 kSSFQraSvSE // Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)
