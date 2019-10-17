@@ -10,10 +10,10 @@ jaUYruyFUC0 // Spark AR Studio - Gradiente multicolor, animado
 cpLXrctYrik // Spark AR Studio - Efectos de Lentes - Objetos 3D
 gc1mmpcRBvY // Spark AR Studio - Face Landmarks - Exacta ubicación de elementos en el rostro.
 zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
-N5I4AU6Vumo // Spark AR Studio - Efecto come pizza - Eat_Pizza_V68
+N5I4AU6Vumo // Spark AR Studio - Efectos giratorios con elementos 3D - Eat_Pizza_V68
 m-9BdirnrK4 // Spark AR Studio - Cómo crear efectos de partículas flotando a nuestro alrededor
 72MpRcqf2Yc // Spark AR Studio - Efectos con deformación facial - Labios abultados.
-u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Patch Editor
+u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
