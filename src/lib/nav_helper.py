@@ -13,6 +13,7 @@ LANG_DISPLAY_NAME = {
   'fr': 'French',
   'de': 'German',
   'zh': 'Chinese',
+  'iw': 'Hebrew',
   'global': 'All Languages',
 }
 
