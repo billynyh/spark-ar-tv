@@ -48,6 +48,9 @@ K_QFLcpQg5A // Spark AR - Community LIVE Make
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
 
+# Dominique Wu
+3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
+
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
 
@@ -179,6 +182,9 @@ l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
 ditsVEheqrw // Spark AR Studio Tutoriel en Français - Segmentation : Comment changer le fond ?
+
+# Ruya Baraz
+aLUdSpQamcI // Things Spinning Around the Head // Spark AR
 
 # TechMe Show
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
