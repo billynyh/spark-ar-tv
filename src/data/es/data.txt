@@ -14,6 +14,7 @@ N5I4AU6Vumo // Spark AR Studio - Efectos giratorios con elementos 3D - Eat_Pizza
 m-9BdirnrK4 // Spark AR Studio - Cómo crear efectos de partículas flotando a nuestro alrededor
 72MpRcqf2Yc // Spark AR Studio - Efectos con deformación facial - Labios abultados.
 u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
+dQ02U9-xoA0 // Spark AR Studio - Efecto con partes aisladas del rostro - Mesh Masking
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
