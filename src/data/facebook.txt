@@ -10,6 +10,13 @@ Tddl6IVYNY8 // Spark AR Masterclass: AR and Publishing & Optimization
 /watch?v=jBDC37CW-xA //Tutorial: Creating a Face Tracking Effect
 /watch?v=Hr-zfnq8PmA //Tutorial: Creating an Effect with Particles
 /watch?v=KhmOlbD3GwY //Tutorial: Working with Textures and Materials
+/watch?v=g-HPiuAGIv0 //Tutorial: Face Distortion and Retouching
+/watch?v=SSLHjHBfduc //Tutorial: Using Lights
+/watch?v=sMxf27Mgnok //Tutorial: Creating World Effects
+/watch?v=TRdw0EUKISQ //#SparkARQuickTips v70
+/watch?v=85pKN3j7ZyE //#SparkARQuickTips v71
+/watch?v=HN8-ahcW70k //#SparkARQuickTips v72
+/watch?v=YI6D1euBT-U //#SparkARQuickTips v73
 
 # Spark AR Inspiration
 d789vqCo_-A // Johanna Jaskowska uses Spark AR Studio to re-imagine beauty

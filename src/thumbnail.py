@@ -61,11 +61,12 @@ def main():
     ids = 'fj7U27H-B1c,YLeZ1901qKI,BEO0v4DK7hU,Lx-t9-YQLds'.split(',')
     ids = 'AQyLm4d91Yo,ED9STH52g0I,OF0Usr8cpDE,8IAI9LeX_Ho'.split(',')
     ids = '_7grT2XOlcc,5dUVBjjKy0k,U5m2_3SX0zE,HizvZHPA00s'.split(',')
+    ids = 'H4JIKO6kexc,DTA9PRd3o2Y,qj4FGokKDpM,4rze2HaOGc8'.split(',')
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2019-10-07')
+    generate_custom_week_thumbnails(site, ids, 'week-2019-10-14')
 
 
 if __name__ == "__main__":

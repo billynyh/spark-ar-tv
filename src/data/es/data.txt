@@ -43,6 +43,7 @@ KAuFceX2NSg // Spark AR: Camera Texture & Smile Interaction
 rFuPox0zf5Y // Spark AR Plane tracker ¿Cómo "colocar" objetos sobre superficies planas? vs Target Tracker
 HyKu6y6DEcM // ¿Cómo crear filtros para Instagram? Spark AR Paso a paso
 _7grT2XOlcc // Spark AR Neck Bending | Bones & Rigging Blender
+FYOOmpRtpfs // Spark AR Face Deformation | Especial de Halloween
 
 # Los Taquivalos
 kCz7Nd5ftPI // Como hacer filtros para INSTAGRAM o FACEBOOK /Spark AR
@@ -58,3 +59,4 @@ RMC2gR6DsBI // Taller de Spark AR en Chile
 
 # YeYo
 AbaknB4FlAM // ¡Cómo CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM! 📱
+E2qwXmS9YHg // ¡Convierte PRESETS de LIGHTROOM en un FILTRO DE INSTAGRAM!
