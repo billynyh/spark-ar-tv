@@ -15,7 +15,7 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 
 # Ben Marriott
-_B0G1jIaxMA // Create an Instagram Filter | Intro to Spark AR Tutorial
+_B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
 
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
@@ -76,6 +76,8 @@ A1S8r-Tmi-U // How you can learn Augmented Reality without coding
 V2kxsysXsOo // 01 Spark AR
 nOu050rZYyE // 02 Spark AR Interface
 bsKS4Mp02og // 03 Spark AR workflow
+-xdeNrClC3Y // Spark AR Mask
+1WQOckuupYs // Spark AR Export Mask
 
 # Francesco Laterza
 0spiI5g3qsQ // Image Recognition in 2 minutes with SparkAR Studio - Augmented Reality TUTORIAL
@@ -183,9 +185,13 @@ CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth
 l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
+ditsVEheqrw // Spark AR Studio Tutoriel en Français - Segmentation : Comment changer le fond ?
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
+
+# Sankalp Parab
+xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasses
 
 # TechMe Show
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!

@@ -40,7 +40,7 @@ def fetch_all(config, master, lang, new_only = True, max_result=10):
     for c in channel_data:
         print("Fetching %s(%s)..." % (c.title, c.playlist))
         items = api.fetch_playlist(c.playlist, max_result=max_result)
-        items = filter_videos(items, all_ids.union(skip_ids), keywords=['spark', 'mask'])
+        items = filter_videos(items, all_ids.union(skip_ids), keywords=['spark', 'mask', 'sparkar'])
         if len(items) > 0:
             result.append((c.title, items))
     
