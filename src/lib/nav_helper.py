@@ -14,6 +14,7 @@ LANG_DISPLAY_NAME = {
   'de': 'German',
   'zh': 'Chinese',
   'iw': 'Hebrew',
+  'ar': 'Arabic',
   'global': 'All Languages',
 }
 
