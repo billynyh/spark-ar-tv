@@ -92,6 +92,9 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 5sBEw5QJ6R0 // FaceMesh Split - Sparkar Studio
 9sgI3HTFu48 // Animate FaceMesh - SparkAr Studio
 
+# Ham Ster
+vKL7ScEkL0U // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+
 # iediting
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
