@@ -94,6 +94,7 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 
 # Ham Ster
 vKL7ScEkL0U // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+8aBKSnpaJ54 // Spark AR Tutorial. Анимация 3D объектов над головой.
 
 # iediting
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
