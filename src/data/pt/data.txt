@@ -85,6 +85,7 @@ wRoMi1KAzQc // Spark AR Criando o seu Sasha Dog
 _eF0PdZpQLE // Spark AR Criando efeito Neon!
 RPPgZU0szK8 // Spark AR Numeros interativos e Retouch com Segmentação!
 2zAQrIMeYv0 // Spark AR LUT + RETOUCHING + DEFORMATION
+qcg2Om7dSBM // Spark AR Como extrair Olhos e Boca!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
@@ -93,3 +94,6 @@ g7ZfSkubHbE // SparkAR - Tutorial Cirurgia Plástica - Efeito Instagram
 
 # Tutoriais do Kewin
 g_pOgjB0_9s // Como Fazer Uploads dos Filtros - Spark Ar para Iniciantes #3
+
+# VA Designer
+VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook

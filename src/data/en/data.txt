@@ -45,6 +45,7 @@ Y1nY36lX11o // Spark AR Studio - Controlling Animation (Image) Sequences [Part T
 SA7p4Xcu0RY // Spark AR Studio - Delay Patch
 K_QFLcpQg5A // Spark AR - Community LIVE Make
 1LmFe9vZc6s // Spark AR Controlling Image Sequences [Digital Media Edition]
+X2w_YLkt-jQ // Spark AR Studio | Colour Grading (LUT)
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -253,3 +254,6 @@ jkYt6_8RiDw // [ NOOB MAKES INSTAGRAM FILTER ] Learning Spark AR to create my fi
 z-30w6mVaA8 // [ 3D SCULPTING IN FORGER APP (iPad) ] Dr. Stone Suika mask modeling. PART 2 (NOT TUTORIAL)
 U5m2_3SX0zE // [ NOOB UV MAPPING TUTORIAL - BLENDER 2.8 ] adding Color to 3D models
 2KpTPDUVJ8A // [1 Month Into Spark Ar, What had I made? ] - ANIME FILTERS!
+
+# 呂柏甫
+QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74

@@ -17,6 +17,7 @@ m-9BdirnrK4 // Spark AR Studio - Cómo crear efectos de partículas flotando a n
 u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
 dQ02U9-xoA0 // Spark AR Studio - Efecto con partes aisladas del rostro - Mesh Masking
 pyxF-lfUtrQ // Spark AR Studio - Efectos con hoyos en la malla facial -  Mesh Holes
+lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena y hueca con  gradientes
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
@@ -52,6 +53,9 @@ VxRPhMFRiV8 // Spark AR Escanea objetos y conviértelos en 3D (Técnica Sasha Do
 # Los Taquivalos
 kCz7Nd5ftPI // Como hacer filtros para INSTAGRAM o FACEBOOK /Spark AR
 H6DJPJKSbeQ // Como subir filtros a INSTAGRAM / Spark AR / español
+
+# MassterFX || Tutoriales Para Artistas Visuales
+3sycClIqnwg // CREA filtros Para Instagram FACIL
 
 # MDALatam studio dyn Fotografia
 m5JrirtgiOg // Spark Ar Studio Mda latam
