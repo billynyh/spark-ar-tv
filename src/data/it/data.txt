@@ -1,6 +1,9 @@
 # Alessia Sica
 DIgSuvqJyis // Tutorial Spark AR: vi racconto il mio filtro Spring
 
+# Alice Cerea
+lBx8fFK7Fz8 // CREARE FILTRI INSTAGRAM: il mio TUTORIAL FILTRI INSTAGRAM semplicissimo! 😎⏱️
+
 # DebeeMama
 cf0avqbA870 // LIBRI per i bambini nei primi mesi di vita: Metodo Montessori
 fiqB_K_fxo4 // TUTORIAL: CREARE UN FILTRO IG/FB MAKE-UP CON SPARK AR STUDIO
@@ -9,6 +12,9 @@ hOL-FZgAYYE // Tutorial 2 SPARK AR STUDIO: Come inserire dei Particle Eye Emitte
 # Elena Sofia Studio
 tD1j_ncvyws // Spark AR Studio: Crea il tuo filtro Instagram personale in meno di 10 minuti
 
+# Gianluca Ciullini
+xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram
+
 # Jessica Redeghieri
 drPOcG0Ik64 // Realtà Aumentata in classe con i Filtri Instagram
 
@@ -16,3 +22,4 @@ drPOcG0Ik64 // Realtà Aumentata in classe con i Filtri Instagram
 1ITtcDoungo // Come creare filtri Instagram ITA
 A6AcRLNUr4M // Come creare un filtro instagram: Creare una maschera
 Uza-dhu_9-0 // Come Inserire oggetti 3D in Spark AR
+xrOrvHnEVBk // Come creare un filtro Instagram per 2 volti
