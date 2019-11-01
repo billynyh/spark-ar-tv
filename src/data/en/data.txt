@@ -46,6 +46,7 @@ SA7p4Xcu0RY // Spark AR Studio - Delay Patch
 K_QFLcpQg5A // Spark AR - Community LIVE Make
 1LmFe9vZc6s // Spark AR Controlling Image Sequences [Digital Media Edition]
 X2w_YLkt-jQ // Spark AR Studio | Colour Grading (LUT)
+UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter

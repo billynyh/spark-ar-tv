@@ -26,6 +26,7 @@ Ll0E-uQcS-A // #5 Как сделать простой фильтр-градие
 Vo8cS-Xkwuo // #6 Spark AR  - отделяем задний фон камеры. Сегментация (урок).
 SJMNOFX_K1U // #7 NativeUI Picker  - создаём колесо переключения эффектов в маске Инстаграм. Spark AR Scripting
 vWYT_-fQ5E4 // #8 Показать/скрыть маску по тапу на экран - Spark AR Scripting
+0KmOH3b9adU // #8.5 Spark AR - Исправляем популярные ошибки. Компиляции Microsoft JScript и тд
 
 # ANASTASIA VON TRI
 mBYotFzZiG0 // Как создать маску в Spark AR | Бесплатные подписчики в Instagram
