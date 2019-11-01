@@ -115,6 +115,7 @@ e6QdecFqUCA // Spark AR Tap to Change
 Lx2ImQ_MMWE // Spark AR Tap to Change
 vPuObKf-55I // Chromakey in Spark AR
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
+D9WjrNPj1_A // Spark AR Effect Tutorial: SlinkyCheeks
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -207,6 +208,7 @@ fUqthvjuxH8 // Grey Beard Hero - Instagram Filter (SparkAR)
 
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13
+0ngl_ASlKQs // Taste of Spark Episode 15 with Noland Chaliha
 
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)
