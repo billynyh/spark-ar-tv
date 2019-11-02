@@ -1,3 +1,6 @@
+# Aulia Dwiza Puteri
+/watch?v=Qdhx4-eYV0c //how to make an instagram filters with SPARK AR Studio
+
 # Abdul Muizz Siddiqui
 4RSqFiOOBPM // How to Add Score Counter In Instagram/Facebook Game
 
@@ -94,10 +97,6 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 5sBEw5QJ6R0 // FaceMesh Split - Sparkar Studio
 9sgI3HTFu48 // Animate FaceMesh - SparkAr Studio
 
-# Ham Ster
-vKL7ScEkL0U // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
-8aBKSnpaJ54 // Spark AR Tutorial. Анимация 3D объектов над головой.
-
 # iediting
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
@@ -117,6 +116,7 @@ Lx2ImQ_MMWE // Spark AR Tap to Change
 vPuObKf-55I // Chromakey in Spark AR
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 D9WjrNPj1_A // Spark AR Effect Tutorial: SlinkyCheeks
+ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
