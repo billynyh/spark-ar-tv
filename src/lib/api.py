@@ -78,12 +78,16 @@ class ApiDataLoader:
         return data
 
     def fetch_channels(self, ids):
-        request = self.get_youtube().channels().list(
-            part="snippet,contentDetails",
-            id=','.join(ids),
-        )
-        response = request.execute()
-        return [Channel(item) for item in response.get('items')]
+        batches = util.chunks(ids, 30)
+        results = []
+        for batch in batches:
+            request = self.get_youtube().channels().list(
+                part="snippet,contentDetails",
+                id=','.join(batch),
+            )
+            response = request.execute()
+            results += [Channel(item) for item in response.get('items')]
+        return results
 
     def fetch_playlist(self, id, max_result):
         request = self.get_youtube().playlistItems().list(

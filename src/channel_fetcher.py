@@ -101,7 +101,8 @@ def main():
 
     if args.id is None:
         skip_lang = ['fr']
-        for lang in config.site_config.languages:
+        langs = config.site_config.languages
+        for lang in langs:
             if lang in skip_lang:
                 print("Skip fetching %s" % lang)
                 continue
