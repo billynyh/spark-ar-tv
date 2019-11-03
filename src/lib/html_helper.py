@@ -43,12 +43,13 @@ class HtmlHelper:
         t = self.get_template('facebook.html')
         return self.render(t, site=site, page = page, groups=site.interviews)
 
-    def gen_timeline_html(self, site, page):
+    def gen_timeline_html(self, site, page, full = False):
         t = self.get_template('index.html')
         return self.render(t, 
             site = site, 
             page = page, 
-            link_to_group = True)
+            link_to_group = True,
+            full = full)
 
     def gen_week_html(self, site, page, week):
         t = self.get_template('week.html')

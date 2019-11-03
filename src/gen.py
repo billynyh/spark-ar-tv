@@ -39,6 +39,7 @@ def standard_pages(site, config):
     
     pages = [
         ("index.html", html_helper.gen_timeline_html(site, page_config)),
+        ("full-list.html", html_helper.gen_timeline_html(site, page_config, full=True)),
         ("debug.html", html_helper.gen_debug_html(site, page_config)),
     ]
     pages.append(("channels.html", html_helper.gen_channel_html(site, page_config)))

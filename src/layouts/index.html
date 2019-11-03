@@ -1,7 +1,20 @@
 <%inherit file="base.html" />
 
-<%include 
+<%include
     file="_featured_banner.html" 
     args="ids=site.most_viewed,video_data=master.global_site.video_data" />
+<%
+if full:
+    groups = site.groups_by_time
+else:
+    groups = site.groups_by_time[:4]
+has_more = len(site.groups_by_time) > 4
+%>
+<%include file="_groups.html" args="site=site,groups=groups" />
 
-<%include file="_groups.html" args="site=site,groups=site.groups_by_time" />
+
+% if not full and has_more:
+<p class="text-center">
+<a href="full-list.html">More videos</a>
+</p>
+%endif
