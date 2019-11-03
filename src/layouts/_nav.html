@@ -3,10 +3,10 @@ from lib.mako_util import wrap, wrap_lang, all_languages
 site = context.get('site')
 current_lang = site.lang
 %>
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar navbar-expand">
   <a class="navbar-brand" href="${wrap(context, 'global/index.html')}">Spark AR TV</a>
 
-    <ul class="navbar-nav mr-auto">
+    <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link" href="${wrap(context, 'global/index.html')}">Home</a>
       </li>
@@ -16,8 +16,6 @@ current_lang = site.lang
       <li class="nav-item">
         <a class="nav-link" href="${wrap(context, 'global/facebook.html')}">Facebook</a>
       </li>
-    </ul>
-    <ul class="navbar-nav float-right">
       <li class="nav-item">
         <a class="nav-link" href="https://forum.sparkar.wiki/d/94-spark-ar-tv-unofficial-video-tutorial-collections">Suggest content</a>
       </li>
