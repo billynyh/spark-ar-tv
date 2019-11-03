@@ -9,10 +9,10 @@ Q_iQCbm02w8 // Spark AR Studio - Gradientes, elementos 2D, Camera Texture & Segm
 qKj6tSOolqk // Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación -
 jaUYruyFUC0 // Spark AR Studio - Gradiente multicolor, animado
 cpLXrctYrik // Spark AR Studio - Efectos de Lentes - Objetos 3D
-gc1mmpcRBvY // Spark AR Studio - Face Landmarks - Exacta ubicación de elementos en el rostro.
+gc1mmpcRBvY // Spark AR Studio - Exacta ubicación de elementos en el rostro - Face Landmarks.
 zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
 N5I4AU6Vumo // Spark AR Studio - Efectos giratorios con elementos 3D - Eat_Pizza_V68
-m-9BdirnrK4 // Spark AR Studio - Cómo crear efectos de partículas flotando a nuestro alrededor
+m-9BdirnrK4 // Spark AR Studio - Efectos de partículas flotando alrededor
 72MpRcqf2Yc // Spark AR Studio - Efectos con deformación facial - Labios abultados.
 u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
 dQ02U9-xoA0 // Spark AR Studio - Efecto con partes aisladas del rostro - Mesh Masking

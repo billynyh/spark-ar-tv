@@ -2,8 +2,9 @@
 DndYb9TFTu0 // Spark AR Tutorial /Deutsch/learn something
 
 # QKnow Design
-AQyLm4d91Yo // Instagram Story Filter [Halloween-Tutorial]
-C6OrOpO_LXc // Instagram Storyfilter mit Spark AR (Instruktionen programmieren, um deine Lippenfarbe zu ändern)
+AQyLm4d91Yo // Spark AR Studio Halloween-Tutorial [Face Tracker & Material Options]
+C6OrOpO_LXc // Spark AR Studio Tap Option and Switch Option [ wie du deine Instagram Filter programmierst ]
+idUij9qtHko // Spar AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
 
 # Sebiforce
 lBx8fFK7Fz8 // CREARE FILTRI INSTAGRAM: il mio TUTORIAL FILTRI INSTAGRAM semplicissimo! 😎⏱️

@@ -37,18 +37,18 @@ R0pTosVgmnM // Spark AR Studio - V66+ Changes
 9lg6X-hROmQ // Spark AR Studio - Comment Requested Tutorials #1
 TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
 5uzCoKQ60Tk // Spark AR - Interactions Redux
-Ccp0qdTP5Hc // Spark AR Studio - Face meshes and Textures
-l5r3gCXUdT0 // Spark AR Studio - Image Sequences and Interactions
-BUXGi22eSnE // Spark AR Studio - Eye-tracking (Changing Pupils)
-OHBQYAr79Dc // Spark AR Studio - Split Face Effect and Alpha Masks
-E9L0uQKwmug // Spark AR Studio - Object Tap + Switch
-HizvZHPA00s // Spark AR Studio - Target Tracking
-mybMDLu4YVs // Spark AR Studio - Target Tracking and Animation (Image) Sequences  [Part One]
-Y1nY36lX11o // Spark AR Studio - Controlling Animation (Image) Sequences [Part Two]
-SA7p4Xcu0RY // Spark AR Studio - Delay Patch
+Ccp0qdTP5Hc // Face meshes and Textures - Spark AR Studio
+l5r3gCXUdT0 // Image Sequences and Interactions - Spark AR Studio
+BUXGi22eSnE // Eye-tracking (Changing Pupils) - Spark AR Studio
+OHBQYAr79Dc // Split Face Effect and Alpha Masks - Spark AR Studio
+E9L0uQKwmug // Object Tap + Switch - Spark AR Studio
+HizvZHPA00s // Target Tracking - Spark AR Studio
+mybMDLu4YVs // Target Tracking and Animation (Image) Sequences  [Part One] - Spark AR Studio
+Y1nY36lX11o // Controlling Animation (Image) Sequences [Part Two] - - Spark AR Studio
+SA7p4Xcu0RY // Delay Patch - Spark AR Studio
 K_QFLcpQg5A // Spark AR - Community LIVE Make
 1LmFe9vZc6s // Spark AR Controlling Image Sequences [Digital Media Edition]
-X2w_YLkt-jQ // Spark AR Studio | Colour Grading (LUT)
+X2w_YLkt-jQ // Colour Grading (LUT) - Spark AR Studio
 UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
 
 # Corridor Crew
