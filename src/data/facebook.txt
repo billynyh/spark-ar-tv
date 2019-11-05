@@ -1,44 +1,44 @@
 # Spark AR Masterclass
+Tddl6IVYNY8 // Spark AR Masterclass: AR and Publishing & Optimization
+p6pdaeWmjQA // Spark AR Masterclass: AR and Sharing
 w0JlBamTUVs // Spark AR Masterclass: AR and Education
 -r256yKFeos // Spark AR Masterclass: AR and Gaming
-p6pdaeWmjQA // Spark AR Masterclass: AR and Sharing
-Tddl6IVYNY8 // Spark AR Masterclass: AR and Publishing & Optimization
 
 # Spark AR Creators
-/watch?v=rpSSbBqLshg //Dream. Create. Share. Spark. Everyone can be a creator.
-/watch?v=Wk9ZoW1aLrw //Tutorial: Finding Your Way Around Spark AR Studio
-/watch?v=jBDC37CW-xA //Tutorial: Creating a Face Tracking Effect
-/watch?v=Hr-zfnq8PmA //Tutorial: Creating an Effect with Particles
-/watch?v=KhmOlbD3GwY //Tutorial: Working with Textures and Materials
-/watch?v=g-HPiuAGIv0 //Tutorial: Face Distortion and Retouching
-/watch?v=SSLHjHBfduc //Tutorial: Using Lights
-/watch?v=sMxf27Mgnok //Tutorial: Creating World Effects
-/watch?v=TRdw0EUKISQ //#SparkARQuickTips v70
-/watch?v=85pKN3j7ZyE //#SparkARQuickTips v71
-/watch?v=HN8-ahcW70k //#SparkARQuickTips v72
-/watch?v=YI6D1euBT-U //#SparkARQuickTips v73
-/watch?v=BRdUkYuN-9o //Tân Dương from Starseed uses Spark AR Studio to educate and entertain
-/watch?v=kfrGL6gNVEQ&t=2s //Hiroki Inoue of arara inc. uses Spark AR Studio to bring AR experiences to social
+rpSSbBqLshg // Dream. Create. Share. Spark.
+KhmOlbD3GwY // Tutorial: Working with Textures and Materials
+Hr-zfnq8PmA // Tutorial: Creating an Effect with Particles
+jBDC37CW-xA // Tutorial: Creating a Face Tracking Effect
+Wk9ZoW1aLrw // Tutorial: Finding Your Way Around Spark AR Studio
+YI6D1euBT-U // #SparkARQuickTips v73
+HN8-ahcW70k // #SparkARQuickTips v72
+85pKN3j7ZyE // #SparkARQuickTips v71
+TRdw0EUKISQ // #SparkARQuickTips v70
+sMxf27Mgnok // Tutorial: Creating World Effects
+SSLHjHBfduc // Tutorial: Using Lights
+g-HPiuAGIv0 // Tutorial: Face Distortion and Retouching
+BRdUkYuN-9o // Tân Dương from Starseed uses Spark AR Studio to educate and entertain
+kfrGL6gNVEQ // Hiroki Inoue of arara inc. uses Spark AR Studio to bring AR experiences to social
+f7ZZI1-wots // #SparkARQuickTips v74
 
 # Spark AR Inspiration
-d789vqCo_-A // Johanna Jaskowska uses Spark AR Studio to re-imagine beauty
 IO6xbZzDC9Q // Superfan.Ai uses Spark AR Studio to help fans experience Bollywood films in new ways
 yVs76GRI-Fc // Augmented reality and art come together in Felipe Pantone’s creations with Spark AR Studio
 QrQnhbxpZpk // R&R Partners use Spark AR Studio to help brands engage their customers
+d789vqCo_-A // Johanna Jaskowska uses Spark AR Studio to re-imagine beauty
 KpEGpggfPXw // Marc Wakefield uses Spark AR Studio to create new worlds
 YrE37KijWTs // Speed 3D Inc. uses Spark AR Studio to bring their imagination to life
 
 # Oculus
-ZcVuZowO8LA // Build for Reach: Get Started in Spark AR Studio
 098KVRiQSDY // Spark AR for Places and Things
+ZcVuZowO8LA // Build for Reach: Get Started in Spark AR Studio
 
 # Spark AR at F8 2019
-Jk3JZRSeILU // F8 2019: Spark AR Creators Roundtable
-fT-PgfZh_k4 // F8 2019: Spark AR Outlook Inspiring Creation and Exploration
-G4hVO41kPMU // F8 2019: Maximizing the Spark AR Engine for Everyone
 8jaNyBdZ-i8 // F8 2019: Optimizing Spark AR Effects for Instagram
-R-m9y4RuHEQ // F8 2019: Creating Standout Spark AR Effects for Instagram
-sAuNuFqHChs // F8 2019: AR Music (Spark AR Studio)
 qcR3UOxU2nc // F8 2019: Spark AR for Shopping
 gGrhFz2GyoY // F8 2019:  Spark AR for Places and Spaces
-
+Jk3JZRSeILU // F8 2019: Spark AR Creators Roundtable
+sAuNuFqHChs // F8 2019: AR Music (Spark AR Studio)
+G4hVO41kPMU // F8 2019: Maximizing the Spark AR Engine for Everyone
+R-m9y4RuHEQ // F8 2019: Creating Standout Spark AR Effects for Instagram
+fT-PgfZh_k4 // F8 2019: Spark AR Outlook Inspiring Creation and Exploration

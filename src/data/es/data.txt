@@ -18,6 +18,7 @@ u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Edi
 dQ02U9-xoA0 // Spark AR Studio - Efecto con partes aisladas del rostro - Mesh Masking
 pyxF-lfUtrQ // Spark AR Studio - Efectos con hoyos en la malla facial -  Mesh Holes
 lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena y hueca con  gradientes
+14apB024VMA // Spark AR Studio - Movimiento del dispositivo y dimensiones reales.
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram

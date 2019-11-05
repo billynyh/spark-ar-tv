@@ -65,15 +65,25 @@ def fetch_all(config, master, lang, new_only = True, max_result=10):
     return master
 
 def dump_site(site):
-    lines = []
     groups = sorted(site.groups, key = lambda group: group.title.lower())
+    return dump_groups(groups, site.video_data)
+
+def dump_groups(groups, video_data):
+    lines = []
     for group in groups:
         lines.append("# %s" % group.title)
-        ids = sorted(group.ids, key = lambda id: (site.video_data[id].raw_published_at, id))
+        ids = sorted(group.ids, key = lambda id: (video_data[id].raw_published_at, id))
         for id in ids:
-            lines.append("%s // %s" % (id, site.video_data[id].title))
+            lines.append("%s // %s" % (id, video_data[id].title))
         lines.append("")
     return lines
+
+def cleanup_groups(groups, video_data, fname):
+    lines = dump_groups(groups, video_data)
+    with open("data/%s" % fname, "w") as f:
+        f.write('\n'.join(lines))
+        print("Updated %s" %  f.name)
+
 
 def cleanup(master):
     
@@ -84,6 +94,7 @@ def cleanup(master):
             f.write('\n'.join(lines))
             print("Updated %s" % f.name)
 
+    cleanup_groups(master.global_site.facebook, master.global_site.video_data, "facebook.txt")
 
 def main():
     parser = argparse.ArgumentParser(description='Search video in channel')

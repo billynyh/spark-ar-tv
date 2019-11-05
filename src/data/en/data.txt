@@ -117,6 +117,7 @@ vPuObKf-55I // Chromakey in Spark AR
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 D9WjrNPj1_A // Spark AR Effect Tutorial: SlinkyCheeks
 ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
+28bixY0DgvM // Creating Natural Feeling Particle Systems with Motion Vectors in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
