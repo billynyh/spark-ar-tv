@@ -6,7 +6,7 @@
   <% 
   cls = "active" if item.title == current_item else "" 
   %>
-  <div class="col-lg-12 col-sm-4 ${cls}">
+  <div class="col-lg-12 col-sm-4 col-4 ${cls}">
     <a href="${item.url}">
         ${item.title}
     </a>
@@ -20,7 +20,7 @@
   <% 
   cls = "active" if item.title == current_item else "" 
   %>
-  <div class="col-lg-12 col-sm-3 ${cls}">
+  <div class="col-lg-12 col-sm-3 col-3 ${cls}">
     <a href="${item.url}">
         ${item.title}
     </a>
@@ -34,7 +34,7 @@
   <% 
   cls = "active" if item.title == current_item else "" 
   %>
-  <div class="col-lg-12 col-sm-6">
+  <div class="col-lg-12 col-sm-6 col-6">
     <a href="${item.url}">
         ${item.title}
         % if item.show_video_count:
