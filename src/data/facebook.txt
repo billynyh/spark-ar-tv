@@ -20,6 +20,8 @@ g-HPiuAGIv0 // Tutorial: Face Distortion and Retouching
 BRdUkYuN-9o // Tân Dương from Starseed uses Spark AR Studio to educate and entertain
 kfrGL6gNVEQ // Hiroki Inoue of arara inc. uses Spark AR Studio to bring AR experiences to social
 f7ZZI1-wots // #SparkARQuickTips v74
+4BBF4S3CABw // Tutorial: 2D Objects and Layers
+i2kd30sUMb0 // Tutorial: Adding Dynamic Text
 
 # Spark AR Inspiration
 IO6xbZzDC9Q // Superfan.Ai uses Spark AR Studio to help fans experience Bollywood films in new ways
