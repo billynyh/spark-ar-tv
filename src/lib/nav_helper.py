@@ -15,6 +15,7 @@ LANG_DISPLAY_NAME = {
   'zh': 'Chinese',
   'iw': 'Hebrew',
   'ar': 'Arabic',
+  'th': 'Thai',
   'global': 'All Languages',
 }
 

@@ -14,6 +14,7 @@ ooa4DKTv2LY // Tutorial FaceTracking Avançado   Spark Ar para Iniciantes #7
 I4pcAew4U2s // Tutorial emissor de partículas  - Spark Ar para Iniciantes #8
 d2zCC3yv5E0 // Tutorial Ativando Efeito ao Abrir a Boca   Mouth Open   Spark Ar para Iniciantes #9
 EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark Ar para Iniciantes #10
+1zgl4yIYewk // Tutorial Gifs e Vídeos no seu Filtro com Photoshop - Spark Ar para Iniciantes #11
 
 # Elvis Silva
 wjMNoRznDCs // Spark AR Studio Filtros Instagram - Pinturas no Rosto #SparkAR #Instagram #Tutorial
@@ -100,6 +101,7 @@ RPPgZU0szK8 // Spark AR Numeros interativos e Retouch com Segmentação!
 qcg2Om7dSBM // Spark AR Como extrair Olhos e Boca!
 gNcpScPtrBU // Spark AR Trocando rosto e usando com 2 pessoas!
 RUsQ1CkVhQk // Spark AR Colocando seu rosto em objetos!
+nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
