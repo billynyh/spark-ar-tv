@@ -64,12 +64,12 @@ def main():
     ids = 'H4JIKO6kexc,DTA9PRd3o2Y,qj4FGokKDpM,4rze2HaOGc8'.split(',')
     ids = 'RPPgZU0szK8,_mZzaB23lC4,_kyaopAlxro,FYOOmpRtpfs'.split(',')
     ids = 'qzv3U4fcSjo,ZaZ28P9HP7s,0ngl_ASlKQs,3sycClIqnwg'.split(',')
-
+    ids = 'MPpAVu2ewBo oQVyjjM0LhU 28bixY0DgvM YKunVWj32KQ'.split()
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2019-10-28')
+    generate_custom_week_thumbnails(site, ids, 'week-2019-11-04')
 
 
 if __name__ == "__main__":
