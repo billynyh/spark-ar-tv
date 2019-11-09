@@ -102,6 +102,7 @@ qcg2Om7dSBM // Spark AR Como extrair Olhos e Boca!
 gNcpScPtrBU // Spark AR Trocando rosto e usando com 2 pessoas!
 RUsQ1CkVhQk // Spark AR Colocando seu rosto em objetos!
 nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!
+MPpAVu2ewBo // Spark AR Usando Face em Animação 3D, filtro Gangnam Style!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
