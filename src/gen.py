@@ -12,6 +12,7 @@ from lib import yt_api_util
 from lib.api import ApiDataLoader
 from lib.data_loader import *
 from lib.model import SiteConfig, PageConfig, Site
+from multiprocessing import Pool
 
 html_helper = HtmlHelper()
 
@@ -129,9 +130,10 @@ def gen_site(config):
     html_helper.master = master
     html_helper.config = config
     html_helper.global_site = master.global_site
-
-    for lang in config.site_config.languages:
-        gen_lang_site(master.lang_sites[lang], config)
+  
+    langs = config.site_config.languages
+    pool = Pool(5)
+    pool.starmap(gen_lang_site, [(master.lang_sites[lang], config) for lang in langs])
 
     gen_global_site(master)
 

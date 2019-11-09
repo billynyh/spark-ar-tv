@@ -7,6 +7,7 @@ from lib import util
 from lib import yt_api_util
 from lib.path_util import PathHelper
 from lib.nav_helper import CHANNEL_LIST_DISPLAY_NAME
+from multiprocessing import Pool
 
 # parse data.txt
 def parse(file_path):
@@ -238,8 +239,12 @@ def master_site(config, merge_small_groups = True):
     master = MasterSite()
     api_key = config.api_key
     print(api_key)
-    for lang in config.site_config.languages:
-        master.lang_sites[lang] = single_lang_site(config, lang, merge_small_groups)
+    langs = config.site_config.languages
+    pool = Pool(5)
+    sites = pool.starmap(single_lang_site, [(config, lang, merge_small_groups) for lang in langs])
+    for site in sites:
+        master.lang_sites[site.lang] = site
+
     master.global_site = global_site(config)
     master.global_site.most_viewed = master.lang_sites['en'].most_viewed
     master.config = config
