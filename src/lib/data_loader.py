@@ -8,6 +8,7 @@ from lib import yt_api_util
 from lib.path_util import PathHelper
 from lib.nav_helper import CHANNEL_LIST_DISPLAY_NAME
 from multiprocessing import Pool
+from time import perf_counter 
 
 # parse data.txt
 def parse(file_path):
@@ -95,11 +96,12 @@ def load_cache():
         data[id] = yt_api_util.read_single_video_json(file_path)
     return data
 
-def load_video_data(ids, api_key):
+
+def load_video_data(ids, cache, api_key):
+    st_time = perf_counter()
     print("Load video data")
-    all_data = load_cache()
-    need_fetch = [id for id in ids if not id in all_data.keys()]
-    data = {id:all_data[id] for id in ids if id in all_data}
+    need_fetch = [id for id in ids if not id in cache.keys()]
+    data = {id:cache[id] for id in ids if id in cache}
 
     if len(need_fetch) > 0:
         if api_key is None:
@@ -109,7 +111,7 @@ def load_video_data(ids, api_key):
             data_loader = ApiDataLoader(api_key)
             fetched_data = data_loader.fetch_videos(need_fetch)
             data.update(fetched_data)
-  
+    print("- end load video data, timespent %f" % (perf_counter() - st_time))
     return data
 
 def filter_video_by_date(video_data, start_date, end_date):
@@ -142,7 +144,7 @@ def group_by_time(video_data):
         start_date = end_date
     return groups
 
-def load_site_data(config, path="data/en", merge_small_groups = True):
+def load_site_data(config, path, video_cache, merge_small_groups = True):
     api_key = config.api_key
     ph = PathHelper(path)
 
@@ -163,7 +165,7 @@ def load_site_data(config, path="data/en", merge_small_groups = True):
     all_youtube_ids = [id for g in groups for id in g.ids]
     print("Num of videos: %s" % len(all_youtube_ids))
 
-    video_data = load_video_data(all_youtube_ids, api_key)
+    video_data = load_video_data(all_youtube_ids, video_cache, api_key)
 
     # merge and sort
     groups = process_groups(groups, video_data, merge_small_groups)
@@ -176,14 +178,14 @@ def load_site_data(config, path="data/en", merge_small_groups = True):
     site.groups_by_time = group_by_time(video_data)
     return site
 
-def load_global_groups(config):
+def load_global_groups(config, video_cache):
     groups = []
     for lang in config.site_config.languages:
         ph = PathHelper("data/%s" % lang)
         groups += parse(ph.get_data_file())
     
     all_youtube_ids = [id for g in groups for id in g.ids]
-    video_data = load_video_data(all_youtube_ids, config.api_key)
+    video_data = load_video_data(all_youtube_ids, video_cache, config.api_key)
 
     groups = process_groups(groups, video_data, False)
     return groups
@@ -200,23 +202,24 @@ def sort_videos(video_data):
     return (most_viewed, latest)
 
 
-def single_lang_site(config, lang, merge_small_groups = True):
+def single_lang_site(config, lang, video_cache, merge_small_groups = True):
     site = load_site_data(
         config, 
-        path = "data/%s" % lang,
+        "data/%s" % lang,
+        video_cache,
         merge_small_groups = merge_small_groups)
     site.url = config.site_config.url
     site.site_config = config.site_config
     site.lang = lang
     return site
 
-def global_site(config):
+def global_site(config, video_cache):
     site = Site()
     site.video_data = None
     site.url = config.site_config.url
     site.site_config = config.site_config
     site.lang = "global"
-    site.groups = load_global_groups(config)
+    site.groups = load_global_groups(config, video_cache)
 
     site.topics = parse("data/topics.txt")
     site.facebook = parse("data/facebook.txt")
@@ -226,7 +229,7 @@ def global_site(config):
     
     all_groups = site.groups + site.facebook + site.topics + site.music + site.interviews
     all_youtube_ids = set([id for g in all_groups for id in g.ids])
-    site.video_data = load_video_data(all_youtube_ids, config.api_key)
+    site.video_data = load_video_data(all_youtube_ids, video_cache, config.api_key)
     site.groups_by_time = group_by_time(site.video_data)
     for topic in site.topics:
         topic.ids = sort_video_ids_by_time(topic.ids, site.video_data)
@@ -240,12 +243,13 @@ def master_site(config, merge_small_groups = True):
     api_key = config.api_key
     print(api_key)
     langs = config.site_config.languages
+    video_cache = load_cache()
     pool = Pool(5)
-    sites = pool.starmap(single_lang_site, [(config, lang, merge_small_groups) for lang in langs])
+    sites = pool.starmap(single_lang_site, [(config, lang, video_cache, merge_small_groups) for lang in langs])
     for site in sites:
         master.lang_sites[site.lang] = site
 
-    master.global_site = global_site(config)
+    master.global_site = global_site(config, video_cache)
     master.global_site.most_viewed = master.lang_sites['en'].most_viewed
     master.config = config
 
