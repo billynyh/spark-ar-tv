@@ -244,8 +244,11 @@ def master_site(config, merge_small_groups = True):
     print(api_key)
     langs = config.site_config.languages
     video_cache = load_cache()
-    pool = Pool(5)
-    sites = pool.starmap(single_lang_site, [(config, lang, video_cache, merge_small_groups) for lang in langs])
+    if config.use_multi_process:
+        pool = Pool(5)
+        sites = pool.starmap(single_lang_site, [(config, lang, video_cache, merge_small_groups) for lang in langs])
+    else:
+        sites = [single_lang_site(config, lang, video_cache, merge_small_groups) for lang in langs]
     for site in sites:
         master.lang_sites[site.lang] = site
 

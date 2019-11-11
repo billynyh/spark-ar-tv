@@ -132,9 +132,11 @@ def gen_site(config):
     html_helper.global_site = master.global_site
   
     langs = config.site_config.languages
-    pool = Pool(5)
-    pool.starmap(gen_lang_site, [(master.lang_sites[lang], config) for lang in langs])
-
+    if config.use_multi_process:
+        pool = Pool(5)
+        pool.starmap(gen_lang_site, [(master.lang_sites[lang], config) for lang in langs])
+    else:
+        [gen_lang_site(master.lang_sites[lang], config) for lang in langs]
     gen_global_site(master)
 
     # Copy assets

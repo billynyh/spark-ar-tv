@@ -6,6 +6,7 @@ class GeneratorConfig:
     cache_dir = None
     site_config = None
     api_key = None
+    use_multi_process = False
 
 class SiteConfig:
     url = None
