@@ -191,6 +191,7 @@ D9WjrNPj1_A // Spark AR Effect Tutorial: SlinkyCheeks
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena y hueca con  gradientes
+Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
 
 # Face Retouching
 gzbE9hgOL2c // Уроки Spark AR Studio. LUT + Retouch + Distortion✌🏻Маски в Инстаграм
