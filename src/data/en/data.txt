@@ -50,6 +50,7 @@ K_QFLcpQg5A // Spark AR - Community LIVE Make
 1LmFe9vZc6s // Spark AR Controlling Image Sequences [Digital Media Edition]
 X2w_YLkt-jQ // Colour Grading (LUT) - Spark AR Studio
 UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
+P6GlszoC2Qw // SDF Creating a Twisting effect - Spark AR
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -119,6 +120,7 @@ vPuObKf-55I // Chromakey in Spark AR
 D9WjrNPj1_A // Spark AR Effect Tutorial: SlinkyCheeks
 ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 28bixY0DgvM // Creating Natural Feeling Particle Systems with Motion Vectors in Spark AR
+iGHpdd_qvUM // 3D Particle Fields in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -197,7 +199,7 @@ CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth
 l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
-EvTyGWdPr0k // Spark AR Studio Tutoriel en Français - Patch Editor  : Comment changer la voix ?
+Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR

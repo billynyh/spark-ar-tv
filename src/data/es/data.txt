@@ -19,6 +19,7 @@ dQ02U9-xoA0 // Spark AR Studio - Efecto con partes aisladas del rostro - Mesh Ma
 pyxF-lfUtrQ // Spark AR Studio - Efectos con hoyos en la malla facial -  Mesh Holes
 lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena y hueca con  gradientes
 14apB024VMA // Spark AR Studio - Movimiento del dispositivo y dimensiones reales.
+Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
@@ -56,6 +57,10 @@ FYOOmpRtpfs // Spark AR Face Deformation & 3D Face Mesh | Especial de Halloween
 VxRPhMFRiV8 // Spark AR Escanea objetos y conviértelos en 3D (Técnica Sasha Dog)
 9aRAW83k0Pk // 10 Filtros de Halloween que debes probar 2019 - Spark AR
 oQVyjjM0LhU // Spark AR Voice Change | Use Microphone | TV head Filter
+Bvfd96oPWLM // Spark AR Objeto 3D sigue movimiento Face Tracker | Hand tracker
+
+# Iesther Eslla- SFY
+yEnYy03BUx4 // COMO CREAR FILTROS PARA INSTAGRAM || @iesthereslla
 
 # Insta Filtros
 2UWlbIVBLgw // Instagram - Cómo crear un Filtro para tus historias😱 ¡Súper Fácil!!🔥
