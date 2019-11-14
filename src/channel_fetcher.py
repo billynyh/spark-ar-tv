@@ -25,6 +25,17 @@ def filter_videos(items, known_ids, keywords):
             result.append(item)
     return result
 
+def fetch_single(config, master, channel_id):
+    api = ApiDataLoader(DEVELOPER_KEY)
+    channel_data = api.fetch_channels([channel_id])
+    for c in channel_data:
+        items = api.fetch_playlist(c.playlist, max_result=30)
+        print(len(items))
+        items = filter_videos(items, [], keywords=['spark', 'mask', 'sparkar'])
+        print(len(items))
+        for item in items:
+            print("%s %s" % (item.id, item.title))
+
 def fetch_all(config, master, lang, new_only = True, max_result=10):
     api = ApiDataLoader(DEVELOPER_KEY)
 
@@ -123,7 +134,7 @@ def main():
             master = fetch_all(config, master, lang, max_result = args.max)
         cleanup(master)
     else:
-        print("TODO fetch single channel")
+        fetch_single(config, master, args.id)
 
 if __name__=="__main__":
     main()
