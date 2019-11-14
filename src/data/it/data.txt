@@ -1,6 +1,3 @@
-# WARELLA
-/watch?v=UEhgMvjNyA0 //CARICARE FILTRI SU INSTAGRAM
-
 # Alessia Sica
 DIgSuvqJyis // Tutorial Spark AR: vi racconto il mio filtro Spring
 
@@ -29,3 +26,6 @@ A6AcRLNUr4M // Come creare un filtro instagram: Creare una maschera
 Uza-dhu_9-0 // Come Inserire oggetti 3D in Spark AR
 xrOrvHnEVBk // Come creare un filtro Instagram per 2 volti
 vrIS-9bLl1Y // Inserire una collana in Spark AR
+
+# WARELLA
+UEhgMvjNyA0 // CARICARE FILTRI SU INSTAGRAM

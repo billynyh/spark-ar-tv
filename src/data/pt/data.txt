@@ -110,6 +110,7 @@ RUsQ1CkVhQk // Spark AR Colocando seu rosto em objetos!
 nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!
 MPpAVu2ewBo // Spark AR Usando Face em Animação 3D, filtro Gangnam Style!
 Da8GJDgAUZw // Spark AR Os principais erros de todo Iniciante!
+VJmRFAMvOo8 // Spark AR Colagem com vários retângulos e LUT's!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
