@@ -93,6 +93,19 @@ def interviews_pages(site, config):
         page_config.og_image = util.get_group_banner_url(config, site.interviews[0])
     return [("interviews.html", html_helper.gen_interviews_html(site, page_config))]
 
+def custom_pages(site, config):
+    pages = []
+    for x in site.custom:
+        page_config = PageConfig(config.site_config.page_config)
+        page_config.title = "%s | Spark AR TV" % x['title']
+
+        pages.append((
+            "%s.html" % x['slug'], 
+            html_helper.gen_fb_videos_html(site, page_config, x)
+        ))
+    return pages
+        
+
 def gen_lang_site(site, config):
     lang = site.lang
     out_dir = "%s/%s" % (config.out_dir, lang)
@@ -112,6 +125,8 @@ def gen_lang_site(site, config):
         pages += interviews_pages(site, config)
     if site.channel_lists:
         pages += channel_list_pages(site, config)
+    if site.custom:
+        pages += custom_pages(site, config)
 
     for page in pages:
         with open_out_file(out_dir, page[0]) as outfile:

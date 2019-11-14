@@ -82,6 +82,21 @@ def process_groups(groups, video_data, merge_small_groups = True):
     
     return result
 
+def load_fb_videos(path):
+    f = open(path)
+    return [s.split()[0] for s in f.readlines()]
+
+def load_custom():
+    # two lanes fb videos
+    data = [
+      {
+        'title' : "Two Lane Social",
+        'urls' : load_fb_videos("data/custom/two_lane.txt"),
+        'slug' : "two-lane",
+      }
+    ]
+    return data
+
 def sort_video_ids_by_time(ids, video_data):
     return sorted(
         ids,
@@ -236,6 +251,9 @@ def global_site(config, video_cache):
     for g in site.facebook:
         g.ids = sort_video_ids_by_time(g.ids, site.video_data)
     site.topics = sorted(site.topics, key=lambda topic: topic.title)
+
+    site.custom = load_custom()
+    print(site.custom)
     return site
 
 def master_site(config, merge_small_groups = True):

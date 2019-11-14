@@ -45,6 +45,7 @@ class Site:
     music = None
     interviews = None
     channel_lists = None # map of channel list
+    custom = None
 
 class Group:
     title = None

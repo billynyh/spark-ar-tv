@@ -85,3 +85,13 @@ class HtmlHelper:
             title = channel_list.title,
             groups = groups)
 
+    def gen_fb_videos_html(self, site, page, param):
+        t = self.get_template('fb_videos.html')
+        return self.render(t,
+            site = site,
+            fb_video_urls = param['urls'],
+            fb_app_id = '481172182744207',
+            page = page,
+            title = param['title'],
+            )
+

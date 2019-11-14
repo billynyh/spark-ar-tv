@@ -1,0 +1,13 @@
+<%inherit file="base.html" />
+
+<h1>${title}</h1>
+<% import lib.fb_util %>
+<div class="content">
+<div class="container-fluid">
+% for url in fb_video_urls:
+<div class="row">
+  ${lib.fb_util.get_iframe_html(url, fb_app_id)}
+</div>
+% endfor
+</div>
+</div>
