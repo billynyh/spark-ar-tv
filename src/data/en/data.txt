@@ -164,6 +164,9 @@ sBoMUuuxC0A // Spark AR: Instagram Filters - Getting Started: Sharing Patches
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
 azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting around the mouth and eyes
 
+# Maria Nova
+oSp_CgomdzA // 4 awesome AR creators I met at AWE 2019 in Munich.
+
 # Maru Studio
 Dbhy8C3aI_A // Spark AR Studio - Tutorial for beginners
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
