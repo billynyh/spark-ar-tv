@@ -178,6 +178,7 @@ L_CoZ3XZAEA // Spark AR: Blinking Game Tutorial - Part 3
 vzy_feLMzO4 // Spark AR: Blinking Game Q&A
 QFmarjHCojM // Spark AR: Create Instagram LUTs filter
 DM8X2a2ak30 // Spark AR: How to fix JavaScript Error: Browserslist: caniuse-lite is outdated.
+uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
