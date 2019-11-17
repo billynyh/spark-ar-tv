@@ -122,6 +122,7 @@ D9WjrNPj1_A // Spark AR Effect Tutorial: SlinkyCheeks
 ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 28bixY0DgvM // Creating Natural Feeling Particle Systems with Motion Vectors in Spark AR
 iGHpdd_qvUM // 3D Particle Fields in Spark AR
+ViH0PycKCgk // Triggering Once and Assigning Defaults in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
