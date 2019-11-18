@@ -139,7 +139,7 @@ def filter_video_by_date(video_data, start_date, end_date):
 def group_by_time(video_data):
     dummy_start_date = datetime.date(2017, 7, 1)
     start_date = datetime.date(2019, 7, 1)
-    today = datetime.date.today()
+    tmr = datetime.date.today() + datetime.timedelta(days=1) # consider timezone
     week = datetime.timedelta(weeks=1)
 
     prev_videos = Group(
@@ -148,7 +148,7 @@ def group_by_time(video_data):
     )
     groups = [prev_videos]
 
-    while start_date <= today:
+    while start_date <= tmr:
         end_date = start_date + week
         title = "Week %s" % start_date
         ids = filter_video_by_date(video_data, start_date, end_date)
