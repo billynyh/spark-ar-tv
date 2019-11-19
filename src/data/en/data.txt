@@ -123,6 +123,7 @@ ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 28bixY0DgvM // Creating Natural Feeling Particle Systems with Motion Vectors in Spark AR
 iGHpdd_qvUM // 3D Particle Fields in Spark AR
 ViH0PycKCgk // Triggering Once and Assigning Defaults in Spark AR
+gDsZvR9xjUE // Split-tone effect in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -131,6 +132,9 @@ KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patc
 wvrT0LuU_Mc // Spark AR | Creating filters for Facebook and Instagram | LIVESTREAM
 dZlBUt9XDp4 // Spark AR | LIVESTREAM
 WI-wYxCVgo4 // SPARK AR TUTORIAL // MAKE YOUR OWN ZOMBIE INSTAGRAM FILTER
+
+# kavin kumar
+jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Lol & Epic
 l3kcupzw6-w // Epic edit filtering IG / Spark AR , Adobe Photoshop

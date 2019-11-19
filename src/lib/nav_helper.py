@@ -17,6 +17,7 @@ LANG_DISPLAY_NAME = {
   'ar': 'Arabic',
   'th': 'Thai',
   'pl': 'Polish',
+  'ro': 'Romanian',
   'global': 'All Languages',
 }
 
