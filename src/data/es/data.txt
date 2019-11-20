@@ -45,7 +45,7 @@ CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
 VsLjCqNBd1o // Spark AR Tutorial:  Hand Tracker en español
 G38CHTTKUxA // Spark AR Tutorial: Screen Tap experiencia
 huS6O9seuG0 // ¿Cómo publicar filtros de Spark AR hacia Instagram o Facebook?
-5C2OCgx65S8 // Spark AR Tutorial Target Tracker | Español
+5C2OCgx65S8 // Spark AR Tutorial Target Tracker
 OQ64xKSeyEk // Spark AR Tutorial: Interacción 3D (Rotar & Escalar)
 xq9H47xpBW4 // It's always you - David Oreilly | Filtro de Instagram.
 D5w-QcVNt3U // Spark AR Tutorial: Gif to Sprite Sheet | 2 Face trackers | Animation sequence
@@ -59,6 +59,7 @@ VxRPhMFRiV8 // Spark AR Escanea objetos y conviértelos en 3D (Técnica Sasha Do
 oQVyjjM0LhU // Spark AR Voice Change | Use Microphone | TV head Filter
 Bvfd96oPWLM // Spark AR Objeto 3D sigue movimiento Face Tracker | Hand tracker
 VqDH3IfLBnA // Starbucks Instagram Filter | Holiyay | Augmented reality
+2JHSVWRLuBI // Head Quiz - Games Filter Instagram  | Realidad Aumentada
 
 # grace en internet
 U_KBtWEFuSQ // ✧ Creando mis propios filtros de Instagram ✧

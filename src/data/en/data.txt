@@ -14,12 +14,15 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
 
+# AWE - Augmented World Expo
+NXm4SAtidmM // Davide La Sala (Facebook, Inc.): Intro to Facebook's Spark AR: Immersive Experience Workflows
+
 # B3D Interactive
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 
 # Ben Marriott
 _B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
-xSgRgcNqzfU // Create an AR HUD - Spark AR Studio beginner tutorial | Instagram Filter
+xSgRgcNqzfU // Create an Instagram Filter - Spark AR Studio beginner tutorial | HUD
 
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
@@ -103,6 +106,9 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 # iediting
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
+# Jayasurya Aasaithambi
+yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
+
 # Josh Beckwith
 o-QKwgYIHdE // Spark AR Effect Development: Radiance
 Cbd7kOepfLk // Spark AR Effect Development: Radiance Audio FX
@@ -135,6 +141,9 @@ WI-wYxCVgo4 // SPARK AR TUTORIAL // MAKE YOUR OWN ZOMBIE INSTAGRAM FILTER
 
 # kavin kumar
 jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+
+# Liucidity
+pc4isqdbmhQ // Spark AR: Face filter with YOUR doodles! | Beginner, Easy and Fast Tutorial
 
 # Lol & Epic
 l3kcupzw6-w // Epic edit filtering IG / Spark AR , Adobe Photoshop
@@ -253,6 +262,8 @@ bItiWOkgHhc // Insert yourself on a new background with Spark AR - background se
 vFTF0pYGCE8 // How to do glitter makeup face filter in Spark AR - animation tutorial
 DxZiltjqcPM // Create a frame that fits the screen - Spark AR tutorial
 jQlUGrQa9iw // Golden mask and chrome mask - Facebook and Instagram face filter tutorial
+bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
+qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
 
 # Vidushi Agarwal
 kSSFQraSvSE // Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)
