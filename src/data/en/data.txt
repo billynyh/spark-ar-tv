@@ -130,6 +130,7 @@ ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 iGHpdd_qvUM // 3D Particle Fields in Spark AR
 ViH0PycKCgk // Triggering Once and Assigning Defaults in Spark AR
 gDsZvR9xjUE // Split-tone effect in Spark AR
+yrWh6TzXYkg // Function & Composition patches: What do they do?
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter

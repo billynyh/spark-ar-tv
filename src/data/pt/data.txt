@@ -112,6 +112,7 @@ MPpAVu2ewBo // Spark AR Usando Face em Animação 3D, filtro Gangnam Style!
 Da8GJDgAUZw // Spark AR Os principais erros de todo Iniciante!
 VJmRFAMvOo8 // Spark AR Colagem com vários retângulos e LUT's!
 6b5nnBaNdeA // Spark AR Native UI com Luts, Visible e Partículas
+ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
