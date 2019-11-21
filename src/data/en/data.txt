@@ -55,6 +55,7 @@ K_QFLcpQg5A // Spark AR - Community LIVE Make
 X2w_YLkt-jQ // Colour Grading (LUT) - Spark AR Studio
 UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
 P6GlszoC2Qw // SDF Creating a Twisting effect - Spark AR
+yOsG__hIUas // Drawing with Particles - Spark AR
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -131,6 +132,7 @@ iGHpdd_qvUM // 3D Particle Fields in Spark AR
 ViH0PycKCgk // Triggering Once and Assigning Defaults in Spark AR
 gDsZvR9xjUE // Split-tone effect in Spark AR
 yrWh6TzXYkg // Function & Composition patches: What do they do?
+fEUS-rY6DU8 // Glitter Effect Tutorial for Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
