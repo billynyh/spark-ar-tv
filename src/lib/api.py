@@ -97,3 +97,40 @@ class ApiDataLoader:
         )
         response = request.execute()
         return [SimpleVideo(item) for item in response.get('items')]
+
+    def create_playlist(self, title, description):
+        request = self.get_youtube().playlists().insert(
+            part="snippet,status",
+            body={
+              "snippet": {
+                "title": title,
+                "description": description,
+                "tags": [
+                  "sparkar", "spark ar",
+                ],
+                "defaultLanguage": "en"
+              },
+              "status": {
+                "privacyStatus": "private"
+              }
+            }
+        )
+        response = request.execute()
+        print(response)
+        print("id: %s" % response.get('id'))
+
+    def add_video_to_playlist(self, playlist_id, position, video_id):
+        request = self.get_youtube().playlistItems().insert(
+            part="snippet",
+            body={
+              "snippet": {
+                "playlistId": playlist_id,
+                "position": position,
+                "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": video_id,
+                }
+              }
+            }
+        )
+        response = request.execute()
