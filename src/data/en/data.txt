@@ -56,6 +56,8 @@ X2w_YLkt-jQ // Colour Grading (LUT) - Spark AR Studio
 UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
 P6GlszoC2Qw // SDF Creating a Twisting effect - Spark AR
 yOsG__hIUas // Drawing with Particles - Spark AR
+5ruSrEnh_Do // Lets Get Random - Working with random Values | Spark AR Studio
+qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
