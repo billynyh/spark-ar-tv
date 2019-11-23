@@ -8,6 +8,12 @@ def dump_groups_stat(groups, video_data):
         num_channels = len(set([video_data[id].channel_id for id in group.ids]))
         print("%s: %s videos, %s channels" % (group.title, num_vid, num_channels))
 
+def dump_groups_ids(groups, video_data):
+    for group in groups:
+        print(group.title)
+        print(' '.join(group.ids))
+        print()
+
 def dump_groups_details(groups, video_data):
     for group in groups:
         print(group.title)
@@ -39,7 +45,8 @@ def main():
     site = master.global_site
     groups = site.groups_by_time
     dump_groups_stat(groups, site.video_data)
-    dump_groups_details(groups[1:6], site.video_data)
+    #dump_groups_details(groups[1:6], site.video_data)
+    dump_groups_ids(groups[1:6], site.video_data)
 
     print("All videos: %s" % len(site.video_data))
 
