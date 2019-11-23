@@ -1,8 +1,3 @@
-# Cel Ilustra - Patterns and Illustrations
-/watch?v=7QZzC4PsTZM //Como criar filtro BABY FACE pro Instagram - Distorção da Face
-/watch?v=qf1CFRr-5o8&t=735s //FILTRO PRO INSTAGRAM - Maquiagem Caveira Mexicana
-/watch?v=xOfGWPz9D0A&t=1s //COMO CRIAR FILTRO NO INSTAGRAM - Passo a passo de 4 efeitos
-
 # Androsidade BR
 e97Q7Vq2UXs // Crie seu filtro preset para o Instagram  - SPARK AR
 
@@ -20,6 +15,11 @@ I4pcAew4U2s // Tutorial emissor de partículas  - Spark Ar para Iniciantes #8
 d2zCC3yv5E0 // Tutorial Ativando Efeito ao Abrir a Boca   Mouth Open   Spark Ar para Iniciantes #9
 EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark Ar para Iniciantes #10
 1zgl4yIYewk // Tutorial Gifs e Vídeos no seu Filtro com Photoshop - Spark Ar para Iniciantes #11
+
+# Cel Ilustra - Patterns and Illustrations
+xOfGWPz9D0A // COMO CRIAR FILTRO NO INSTAGRAM - Passo a passo de 4 efeitos
+qf1CFRr-5o8 // FILTRO PRO INSTAGRAM - Maquiagem Caveira Mexicana
+7QZzC4PsTZM // Como criar filtro BABY FACE pro Instagram - Distorção da Face
 
 # Elvis Silva
 wjMNoRznDCs // Spark AR Studio Filtros Instagram - Pinturas no Rosto #SparkAR #Instagram #Tutorial
@@ -118,6 +118,7 @@ Da8GJDgAUZw // Spark AR Os principais erros de todo Iniciante!
 VJmRFAMvOo8 // Spark AR Colagem com vários retângulos e LUT's!
 6b5nnBaNdeA // Spark AR Native UI com Luts, Visible e Partículas
 ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
+Q1Yh_J43MX0 // Spark AR Criando um contorno com segmentação!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas

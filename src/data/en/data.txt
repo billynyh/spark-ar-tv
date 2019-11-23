@@ -64,6 +64,7 @@ GUNl32dzslc // How To Make a Custom Instagram Face Filter
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
+SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -135,6 +136,8 @@ ViH0PycKCgk // Triggering Once and Assigning Defaults in Spark AR
 gDsZvR9xjUE // Split-tone effect in Spark AR
 yrWh6TzXYkg // Function & Composition patches: What do they do?
 fEUS-rY6DU8 // Glitter Effect Tutorial for Spark AR
+ZmIoWlVN_m0 // Date & Time in Spark AR
+1NdmVlWsxcU // Saturation Masking in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -151,7 +154,7 @@ jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instarga
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
 
 # Liucidity
-pc4isqdbmhQ // Spark AR: Face filter with YOUR doodles! | Beginner, Easy and Fast Tutorial
+pc4isqdbmhQ // Create a face filter from doodle | Beginner Spark AR Tutorial
 
 # Lol & Epic
 l3kcupzw6-w // Epic edit filtering IG / Spark AR , Adobe Photoshop
@@ -269,7 +272,7 @@ OF0Usr8cpDE // Create your own Instagram and Facebook face mask filter. Tattoo S
 bItiWOkgHhc // Insert yourself on a new background with Spark AR - background segmentation tutorial
 vFTF0pYGCE8 // How to do glitter makeup face filter in Spark AR - animation tutorial
 DxZiltjqcPM // Create a frame that fits the screen - Spark AR tutorial
-jQlUGrQa9iw // Golden mask and chrome mask - Facebook and Instagram face filter tutorial
+jQlUGrQa9iw // Gold and chrome material - Facebook and Instagram face filter tutorial
 bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
 qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
 
