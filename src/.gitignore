@@ -1,4 +1,6 @@
 site_config.py
+client_secret.json
+token.pickle
 
 _cache
 _out

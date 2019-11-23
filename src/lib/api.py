@@ -4,6 +4,10 @@
 
 import os
 import json
+import pickle
+
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
 
 import google_auth_oauthlib.flow
 import googleapiclient.discovery
@@ -43,8 +47,12 @@ class ApiDataLoader:
         api_service_name = "youtube"
         api_version = "v3"
 
+        scopes = ["https://www.googleapis.com/auth/youtube.force-ssl"]
+        flow = google_auth_oauthlib.flow.InstalledAppFlow.from_client_secrets_file(
+                "client_secret.json", scopes)
+        credentials = flow.run_console()
         youtube = googleapiclient.discovery.build(
-            api_service_name, api_version, developerKey=self.key)
+            api_service_name, api_version, credentials=credentials)
 
         return youtube
 
@@ -98,8 +106,43 @@ class ApiDataLoader:
         response = request.execute()
         return [SimpleVideo(item) for item in response.get('items')]
 
+class PlaylistApi:
+    def __init__(self):
+        self.youtube = None
+
+    def auth(self):
+        # Disable OAuthlib's HTTPS verification when running locally.
+        # *DO NOT* leave this option enabled in production.
+        os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
+
+        scopes = ["https://www.googleapis.com/auth/youtube.force-ssl"]
+        creds = None
+        # The file token.pickle stores the user's access and refresh tokens, and is
+        # created automatically when the authorization flow completes for the first
+        # time.
+        if os.path.exists('token.pickle'):
+            with open('token.pickle', 'rb') as token:
+                creds = pickle.load(token)
+        # If there are no (valid) credentials available, let the user log in.
+        if not creds or not creds.valid:
+            if creds and creds.expired and creds.refresh_token:
+                creds.refresh(Request())
+            else:
+                flow = InstalledAppFlow.from_client_secrets_file(
+                    'client_secret.json', scopes)
+                creds = flow.run_local_server(port=0)
+            # Save the credentials for the next run
+            with open('token.pickle', 'wb') as token:
+                pickle.dump(creds, token)
+
+        api_service_name = "youtube"
+        api_version = "v3"
+
+        self.youtube = googleapiclient.discovery.build(
+            api_service_name, api_version, credentials=creds)
+
     def create_playlist(self, title, description):
-        request = self.get_youtube().playlists().insert(
+        request = self.youtube.playlists().insert(
             part="snippet,status",
             body={
               "snippet": {
@@ -116,11 +159,11 @@ class ApiDataLoader:
             }
         )
         response = request.execute()
-        print(response)
         print("id: %s" % response.get('id'))
+        return response.get('id')
 
     def add_video_to_playlist(self, playlist_id, position, video_id):
-        request = self.get_youtube().playlistItems().insert(
+        request = self.youtube.playlistItems().insert(
             part="snippet",
             body={
               "snippet": {
@@ -134,3 +177,5 @@ class ApiDataLoader:
             }
         )
         response = request.execute()
+        print(response)
+        print()
