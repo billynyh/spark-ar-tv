@@ -47,12 +47,8 @@ class ApiDataLoader:
         api_service_name = "youtube"
         api_version = "v3"
 
-        scopes = ["https://www.googleapis.com/auth/youtube.force-ssl"]
-        flow = google_auth_oauthlib.flow.InstalledAppFlow.from_client_secrets_file(
-                "client_secret.json", scopes)
-        credentials = flow.run_console()
         youtube = googleapiclient.discovery.build(
-            api_service_name, api_version, credentials=credentials)
+            api_service_name, api_version, developerKey=self.key)
 
         return youtube
 
