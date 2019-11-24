@@ -20,7 +20,8 @@ def dump_groups_details(groups, video_data):
         for x in group.ids:
             v = video_data[x]
             view_count = int(v.view_count)
-            if view_count > 2000:
+            thresold = 2000
+            if view_count > thresold:
                 print("%s // %s | %s" % (v.id, v.title, v.view_count))
         print()
 
@@ -45,8 +46,8 @@ def main():
     site = master.global_site
     groups = site.groups_by_time
     dump_groups_stat(groups, site.video_data)
-    #dump_groups_details(groups[1:6], site.video_data)
-    dump_groups_ids(groups[1:6], site.video_data)
+    dump_groups_details(groups[1:6], site.video_data)
+    #dump_groups_ids(groups[1:6], site.video_data)
 
     print("All videos: %s" % len(site.video_data))
 

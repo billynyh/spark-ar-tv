@@ -253,7 +253,6 @@ def global_site(config, video_cache):
     site.topics = sorted(site.topics, key=lambda topic: topic.title)
 
     site.custom = load_custom()
-    print(site.custom)
     return site
 
 def master_site(config, merge_small_groups = True):
