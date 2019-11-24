@@ -33,7 +33,9 @@ def cleanup(master):
             f.write('\n'.join(lines))
             print("Updated %s" % f.name)
 
-    cleanup_groups(master.global_site.facebook, master.global_site.video_data, "facebook.txt")
+    video_data = master.global_site.video_data
+    cleanup_groups(master.global_site.facebook, video_data, "facebook.txt")
+    cleanup_groups(master.global_site.topics, video_data, "topics.txt")
 
 def main():
     config = config_factory.load()
