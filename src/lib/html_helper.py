@@ -21,6 +21,7 @@ class HtmlHelper:
             master = self.master,
             site = site,
             navs = get_navs(self.master, site),
+            debug = False, #True,
             **kwargs)
 
     def gen_debug_html(self, site, page):

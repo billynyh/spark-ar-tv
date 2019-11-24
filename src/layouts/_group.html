@@ -11,6 +11,15 @@ group_page_url = wrap_lang(context, util.week_page_path(group))
   <h3>${group.title}</h3>
 % endif
 </div>
+% if debug:
+<div class="row">
+<textarea style="width:600px; height:200px; display:block;">
+% for id in group.ids:
+${id} // ${video_data[id].title}
+% endfor
+</textarea>
+</div>
+% endif
 <div class="row">
 % for id in group.ids:
   <%include file="_standard_video.html" args="obj=video_data[id]" />
