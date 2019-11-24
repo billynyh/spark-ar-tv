@@ -5,7 +5,9 @@ import config_factory
 
 def gen_playlist_from_group(api, g):
     playlist_id = api.create_playlist("Spark AR TV - %s" % g.title, g.title)
+    add_group_to_playlist(api, g, playlist_id)
 
+def add_group_to_playlist(api, g, playlist_id):
     i = 0
     for id in g.ids:
         api.add_video_to_playlist(playlist_id, i, id)
@@ -20,12 +22,16 @@ def main():
     api = PlaylistApi()
     api.auth()
 
-    st = 6
-    ed = st + 1
-    for g in groups[st:ed]:
+    # g = groups[6]:
+
+    for g in site.topics:
         print(g.title)
-        gen_playlist_from_group(api, g)
-        
+
+    print()
+    g = site.topics[14]
+    print(g.title)
+    #gen_playlist_from_group(api, g)
+    #add_group_to_playlist(api, g, "PLJ-lx8QFIxZZfCkt6VLPLNum0TfCoXhfn")
 
 
 main()
