@@ -155,8 +155,6 @@ gzbE9hgOL2c // Уроки Spark AR Studio. LUT + Retouch + Distortion✌🏻Ма
 QFmarjHCojM // Spark AR: Create Instagram LUTs filter
 2zAQrIMeYv0 // Spark AR LUT + RETOUCHING + DEFORMATION
 X2w_YLkt-jQ // Colour Grading (LUT) - Spark AR Studio
-X2w_YLkt-jQ // Colour Grading (LUT) - Spark AR Studio
-ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 v8H4R0IEzaY // SparkAR - Presets Lightroom como Filtros no Instagram - LUT
 e97Q7Vq2UXs // Crie seu filtro preset para o Instagram  - SPARK AR
@@ -210,7 +208,6 @@ rFuPox0zf5Y // Spark AR Plane tracker ¿Cómo "colocar" objetos sobre superficie
 HizvZHPA00s // Target Tracking - Spark AR Studio
 mybMDLu4YVs // Target Tracking and Animation (Image) Sequences  [Part One] - Spark AR Studio
 VxRPhMFRiV8 // Spark AR Escanea objetos y conviértelos en 3D (Técnica Sasha Dog)
-UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
 UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
 14apB024VMA // Spark AR Studio - Movimiento del dispositivo y dimensiones reales.
 nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!

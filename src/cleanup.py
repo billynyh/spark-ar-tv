@@ -2,6 +2,7 @@ import config_factory
 from site_config import DEVELOPER_KEY
 from lib.api import ApiDataLoader
 from lib.data_loader import *
+from numpy import unique
 
 def dump_site(site):
     groups = sorted(site.groups, key = lambda group: group.title.lower())
@@ -12,7 +13,11 @@ def dump_groups(groups, video_data):
     for group in groups:
         lines.append("# %s" % group.title)
         ids = sorted(group.ids, key = lambda id: (video_data[id].raw_published_at, id))
+        appeared = set()
         for id in ids:
+            if id in appeared:
+                continue
+            appeared.add(id)
             lines.append("%s // %s" % (id, video_data[id].title))
         lines.append("")
     return lines
