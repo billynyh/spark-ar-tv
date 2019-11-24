@@ -23,15 +23,18 @@ def main():
     api.auth()
 
     # g = groups[6]:
-
+    
+    i = 0
     for g in site.topics:
-        print(g.title)
+        print("%d Spark AR TV - %s" % (i, g.title))
+        i += 1
 
     print()
-    g = site.topics[14]
+    g = site.topics[19]
     print(g.title)
+    playlist_id = "PLJ-lx8QFIxZaXP1hEUlvIlMrAiozNPzey"
     #gen_playlist_from_group(api, g)
-    #add_group_to_playlist(api, g, "PLJ-lx8QFIxZZfCkt6VLPLNum0TfCoXhfn")
+    add_group_to_playlist(api, g, playlist_id)
 
 
 main()

@@ -57,20 +57,14 @@ def main():
     #return
     # generate_week_thumbnails(site)
     #generate_facebook_thumbnails(site)
-    ids = 'GUNl32dzslc,4g4CoL_KCkE,cWXuxhD7sAc,4BEKaaHmjfk'.split(',')
-    ids = 'fj7U27H-B1c,YLeZ1901qKI,BEO0v4DK7hU,Lx-t9-YQLds'.split(',')
-    ids = 'AQyLm4d91Yo,ED9STH52g0I,OF0Usr8cpDE,8IAI9LeX_Ho'.split(',')
-    ids = '_7grT2XOlcc,5dUVBjjKy0k,U5m2_3SX0zE,HizvZHPA00s'.split(',')
-    ids = 'H4JIKO6kexc,DTA9PRd3o2Y,qj4FGokKDpM,4rze2HaOGc8'.split(',')
-    ids = 'RPPgZU0szK8,_mZzaB23lC4,_kyaopAlxro,FYOOmpRtpfs'.split(',')
-    ids = 'qzv3U4fcSjo,ZaZ28P9HP7s,0ngl_ASlKQs,3sycClIqnwg'.split(',')
     ids = 'MPpAVu2ewBo oQVyjjM0LhU 28bixY0DgvM YKunVWj32KQ'.split()
     ids = 'xSgRgcNqzfU Ng6-PHCPNSY zUNTsc23-Vg MsaKgHguHXw'.split()
+    ids = '7QZzC4PsTZM NXm4SAtidmM qUNNIbQlfjA gDsZvR9xjUE'.split()
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2019-11-11')
+    generate_custom_week_thumbnails(site, ids, 'week-2019-11-18')
 
 
 if __name__ == "__main__":
