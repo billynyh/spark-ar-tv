@@ -64,9 +64,6 @@ YKunVWj32KQ // EYELASHES + BLUSH if you CAN'T DRAW / SPARK AR tutorial
 a_xU_P7LGtc // SPARK AR/РАЗМАЗАННЫЕ КАРТИНКИ.ИДЕАЛЬНЫЕ РЕСНИЦЫ.ИСПРАВЛЯЕМ ПРОБЛЕМЫ.
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
 
-# Device motion
-14apB024VMA // Spark AR Studio - Movimiento del dispositivo y dimensiones reales.
-
 # Face Retouching
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
@@ -215,6 +212,7 @@ mybMDLu4YVs // Target Tracking and Animation (Image) Sequences  [Part One] - Spa
 VxRPhMFRiV8 // Spark AR Escanea objetos y conviértelos en 3D (Técnica Sasha Dog)
 UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
 UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
+14apB024VMA // Spark AR Studio - Movimiento del dispositivo y dimensiones reales.
 nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
 
