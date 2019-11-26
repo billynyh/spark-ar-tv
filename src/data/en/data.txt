@@ -58,6 +58,7 @@ P6GlszoC2Qw // SDF Creating a Twisting effect - Spark AR
 yOsG__hIUas // Drawing with Particles - Spark AR
 5ruSrEnh_Do // Lets Get Random - Working with random Values | Spark AR Studio
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
+LBkXjq6kBJM // Spark AR Studio V76+ New Features and Update
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -66,6 +67,7 @@ GUNl32dzslc // How To Make a Custom Instagram Face Filter
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
 Th9ncRGJU3w // Spark AR Tutorial #3: Hand Tracker
+1hNHoKmn4Ag // Spark AR Tutorial #4: Particle System
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -151,6 +153,8 @@ WI-wYxCVgo4 // SPARK AR TUTORIAL // MAKE YOUR OWN ZOMBIE INSTAGRAM FILTER
 # kavin kumar
 jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
+abVjrDlUIT0 // How to use Action Property in Spark AR || v76 update || rbkavin
+Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -172,6 +176,9 @@ CuyYy4ZmspU // SparkAR talking hamburger
 
 # lucas klubb
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
+
+# Luis R. Guajardo Díaz
+8lPnk4qmGGQ // Spark AR SpriteSheet Tutorial, how to make popcorn particles with a spritesheet.
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion

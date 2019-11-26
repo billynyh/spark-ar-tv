@@ -123,6 +123,7 @@ VJmRFAMvOo8 // Spark AR Colagem com vários retângulos e LUT's!
 6b5nnBaNdeA // Spark AR Native UI com Luts, Visible e Partículas
 ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
 Q1Yh_J43MX0 // Spark AR Criando um contorno com segmentação!
+-DUU4uuuHBg // Spark AR Making Of Table for 2(Dj Alok)!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
