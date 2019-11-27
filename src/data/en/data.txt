@@ -63,6 +63,9 @@ LBkXjq6kBJM // Spark AR Studio V76+ New Features and Update
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
 
+# Crazy Play
+rnPA0mnbw5o // Spark AR tutorials for beginners
+
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
@@ -178,6 +181,7 @@ CuyYy4ZmspU // SparkAR talking hamburger
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
 
 # Luis R. Guajardo Díaz
+jSwAboaDRJU // Adobe AIR + OSC + ARDUINO + iBeacons ANE + kontakt io beacons demo
 8lPnk4qmGGQ // Spark AR SpriteSheet Tutorial, how to make popcorn particles with a spritesheet.
 
 # Luke Hurd
