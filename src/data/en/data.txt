@@ -71,6 +71,7 @@ rnPA0mnbw5o // Spark AR tutorials for beginners
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
 Th9ncRGJU3w // Spark AR Tutorial #3: Hand Tracker
 1hNHoKmn4Ag // Spark AR Tutorial #4: Particle System
+k5JAL8qIzr0 // Spark AR 04 : Place a 3D animated object in the real world
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -158,6 +159,7 @@ jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instarga
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
 abVjrDlUIT0 // How to use Action Property in Spark AR || v76 update || rbkavin
 Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
+tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -219,6 +221,7 @@ DM8X2a2ak30 // Spark AR: How to fix JavaScript Error: Browserslist: caniuse-lite
 uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
 
 # Mate Steinforth
+hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
 OLCipWve774 // Reflective Glass Shader for Spark AR
 
 # nice dream
