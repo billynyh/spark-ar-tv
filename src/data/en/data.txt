@@ -218,6 +218,9 @@ QFmarjHCojM // Spark AR: Create Instagram LUTs filter
 DM8X2a2ak30 // Spark AR: How to fix JavaScript Error: Browserslist: caniuse-lite is outdated.
 uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
 
+# Mate Steinforth
+OLCipWve774 // Reflective Glass Shader for Spark AR
+
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
 
@@ -250,6 +253,9 @@ aLUdSpQamcI // Things Spinning Around the Head // Spark AR
 
 # Sankalp Parab
 xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasses
+
+# SmokingFox
+X5X7tLcc4Vo // Some AR Madness
 
 # TechMe Show
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
