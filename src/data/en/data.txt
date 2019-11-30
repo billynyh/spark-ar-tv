@@ -160,6 +160,7 @@ omqEo6A1bLg // object with multiple material and change between them based on ta
 abVjrDlUIT0 // How to use Action Property in Spark AR || v76 update || rbkavin
 Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
 tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -219,6 +220,7 @@ vzy_feLMzO4 // Spark AR: Blinking Game Q&A
 QFmarjHCojM // Spark AR: Create Instagram LUTs filter
 DM8X2a2ak30 // Spark AR: How to fix JavaScript Error: Browserslist: caniuse-lite is outdated.
 uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
+ml7E8aFlRAc // Use Null Object to change the Object's pivot
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
