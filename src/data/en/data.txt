@@ -72,6 +72,7 @@ SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
 Th9ncRGJU3w // Spark AR Tutorial #3: Hand Tracker
 1hNHoKmn4Ag // Spark AR Tutorial #4: Particle System
 k5JAL8qIzr0 // Spark AR 04 : Place a 3D animated object in the real world
+_v_3qlb6rs0 // Spark AR #05: Patches Scripting - Screen Tap
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
