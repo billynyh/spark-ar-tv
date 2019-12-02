@@ -170,7 +170,7 @@ xJXzh_ePbdI // Spark AR Native UI. Tutorial de como adicionar Native UI ao seu f
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 sHRrOD5VCwE // Уроки SPARK AR Studio NATIVE UI PICKER. Как сделать меню для фильтра Маски в Инстаграм
 lXCJjuQXrQM // Spark AR Native UI múltiplos. Native UI em várias pessoas ou materiais!
-SJMNOFX_K1U // #7 NativeUI Picker  - создаём колесо переключения эффектов в маске Инстаграм. Spark AR Scripting
+SJMNOFX_K1U // #7🔥NativeUI Picker  - создаём колесо переключения эффектов в маске Инстаграм. Spark AR Scripting
 znMXpXjA1s8 // Урок 18 - Переключение кнопками Spark AR. Кнопки переключения Spark AR. NATIVE UI PICKER
 6b5nnBaNdeA // Spark AR Native UI com Luts, Visible e Partículas
 jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
@@ -235,12 +235,12 @@ f5uA87D4xL8 // Spark AR Mudando o background. Tutorial de como remover o fundo d
 T1dFtHmRIlI // How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
 RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructions
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
-Vo8cS-Xkwuo // #6 Spark AR  - отделяем задний фон камеры. Сегментация (урок).
+Vo8cS-Xkwuo // #6🔥👽Spark AR  - отделяем задний фон камеры. Сегментация (урок).
 SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 6UtMnE36rFM // Creating segmentation in Spark AR studio
 9cRwX5yp-G8 // Glitch Effect in Spark Ar / Фильтр в стиле Глитч для инстаграм / Уроки Spark Ar Studio
 Q1Yh_J43MX0 // Spark AR Criando um contorno com segmentação!
-A3vMevjHJ_I // Урок 26 - Замена фона Spark AR. Обводка человека Spark AR. Сегментация Spark AR. Segmentation Spark
+A3vMevjHJ_I // Урок 26 - Как поменять фон Spark AR. Обводка человека Spark AR. Сегментация. Segmentation Spark
 
 # Shader
 6rcTbfrVyWo // Spark AR MatCap shader

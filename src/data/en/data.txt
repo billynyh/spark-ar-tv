@@ -1,8 +1,3 @@
-# The World E2Z
-/watch?v=48TwgAXNr-0 //SparkAR - SIMPLE Face Mesh Tutorial for Instagram Filters
-/watch?v=NlCl6K6b8-4 //Find Face Assets FAST - Spark AR
-/watch?v=0B7FHZ6geMQ //Download + Open Spark AR - EAZY IG Filters
-
 # Abdul Muizz Siddiqui
 4RSqFiOOBPM // How to Add Score Counter In Instagram/Facebook Game
 
@@ -15,6 +10,7 @@ gxQHNpwte3c // How to reduce polygon count of a 3D model in Blender 2.8 for Spar
 5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
 G7V0nOhKuAk // How to rig your own 3D model for SparkAR in Blender 2.8
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
+5uPNwr5OWQo // How to Create a ShapeKey Animation in Blender 2.8 that Works in Sparkar Version 76
 
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
@@ -61,15 +57,15 @@ X2w_YLkt-jQ // Colour Grading (LUT) - Spark AR Studio
 UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR Studio
 P6GlszoC2Qw // SDF Creating a Twisting effect - Spark AR
 yOsG__hIUas // Drawing with Particles - Spark AR
-5ruSrEnh_Do // Lets Get Random - Working with random Values | Spark AR Studio
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
+5ruSrEnh_Do // Lets Get Random - Working with random Values | Spark AR Studio
 LBkXjq6kBJM // Spark AR Studio V76+ New Features and Update
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
 
 # Crazy Play
-rnPA0mnbw5o // Spark AR tutorials for beginners
+rnPA0mnbw5o // Spark AR tutorial for beginners
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -271,6 +267,11 @@ X5X7tLcc4Vo // Some AR Madness
 # TechMe Show
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
 fUqthvjuxH8 // Grey Beard Hero - Instagram Filter (SparkAR)
+
+# The World E2Z
+0B7FHZ6geMQ // Download + Open Spark AR - EAZY IG Filters
+NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
+48TwgAXNr-0 // SparkAR - SIMPLE Face Mesh Tutorial for Instagram Filters
 
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13
