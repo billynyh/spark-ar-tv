@@ -74,6 +74,7 @@ Th9ncRGJU3w // Spark AR Tutorial #3: Hand Tracker
 1hNHoKmn4Ag // Spark AR Tutorial #4: Particle System
 k5JAL8qIzr0 // Spark AR 04 : Place a 3D animated object in the real world
 _v_3qlb6rs0 // Spark AR #05: Patches Scripting - Screen Tap
+_aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
