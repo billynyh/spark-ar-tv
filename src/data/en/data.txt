@@ -60,6 +60,7 @@ yOsG__hIUas // Drawing with Particles - Spark AR
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
 5ruSrEnh_Do // Lets Get Random - Working with random Values | Spark AR Studio
 LBkXjq6kBJM // Spark AR Studio V76+ New Features and Update
+yr9UcMsDmJE // Making an AR Xmas Card Part One: The Setup
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
