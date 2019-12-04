@@ -76,6 +76,7 @@ Th9ncRGJU3w // Spark AR Tutorial #3: Hand Tracker
 k5JAL8qIzr0 // Spark AR 04 : Place a 3D animated object in the real world
 _v_3qlb6rs0 // Spark AR #05: Patches Scripting - Screen Tap
 _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
+G14pdKw81AA // Spark AR #07: Patch Scripting-Tap UI and Swap 3D Masks
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -149,6 +150,7 @@ yrWh6TzXYkg // Function & Composition patches: What do they do?
 fEUS-rY6DU8 // Glitter Effect Tutorial for Spark AR
 ZmIoWlVN_m0 // Date & Time in Spark AR
 1NdmVlWsxcU // Saturation Masking in Spark AR
+qw4QU-edVKw // Vignettes and 2d Face Tracking in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -165,6 +167,7 @@ abVjrDlUIT0 // How to use Action Property in Spark AR || v76 update || rbkavin
 Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
 tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
