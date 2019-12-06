@@ -23,6 +23,10 @@ f7ZZI1-wots // #SparkARQuickTips v74
 4BBF4S3CABw // Tutorial: 2D Objects and Layers
 i2kd30sUMb0 // Tutorial: Adding Dynamic Text
 YoxnJoimEBg // #SparkARQuickTips v75
+-Qin1h3vVLk // #SparkARQuickTips v76
+xxHMALAvmlk // Tutorial: Adding Audio
+cOwnk5XV7T4 // Tutorial: Animating 3D Objects
+-XA2ZKkuY-Q // Tutorial: Segmentation and the Camera Texture
 
 # Spark AR Inspiration
 IO6xbZzDC9Q // Superfan.Ai uses Spark AR Studio to help fans experience Bollywood films in new ways
