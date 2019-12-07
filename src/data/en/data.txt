@@ -84,6 +84,7 @@ k5JAL8qIzr0 // Spark AR 04 : Place a 3D animated object in the real world
 _v_3qlb6rs0 // Spark AR #05: Patches Scripting - Screen Tap
 _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
 G14pdKw81AA // Spark AR #07: Patch Scripting-Tap UI and Swap 3D Masks
+s3YMCYgTEz0 // Spark AR #08: Patch Editor - UI buttons
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
