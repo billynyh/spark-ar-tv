@@ -291,6 +291,16 @@ NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13
 
+# Udart
+OF0Usr8cpDE // Create your own Instagram and Facebook face mask filter. Tattoo Spark AR tutorial
+bItiWOkgHhc // Insert yourself on a new background with Spark AR - background segmentation tutorial
+vFTF0pYGCE8 // How to do glitter makeup face filter in Spark AR - animation tutorial
+DxZiltjqcPM // Create a frame that fits the screen - Spark AR tutorial
+jQlUGrQa9iw // Gold and chrome material - Facebook and Instagram face filter tutorial
+bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
+qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
+iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tutorial
+
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)
 
@@ -312,15 +322,6 @@ waoNTltNESs // BLURRY filter SPARK AR – how to FIX?!
 iRH_VQ_OTEA // TRACK TWO FACES SPARK AR / TRACK MULTIPLE FACES
 YKunVWj32KQ // EYELASHES + BLUSH if you CAN'T DRAW / SPARK AR tutorial
 zUNTsc23-Vg // Old tape / TV interference effect SPARK AR
-
-# Vibeke Bertelsen - Udart
-OF0Usr8cpDE // Create your own Instagram and Facebook face mask filter. Tattoo Spark AR tutorial
-bItiWOkgHhc // Insert yourself on a new background with Spark AR - background segmentation tutorial
-vFTF0pYGCE8 // How to do glitter makeup face filter in Spark AR - animation tutorial
-DxZiltjqcPM // Create a frame that fits the screen - Spark AR tutorial
-jQlUGrQa9iw // Gold and chrome material - Facebook and Instagram face filter tutorial
-bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
-qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
 
 # Vidushi Agarwal
 kSSFQraSvSE // Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)

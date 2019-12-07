@@ -138,6 +138,7 @@ Q1Yh_J43MX0 // Spark AR Criando um contorno com segmentação!
 0B-1wH1U2EM // Spark AR Play/Pause em Animation Sequence
 tw1nBgK2IeI // Spark AR Como usar Native UI Slider
 KsGty8pYGMo // Acesso a 36 projetos completos de Spark AR
+R08gaDQTku8 // Spark AR Objeto 3D com oclusão!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
