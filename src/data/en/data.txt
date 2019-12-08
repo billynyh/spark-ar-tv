@@ -295,7 +295,6 @@ NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13
 # Udart
 OF0Usr8cpDE // Create your own Instagram and Facebook face mask filter. Tattoo Spark AR tutorial
 bItiWOkgHhc // Insert yourself on a new background with Spark AR - background segmentation tutorial
-vFTF0pYGCE8 // How to do glitter makeup face filter in Spark AR - animation tutorial
 DxZiltjqcPM // Create a frame that fits the screen - Spark AR tutorial
 jQlUGrQa9iw // Gold and chrome material - Facebook and Instagram face filter tutorial
 bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
@@ -335,7 +334,7 @@ DMjBVivuqIg // Hong Leong Bank Digital Day Facebook AR Campaign
 r_nEYBQ-tGc // Gardens SparkAR - Augmented Reality Art Gallery
 
 # xochiworld
-HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation / Botox / Plastic Surgery Effect!
+HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation
 
 # Yegor K
 d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR

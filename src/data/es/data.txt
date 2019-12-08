@@ -20,7 +20,7 @@ pyxF-lfUtrQ // Spark AR Studio - Efectos con hoyos en la malla facial -  Mesh Ho
 lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena y hueca con  gradientes
 14apB024VMA // Spark AR Studio - Movimiento del dispositivo y dimensiones reales.
 Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
-GtyTENvSVAk // Spark AR Studio - Texto editable con Naive UI
+GtyTENvSVAk // Spark AR Studio - Texto editable con Native UI
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram

@@ -59,10 +59,10 @@ yNMN3kvv0CI // Spark AR  Make UP. Como fazer sua Maquiagem Completa !
 yQ3EeS7jxiU // Spark AR Cílios perfeitos. Tutorial de como criar cílios interativos com os olhos!
 f6dBMmrm4GE // Уроки Spark AR. Как сделать маску макияж для инстаграм, стрелки, тени и тп.
 0LsXOlaCi9E // Как сделать маску макияж? Spark ar Studio уроки.
-vFTF0pYGCE8 // How to do glitter makeup face filter in Spark AR - animation tutorial
 YKunVWj32KQ // EYELASHES + BLUSH if you CAN'T DRAW / SPARK AR tutorial
 a_xU_P7LGtc // SPARK AR/РАЗМАЗАННЫЕ КАРТИНКИ.ИДЕАЛЬНЫЕ РЕСНИЦЫ.ИСПРАВЛЯЕМ ПРОБЛЕМЫ.
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
+iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tutorial
 
 # Face Retouching
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -81,7 +81,7 @@ MPpAVu2ewBo // Spark AR Usando Face em Animação 3D, filtro Gangnam Style!
 awJsJzTP4Dc // Spark AR: Instagram Filters - Face Deformation
 4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
 Lx-t9-YQLds // Spark AR Animando um faceMesh. Tutorial de como animar e extrair um Face Texture!
-HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation / Botox / Plastic Surgery Effect!
+HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation
 g7ZfSkubHbE // SparkAR - Tutorial Cirurgia Plástica - Efeito Instagram
 5sBEw5QJ6R0 // FaceMesh Split - Sparkar Studio
 REdq8ODB5MQ // ДЕФОРМАЦИЯ ЛИЦА в Spark AR | 2 СПОСОБА КОРРЕКЦИИ ЛИЦА | DARIA TSVET
@@ -240,7 +240,7 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 6UtMnE36rFM // Creating segmentation in Spark AR studio
 9cRwX5yp-G8 // Glitch Effect in Spark Ar / Фильтр в стиле Глитч для инстаграм / Уроки Spark Ar Studio
 Q1Yh_J43MX0 // Spark AR Criando um contorno com segmentação!
-A3vMevjHJ_I // Урок 26 - Как поменять фон Spark AR. Обводка человека Spark AR. Сегментация. Segmentation Spark
+A3vMevjHJ_I // Урок 26 - Как поменять фон в маске Spark AR. Обводка человека Spark AR. Сегментация Спарк
 
 # Shader
 6rcTbfrVyWo // Spark AR MatCap shader
