@@ -24,9 +24,6 @@ nyo3l9Y-8eU // CREIAMO IL NOSTRO FILTRO INSTAGRAM! 💯
 # Gabriele Corio
 Yi5D5FFuZ2Y // Spark AR Studio: COME CREARE un FILTRO INSTAGRAM PARTENDO da ZERO! - Introduzione
 
-# Gianluca Ciullini
-xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram
-
 # Ingeimaks
 4avuvtr-eYU // COME CREARE FILTRI INSTAGRAM ASSURDI - TUTORIAL ITA SPARK AR STUDIO
 
@@ -43,6 +40,9 @@ gtGxxAIUqyE // SPARK AR ITA - COME CREARE UNA MASCHERA GLOW IN SEQUENZA SU SPARK
 mGCX-ia6xNs // Kendi Yaptığın Filtre INSTAGRAM'a Nasıl Yüklenir ? | Spark AR Upload
 sA30xQxXTKM // SPARK AR TUTORIAL ITA- Come creare una sequenza animata partendo da un'immagine singola -
 sGmK4eGSB8M // SPARK AR TUTORIAL ITA - Come creare un'immagine Alpha su photoshop
+
+# Sebiforce
+xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram
 
 # Spark AR Italia
 1ITtcDoungo // Come creare filtri Instagram ITA

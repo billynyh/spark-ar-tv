@@ -56,7 +56,7 @@ def fetch_all(config, master, lang, new_only = True, max_result=10):
         items = api.fetch_playlist(c.playlist, max_result=max_result)
         items = filter_videos(items, all_ids.union(skip_ids), keywords=['spark', 'mask', 'sparkar'])
         if len(items) > 0:
-            result.append((c.title, items))
+            result.append((c.title, items, c.id))
     
     if len(result) == 0:
         print("No new data")
@@ -70,7 +70,8 @@ def fetch_all(config, master, lang, new_only = True, max_result=10):
 
     for v in result:
         for g in site.groups:
-            if g.title == v[0]:
+            channel_id = site.video_data[g.ids[0]].channel_id
+            if channel_id == v[2]:
                 for item in v[1]:
                     g.ids.append(item.id)
     # Reload video data

@@ -127,7 +127,7 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 5sBEw5QJ6R0 // FaceMesh Split - Sparkar Studio
 9sgI3HTFu48 // Animate FaceMesh - SparkAr Studio
 
-# iediting
+# Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
 # Jayasurya Aasaithambi

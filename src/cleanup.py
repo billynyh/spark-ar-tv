@@ -6,14 +6,19 @@ from numpy import unique
 
 def dump_site(site):
     groups = sorted(site.groups, key = lambda group: group.title.lower())
-    return dump_groups(groups, site.video_data)
+    fix_title = True
+    return dump_groups(groups, site.video_data, fix_title)
 
-def dump_groups(groups, video_data):
+def dump_groups(groups, video_data, fix_title):
     lines = []
     for group in groups:
-        lines.append("# %s" % group.title)
         ids = sorted(group.ids, key = lambda id: (video_data[id].raw_published_at, id))
         appeared = set()
+        if fix_title:
+            group_title = video_data[ids[0]].channel_title
+        else:
+            group_title = group.title
+        lines.append("# %s" % group_title)
         for id in ids:
             if id in appeared:
                 continue
@@ -22,8 +27,9 @@ def dump_groups(groups, video_data):
         lines.append("")
     return lines
 
-def cleanup_groups(groups, video_data, fname):
-    lines = dump_groups(groups, video_data)
+def cleanup_custom_groups(groups, video_data, fname):
+    fix_title = False
+    lines = dump_groups(groups, video_data, fix_title)
     with open("data/%s" % fname, "w") as f:
         f.write('\n'.join(lines))
         print("Updated %s" %  f.name)
@@ -39,8 +45,8 @@ def cleanup(master):
             print("Updated %s" % f.name)
 
     video_data = master.global_site.video_data
-    cleanup_groups(master.global_site.facebook, video_data, "facebook.txt")
-    cleanup_groups(master.global_site.topics, video_data, "topics.txt")
+    cleanup_custom_groups(master.global_site.facebook, video_data, "facebook.txt")
+    cleanup_custom_groups(master.global_site.topics, video_data, "topics.txt")
 
 def main():
     config = config_factory.load()
