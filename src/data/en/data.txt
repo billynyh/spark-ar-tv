@@ -162,6 +162,7 @@ ZmIoWlVN_m0 // Date & Time in Spark AR
 1NdmVlWsxcU // Saturation Masking in Spark AR
 qw4QU-edVKw // Vignettes and 2d Face Tracking in Spark AR
 XTqMshFg6Rg // Bokeh Particles in Spark AR
+QwoF0VnPIKk // Custom LUTs in Lightroom
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
