@@ -68,6 +68,7 @@ qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
 LBkXjq6kBJM // Spark AR Studio V76+ New Features and Update
 yr9UcMsDmJE // Making an AR Xmas Card Part One: The Setup
 FINkRBfE2oY // Making a AR Xmas Card Part Two: Augmenting the Card
+uWFzvAcJ5wU // Understanding Shader Types | Spark AR
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -159,6 +160,7 @@ fEUS-rY6DU8 // Glitter Effect Tutorial for Spark AR
 ZmIoWlVN_m0 // Date & Time in Spark AR
 1NdmVlWsxcU // Saturation Masking in Spark AR
 qw4QU-edVKw // Vignettes and 2d Face Tracking in Spark AR
+XTqMshFg6Rg // Bokeh Particles in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
