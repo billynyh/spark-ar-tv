@@ -1,3 +1,12 @@
+# Andres Tamashiro
+58IQJWV8GQ0 // ¿Cómo crear filtros de Instagram? - PARTE 1
+QMQl4AAkcd4 // ¿Cómo crear filtros de Instagram? - PARTE 4
+Sqa1FKIqfJE // ¿Cómo crear filtros de Instagram? - PARTE 5
+Swbh58V4-KI // ¿Cómo crear filtros de Instagram? - PARTE 7
+g3xMHeU44Qc // ¿Cómo crear filtros de Instagram? - PARTE 6
+wXx7kYp6V9E // ¿Cómo crear filtros de Instagram? - PARTE 3
+0Asf1E4MYls // ¿Cómo crear filtros de Instagram? - PARTE 2
+
 # Celiwhat2
 -SSm_JGPo3s // COMO CREAR  los mejores FILTROS O MÁSCARAS para INSTAGRAM paso a paso //SPARK AR ESPAÑOL// CELIWHAT2
 SsflPRQ2TXg // Como poner LABIOS  grandes en los FILTROS DE INSTAGRAM / Tutorial 2 SPARKAR/ Esculpir cara filtro.
@@ -21,6 +30,7 @@ lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena 
 14apB024VMA // Spark AR Studio - Movimiento del dispositivo y dimensiones reales.
 Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
 GtyTENvSVAk // Spark AR Studio - Texto editable con Native UI
+JYOezMX0H1U // Spark AR Studio - NativeUI Picker - Selección de Texturas
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
@@ -68,6 +78,7 @@ VqDH3IfLBnA // Starbucks Instagram Filter | Holiyay | Augmented reality
 Z72z_21P7Yo // Spark AR - Random Aleatorio - Filter Instagram | Head Quiz
 LHVQk-ICgMk // Spark AR - Photogrammetry + Target Tracker Instagram | Display Land
 Z89FJw9ayfI // Kira Kira  Filter Instagram by Chris Price | Realidad Aumentada
+ojIQ-i6heBg // 3D object above your head | Spark AR & Lens Studio Tutorial
 
 # grace en internet
 U_KBtWEFuSQ // ✧ Creando mis propios filtros de Instagram ✧
