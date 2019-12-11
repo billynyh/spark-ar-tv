@@ -72,6 +72,7 @@ LBkXjq6kBJM // Spark AR Studio V76+ New Features and Update
 yr9UcMsDmJE // Making an AR Xmas Card Part One: The Setup
 FINkRBfE2oY // Making a AR Xmas Card Part Two: Augmenting the Card
 uWFzvAcJ5wU // Understanding Shader Types | Spark AR
+98IFD_f5JS0 // Creating the Hole in the Head effect | Spark AR
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
