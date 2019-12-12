@@ -408,6 +408,7 @@ T2qUB4MO3e8 // Маски в инстаграм, spark ar, как сделать
 # Лиля Карпова
 mYEKdiw895g // Обзор программы Spark AR. Уроки по созданию масок в инстаграм.
 d_2KU0gLkqY // Spark AR Tutorial Target Tracker. Создаем дополненную реальность в Инстаграм
+b3cX70C_clo // 8 Урок Spark AR Studio. Работа со скриптом. Работа с панелью Action и реакция на мимику
 
 # Мастерская MaskCreator
 1w3M_Iusppk // Как добавить свои видео в SparkAR ?!
