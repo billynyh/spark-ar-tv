@@ -20,6 +20,7 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 
 # AR with Renu
 TCnjH6XLRgA // Spark AR : Create Your First Instagram Filter
+Fl8_1-xl-54 // Spark AR : How To Create A Christmas Filter on Instagram
 
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
@@ -261,6 +262,7 @@ JahuumWeWbI // Tap to change / Add instructions - Spark AR beginner tutorial
 UjTQinvM_hk // Turn any preset or LUT into instagram effects. Spark AR tutorial
 BYjxsecEbiI // Spark AR - Track Multiple Faces
 WvmfpvHoaNI // Spark AR - Fill Parent V69.0
+YpFfkCftF6U // Spark AR - LUTs + Segmentation
 
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
