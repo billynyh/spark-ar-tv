@@ -185,6 +185,7 @@ Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
 tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
+8c3jMTz6-UY // How to have smooth edge on facemesh|| Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -263,6 +264,7 @@ UjTQinvM_hk // Turn any preset or LUT into instagram effects. Spark AR tutorial
 BYjxsecEbiI // Spark AR - Track Multiple Faces
 WvmfpvHoaNI // Spark AR - Fill Parent V69.0
 YpFfkCftF6U // Spark AR - LUTs + Segmentation
+59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
 
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
