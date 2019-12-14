@@ -305,6 +305,7 @@ a_xU_P7LGtc // SPARK AR/РАЗМАЗАННЫЕ КАРТИНКИ.ИДЕАЛЬНЫ
 ChDXoDt0F4A // Spark Ar/КАК СДЕЛАТЬ ЗАСВЕТ ПЛЕНКИ+ФИЛЬТР.УРОК 5!
 yZ_n5tJ0KA4 // Spark AR/КАК СДЕЛАТЬ ЛИНЗЫ.Урок 6. #SvetaVesna
 0GzBqIwgRyM // Spark AR/КАК СДЕЛАТЬ НИМБ/Particle system/Урок 7
+wOCDgj5LUt0 // Spark AR/КаК СДЕЛАТЬ ПРИ ОТКРЫВАНИИ РТА ЛЕТАЮЩИЕ ЧАСТИЦЫ.
 
 # Timur Shantyz
 x92cgWfutcs // Как создать маску для инстаграм?!  / SPARK AR / Создание маски в instagram
@@ -326,6 +327,9 @@ Z5qrCrQaLX0 // Spark ar studio уроки. 3 урок - 3D объекты.Как
 AdL_X2zyOxU // Spark ar studio уроки. 4 урок- Маска-металл и цветной свет на лице.Как создать свою маску Инстаграм.
 UJzuapxZSbQ // Курс по созданию масок Инстаграм. Spark ar studio уроки. Как сделать маску в инстаграме.
 MIC-e8GiCx0 // Как привязать Инстаграм к фейсбуку. Загрузка маски в Инстаграм. Spark AR
+
+# Vlada Vaynberg
+mY4F4oD5Ig0 // Как создать маску для Инстаграм / Spark AR / Фильтр Инстаграм
 
 # WHY NOT
 4ZBI4sk41uc // СОЗДАНИЕ ПРОСТОЙ МАСКИ ДЛЯ ИНСТАГРАМ+ИКОНКА+ЗАГРУЗКА. SPARK AR
@@ -360,6 +364,7 @@ qOSlYcSoZ2I // Обзор курса по работе в Spark AR Studio - со
 2Du9zu_lc8k // Spark AR - как точно рисовать по лицу, создаём маску с разрисовкой по лицу
 AAeDHD1wxN0 // Как создать маску в Инстаграм с телефона. Spark AR Bot VK
 0f0ttG3BMjI // Как создать маску в Spark AR - качественно рисуем "Маска клоуна оно Пеннивайз"
+w6beb3zwuHA // Как сделать привязку маски к вывеске/монитору/логотипу в Spark AR. Создаём Fixed Target Tracker.
 
 # Виктория Прежняя
 zYPMEIKNi9E // Знакомство с SPARK AR
