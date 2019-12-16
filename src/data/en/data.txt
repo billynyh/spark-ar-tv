@@ -21,6 +21,7 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 # AR with Renu
 TCnjH6XLRgA // Spark AR : Create Your First Instagram Filter
 Fl8_1-xl-54 // Spark AR : How To Create A Christmas Filter on Instagram
+QKz_fqW6ExQ // Spark AR : How To Create A Birthday Filter on Instagram
 
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
@@ -74,6 +75,7 @@ yr9UcMsDmJE // Making an AR Xmas Card Part One: The Setup
 FINkRBfE2oY // Making a AR Xmas Card Part Two: Augmenting the Card
 uWFzvAcJ5wU // Understanding Shader Types | Spark AR
 98IFD_f5JS0 // Creating the Hole in the Head effect | Spark AR
+QwcAw3UqshY // NativeUI Picker | Spark AR Studio
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
