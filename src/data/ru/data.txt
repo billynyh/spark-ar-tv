@@ -367,6 +367,7 @@ qOSlYcSoZ2I // Обзор курса по работе в Spark AR Studio - со
 AAeDHD1wxN0 // Как создать маску в Инстаграм с телефона. Spark AR Bot VK
 0f0ttG3BMjI // Как создать маску в Spark AR - качественно рисуем "Маска клоуна оно Пеннивайз"
 w6beb3zwuHA // Как сделать привязку маски к вывеске/монитору/логотипу в Spark AR. Создаём Fixed Target Tracker.
+PsW5XhuLW6I // Как сделать planeTracking в Spark AR на примере машины. Как сжать 3D объект для Instagram?
 
 # Виктория Прежняя
 zYPMEIKNi9E // Знакомство с SPARK AR
