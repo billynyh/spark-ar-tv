@@ -29,12 +29,12 @@ Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
 # AWE - Augmented World Expo
 NXm4SAtidmM // Davide La Sala (Facebook, Inc.): Intro to Facebook's Spark AR: Immersive Experience Workflows
 
-# B3D Interactive
+# Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 
 # Ben Marriott
 _B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
-xSgRgcNqzfU // Create an Instagram Filter - Spark AR Studio beginner tutorial | HUD
+xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD
 
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
@@ -76,6 +76,7 @@ FINkRBfE2oY // Making a AR Xmas Card Part Two: Augmenting the Card
 uWFzvAcJ5wU // Understanding Shader Types | Spark AR
 98IFD_f5JS0 // Creating the Hole in the Head effect | Spark AR
 QwcAw3UqshY // NativeUI Picker | Spark AR Studio
+ATV-ZhXEFFE // Animation Sequences The Basics | Bonus Spark AR
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -272,7 +273,7 @@ YpFfkCftF6U // Spark AR - LUTs + Segmentation
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
 vfMXwODsXa0 // Spark AR - How to extract face features
 
-# Robbie C.
+# Robbie Conceptuel
 REqpibMDZv4 // Spark AR Studio - Segmentation Tutorial : How To Change Background ?
 CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
 5iBG-RVwDEc // Spark AR Studio - Gold Tutorial : How To Make Gold ?
@@ -281,13 +282,14 @@ l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
 Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
+y8VK_EOVN08 // Spark AR Studio Tutoriel - Patch Editor : Comment avoir 5 Options de Couleurs ?
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
 
 # Sadie Socio
 olJFYpKgBk8 // Spark AR: Instagram Filter - How to convert an mp3 for use in a filter using FFmpeg
-OM93cjod0wk // SparkAR LaunchPad - Coming SOON!
+OM93cjod0wk // SparkAR LaunchPad
 
 # Sankalp Parab
 xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasses
@@ -296,6 +298,12 @@ xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasse
 iDQm2jA4uqE // Green Screen Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 yrCCeCfsr18 // Two Minute Green Screen Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 qksHF3MFth4 // How to Publish Filter Effects | Instagram & Facebook | Spark AR Tutorial
+PLzKvd5YuRc // Face Reference Assets for Filter Effects | Instagram & Facebook | Spark AR Tutorial
+o8w0okIAOHY // Eye Colour Change Filter Effect | Instagram & Facebook | Spark AR Tutorial
+9V1XXsDVJQo // Two Minute Eye Colour Change Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+EPYrT2O3Nmk // Face Mesh with PNG Overlay - (Basic) | Instagram & Facebook | Spark AR Tutorial
+gG1qpVTgDR4 // Two Minute Face Mesh with PNG Overlay - (Basic) | Instagram & Facebook | Spark AR Tutorial
+0h9UtG-fI_Q // Simple Tattoo Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
@@ -326,6 +334,7 @@ jQlUGrQa9iw // Gold and chrome material - Facebook and Instagram face filter tut
 bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
 qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
 iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tutorial
+lVmsTiwF8KY // Animation and reacting to smile and gestures tutorial - Spark AR Studio
 
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)
@@ -374,6 +383,7 @@ jkYt6_8RiDw // [ NOOB MAKES INSTAGRAM FILTER ] Learning Spark AR to create my fi
 z-30w6mVaA8 // [ 3D SCULPTING IN FORGER APP (iPad) ] Dr. Stone Suika mask modeling. PART 2 (NOT TUTORIAL)
 U5m2_3SX0zE // [ NOOB UV MAPPING TUTORIAL - BLENDER 2.8 ] adding Color to 3D models
 2KpTPDUVJ8A // [1 Month Into Spark Ar, What had I made? ] - ANIME FILTERS!
+KCOaJs64bnE // [ Customizing Present : Ukulele ] Masking & Airbrushing tutorial
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74

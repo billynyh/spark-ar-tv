@@ -31,6 +31,7 @@ lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena 
 Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
 GtyTENvSVAk // Spark AR Studio - Texto editable con Native UI
 JYOezMX0H1U // Spark AR Studio - NativeUI Picker - Selección de Texturas
+RD3m5XnmRmA // Spark AR Studio - Traducción del Texto editable según geografía del usuario
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
@@ -77,10 +78,13 @@ VqDH3IfLBnA // Starbucks Instagram Filter | Holiyay | Augmented reality
 6sBpHIeH78w // Spark AR - Target Tracker en Instagram | Tutorial Realidad Aumentada
 Z72z_21P7Yo // Spark AR - Random Aleatorio - Filter Instagram | Head Quiz
 LHVQk-ICgMk // Spark AR - Photogrammetry + Target Tracker Instagram | Display Land
-Z89FJw9ayfI // Kira Kira  Filter Instagram by Chris Price | Realidad Aumentada
+Z89FJw9ayfI // Kira Kira  Filter Instagram by Chris Price | ¿Cómo nació el filtro?
 ojIQ-i6heBg // 3D object above your head | Spark AR & Lens Studio Tutorial
 tW0PHxMX63Q // Ahhh Filter - David OReilly - Storytelling Filter
 doNaxDHp-Gc // Spark AR - Occlusion Portal and Hole in the Floor | Tutorial
+
+# Gerald Bustos
+p_zLJ-tsOZE // CREA ESTOS FILTROS DE MODA PARA INSTAGRAM RÁPIDO! EXPLICADO AL DETALLE #SPARKAR
 
 # grace en internet
 U_KBtWEFuSQ // ✧ Creando mis propios filtros de Instagram ✧
@@ -100,6 +104,9 @@ H6DJPJKSbeQ // Como subir filtros a INSTAGRAM / Spark AR / español
 
 # Mafiuut
 tO3thxGANUc // COMO HACER UN EFECTO DE INSTAGRAM | Mafiuut
+
+# Maite Uralde
+0jZyJn0URFA // Cómo crear filtros para instagram [PRINCIPIANTES]
 
 # MassterFX || Tutoriales Para Artistas Visuales
 3sycClIqnwg // CREA filtros Para Instagram FACIL

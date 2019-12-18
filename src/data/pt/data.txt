@@ -90,7 +90,7 @@ BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 # Rauni Tutoriais
 eUqNter3Xrk // Como criar filtro para instagram - Spark Ar Studio
 
-# Spark AR Brasil
+# Julliana Spark AR Brasil
 7-czdbwKNqk // #1 Tutorial Filtro de Luzes Coloridas | Spark AR Brasil
 gJ_gu-4QqAg // #2 Tutorial Fixar Objeto na Cabeça + Publicando seu Filtro no Facebook | Spark AR Brasil
 7HgY3wrwK24 // #1 Dúvidas Como criar / publicar filtros no Instagram? LEIA A DESCRIÇÃO | Spark AR Brasil
@@ -144,13 +144,14 @@ ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
 Q1Yh_J43MX0 // Spark AR Criando um contorno com segmentação!
 -DUU4uuuHBg // Spark AR Making Of Table for 2(Dj Alok)!
 4UyHr7GHxIc // Spark AR Cílios 3D, Nova MakeUP e V76!
-0B-1wH1U2EM // Spark AR Play/Pause em Animation Sequence
+0B-1wH1U2EM // Spark AR Crie seu Game com Play/Pause em animação
 tw1nBgK2IeI // Spark AR Como usar Native UI Slider
 KsGty8pYGMo // Acesso a 36 projetos completos de Spark AR
 R08gaDQTku8 // Spark AR Objeto 3D com oclusão!
 k9-uaTfpLPg // Spark AR Emissor de partículas girando e SDF
 z2f0pLUBH0E // Spark AR Criando Moldura com 3D, Lut e mudança de cor!
 U8CAMfoGD0Y // Spark AR Criando Partículas de fumaça em anéis
+8nsD9_T7Yog // Spark AR 5 Dicas para deixar seu LUT Incrível!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
