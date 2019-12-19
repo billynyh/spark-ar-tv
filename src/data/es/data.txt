@@ -30,7 +30,7 @@ lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena 
 14apB024VMA // Spark AR Studio - Movimiento del dispositivo y dimensiones reales.
 Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
 GtyTENvSVAk // Spark AR Studio - Texto editable con Native UI
-JYOezMX0H1U // Spark AR Studio - NativeUI Picker - Selección de Texturas
+JYOezMX0H1U // Spark AR Studio - Cambio de texturas con NativeUI Picker
 RD3m5XnmRmA // Spark AR Studio - Traducción del Texto editable según geografía del usuario
 
 # Doufreelancer
