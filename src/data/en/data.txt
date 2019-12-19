@@ -29,9 +29,6 @@ Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
 # AWE - Augmented World Expo
 NXm4SAtidmM // Davide La Sala (Facebook, Inc.): Intro to Facebook's Spark AR: Immersive Experience Workflows
 
-# Spinning Rock
-mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
-
 # Ben Marriott
 _B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
 xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD
@@ -77,6 +74,7 @@ uWFzvAcJ5wU // Understanding Shader Types | Spark AR
 98IFD_f5JS0 // Creating the Hole in the Head effect | Spark AR
 QwcAw3UqshY // NativeUI Picker | Spark AR Studio
 ATV-ZhXEFFE // Animation Sequences The Basics | Bonus Spark AR
+B-kU2HIZ__0 // NativeUI Slider | Spark AR Studio
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -282,7 +280,6 @@ l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
 Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
-y8VK_EOVN08 // Spark AR Studio Tutoriel - Patch Editor : Comment avoir 5 Options de Couleurs ?
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
@@ -304,9 +301,13 @@ o8w0okIAOHY // Eye Colour Change Filter Effect | Instagram & Facebook | Spark AR
 EPYrT2O3Nmk // Face Mesh with PNG Overlay - (Basic) | Instagram & Facebook | Spark AR Tutorial
 gG1qpVTgDR4 // Two Minute Face Mesh with PNG Overlay - (Basic) | Instagram & Facebook | Spark AR Tutorial
 0h9UtG-fI_Q // Simple Tattoo Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+HIiLQm6590M // Two Minute Tattoo Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
+
+# Spinning Rock
+mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 
 # Steffie Harner
 6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner

@@ -21,10 +21,12 @@ EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark A
 POJQjeJ72gg // Usando Deformação de Rosto e Plástica em filtros - Spark Ar para Iniciantes #12
 huWKGCCJH2U // Varíos filtros em um tocando na tela - Spark Ar para Iniciantes #13
 -MpQutcrAN4 // Como fazer filtro com objetos girando em volta da cabeça - Spark Ar para Iniciantes #14
+99wNU14mcKI // Tutorial joguinho frases que param ao tocar na tela - Spark Ar para Iniciantes #15
 
 # Canal do Kewin
 g_pOgjB0_9s // Como Fazer Uploads dos Filtros - Spark Ar para Iniciantes #3
 -MpQutcrAN4 // Como fazer filtro com objetos girando em volta da cabeça - Spark Ar para Iniciantes #14
+99wNU14mcKI // Tutorial joguinho frases que param ao tocar na tela - Spark Ar para Iniciantes #15
 
 # Cel Ilustra - Ilustrações e Estampas
 xOfGWPz9D0A // COMO CRIAR FILTRO NO INSTAGRAM - Passo a passo de 4 efeitos
@@ -64,6 +66,15 @@ v8H4R0IEzaY // SparkAR - Presets Lightroom como Filtros no Instagram - LUT
 HTT-Sv7cTK0 // Filtros no Instagram - Tutorial Texto na Cabeça
 oIRRQW2Je0c // Filtro 3D no Instagram - Tutorial
 
+# Julliana Spark AR Brasil
+7-czdbwKNqk // #1 Tutorial Filtro de Luzes Coloridas | Spark AR Brasil
+gJ_gu-4QqAg // #2 Tutorial Fixar Objeto na Cabeça + Publicando seu Filtro no Facebook | Spark AR Brasil
+7HgY3wrwK24 // #1 Dúvidas Como criar / publicar filtros no Instagram? LEIA A DESCRIÇÃO | Spark AR Brasil
+O3-c0c8XJWQ // #3 Tutorial Filtros com Toque para Alterar - Tap to Change | Spark AR Brasil
+y_-NUYh00I8 // #4 Tutorial Como criar filtros de maquiagem? Makeup Instagram Filters | Spark AR Brasil
+LrxVSeed7lA // #2 Dúvidas Como publicar filtros no Instagram? VERSÃO SEM ÁUDIO | Spark AR Brasil
+KGWAvFbCGVo // Spark AR Studio - Glitter (Edge e Light Detection similar ao KiraKira+) - @julliana.dev
+
 # LeX
 HwzYJcYCqsY // 📱 Crea filtros para instagram facilmente [ Spark Ar ] ✅ | Lex
 
@@ -89,14 +100,6 @@ BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 
 # Rauni Tutoriais
 eUqNter3Xrk // Como criar filtro para instagram - Spark Ar Studio
-
-# Julliana Spark AR Brasil
-7-czdbwKNqk // #1 Tutorial Filtro de Luzes Coloridas | Spark AR Brasil
-gJ_gu-4QqAg // #2 Tutorial Fixar Objeto na Cabeça + Publicando seu Filtro no Facebook | Spark AR Brasil
-7HgY3wrwK24 // #1 Dúvidas Como criar / publicar filtros no Instagram? LEIA A DESCRIÇÃO | Spark AR Brasil
-O3-c0c8XJWQ // #3 Tutorial Filtros com Toque para Alterar - Tap to Change | Spark AR Brasil
-y_-NUYh00I8 // #4 Tutorial Como criar filtros de maquiagem? Makeup Instagram Filters | Spark AR Brasil
-LrxVSeed7lA // #2 Dúvidas Como publicar filtros no Instagram? VERSÃO SEM ÁUDIO | Spark AR Brasil
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
@@ -152,6 +155,7 @@ k9-uaTfpLPg // Spark AR Emissor de partículas girando e SDF
 z2f0pLUBH0E // Spark AR Criando Moldura com 3D, Lut e mudança de cor!
 U8CAMfoGD0Y // Spark AR Criando Partículas de fumaça em anéis
 8nsD9_T7Yog // Spark AR 5 Dicas para deixar seu LUT Incrível!
+Q2Rlauvwdvg // Spark AR Game Em 2020 eu...
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
