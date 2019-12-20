@@ -93,6 +93,7 @@ _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
 G14pdKw81AA // Spark AR #07: Patch Scripting-Tap UI and Swap 3D Masks
 s3YMCYgTEz0 // Spark AR #08: Patch Editor - UI buttons
 FxShbrOnQko // Spark AR #09: Face Swap
+I-pqkM3f468 // SparkAR XRay Test!!
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -280,6 +281,7 @@ l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
 Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
+TIreWvuBhvo // Spark AR Studio Tutoriel - Comment créer une Lumière ?
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
@@ -302,6 +304,8 @@ EPYrT2O3Nmk // Face Mesh with PNG Overlay - (Basic) | Instagram & Facebook | Spa
 gG1qpVTgDR4 // Two Minute Face Mesh with PNG Overlay - (Basic) | Instagram & Facebook | Spark AR Tutorial
 0h9UtG-fI_Q // Simple Tattoo Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 HIiLQm6590M // Two Minute Tattoo Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+2pIVmHHm-tQ // Simple Beard Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+99Gn0r7cubM // Two Minute Beard Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
