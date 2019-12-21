@@ -1,6 +1,10 @@
 # 10Tech Productions
 sW4RETvSTbA // How To Create  Instagram Face Filters And AR Effect
 
+# Aan Kurniawan
+uuIuoKz2I3U // Paint face
+6XwLwj8R87g // Spark AR : Instagram Filter - Bugis 3D
+
 # Abdul Muizz Siddiqui
 4RSqFiOOBPM // How to Add Score Counter In Instagram/Facebook Game
 
@@ -248,6 +252,7 @@ QFmarjHCojM // Spark AR: Create Instagram LUTs filter
 DM8X2a2ak30 // Spark AR: How to fix JavaScript Error: Browserslist: caniuse-lite is outdated.
 uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
 ml7E8aFlRAc // Use Null Object to change the Object's pivot
+jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -309,6 +314,8 @@ HIiLQm6590M // Two Minute Tattoo Filter Effect (Easy) | Instagram & Facebook | S
 ToED8iF6N1k // Two Minute Censor Bar Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 YvwvblkjEt0 // Shiny Metallic Filter Effect (Gold, Silver, Bronze) Easy | Instagram & Facebook | Spark AR Tutorial
 pzsHq3ZjVVY // Two Minute Metallic Filter Effect (Gold, Silver, Bronze) | Instagram & Facebook | Spark AR Tutorial
+dd3aSaN8Su8 // Glass/Plastic Reflective Face Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+-jA_tvvVd1k // Two Minute Glass/Plastic Transparent Face Filter Effect | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
