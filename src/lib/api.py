@@ -61,7 +61,7 @@ class ApiDataLoader:
         response = request.execute()
         return response
 
-    def fetch_videos(self, ids, batch_size = 10):
+    def fetch_videos(self, ids, batch_size = 20):
         result = {}
         batches = util.chunks(ids, batch_size)
         for batch in batches:
