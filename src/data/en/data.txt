@@ -79,6 +79,7 @@ uWFzvAcJ5wU // Understanding Shader Types | Spark AR
 QwcAw3UqshY // NativeUI Picker | Spark AR Studio
 ATV-ZhXEFFE // Animation Sequences The Basics | Bonus Spark AR
 B-kU2HIZ__0 // NativeUI Slider | Spark AR Studio
+ypIC3gQ0svs // Spark AR V78+ Library Update
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -293,6 +294,7 @@ aLUdSpQamcI // Things Spinning Around the Head // Spark AR
 
 # Sadie Socio
 olJFYpKgBk8 // Spark AR: Instagram Filter - How to convert an mp3 for use in a filter using FFmpeg
+lKpL-x3S4k0 // Spark AR studio is already running.
 
 # Sankalp Parab
 xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasses
@@ -314,6 +316,8 @@ YvwvblkjEt0 // Shiny Metallic Filter Effect (Gold, Silver, Bronze) Easy | Instag
 pzsHq3ZjVVY // Two Minute Metallic Filter Effect (Gold, Silver, Bronze) | Instagram & Facebook | Spark AR Tutorial
 dd3aSaN8Su8 // Glass/Plastic Reflective Face Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 -jA_tvvVd1k // Two Minute Glass/Plastic Transparent Face Filter Effect | Instagram & Facebook | Spark AR Tutorial
+REhwUByAdB0 // Porcelain China Face Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+0Id2i1tvfv8 // Two Minute Porcelain China Face Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
