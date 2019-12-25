@@ -36,6 +36,7 @@ NXm4SAtidmM // Davide La Sala (Facebook, Inc.): Intro to Facebook's Spark AR: Im
 # Ben Marriott
 _B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
 xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD
+7TgLHngtLDs // Best of 2019 | Motion Design, Animation & Resources - Motion Design Awards
 
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
@@ -295,6 +296,7 @@ aLUdSpQamcI // Things Spinning Around the Head // Spark AR
 # Sadie Socio
 olJFYpKgBk8 // Spark AR: Instagram Filter - How to convert an mp3 for use in a filter using FFmpeg
 lKpL-x3S4k0 // Spark AR studio is already running.
+lN7isI4isMg // Spark AR - GIF to Sprite Sheet using ImageMagick
 
 # Sankalp Parab
 xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasses
