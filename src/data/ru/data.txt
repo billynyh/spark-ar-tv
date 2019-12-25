@@ -1,6 +1,3 @@
-# IDOLE Education
-/watch?v=TNf614N8tio //Знакомство с интерфейсом Spark AR. Создание маски для Instagram с помощью Spark AR
-
 # 3d school
 YXCajhL_Pn8 // Урок 1: Как делать крутые маски для инстаграм
 1Amlqj_oV-E // Урок 2: Как придумать новую маску?
@@ -188,6 +185,9 @@ ydhHuYV1Ko0 // КАК СДЕЛАТЬ МАСКУ В INSTAGRAM? МАСКА ЗА П
 # IAMKARINA • ПОДПИСЫВАЙСЯ!
 hAExKhy0hyU // СЕКРЕТЫ И ЛАЙФХАКИ ИНСТАГРАМ СТОРИС // КАК РИСОВАТЬ БЛЕСТКАМИ В СТОРИС
 RMlN074C3WA // КАК СДЕЛАТЬ МАСКУ ИНСТАГРАМ В РЕАЛЬНОЙ ЖИЗНИ? SPARK AR ДЛЯ НОВИЧКОВ
+
+# IDOLE Education
+TNf614N8tio // Знакомство с интерфейсом Spark AR. Создание маски для Instagram с помощью Spark AR
 
 # idrqs
 t3iJlG8dW84 // Видео Урок: Создание базовой маски I Spark AR

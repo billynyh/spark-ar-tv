@@ -99,6 +99,7 @@ G14pdKw81AA // Spark AR #07: Patch Scripting-Tap UI and Swap 3D Masks
 s3YMCYgTEz0 // Spark AR #08: Patch Editor - UI buttons
 FxShbrOnQko // Spark AR #09: Face Swap
 I-pqkM3f468 // SparkAR XRay Test!!
+Bpvyajfe6sY // Spark AR #10 Tutorial: Shaders / Filter Effects
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -287,6 +288,7 @@ l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
 Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
+TIreWvuBhvo // Spark AR Studio Tutoriel - Comment créer une Lumière ?
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
@@ -317,6 +319,8 @@ dd3aSaN8Su8 // Glass/Plastic Reflective Face Filter Effect (Easy) | Instagram & 
 -jA_tvvVd1k // Two Minute Glass/Plastic Transparent Face Filter Effect | Instagram & Facebook | Spark AR Tutorial
 REhwUByAdB0 // Porcelain China Face Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 0Id2i1tvfv8 // Two Minute Porcelain China Face Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+fqAye-jXbcQ // Superhero/Criminal Mask Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+kRO7mnucFV4 // Two Minute Superhero/Criminal Mask Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
