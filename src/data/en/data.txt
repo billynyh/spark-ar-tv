@@ -256,6 +256,7 @@ DM8X2a2ak30 // Spark AR: How to fix JavaScript Error: Browserslist: caniuse-lite
 uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
 ml7E8aFlRAc // Use Null Object to change the Object's pivot
 jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
+0if1-iDNvBI // Spark AR tutorial: How to control object by FaceTracker (Part 2)
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -329,6 +330,7 @@ kRO7mnucFV4 // Two Minute Superhero/Criminal Mask Filter Effect (Easy) | Instagr
 1J9PN-hUo_I // Two Minute Moustache Filter Effect (Easy) ] Instagram & Facebook | Spark AR Tutorial
 e2SK998RVhU // Lipstick Filter Effect | Instagram & Facebook | Spark AR Tutorial
 f-ROIFIuobw // Three Minute Lipstick Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+kWZbctKQvZQ // Eyeshadow Filter Effect | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
