@@ -104,7 +104,18 @@ def custom_pages(site, config):
             html_helper.gen_fb_videos_html(site, page_config, x)
         ))
     return pages
-        
+
+def blogs(site, config):
+    pages = []
+    for x in site.blogs:
+        page_config = PageConfig(config.site_config.page_config)
+        page_config.title = "%s | Spark AR TV" % x['title']
+        page_config.og_image = util.get_blog_banner_url(config, x['slug'])
+        pages.append((
+            "blogs/%s.html" % x['slug'], 
+            html_helper.gen_blog_html(site, page_config, x)
+        ))
+    return pages
 
 def gen_lang_site(site, config):
     lang = site.lang
@@ -127,6 +138,9 @@ def gen_lang_site(site, config):
         pages += channel_list_pages(site, config)
     if site.custom:
         pages += custom_pages(site, config)
+    if site.blogs:
+        util.mkdir("%s/blogs" % out_dir)
+        pages += blogs(site, config)
 
     for page in pages:
         with open_out_file(out_dir, page[0]) as outfile:

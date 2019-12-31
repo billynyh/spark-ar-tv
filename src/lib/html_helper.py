@@ -95,4 +95,13 @@ class HtmlHelper:
             page = page,
             title = param['title'],
             )
-
+    
+    def gen_blog_html(self, site, page, param):
+        t = self.get_template('blog.html')
+        html = open('data/blogs/%s.html' % param['slug']).read()
+        return self.render(t,
+            site = site,
+            page = page,
+            title = param['title'],
+            content = html,
+            )

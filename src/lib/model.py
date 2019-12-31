@@ -46,6 +46,7 @@ class Site:
     interviews = None
     channel_lists = None # map of channel list
     custom = None
+    blogs = None
 
 class Group:
     title = None

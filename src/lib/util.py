@@ -72,6 +72,12 @@ def get_topic_banner_path(out_dir, g):
 def get_topic_banner_url(config, g):
     return "%s/assets/banner/topic-%s.jpg" % (config.site_config.url, g.slug)
 
+def get_blog_banner_path(out_dir, slug):
+    return "%s/assets/banner/blog-%s.jpg" % (out_dir, slug)
+
+def get_blog_banner_url(config, slug):
+    return "%s/assets/banner/blog-%s.jpg" % (config.site_config.url, slug)
+
 def topic_banner_generated(out_dir, g):
     path = get_topic_banner_path(out_dir, g)
     return os.path.exists(path)

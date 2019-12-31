@@ -25,19 +25,49 @@ def dump_groups_details(groups, video_data):
                 print("%s // %s | %s" % (v.id, v.title, v.view_count))
         print()
 
+def format(s):
+    val = int(s)
+    if val > 1000:
+        return "%dk" % (val / 1000)
+    if val > 1000000:
+        return "%.1fM" % (val / 1000000.0)
+    return val
+
 def dump_top_videos(site):
     all_ids = list(site.video_data.keys())
     all_ids = sorted(all_ids, key=lambda id: (int(site.video_data[id].view_count)), reverse=True)
 
-    def format(s):
-        val = int(s)
-        if val > 1000:
-            return "%dk" % (val / 1000)
-        return val
 
+    excludes = site.music[0].ids + ['rpSSbBqLshg']
+    rank = 1
     for i in range(20):
+        id = all_ids[i]
+        if id in excludes:
+            continue
         v = site.video_data[all_ids[i]]
-        print("%s | %s | [%s](https://youtube.com/watch?v=%s)" % (format(v.view_count), v.channel_title, v.title, v.id))
+        #print("%s | %s | [%s](https://youtube.com/watch?v=%s)" % (format(v.view_count), v.channel_title, v.title, v.id))
+        top_video_html(v, rank)
+        rank += 1
+
+        if rank == 6:
+            print('<h2>#6 - #10</h2>')
+
+        if rank > 10:
+            break
+
+def top_video_html(v, rank):
+    url = "https://youtube.com/watch?v=%s" % v.id
+    print('<div class="row"><div class="col-12">')
+    
+    if rank <= 5:
+        print('<span><em>#%d - %s | %s | Published at: %s</em></span><h5><a href="%s" target="_blank">%s</a></h5>' % (rank, format(v.view_count), v.channel_title, v.published_at, url, v.title))
+        iframe = """<p><iframe width="800" height="450" src="https://www.youtube.com/embed/%s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>""" % v.id
+        print(iframe)
+        print('<hr/>')
+    else:
+        print('<p><em>#%d - %s | %s<em/><br/><a href="%s">%s</a></p>' % (rank, format(v.view_count), v.channel_title, url, v.title))
+        
+    print("</div></div>")
 
 from itertools import chain
 def dump_lang_stat(master):
