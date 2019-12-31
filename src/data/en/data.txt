@@ -1,6 +1,10 @@
 # 10Tech Productions
 sW4RETvSTbA // How To Create  Instagram Face Filters And AR Effect
 
+# 60 Second Tutorials
+JyHr20l3QAU // Old Camera/Grain Effect Tutorial | 60 Second Tutorials for SparkAR
+nizyVVNQV9A // Nude Makeup Effect Tutorial | 60 Second Tutorials for SparkAR
+
 # Aan Kurniawan
 uuIuoKz2I3U // Paint face
 6XwLwj8R87g // Spark AR : Instagram Filter - Bugis 3D
@@ -262,6 +266,10 @@ jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
 OLCipWve774 // Reflective Glass Shader for Spark AR
 
+# Newcolor Interface Design
+7RsYYY51S5k // Sketching for Spark AR Studio: Ego Death
+6QqopolrAog // Spark AR Studio Session: Ego Death
+
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
 
@@ -284,6 +292,9 @@ R6LUYbhffLs // How to start with AR VR  Framework -Develop  Project from scratch
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
 vfMXwODsXa0 // Spark AR - How to extract face features
+
+# Reality Visual Effects
+1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
 
 # Robbie Conceptuel
 REqpibMDZv4 // Spark AR Studio - Segmentation Tutorial : How To Change Background ?
