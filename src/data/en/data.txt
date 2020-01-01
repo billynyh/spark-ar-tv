@@ -27,7 +27,7 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 6kHrKpvpUXA // Exploring Spark AR Studio Face Filters - Intro for Beginners Tutorial: Lights Out #pge
 
 # AR with Renu
-TCnjH6XLRgA // Spark AR : Create Your First Instagram Filter
+TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
 Fl8_1-xl-54 // Spark AR : How To Create A Christmas Filter on Instagram
 QKz_fqW6ExQ // Spark AR : How To Create A Birthday Filter on Instagram
 
