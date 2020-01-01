@@ -1,4 +1,5 @@
 from lib.data_loader import *
+from lib import nav_helper
 import config_factory
 import collections
 
@@ -85,6 +86,7 @@ def top_video_html(v, rank):
 
 from itertools import chain
 def dump_lang_stat(master):
+    stat = []
     video_data = master.global_site.video_data
     total = 0
     for key, site in master.lang_sites.items():
@@ -98,6 +100,8 @@ def dump_lang_stat(master):
         if len(dup) > 0:
             print(dup)
         print("%s: %d %d" % (site.lang, num_vid, len(set(ids))))
+        stat.append({'lang': site.lang, 'num_videos': num_vid})
+    stat = sorted(stat, key = lambda s: -s['num_videos'])
 
     gsite = master.global_site
     for g in (gsite.facebook + gsite.music):
@@ -120,14 +124,40 @@ def dump_lang_stat(master):
             if len(dup) > 0:
                 print("%s - %s" % (k1, k2))
                 print(dup)
+    return stat
 
 def dump_channel_stat(site, video_data):
     print()
     print("== channel stat ==")
+    results = []
     for g in site.groups:
         l = len(g.ids)
-        if l > 10:
-            print("%s: %s" % (g.title, l))
+        if l > 20:
+            first_vid = video_data[g.ids[0]]
+            c = {
+              'title': g.title,
+              'num_videos': l,
+              'combined_views': sum([int(video_data[id].view_count) for id in g.ids]),
+              'url': 'https://youtube.com/channel/%s' % first_vid.channel_id,
+            }
+            results.append(c)
+    results = sorted(results, key = lambda c: -c['num_videos'])
+    rank = 0
+    for c in results:
+        rank += 1
+        print("#%d | %s videos\n%s\n%s" % (rank, c['num_videos'], c['title'], c['url']))
+    return results
+
+def stat_html(stat):
+    langs = stat['langs']
+    rank = 0
+    html = []
+    for lang in langs[:5]:
+        rank += 1
+        num_videos = lang['num_videos']
+        title = nav_helper.LANG_DISPLAY_NAME[lang['lang']]
+        html += ['#%d | %s | %d videos' % (rank, title, num_videos)]
+    return '\n'.join(html)
 
 def main():
     config = config_factory.load(False)
@@ -136,13 +166,18 @@ def main():
     groups = site.groups_by_time
     dump_groups_stat(groups, site.video_data)
     dump_groups_details(groups[1:6], site.video_data)
-    dump_lang_stat(master)
+
+    stat = {}
+    stat['langs'] = dump_lang_stat(master)
     #dump_groups_ids(groups[1:6], site.video_data)
 
     print("All videos: %s" % len(site.video_data))
 
     #dump_top_videos(site)
     dump_monthly_stat(site.video_data)
-    dump_channel_stat(site, site.video_data)
+    stat['channels'] = dump_channel_stat(site, site.video_data)
+    
+    html = stat_html(stat)
+    print(html)
 
 main()
