@@ -25,6 +25,20 @@ def dump_groups_details(groups, video_data):
                 print("%s // %s | %s" % (v.id, v.title, v.view_count))
         print()
 
+def dump_monthly_stat(video_data):
+    stat = {}
+    for m in [7,8,9,10,11]:
+        st = datetime.date(2019, m, 1)
+        ed = datetime.date(2019, m+1, 1)
+        stat[m] = filter_video_by_date(video_data, st, ed)
+            
+    st = datetime.date(2019, 12, 1)
+    ed = datetime.date(2020, 1, 1)
+    stat[12] = filter_video_by_date(video_data, st, ed)
+
+    for m in stat:
+        print("%d: %d" % (m, len(stat[m])))
+
 def format(s):
     val = int(s)
     if val > 1000:
@@ -45,8 +59,8 @@ def dump_top_videos(site):
         if id in excludes:
             continue
         v = site.video_data[all_ids[i]]
-        #print("%s | %s | [%s](https://youtube.com/watch?v=%s)" % (format(v.view_count), v.channel_title, v.title, v.id))
-        top_video_html(v, rank)
+        print("%s | %s | [%s](https://youtube.com/watch?v=%s)" % (format(v.view_count), v.channel_title, v.title, v.id))
+        #top_video_html(v, rank)
         rank += 1
 
         if rank == 6:
@@ -106,7 +120,14 @@ def dump_lang_stat(master):
             if len(dup) > 0:
                 print("%s - %s" % (k1, k2))
                 print(dup)
-            
+
+def dump_channel_stat(site, video_data):
+    print()
+    print("== channel stat ==")
+    for g in site.groups:
+        l = len(g.ids)
+        if l > 10:
+            print("%s: %s" % (g.title, l))
 
 def main():
     config = config_factory.load(False)
@@ -120,6 +141,8 @@ def main():
 
     print("All videos: %s" % len(site.video_data))
 
-    dump_top_videos(site)
+    #dump_top_videos(site)
+    dump_monthly_stat(site.video_data)
+    dump_channel_stat(site, site.video_data)
 
 main()

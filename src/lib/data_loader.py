@@ -67,11 +67,22 @@ def process_groups(groups, video_data, merge_small_groups = True):
     # merge all groups with less than 2 vid to Others
     result = []
     others = []
+    group_map = {}
+    for group in groups:
+        g_id = video_data[group.ids[0]].channel_id
+        if group_map.get(g_id, None):
+            group_map[g_id].ids += group.ids
+        else:
+            group_map[g_id] = group
+    groups = group_map.values()
+
     for group in groups:
         if merge_small_groups and len(group.ids) <= 2:
             others += group.ids
         else:
             result.append(group)
+    
+    result = sorted(result, key = lambda g: g.title.upper())
     if len(others) > 0:
         result.append(Group('Others', others))
 
@@ -79,7 +90,7 @@ def process_groups(groups, video_data, merge_small_groups = True):
     for group in result:
         group.ids = sort_video_ids_by_time(group.ids, video_data)
         group.slug = video_data[group.ids[0]].channel_id
-    
+
     return result
 
 def load_fb_videos(path):
