@@ -46,6 +46,7 @@ gtGxxAIUqyE // SPARK AR ITA - COME CREARE UNA MASCHERA GLOW IN SEQUENZA SU SPARK
 sA30xQxXTKM // SPARK AR TUTORIAL ITA- Come creare una sequenza animata partendo da un'immagine singola -
 sGmK4eGSB8M // SPARK AR TUTORIAL ITA - Come creare un'immagine Alpha su photoshop
 sAHkUlUAT-E // Spark Ar - ITA - Come estrarre la texture facciale e posizionarla sopra ad uno sfondo personalizzato
+bqk3Vwp28AA // SPARK AR ITA - Come creare una sequenza di immagini su plane+tocca per stoppare+istruzioni custom
 
 # Sebiforce
 xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram
