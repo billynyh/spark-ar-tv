@@ -1,6 +1,3 @@
-# LionKloud
-/watch?v=TSsNcLFmLw0 //HOW TO CREATE AN INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTROOM PRESETS MOBILE/NORMAL | TUTORIAL
-
 # 10Tech Productions
 sW4RETvSTbA // How To Create  Instagram Face Filters And AR Effect
 
@@ -40,10 +37,16 @@ Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
 # AWE - Augmented World Expo
 NXm4SAtidmM // Davide La Sala (Facebook, Inc.): Intro to Facebook's Spark AR: Immersive Experience Workflows
 
+# azo zea
+4jUAeLkPYow // How to make an AR portal effect with SparkAR
+
 # Ben Marriott
 _B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
 xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD
 7TgLHngtLDs // Best of 2019 | Motion Design, Animation & Resources - Motion Design Awards
+
+# Blast FurtiveTv
+vEjuR5_lxy0 // How To Create an Instagram Filter in 2020 | Beginner Spark AR Tutorial
 
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
@@ -88,6 +91,7 @@ QwcAw3UqshY // NativeUI Picker | Spark AR Studio
 ATV-ZhXEFFE // Animation Sequences The Basics | Bonus Spark AR
 B-kU2HIZ__0 // NativeUI Slider | Spark AR Studio
 ypIC3gQ0svs // Spark AR V78+ Library Update
+_BHo-QcQbgU // How to Make a "Who / What are you?" Filter? | Spark AR
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -210,6 +214,9 @@ bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
 
+# LionKloud
+TSsNcLFmLw0 // HOW TO CREATE AN INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTROOM PRESETS MOBILE/NORMAL | TUTORIAL
+
 # Liucidity
 pc4isqdbmhQ // Create a face filter from doodle | Beginner Spark AR Tutorial
 
@@ -268,6 +275,7 @@ uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Fr
 ml7E8aFlRAc // Use Null Object to change the Object's pivot
 jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
 0if1-iDNvBI // Spark AR tutorial: How to control object by FaceTracker (Part 2)
+O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -279,6 +287,9 @@ OLCipWve774 // Reflective Glass Shader for Spark AR
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
+
+# Nrm Pratiwi
+l3YUDU7Fx2Q // Easy! Create your own instagram filter // with Procreate Pocket & Spark AR Studio
 
 # Omm Cardiff
 NXShgnP0qsk // Make your own INSTAGRAM FILTER in 10ish MINUTES
@@ -384,6 +395,9 @@ bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor an
 qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
 iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tutorial
 lVmsTiwF8KY // Animation and reacting to smile and gestures tutorial - Spark AR Studio
+
+# UI Helen
+eL9IZZTXcdI // Your first instagram face filter in spark AR
 
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)
