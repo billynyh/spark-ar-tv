@@ -11,6 +11,7 @@ uuIuoKz2I3U // Paint face
 
 # Abdul Muizz Siddiqui
 4RSqFiOOBPM // How to Add Score Counter In Instagram/Facebook Game
+_ZWtKUVPLK4 // How to make simple Instagram filter | Face Paint Filter
 
 # Alex Dohotaru
 0aWK8mXwBwM // Occluder Planes SparkAR Tutorial
@@ -198,7 +199,7 @@ wvrT0LuU_Mc // Spark AR | Creating filters for Facebook and Instagram | LIVESTRE
 dZlBUt9XDp4 // Spark AR | LIVESTREAM
 WI-wYxCVgo4 // SPARK AR TUTORIAL // MAKE YOUR OWN ZOMBIE INSTAGRAM FILTER
 
-# kavin kumar
+# Rbkavin Studio
 jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
 abVjrDlUIT0 // How to use Action Property in Spark AR || v76 update || rbkavin
@@ -399,7 +400,7 @@ eL9IZZTXcdI // Your first instagram face filter in spark AR
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)
 
-# Upcycling Coding
+# Upcycling Couture
 iRbfea2knzM // First approach to Augmented Reality (with Instagram AR filters)- VLOG
 8--6oUL5Izg // How To Create An Instagram AR Filter with Spark AR Studio
 
