@@ -173,11 +173,11 @@ def main():
 
     print("All videos: %s" % len(site.video_data))
 
-    #dump_top_videos(site)
+    dump_top_videos(site)
     dump_monthly_stat(site.video_data)
-    stat['channels'] = dump_channel_stat(site, site.video_data)
     
-    html = stat_html(stat)
-    print(html)
+    #stat['channels'] = dump_channel_stat(site, site.video_data)
+    #html = stat_html(stat)
+    #print(html)
 
 main()
