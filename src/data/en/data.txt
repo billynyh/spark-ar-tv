@@ -4,6 +4,7 @@ sW4RETvSTbA // How To Create  Instagram Face Filters And AR Effect
 # 60 Second Tutorials
 JyHr20l3QAU // Old Camera/Grain Effect Tutorial | 60 Second Tutorials for SparkAR
 nizyVVNQV9A // Nude Makeup Effect Tutorial | 60 Second Tutorials for SparkAR
+N6mGq7k52CI // LUT Tutorial | 60 Second Tutorials for SparkAR
 
 # Aan Kurniawan
 uuIuoKz2I3U // Paint face
@@ -199,16 +200,6 @@ wvrT0LuU_Mc // Spark AR | Creating filters for Facebook and Instagram | LIVESTRE
 dZlBUt9XDp4 // Spark AR | LIVESTREAM
 WI-wYxCVgo4 // SPARK AR TUTORIAL // MAKE YOUR OWN ZOMBIE INSTAGRAM FILTER
 
-# Rbkavin Studio
-jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
-omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
-abVjrDlUIT0 // How to use Action Property in Spark AR || v76 update || rbkavin
-Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
-tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
-udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
-bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
-8c3jMTz6-UY // How to have smooth edge on facemesh|| Spark AR || Facebook Filter || Instargam Filter || Rbkavin
-
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
 
@@ -309,6 +300,17 @@ R6LUYbhffLs // How to start with AR VR  Framework -Develop  Project from scratch
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
 vfMXwODsXa0 // Spark AR - How to extract face features
 
+# Rbkavin Studio
+jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
+abVjrDlUIT0 // How to use Action Property in Spark AR || v76 update || rbkavin
+Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
+tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
+8c3jMTz6-UY // How to have smooth edge on facemesh|| Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+sr4lLqU4FJ4 // Multiple Material for single object in code || Spark AR || Instargam Filter || Rbkavin
+
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
 
@@ -359,6 +361,9 @@ kRO7mnucFV4 // Two Minute Superhero/Criminal Mask Filter Effect (Easy) | Instagr
 e2SK998RVhU // Lipstick Filter Effect | Instagram & Facebook | Spark AR Tutorial
 f-ROIFIuobw // Three Minute Lipstick Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 kWZbctKQvZQ // Eyeshadow Filter Effect | Instagram & Facebook | Spark AR Tutorial
+LIBPAS-4nc4 // Two Minute Eyeshadow Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+Ky_WB2BCmEo // Eyelashes Filter Effect | Instagram & Facebook | Spark AR Tutorial
+Hc4Ci4_TO3Q // Two Minute Eyelashes Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
