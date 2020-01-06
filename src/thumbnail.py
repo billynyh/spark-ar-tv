@@ -33,6 +33,8 @@ def generate_custom_week_thumbnails(site, ids, group_slug):
 def generate_topics_thumbnails(site):
     groups = parse("data/thumbnails-topics.txt")
     for g in groups:
+        video_data = {id:site.video_data[id] for id in g.ids}
+        download_all(video_data)
         img = image_helper.group_thumbnail_collage(site, g.ids)
         outfile = util.get_topic_banner_path(config.out_dir, g)
         print(outfile)
@@ -53,17 +55,17 @@ def main():
     master = master_site(config)
     site = master.global_site
     #download_all(site.video_data)
-    #generate_topics_thumbnails(site)
+    generate_topics_thumbnails(site)
     #return
     # generate_week_thumbnails(site)
     #generate_facebook_thumbnails(site)
     ids = '5fERiVVXcyM 138RGA08pEo ASpHRpWtr_g 4jUAeLkPYow'
     ids = ids.split()
 
-    video_data = {id:site.video_data[id] for id in ids}
-    download_all(video_data)
+    #video_data = {id:site.video_data[id] for id in ids}
+    #download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2019-12-30')
+    #generate_custom_week_thumbnails(site, ids, 'week-2019-12-30')
 
 
 if __name__ == "__main__":

@@ -213,6 +213,18 @@ UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR St
 nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
 
+# Random image game
+M4QSecKIzjE // Spark AR - Random Image Sequence | Filter Parecidos Razonables
+sZFPSi0eZE4 // Как создать маску "КТО ТЫ ИЗ" instagram сторис/ Случайный подбор картинок/SPARK AR mask фильтр
+5fERiVVXcyM // Spark AR - Random Image Sequence | Part II | Disney & Pokemon Character
+hNgYIAtezbo // Which Disney character are you | what Pokemon are you | Random Filters Trends
+_BHo-QcQbgU // How to Make a "Who / What are you?" Filter? | Spark AR
+7q2muFReqqE // КАК СДЕЛАТЬ МАСКУ С ПРЕДСКАЗАНИЯМИ ДЛЯ ИНСТРАГРАМ | DARIA TSVET
+7mX6J_jVv2c // สอนทำฟิลเตอร์ IG EP8: สุ่มรูป
+1RwPZpS7DnI // Как сделать маску-тест? Spark AR Studio | test quiz mask
+qgiqIXHCQ0Y // #12🎄НОВОГОДНЯЯ МАСКА С ЖЕЛАНИЯМИ 🎄ЧАСТЬ 2/ Spark AR Scripting
+HqyM6oKDCwE // #11🎄НОВОГОДНЯЯ МАСКА С ЖЕЛАНИЯМИ 🎄ЧАСТЬ 1/ Spark AR Scripting
+
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena y hueca con  gradientes
