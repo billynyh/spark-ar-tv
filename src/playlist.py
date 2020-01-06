@@ -30,11 +30,10 @@ def main():
         i += 1
 
     print()
-    #g = site.topics[19]
-    g = groups[1]
+    g = site.topics[16]
+    #g = groups[1]
     print(g.title)
-    playlist_id = "PLJ-lx8QFIxZawupAf1i1fiLw0Z6GR9e92"
-    #gen_playlist_from_group(api, g)
+    playlist_id = "PLJ-lx8QFIxZZfECUGf5fanHUw9ujrAhaz"
     add_group_to_playlist(api, g, playlist_id)
 
 

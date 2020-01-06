@@ -1,6 +1,5 @@
-# Random image game
-M4QSecKIzjE
-_BHo-QcQbgU
-7q2muFReqqE
-7mX6J_jVv2c
-
+# Edge detection / KiraKira
+VbFEAbeGmQc // Edge Detection in Spark AR
+KGWAvFbCGVo // Spark AR Studio - Glitter (Edge e Light Detection similar ao KiraKira+) - Por @julliana.dev
+4_JUGfLLpEE // КАК СДЕЛАТЬ МАСКУ KIRA/ГЛИТТЕР/Spark AR/Маски для инстаграм.
+XQekFaRtam0 // Как сделать маску в стиле kirra в Spark AR Studio? блестки/glitters

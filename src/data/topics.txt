@@ -64,6 +64,13 @@ a_xU_P7LGtc // SPARK AR/РАЗМАЗАННЫЕ КАРТИНКИ.ИДЕАЛЬНЫ
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
 iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tutorial
 
+# Edge detection / KiraKira
+VbFEAbeGmQc // Edge Detection in Spark AR
+KGWAvFbCGVo // Spark AR Studio - Glitter (Edge e Light Detection similar ao KiraKira+) - Por @julliana.dev
+-HYpPNldC3M // Spark AR Efeito Fake Kira Kira e brilho em qualquer tom!
+4_JUGfLLpEE // КАК СДЕЛАТЬ МАСКУ KIRA/ГЛИТТЕР/Spark AR/Маски для инстаграм.
+XQekFaRtam0 // Как сделать маску в стиле kirra в Spark AR Studio? блестки/glitters
+
 # Face Retouching
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
