@@ -57,13 +57,13 @@ def main():
     #return
     # generate_week_thumbnails(site)
     #generate_facebook_thumbnails(site)
-    ids = 'frIGbCbOUlw GUNl32dzslc H1nzyRLFiVg LDbmH8pyjjY'
+    ids = '5fERiVVXcyM 138RGA08pEo ASpHRpWtr_g 4jUAeLkPYow'
     ids = ids.split()
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, '20191231-top-5')
+    generate_custom_week_thumbnails(site, ids, 'week-2019-12-30')
 
 
 if __name__ == "__main__":
