@@ -47,6 +47,13 @@ PWEqlmdAL-E // Spark AR Alterando a Voz. Tutorial de como alterar pitch e reverb
 oQVyjjM0LhU // Spark AR Voice Change | Use Microphone | TV head Filter
 Bi7we1vNmT4 // Уроки Spark AR Studio. Наложение глаз и рта на фото + искажение голоса. Маска в Инстаграм уроки.
 
+# Basic JS script
+omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
+udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+_aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
+6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
+bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
+
 # Beauty / Makeup / Lipstick
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
 d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR

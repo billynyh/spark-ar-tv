@@ -91,6 +91,7 @@ ATV-ZhXEFFE // Animation Sequences The Basics | Bonus Spark AR
 B-kU2HIZ__0 // NativeUI Slider | Spark AR Studio
 ypIC3gQ0svs // Spark AR V78+ Library Update
 _BHo-QcQbgU // How to Make a "Who / What are you?" Filter? | Spark AR
+uIx2oSYdoLY // Spark AR Review Policy | Why does Spark AR hate you using text?
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -225,7 +226,6 @@ CuyYy4ZmspU // SparkAR talking hamburger
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
 
 # Luis R. Guajardo Díaz
-jSwAboaDRJU // Adobe AIR + OSC + ARDUINO + iBeacons ANE + kontakt io beacons demo
 8lPnk4qmGGQ // Spark AR SpriteSheet Tutorial, how to make popcorn particles with a spritesheet.
 
 # Luke Hurd
@@ -270,6 +270,9 @@ O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
 OLCipWve774 // Reflective Glass Shader for Spark AR
 
+# Nahir Esper
+Ml8lIsEZCBo // Watch me build │Spark Ar + GIFT
+
 # Newcolor Interface Design
 7RsYYY51S5k // Sketching for Spark AR Studio: Ego Death
 6QqopolrAog // Spark AR Studio Session: Ego Death
@@ -291,6 +294,7 @@ BYjxsecEbiI // Spark AR - Track Multiple Faces
 WvmfpvHoaNI // Spark AR - Fill Parent V69.0
 YpFfkCftF6U // Spark AR - LUTs + Segmentation
 59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
+L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 
 # Penguin Tech
 IVXKkBbGqpM // AR VR using Spark AR Framework  - Getting Started with AR & VR
@@ -366,6 +370,9 @@ Ky_WB2BCmEo // Eyelashes Filter Effect | Instagram & Facebook | Spark AR Tutoria
 Hc4Ci4_TO3Q // Two Minute Eyelashes Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 kegd5DCAyYc // Three Minute Freckles Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 -l6DOCrngaw // Glitter Sparkle Face Filter Effect | Instagram & Facebook | Spark AR Tutorial
+jx416WCAnzI // Four Minute Sparkly Glitter Face Filter Effect | Instagram & Facebook | Spark AR Tutorial
+XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Facebook | Spark AR Tutorial
+yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
