@@ -39,6 +39,7 @@ Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas pr
 GtyTENvSVAk // Spark AR Studio - Texto editable con Native UI
 JYOezMX0H1U // Spark AR Studio - Cambio de texturas con NativeUI Picker
 RD3m5XnmRmA // Spark AR Studio - Traducción del Texto editable según geografía del usuario
+aH8_miA4vow // Spark AR Studio - Rectángulos responsivos
 
 # danielpitt16
 1-5Y_bd3r8w // Como CREAR FILTROS y PUBLICARLOS en INSTAGRAM 😱 - danielpitt16
@@ -143,6 +144,9 @@ hC0izIDukvw // Como Crear tus Propios Filtros de Instagram
 
 # Mobillers TV Desarrollo de Aplicaciones
 RMC2gR6DsBI // Taller de Spark AR en Chile
+
+# Orange España
+riZ7RMnYzqE // Crea tus propios filtros de realidad aumentada para Instagram
 
 # Pikceles
 9ihduOmBzHc // Cómo CREAR tus propios filtros para Instagram fácilmente
