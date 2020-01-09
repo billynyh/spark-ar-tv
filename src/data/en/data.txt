@@ -47,6 +47,9 @@ _B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
 xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD
 7TgLHngtLDs // Best of 2019 | Motion Design, Animation & Resources - Motion Design Awards
 
+# Britney Ngaw
+2FZcjlCEzrk // How i create Instagram's "What Pokemon Are You" Filter
+
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
 T1dFtHmRIlI // How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
@@ -92,6 +95,7 @@ B-kU2HIZ__0 // NativeUI Slider | Spark AR Studio
 ypIC3gQ0svs // Spark AR V78+ Library Update
 _BHo-QcQbgU // How to Make a "Who / What are you?" Filter? | Spark AR
 uIx2oSYdoLY // Spark AR Review Policy | Why does Spark AR hate you using text?
+rE--pW50YN8 // Going Further with Random Image Effect | Spark AR
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -314,6 +318,7 @@ udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter 
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
 8c3jMTz6-UY // How to have smooth edge on facemesh|| Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 sr4lLqU4FJ4 // Multiple Material for single object in code || Spark AR || Instargam Filter || Rbkavin
+9vfG47-OrXY // How to reduce Size of your 3d model for spark ar in blender|| Spark AR ||Instargam Filter || Rbkavin
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -375,6 +380,7 @@ jx416WCAnzI // Four Minute Sparkly Glitter Face Filter Effect | Instagram & Face
 XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Facebook | Spark AR Tutorial
 yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Facebook | Spark AR Tutorial
 cjBFWnPJfQM // Tap to Change Plane Colour (Face Tracker) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+tapb5vDwgk0 // Tap to Change Mesh Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
