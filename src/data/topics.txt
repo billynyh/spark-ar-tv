@@ -238,6 +238,11 @@ _BHo-QcQbgU // How to Make a "Who / What are you?" Filter? | Spark AR
 1RwPZpS7DnI // Как сделать маску-тест? Spark AR Studio | test quiz mask
 HqyM6oKDCwE // #11🎄НОВОГОДНЯЯ МАСКА С ЖЕЛАНИЯМИ 🎄ЧАСТЬ 1/ Spark AR Scripting
 agx-MEvpzUc // #12🎄НОВОГОДНЯЯ МАСКА С ЖЕЛАНИЯМИ 🎄ЧАСТЬ 2/ Spark AR Scripting
+Q1-UHP9KHWw // Random Image Sequence ~ Head quiz filter on Spark AR like "Which Disney" ~ Фильтр "Тест" в Инстаграм
+Ffr_gVE9w44 // Как создать маску с предсказанием instagram сторис/ Случайный подбор картинок/ Настройка превью #2
+rE--pW50YN8 // Going Further with Random Image Effect | Spark AR
+oarBdkJtL5o // Spark AR - Random Image Sequence | Part III | Next Vacation
+2FZcjlCEzrk // How i create Instagram's "What Pokemon Are You" Filter
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
