@@ -78,6 +78,13 @@ KGWAvFbCGVo // Spark AR Studio - Glitter (Edge e Light Detection similar ao Kira
 4_JUGfLLpEE // КАК СДЕЛАТЬ МАСКУ KIRA/ГЛИТТЕР/Spark AR/Маски для инстаграм.
 XQekFaRtam0 // Как сделать маску в стиле kirra в Spark AR Studio? блестки/glitters
 
+# Eyelashes
+0VE0KiDu5VQ // 3d eyelashes for spark ar studio
+YKunVWj32KQ // EYELASHES + BLUSH if you CAN'T DRAW / SPARK AR tutorial
+Ky_WB2BCmEo // Eyelashes Filter Effect | Instagram & Facebook | Spark AR Tutorial
+Hc4Ci4_TO3Q // Two Minute Eyelashes Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
+
 # Face Retouching
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
@@ -132,8 +139,26 @@ L_CoZ3XZAEA // Spark AR: Blinking Game Tutorial - Part 3
 vzy_feLMzO4 // Spark AR: Blinking Game Q&A
 4RSqFiOOBPM // How to Add Score Counter In Instagram/Facebook Game
 KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patch Editor
+50Kl_-1lqeY // Inilah Cara Saya Membuat Filter Games Di Instagram ( Progress Part 1 )
+u-fNbpujYh4 // Inilah Cara Saya Membuat Filter Games Di Instagram ( Progress Part 2 )
+2oZG9GybZ-s // Inilah Cara Saya Membuat Filter Games Di Instagram ( Progress Part End )
 TfKPSKZKacY // Уроки Spark at Studio. Как сделать игру? Часть 1.
 2JHSVWRLuBI // Head Quiz - Games Filter Instagram  | Realidad Aumentada
+jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
+0if1-iDNvBI // Spark AR tutorial: How to control object by FaceTracker (Part 2)
+z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
+O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
+
+# Halloween / Joker
+S_X8_ML1e2M // SparkAR Joker mask
+AQyLm4d91Yo // Spark AR Studio Halloween-Tutorial [Face Tracker & Material Options]
+4rze2HaOGc8 // Spark AR GIF animation PARTICLES and TAP to TRY IT ON / HALLOWEEN FACE FILTER
+d-h3YkNdGDE // KENDİ INSTAGRAM FİLTRENİ YAP ! | Spark AR ile Joker Filtresi
+FYOOmpRtpfs // Spark AR Face Deformation & 3D Face Mesh | Especial de Halloween
+xwrf8Z4S0xo // КАК СДЕЛАТЬ МАСКУ ДЖОКЕРА В Spark ar| Joker spark ar studio|HALLOWEEN MASK
+9aRAW83k0Pk // 10 Filtros de Halloween que debes probar 2019 - Spark AR
+btiferIzGiU // İnstagram Filtresi Nasıl Mı Yapılır ? (JOKER FİLTRESİ YAPTIM) #İNSTAGRAM #JOKER
+YblocgdB7w8 // Face Mask Halloween - Spark AR Studio - [ Tutorial ]
 
 # Hand tracker
 nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!
@@ -174,8 +199,17 @@ v8H4R0IEzaY // SparkAR - Presets Lightroom como Filtros no Instagram - LUT
 e97Q7Vq2UXs // Crie seu filtro preset para o Instagram  - SPARK AR
 qG3xtTl_J74 // HOW TO CREATE A COLOR THEMED INSTAGRAM FILTER // LEARN SOMETHING
 zBnUycncDhM // Cómo crear Luts para Spark AR con Lightroom | Tutorial en español
+DdVTOUUBRXg // Урок 25 - Фильтр с ретушью Spark AR. Как сделать маску с фильтром Спарк. LUT and retouch spark ar
 VJmRFAMvOo8 // Spark AR Colagem com vários retângulos e LUT's!
+6b5nnBaNdeA // Spark AR Native UI com Luts, Visible e Partículas
 MP7s-rCTmM4 // Cómo crear efectos de cámara retro con Spark AR para instagram | Tutorial en español
+QwoF0VnPIKk // Custom LUTs in Lightroom
+YpFfkCftF6U // Spark AR - LUTs + Segmentation
+z2f0pLUBH0E // Spark AR Criando Moldura com 3D, Lut e mudança de cor!
+8nsD9_T7Yog // Spark AR 5 Dicas para deixar seu LUT Incrível!
+ja6Elaxm1kY // ПОЛНЫЙ НАБОР В Spark AR. LUT + script + facemesh + plane. Создаем вместе маску как у Foreo.
+N6mGq7k52CI // LUT Tutorial | 60 Second Tutorials for SparkAR
+UN674uFGwrY // Spark AR Basic | How to use a Camera/Lightroom/Photoshop Preset  [LUT/Lookup Table]
 
 # Native UI
 IJFodki_4uI // Native UI Sparkar [Instagram only]
