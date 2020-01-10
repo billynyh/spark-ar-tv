@@ -84,6 +84,7 @@ YKunVWj32KQ // EYELASHES + BLUSH if you CAN'T DRAW / SPARK AR tutorial
 Ky_WB2BCmEo // Eyelashes Filter Effect | Instagram & Facebook | Spark AR Tutorial
 Hc4Ci4_TO3Q // Two Minute Eyelashes Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
+pXlUYX2IwZw // 3d eyelashes for spark ar. Tracking control
 
 # Face Retouching
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -96,6 +97,7 @@ fPqT8ZGNoA4 // Filtros no Instagram - Pele Suave + Postar na sua conta
 qcg2Om7dSBM // Spark AR Como extrair Olhos e Boca!
 RUsQ1CkVhQk // Spark AR Colocando seu rosto em objetos!
 MPpAVu2ewBo // Spark AR Usando Face em Animação 3D, filtro Gangnam Style!
+fLuqn3vjPe0 // Spark AR Sem rosto e Alpha nos olhos e boca!
 
 # Face mesh / deformation
 7lx9iNagJ6o // Sparkar Studio -  Deformation Face
@@ -277,6 +279,7 @@ Ffr_gVE9w44 // Как создать маску с предсказанием in
 rE--pW50YN8 // Going Further with Random Image Effect | Spark AR
 oarBdkJtL5o // Spark AR - Random Image Sequence | Part III | Next Vacation
 2FZcjlCEzrk // How i create Instagram's "What Pokemon Are You" Filter
+LlCEJzZ0fWc // Как создать маску с случайными предсказаниями с НУЛЯ/ Маска с случайными именами / spark ar маска
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
@@ -317,6 +320,8 @@ gDsZvR9xjUE // Split-tone effect in Spark AR
 qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
 yrWh6TzXYkg // Function & Composition patches: What do they do?
 1NdmVlWsxcU // Saturation Masking in Spark AR
+Cc-YubBQy-M // Spark AR Novos updates V78 Shaders e Pixelate
+1do5R7UDuxI // Perlin Noise and Distortion in Spark AR
 
 # Tap to change
 eDLvXDEK7us // Уроки Spark AR Studio. Смена эффекта по Тапу (Screen Tap).  Цвет губ. Маски в Инстаграм

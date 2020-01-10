@@ -196,6 +196,7 @@ ZmIoWlVN_m0 // Date & Time in Spark AR
 qw4QU-edVKw // Vignettes and 2d Face Tracking in Spark AR
 XTqMshFg6Rg // Bokeh Particles in Spark AR
 QwoF0VnPIKk // Custom LUTs in Lightroom
+1do5R7UDuxI // Perlin Noise and Distortion in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -381,6 +382,7 @@ XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Fac
 yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Facebook | Spark AR Tutorial
 cjBFWnPJfQM // Tap to Change Plane Colour (Face Tracker) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 tapb5vDwgk0 // Tap to Change Mesh Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+qO-arATN7SM // Tap to Change Eye Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
@@ -441,6 +443,7 @@ iRH_VQ_OTEA // TRACK TWO FACES SPARK AR / TRACK MULTIPLE FACES
 YKunVWj32KQ // EYELASHES + BLUSH if you CAN'T DRAW / SPARK AR tutorial
 zUNTsc23-Vg // Old tape / TV interference effect SPARK AR
 saBMUfgP_S4 // CHANGE EYEs COLOR (PUPILS) SPARK AR
+nnF8SswYank // Witcher Yennefer of vengerberg EFFECT / SPARK AR Instagram mask
 
 # Vidushi Agarwal
 kSSFQraSvSE // Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)

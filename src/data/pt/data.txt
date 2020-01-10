@@ -157,6 +157,7 @@ U8CAMfoGD0Y // Spark AR Criando Partículas de fumaça em anéis
 Q2Rlauvwdvg // Spark AR Game Em 2020 eu...
 -HYpPNldC3M // Spark AR Efeito Fake Kira Kira e brilho em qualquer tom!
 Cc-YubBQy-M // Spark AR Novos updates V78 Shaders e Pixelate
+fLuqn3vjPe0 // Spark AR Sem rosto e Alpha nos olhos e boca!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
