@@ -283,6 +283,7 @@ oarBdkJtL5o // Spark AR - Random Image Sequence | Part III | Next Vacation
 LlCEJzZ0fWc // Как создать маску с случайными предсказаниями с НУЛЯ/ Маска с случайными именами / spark ar маска
 Sc0dtwZAVTM // КАК СДЕЛАТЬ МАСКУ "КТО ТЫ?" ДЛЯ ИНСТРАГРАМ | DARIA TSVET
 RqGIQ_ivTUQ // Как создать анимацию для маски-предсказания? / Фильтр предсказания instagtram / анимация spark ar
+sO45RXRHd0c // Crear filtro "quien eres" para instagram
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR

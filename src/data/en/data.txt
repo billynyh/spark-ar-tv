@@ -47,6 +47,9 @@ _B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
 xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD
 7TgLHngtLDs // Best of 2019 | Motion Design, Animation & Resources - Motion Design Awards
 
+# Black Mixture
+mIt2fdjExy0 // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial
+
 # Britney Ngaw
 2FZcjlCEzrk // How i create Instagram's "What Pokemon Are You" Filter
 
@@ -385,6 +388,7 @@ cjBFWnPJfQM // Tap to Change Plane Colour (Face Tracker) Filter Effect | Instagr
 tapb5vDwgk0 // Tap to Change Mesh Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 qO-arATN7SM // Tap to Change Eye Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 bOxiFTY0lR4 // Tap to Change Eye Colour (Quick Version) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
@@ -446,6 +450,7 @@ YKunVWj32KQ // EYELASHES + BLUSH if you CAN'T DRAW / SPARK AR tutorial
 zUNTsc23-Vg // Old tape / TV interference effect SPARK AR
 saBMUfgP_S4 // CHANGE EYEs COLOR (PUPILS) SPARK AR
 nnF8SswYank // Witcher Yennefer of vengerberg EFFECT / SPARK AR Instagram mask
+qoJEBA2Jh-M // CHANGE EYE COLOR for INSTAGRAM / SPARK AR tutorials
 
 # Vidushi Agarwal
 kSSFQraSvSE // Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)
