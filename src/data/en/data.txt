@@ -270,6 +270,7 @@ ml7E8aFlRAc // Use Null Object to change the Object's pivot
 jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
 0if1-iDNvBI // Spark AR tutorial: How to control object by FaceTracker (Part 2)
 O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
+WECBaYICiPo // Spark AR: Maru Studio 2019 Recap
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial

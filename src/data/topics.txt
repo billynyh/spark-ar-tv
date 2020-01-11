@@ -85,6 +85,7 @@ Ky_WB2BCmEo // Eyelashes Filter Effect | Instagram & Facebook | Spark AR Tutoria
 Hc4Ci4_TO3Q // Two Minute Eyelashes Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 pXlUYX2IwZw // 3d eyelashes for spark ar. Tracking control
+OUlI_fvrOno // Урок2.Создание маски в Spark AR с ретушью,надписью на лице и макияжем.
 
 # Face Retouching
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -280,12 +281,15 @@ rE--pW50YN8 // Going Further with Random Image Effect | Spark AR
 oarBdkJtL5o // Spark AR - Random Image Sequence | Part III | Next Vacation
 2FZcjlCEzrk // How i create Instagram's "What Pokemon Are You" Filter
 LlCEJzZ0fWc // Как создать маску с случайными предсказаниями с НУЛЯ/ Маска с случайными именами / spark ar маска
+Sc0dtwZAVTM // КАК СДЕЛАТЬ МАСКУ "КТО ТЫ?" ДЛЯ ИНСТРАГРАМ | DARIA TSVET
+RqGIQ_ivTUQ // Как создать анимацию для маски-предсказания? / Фильтр предсказания instagtram / анимация spark ar
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena y hueca con  gradientes
 P6GlszoC2Qw // SDF Creating a Twisting effect - Spark AR
 Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
+k9-uaTfpLPg // Spark AR Emissor de partículas girando e SDF
 
 # Segmentation
 yVjb6iBHFo8 // Body Segmentation with SparkAr Studio
