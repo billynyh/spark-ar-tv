@@ -327,6 +327,7 @@ yrWh6TzXYkg // Function & Composition patches: What do they do?
 1NdmVlWsxcU // Saturation Masking in Spark AR
 Cc-YubBQy-M // Spark AR Novos updates V78 Shaders e Pixelate
 1do5R7UDuxI // Perlin Noise and Distortion in Spark AR
+https://www.youtube.com/watch?v=Z4dQEqYtE6c
 
 # Tap to change
 eDLvXDEK7us // Уроки Spark AR Studio. Смена эффекта по Тапу (Screen Tap).  Цвет губ. Маски в Инстаграм
