@@ -249,6 +249,7 @@ _DHYSYVqMow // Spark AR: Instagram Filters - Getting Started: The Basics
 CkVPmixUqGA // Spark AR: Instagram Filters - Getting Started: The Facemesh
 fj7U27H-B1c // Spark AR: Instagram Filters - Getting Started: Patch Editor
 sBoMUuuxC0A // Spark AR: Instagram Filters - Getting Started: Sharing Patches
+FTCHx4QrqPQ // Spark AR: Instagram Filters - Smooth Head Tracking
 
 # Manhsplains
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
@@ -389,6 +390,7 @@ tapb5vDwgk0 // Tap to Change Mesh Colour (Patch Editor) Filter Effect | Instagra
 qO-arATN7SM // Tap to Change Eye Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 bOxiFTY0lR4 // Tap to Change Eye Colour (Quick Version) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial
+1ML_yfDRg6Q // Hero/Villain Mask Tap to Change Filter Effect (Quick Version)| Instagram/Facebook |Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
