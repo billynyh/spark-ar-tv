@@ -168,13 +168,13 @@ def main():
     dump_groups_details(groups[1:6], site.video_data)
 
     stat = {}
-    stat['langs'] = dump_lang_stat(master)
+    #stat['langs'] = dump_lang_stat(master)
     #dump_groups_ids(groups[1:6], site.video_data)
 
     print("All videos: %s" % len(site.video_data))
 
-    dump_top_videos(site)
-    dump_monthly_stat(site.video_data)
+    #dump_top_videos(site)
+    #dump_monthly_stat(site.video_data)
     
     #stat['channels'] = dump_channel_stat(site, site.video_data)
     #html = stat_html(stat)
