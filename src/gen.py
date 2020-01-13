@@ -7,6 +7,7 @@ import os.path
 import config_factory
 import site_config
 from lib.html_helper import HtmlHelper
+from lib import json_helper
 from lib import util
 from lib import yt_api_util
 from lib.api import ApiDataLoader
@@ -126,11 +127,22 @@ def gen_lang_site(site, config):
             outfile.write(page[1])
             print("Generated %s" % outfile.name)
 
+def gen_global_json(site, config):
+    pages = [
+        ('nav.json', json_helper.nav_json(site))
+    ]
+    out_dir = "%s/global" % (config.out_dir)
+    for page in pages:
+        with open_out_file(out_dir, page[0]) as outfile:
+            outfile.write(page[1])
+            print("Generated %s" % outfile.name)
+
 def gen_global_site(master):
     config = master.config
     site = master.global_site
 
     gen_lang_site(site, config)
+    gen_global_json(site, config)
 
 def gen_site(config):
     master = master_site(config)
@@ -139,7 +151,7 @@ def gen_site(config):
     html_helper.config = config
     html_helper.global_site = master.global_site
   
-    langs = config.site_config.languages
+    langs = [] # config.site_config.languages
     if config.use_multi_process:
         pool = Pool(5)
         pool.starmap(gen_lang_site, [(master.lang_sites[lang], config) for lang in langs])

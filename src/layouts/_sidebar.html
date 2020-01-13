@@ -15,7 +15,7 @@
 </div>
 
 <hr/>
-<div class="row">
+<div class="row" id="topic-nav">
   % for item in nav_groups['topic']:
   <% 
   cls = "active" if item.title == current_item else "" 
@@ -23,9 +23,7 @@
   <div class="col-lg-12 col-sm-6 col-6">
     <a href="${item.url}">
         ${item.title}
-        % if item.show_video_count:
-        <span class="badge badge-dark float-right">${item.video_count}</span>
-        % endif
+        <span class="badge badge-dark float-right"></span>
     </a>
   </div>
   % endfor

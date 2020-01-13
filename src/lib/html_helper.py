@@ -21,6 +21,7 @@ class HtmlHelper:
             master = self.master,
             site = site,
             navs = get_navs(self.master, site),
+            nav_json_url = "%s/global/nav.json" % site.url,
             debug = False, #True,
             **kwargs)
 
