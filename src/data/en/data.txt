@@ -106,6 +106,9 @@ GUNl32dzslc // How To Make a Custom Instagram Face Filter
 # Crazy Play
 rnPA0mnbw5o // Spark AR tutorial for beginners
 
+# Dancing Developer
+-BrDSa6_xPA // Spark AR Scripting Tutorial #1: Move items by screen tap
+
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
@@ -170,6 +173,9 @@ mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
 # Jayasurya Aasaithambi
 yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
+
+# Joseph Arning
+WdjIq3DHfdg // How To Make An Instagram Filter | Beginner Spark AR Tutorial
 
 # Josh Beckwith
 o-QKwgYIHdE // Spark AR Effect Development: Radiance

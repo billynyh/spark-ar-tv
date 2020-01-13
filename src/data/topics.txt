@@ -53,6 +53,7 @@ udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter 
 _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
 6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
+-BrDSa6_xPA // Spark AR Scripting Tutorial #1: Move items by screen tap
 
 # Beauty / Makeup / Lipstick
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -332,6 +333,7 @@ Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || 
 # Tap to change
 eDLvXDEK7us // Уроки Spark AR Studio. Смена эффекта по Тапу (Screen Tap).  Цвет губ. Маски в Инстаграм
 0bO1zazFUsM // Spark AR Studio. Смена объектов по Тапу (Screen Tap). Маски в Инстаграм. Маска на два лица!
+e6QdecFqUCA // Spark AR Tap to Change
 O3-c0c8XJWQ // #3 Tutorial Filtros com Toque para Alterar - Tap to Change | Spark AR Brasil
 G38CHTTKUxA // Spark AR Tutorial: Screen Tap experiencia
 JahuumWeWbI // Tap to change / Add instructions - Spark AR beginner tutorial
@@ -341,8 +343,27 @@ Nz_ntJqRCfc // Spark AR Tutorial Instagram en Español | SCREEN TAP
 RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructions
 RjBkrvU-W80 // Spark AR Toque para alterar. Tutorial de como mudar seu efeito ao toque!
 lmklVU5dzDw // Уроки Spark AR Studio . 👌🏻 Эффект старой камеры, плёнки, vhs + LUT. Маски в Инстаграм
+o8yf110GuzQ // СМЕНА МАСКИ по ТАПУ 😍 /Spark AR SCREEN TAP / Маска в ИНСТАГРАМ
+8RxhIZ7IX3g // TAP TO CHANGE / Spark Ar Instagram Masks Instagram Filter change by tap
+iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
+E9L0uQKwmug // Object Tap + Switch - Spark AR Studio
+4rze2HaOGc8 // Spark AR GIF animation PARTICLES and TAP to TRY IT ON / HALLOWEEN FACE FILTER
+C6OrOpO_LXc // Spark AR Studio Tutorial Tap Option and Switch Option
+8u2kY5WJ3Kw // audio with face tracker and screen tap ( spark ar studio part VIII )
+ig8F7OVOrQM // Cara membuat filter efek instagram bisa di Tap / bisa ganti efek | Spark Ar Indo
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
+_v_3qlb6rs0 // Spark AR #05: Patches Scripting - Screen Tap
+G14pdKw81AA // Spark AR #07: Patch Scripting-Tap UI and Swap 3D Masks
+kHi6jnZuABs // SPARK AR SCREEN TAP DEUTSCH / EFFEKT DURCH ANTIPPEN DES BILDSCHIRMS HINZUFÜGEN 2020
+cjBFWnPJfQM // Tap to Change Plane Colour (Face Tracker) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+tapb5vDwgk0 // Tap to Change Mesh Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+qO-arATN7SM // Tap to Change Eye Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+bOxiFTY0lR4 // Tap to Change Eye Colour (Quick Version) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial
+1ML_yfDRg6Q // Hero/Villain Mask Tap to Change Filter Effect (Quick Version)| Instagram/Facebook |Spark AR Tutorial
+-BrDSa6_xPA // Spark AR Scripting Tutorial #1: Move items by screen tap
+fgS4iHfpuIA // SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes
 
 # Tooling
 ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
