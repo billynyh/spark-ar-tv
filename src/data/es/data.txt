@@ -89,7 +89,7 @@ oQVyjjM0LhU // Spark AR Voice Change | Use Microphone | TV head Filter
 Bvfd96oPWLM // Spark AR Objeto 3D sigue movimiento Face Tracker | Hand tracker
 VqDH3IfLBnA // Starbucks Instagram Filter | Holiyay | Augmented reality
 2JHSVWRLuBI // Head Quiz - Games Filter Instagram  | Realidad Aumentada
-7rjIIAgjup8 // Spark AR Cara en imágenes | Face “Extraction” + Fade Edge
+7rjIIAgjup8 // Spark AR Face Extraction Part I | Cara en imágenes + Fade Edge
 6sBpHIeH78w // Spark AR - Target Tracker en Instagram | Tutorial Realidad Aumentada
 Z72z_21P7Yo // Spark AR - Random Aleatorio - Filter Instagram | Head Quiz
 LHVQk-ICgMk // Spark AR - Photogrammetry + Target Tracker Instagram | Display Land
@@ -161,7 +161,7 @@ BcVTAF9vyrk // Crea tu propio filtro para Instagram usando Spark AR!
 vqxL8RNtCIg // Tutorial Spark Ar Studio en español【 3 PASOS CLAVE para filtros 👀】DESDE CERO | PARA EMPEZAR 🎭
 Rkbv3W-HtbU // Spark Ar Studio animación hecha en blender objeto 3D 🚀 pruebas ➕ VIDEOS y TUTORIALES 👨‍💻👇
 rlmq2dCvKSY // Spark Ar Studio pruebas y filtros 🎭 texturas 3D y ➕ 😍【 SUSCRÍBETE PARA TUTORIALES y VÍDEOS 👍】
-5FebsRAFD1s // TUTORIAL SPARK AR STUDIO EN ESPAÑOL | TEXTO NEÓN ANIMADO 🆒| Blender 3D |Tutorial desde cero 👍
+5FebsRAFD1s // TUTORIAL SPARK AR STUDIO EN ESPAÑOL | TEXTO NEÓN ANIMADO 🆒| head Occluder 3D |Tutorial desde cero 👍
 hSQsTI_69cw // Timelapse | SPARK AR STUDIO | Iron Man helmet | Tutorials soon 🔥 Español e Inglés 👍
 
 # Team Queen Rubio

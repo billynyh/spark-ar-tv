@@ -54,19 +54,10 @@ def get_lang_nav(site):
     languages = ['global'] + site.site_config.languages
     return [LangNavItem(lang, "%s/%s/index.html" % (site.url, lang)) for lang in languages]
 
-def get_channel_list_nav(site):
-    channel_lists = site.channel_lists or []
-    music = site.music or []
-    interviews = site.interviews or []
-    return [NavItem(l.title, "%s/global/%s.html" % (site.url, l.slug)) for l in channel_lists]\
-      + [NavItem(l.title, "%s/global/%s.html" % (site.url, l.slug)) for l in music]\
-      + [NavItem(l.title, "%s/global/%s.html" % (site.url, l.slug)) for l in interviews]
-
 def get_navs(master, site):
     # language nav, topic nav
     navs = {
         'lang': get_lang_nav(site),
-        'channel_list': get_channel_list_nav(master.global_site),
         'topic': get_topic_nav(master.global_site),
         'other': []
     }

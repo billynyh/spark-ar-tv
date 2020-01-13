@@ -162,11 +162,14 @@ def group_by_time(video_data):
     tmr = datetime.date.today() + datetime.timedelta(days=1) # consider timezone
     week = datetime.timedelta(weeks=1)
 
+    groups = []
+
     prev_videos = Group(
         "Previous Videos",
         filter_video_by_date(video_data, dummy_start_date, start_date)
     )
-    groups = [prev_videos]
+    if len(prev_videos.ids) > 0:
+        groups += [prev_videos]
 
     while start_date <= tmr:
         end_date = start_date + week
@@ -259,10 +262,9 @@ def global_site(config, video_cache):
     site.topics = parse("data/topics.txt")
     site.facebook = parse("data/facebook.txt")
     site.channel_lists = parse_channel_lists("data/channel-lists.txt")
-    site.music = parse("data/music.txt")
     site.interviews = parse("data/interviews.txt")
     
-    all_groups = site.groups + site.facebook + site.topics + site.music + site.interviews
+    all_groups = site.groups + site.facebook + site.topics + site.interviews
     all_youtube_ids = set([id for g in all_groups for id in g.ids])
     site.video_data = load_video_data(all_youtube_ids, video_cache, config.api_key)
     site.groups_by_time = group_by_time(site.video_data)

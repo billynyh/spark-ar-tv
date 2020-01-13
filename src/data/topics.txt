@@ -213,9 +213,16 @@ z2f0pLUBH0E // Spark AR Criando Moldura com 3D, Lut e mudança de cor!
 8nsD9_T7Yog // Spark AR 5 Dicas para deixar seu LUT Incrível!
 ja6Elaxm1kY // ПОЛНЫЙ НАБОР В Spark AR. LUT + script + facemesh + plane. Создаем вместе маску как у Foreo.
 N6mGq7k52CI // LUT Tutorial | 60 Second Tutorials for SparkAR
-UN674uFGwrY // Spark AR Basic | How to use a Camera/Lightroom/Photoshop Preset  [LUT/Lookup Table]
+UN674uFGwrY // SPARK AR BASIC T!P | How to Convert any Preset into Instagram Filter [Photoshop/Lightroom/LUT]
 
-# Native UI
+# Music videos
+00qF95f6qBs // Grimes - Pretty Dark  {Demo}
+m5fWahjfhGg // ALEKSEY BARNASH - FACE FILTERS (ORIGINAL INSTAGRAM VIDEO EDIT)
+jbNh4pGI69Y // CamelPhat, Jake Bugg - Be Someone (Vertical Video)
+rz7wcLL344A // Mark Ronson - Pieces of Us (Official Video) ft. King Princess
+So92Crc7X3E // KAMILITA - WHEN U KNOW WHAT U ARE (official music video)
+
+# Native UI Picker / Slider
 IJFodki_4uI // Native UI Sparkar [Instagram only]
 BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 xJXzh_ePbdI // Spark AR Native UI. Tutorial de como adicionar Native UI ao seu filtro!
@@ -226,6 +233,15 @@ SJMNOFX_K1U // #7🔥NativeUI Picker  - создаём колесо перек
 znMXpXjA1s8 // Урок 18 - Переключение кнопками Spark AR. Кнопки переключения Spark AR. NATIVE UI PICKER
 6b5nnBaNdeA // Spark AR Native UI com Luts, Visible e Partículas
 jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
+aAiKckXdHeM // #10 🔥Native Slider - меняем свойства элементов в маске 🤡 Spark AR
+tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+tw1nBgK2IeI // Spark AR Como usar Native UI Slider
+JYOezMX0H1U // Spark AR Studio - Cambio de texturas con NativeUI Picker
+QwcAw3UqshY // NativeUI Picker | Spark AR Studio
+B-kU2HIZ__0 // NativeUI Slider | Spark AR Studio
+yIMuUnvtxMg // Native UI Picker Spark AR turoial indonesia + Project File
+BEYHNvC2ZwU // КАК СДЕЛАТЬ РЕГУЛИРОВКУ В SPARK AR/Native./SLIDER
 
 # Occluder / Occlusion
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -356,10 +372,10 @@ omqEo6A1bLg // object with multiple material and change between them based on ta
 _v_3qlb6rs0 // Spark AR #05: Patches Scripting - Screen Tap
 G14pdKw81AA // Spark AR #07: Patch Scripting-Tap UI and Swap 3D Masks
 kHi6jnZuABs // SPARK AR SCREEN TAP DEUTSCH / EFFEKT DURCH ANTIPPEN DES BILDSCHIRMS HINZUFÜGEN 2020
-cjBFWnPJfQM // Tap to Change Plane Colour (Face Tracker) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+cjBFWnPJfQM // Tap to Change Plane Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 tapb5vDwgk0 // Tap to Change Mesh Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
-qO-arATN7SM // Tap to Change Eye Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
-bOxiFTY0lR4 // Tap to Change Eye Colour (Quick Version) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+qO-arATN7SM // Eye Colour Tap to Change  (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+bOxiFTY0lR4 // Eye Colour Tap to Change  (Quick Version) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial
 1ML_yfDRg6Q // Hero/Villain Mask Tap to Change Filter Effect (Quick Version)| Instagram/Facebook |Spark AR Tutorial
 -BrDSa6_xPA // Spark AR Scripting Tutorial #1: Move items by screen tap

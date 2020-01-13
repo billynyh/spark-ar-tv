@@ -46,16 +46,6 @@ def standard_pages(site, config):
     pages.append(("channels.html", html_helper.gen_channel_html(site, page_config)))
     return pages
 
-def channel_list_pages(site, config):
-    page_config = PageConfig(config.site_config.page_config)
-    page_config.og_image = util.get_logo_url(config)
-    pages = []
-    for l in site.channel_lists:
-        page_config.title = "%s | Spark AR TV" % l.title
-        html = html_helper.gen_channel_list_html(site, page_config, l)
-        pages.append(("%s.html" % l.slug, html))
-    return pages
-
 def topic_pages(site, config):
     if not site.topics:
         return []
@@ -78,13 +68,6 @@ def facebook_pages(site, config):
     page_config.title = "Facebook | Spark AR TV"
     page_config.description = config.site_config.page_config.description
     return [("facebook.html", html_helper.gen_facebook_html(site, page_config))]
-
-def music_pages(site, config):
-    page_config = PageConfig(config.site_config.page_config)
-    page_config.title = "Music Videos | Spark AR TV"
-    if site.music:
-        page_config.og_image = util.get_group_banner_url(config, site.music[0])
-    return [("music-videos.html", html_helper.gen_music_html(site, page_config))]
 
 def interviews_pages(site, config):
     page_config = PageConfig(config.site_config.page_config)
@@ -130,12 +113,8 @@ def gen_lang_site(site, config):
         pages += topic_pages(site, config)
     if site.facebook:
         pages += facebook_pages(site, config)
-    if site.music:
-        pages += music_pages(site, config)
     if site.interviews:
         pages += interviews_pages(site, config)
-    if site.channel_lists:
-        pages += channel_list_pages(site, config)
     if site.custom:
         pages += custom_pages(site, config)
     if site.blogs:

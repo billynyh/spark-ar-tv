@@ -42,7 +42,6 @@ class Site:
     latest = None
     topics = None
     facebook = None
-    music = None
     interviews = None
     channel_lists = None # map of channel list
     custom = None
@@ -82,9 +81,14 @@ class ChannelList:
         self.slug = to_slug(slug)
         self.ids = []
 
+SLUG_OVERRIDE = {
+    "native-ui-picker-slider": "native-ui",
+}
+
 def to_slug(s):
     slug = s.lower()
     for c in "/!@#$%^&*()":
         slug = slug.replace(c, "")
-    return re.sub(r" +", "-", slug)
-
+    slug = re.sub(r" +", "-", slug)
+    slug = SLUG_OVERRIDE.get(slug, slug)
+    return slug
