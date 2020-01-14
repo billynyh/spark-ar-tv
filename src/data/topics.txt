@@ -98,7 +98,12 @@ RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouchi
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 gzbE9hgOL2c // Уроки Spark AR Studio. LUT + Retouch + Distortion✌🏻Маски в Инстаграм
 Z-q3Gev3vQ0 // Сглаживание лица+фильтр.Как сделать чтобы сглаживание лица работало одновременно с фильтром
+g-HPiuAGIv0 // Tutorial: Face Distortion and Retouching
+RPPgZU0szK8 // Spark AR Numeros interativos e Retouch com Segmentação!
+2zAQrIMeYv0 // Spark AR LUT + RETOUCHING + DEFORMATION
+ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 fPqT8ZGNoA4 // Filtros no Instagram - Pele Suave + Postar na sua conta
+DdVTOUUBRXg // Урок 25 - Фильтр с ретушью Spark AR. Как сделать маску с фильтром Спарк. LUT and retouch spark ar
 
 # Face extraction
 zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
@@ -184,6 +189,8 @@ hwCBJKqI3rA // Adding instructions Spark AR | Добавление инстру�
 iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
 u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
 EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark Ar para Iniciantes #10
+XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Facebook | Spark AR Tutorial
+yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Facebook | Spark AR Tutorial
 
 # LUT
 lxF-ecbkbr4 // Color LUTs in Spark AR
@@ -257,6 +264,9 @@ _UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
 0aWK8mXwBwM // Occluder Planes SparkAR Tutorial
 j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark Ar. Уроки по созданию маски в инстаграм.
 LVrlXIwUgkw // Instagram Spark AR Como adicionar um óculos com Head Occluder
+lyK30WEi6nw // Spark AR Crie um efeito de coroa. Tutorial de como adicionar coroas com Head occluder!
+doNaxDHp-Gc // Spark AR - Occlusion Portal and Hole in the Floor | Tutorial
+5FebsRAFD1s // TUTORIAL SPARK AR STUDIO EN ESPAÑOL | TEXTO NEÓN ANIMADO 🆒| head Occluder 3D |Tutorial desde cero 👍
 
 # Particles
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
@@ -269,12 +279,22 @@ fw5SKizDdh0 // Уроки Spark AR Studio  - Particle System👌🏻. Вылет
 272UJik_cdM // Spark AR Partículas Novas! Novo update no sistema de partículas!
 m-9BdirnrK4 // Spark AR Studio - Efectos de partículas flotando alrededor
 3bXuya898j4 // Урок 22 - Частицы, вылетающие при моргании и движении головы Spark AR. Система частиц Spark AR
+j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
+Hr-zfnq8PmA // Tutorial: Creating an Effect with Particles
+4rze2HaOGc8 // Spark AR GIF animation PARTICLES and TAP to TRY IT ON / HALLOWEEN FACE FILTER
+hOL-FZgAYYE // 💁TUTORIAL 2 SPARK AR STUDIO: PARTICLE CHE ESCONO DAGLI OCCHI
 I4pcAew4U2s // Tutorial emissor de partículas  - Spark Ar para Iniciantes #8
+idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
 28bixY0DgvM // Creating Natural Feeling Particle Systems with Motion Vectors in Spark AR
 iGHpdd_qvUM // 3D Particle Fields in Spark AR
 uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
 yOsG__hIUas // Drawing with Particles - Spark AR
 fEUS-rY6DU8 // Glitter Effect Tutorial for Spark AR
+8lPnk4qmGGQ // Spark AR SpriteSheet Tutorial, how to make popcorn particles with a spritesheet.
+1hNHoKmn4Ag // Spark AR Tutorial #4: Particle System
+0GzBqIwgRyM // Spark AR/КАК СДЕЛАТЬ НИМБ/Particle system/Урок 7
+XTqMshFg6Rg // Bokeh Particles in Spark AR
+6RNYsFzwdaY // สอนทำฟิลเตอร์ IG EP2: Particle ออกจากปาก ร่วงจากฟ้า
 
 # Plane tracker / Target tracker
 ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
@@ -320,7 +340,6 @@ AOIVnYW_vJY // Как сделать маску-тест "КТО ТЫ?" ~ Head q
 AP9jQVZ9eY0 // Как сделать так что бы маска работала на нескольких лиц / Spark ar фильтр на два лица / instagram
 rX41H7yxo8A // ✨מדריך לפילטר של כרטיסים מתחלפים לאינסטגרם ✨SPARK AR RANDOM CARDS in 7 min!✨
 0wnenKEP51w // Spark AR Como criar o Game STOP!!
-c5OChTwlOwc // CÓMO HACER FILTROS DE INSTAGRAM CON SPARK AR x PABLO ZÁRATE @ DE CERO A NINJA
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
