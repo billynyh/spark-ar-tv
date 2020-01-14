@@ -44,8 +44,13 @@ Av3vkCKOQZA // СВОЯ МАСКА В INSTAGRAM! \\ СВЕТЯЩИЕСЯ ГЛА�
 66sEjC1-y3A // Spark AR Studio - Voice Tutorial : How To Change Your Voice ?
 W9z0OY61F4k // Spark AR música ao abrir a boca. Tutorial de como usar som com abrir a boca, piscar, sorrir e etc.
 PWEqlmdAL-E // Spark AR Alterando a Voz. Tutorial de como alterar pitch e reverb da voz!
+MfpltX8p3Ss // #SparkARIndonesia : Cara Memasukan Lagu Audio ( Part 18 )
+7PkZqr_XTmg // How to Add Sound Effect & Voice Effect - Spark AR Studio [ Tutorial ] Part 2
 oQVyjjM0LhU // Spark AR Voice Change | Use Microphone | TV head Filter
+8u2kY5WJ3Kw // audio with face tracker and screen tap ( spark ar studio part VIII )
 Bi7we1vNmT4 // Уроки Spark AR Studio. Наложение глаз и рта на фото + искажение голоса. Маска в Инстаграм уроки.
+tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+xxHMALAvmlk // Tutorial: Adding Audio
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
@@ -96,10 +101,14 @@ Z-q3Gev3vQ0 // Сглаживание лица+фильтр.Как сделат�
 fPqT8ZGNoA4 // Filtros no Instagram - Pele Suave + Postar na sua conta
 
 # Face extraction
+zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
 qcg2Om7dSBM // Spark AR Como extrair Olhos e Boca!
 RUsQ1CkVhQk // Spark AR Colocando seu rosto em objetos!
 MPpAVu2ewBo // Spark AR Usando Face em Animação 3D, filtro Gangnam Style!
+7rjIIAgjup8 // Spark AR Face Extraction Part I | Cara en imágenes + Fade Edge
 fLuqn3vjPe0 // Spark AR Sem rosto e Alpha nos olhos e boca!
+4uxWgaUFfzk // FaceMesh Wiggle Effect | Spark AR
+eLSTvhfQUa4 // Spark AR - Face Extraction Part II | Imagen estática & objeto 3d
 
 # Face mesh / deformation
 7lx9iNagJ6o // Sparkar Studio -  Deformation Face
@@ -147,7 +156,6 @@ KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patc
 u-fNbpujYh4 // Inilah Cara Saya Membuat Filter Games Di Instagram ( Progress Part 2 )
 2oZG9GybZ-s // Inilah Cara Saya Membuat Filter Games Di Instagram ( Progress Part End )
 TfKPSKZKacY // Уроки Spark at Studio. Как сделать игру? Часть 1.
-2JHSVWRLuBI // Head Quiz - Games Filter Instagram  | Realidad Aumentada
 jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
 0if1-iDNvBI // Spark AR tutorial: How to control object by FaceTracker (Part 2)
 z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
@@ -287,7 +295,8 @@ LHVQk-ICgMk // Spark AR - Photogrammetry + Target Tracker Instagram | Display La
 d_2KU0gLkqY // Spark AR Tutorial Target Tracker. Создаем дополненную реальность в Инстаграм
 w6beb3zwuHA // Как сделать привязку маски к вывеске/монитору/логотипу в Spark AR. Создаём Fixed Target Tracker.
 
-# Random image game
+# Random image game / head quiz
+2JHSVWRLuBI // Head Quiz - Games Filter Instagram  | Realidad Aumentada
 M4QSecKIzjE // Spark AR - Random Image Sequence | Filter Parecidos Razonables
 sZFPSi0eZE4 // Как создать маску "КТО ТЫ ИЗ" instagram сторис/ Случайный подбор картинок/SPARK AR mask фильтр
 5fERiVVXcyM // Spark AR - Random Image Sequence | Part II | Disney & Pokemon Character
@@ -307,6 +316,11 @@ LlCEJzZ0fWc // Как создать маску с случайными пред
 Sc0dtwZAVTM // КАК СДЕЛАТЬ МАСКУ "КТО ТЫ?" ДЛЯ ИНСТРАГРАМ | DARIA TSVET
 RqGIQ_ivTUQ // Как создать анимацию для маски-предсказания? / Фильтр предсказания instagtram / анимация spark ar
 sO45RXRHd0c // Crear filtro "quien eres" para instagram
+AOIVnYW_vJY // Как сделать маску-тест "КТО ТЫ?" ~ Head quiz test filter "WHO ARE YOU?" in Spark AR
+AP9jQVZ9eY0 // Как сделать так что бы маска работала на нескольких лиц / Spark ar фильтр на два лица / instagram
+rX41H7yxo8A // ✨מדריך לפילטר של כרטיסים מתחלפים לאינסטגרם ✨SPARK AR RANDOM CARDS in 7 min!✨
+0wnenKEP51w // Spark AR Como criar o Game STOP!!
+c5OChTwlOwc // CÓMO HACER FILTROS DE INSTAGRAM CON SPARK AR x PABLO ZÁRATE @ DE CERO A NINJA
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR

@@ -83,6 +83,7 @@ class ChannelList:
 
 SLUG_OVERRIDE = {
     "native-ui-picker-slider": "native-ui",
+    "random-image-game-head-quiz": "random-image-game",
 }
 
 def to_slug(s):
