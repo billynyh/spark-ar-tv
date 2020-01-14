@@ -99,6 +99,7 @@ ypIC3gQ0svs // Spark AR V78+ Library Update
 _BHo-QcQbgU // How to Make a "Who / What are you?" Filter? | Spark AR
 uIx2oSYdoLY // Spark AR Review Policy | Why does Spark AR hate you using text?
 rE--pW50YN8 // Going Further with Random Image Effect | Spark AR
+4uxWgaUFfzk // FaceMesh Wiggle Effect | Spark AR
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter

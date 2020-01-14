@@ -280,6 +280,12 @@ UWriSd2rRLI // 2D Pivots and Target Detection (Show/Hide elements) - Spark AR St
 14apB024VMA // Spark AR Studio - Movimiento del dispositivo y dimensiones reales.
 nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
+6sBpHIeH78w // Spark AR - Target Tracker en Instagram | Tutorial Realidad Aumentada
+u2YXOhSsEI0 // Добавление таргет трекера в SPARK AR. Target tracking.
+XM9JrT6PB0w // Уроки Spark AR Studio 76v.  Fixed Target Tracker - как использовать?
+LHVQk-ICgMk // Spark AR - Photogrammetry + Target Tracker Instagram | Display Land
+d_2KU0gLkqY // Spark AR Tutorial Target Tracker. Создаем дополненную реальность в Инстаграм
+w6beb3zwuHA // Как сделать привязку маски к вывеске/монитору/логотипу в Spark AR. Создаём Fixed Target Tracker.
 
 # Random image game
 M4QSecKIzjE // Spark AR - Random Image Sequence | Filter Parecidos Razonables

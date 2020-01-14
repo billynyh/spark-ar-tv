@@ -87,6 +87,7 @@ wTKeKSn3Yyo // Cara membuat filter warna LUT Color (Spark AR indonesia Part III 
 # Roni Immanuel
 wTNJJkYzjJg // Update Terbaru Spark AR Studio v78 1 Bahasa Indonesia
 E4U1hsMp21M // Spark AR Menambahkan Efek Physics kedalam 3D Object Bahasa Indonesia
+q626kHEuzNk // Spark AR Membuat color LUTs menerapkan Presets dan Profiles Lightroom Bahasa Indonesia
 
 # Rudy Anwar
 5dJKGzR7jAc // Cara membuat 3D Filter Instagram - Tutorial Spark AR Studio

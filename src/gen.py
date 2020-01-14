@@ -151,7 +151,7 @@ def gen_site(config):
     html_helper.config = config
     html_helper.global_site = master.global_site
   
-    langs = [] # config.site_config.languages
+    langs = config.site_config.languages
     if config.use_multi_process:
         pool = Pool(5)
         pool.starmap(gen_lang_site, [(master.lang_sites[lang], config) for lang in langs])
