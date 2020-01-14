@@ -24,7 +24,14 @@ a, a:hover {
   background-color:#0b1b2b;
 }
 
+.navbar #sidebar-toggle {
+  background: none;
+}
+
 /* sidebar */
+.toggled .sidebar {
+  display:none;
+}
 .sidebar .nav-item {
   background:none;
 }
@@ -35,6 +42,11 @@ a, a:hover {
 }
 .sidebar .nav-item a {
   display:block;
+}
+
+.sidebar .list-group-item {
+  background: none;
+  padding: .2em .2em;
 }
 
 /* video */

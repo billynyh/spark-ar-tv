@@ -44,15 +44,12 @@ description = page.description
  
   <%include file="_nav.html" />
 
-<div class="content">
-<div class="container-fluid">
-<div class="row">
-  <div class="col-xl-2 col-lg-2">
+<div class="content d-flex" id="wrapper">
+<div class="sidebar-wrapper">
     <%include file="_sidebar.html" args="nav_groups=navs" />
-  </div>
-  <div class="col-xl-10 col-lg-10">
+</div>
+<div class="container-fluid">
 ${next.body()}
-  </div>
 </div>
 </div>
 
@@ -73,6 +70,11 @@ $.getJSON(
     });
   }
 );
+
+$("#sidebar-toggle").click(function(e) {
+  e.preventDefault();
+  $("#wrapper").toggleClass("toggled");
+});
 
 });
 

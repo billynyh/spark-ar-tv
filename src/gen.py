@@ -144,14 +144,17 @@ def gen_global_site(master):
     gen_lang_site(site, config)
     gen_global_json(site, config)
 
-def gen_site(config):
+def gen_site(config, global_only):
     master = master_site(config)
 
     html_helper.master = master
     html_helper.config = config
     html_helper.global_site = master.global_site
   
-    langs = config.site_config.languages
+    if global_only:
+        langs = []
+    else:
+        langs = config.site_config.languages
     if config.use_multi_process:
         pool = Pool(5)
         pool.starmap(gen_lang_site, [(master.lang_sites[lang], config) for lang in langs])
@@ -166,6 +169,7 @@ def gen_site(config):
 def main(args):
     prod = args.prod
     assets_only = args.assets
+    global_only = args.global_only
 
     util.prepare_cache()
 
@@ -173,11 +177,12 @@ def main(args):
     if assets_only:
         util.copy_all_assets(config)
     else:
-        gen_site(config)
+        gen_site(config, global_only)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Site generation')
     parser.add_argument('--prod', action='store_true')
     parser.add_argument('--assets', action='store_true')
+    parser.add_argument('--global-only', action='store_true')
     args = parser.parse_args()
     main(args)

@@ -4,11 +4,11 @@ site = context.get('site')
 current_lang = site.lang
 %>
 <nav class="navbar navbar-expand-sm navbar-dark">
-  <a class="navbar-brand" href="${wrap(context, 'global/index.html')}">Spark AR TV</a>
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="top-navbar" aria-expanded="false" aria-label="toggle">
+  <button class="navbar-brand btn btn-dark" id="sidebar-toggle">
     <span class="navbar-toggler-icon"></span>
   </button>
+  <a class="navbar-brand" href="${wrap(context, 'global/index.html')}">Spark AR TV</a>
+
   <div class="collapse navbar-collapse" id="top-navbar">
 
     <ul class="navbar-nav mr-auto">
