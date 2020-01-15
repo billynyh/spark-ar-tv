@@ -1,11 +1,6 @@
 # 10Tech Productions
 sW4RETvSTbA // How To Create  Instagram Face Filters And AR Effect
 
-# 60 Second Tutorials
-JyHr20l3QAU // Old Camera/Grain Effect Tutorial | 60 Second Tutorials for SparkAR
-nizyVVNQV9A // Nude Makeup Effect Tutorial | 60 Second Tutorials for SparkAR
-N6mGq7k52CI // LUT Tutorial | 60 Second Tutorials for SparkAR
-
 # Aan Kurniawan
 uuIuoKz2I3U // Paint face
 6XwLwj8R87g // Spark AR : Instagram Filter - Bugis 3D
@@ -398,6 +393,7 @@ qO-arATN7SM // Eye Colour Tap to Change  (Patch Editor) Filter Effect | Instagra
 bOxiFTY0lR4 // Eye Colour Tap to Change  (Quick Version) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial
 1ML_yfDRg6Q // Hero/Villain Mask Tap to Change Filter Effect (Quick Version)| Instagram/Facebook |Spark AR Tutorial
+kJvRmXMvtGk // Censor Bar Tap to Change Filter Effect (Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
@@ -470,6 +466,9 @@ YG2YckIazWY // I built an Instagram filter for #teamtrees from scratch : 1 hour 
 # weareEDT
 DMjBVivuqIg // Hong Leong Bank Digital Day Facebook AR Campaign
 r_nEYBQ-tGc // Gardens SparkAR - Augmented Reality Art Gallery
+
+# Steven Van
+qz0cuIAHras // How to Make Instagram AR Filters!
 
 # xochiworld
 HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation
