@@ -404,6 +404,9 @@ mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 # Steffie Harner
 6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
 
+# Steven Van
+qz0cuIAHras // How to Make Instagram AR Filters!
+
 # SuperHi
 E8Sf3tNvNE4 // How to make an AR fashion filter for Instagram
 
@@ -466,9 +469,6 @@ YG2YckIazWY // I built an Instagram filter for #teamtrees from scratch : 1 hour 
 # weareEDT
 DMjBVivuqIg // Hong Leong Bank Digital Day Facebook AR Campaign
 r_nEYBQ-tGc // Gardens SparkAR - Augmented Reality Art Gallery
-
-# Steven Van
-qz0cuIAHras // How to Make Instagram AR Filters!
 
 # xochiworld
 HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation

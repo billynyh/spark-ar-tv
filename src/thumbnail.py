@@ -54,9 +54,8 @@ def generate_facebook_thumbnails(site):
 def main():
     master = master_site(config)
     site = master.global_site
-    #download_all(site.video_data)
-    #generate_topics_thumbnails(site)
-    #return
+    generate_topics_thumbnails(site)
+    return
     # generate_week_thumbnails(site)
     #generate_facebook_thumbnails(site)
     ids = 'FTCHx4QrqPQ mIt2fdjExy0 WECBaYICiPo 1do5R7UDuxI'

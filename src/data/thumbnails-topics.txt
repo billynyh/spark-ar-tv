@@ -1,3 +1,9 @@
+# Hand tracker
+VsLjCqNBd1o // Spark AR Tutorial:  Hand Tracker en español
+nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!
+Bvfd96oPWLM // Spark AR Objeto 3D sigue movimiento Face Tracker | Hand tracker
+Th9ncRGJU3w // Spark AR Tutorial #3: Hand Tracker
+
 # Shader
 https://youtube.com/watch?v=1do5R7UDuxI
 https://youtube.com/watch?v=Cc-YubBQy-M

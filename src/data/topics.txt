@@ -79,10 +79,13 @@ iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tuto
 
 # Edge detection / KiraKira
 VbFEAbeGmQc // Edge Detection in Spark AR
+Z89FJw9ayfI // Kira Kira  Filter Instagram by Chris Price | ¿Cómo nació el filtro?
 KGWAvFbCGVo // Spark AR Studio - Glitter (Edge e Light Detection similar ao KiraKira+) - Por @julliana.dev
 -HYpPNldC3M // Spark AR Efeito Fake Kira Kira e brilho em qualquer tom!
 4_JUGfLLpEE // КАК СДЕЛАТЬ МАСКУ KIRA/ГЛИТТЕР/Spark AR/Маски для инстаграм.
 XQekFaRtam0 // Как сделать маску в стиле kirra в Spark AR Studio? блестки/glitters
+neI8YTcJGqI // КАК СДЕЛАТЬ МАСКУ KIRA НА БЕЛОМ+LUT/ГЛИТТЕР/SPARK AR
+a0lrNep4yQo // SPARK AR TUTORIAL - FAST AND EASY "KIRA KIRA" BE LIKE EFFECT ON SPARK AR USING THE NEW UPDATE V 78
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -178,8 +181,10 @@ btiferIzGiU // İnstagram Filtresi Nasıl Mı Yapılır ? (JOKER FİLTRESİ YAPT
 YblocgdB7w8 // Face Mask Halloween - Spark AR Studio - [ Tutorial ]
 
 # Hand tracker
+VsLjCqNBd1o // Spark AR Tutorial:  Hand Tracker en español
 nDUWUKT1UP0 // Spark AR Como usar Hand e Target Tracking!
 Bvfd96oPWLM // Spark AR Objeto 3D sigue movimiento Face Tracker | Hand tracker
+Th9ncRGJU3w // Spark AR Tutorial #3: Hand Tracker
 
 # Instructions
 JahuumWeWbI // Tap to change / Add instructions - Spark AR beginner tutorial
@@ -205,14 +210,17 @@ zPAEpZCu1QI // Spark AR Crie seu LUT. Tutorial de como deixar seus filtros com c
 MA7Z2rxLKwI // Урок 15 - Как сделать фильтр в Spark AR. Пресет в Spark AR. Маска с фильтром
 4g4CoL_KCkE // Spark AR Retouching with LUTs (and other texture effects)
 kednH9VEyAg // SparkAR - Tutorial LUT Simples e Rápido (Presets) - Efeito Instagram
+3N1ibbHXe7w // SparkAR: Filtro com Presets + Seletor & Grãos câmera 8mm - @aliencandies [PT-BR]
 wTKeKSn3Yyo // Cara membuat filter warna LUT Color (Spark AR indonesia Part III )
 YEp99nDbLAs // МАСКА-ПРЕСЕТ в ИНСТАГРАМ | ПЫЛИНКИ | ПЕРЕКЛЮЧЕНИЕ Spark AR
 gzbE9hgOL2c // Уроки Spark AR Studio. LUT + Retouch + Distortion✌🏻Маски в Инстаграм
 0Ag-wI5Q5is // #SparkARIndonesia : Cara Membuat Filter VSCO/Lightroom ( Part 15 )
 8IAI9LeX_Ho // Spark AR VHS com Dynamic Text. Tutorial de como criar efeito VHS ou Glitch
 QFmarjHCojM // Spark AR: Create Instagram LUTs filter
+E2qwXmS9YHg // ¡Convierte PRESETS de LIGHTROOM en un FILTRO DE INSTAGRAM!
 2zAQrIMeYv0 // Spark AR LUT + RETOUCHING + DEFORMATION
 X2w_YLkt-jQ // Colour Grading (LUT) - Spark AR Studio
+2P7KO8QNNPw // 💁TUTORIAL 3 SPARK AR: CREARE UN FILTRO IG/FB CON I PRESET LIGHTROOM
 ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 v8H4R0IEzaY // SparkAR - Presets Lightroom como Filtros no Instagram - LUT
 e97Q7Vq2UXs // Crie seu filtro preset para o Instagram  - SPARK AR
@@ -222,13 +230,18 @@ DdVTOUUBRXg // Урок 25 - Фильтр с ретушью Spark AR. Как с�
 VJmRFAMvOo8 // Spark AR Colagem com vários retângulos e LUT's!
 6b5nnBaNdeA // Spark AR Native UI com Luts, Visible e Partículas
 MP7s-rCTmM4 // Cómo crear efectos de cámara retro con Spark AR para instagram | Tutorial en español
+kd9p1bw1X-g // Cara Membuat Filter Face Instagram Story Pakai Preset LR & VSCO | #SHARINGISCARING Ep7
 QwoF0VnPIKk // Custom LUTs in Lightroom
 YpFfkCftF6U // Spark AR - LUTs + Segmentation
 z2f0pLUBH0E // Spark AR Criando Moldura com 3D, Lut e mudança de cor!
+EbkutUyZGWk // Cara buat Filter Instagram Sendiri Dengan Mudah Pakai Preset Lightroom / VSCO | Spark AR Tutorial
 8nsD9_T7Yog // Spark AR 5 Dicas para deixar seu LUT Incrível!
 ja6Elaxm1kY // ПОЛНЫЙ НАБОР В Spark AR. LUT + script + facemesh + plane. Создаем вместе маску как у Foreo.
-N6mGq7k52CI // LUT Tutorial | 60 Second Tutorials for SparkAR
+X7ike4QMbOI // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / LIGHTROOM PRESET ALS IG FILTER 2020
+TSsNcLFmLw0 // HOW TO CREATE AN INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTROOM PRESETS MOBILE/NORMAL | TUTORIAL
 UN674uFGwrY // SPARK AR BASIC T!P | How to Convert any Preset into Instagram Filter [Photoshop/Lightroom/LUT]
+q626kHEuzNk // Spark AR Membuat color LUTs menerapkan Presets dan Profiles Lightroom Bahasa Indonesia
+S7Gc7xGkc70 // Spark AR | Lightroom (Presets) Hazır Ayarlarınızı İnstagram Efekti Yapma
 
 # Music videos
 00qF95f6qBs // Grimes - Pretty Dark  {Demo}
