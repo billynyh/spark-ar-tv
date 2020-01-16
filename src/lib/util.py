@@ -83,7 +83,7 @@ def topic_banner_generated(out_dir, g):
     return os.path.exists(path)
 
 def get_logo_url(config):
-    return "%s/assets/logo.png" % (config.site_config.url)
+    return "%s/assets/logo2.png" % (config.site_config.url)
 
 def week_page_path(week):
     return "weeks/%s.html" % week.slug
