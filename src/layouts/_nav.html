@@ -1,13 +1,14 @@
 <%
-from lib.mako_util import wrap, wrap_lang, all_languages
+from lib.mako_util import wrap, wrap_lang, all_languages, asset
 site = context.get('site')
 current_lang = site.lang
+logo = asset(context, 'logo-white.png')
 %>
 <nav class="navbar navbar-expand-sm navbar-dark">
   <button class="navbar-brand btn btn-dark" id="sidebar-toggle">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <a class="navbar-brand" href="${wrap(context, 'global/index.html')}">Spark AR TV</a>
+  <a class="navbar-brand" href="${wrap(context, 'global/index.html')}"><img src="${logo}" class="logo" alt="Spark AR TV" /></a>
 
   <div class="collapse navbar-collapse" id="top-navbar">
 

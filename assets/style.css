@@ -24,6 +24,10 @@ a, a:hover {
   background-color:#0b1b2b;
 }
 
+.navbar img.logo {
+  height:32px;
+}
+
 .navbar #sidebar-toggle {
   background: none;
 }
