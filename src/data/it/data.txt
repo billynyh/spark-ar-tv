@@ -36,6 +36,7 @@ drPOcG0Ik64 // Realtà Aumentata in classe con i Filtri Instagram
 
 # jessicavangone
 gGpIqYW4ML8 // Spark AR Tutorial - ITA - Filtro Instagram con oggetto che ruota intorno al volto.
+5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
 
 # Linebeck
 ViDXHCFYUVw // How to Make Superhero MASK for Cosplay - VERY EASY AND CHEAP
@@ -50,6 +51,7 @@ sAHkUlUAT-E // Spark Ar - ITA - Come estrarre la texture facciale e posizionarla
 bqk3Vwp28AA // SPARK AR ITA - Come creare una sequenza di immagini su plane+tocca per stoppare+istruzioni custom
 1r7nagauHnU // SPARK AR EASY FILTER TUTORIAL - HOW TO MAKE DUOTONE & TRITONE FILTER/EFFECTS + HUE LOOPING ANIMATION
 a0lrNep4yQo // SPARK AR TUTORIAL - FAST AND EASY "KIRA KIRA" BE LIKE EFFECT ON SPARK AR USING THE NEW UPDATE V 78
+h6208mfKuoA // Spark ar - Tutorial easy texture distortion creative using SPARK AR library ONLY in v.78
 
 # Sebiforce
 xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram
@@ -70,3 +72,6 @@ eLqc9ciLL7k // Creare FILTRI per Instagram - COLORGRADING (2/3)
 
 # WARELLA
 UEhgMvjNyA0 // CARICARE FILTRI SU INSTAGRAM *FREE 2020
+
+# Giacomo Lucarini
+kwDh-ILHW2U // Come Creare Filtri Instagram e Facebook 2D in 10 Minuti | Tutorial Passo Passo Spark AR Studio

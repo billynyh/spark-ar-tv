@@ -97,6 +97,7 @@ rE--pW50YN8 // Going Further with Random Image Effect | Spark AR
 4uxWgaUFfzk // FaceMesh Wiggle Effect | Spark AR
 QB954GF0uSI // Voice Changer | Spark AR
 2uhVpMRo8MM // Random Image Effect Amendment [Record Trigger] | Spark AR
+iG9sMY6j-gA // 3D Random Image Effect | Spark AR Studio
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -472,8 +473,17 @@ YG2YckIazWY // I built an Instagram filter for #teamtrees from scratch : 1 hour 
 DMjBVivuqIg // Hong Leong Bank Digital Day Facebook AR Campaign
 r_nEYBQ-tGc // Gardens SparkAR - Augmented Reality Art Gallery
 
+# jessicavangone
+5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
+
 # xochiworld
 HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation
+
+# uriya disegni
+7m0XZEeCzjk // How to create an instagram effect on spark ar - "who", "which" effect
+
+# Nina Judy
+RHOdt1zNjj8 // How to get Instagram Filters 2020 Tutorial. "Which are you?", HiddenIGFilters & More.
 
 # Yegor K
 d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR
