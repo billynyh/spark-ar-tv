@@ -204,6 +204,7 @@ jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
 0if1-iDNvBI // Spark AR tutorial: How to control object by FaceTracker (Part 2)
 z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
 O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
+FmQ6YKbirmg // Уроки spark ar studio. Как сделать игру в instagram?
 
 # Halloween / Joker
 S_X8_ML1e2M // SparkAR Joker mask
@@ -390,6 +391,10 @@ AP9jQVZ9eY0 // Как сделать так что бы маска работа�
 rX41H7yxo8A // ✨מדריך לפילטר של כרטיסים מתחלפים לאינסטגרם ✨SPARK AR RANDOM CARDS in 7 min!✨
 0wnenKEP51w // Spark AR Como criar o Game STOP!!
 _UZAE_TwFA8 // CÓMO HACER UN FILTRO DE INSTAGRAM CON SPARK AR x Pablo Zárate @ DE CERO A NINJA #SENSEIS
+Qh-Y9k8YaVw // Как создать маску рандомайзер в Spark AR
+HoN5v-RPu9o // Criando um filtro de perguntas no instagram 📱(Spark AR Tutorial)
+RHOdt1zNjj8 // How to get Instagram Filters 2020 Tutorial. "Which are you?", HiddenIGFilters & More.
+7m0XZEeCzjk // How to create an instagram effect on spark ar - "who", "which" effect
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
@@ -441,6 +446,7 @@ yrWh6TzXYkg // Function & Composition patches: What do they do?
 Cc-YubBQy-M // Spark AR Novos updates V78 Shaders e Pixelate
 1do5R7UDuxI // Perlin Noise and Distortion in Spark AR
 Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+h6208mfKuoA // Spark ar - Tutorial easy texture distortion creative using SPARK AR library ONLY in v.78
 
 # Tap to change
 eDLvXDEK7us // Уроки Spark AR Studio. Смена эффекта по Тапу (Screen Tap).  Цвет губ. Маски в Инстаграм
