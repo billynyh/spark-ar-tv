@@ -19,7 +19,7 @@ def search(ids, video_data, keyword, debug, search_tags):
                     if debug:
                         print("- tag: %s" % tag)
         if match:
-            print("%s // %s" % (video.id, video.title))
+            print("%s // %s | %s" % (video.id, video.title, video.published_at))
             has_result = True
 
 def main(keyword, debug, search_tags = False):
