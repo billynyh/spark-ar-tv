@@ -175,6 +175,9 @@ mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 # HolyAlexx
 sRUfCf-Ksog // How to make an Instagram Filter | Spark AR
 
+# iampimposo
+pRIH_NL-WEM // Spark AR Studio - Scanner Face
+
 # Ian Johnson
 lTA7_y-dZxY // Four faces effect with Spark AR Studio
 
@@ -414,6 +417,7 @@ hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | In
 1ML_yfDRg6Q // Hero/Villain Mask Tap to Change Filter Effect (Quick Version)| Instagram/Facebook |Spark AR Tutorial
 kJvRmXMvtGk // Censor Bar Tap to Change Filter Effect (Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 9P2NbVhqj9Y // Change Background Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+D9rEDcY8XE0 // Alternate Layer Material (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
@@ -482,6 +486,7 @@ zUNTsc23-Vg // Old tape / TV interference effect SPARK AR
 saBMUfgP_S4 // CHANGE EYEs COLOR (PUPILS) SPARK AR
 nnF8SswYank // Witcher Yennefer of vengerberg EFFECT / SPARK AR Instagram mask
 qoJEBA2Jh-M // CHANGE EYE COLOR for INSTAGRAM / SPARK AR tutorials
+PcF92LnOOXc // What character are you? / QUIZ Effect Spark AR  / Disney, shrek & everything
 
 # Vidushi Agarwal
 kSSFQraSvSE // Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)

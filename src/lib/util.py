@@ -44,6 +44,13 @@ def get_cache_images():
 def get_cache_image_path(id): 
     return "%s/images/%s" % (CACHE_DIR, id)
 
+def delete_cache_json(id):
+    p = get_cache_json_path(id)
+    if os.path.exists(p):
+        os.remove(p)
+        return True
+    return False
+
 # copy all files inside src to dst, non recursive
 def copy_all(src, dst):
     mkdir(dst)

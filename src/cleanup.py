@@ -1,5 +1,6 @@
 import config_factory
 from site_config import DEVELOPER_KEY
+from lib import util
 from lib.api import ApiDataLoader
 from lib.data_loader import *
 from numpy import unique
@@ -21,6 +22,10 @@ def dump_groups(groups, video_data, fix_title):
         lines.append("# %s" % group_title)
         for id in ids:
             if id in appeared:
+                continue
+            if video_data[id].live_broadcast_content == 'upcoming':
+                print('%s is upcoming' % id)
+                util.delete_cache_json(id)
                 continue
             appeared.add(id)
             lines.append("%s // %s" % (id, video_data[id].title))

@@ -71,6 +71,7 @@ class Video:
     raw_published_at = None
     video_url = None
     metadata = None
+    live_broadcast_content = None
 
 class ChannelList:
     slug = None
