@@ -354,7 +354,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=R0pTosVgmnM" target="_blank">
-          <img src="https://i.ytimg.com/vi/R0pTosVgmnM/hqdefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/R0pTosVgmnM/hqdefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -380,7 +380,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=9lg6X-hROmQ" target="_blank">
-          <img src="https://i.ytimg.com/vi/9lg6X-hROmQ/hqdefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/9lg6X-hROmQ/hqdefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -405,34 +405,8 @@
   <div class="vid">
     <div class="thumb-container">
       <div class="thumb-wrapper">
-        <a href="https://youtube.com/watch?v=iRbfea2knzM" target="_blank">
-          <img src="https://i.ytimg.com/vi/iRbfea2knzM/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:10</span>
-    </div>
-    <div class="title">
-      <a href="https://youtube.com/watch?v=iRbfea2knzM">First approach to Augmented Reality (with Instagram AR filters)- VLOG</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCjhPz19V2fm3znxAfCL39Ww">Upcycling Couture</a>
-      &bull;
-      2019-07-13
-    </div>
-  </div>
-</div>
-
-  
-
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=Cbd7kOepfLk" target="_blank">
-          <img src="https://i.ytimg.com/vi/Cbd7kOepfLk/sddefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/Cbd7kOepfLk/sddefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -458,7 +432,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=o-QKwgYIHdE" target="_blank">
-          <img src="https://i.ytimg.com/vi/o-QKwgYIHdE/hqdefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/o-QKwgYIHdE/hqdefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -491,9 +465,17 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
     <script>
 
 $(document).ready(function(){
+
+$('.thumb-container img').Lazy({
+  effect: 'fadeIn',
+  effectTime: 200,
+  visibleOnly:true,
+})
+
 $.getJSON(
   "https://billynyh.github.io/spark-ar-tv/global/nav.json",
   function(data) {

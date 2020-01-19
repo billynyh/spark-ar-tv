@@ -354,7 +354,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=3N1ibbHXe7w" target="_blank">
-          <img src="https://i.ytimg.com/vi/3N1ibbHXe7w/sddefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/3N1ibbHXe7w/sddefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -380,7 +380,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=LrxVSeed7lA" target="_blank">
-          <img src="https://i.ytimg.com/vi/LrxVSeed7lA/hqdefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/LrxVSeed7lA/hqdefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -406,7 +406,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=kednH9VEyAg" target="_blank">
-          <img src="https://i.ytimg.com/vi/kednH9VEyAg/sddefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/kednH9VEyAg/sddefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -432,7 +432,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=lXCJjuQXrQM" target="_blank">
-          <img src="https://i.ytimg.com/vi/lXCJjuQXrQM/sddefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/lXCJjuQXrQM/sddefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -458,7 +458,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=g_pOgjB0_9s" target="_blank">
-          <img src="https://i.ytimg.com/vi/g_pOgjB0_9s/sddefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/g_pOgjB0_9s/sddefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -484,7 +484,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=91QvILIuSqc" target="_blank">
-          <img src="https://i.ytimg.com/vi/91QvILIuSqc/sddefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/91QvILIuSqc/sddefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -510,7 +510,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=uXcicx3cGhE" target="_blank">
-          <img src="https://i.ytimg.com/vi/uXcicx3cGhE/sddefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/uXcicx3cGhE/sddefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -536,7 +536,7 @@
     <div class="thumb-container">
       <div class="thumb-wrapper">
         <a href="https://youtube.com/watch?v=AkQiGKl1N4E" target="_blank">
-          <img src="https://i.ytimg.com/vi/AkQiGKl1N4E/sddefault.jpg">
+          <img data-src="https://i.ytimg.com/vi/AkQiGKl1N4E/sddefault.jpg">
           <span class="play-button">
             <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
           </span>
@@ -569,9 +569,17 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
     <script>
 
 $(document).ready(function(){
+
+$('.thumb-container img').Lazy({
+  effect: 'fadeIn',
+  effectTime: 200,
+  visibleOnly:true,
+})
+
 $.getJSON(
   "https://billynyh.github.io/spark-ar-tv/global/nav.json",
   function(data) {
