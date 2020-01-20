@@ -108,7 +108,6 @@ GUNl32dzslc // How To Make a Custom Instagram Face Filter
 rnPA0mnbw5o // Spark AR tutorial for beginners
 
 # Dancing Developer
--BrDSa6_xPA // Spark AR Scripting Tutorial #1: Move items by screen tap
 Hzmyt-s_bZs // Spark AR Scripting Tutorial #1: Move items by screen tap
 
 # Dominique Wu
@@ -304,7 +303,7 @@ hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
 OLCipWve774 // Reflective Glass Shader for Spark AR
 
 # Nahir Esper
-Ml8lIsEZCBo // Watch me build │Spark Ar + GIFT
+Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
 jNGK9Q7oSsA // Watch me build #2 │Spark Ar
 
 # Newcolor Interface Design
@@ -428,7 +427,7 @@ X5X7tLcc4Vo // Some AR Madness
 # Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 
-# Steffie Harner
+# Steffie Harner ASMR
 6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
 
 # Steven Van

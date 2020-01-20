@@ -52,6 +52,9 @@ VCpiSPV2EL8 // Как загрузить свою маску в Инстагра
 # Andrey Trushkeen
 J-yR2Ss4B4A // Создаем свою первую маску для Инстаграма за 10 минут | Spark AR Уроки #1
 
+# ANNA VATMAN
+XBLURy62adw // МАСКА-ФИЛЬТР СТОРИС ЗА ПЯТЬ МИНУТ | Spark AR | instagram
+
 # Anni Lonko
 CQHdsQXDtnM // Spark AR. Как деформировать лицо для создания маски в инстаграм
 Q1-UHP9KHWw // Random Image Sequence ~ Head quiz filter on Spark AR like "Which Disney" ~ Фильтр "Тест" в Инстаграм
@@ -404,6 +407,21 @@ Z5qrCrQaLX0 // Spark ar studio уроки. 3 урок - 3D объекты.Как
 AdL_X2zyOxU // Spark ar studio уроки. 4 урок- Маска-металл и цветной свет на лице.Как создать свою маску Инстаграм.
 UJzuapxZSbQ // Курс по созданию масок Инстаграм. Spark ar studio уроки. Как сделать маску в инстаграме.
 MIC-e8GiCx0 // Как привязать Инстаграм к фейсбуку. Загрузка маски в Инстаграм. Spark AR
+6IFk0ST-AkA // Игра
+YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
+jXpZ127W8pA // Понимание программы
+fAlTa4ciZyw // After Effect - секвенция видео
+0pzjf5-3gnM // Создание простой кнопки и ее видимость при съемке
+ouWXN2BLMkc // Анимация Particle System
+BWLPqs6SPdU // Работа с пресетом: звезды из глаз при моргании
+YLCrsSXrvYE // Неон, добавление неонового plane и 3D анимация
+a0Wu2O_-Y5c // Spark AR. Слои и возможности transition
+FXjmPFOwsVI // Spark AR. Использование пресетов. Изменение анимации
+TW5g2tV-30M // Spark AR. 3D фотошоп
+XDpAi3VZtF8 // Spark AR/ gif,анимация и тд
+200SZOmsmpw // Spark AR. 3 урок. Загрузка маски в инстаграм и привязка инстаграм.
+KjmYkFiXTjQ // Spark AR. 2 урок
+f2Mz5uFA-oc // Spark AR. 1 урок
 
 # Vlada Vaynberg
 II56YL_dntI // Ответы на Вопросы / КАК СДЕЛАТЬ МАСКУ ИНСТАГРАМ?!?!
@@ -440,9 +458,6 @@ fwhuYBdJ7Bk // Замена заднего фона в Spark Ar
 
 # Анастасия Березовская
 JCGSiw7knE0 // МАСКА В ИНСТАГРАМ ЗА 5 МИНУТ!ПРОЩЕ ПРОСТОГО!
-
-# Аня Ватман
-XBLURy62adw // МАСКА-ФИЛЬТР СТОРИС ЗА ПЯТЬ МИНУТ | Spark AR | instagram
 
 # Артём Майко
 wnEEtYsFYdk // Как сделать сглаживание кожи в Spark AR Instagram

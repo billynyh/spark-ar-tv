@@ -1,4 +1,4 @@
-<%page args="obj,large_thumb=False" />
+<%page args="obj,large_thumb=False,use_yt_channel_url=False" />
 <%
 from lib.mako_util import asset
 from lib import util
@@ -10,7 +10,11 @@ if large_thumb:
 else:
     cls = "vid-col col-xl-2 col-lg-3 col-sm-4"
     thumbnail_url = obj.thumbnail_url
-channel_url = util.channel_page_url(site, obj.channel_id)
+
+if use_yt_channel_url:
+    channel_url = obj.channel_url
+else:
+    channel_url = util.channel_page_url(site, obj.channel_id)
 %>
 <div class="${cls}">
   <div class="vid">

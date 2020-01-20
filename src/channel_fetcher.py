@@ -35,7 +35,7 @@ def fetch_single(config, master, channel_id):
         items = filter_videos(items, [], keywords=['spark', 'mask', 'sparkar'])
         print(len(items))
         for item in items:
-            print("%s %s" % (item.id, item.title))
+            print("%s // %s" % (item.id, item.title))
 
 def fetch_all(config, master, lang, new_only = True, max_result=10):
     api = ApiDataLoader(DEVELOPER_KEY)

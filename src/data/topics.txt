@@ -89,7 +89,6 @@ udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter 
 _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
 6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
--BrDSa6_xPA // Spark AR Scripting Tutorial #1: Move items by screen tap
 
 # Beauty / Makeup / Lipstick
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -133,7 +132,7 @@ Hc4Ci4_TO3Q // Two Minute Eyelashes Filter Effect (Easy) | Instagram & Facebook 
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 pXlUYX2IwZw // 3d eyelashes for spark ar. Tracking control
 OUlI_fvrOno // Урок2.Создание маски в Spark AR с ретушью,надписью на лице и макияжем.
-FhTxlMsYEwM // Spark AR Yennefer Look a Like Tutorial [Change your Eyecolor, MakeUp andadd 3D Eyelashes]
+FhTxlMsYEwM // Spark AR Yennefer Look a Like Tutorial [Change your Eyecolor, MakeUp, add 3D Eyelashes]
 
 # Face Retouching
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -439,7 +438,7 @@ RPPgZU0szK8 // Spark AR Numeros interativos e Retouch com Segmentação!
 9cRwX5yp-G8 // Glitch Effect in Spark Ar / Фильтр в стиле Глитч для инстаграм / Уроки Spark Ar Studio
 Q1Yh_J43MX0 // Spark AR Criando um contorno com segmentação!
 A3vMevjHJ_I // Урок 26 - Как поменять фон в маске Spark AR. Обводка человека Spark AR. Сегментация Спарк
-rQCR7ooV_Ig // Spark AR Tutorial XMas Special 2/3 [ Segmentation & Change Background ]
+rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR [ XMas Special 2/3]
 -XA2ZKkuY-Q // Tutorial: Segmentation and the Camera Texture
 YpFfkCftF6U // Spark AR - LUTs + Segmentation
 59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
@@ -492,7 +491,6 @@ qO-arATN7SM // Eye Colour Tap to Change  (Patch Editor) Filter Effect | Instagra
 bOxiFTY0lR4 // Eye Colour Tap to Change  (Quick Version) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial
 1ML_yfDRg6Q // Hero/Villain Mask Tap to Change Filter Effect (Quick Version)| Instagram/Facebook |Spark AR Tutorial
--BrDSa6_xPA // Spark AR Scripting Tutorial #1: Move items by screen tap
 fgS4iHfpuIA // SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes
 
 # Tooling

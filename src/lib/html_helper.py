@@ -82,7 +82,9 @@ class HtmlHelper:
             site = site,
             page = page,
             topic = group,
-            large_thumb = False)
+            large_thumb = False,
+            use_yt_channel_url = True,
+            )
 
     def gen_fb_videos_html(self, site, page, param):
         t = self.get_template('fb_videos.html')
