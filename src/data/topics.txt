@@ -80,6 +80,8 @@ oQVyjjM0LhU // Spark AR Voice Change | Use Microphone | TV head Filter
 Bi7we1vNmT4 // Уроки Spark AR Studio. Наложение глаз и рта на фото + искажение голоса. Маска в Инстаграм уроки.
 tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 xxHMALAvmlk // Tutorial: Adding Audio
+Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
+tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
@@ -131,6 +133,7 @@ Hc4Ci4_TO3Q // Two Minute Eyelashes Filter Effect (Easy) | Instagram & Facebook 
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 pXlUYX2IwZw // 3d eyelashes for spark ar. Tracking control
 OUlI_fvrOno // Урок2.Создание маски в Spark AR с ретушью,надписью на лице и макияжем.
+FhTxlMsYEwM // Spark AR Yennefer Look a Like Tutorial [Change your Eyecolor, MakeUp andadd 3D Eyelashes]
 
 # Face Retouching
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -440,6 +443,7 @@ rQCR7ooV_Ig // Spark AR Tutorial XMas Special 2/3 [ Segmentation & Change Backgr
 -XA2ZKkuY-Q // Tutorial: Segmentation and the Camera Texture
 YpFfkCftF6U // Spark AR - LUTs + Segmentation
 59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
+MwxctcV2kc4 // Spark AR - Easy iris tracking and change color on a black and white background + Color segmentation
 
 # Shader
 6rcTbfrVyWo // Spark AR MatCap shader
@@ -493,6 +497,7 @@ fgS4iHfpuIA // SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes
 
 # Tooling
 ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
+VinrQWhv0ss // Spark AR: Instagram Filters - Image Compression
 
 # Touch Gesture
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
