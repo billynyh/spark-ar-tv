@@ -44,7 +44,7 @@ def standard_pages(site, config):
         ("full-list.html", html_helper.gen_timeline_html(site, page_config, full=True)),
         ("debug.html", html_helper.gen_debug_html(site, page_config)),
     ]
-    pages.append(("channels.html", html_helper.gen_channel_html(site, page_config)))
+    pages.append(("channels.html", html_helper.gen_channels_html(site, page_config)))
     return pages
 
 def topic_pages(site, config):
@@ -101,6 +101,21 @@ def blogs(site, config):
         ))
     return pages
 
+def single_channel_pages(site, config):
+    pages = []
+    for x in site.groups:
+        first_vid = site.video_data[x.ids[0]]
+        channel_id = first_vid.channel_id
+        page_config = PageConfig(config.site_config.page_config)
+        page_config.title = "%s | Spark AR TV" % x.title
+        pages.append((
+            "channels/%s.html" % channel_id,
+            html_helper.gen_single_channel_html(site, page_config, x)
+        ))
+    return pages
+        
+        
+
 def gen_lang_site(site, config):
     lang = site.lang
     out_dir = "%s/%s" % (config.out_dir, lang)
@@ -121,6 +136,9 @@ def gen_lang_site(site, config):
     if site.blogs:
         util.mkdir("%s/blogs" % out_dir)
         pages += blogs(site, config)
+    if site.gen_channel_html and config.channel:
+        util.mkdir("%s/channels" % out_dir)
+        pages += single_channel_pages(site, config)
 
     for page in pages:
         with open_out_file(out_dir, page[0]) as outfile:
@@ -144,22 +162,19 @@ def gen_global_site(master):
     gen_lang_site(site, config)
     gen_global_json(site, config)
 
-def gen_site(config, global_only):
+def gen_site(config):
     master = master_site(config)
 
     html_helper.master = master
     html_helper.config = config
     html_helper.global_site = master.global_site
   
-    if global_only:
+    if config.global_only:
         langs = []
     else:
         langs = config.site_config.languages
-    if config.use_multi_process:
-        pool = Pool(5)
-        pool.starmap(gen_lang_site, [(master.lang_sites[lang], config) for lang in langs])
-    else:
-        [gen_lang_site(master.lang_sites[lang], config) for lang in langs]
+
+    [gen_lang_site(master.lang_sites[lang], config) for lang in langs]
     gen_global_site(master)
 
     # Copy assets
@@ -170,19 +185,24 @@ def main(args):
     prod = args.prod
     assets_only = args.assets
     global_only = args.global_only
+    channel = args.channel or prod
 
     util.prepare_cache()
 
     config = config_factory.load(prod)
+    config.global_only = global_only
+    config.channel = channel
+
     if assets_only:
         util.copy_all_assets(config)
     else:
-        gen_site(config, global_only)
+        gen_site(config)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Site generation')
     parser.add_argument('--prod', action='store_true')
     parser.add_argument('--assets', action='store_true')
     parser.add_argument('--global-only', action='store_true')
+    parser.add_argument('--channel', action='store_true')
     args = parser.parse_args()
     main(args)

@@ -6,7 +6,8 @@ class GeneratorConfig:
     cache_dir = None
     site_config = None
     api_key = None
-    use_multi_process = False
+    global_only = False
+    channel = True
 
 class SiteConfig:
     url = None
@@ -43,9 +44,9 @@ class Site:
     topics = None
     facebook = None
     interviews = None
-    channel_lists = None # map of channel list
     custom = None
     blogs = None
+    gen_channel_html = False
 
 class Group:
     title = None

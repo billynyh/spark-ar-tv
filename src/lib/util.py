@@ -100,3 +100,7 @@ def topic_page_path(topic):
 
 def topic_page_url(site, topic):
     return "%s/global/%s" % (site.url, topic_page_path(topic))
+
+def channel_page_url(site, channel_id):
+    return "%s/global/channels/%s.html" % (site.url, channel_id)
+

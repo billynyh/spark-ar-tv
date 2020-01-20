@@ -1,6 +1,8 @@
 <%page args="obj,large_thumb=False" />
 <%
 from lib.mako_util import asset
+from lib import util
+
 play_icon = asset(context, 'youtube-play5.png')
 if large_thumb:
     cls = "vid-col col-xl-3 col-lg-3 col-sm-4"
@@ -8,6 +10,7 @@ if large_thumb:
 else:
     cls = "vid-col col-xl-2 col-lg-3 col-sm-4"
     thumbnail_url = obj.thumbnail_url
+channel_url = util.channel_page_url(site, obj.channel_id)
 %>
 <div class="${cls}">
   <div class="vid">
@@ -26,7 +29,7 @@ else:
       <a href="${obj.video_url}">${obj.title}</a>
     </div>
     <div class="meta">
-      <a href="${obj.channel_url}">${obj.channel_title}</a>
+      <a href="${channel_url}">${obj.channel_title}</a>
       &bull;
       ${obj.published_at}
     </div>

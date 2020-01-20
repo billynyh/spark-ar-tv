@@ -29,7 +29,7 @@ class HtmlHelper:
         t = self.get_template('debug.html')
         return self.render(t, site=site, page = page)
 
-    def gen_channel_html(self, site, page):
+    def gen_channels_html(self, site, page):
         t = self.get_template('channels.html')
         return self.render(t, site=site, page = page)
 
@@ -76,16 +76,13 @@ class HtmlHelper:
             topic = topic,
             large_thumb = True)
 
-    def gen_channel_list_html(self, site, page, channel_list):
-        groups_map = {g.slug: g for g in site.groups}
-        groups = [groups_map[id] for id in channel_list.ids]
-
-        t = self.get_template('channel_list.html')
+    def gen_single_channel_html(self, site, page, group):
+        t = self.get_template('topic.html')
         return self.render(t, 
             site = site,
             page = page,
-            title = channel_list.title,
-            groups = groups)
+            topic = group,
+            large_thumb = False)
 
     def gen_fb_videos_html(self, site, page, param):
         t = self.get_template('fb_videos.html')

@@ -40,29 +40,6 @@ def parse_skip_file(file_path):
     f = open(file_path)
     return [util.extract_youtube_id(line.strip()) for line in f.readlines() if line.strip()]
 
-def parse_channel_lists(file_path):
-    print('Parsing channel lists: %s' % file_path)
-    if not os.path.exists(file_path):
-        print("- not exist")
-        return []
-    f = open(file_path)
-    lists = []
-    current_list = None
-    for s in f.readlines():
-        s = s.strip()
-        if not s:
-            continue
-        if s.startswith("#"):
-            if current_list:
-                lists.append(current_list)
-            current_list = ChannelList(s[1:].strip())
-            current_list.title = CHANNEL_LIST_DISPLAY_NAME[current_list.slug]
-            continue
-        current_list.ids.append(s.split(" # ")[0])
-    if current_list:
-        lists.append(current_list)
-    return lists
-
 def process_groups(groups, video_data, merge_small_groups = True):
     # merge all groups with less than 2 vid to Others
     result = []
@@ -261,7 +238,6 @@ def global_site(config, video_cache):
 
     site.topics = parse("data/topics.txt")
     site.facebook = parse("data/facebook.txt")
-    site.channel_lists = parse_channel_lists("data/channel-lists.txt")
     site.interviews = parse("data/interviews.txt")
     
     all_groups = site.groups + site.facebook + site.topics + site.interviews
@@ -276,6 +252,7 @@ def global_site(config, video_cache):
 
     site.custom = load_custom()
     site.blogs = load_blogs()
+    site.gen_channel_html = True
     return site
 
 def master_site(config, merge_small_groups = True):
@@ -284,11 +261,7 @@ def master_site(config, merge_small_groups = True):
     print(api_key)
     langs = config.site_config.languages
     video_cache = load_cache()
-    if config.use_multi_process:
-        pool = Pool(5)
-        sites = pool.starmap(single_lang_site, [(config, lang, video_cache, merge_small_groups) for lang in langs])
-    else:
-        sites = [single_lang_site(config, lang, video_cache, merge_small_groups) for lang in langs]
+    sites = [single_lang_site(config, lang, video_cache, merge_small_groups) for lang in langs]
     for site in sites:
         master.lang_sites[site.lang] = site
 
