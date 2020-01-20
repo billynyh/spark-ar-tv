@@ -2,6 +2,9 @@ site_config.py
 client_secret.json
 token.pickle
 
+tmp
+fb_schedule_post.py
+
 _cache
 _out
 __pycache__
