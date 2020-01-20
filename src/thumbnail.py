@@ -54,17 +54,18 @@ def generate_facebook_thumbnails(site):
 def main():
     master = master_site(config)
     site = master.global_site
-    generate_topics_thumbnails(site)
-    return
+    #generate_topics_thumbnails(site)
+    #return
+
     # generate_week_thumbnails(site)
     #generate_facebook_thumbnails(site)
-    ids = 'FTCHx4QrqPQ mIt2fdjExy0 WECBaYICiPo 1do5R7UDuxI'
+    ids = 'hDTkgxqqTgI VinrQWhv0ss rX41H7yxo8A eLSTvhfQUa4'
     ids = ids.split()
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2020-01-06')
+    generate_custom_week_thumbnails(site, ids, 'week-2020-01-13')
 
 
 if __name__ == "__main__":
