@@ -109,6 +109,7 @@ rnPA0mnbw5o // Spark AR tutorial for beginners
 
 # Dancing Developer
 -BrDSa6_xPA // Spark AR Scripting Tutorial #1: Move items by screen tap
+Hzmyt-s_bZs // Spark AR Scripting Tutorial #1: Move items by screen tap
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -187,6 +188,7 @@ yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
 # jessicavangone
 gGpIqYW4ML8 // Spark AR Tutorial - ITA - Filtro Instagram con oggetto che ruota intorno al volto.
 5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
+tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
 
 # Joseph Arning
 WdjIq3DHfdg // How To Make An Instagram Filter | Beginner Spark AR Tutorial

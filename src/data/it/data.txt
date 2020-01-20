@@ -40,6 +40,7 @@ drPOcG0Ik64 // Realtà Aumentata in classe con i Filtri Instagram
 # jessicavangone
 gGpIqYW4ML8 // Spark AR Tutorial - ITA - Filtro Instagram con oggetto che ruota intorno al volto.
 5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
+tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
 
 # Linebeck
 ViDXHCFYUVw // How to Make Superhero MASK for Cosplay - VERY EASY AND CHEAP
@@ -55,6 +56,7 @@ bqk3Vwp28AA // SPARK AR ITA - Come creare una sequenza di immagini su plane+tocc
 1r7nagauHnU // SPARK AR EASY FILTER TUTORIAL - HOW TO MAKE DUOTONE & TRITONE FILTER/EFFECTS + HUE LOOPING ANIMATION
 a0lrNep4yQo // spark ar tutorial  - FAST AND EASY "kira kira" Be like effect on SPARK AR using the new update v.78
 h6208mfKuoA // Spark ar - Tutorial easy texture distortion creative using SPARK AR library ONLY in v.78
+MwxctcV2kc4 // Spark AR - Easy iris tracking and change color on a black and white background + Color segmentation
 
 # Sebiforce
 xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram
