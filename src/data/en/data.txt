@@ -308,6 +308,9 @@ jNGK9Q7oSsA // Watch me build #2 │Spark Ar
 
 # Newcolor Interface Design
 7RsYYY51S5k // Sketching for Spark AR Studio: Ego Death
+6stXwBt87Dg // Drag 2D Object: Spark AR Studio
+QgSmfJEFj1s // Emoji Face Slider: Spark AR Studio Project Template
+eKx0J1pqCdg // Beating Heart: Spark AR Studio Project Template
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]

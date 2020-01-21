@@ -18,10 +18,13 @@ def dump_groups_ids(groups, video_data):
 def dump_groups_details(groups, video_data):
     for group in groups:
         print(group.title)
-        for x in group.ids:
+        ids = group.ids.copy()
+        ids.reverse()
+
+        for x in ids:
             v = video_data[x]
             view_count = int(v.view_count)
-            thresold = 1000
+            thresold = 200
             if view_count > thresold:
                 print("%s // %s | %s" % (v.id, v.title, v.view_count))
                 #print("%s %s\n%s\n" % (v.title, v.channel_title, v.video_url))
