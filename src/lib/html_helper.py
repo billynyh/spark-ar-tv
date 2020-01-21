@@ -77,11 +77,11 @@ class HtmlHelper:
             large_thumb = True)
 
     def gen_single_channel_html(self, site, page, group):
-        t = self.get_template('topic.html')
+        t = self.get_template('single_channel.html')
         return self.render(t, 
             site = site,
             page = page,
-            topic = group,
+            group = group,
             large_thumb = False,
             use_yt_channel_url = True,
             )

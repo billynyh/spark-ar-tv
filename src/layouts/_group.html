@@ -1,4 +1,4 @@
-<%page args="group,video_data,link_to_group=False" />
+<%page args="group,video_data,link_to_group=False,show_group_title=True" />
 <%
 from lib import util
 from lib.mako_util import wrap_lang
@@ -7,7 +7,7 @@ group_page_url = wrap_lang(context, util.week_page_path(group))
 <div class="row">
 % if link_to_group:
   <h3><a href="${group_page_url}">${group.title}</a></h3>
-% else:
+% elif show_group_title:
   <h3>${group.title}</h3>
 % endif
 </div>

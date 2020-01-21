@@ -1,0 +1,13 @@
+<%inherit file="base.html" />
+<%
+cnt = len(group.ids)
+cnt_str = "1 video" if cnt == 1 else "%s videos" % cnt
+title = "%s - %s" % (group.title, cnt_str)
+youtube_channel_url = site.video_data[group.ids[0]].channel_url
+%>
+<h3>${title}</h3>
+<%include file="_group.html" args="group=group, video_data=site.video_data, show_group_title=False" />
+
+<div class="row"><div class="col-12 vid-col">
+<p><a href="${youtube_channel_url}">Visit channel on YouTube</a></p>
+</div></div>
