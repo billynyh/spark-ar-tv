@@ -59,6 +59,7 @@ sAHkUlUAT-E // Spark Ar - ITA - Come estrarre la texture facciale e posizionarla
 a0lrNep4yQo // spark ar tutorial  - FAST AND EASY "kira kira" Be like effect on SPARK AR using the new update v.78
 h6208mfKuoA // Spark ar - Tutorial easy texture distortion creative using SPARK AR library ONLY in v.78
 MwxctcV2kc4 // Spark AR - Easy iris tracking and change color on a black and white background + Color segmentation
+TGwbZf6xnR4 // HOW TO MAKE INSTAGRAM FILTERS - Split image camera glitch - Spark Ar tutorial Free project download
 
 # Sebiforce
 xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram
