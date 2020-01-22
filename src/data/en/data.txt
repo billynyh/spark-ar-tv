@@ -177,6 +177,7 @@ sRUfCf-Ksog // How to make an Instagram Filter | Spark AR
 
 # iampimposo
 pRIH_NL-WEM // Spark AR Studio - Scanner Face
+LcGQ1iS-bAk // Spark AR Studio - Scanner Face V2
 
 # Ian Johnson
 lTA7_y-dZxY // Four faces effect with Spark AR Studio
@@ -367,6 +368,7 @@ l2pdFe5YdZ8 // Spark AR Studio - Lights Tutorial : How To Make Lights Effect ?
 BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
 Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
+V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR

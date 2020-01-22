@@ -20,6 +20,7 @@ LANG_DISPLAY_NAME = {
   'ro': 'Romanian',
   'hr': 'Croatian',
   'sk': 'Slovak',
+  'el': 'Greek',
   'global': 'All Languages',
 }
 
