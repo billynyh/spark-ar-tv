@@ -437,6 +437,9 @@ mY4F4oD5Ig0 // Как сделать маску для Инстаграм / Spar
 4ZBI4sk41uc // СОЗДАНИЕ ПРОСТОЙ МАСКИ ДЛЯ ИНСТАГРАМ+ИКОНКА+ЗАГРУЗКА. SPARK AR
 u2YXOhSsEI0 // Добавление таргет трекера в SPARK AR. Target tracking.
 
+# Yana Onuchina
+uOk7vlvCLpQ // ГДЕ СОЗДАЮТСЯ INSTAGRAM МАСКИ / Знакомство с интерфейсом Spark AR Studio
+
 # ycg ykt
 ZinTlxSTh7c // 3D маска для instagram
 
@@ -478,6 +481,7 @@ PsW5XhuLW6I // Как сделать planeTracking в Spark AR на пример
 vxO2J6jMVAg // Как создать гифку - делаем GIF анимацию в Photoshop
 Qh-Y9k8YaVw // Как создать маску рандомайзер в Spark AR
 0N2d0BIwvbw // Как сделать маску в Инстаграм танцующего персонажа в Spark AR
+TrjepZKDJNY // Как сделать маску с пресетом и сглаживанием кожи в Инстаграм - Spark AR
 
 # Виктория Прежняя
 zYPMEIKNi9E // Знакомство с SPARK AR
