@@ -236,6 +236,11 @@ EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark A
 XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Facebook | Spark AR Tutorial
 yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Facebook | Spark AR Tutorial
 
+# Iris tracking
+MwxctcV2kc4 // Spark AR - Easy iris tracking and change color on a black and white background + Color segmentation
+h72hzXEfjdM // Spark AR - Iris Tracking Instagram Filter
+36kJ6iNKu6I // Spark AR Iris Tracking e trocar cor de olho!
+
 # LUT
 lxF-ecbkbr4 // Color LUTs in Spark AR
 tp12y4ex2W8 // Color LUTs in Spark AR part 2
