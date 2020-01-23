@@ -51,6 +51,21 @@ def generate_facebook_thumbnails(site):
         img.save(outfile, "JPEG")
         print("Saved %s" % outfile)
 
+def generate_channel_thumbnails(site):
+    channel_ids = "UCh2gFKv1dmrTxmMRgzchmrQ UC3zmATtNhDuYOketH1zF5sw UCfgGh_akZMp7t_ln7t5OnPQ UC2Cixv8Y6__g2tO8_AlJD0A UC4-1nuI6rLNfCGf3Zzh4RYA UCZMGG9QLteZtdEkEoRjeE1w UC5K-VEQJLcBJZqjzp7LFowQ UCw-3EcRVMdqQehzfR5JKVzQ UCKqZArZmJK3jbqUj2Dth3uA UCI2CajpqcsjV8iGgUoljDJw UCYTyihvxy6KEcQrzXzp5j-w UCgluiH_ayEPx4mor_08nkGw UCWkSJvFF7m-CstbIh9YnKYw UCjwbuWu-ORxglkjo6NoS-7g UCcFy_yfaBHp2z-fceORWsWg UCIklWn98ibY3l6cPtNN4c5Q UCtTBLIjp8tpto5R9JYM8BNg UCXzGwiho8xLhl11uGAhuNuA UC4-phUrGgm63fZ9qZ1GOxBQ UCDWHU8_AeK4ZcgCnrN7lUUQ UCNObtXN2IyZCCppgcq1yapA UCO6QRYjZfbYcdwwHv5vmf3Q UCI7pSUi_CX5ElJGfOl6n4cA UCMCwClnJbWBiu_hbDKhVPlQ UCcx9UsvNp6HVsbQ7PJilk1w UCAHV1Y1ufvxC_cclL0GjOCw UC_ycBf44SNpOc7w6kvYkufA UCtoRX-yMVpmlJFmo8i9aZyQ".split(" ")
+    for g in site.groups:
+        cid = site.video_data[g.ids[0]].channel_id
+        if (cid in channel_ids):
+            ids = sorted(g.ids, key = lambda id: -int(site.video_data[id].view_count))[:4]
+            print(ids)
+            video_data = {id:site.video_data[id] for id in ids}
+            download_all(video_data)
+            img = image_helper.group_thumbnail_collage(site, ids)
+            outfile = util.get_channel_banner_path(config.out_dir, cid)
+            img.save(outfile, "JPEG")
+            print("Saved %s" % outfile)
+    
+
 def main():
     master = master_site(config)
     site = master.global_site
@@ -65,7 +80,8 @@ def main():
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2020-01-13')
+    #generate_custom_week_thumbnails(site, ids, 'week-2020-01-13')
+    generate_channel_thumbnails(site)
 
 
 if __name__ == "__main__":

@@ -136,20 +136,25 @@ def dump_channel_stat(site, video_data):
     results = []
     for g in site.groups:
         l = len(g.ids)
-        if l > 20:
+        if l > 10:
             first_vid = video_data[g.ids[0]]
             c = {
               'title': g.title,
               'num_videos': l,
               'combined_views': sum([int(video_data[id].view_count) for id in g.ids]),
               'url': 'https://youtube.com/channel/%s' % first_vid.channel_id,
+              'channel_id': first_vid.channel_id,
             }
             results.append(c)
     results = sorted(results, key = lambda c: -c['num_videos'])
     rank = 0
     for c in results:
         rank += 1
-        print("#%d | %s videos\n%s\n%s" % (rank, c['num_videos'], c['title'], c['url']))
+        print("%s # %s" % (c['channel_id'],  c['title']))
+        #print("#%d | %s videos\n%s\n%s" % (rank, c['num_videos'], c['title'], c['url']))
+
+    print()
+    print(" ".join([c['channel_id'] for c in results]))
     return results
 
 def stat_html(stat):
@@ -180,7 +185,7 @@ def main():
     #dump_top_videos(site)
     #dump_monthly_stat(site.video_data)
     
-    #stat['channels'] = dump_channel_stat(site, site.video_data)
+    dump_channel_stat(site, site.video_data)
     #html = stat_html(stat)
     #print(html)
 

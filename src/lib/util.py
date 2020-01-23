@@ -89,6 +89,16 @@ def topic_banner_generated(out_dir, g):
     path = get_topic_banner_path(out_dir, g)
     return os.path.exists(path)
 
+def channel_banner_generated(out_dir, id):
+    path = get_channel_banner_path(out_dir, id)
+    return os.path.exists(path)
+
+def get_channel_banner_path(out_dir, slug):
+    return "%s/assets/banner/channel-%s.jpg" % (out_dir, slug)
+
+def get_channel_banner_url(config, slug):
+    return "%s/assets/banner/channel-%s.jpg" % (config.site_config.url, slug)
+
 def get_logo_url(config):
     return "%s/assets/logo2.png" % (config.site_config.url)
 

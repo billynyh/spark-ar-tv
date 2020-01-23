@@ -108,6 +108,10 @@ def single_channel_pages(site, config):
         channel_id = first_vid.channel_id
         page_config = PageConfig(config.site_config.page_config)
         page_config.title = "%s | Spark AR TV" % x.title
+        if util.channel_banner_generated(config.out_dir, channel_id):
+            page_config.og_image = util.get_channel_banner_url(config, channel_id)
+        else:
+            page_config.og_image = util.get_logo_url(config)
         pages.append((
             "channels/%s.html" % channel_id,
             html_helper.gen_single_channel_html(site, page_config, x)
