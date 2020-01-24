@@ -191,6 +191,7 @@ def load_site_data(config, path, video_cache, merge_small_groups = True):
     site.most_viewed = most_viewed
     site.latest = latest
     site.groups_by_time = group_by_time(video_data)
+    site.num_videos = len(all_youtube_ids)
     return site
 
 def load_global_groups(config, video_cache):

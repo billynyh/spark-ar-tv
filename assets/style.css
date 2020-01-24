@@ -52,6 +52,16 @@ a, a:hover {
   background: none;
   padding: .2em .2em;
 }
+.sidebar .lang-toggle {
+  padding: .2em .2em;
+  display: block;
+}
+.sidebar .lang-toggle.collapsed::before {
+  content: 'More languages';
+}
+.sidebar .lang-toggle::before {
+  content: '^';
+}
 
 /* video */
 .vid {

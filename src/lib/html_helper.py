@@ -5,6 +5,9 @@ from lib import debug_util
 from lib import util
 from lib.nav_helper import get_navs
 
+def large_thumb(ids):
+    return len(ids) <= 12
+
 class HtmlHelper:
 
     master = None
@@ -59,7 +62,7 @@ class HtmlHelper:
             site = site,
             page = page,
             week = week, 
-            large_thumb= True)
+            large_thumb = large_thumb(week.ids))
      
     def gen_topic_list_html(self, site, page):
         t = self.get_template('topics.html')
@@ -74,7 +77,7 @@ class HtmlHelper:
             site = site,
             page = page,
             topic = topic,
-            large_thumb = True)
+            large_thumb = large_thumb(topic.ids))
 
     def gen_single_channel_html(self, site, page, group):
         t = self.get_template('single_channel.html')
@@ -82,7 +85,7 @@ class HtmlHelper:
             site = site,
             page = page,
             group = group,
-            large_thumb = False,
+            large_thumb = large_thumb(group.ids),
             use_yt_channel_url = True,
             )
 

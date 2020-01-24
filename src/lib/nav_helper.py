@@ -51,14 +51,17 @@ class NavItem:
 def get_topic_nav(site):
     return [TopicNavItem(t, util.topic_page_url(site, t)) for t in site.topics]
 
-def get_lang_nav(site):
-    languages = ['global'] + site.site_config.languages
-    return [LangNavItem(lang, "%s/%s/index.html" % (site.url, lang)) for lang in languages]
+def get_lang_nav(site, langs):
+    return [LangNavItem(lang, "%s/%s/index.html" % (site.url, lang)) for lang in langs]
 
 def get_navs(master, site):
+    languages = site.site_config.languages
+    top_langs = ['global'] + [l for l in languages if master.lang_sites[l].num_videos > 100]
+    secondary_langs = [l for l in languages if not l in top_langs]
     # language nav, topic nav
     navs = {
-        'lang': get_lang_nav(site),
+        'top_lang': get_lang_nav(site, top_langs),
+        'secondary_lang': get_lang_nav(site, secondary_langs),
         'topic': get_topic_nav(master.global_site),
         'other': []
     }
