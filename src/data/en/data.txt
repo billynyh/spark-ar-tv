@@ -101,6 +101,9 @@ QB954GF0uSI // Voice Changer | Spark AR
 iG9sMY6j-gA // 3D Random Image Effect | Spark AR Studio
 Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
 
+# Cindy Gozali
+GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
+
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
 
@@ -255,6 +258,9 @@ CuyYy4ZmspU // SparkAR talking hamburger
 # lucas klubb
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
 
+# Lucian Lupu
+gX8SItNwyts // HOW TO CREATE A FIGHT CLUB FILTER
+
 # Luis R. Guajardo Díaz
 8lPnk4qmGGQ // Spark AR SpriteSheet Tutorial, how to make popcorn particles with a spritesheet.
 
@@ -338,6 +344,7 @@ L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 # Penguin Tech
 IVXKkBbGqpM // AR VR using Spark AR Framework  - Getting Started with AR & VR
 R6LUYbhffLs // How to start with AR VR  Framework -Develop  Project from scratch
+78pe0ugVMrI // Drone simulation in AR Spark | AR studio | AR game logic | AR VR Animation
 
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
@@ -494,7 +501,7 @@ zUNTsc23-Vg // Old tape / TV interference effect SPARK AR
 saBMUfgP_S4 // CHANGE EYEs COLOR (PUPILS) SPARK AR
 nnF8SswYank // Witcher Yennefer of vengerberg EFFECT / SPARK AR Instagram mask
 qoJEBA2Jh-M // CHANGE EYE COLOR for INSTAGRAM / SPARK AR tutorials
-PcF92LnOOXc // What character are you? / QUIZ Effect Spark AR  / Disney, shrek & everything
+PcF92LnOOXc // What character are you? / QUIZ Effect Spark AR  / What are you?
 
 # Vidushi Agarwal
 kSSFQraSvSE // Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)

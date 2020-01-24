@@ -10,6 +10,9 @@ YWD7XNna0Gk // Caffeuccio - il filtro di Barbara D'urso  // Spark ar tutorial - 
 # Arcangelo Caiazzo
 3QytTxgOWVU // CREARE I FILTRI PER INSTAGRAM  IN 10 MINUTI
 
+# Cesare Ferrari
+Ks209IFFeSY // Creiamo un filtro AR per Instagram con Spark AR Studio
+
 # DebeeMama
 fiqB_K_fxo4 // 💁TUTORIAL 1 SPARK AR STUDIO: CREARE UN FILTRO IG/FB MAKE-UP CON SPARK AR STUDIO
 hOL-FZgAYYE // 💁TUTORIAL 2 SPARK AR STUDIO: PARTICLE CHE ESCONO DAGLI OCCHI
@@ -55,10 +58,11 @@ gtGxxAIUqyE // SPARK AR ITA - COME CREARE UNA MASCHERA GLOW IN SEQUENZA SU SPARK
 sA30xQxXTKM // SPARK AR TUTORIAL ITA- Come creare una sequenza animata partendo da un'immagine singola -
 sAHkUlUAT-E // Spark Ar - ITA - Come estrarre la texture facciale e posizionarla sopra ad uno sfondo personalizzato
 1r7nagauHnU // SPARK AR EASY FILTER TUTORIAL - HOW TO MAKE DUOTONE & TRITONE FILTER/EFFECTS + HUE LOOPING ANIMATION
-a0lrNep4yQo // spark ar tutorial  - FAST AND EASY "kira kira" Be like effect on SPARK AR using the new update v.78
+a0lrNep4yQo // HOW TO MAKE INSTAGRAM FILTERS  - Fast "kira kira" color effect tutorial on SPARK AR update v.78
 h6208mfKuoA // Spark ar - Tutorial easy texture distortion creative using SPARK AR library ONLY in v.78
-MwxctcV2kc4 // Spark AR - Easy iris tracking and change color on a black and white background + Color segmentation
+MwxctcV2kc4 // HOW TO MAKE INSTAGRAM FILTERS-Easy Tutorial iris tracking on black and white in spark ar v.80+extra
 TGwbZf6xnR4 // HOW TO MAKE INSTAGRAM FILTERS - Split image camera glitch - Spark Ar tutorial Free project download
+Or_d5ulXPXI // HOW TO MAKE INSTAGRAM FILTERS - Download free Spark Ar templates on Filtroo.com
 
 # Sebiforce
 xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram

@@ -24,6 +24,7 @@ POJQjeJ72gg // Usando Deformação de Rosto e Plástica em filtros - Spark Ar pa
 huWKGCCJH2U // Varíos filtros em um tocando na tela - Spark Ar para Iniciantes #13
 -MpQutcrAN4 // Como fazer filtro com objetos girando em volta da cabeça - Spark Ar para Iniciantes #14
 99wNU14mcKI // Tutorial joguinho frases que param ao tocar na tela - Spark Ar para Iniciantes #15
+1R_541RWsnM // Como funciona o processo de aprovação dos filtros? - Spark Ar para Iniciantes #16
 
 # Carol Oliveira
 Fry3niEClf4 // COMO CRIAR O SEU FILTRO NO INSTAGRAM?
@@ -50,6 +51,9 @@ oe0cFx5Xg9M // Spark AR Studio Filtros Instagram - Como Trocar Cor dos Olhos #Sp
 91QvILIuSqc // Spark AR Studio Filtros Instagram - Como capturar mais de um rosto #SparkAR #Instagram #Tutorial
 YsQ-M82DUFE // Spark AR Studio Filtros Instagram - Inserir Personagem com Movimento #SparkAR #Instagram #Tutorial
 wzkwNlUKK0g // Spark AR Studio Filtros Instagram - Como inserir inseto 3d no rosto
+
+# Erick Veiga
+NGfOHapshd4 // TESTANDO os MELHORES FILTROS do INSTAGRAM 2020
 
 # Filipe Coelho
 RLpr8VVBxRI // COMO FAZER FILTRO NO INSTAGRAM STORIES - Spark AR Studio
