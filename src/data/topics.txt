@@ -390,7 +390,6 @@ d_2KU0gLkqY // Spark AR Tutorial Target Tracker. Создаем дополнен
 w6beb3zwuHA // Как сделать привязку маски к вывеске/монитору/логотипу в Spark AR. Создаём Fixed Target Tracker.
 
 # Random image game / head quiz
-https://www.youtube.com/watch?v=o5YCrMRT_7o
 2JHSVWRLuBI // Head Quiz - Games Filter Instagram  | Realidad Aumentada
 M4QSecKIzjE // Spark AR - Random Image Sequence | Filter Parecidos Razonables
 sZFPSi0eZE4 // Как создать маску "КТО ТЫ ИЗ" instagram сторис/ Случайный подбор картинок/SPARK AR mask фильтр
@@ -430,6 +429,7 @@ Nl7ol3nFenk // Маска-тест "КТО ТЫ ИЗ?" ✧ Дополнения.
 9TTPC_6aTXo // Маска-тест "КТО ТЫ ИЗ?" ✧ Дополнения. Часть 2 ~ Quiz filter test "WHO ARE YOU?" in Spark AR
 Pu7qlt6u-X0 // Маска-тест "КТО ТЫ ИЗ?" ✧ Дополнения. Часть 3 ~ Quiz filter test "WHO ARE YOU?" in Spark AR
 gvnvZjN5TRA // КАК СДЕЛАТЬ МАСКУ-ТЕСТ В SPARK AR?ТРЕНД 2020/GAME/RANDOM
+o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR

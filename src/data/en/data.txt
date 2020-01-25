@@ -1,6 +1,3 @@
-# x
-https://www.youtube.com/watch?v=o5YCrMRT_7o
-
 # 10Tech Productions
 sW4RETvSTbA // How To Create  Instagram Face Filters And AR Effect
 
@@ -286,6 +283,9 @@ sBoMUuuxC0A // Spark AR: Instagram Filters - Getting Started: Sharing Patches
 FTCHx4QrqPQ // Spark AR: Instagram Filters - Smooth Head Tracking
 VinrQWhv0ss // Spark AR: Instagram Filters - Image Compression
 
+# Mahesh Parab
+NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter paint effect | Spark AR Studio Tutorial
+
 # Manhsplains
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
 azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting around the mouth and eyes
@@ -314,6 +314,9 @@ WECBaYICiPo // Spark AR: Maru Studio 2019 Recap
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
 OLCipWve774 // Reflective Glass Shader for Spark AR
+
+# mnvshr
+RJvGwR0ro4Q // Create an Instagram Color Filter in Spark AR | Beginner Tutorial
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -510,6 +513,9 @@ saBMUfgP_S4 // CHANGE EYEs COLOR (PUPILS) SPARK AR
 nnF8SswYank // Witcher Yennefer of vengerberg EFFECT / SPARK AR Instagram mask
 qoJEBA2Jh-M // CHANGE EYE COLOR for INSTAGRAM / SPARK AR tutorials
 PcF92LnOOXc // What character are you? / QUIZ Effect Spark AR  / What are you?
+
+# Varun Raikar
+o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
 
 # Vidushi Agarwal
 kSSFQraSvSE // Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)
