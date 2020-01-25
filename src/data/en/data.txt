@@ -1,3 +1,6 @@
+# x
+https://www.youtube.com/watch?v=o5YCrMRT_7o
+
 # 10Tech Productions
 sW4RETvSTbA // How To Create  Instagram Face Filters And AR Effect
 
@@ -315,6 +318,7 @@ OLCipWve774 // Reflective Glass Shader for Spark AR
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
 jNGK9Q7oSsA // Watch me build #2 │Spark Ar
+wQyHIBDjY50 // Watch me build #3 │Spark Ar
 
 # Newcolor Interface Design
 7RsYYY51S5k // Sketching for Spark AR Studio: Ego Death
@@ -365,6 +369,7 @@ bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam
 sr4lLqU4FJ4 // Multiple Material for single object in code || Spark AR || Instargam Filter || Rbkavin
 9vfG47-OrXY // How to reduce Size of your 3d model for spark ar in blender|| Spark AR ||Instargam Filter || Rbkavin
 Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -530,6 +535,7 @@ jkYt6_8RiDw // [ NOOB MAKES INSTAGRAM FILTER ] Learning Spark AR to create my fi
 z-30w6mVaA8 // [ 3D SCULPTING IN FORGER APP (iPad) ] Dr. Stone Suika mask modeling. PART 2 (NOT TUTORIAL)
 U5m2_3SX0zE // [ NOOB UV MAPPING TUTORIAL - BLENDER 2.8 ] adding Color to 3D models
 2KpTPDUVJ8A // [1 Month Into Spark Ar, What had I made? ] - ANIME FILTERS!
+7jRWFipMpHc // I got Invited to Facebook SparkAR Hackathon, 2 months after I started learning SparkAR
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74

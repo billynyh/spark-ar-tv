@@ -325,12 +325,11 @@ yIMuUnvtxMg // Native UI Picker Spark AR turoial indonesia + Project File
 BEYHNvC2ZwU // КАК СДЕЛАТЬ РЕГУЛИРОВКУ В SPARK AR/Native./SLIDER
 
 # Neon light
+qKj6tSOolqk // Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación -
+5dUVBjjKy0k // CyberNeon (CN) - Spark AR Studio [Tutorial]
+H4JIKO6kexc // Instagram Filter Neon Mask (Basic) - Instagram Filtresi Nasıl Yapılır?
+_eF0PdZpQLE // Spark AR Criando efeito Neon!
 YLCrsSXrvYE // Неон, добавление неонового plane и 3D анимация
-_eF0PdZpQLE // Spark AR Criando efeito Neon! | 2019-10-23
-H4JIKO6kexc // Instagram Filter Neon Mask (Basic) - Instagram Filtresi Nasıl Yapılır? | 2019-10-15
-5dUVBjjKy0k // CyberNeon (CN) - Spark AR Studio [Tutorial] | 2019-10-12
-qKj6tSOolqk // Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación - | 2019-08-13
-
 
 # Occluder / Occlusion
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -391,6 +390,7 @@ d_2KU0gLkqY // Spark AR Tutorial Target Tracker. Создаем дополнен
 w6beb3zwuHA // Как сделать привязку маски к вывеске/монитору/логотипу в Spark AR. Создаём Fixed Target Tracker.
 
 # Random image game / head quiz
+https://www.youtube.com/watch?v=o5YCrMRT_7o
 2JHSVWRLuBI // Head Quiz - Games Filter Instagram  | Realidad Aumentada
 M4QSecKIzjE // Spark AR - Random Image Sequence | Filter Parecidos Razonables
 sZFPSi0eZE4 // Как создать маску "КТО ТЫ ИЗ" instagram сторис/ Случайный подбор картинок/SPARK AR mask фильтр
