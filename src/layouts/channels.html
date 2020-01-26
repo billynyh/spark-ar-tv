@@ -1,3 +1,38 @@
 <%inherit file="base.html" />
+<%
+from lib import util
+cls = "vid-col col-xl-2 col-lg-3 col-sm-4"
+%>
 
-<%include file="_groups.html" args="site=site,groups=site.groups" />
+<h1>Channels</h1>
+
+<div class="row">
+% for g in site.groups_by_num_videos:
+<%
+v = site.video_data[g.ids[0]]
+channel_id = v.channel_id
+url = util.channel_page_url(site, channel_id)
+title = g.title
+description = "Num videos: %d" % len(g.ids)
+thumbnail_url = v.thumbnail_url
+%>
+<div class="${cls}">
+<div class="vid">
+  <div class="thumb-container">
+    <div class="thumb-wrapper">
+      <a href="${url}" target="_blank">
+        <img data-src="${thumbnail_url}">
+      </a>
+    </div>
+  </div>
+  <div class="title">
+    <a href="${url}">${title}</a>
+  </div>
+  <div class="meta">
+    <a href="${url}">${description}</a>
+  </div>
+</div>
+</div>
+% endfor
+
+</div>

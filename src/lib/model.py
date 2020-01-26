@@ -39,6 +39,7 @@ class Site:
     site_config = None
     groups = None
     groups_by_time = None
+    groups_by_num_videos = None
     most_viewed = None
     latest = None
     topics = None

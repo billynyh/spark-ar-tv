@@ -159,6 +159,9 @@ def group_by_time(video_data):
         start_date = end_date
     return groups
 
+def sort_by_num_videos(groups):
+    return sorted(groups, key = lambda group: -len(group.ids))
+
 def load_site_data(config, path, video_cache, merge_small_groups = True):
     api_key = config.api_key
     ph = PathHelper(path)
@@ -191,6 +194,7 @@ def load_site_data(config, path, video_cache, merge_small_groups = True):
     site.most_viewed = most_viewed
     site.latest = latest
     site.groups_by_time = group_by_time(video_data)
+    site.groups_by_num_videos = sort_by_num_videos(groups)
     site.num_videos = len(all_youtube_ids)
     return site
 
@@ -236,6 +240,7 @@ def global_site(config, video_cache):
     site.site_config = config.site_config
     site.lang = "global"
     site.groups = load_global_groups(config, video_cache)
+    site.groups_by_num_videos = sort_by_num_videos(site.groups)
 
     site.topics = parse("data/topics.txt")
     site.facebook = parse("data/facebook.txt")
