@@ -127,6 +127,7 @@ FxShbrOnQko // Spark AR #09: Face Swap
 I-pqkM3f468 // SparkAR XRay Test!!
 Bpvyajfe6sY // Spark AR #10 Tutorial: Shaders / Filter Effects
 z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
+_aQ9N0pOI5w // Spark AR Speaker Event : Spark AR Overview + Interactive Filter Workshop
 
 # editing by matthieu
 43R0J_urrzo // CREATE YOUR INSTAGRAM STORY FILTERS
@@ -284,7 +285,11 @@ FTCHx4QrqPQ // Spark AR: Instagram Filters - Smooth Head Tracking
 VinrQWhv0ss // Spark AR: Instagram Filters - Image Compression
 
 # Mahesh Parab
+rR_9IEvHsoY // ANIMATION CLIP MASKING TEXT IN CSS
 NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter paint effect | Spark AR Studio Tutorial
+
+# Manav Sharma
+S7Fm6f1cRbc // Create an Instagram Color Filter in Spark AR | Beginner Tutorial
 
 # Manhsplains
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
@@ -314,9 +319,6 @@ WECBaYICiPo // Spark AR: Maru Studio 2019 Recap
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
 OLCipWve774 // Reflective Glass Shader for Spark AR
-
-# mnvshr
-RJvGwR0ro4Q // Create an Instagram Color Filter in Spark AR | Beginner Tutorial
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT

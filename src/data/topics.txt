@@ -1,28 +1,3 @@
-# Patch Editor
-_eYKhKMIiTA // Gradient Colour Filter Effect (Tap Change, Patch Editor) | Instagram & Facebook | Spark AR Tutorial | 2020-01-22
-D9rEDcY8XE0 // Alternate Layer Material (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial | 2020-01-19
-9P2NbVhqj9Y // Change Background Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial | 2020-01-17
-kJvRmXMvtGk // Censor Bar Tap to Change Filter Effect (Patch Editor) | Instagram & Facebook | Spark AR Tutorial | 2020-01-14
-hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial | 2020-01-11
-qO-arATN7SM // Eye Colour Tap to Change  (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial | 2020-01-09
-tapb5vDwgk0 // Tap to Change Mesh Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial | 2020-01-08
-cjBFWnPJfQM // Tap to Change Plane Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial | 2020-01-07
-y8VK_EOVN08 // Spark AR Studio Tutoriel - Patch Editor : Comment avoir 5 Options de Couleurs ? | 2019-12-18
-s3YMCYgTEz0 // Spark AR #08: Patch Editor - UI buttons | 2019-12-07
-bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin | 2019-12-03
-qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders | 2019-11-19
-bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders | 2019-11-18
-LBcaPikm9QQ // Spark AR Studio Tutoriel - Patch Editor : Comment faire une rotation ? | 2019-11-14
-kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ? | 2019-11-12
-Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ? | 2019-11-11
-EvTyGWdPr0k // Spark AR Studio Tutoriel en Français - Patch Editor  : Comment changer la voix ? | 2019-11-09
-idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid] | 2019-11-03
-u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor | 2019-10-10
-fj7U27H-B1c // Spark AR: Instagram Filters - Getting Started: Patch Editor | 2019-09-28
-KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patch Editor | 2019-09-14
-9xmR2FAsMvM // AR Spark | Playing with Face Mesh lighting effects and patch editor | 2019-09-13
-S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation | 2019-03-20
-
 # 3D model
 9HifpKbhI4w // Spark AR: Interacting with 3D objects
 Z5qrCrQaLX0 // Spark ar studio уроки. 3 урок - 3D объекты.Как создать свою маску Инстаграм. Видеоуроки
@@ -325,7 +300,6 @@ S7Gc7xGkc70 // Spark AR | Lightroom (Presets) Hazır Ayarlarınızı İnstagram 
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
 G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Anthi
-RJvGwR0ro4Q // Create an Instagram Color Filter in Spark AR | Beginner Tutorial
 
 # Music videos
 00qF95f6qBs // Grimes - Pretty Dark  {Demo}
@@ -400,6 +374,31 @@ fEUS-rY6DU8 // Glitter Effect Tutorial for Spark AR
 XTqMshFg6Rg // Bokeh Particles in Spark AR
 6RNYsFzwdaY // สอนทำฟิลเตอร์ IG EP2: Particle ออกจากปาก ร่วงจากฟ้า
 ouWXN2BLMkc // Анимация Particle System
+
+# Patch Editor
+S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
+9xmR2FAsMvM // AR Spark | Playing with Face Mesh lighting effects and patch editor
+KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patch Editor
+fj7U27H-B1c // Spark AR: Instagram Filters - Getting Started: Patch Editor
+u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
+idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
+EvTyGWdPr0k // Spark AR Studio Tutoriel en Français - Patch Editor  : Comment changer la voix ?
+Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
+kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
+LBcaPikm9QQ // Spark AR Studio Tutoriel - Patch Editor : Comment faire une rotation ?
+bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
+qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
+bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
+s3YMCYgTEz0 // Spark AR #08: Patch Editor - UI buttons
+y8VK_EOVN08 // Spark AR Studio Tutoriel - Patch Editor : Comment avoir 5 Options de Couleurs ?
+cjBFWnPJfQM // Tap to Change Plane Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+tapb5vDwgk0 // Tap to Change Mesh Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+qO-arATN7SM // Eye Colour Tap to Change  (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial
+kJvRmXMvtGk // Censor Bar Tap to Change Filter Effect (Patch Editor) | Instagram & Facebook | Spark AR Tutorial
+9P2NbVhqj9Y // Change Background Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+D9rEDcY8XE0 // Alternate Layer Material (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+_eYKhKMIiTA // Gradient Colour Filter Effect (Tap Change, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 
 # Plane tracker / Target tracker
 ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
