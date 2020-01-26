@@ -50,7 +50,6 @@ Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas pr
 k5JAL8qIzr0 // Spark AR 04 : Place a 3D animated object in the real world
 0B-1wH1U2EM // Spark AR Crie seu Game com Play/Pause em animação
 5uPNwr5OWQo // How to Create a ShapeKey Animation in Blender 2.8 that Works in Sparkar Version 76
-sA30xQxXTKM // SPARK AR TUTORIAL ITA- Come creare una sequenza animata partendo da un'immagine singola -
 E9CSdsVy0CY // 💁TUTORIAL 5 SPARK AR STUDIO: COME CREARE SFONDI (STATICI E ANIMATI) E CORNICI SUI FILTRI IG/FB
 cOwnk5XV7T4 // Tutorial: Animating 3D Objects
 iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tutorial
@@ -275,7 +274,6 @@ X2w_YLkt-jQ // Colour Grading (LUT) - Spark AR Studio
 2P7KO8QNNPw // 💁TUTORIAL 3 SPARK AR: CREARE UN FILTRO IG/FB CON I PRESET LIGHTROOM
 ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 v8H4R0IEzaY // SparkAR - Presets Lightroom como Filtros no Instagram - LUT
-e97Q7Vq2UXs // Crie seu filtro preset para o Instagram  - SPARK AR
 qG3xtTl_J74 // HOW TO CREATE A COLOR THEMED INSTAGRAM FILTER // LEARN SOMETHING
 zBnUycncDhM // Cómo crear Luts para Spark AR con Lightroom | Tutorial en español
 DdVTOUUBRXg // Урок 25 - Фильтр с ретушью Spark AR. Как сделать маску с фильтром Спарк. LUT and retouch spark ar
