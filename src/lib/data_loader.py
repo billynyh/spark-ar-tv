@@ -186,6 +186,7 @@ def load_site_data(config, path, video_cache, merge_small_groups = True):
     video_data = load_video_data(all_youtube_ids, video_cache, api_key)
 
     # merge and sort
+    groups_by_num_videos = sort_by_num_videos(groups) # set before merge
     groups = process_groups(groups, video_data, merge_small_groups)
 
     site = Site()
@@ -194,7 +195,7 @@ def load_site_data(config, path, video_cache, merge_small_groups = True):
     site.most_viewed = most_viewed
     site.latest = latest
     site.groups_by_time = group_by_time(video_data)
-    site.groups_by_num_videos = sort_by_num_videos(groups)
+    site.groups_by_num_videos = groups_by_num_videos
     site.num_videos = len(all_youtube_ids)
     return site
 
