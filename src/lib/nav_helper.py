@@ -29,30 +29,30 @@ CHANNEL_LIST_DISPLAY_NAME = {
   'featured': 'Featured channels',
 }
 
-class TopicNavItem:
-    def __init__(self, topic, url):
-        self.show_video_count = True
-        self.title = topic.title
-        self.video_count = len(topic.ids)
-        self.url = url
+def get_lang_nav_item(site, lang):
+    title = LANG_DISPLAY_NAME[lang]
+    url = "%s/%s/index.html" % (site.url, lang)
+    return {
+        'title': title,
+        'url' : url,
+        'video_count': 0,
+    }
 
-class LangNavItem:
-    def __init__(self, lang, url):
-        self.show_video_count = False
-        self.title = LANG_DISPLAY_NAME[lang]
-        self.url = url
-
-class NavItem:
-    def __init__(self, title, url):
-        self.show_video_count = False
-        self.title = title
-        self.url = url
+def get_topic_nav_item(site, topic):
+    title = topic.title
+    url = util.topic_page_url(site, topic)
+    video_count = len(topic.ids)
+    return {
+        'title': title,
+        'url' : url,
+        'video_count': video_count,
+    }
 
 def get_topic_nav(site):
-    return [TopicNavItem(t, util.topic_page_url(site, t)) for t in site.topics]
+    return [get_topic_nav_item(site, t)  for t in site.topics]
 
 def get_lang_nav(site, langs):
-    return [LangNavItem(lang, "%s/%s/index.html" % (site.url, lang)) for lang in langs]
+    return [get_lang_nav_item(site, lang) for lang in langs]
 
 def get_navs(master, site):
     languages = site.site_config.languages
@@ -60,9 +60,9 @@ def get_navs(master, site):
     secondary_langs = [l for l in languages if not l in top_langs]
     # language nav, topic nav
     navs = {
-        'top_lang': get_lang_nav(site, top_langs),
-        'secondary_lang': get_lang_nav(site, secondary_langs),
-        'topic': get_topic_nav(master.global_site),
+        'top_langs': get_lang_nav(site, top_langs),
+        'secondary_langs': get_lang_nav(site, secondary_langs),
+        'topics': get_topic_nav(master.global_site),
         'other': []
     }
     return navs

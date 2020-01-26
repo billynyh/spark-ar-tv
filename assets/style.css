@@ -33,7 +33,12 @@ a, a:hover {
 }
 
 /* sidebar */
-.toggled .sidebar {
+.sidebar-wrapper {
+  width: 15%;
+  min-width: 180px;
+}
+
+.toggled .sidebar-wrapper {
   display:none;
 }
 .sidebar .nav-item {
@@ -50,7 +55,8 @@ a, a:hover {
 
 .sidebar .list-group-item {
   background: none;
-  padding: .2em .2em;
+  padding: .3em .2em;
+  border: none;
 }
 .sidebar .lang-toggle {
   padding: .2em .2em;

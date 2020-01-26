@@ -149,9 +149,9 @@ def gen_lang_site(site, config):
             outfile.write(page[1])
             print("Generated %s" % outfile.name)
 
-def gen_global_json(site, config):
+def gen_global_json(master, site, config):
     pages = [
-        ('nav.json', json_helper.nav_json(site))
+        ('nav.json', json_helper.nav_json(master))
     ]
     out_dir = "%s/global" % (config.out_dir)
     for page in pages:
@@ -164,7 +164,7 @@ def gen_global_site(master):
     site = master.global_site
 
     gen_lang_site(site, config)
-    gen_global_json(site, config)
+    gen_global_json(master, site, config)
 
 def gen_site(config):
     master = master_site(config)
