@@ -93,6 +93,7 @@ _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
 6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
 Hzmyt-s_bZs // Spark AR Scripting Tutorial #1: Move items by screen tap
+eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Beauty / Makeup / Lipstick
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -295,6 +296,8 @@ q626kHEuzNk // Spark AR Membuat color LUTs menerapkan Presets dan Profiles Light
 S7Gc7xGkc70 // Spark AR | Lightroom (Presets) Hazır Ayarlarınızı İnstagram Efekti Yapma
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
+G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Anthi
+RJvGwR0ro4Q // Create an Instagram Color Filter in Spark AR | Beginner Tutorial
 
 # Music videos
 00qF95f6qBs // Grimes - Pretty Dark  {Demo}
@@ -430,6 +433,9 @@ Nl7ol3nFenk // Маска-тест "КТО ТЫ ИЗ?" ✧ Дополнения.
 Pu7qlt6u-X0 // Маска-тест "КТО ТЫ ИЗ?" ✧ Дополнения. Часть 3 ~ Quiz filter test "WHO ARE YOU?" in Spark AR
 gvnvZjN5TRA // КАК СДЕЛАТЬ МАСКУ-ТЕСТ В SPARK AR?ТРЕНД 2020/GAME/RANDOM
 o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
+cwg4ZDyTm8k // Как сделать маску Инстаграм с вопросами? Готовый шаблон
+SHo68PT7vfA // Уроки Spark AR Random КАРТИНОК и 3D ОБЪЕКТОВ. Маска в инстаграм рандом
+VHuRAwHxMxM // HOW TO MAKE WHICH / WHO ARE YOU FILTER EASY IN 3 MINUTES - FREE DOWNLOAD SPARK AR TEMPLATE
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
@@ -437,6 +443,15 @@ lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena 
 P6GlszoC2Qw // SDF Creating a Twisting effect - Spark AR
 Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
 k9-uaTfpLPg // Spark AR Emissor de partículas girando e SDF
+LtEeW-BZzzA // Spark AR Como criar o efeito Scanner usando SDF!
+
+# Scanner / Rader Effect
+bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
+qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
+pRIH_NL-WEM // Spark AR Studio - Scanner Face
+LcGQ1iS-bAk // Spark AR Studio - Scanner Face V2
+LtEeW-BZzzA // Spark AR Como criar o efeito Scanner usando SDF!
+T3e5iqsk5-c // Scanner ( Face Mesh ) Effect - Spark AR Studio [ Tutorial ]
 
 # Segmentation
 yVjb6iBHFo8 // Body Segmentation with SparkAr Studio
