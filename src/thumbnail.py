@@ -65,23 +65,25 @@ def generate_channel_thumbnails(site):
             img.save(outfile, "JPEG")
             print("Saved %s" % outfile)
     
+def main_topics():
+    master = master_site(config)
+    site = master.global_site
+    generate_topics_thumbnails(site)
+    return
+
+    #generate_channel_thumbnails(site)
 
 def main():
     master = master_site(config)
     site = master.global_site
-    #generate_topics_thumbnails(site)
-    #return
-
-    # generate_week_thumbnails(site)
-    #generate_facebook_thumbnails(site)
-    ids = 'hDTkgxqqTgI VinrQWhv0ss rX41H7yxo8A eLSTvhfQUa4'
+    ids = '7jRWFipMpHc 36kJ6iNKu6I V_mXLdkfB9I 0N2d0BIwvbw'
     ids = ids.split()
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    #generate_custom_week_thumbnails(site, ids, 'week-2020-01-13')
-    generate_channel_thumbnails(site)
+    generate_custom_week_thumbnails(site, ids, 'week-2020-01-20')
+    #generate_channel_thumbnails(site)
 
 
 if __name__ == "__main__":
