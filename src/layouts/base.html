@@ -8,6 +8,7 @@ enable_ga = site.site_config.enable_ga
 og_image = page.og_image
 style_css = asset(context, 'style.css')
 script_js = asset(context, 'script.js')
+play_icon_url = asset(context, 'youtube-play5.png')
 title = page.title
 description = page.description
 %>
@@ -64,7 +65,10 @@ ${next.body()}
     <script>
 
 $(document).ready(function(){
-  initPage('${nav_json_url}');
+  initPage({
+      nav_json_url:'${nav_json_url}',
+      play_icon_url: '${play_icon_url}',
+  });
 });
     </script>
 

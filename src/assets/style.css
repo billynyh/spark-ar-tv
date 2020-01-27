@@ -20,6 +20,10 @@ a, a:hover {
   padding-top:20px;
 }
 
+.video-item {
+  min-height: 150px;
+}
+
 .navbar {
   background-color:#0b1b2b;
 }

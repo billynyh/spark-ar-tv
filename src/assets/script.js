@@ -31,7 +31,37 @@ function createSidebar(data) {
   return wrapper;
 }
 
-function initPage(nav_json_url) {
+function div(cls) {
+  return $('<div/>').addClass(cls);
+}
+
+function link(title, url) {
+  return $('<a/>').attr('href', url).text(title);
+}
+
+function initPage(config) {
+
+$('.video-item').each(function(i, e){
+  e = $(e);
+  const playButton = $('<span/>')
+      .addClass('play-button')
+      .append($('<img />').attr('src', config.play_icon_url));
+  const a = link('', e.attr('data-video-url'))
+      .attr('target', '_blank')
+      .append($('<img/>').attr('data-src', e.attr('data-thumbnail-url')))
+      .append(playButton)
+      ;
+  const tw = div('thumb-wrapper').append(a);
+  const tc = div('thumb-container').append(tw);
+  const title = div('title')
+      .append(link(e.attr('data-title'), e.attr('data-video-url')));
+  const meta = div('meta')
+      .append(link(e.attr('data-channel-title'), e.attr('data-channel-url')))
+      .append("&bull;")
+      .append(e.attr('data-published-at'));
+  const vid = div('vid').append([tc,title,meta]);
+  e.append(vid)
+});
 
 $('.thumb-container img').Lazy({
   effect: 'fadeIn',
@@ -40,7 +70,7 @@ $('.thumb-container img').Lazy({
 })
 
 $.getJSON(
-  nav_json_url,
+  config.nav_json_url,
   function(data) {
     $('#sidebar').html(createSidebar(data));
   }

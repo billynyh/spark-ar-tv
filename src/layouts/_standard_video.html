@@ -16,26 +16,12 @@ if use_yt_channel_url:
 else:
     channel_url = util.channel_page_url(site, obj.channel_id)
 %>
-<div class="${cls}">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="${obj.video_url}" target="_blank">
-          <img data-src="${thumbnail_url}">
-          <span class="play-button">
-            <img src="${play_icon}" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">${obj.duration}</span>
-    </div>
-    <div class="title">
-      <a href="${obj.video_url}">${obj.title}</a>
-    </div>
-    <div class="meta">
-      <a href="${channel_url}">${obj.channel_title}</a>
-      &bull;
-      ${obj.published_at}
-    </div>
-  </div>
-</div>
+<div class="video-item ${cls}"
+    data-video-url="${obj.video_url}"
+    data-thumbnail-url="${thumbnail_url}"
+    data-title="${obj.title}"
+    data-channel-url="${channel_url}"
+    data-channel-title="${obj.channel_title}"
+    data-duration="${obj.duration}"
+    data-published-at="${obj.published_at}"
+></div>
