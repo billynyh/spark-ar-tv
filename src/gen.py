@@ -8,6 +8,7 @@ import config_factory
 import site_config
 from lib.html_helper import HtmlHelper
 from lib import json_helper
+from lib import sitemap_helper
 from lib import util
 from lib import yt_api_util
 from lib.api import ApiDataLoader
@@ -118,9 +119,15 @@ def single_channel_pages(site, config):
         ))
     return pages
         
-        
+def sitemap_page(master, site, config):
+    page_config = PageConfig(config.site_config.page_config)
+    page_config.title = "Sitemap | Spark AR TV" 
+    page_config.og_image = util.get_logo_url(config)
+    sitemap = sitemap_helper.load_sitemap(master, config)
+    page = ("sitemap.html", html_helper.gen_sitemap_html(site, page_config, sitemap))
+    return page
 
-def gen_lang_site(site, config):
+def gen_lang_site(master, site, config):
     lang = site.lang
     out_dir = "%s/%s" % (config.out_dir, lang)
     util.mkdir(out_dir)
@@ -143,6 +150,8 @@ def gen_lang_site(site, config):
     if site.gen_channel_html and config.channel:
         util.mkdir("%s/channels" % out_dir)
         pages += single_channel_pages(site, config)
+    if site.gen_sitemap:
+        pages += [sitemap_page(master, site, config)]
 
     for page in pages:
         with open_out_file(out_dir, page[0]) as outfile:
@@ -163,7 +172,7 @@ def gen_global_site(master):
     config = master.config
     site = master.global_site
 
-    gen_lang_site(site, config)
+    gen_lang_site(master, site, config)
     gen_global_json(master, site, config)
 
 def gen_site(config):
@@ -178,7 +187,7 @@ def gen_site(config):
     else:
         langs = config.site_config.languages
 
-    [gen_lang_site(master.lang_sites[lang], config) for lang in langs]
+    [gen_lang_site(master, master.lang_sites[lang], config) for lang in langs]
     gen_global_site(master)
 
     # Copy assets

@@ -105,6 +105,9 @@ def get_logo_url(config):
 def week_page_path(week):
     return "weeks/%s.html" % week.slug
 
+def week_page_url(site, lang, week):
+    return "%s/%s/%s" % (site.url, lang, week_page_path(week))
+
 def topic_page_path(topic):
     return "topics/%s.html" % topic.slug
 

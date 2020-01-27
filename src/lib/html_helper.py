@@ -108,3 +108,11 @@ class HtmlHelper:
             title = param['title'],
             content = html,
             )
+
+    def gen_sitemap_html(self, site, page, sitemap):
+        t = self.get_template('sitemap.html')
+        return self.render(t,
+            site = site,
+            page = page,
+            sitemap = sitemap,
+            )

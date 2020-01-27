@@ -48,6 +48,7 @@ class Site:
     custom = None
     blogs = None
     gen_channel_html = False
+    gen_sitemap = False
     num_videos = 0
 
 class Group:

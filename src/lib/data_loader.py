@@ -186,7 +186,7 @@ def load_site_data(config, path, video_cache, merge_small_groups = True):
     video_data = load_video_data(all_youtube_ids, video_cache, api_key)
 
     # merge and sort
-    groups_by_num_videos = sort_by_num_videos(groups) # set before merge
+    groups_by_num_videos = sort_by_num_videos(groups) 
     groups = process_groups(groups, video_data, merge_small_groups)
 
     site = Site()
@@ -260,6 +260,7 @@ def global_site(config, video_cache):
     site.custom = load_custom()
     site.blogs = load_blogs()
     site.gen_channel_html = True
+    site.gen_sitemap = True
     return site
 
 def master_site(config, merge_small_groups = True):

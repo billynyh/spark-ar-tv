@@ -1,0 +1,21 @@
+<%inherit file="base.html" />
+<%
+link_cls = "col-3"
+%>
+
+<h1> Sitemap</h1>
+% for (title, links) in sitemap:
+
+% if title:
+<div class="row mt-4"><h5 class="col-12">${title}</h5></div>
+% endif
+
+<div class="row">
+% for (text, url) in links:
+<div class="${link_cls}">
+<a href="${url}" class="pl-4">${text}</a>
+</div>
+% endfor
+</div>
+
+% endfor

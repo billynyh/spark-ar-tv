@@ -29,6 +29,9 @@ CHANNEL_LIST_DISPLAY_NAME = {
   'featured': 'Featured channels',
 }
 
+def lang_display_name(lang):
+    return LANG_DISPLAY_NAME[lang]
+
 def get_lang_nav_item(site, lang):
     title = LANG_DISPLAY_NAME[lang]
     url = "%s/%s/index.html" % (site.url, lang)
