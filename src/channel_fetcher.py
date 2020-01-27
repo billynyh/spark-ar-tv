@@ -37,7 +37,7 @@ def fetch_single(config, master, channel_id):
         for item in items:
             print("%s // %s" % (item.id, item.title))
 
-def fetch_all(config, master, lang, new_only = True, max_result=10):
+def fetch_all(config, master, lang, new_only = True, max_result=10, single_channel_id = None):
     api = ApiDataLoader(DEVELOPER_KEY)
 
     data_dir = "data/%s" % lang
@@ -50,7 +50,13 @@ def fetch_all(config, master, lang, new_only = True, max_result=10):
     cache = load_cache()
 
     print("Fetching channels...")
-    channel_data = api.fetch_channels([c[0] for c in channels])
+    channel_ids = set([c[0] for c in channels])
+    if single_channel_id:
+        if single_channel_id in channel_ids:
+            channel_ids = [single_channel_id]
+        else:
+            channel_ids = []
+    channel_data = api.fetch_channels(list(channel_ids))
     for c in channel_data:
         print("Fetching %s(%s)..." % (c.title, c.playlist))
         items = api.fetch_playlist(c.playlist, max_result=max_result)
@@ -93,18 +99,15 @@ def main():
         cleanup(master)
         return
 
-    if args.id is None:
-        skip_lang = ['fr']
-        langs = config.site_config.languages
-        for lang in langs:
-            if lang in skip_lang:
-                print("Skip fetching %s" % lang)
-                continue
-            print("==== Fetching %s ====" % lang)
-            master = fetch_all(config, master, lang, max_result = args.max)
-        cleanup(master)
-    else:
-        fetch_single(config, master, args.id)
+    skip_lang = ['fr']
+    langs = config.site_config.languages
+    for lang in langs:
+        if lang in skip_lang:
+            print("Skip fetching %s" % lang)
+            continue
+        print("==== Fetching %s ====" % lang)
+        master = fetch_all(config, master, lang, max_result = args.max, single_channel_id = args.id)
+    cleanup(master)
 
 if __name__=="__main__":
     main()
