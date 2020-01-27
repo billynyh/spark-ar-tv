@@ -2,6 +2,7 @@
 <%
 from lib.mako_util import asset
 from lib import util
+import html
 
 play_icon = asset(context, 'youtube-play5.png')
 if large_thumb:
@@ -15,13 +16,15 @@ if use_yt_channel_url:
     channel_url = obj.channel_url
 else:
     channel_url = util.channel_page_url(site, obj.channel_id)
+title = html.escape(obj.title, quote=True)
+channel_title= html.escape(obj.channel_title, quote=True)
 %>
 <div class="video-item ${cls}"
     data-video-url="${obj.video_url}"
     data-thumbnail-url="${thumbnail_url}"
-    data-title="${obj.title}"
+    data-title="${title}"
     data-channel-url="${channel_url}"
-    data-channel-title="${obj.channel_title}"
+    data-channel-title="${channel_title}"
     data-duration="${obj.duration}"
     data-published-at="${obj.published_at}"
 ></div>
