@@ -4,11 +4,12 @@
     file="_featured_banner.html" 
     args="ids=site.most_viewed,video_data=master.global_site.video_data" />
 <%
+GROUPS_TO_SHOW = 3
 if full:
     groups = site.groups_by_time
 else:
-    groups = site.groups_by_time[:4]
-has_more = len(site.groups_by_time) > 4
+    groups = site.groups_by_time[:GROUPS_TO_SHOW]
+has_more = len(site.groups_by_time) > GROUPS_TO_SHOW
 %>
 <%include file="_groups.html" args="site=site,groups=groups" />
 
