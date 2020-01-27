@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=gNhGAKJoOrw" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/gNhGAKJoOrw/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:12</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=gNhGAKJoOrw">İNSTAGRAM FİLTRESİ NASIL YAPILIR ?  | Spark Ar Studio</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCS-Bs07rXr1jjoyM3oKpmWA.html">Alpherr</a>
-      &bull;
-      2019-12-26
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=gNhGAKJoOrw"
+    data-thumbnail-url="https://i.ytimg.com/vi/gNhGAKJoOrw/sddefault.jpg"
+    data-title="İNSTAGRAM FİLTRESİ NASIL YAPILIR ?  | Spark Ar Studio"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCS-Bs07rXr1jjoyM3oKpmWA.html"
+    data-channel-title="Alpherr"
+    data-duration="10:12"
+    data-published-at="2019-12-26"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

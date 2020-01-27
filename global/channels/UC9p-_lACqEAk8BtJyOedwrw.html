@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=7ck3HEVaptc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/7ck3HEVaptc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">18:51</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=7ck3HEVaptc">FB 濾鏡製作 Spark AR Atudio</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC9p-_lACqEAk8BtJyOedwrw">宇潔廖</a>
-      &bull;
-      2019-12-04
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=7ck3HEVaptc"
+    data-thumbnail-url="https://i.ytimg.com/vi/7ck3HEVaptc/sddefault.jpg"
+    data-title="FB 濾鏡製作 Spark AR Atudio"
+    data-channel-url="https://www.youtube.com/channel/UC9p-_lACqEAk8BtJyOedwrw"
+    data-channel-title="宇潔廖"
+    data-duration="18:51"
+    data-published-at="2019-12-04"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=pc4isqdbmhQ" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/pc4isqdbmhQ/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:11</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=pc4isqdbmhQ">Create a face filter from doodle | Beginner Spark AR Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCGsbCMwQeMIvGd4yAFw3Nrw">Liucidity</a>
-      &bull;
-      2019-11-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=pc4isqdbmhQ"
+    data-thumbnail-url="https://i.ytimg.com/vi/pc4isqdbmhQ/sddefault.jpg"
+    data-title="Create a face filter from doodle | Beginner Spark AR Tutorial"
+    data-channel-url="https://www.youtube.com/channel/UCGsbCMwQeMIvGd4yAFw3Nrw"
+    data-channel-title="Liucidity"
+    data-duration="7:11"
+    data-published-at="2019-11-20"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

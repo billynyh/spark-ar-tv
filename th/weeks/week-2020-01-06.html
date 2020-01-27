@@ -76,55 +76,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=lrC37cM7Lxg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/lrC37cM7Lxg/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">15:54</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=lrC37cM7Lxg">สอนทำฟิลเตอร์ไอจีของตัวเอง!! แบบง่ายมากๆ I PATPARTY</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCsydHeGJ4WCLDTSbn-0s7KA.html">PAT PARTY</a>
-      &bull;
-      2020-01-12
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=lrC37cM7Lxg"
+    data-thumbnail-url="https://i.ytimg.com/vi/lrC37cM7Lxg/hqdefault.jpg"
+    data-title="สอนทำฟิลเตอร์ไอจีของตัวเอง!! แบบง่ายมากๆ I PATPARTY"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCsydHeGJ4WCLDTSbn-0s7KA.html"
+    data-channel-title="PAT PARTY"
+    data-duration="15:54"
+    data-published-at="2020-01-12"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=mvMqVyXjZRw" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/mvMqVyXjZRw/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:31</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=mvMqVyXjZRw">สอนทำฟิลเตอร์ไอจี "สุ่มคำตอบ' (Random answer) ภายใน 10นาทีครึ่ง!!</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCUTbQELxf3icqq-nNETEnZw.html">nink phitchapha</a>
-      &bull;
-      2020-01-09
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=mvMqVyXjZRw"
+    data-thumbnail-url="https://i.ytimg.com/vi/mvMqVyXjZRw/hqdefault.jpg"
+    data-title="สอนทำฟิลเตอร์ไอจี "สุ่มคำตอบ' (Random answer) ภายใน 10นาทีครึ่ง!!"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCUTbQELxf3icqq-nNETEnZw.html"
+    data-channel-title="nink phitchapha"
+    data-duration="10:31"
+    data-published-at="2020-01-09"
+></div>
 
 </div>
 
@@ -145,7 +117,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

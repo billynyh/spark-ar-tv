@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=o6xseVJ8lsk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/o6xseVJ8lsk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:57</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=o6xseVJ8lsk">Χρώματα στα Φίλτρα του Instagram | Spark Ar Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCIaNOjtvkWmAocqoqsOxPrQ">Theo Palios</a>
-      &bull;
-      2020-01-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=o6xseVJ8lsk"
+    data-thumbnail-url="https://i.ytimg.com/vi/o6xseVJ8lsk/sddefault.jpg"
+    data-title="Χρώματα στα Φίλτρα του Instagram | Spark Ar Tutorial"
+    data-channel-url="https://www.youtube.com/channel/UCIaNOjtvkWmAocqoqsOxPrQ"
+    data-channel-title="Theo Palios"
+    data-duration="5:57"
+    data-published-at="2020-01-21"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=MIxoCmPQL2I" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/MIxoCmPQL2I/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:59</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=MIxoCmPQL2I">Δημιουργήστε Χιόνι | Spark Ar Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCIaNOjtvkWmAocqoqsOxPrQ">Theo Palios</a>
-      &bull;
-      2019-12-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=MIxoCmPQL2I"
+    data-thumbnail-url="https://i.ytimg.com/vi/MIxoCmPQL2I/sddefault.jpg"
+    data-title="Δημιουργήστε Χιόνι | Spark Ar Tutorial"
+    data-channel-url="https://www.youtube.com/channel/UCIaNOjtvkWmAocqoqsOxPrQ"
+    data-channel-title="Theo Palios"
+    data-duration="6:59"
+    data-published-at="2019-12-21"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=BHGWa7Xrhtg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/BHGWa7Xrhtg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:38</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=BHGWa7Xrhtg">Φτιάξτε το δικό σας φίλτρο για το Instagram</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCIaNOjtvkWmAocqoqsOxPrQ">Theo Palios</a>
-      &bull;
-      2019-11-08
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=BHGWa7Xrhtg"
+    data-thumbnail-url="https://i.ytimg.com/vi/BHGWa7Xrhtg/sddefault.jpg"
+    data-title="Φτιάξτε το δικό σας φίλτρο για το Instagram"
+    data-channel-url="https://www.youtube.com/channel/UCIaNOjtvkWmAocqoqsOxPrQ"
+    data-channel-title="Theo Palios"
+    data-duration="10:38"
+    data-published-at="2019-11-08"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

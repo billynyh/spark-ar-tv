@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=xUAFKio7Mdg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/xUAFKio7Mdg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">11:36</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=xUAFKio7Mdg">Spark AR Studio: come creare una texture viso per filtro Instagram (face mesh)</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC1FmQgw2VKuJ4yuNraT5MQQ">Elena Sofia Studio</a>
-      &bull;
-      2019-11-05
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=xUAFKio7Mdg"
+    data-thumbnail-url="https://i.ytimg.com/vi/xUAFKio7Mdg/sddefault.jpg"
+    data-title="Spark AR Studio: come creare una texture viso per filtro Instagram (face mesh)"
+    data-channel-url="https://www.youtube.com/channel/UC1FmQgw2VKuJ4yuNraT5MQQ"
+    data-channel-title="Elena Sofia Studio"
+    data-duration="11:36"
+    data-published-at="2019-11-05"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=tD1j_ncvyws" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/tD1j_ncvyws/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:57</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=tD1j_ncvyws">Spark AR Studio: Crea il tuo filtro Instagram personale in meno di 10 minuti</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC1FmQgw2VKuJ4yuNraT5MQQ">Elena Sofia Studio</a>
-      &bull;
-      2019-10-04
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=tD1j_ncvyws"
+    data-thumbnail-url="https://i.ytimg.com/vi/tD1j_ncvyws/sddefault.jpg"
+    data-title="Spark AR Studio: Crea il tuo filtro Instagram personale in meno di 10 minuti"
+    data-channel-url="https://www.youtube.com/channel/UC1FmQgw2VKuJ4yuNraT5MQQ"
+    data-channel-title="Elena Sofia Studio"
+    data-duration="7:57"
+    data-published-at="2019-10-04"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

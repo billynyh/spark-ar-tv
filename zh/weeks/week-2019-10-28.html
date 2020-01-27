@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=j0sPTE14LE4" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/j0sPTE14LE4/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:27</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=j0sPTE14LE4">【 電商人妻 】把 Lightroom 色調變成 IG 濾鏡！</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCmYHqxIwZ-C2RUKx8X_8nwA.html">電商人妻 ec.wife</a>
-      &bull;
-      2019-10-31
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=j0sPTE14LE4"
+    data-thumbnail-url="https://i.ytimg.com/vi/j0sPTE14LE4/hqdefault.jpg"
+    data-title="【 電商人妻 】把 Lightroom 色調變成 IG 濾鏡！"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCmYHqxIwZ-C2RUKx8X_8nwA.html"
+    data-channel-title="電商人妻 ec.wife"
+    data-duration="2:27"
+    data-published-at="2019-10-31"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

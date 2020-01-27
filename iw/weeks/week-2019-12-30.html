@@ -76,55 +76,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=ApWa4tSdJfc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/ApWa4tSdJfc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:33</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=ApWa4tSdJfc">How to make filter on instagram using SPARK AR - lesson 2 יצירת פילטרים לאינסטגרם שיעור שני</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCz-dN4i4AS5nnyNLnaPARMg.html">Looks Presets</a>
-      &bull;
-      2020-01-05
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=ApWa4tSdJfc"
+    data-thumbnail-url="https://i.ytimg.com/vi/ApWa4tSdJfc/sddefault.jpg"
+    data-title="How to make filter on instagram using SPARK AR - lesson 2 יצירת פילטרים לאינסטגרם שיעור שני"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCz-dN4i4AS5nnyNLnaPARMg.html"
+    data-channel-title="Looks Presets"
+    data-duration="3:33"
+    data-published-at="2020-01-05"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=uYXil3f2vjI" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/uYXil3f2vjI/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:29</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=uYXil3f2vjI">How to make filter on instagram using SPARK AR - lesson 1 יצירת פילטרים לאינסטגרם שיעור ראשון</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCz-dN4i4AS5nnyNLnaPARMg.html">Looks Presets</a>
-      &bull;
-      2020-01-01
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=uYXil3f2vjI"
+    data-thumbnail-url="https://i.ytimg.com/vi/uYXil3f2vjI/sddefault.jpg"
+    data-title="How to make filter on instagram using SPARK AR - lesson 1 יצירת פילטרים לאינסטגרם שיעור ראשון"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCz-dN4i4AS5nnyNLnaPARMg.html"
+    data-channel-title="Looks Presets"
+    data-duration="3:29"
+    data-published-at="2020-01-01"
+></div>
 
 </div>
 
@@ -145,7 +117,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -76,81 +76,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=fgS4iHfpuIA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/fgS4iHfpuIA/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:09</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=fgS4iHfpuIA">SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC_ycBf44SNpOc7w6kvYkufA.html">QKnow Design</a>
-      &bull;
-      2020-01-12
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=fgS4iHfpuIA"
+    data-thumbnail-url="https://i.ytimg.com/vi/fgS4iHfpuIA/hqdefault.jpg"
+    data-title="SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC_ycBf44SNpOc7w6kvYkufA.html"
+    data-channel-title="QKnow Design"
+    data-duration="4:09"
+    data-published-at="2020-01-12"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=hnccSp7u4Ik" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/hnccSp7u4Ik/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=hnccSp7u4Ik">Eigene Instagram Filter erstellen! | Spark Ar Studio Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCsEn-wbLwCmpjqp_1S13E8w.html">Julius</a>
-      &bull;
-      2020-01-08
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=hnccSp7u4Ik"
+    data-thumbnail-url="https://i.ytimg.com/vi/hnccSp7u4Ik/sddefault.jpg"
+    data-title="Eigene Instagram Filter erstellen! | Spark Ar Studio Tutorial"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCsEn-wbLwCmpjqp_1S13E8w.html"
+    data-channel-title="Julius"
+    data-duration="9:56"
+    data-published-at="2020-01-08"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=UN674uFGwrY" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/UN674uFGwrY/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:15</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=UN674uFGwrY">SPARK AR BASIC T!P | How to Convert any Preset into Instagram Filter [Photoshop/Lightroom/LUT]</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC_ycBf44SNpOc7w6kvYkufA.html">QKnow Design</a>
-      &bull;
-      2020-01-06
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=UN674uFGwrY"
+    data-thumbnail-url="https://i.ytimg.com/vi/UN674uFGwrY/sddefault.jpg"
+    data-title="SPARK AR BASIC T!P | How to Convert any Preset into Instagram Filter [Photoshop/Lightroom/LUT]"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC_ycBf44SNpOc7w6kvYkufA.html"
+    data-channel-title="QKnow Design"
+    data-duration="6:15"
+    data-published-at="2020-01-06"
+></div>
 
 </div>
 
@@ -171,7 +129,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

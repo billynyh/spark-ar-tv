@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=r_nEYBQ-tGc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/r_nEYBQ-tGc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:21</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=r_nEYBQ-tGc">Gardens SparkAR - Augmented Reality Art Gallery</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC1J5MffiRetqgqNoEuqjpww">weareEDT</a>
-      &bull;
-      2019-10-29
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=r_nEYBQ-tGc"
+    data-thumbnail-url="https://i.ytimg.com/vi/r_nEYBQ-tGc/sddefault.jpg"
+    data-title="Gardens SparkAR - Augmented Reality Art Gallery"
+    data-channel-url="https://www.youtube.com/channel/UC1J5MffiRetqgqNoEuqjpww"
+    data-channel-title="weareEDT"
+    data-duration="1:21"
+    data-published-at="2019-10-29"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=DMjBVivuqIg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/DMjBVivuqIg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">0:46</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=DMjBVivuqIg">Hong Leong Bank Digital Day Facebook AR Campaign</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC1J5MffiRetqgqNoEuqjpww">weareEDT</a>
-      &bull;
-      2019-10-28
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=DMjBVivuqIg"
+    data-thumbnail-url="https://i.ytimg.com/vi/DMjBVivuqIg/sddefault.jpg"
+    data-title="Hong Leong Bank Digital Day Facebook AR Campaign"
+    data-channel-url="https://www.youtube.com/channel/UC1J5MffiRetqgqNoEuqjpww"
+    data-channel-title="weareEDT"
+    data-duration="0:46"
+    data-published-at="2019-10-28"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

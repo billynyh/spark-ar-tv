@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=g7ZfSkubHbE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/g7ZfSkubHbE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:08</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=g7ZfSkubHbE">SparkAR - Tutorial Cirurgia Plástica - Efeito Instagram</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC0nK5x9w5zbWJfOuj-0sZTg">Studio Haus</a>
-      &bull;
-      2019-09-23
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=g7ZfSkubHbE"
+    data-thumbnail-url="https://i.ytimg.com/vi/g7ZfSkubHbE/sddefault.jpg"
+    data-title="SparkAR - Tutorial Cirurgia Plástica - Efeito Instagram"
+    data-channel-url="https://www.youtube.com/channel/UC0nK5x9w5zbWJfOuj-0sZTg"
+    data-channel-title="Studio Haus"
+    data-duration="7:08"
+    data-published-at="2019-09-23"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=kednH9VEyAg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/kednH9VEyAg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:33</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=kednH9VEyAg">SparkAR - Tutorial LUT Simples e Rápido (Presets) - Efeito Instagram</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC0nK5x9w5zbWJfOuj-0sZTg">Studio Haus</a>
-      &bull;
-      2019-09-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=kednH9VEyAg"
+    data-thumbnail-url="https://i.ytimg.com/vi/kednH9VEyAg/sddefault.jpg"
+    data-title="SparkAR - Tutorial LUT Simples e Rápido (Presets) - Efeito Instagram"
+    data-channel-url="https://www.youtube.com/channel/UC0nK5x9w5zbWJfOuj-0sZTg"
+    data-channel-title="Studio Haus"
+    data-duration="4:33"
+    data-published-at="2019-09-21"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=hqF3jLYGtC0" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/hqF3jLYGtC0/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=hqF3jLYGtC0">Tutorial SPARK AR Studio - Fontes Externas</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC0nK5x9w5zbWJfOuj-0sZTg">Studio Haus</a>
-      &bull;
-      2019-09-03
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=hqF3jLYGtC0"
+    data-thumbnail-url="https://i.ytimg.com/vi/hqF3jLYGtC0/sddefault.jpg"
+    data-title="Tutorial SPARK AR Studio - Fontes Externas"
+    data-channel-url="https://www.youtube.com/channel/UC0nK5x9w5zbWJfOuj-0sZTg"
+    data-channel-title="Studio Haus"
+    data-duration="1:56"
+    data-published-at="2019-09-03"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

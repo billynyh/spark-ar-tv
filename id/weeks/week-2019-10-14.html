@@ -76,81 +76,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=kcNkOLFSCcg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/kcNkOLFSCcg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">11:16</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=kcNkOLFSCcg">SparkAR Indonesia - Filter Buat McDonalds Maybe?</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC4-1nuI6rLNfCGf3Zzh4RYA.html">Faraaz</a>
-      &bull;
-      2019-10-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=kcNkOLFSCcg"
+    data-thumbnail-url="https://i.ytimg.com/vi/kcNkOLFSCcg/sddefault.jpg"
+    data-title="SparkAR Indonesia - Filter Buat McDonalds Maybe?"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC4-1nuI6rLNfCGf3Zzh4RYA.html"
+    data-channel-title="Faraaz"
+    data-duration="11:16"
+    data-published-at="2019-10-20"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=sdwwYetJmVU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/sdwwYetJmVU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:02</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=sdwwYetJmVU">Photo Frame - Spark AR Studio [ Tutorial ]</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html">Rudy Anwar</a>
-      &bull;
-      2019-10-15
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=sdwwYetJmVU"
+    data-thumbnail-url="https://i.ytimg.com/vi/sdwwYetJmVU/sddefault.jpg"
+    data-title="Photo Frame - Spark AR Studio [ Tutorial ]"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html"
+    data-channel-title="Rudy Anwar"
+    data-duration="10:02"
+    data-published-at="2019-10-15"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=mA9Lpk28Y-8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/mA9Lpk28Y-8/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">11:04</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=mA9Lpk28Y-8">Membuat Filter Hanya Dalam 10 Menit</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC4-1nuI6rLNfCGf3Zzh4RYA.html">Faraaz</a>
-      &bull;
-      2019-10-15
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=mA9Lpk28Y-8"
+    data-thumbnail-url="https://i.ytimg.com/vi/mA9Lpk28Y-8/hqdefault.jpg"
+    data-title="Membuat Filter Hanya Dalam 10 Menit"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC4-1nuI6rLNfCGf3Zzh4RYA.html"
+    data-channel-title="Faraaz"
+    data-duration="11:04"
+    data-published-at="2019-10-15"
+></div>
 
 </div>
 
@@ -171,7 +129,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

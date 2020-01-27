@@ -76,55 +76,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=qWYLTEOc0us" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/qWYLTEOc0us/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:53</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=qWYLTEOc0us">FILTRE EFFET BOTOX FACILE - SPARK AR TUTO</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCiFEnCh5XRcgsiue6mkPLUw.html">Tenessees</a>
-      &bull;
-      2020-01-05
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=qWYLTEOc0us"
+    data-thumbnail-url="https://i.ytimg.com/vi/qWYLTEOc0us/sddefault.jpg"
+    data-title="FILTRE EFFET BOTOX FACILE - SPARK AR TUTO"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCiFEnCh5XRcgsiue6mkPLUw.html"
+    data-channel-title="Tenessees"
+    data-duration="10:53"
+    data-published-at="2020-01-05"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=HGcm5na9lCE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/HGcm5na9lCE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:27</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=HGcm5na9lCE">FILTRE INSTAGRAM FACILE - Effet lumineux sur dessins</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCiFEnCh5XRcgsiue6mkPLUw.html">Tenessees</a>
-      &bull;
-      2020-01-02
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=HGcm5na9lCE"
+    data-thumbnail-url="https://i.ytimg.com/vi/HGcm5na9lCE/sddefault.jpg"
+    data-title="FILTRE INSTAGRAM FACILE - Effet lumineux sur dessins"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCiFEnCh5XRcgsiue6mkPLUw.html"
+    data-channel-title="Tenessees"
+    data-duration="4:27"
+    data-published-at="2020-01-02"
+></div>
 
 </div>
 
@@ -145,7 +117,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

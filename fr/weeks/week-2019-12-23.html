@@ -76,55 +76,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=giVCeSC-hyU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/giVCeSC-hyU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:03</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=giVCeSC-hyU">Crée ton filtre Louis Vuitton!</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCiFEnCh5XRcgsiue6mkPLUw.html">Tenessees</a>
-      &bull;
-      2019-12-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=giVCeSC-hyU"
+    data-thumbnail-url="https://i.ytimg.com/vi/giVCeSC-hyU/sddefault.jpg"
+    data-title="Crée ton filtre Louis Vuitton!"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCiFEnCh5XRcgsiue6mkPLUw.html"
+    data-channel-title="Tenessees"
+    data-duration="6:03"
+    data-published-at="2019-12-27"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=7UhtbR9WZ5g" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/7UhtbR9WZ5g/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:55</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=7UhtbR9WZ5g">COMMENT créer des filtres Instagram en 10min chrono ? 🕒</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCFXM9QOsgQRVzQZmvkl906w.html">What's up Claire</a>
-      &bull;
-      2019-12-26
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=7UhtbR9WZ5g"
+    data-thumbnail-url="https://i.ytimg.com/vi/7UhtbR9WZ5g/sddefault.jpg"
+    data-title="COMMENT créer des filtres Instagram en 10min chrono ? 🕒"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCFXM9QOsgQRVzQZmvkl906w.html"
+    data-channel-title="What's up Claire"
+    data-duration="5:55"
+    data-published-at="2019-12-26"
+></div>
 
 </div>
 
@@ -145,7 +117,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

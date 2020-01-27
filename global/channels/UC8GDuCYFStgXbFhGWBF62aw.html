@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=3naNhonfxLk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/3naNhonfxLk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">19:54</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=3naNhonfxLk">Как загрузить маску в Инстаграм? SPARK AR уроки</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC8GDuCYFStgXbFhGWBF62aw">Timur Shantyz</a>
-      &bull;
-      2019-11-29
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=3naNhonfxLk"
+    data-thumbnail-url="https://i.ytimg.com/vi/3naNhonfxLk/sddefault.jpg"
+    data-title="Как загрузить маску в Инстаграм? SPARK AR уроки"
+    data-channel-url="https://www.youtube.com/channel/UC8GDuCYFStgXbFhGWBF62aw"
+    data-channel-title="Timur Shantyz"
+    data-duration="19:54"
+    data-published-at="2019-11-29"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=gQiRNyW3rS0" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/gQiRNyW3rS0/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">14:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=gQiRNyW3rS0">Как сделать маску в инстаграм?  / SPARK AR уроки</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC8GDuCYFStgXbFhGWBF62aw">Timur Shantyz</a>
-      &bull;
-      2019-11-14
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=gQiRNyW3rS0"
+    data-thumbnail-url="https://i.ytimg.com/vi/gQiRNyW3rS0/sddefault.jpg"
+    data-title="Как сделать маску в инстаграм?  / SPARK AR уроки"
+    data-channel-url="https://www.youtube.com/channel/UC8GDuCYFStgXbFhGWBF62aw"
+    data-channel-title="Timur Shantyz"
+    data-duration="14:56"
+    data-published-at="2019-11-14"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=x92cgWfutcs" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/x92cgWfutcs/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">17:00</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=x92cgWfutcs">Как создать маску для инстаграм?!  / SPARK AR / Создание маски в instagram</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC8GDuCYFStgXbFhGWBF62aw">Timur Shantyz</a>
-      &bull;
-      2019-09-19
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=x92cgWfutcs"
+    data-thumbnail-url="https://i.ytimg.com/vi/x92cgWfutcs/sddefault.jpg"
+    data-title="Как создать маску для инстаграм?!  / SPARK AR / Создание маски в instagram"
+    data-channel-url="https://www.youtube.com/channel/UC8GDuCYFStgXbFhGWBF62aw"
+    data-channel-title="Timur Shantyz"
+    data-duration="17:00"
+    data-published-at="2019-09-19"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

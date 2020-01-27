@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=c6ndYPE_vXk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/c6ndYPE_vXk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">12:11</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=c6ndYPE_vXk">Filtros de Instagram en corto / creo que es un tutorial.</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCQo49-Z9Aghk4tlTfPwSrsQ">Eric sin k</a>
-      &bull;
-      2019-12-31
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=c6ndYPE_vXk"
+    data-thumbnail-url="https://i.ytimg.com/vi/c6ndYPE_vXk/sddefault.jpg"
+    data-title="Filtros de Instagram en corto / creo que es un tutorial."
+    data-channel-url="https://www.youtube.com/channel/UCQo49-Z9Aghk4tlTfPwSrsQ"
+    data-channel-title="Eric sin k"
+    data-duration="12:11"
+    data-published-at="2019-12-31"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

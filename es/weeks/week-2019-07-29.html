@@ -76,55 +76,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=iv9kZ_0rTX0" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/iv9kZ_0rTX0/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:02</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=iv9kZ_0rTX0">Spark AR Studio. Interacción con gestos del usuario y cambio entre efectos</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCKqZArZmJK3jbqUj2Dth3uA.html">Cybertutoriales</a>
-      &bull;
-      2019-08-02
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=iv9kZ_0rTX0"
+    data-thumbnail-url="https://i.ytimg.com/vi/iv9kZ_0rTX0/sddefault.jpg"
+    data-title="Spark AR Studio. Interacción con gestos del usuario y cambio entre efectos"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCKqZArZmJK3jbqUj2Dth3uA.html"
+    data-channel-title="Cybertutoriales"
+    data-duration="10:02"
+    data-published-at="2019-08-02"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=-VLqitb7WRQ" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/-VLqitb7WRQ/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:59</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=-VLqitb7WRQ">Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCKqZArZmJK3jbqUj2Dth3uA.html">Cybertutoriales</a>
-      &bull;
-      2019-07-31
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=-VLqitb7WRQ"
+    data-thumbnail-url="https://i.ytimg.com/vi/-VLqitb7WRQ/sddefault.jpg"
+    data-title="Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCKqZArZmJK3jbqUj2Dth3uA.html"
+    data-channel-title="Cybertutoriales"
+    data-duration="9:59"
+    data-published-at="2019-07-31"
+></div>
 
 </div>
 
@@ -145,7 +117,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

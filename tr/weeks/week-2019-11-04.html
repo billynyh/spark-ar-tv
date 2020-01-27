@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=btiferIzGiU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/btiferIzGiU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:53</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=btiferIzGiU">İnstagram Filtresi Nasıl Mı Yapılır ? (JOKER FİLTRESİ YAPTIM) #İNSTAGRAM #JOKER</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCLQG1Bn8EZD53Tgl7X3ANzA.html">Enes Ataseven</a>
-      &bull;
-      2019-11-07
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=btiferIzGiU"
+    data-thumbnail-url="https://i.ytimg.com/vi/btiferIzGiU/sddefault.jpg"
+    data-title="İnstagram Filtresi Nasıl Mı Yapılır ? (JOKER FİLTRESİ YAPTIM) #İNSTAGRAM #JOKER"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCLQG1Bn8EZD53Tgl7X3ANzA.html"
+    data-channel-title="Enes Ataseven"
+    data-duration="7:53"
+    data-published-at="2019-11-07"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

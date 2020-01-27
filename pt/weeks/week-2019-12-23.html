@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=Fry3niEClf4" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/Fry3niEClf4/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:31</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=Fry3niEClf4">COMO CRIAR O SEU FILTRO NO INSTAGRAM?</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC3aDDVQVMby3iovq3FYa9OQ.html">Carol Oliveira</a>
-      &bull;
-      2019-12-26
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=Fry3niEClf4"
+    data-thumbnail-url="https://i.ytimg.com/vi/Fry3niEClf4/sddefault.jpg"
+    data-title="COMO CRIAR O SEU FILTRO NO INSTAGRAM?"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC3aDDVQVMby3iovq3FYa9OQ.html"
+    data-channel-title="Carol Oliveira"
+    data-duration="9:31"
+    data-published-at="2019-12-26"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=kSSFQraSvSE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/kSSFQraSvSE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:38</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=kSSFQraSvSE">Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCqzb1fjjsjLX6H8ASRzMSIw">Vidushi Agarwal</a>
-      &bull;
-      2019-10-06
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=kSSFQraSvSE"
+    data-thumbnail-url="https://i.ytimg.com/vi/kSSFQraSvSE/sddefault.jpg"
+    data-title="Create trippy and glitch filters on Instagram in 5 min(Description contains FB tutorials)"
+    data-channel-url="https://www.youtube.com/channel/UCqzb1fjjsjLX6H8ASRzMSIw"
+    data-channel-title="Vidushi Agarwal"
+    data-duration="9:38"
+    data-published-at="2019-10-06"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

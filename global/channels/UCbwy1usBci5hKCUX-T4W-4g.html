@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=wTKeKSn3Yyo" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/wTKeKSn3Yyo/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">15:35</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=wTKeKSn3Yyo">Cara membuat filter warna LUT Color (Spark AR indonesia Part III )</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCbwy1usBci5hKCUX-T4W-4g">Peediepai</a>
-      &bull;
-      2019-09-22
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=wTKeKSn3Yyo"
+    data-thumbnail-url="https://i.ytimg.com/vi/wTKeKSn3Yyo/sddefault.jpg"
+    data-title="Cara membuat filter warna LUT Color (Spark AR indonesia Part III )"
+    data-channel-url="https://www.youtube.com/channel/UCbwy1usBci5hKCUX-T4W-4g"
+    data-channel-title="Peediepai"
+    data-duration="15:35"
+    data-published-at="2019-09-22"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=KrSOrmMhsFw" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/KrSOrmMhsFw/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:36</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=KrSOrmMhsFw">Cara membuat Filter Efek Pengubah Suara (Spark Ar Studio Part II)</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCbwy1usBci5hKCUX-T4W-4g">Peediepai</a>
-      &bull;
-      2019-09-11
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=KrSOrmMhsFw"
+    data-thumbnail-url="https://i.ytimg.com/vi/KrSOrmMhsFw/sddefault.jpg"
+    data-title="Cara membuat Filter Efek Pengubah Suara (Spark Ar Studio Part II)"
+    data-channel-url="https://www.youtube.com/channel/UCbwy1usBci5hKCUX-T4W-4g"
+    data-channel-title="Peediepai"
+    data-duration="9:36"
+    data-published-at="2019-09-11"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=mbzqqgG1BSg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/mbzqqgG1BSg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">8:28</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=mbzqqgG1BSg">Membuar Filter Instagram Sendiri (Spark AR Tutorial Part 1)</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCbwy1usBci5hKCUX-T4W-4g">Peediepai</a>
-      &bull;
-      2019-09-10
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=mbzqqgG1BSg"
+    data-thumbnail-url="https://i.ytimg.com/vi/mbzqqgG1BSg/sddefault.jpg"
+    data-title="Membuar Filter Instagram Sendiri (Spark AR Tutorial Part 1)"
+    data-channel-url="https://www.youtube.com/channel/UCbwy1usBci5hKCUX-T4W-4g"
+    data-channel-title="Peediepai"
+    data-duration="8:28"
+    data-published-at="2019-09-10"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

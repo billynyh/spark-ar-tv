@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=uRWFeTWDg6U" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/uRWFeTWDg6U/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">45:12</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=uRWFeTWDg6U">Spark AR Studio - Partículas Vol. I</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCQI2NMWF7Bsa3rYgu-24FKA">Fino</a>
-      &bull;
-      2019-09-04
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=uRWFeTWDg6U"
+    data-thumbnail-url="https://i.ytimg.com/vi/uRWFeTWDg6U/sddefault.jpg"
+    data-title="Spark AR Studio - Partículas Vol. I"
+    data-channel-url="https://www.youtube.com/channel/UCQI2NMWF7Bsa3rYgu-24FKA"
+    data-channel-title="Fino"
+    data-duration="45:12"
+    data-published-at="2019-09-04"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=y41bM9QAhlA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/y41bM9QAhlA/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">22:25</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=y41bM9QAhlA">Spark AR Studio - Destrinchando o efeito "I Red"</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCQI2NMWF7Bsa3rYgu-24FKA">Fino</a>
-      &bull;
-      2019-08-26
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=y41bM9QAhlA"
+    data-thumbnail-url="https://i.ytimg.com/vi/y41bM9QAhlA/sddefault.jpg"
+    data-title="Spark AR Studio - Destrinchando o efeito "I Red""
+    data-channel-url="https://www.youtube.com/channel/UCQI2NMWF7Bsa3rYgu-24FKA"
+    data-channel-title="Fino"
+    data-duration="22:25"
+    data-published-at="2019-08-26"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

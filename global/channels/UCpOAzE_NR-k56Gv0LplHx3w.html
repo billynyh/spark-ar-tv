@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=mBYotFzZiG0" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/mBYotFzZiG0/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:28</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=mBYotFzZiG0">Как создать маску в Spark AR | Бесплатные подписчики в Instagram</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCpOAzE_NR-k56Gv0LplHx3w">ANASTASIA VON TRI</a>
-      &bull;
-      2019-09-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=mBYotFzZiG0"
+    data-thumbnail-url="https://i.ytimg.com/vi/mBYotFzZiG0/sddefault.jpg"
+    data-title="Как создать маску в Spark AR | Бесплатные подписчики в Instagram"
+    data-channel-url="https://www.youtube.com/channel/UCpOAzE_NR-k56Gv0LplHx3w"
+    data-channel-title="ANASTASIA VON TRI"
+    data-duration="4:28"
+    data-published-at="2019-09-27"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

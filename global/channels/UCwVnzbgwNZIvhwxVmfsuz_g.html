@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=3N1ibbHXe7w" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/3N1ibbHXe7w/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:42</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=3N1ibbHXe7w">SparkAR: Filtro com Presets + Seletor & Grãos câmera 8mm - @aliencandies [PT-BR]</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCwVnzbgwNZIvhwxVmfsuz_g">Ranyere Almeida</a>
-      &bull;
-      2019-09-22
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=3N1ibbHXe7w"
+    data-thumbnail-url="https://i.ytimg.com/vi/3N1ibbHXe7w/sddefault.jpg"
+    data-title="SparkAR: Filtro com Presets + Seletor & Grãos câmera 8mm - @aliencandies [PT-BR]"
+    data-channel-url="https://www.youtube.com/channel/UCwVnzbgwNZIvhwxVmfsuz_g"
+    data-channel-title="Ranyere Almeida"
+    data-duration="10:42"
+    data-published-at="2019-09-22"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=cVBzIKQJzZc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/cVBzIKQJzZc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:47</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=cVBzIKQJzZc">Spark AR: LUT Patch [PT-BR] - por @aliencandies</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCwVnzbgwNZIvhwxVmfsuz_g">Ranyere Almeida</a>
-      &bull;
-      2019-08-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=cVBzIKQJzZc"
+    data-thumbnail-url="https://i.ytimg.com/vi/cVBzIKQJzZc/sddefault.jpg"
+    data-title="Spark AR: LUT Patch [PT-BR] - por @aliencandies"
+    data-channel-url="https://www.youtube.com/channel/UCwVnzbgwNZIvhwxVmfsuz_g"
+    data-channel-title="Ranyere Almeida"
+    data-duration="4:47"
+    data-published-at="2019-08-27"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=BP9QkRjiOOE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/BP9QkRjiOOE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:04</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=BP9QkRjiOOE">Spark AR: Native UI Simplificado PT-BR] - por @aliencandies</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCwVnzbgwNZIvhwxVmfsuz_g">Ranyere Almeida</a>
-      &bull;
-      2019-08-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=BP9QkRjiOOE"
+    data-thumbnail-url="https://i.ytimg.com/vi/BP9QkRjiOOE/sddefault.jpg"
+    data-title="Spark AR: Native UI Simplificado PT-BR] - por @aliencandies"
+    data-channel-url="https://www.youtube.com/channel/UCwVnzbgwNZIvhwxVmfsuz_g"
+    data-channel-title="Ranyere Almeida"
+    data-duration="7:04"
+    data-published-at="2019-08-27"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

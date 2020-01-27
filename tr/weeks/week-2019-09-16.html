@@ -76,55 +76,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=InlYnDfHEPE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/InlYnDfHEPE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:30</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=InlYnDfHEPE">Spark AR Studio: Kaplan Maske Efekti Yapımı</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCmubYNW4ytha2Qzx2uTNZdA.html">uzmanim.net</a>
-      &bull;
-      2019-09-22
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=InlYnDfHEPE"
+    data-thumbnail-url="https://i.ytimg.com/vi/InlYnDfHEPE/sddefault.jpg"
+    data-title="Spark AR Studio: Kaplan Maske Efekti Yapımı"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCmubYNW4ytha2Qzx2uTNZdA.html"
+    data-channel-title="uzmanim.net"
+    data-duration="6:30"
+    data-published-at="2019-09-22"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=u4MaLVGhQKY" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/u4MaLVGhQKY/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:32</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=u4MaLVGhQKY">Spark AR Studio: Ses Değiştirme Efekti Yapımı</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCmubYNW4ytha2Qzx2uTNZdA.html">uzmanim.net</a>
-      &bull;
-      2019-09-17
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=u4MaLVGhQKY"
+    data-thumbnail-url="https://i.ytimg.com/vi/u4MaLVGhQKY/sddefault.jpg"
+    data-title="Spark AR Studio: Ses Değiştirme Efekti Yapımı"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCmubYNW4ytha2Qzx2uTNZdA.html"
+    data-channel-title="uzmanim.net"
+    data-duration="3:32"
+    data-published-at="2019-09-17"
+></div>
 
 </div>
 
@@ -145,7 +117,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

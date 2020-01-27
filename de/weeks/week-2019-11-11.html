@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=xRvPq_Uxja8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/xRvPq_Uxja8/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">13:40</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=xRvPq_Uxja8">Spark AR Tutorial XMas Special 1/3  [Face Deformation und wie du dir Hörner aufsetzt]</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC_ycBf44SNpOc7w6kvYkufA.html">QKnow Design</a>
-      &bull;
-      2019-11-17
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=xRvPq_Uxja8"
+    data-thumbnail-url="https://i.ytimg.com/vi/xRvPq_Uxja8/sddefault.jpg"
+    data-title="Spark AR Tutorial XMas Special 1/3  [Face Deformation und wie du dir Hörner aufsetzt]"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC_ycBf44SNpOc7w6kvYkufA.html"
+    data-channel-title="QKnow Design"
+    data-duration="13:40"
+    data-published-at="2019-11-17"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

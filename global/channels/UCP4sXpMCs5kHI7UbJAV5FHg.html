@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=a1J2-_TJB9w" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/a1J2-_TJB9w/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:02</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=a1J2-_TJB9w">Cara membuat filter "Which ... Are You?" (Random Selection) - Spark AR Tutorial Indonesia</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCP4sXpMCs5kHI7UbJAV5FHg">Jasson Powell</a>
-      &bull;
-      2020-01-18
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=a1J2-_TJB9w"
+    data-thumbnail-url="https://i.ytimg.com/vi/a1J2-_TJB9w/sddefault.jpg"
+    data-title="Cara membuat filter "Which ... Are You?" (Random Selection) - Spark AR Tutorial Indonesia"
+    data-channel-url="https://www.youtube.com/channel/UCP4sXpMCs5kHI7UbJAV5FHg"
+    data-channel-title="Jasson Powell"
+    data-duration="10:02"
+    data-published-at="2020-01-18"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=NhD2RlV8CLw" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/NhD2RlV8CLw/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:26</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=NhD2RlV8CLw">Cara membuat filter Instagram dengan HP! | Tutorial Spark AR ter-gampang di YouTube</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCP4sXpMCs5kHI7UbJAV5FHg">Jasson Powell</a>
-      &bull;
-      2020-01-08
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=NhD2RlV8CLw"
+    data-thumbnail-url="https://i.ytimg.com/vi/NhD2RlV8CLw/sddefault.jpg"
+    data-title="Cara membuat filter Instagram dengan HP! | Tutorial Spark AR ter-gampang di YouTube"
+    data-channel-url="https://www.youtube.com/channel/UCP4sXpMCs5kHI7UbJAV5FHg"
+    data-channel-title="Jasson Powell"
+    data-duration="7:26"
+    data-published-at="2020-01-08"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

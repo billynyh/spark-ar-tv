@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=p_zLJ-tsOZE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/p_zLJ-tsOZE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">18:55</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=p_zLJ-tsOZE">CREA ESTOS FILTROS DE MODA PARA INSTAGRAM RÁPIDO! EXPLICADO AL DETALLE #SPARKAR</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCtrrcOtfp78WwSgFiDuG_6g">Gerald Bustos</a>
-      &bull;
-      2019-12-17
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=p_zLJ-tsOZE"
+    data-thumbnail-url="https://i.ytimg.com/vi/p_zLJ-tsOZE/sddefault.jpg"
+    data-title="CREA ESTOS FILTROS DE MODA PARA INSTAGRAM RÁPIDO! EXPLICADO AL DETALLE #SPARKAR"
+    data-channel-url="https://www.youtube.com/channel/UCtrrcOtfp78WwSgFiDuG_6g"
+    data-channel-title="Gerald Bustos"
+    data-duration="18:55"
+    data-published-at="2019-12-17"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=6iR_aaSVheA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/6iR_aaSVheA/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">13:09</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=6iR_aaSVheA">[INSTANEWS #2] Каждому по СОБСТВЕННОЙ маске!</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCl4CPp-L5ira8wlX-YSn84A">Tooligram Academy</a>
-      &bull;
-      2019-08-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=6iR_aaSVheA"
+    data-thumbnail-url="https://i.ytimg.com/vi/6iR_aaSVheA/sddefault.jpg"
+    data-title="[INSTANEWS #2] Каждому по СОБСТВЕННОЙ маске!"
+    data-channel-url="https://www.youtube.com/channel/UCl4CPp-L5ira8wlX-YSn84A"
+    data-channel-title="Tooligram Academy"
+    data-duration="13:09"
+    data-published-at="2019-08-21"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

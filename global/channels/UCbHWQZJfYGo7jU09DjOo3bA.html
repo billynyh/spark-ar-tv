@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=wQyHIBDjY50" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/wQyHIBDjY50/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:45</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=wQyHIBDjY50">Watch me build #3 │Spark Ar</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCbHWQZJfYGo7jU09DjOo3bA">Nahir Esper</a>
-      &bull;
-      2020-01-24
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=wQyHIBDjY50"
+    data-thumbnail-url="https://i.ytimg.com/vi/wQyHIBDjY50/sddefault.jpg"
+    data-title="Watch me build #3 │Spark Ar"
+    data-channel-url="https://www.youtube.com/channel/UCbHWQZJfYGo7jU09DjOo3bA"
+    data-channel-title="Nahir Esper"
+    data-duration="9:45"
+    data-published-at="2020-01-24"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=jNGK9Q7oSsA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/jNGK9Q7oSsA/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">15:20</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=jNGK9Q7oSsA">Watch me build #2 │Spark Ar</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCbHWQZJfYGo7jU09DjOo3bA">Nahir Esper</a>
-      &bull;
-      2020-01-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=jNGK9Q7oSsA"
+    data-thumbnail-url="https://i.ytimg.com/vi/jNGK9Q7oSsA/sddefault.jpg"
+    data-title="Watch me build #2 │Spark Ar"
+    data-channel-url="https://www.youtube.com/channel/UCbHWQZJfYGo7jU09DjOo3bA"
+    data-channel-title="Nahir Esper"
+    data-duration="15:20"
+    data-published-at="2020-01-20"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=Ml8lIsEZCBo" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/Ml8lIsEZCBo/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">16:55</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=Ml8lIsEZCBo">Watch me build #1 │Spark Ar + GIFT</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCbHWQZJfYGo7jU09DjOo3bA">Nahir Esper</a>
-      &bull;
-      2020-01-06
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=Ml8lIsEZCBo"
+    data-thumbnail-url="https://i.ytimg.com/vi/Ml8lIsEZCBo/sddefault.jpg"
+    data-title="Watch me build #1 │Spark Ar + GIFT"
+    data-channel-url="https://www.youtube.com/channel/UCbHWQZJfYGo7jU09DjOo3bA"
+    data-channel-title="Nahir Esper"
+    data-duration="16:55"
+    data-published-at="2020-01-06"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

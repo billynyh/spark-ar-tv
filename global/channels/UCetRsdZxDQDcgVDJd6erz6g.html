@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=HoN5v-RPu9o" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/HoN5v-RPu9o/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">21:16</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=HoN5v-RPu9o">Criando um filtro de perguntas no instagram 📱(Spark AR Tutorial)</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g">Attekita Dev</a>
-      &bull;
-      2020-01-16
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=HoN5v-RPu9o"
+    data-thumbnail-url="https://i.ytimg.com/vi/HoN5v-RPu9o/sddefault.jpg"
+    data-title="Criando um filtro de perguntas no instagram 📱(Spark AR Tutorial)"
+    data-channel-url="https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g"
+    data-channel-title="Attekita Dev"
+    data-duration="21:16"
+    data-published-at="2020-01-16"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=N7XaiwBYPUE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/N7XaiwBYPUE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">11:27</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=N7XaiwBYPUE">Como criar um filtro para o instagram? ( Spark AR Review 📷)</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g">Attekita Dev</a>
-      &bull;
-      2019-09-03
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=N7XaiwBYPUE"
+    data-thumbnail-url="https://i.ytimg.com/vi/N7XaiwBYPUE/sddefault.jpg"
+    data-title="Como criar um filtro para o instagram? ( Spark AR Review 📷)"
+    data-channel-url="https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g"
+    data-channel-title="Attekita Dev"
+    data-duration="11:27"
+    data-published-at="2019-09-03"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

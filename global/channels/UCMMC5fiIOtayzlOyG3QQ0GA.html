@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=JNXeSrBsZQM" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/JNXeSrBsZQM/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">22:15</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=JNXeSrBsZQM">СОЗДАЁМ И ЗАГРУЖАЕМ МАСКУ В ИНСТАГРАМ</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCMMC5fiIOtayzlOyG3QQ0GA">Карина Марберг</a>
-      &bull;
-      2019-11-28
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=JNXeSrBsZQM"
+    data-thumbnail-url="https://i.ytimg.com/vi/JNXeSrBsZQM/sddefault.jpg"
+    data-title="СОЗДАЁМ И ЗАГРУЖАЕМ МАСКУ В ИНСТАГРАМ"
+    data-channel-url="https://www.youtube.com/channel/UCMMC5fiIOtayzlOyG3QQ0GA"
+    data-channel-title="Карина Марберг"
+    data-duration="22:15"
+    data-published-at="2019-11-28"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

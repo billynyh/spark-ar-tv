@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=yIMuUnvtxMg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/yIMuUnvtxMg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">8:36</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=yIMuUnvtxMg">Native UI Picker Spark AR turoial indonesia + Project File</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCLvQ5PlBP-3D1DO305U_ukg">ARF98</a>
-      &bull;
-      2020-01-02
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=yIMuUnvtxMg"
+    data-thumbnail-url="https://i.ytimg.com/vi/yIMuUnvtxMg/sddefault.jpg"
+    data-title="Native UI Picker Spark AR turoial indonesia + Project File"
+    data-channel-url="https://www.youtube.com/channel/UCLvQ5PlBP-3D1DO305U_ukg"
+    data-channel-title="ARF98"
+    data-duration="8:36"
+    data-published-at="2020-01-02"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=_5CGeLJGS1E" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/_5CGeLJGS1E/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:46</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=_5CGeLJGS1E">Cara buat filter instagram Efek ketombe - Spark AR Tutorial indonesia</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCLvQ5PlBP-3D1DO305U_ukg">ARF98</a>
-      &bull;
-      2019-12-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=_5CGeLJGS1E"
+    data-thumbnail-url="https://i.ytimg.com/vi/_5CGeLJGS1E/sddefault.jpg"
+    data-title="Cara buat filter instagram Efek ketombe - Spark AR Tutorial indonesia"
+    data-channel-url="https://www.youtube.com/channel/UCLvQ5PlBP-3D1DO305U_ukg"
+    data-channel-title="ARF98"
+    data-duration="9:46"
+    data-published-at="2019-12-20"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=IywIa7PIP1E" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/IywIa7PIP1E/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">8:37</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=IywIa7PIP1E">Cara upload filter buatan sendiri Ke instagram - Spark AR Tutorial indonesia</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCLvQ5PlBP-3D1DO305U_ukg">ARF98</a>
-      &bull;
-      2019-12-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=IywIa7PIP1E"
+    data-thumbnail-url="https://i.ytimg.com/vi/IywIa7PIP1E/hqdefault.jpg"
+    data-title="Cara upload filter buatan sendiri Ke instagram - Spark AR Tutorial indonesia"
+    data-channel-url="https://www.youtube.com/channel/UCLvQ5PlBP-3D1DO305U_ukg"
+    data-channel-title="ARF98"
+    data-duration="8:37"
+    data-published-at="2019-12-20"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

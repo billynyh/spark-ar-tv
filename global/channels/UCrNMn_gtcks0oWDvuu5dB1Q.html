@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=ZIiN-G0oRJM" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/ZIiN-G0oRJM/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:15</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=ZIiN-G0oRJM">Tutorial Membuat Filter Dust/Debu | SparkAR Studio | Part 3</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCrNMn_gtcks0oWDvuu5dB1Q">Sfrdnl</a>
-      &bull;
-      2020-01-23
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=ZIiN-G0oRJM"
+    data-thumbnail-url="https://i.ytimg.com/vi/ZIiN-G0oRJM/sddefault.jpg"
+    data-title="Tutorial Membuat Filter Dust/Debu | SparkAR Studio | Part 3"
+    data-channel-url="https://www.youtube.com/channel/UCrNMn_gtcks0oWDvuu5dB1Q"
+    data-channel-title="Sfrdnl"
+    data-duration="3:15"
+    data-published-at="2020-01-23"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=W5unuCklZGc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/W5unuCklZGc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:43</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=W5unuCklZGc">Tutorial Bikin Filter Instagram Wajah Glowing | Part 2</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCrNMn_gtcks0oWDvuu5dB1Q">Sfrdnl</a>
-      &bull;
-      2020-01-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=W5unuCklZGc"
+    data-thumbnail-url="https://i.ytimg.com/vi/W5unuCklZGc/sddefault.jpg"
+    data-title="Tutorial Bikin Filter Instagram Wajah Glowing | Part 2"
+    data-channel-url="https://www.youtube.com/channel/UCrNMn_gtcks0oWDvuu5dB1Q"
+    data-channel-title="Sfrdnl"
+    data-duration="6:43"
+    data-published-at="2020-01-21"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=tba3HXhxyJQ" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/tba3HXhxyJQ/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=tba3HXhxyJQ">Tutorial Bikin Filter Instagram Sendiri | Filter Mask | Part 1</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCrNMn_gtcks0oWDvuu5dB1Q">Sfrdnl</a>
-      &bull;
-      2020-01-16
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=tba3HXhxyJQ"
+    data-thumbnail-url="https://i.ytimg.com/vi/tba3HXhxyJQ/sddefault.jpg"
+    data-title="Tutorial Bikin Filter Instagram Sendiri | Filter Mask | Part 1"
+    data-channel-url="https://www.youtube.com/channel/UCrNMn_gtcks0oWDvuu5dB1Q"
+    data-channel-title="Sfrdnl"
+    data-duration="2:56"
+    data-published-at="2020-01-16"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

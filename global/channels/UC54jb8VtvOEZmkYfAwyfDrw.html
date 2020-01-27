@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=GOcrl_ec2DU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/GOcrl_ec2DU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:39</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=GOcrl_ec2DU">ПЕРВАЯ СПИДКУБЕРСКАЯ МАСКА в инстаграм! Как сделать свою маску</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC54jb8VtvOEZmkYfAwyfDrw">AVIZORRA</a>
-      &bull;
-      2019-11-14
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=GOcrl_ec2DU"
+    data-thumbnail-url="https://i.ytimg.com/vi/GOcrl_ec2DU/sddefault.jpg"
+    data-title="ПЕРВАЯ СПИДКУБЕРСКАЯ МАСКА в инстаграм! Как сделать свою маску"
+    data-channel-url="https://www.youtube.com/channel/UC54jb8VtvOEZmkYfAwyfDrw"
+    data-channel-title="AVIZORRA"
+    data-duration="6:39"
+    data-published-at="2019-11-14"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

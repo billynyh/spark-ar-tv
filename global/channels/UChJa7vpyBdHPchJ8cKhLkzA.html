@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=uuIuoKz2I3U" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/uuIuoKz2I3U/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">0:58</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=uuIuoKz2I3U">Paint face</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UChJa7vpyBdHPchJ8cKhLkzA">Aan Kurniawan</a>
-      &bull;
-      2019-12-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=uuIuoKz2I3U"
+    data-thumbnail-url="https://i.ytimg.com/vi/uuIuoKz2I3U/sddefault.jpg"
+    data-title="Paint face"
+    data-channel-url="https://www.youtube.com/channel/UChJa7vpyBdHPchJ8cKhLkzA"
+    data-channel-title="Aan Kurniawan"
+    data-duration="0:58"
+    data-published-at="2019-12-21"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=6XwLwj8R87g" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/6XwLwj8R87g/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:59</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=6XwLwj8R87g">Spark AR : Instagram Filter - Bugis 3D</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UChJa7vpyBdHPchJ8cKhLkzA">Aan Kurniawan</a>
-      &bull;
-      2019-12-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=6XwLwj8R87g"
+    data-thumbnail-url="https://i.ytimg.com/vi/6XwLwj8R87g/sddefault.jpg"
+    data-title="Spark AR : Instagram Filter - Bugis 3D"
+    data-channel-url="https://www.youtube.com/channel/UChJa7vpyBdHPchJ8cKhLkzA"
+    data-channel-title="Aan Kurniawan"
+    data-duration="2:59"
+    data-published-at="2019-12-21"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

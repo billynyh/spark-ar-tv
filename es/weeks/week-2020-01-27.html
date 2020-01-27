@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=zJAYvJbCR_k" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/zJAYvJbCR_k/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:43</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=zJAYvJbCR_k">Spark AR  - Templates Guide: Head, Neck Decoration, World Object and more</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html">Emiliusvgs</a>
-      &bull;
-      2020-01-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=zJAYvJbCR_k"
+    data-thumbnail-url="https://i.ytimg.com/vi/zJAYvJbCR_k/sddefault.jpg"
+    data-title="Spark AR  - Templates Guide: Head, Neck Decoration, World Object and more"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html"
+    data-channel-title="Emiliusvgs"
+    data-duration="7:43"
+    data-published-at="2020-01-27"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

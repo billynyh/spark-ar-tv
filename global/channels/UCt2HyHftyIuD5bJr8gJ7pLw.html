@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=8GTGtQVwF6s" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/8GTGtQVwF6s/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:38</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=8GTGtQVwF6s">สอนทำฟิลเตอร์ไอจีแก้มแดง🐙ออกแบบด้วยแอพ sketchbook บนมือถือ!🌈 | filter ig</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCt2HyHftyIuD5bJr8gJ7pLw">moneyld</a>
-      &bull;
-      2019-12-28
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=8GTGtQVwF6s"
+    data-thumbnail-url="https://i.ytimg.com/vi/8GTGtQVwF6s/sddefault.jpg"
+    data-title="สอนทำฟิลเตอร์ไอจีแก้มแดง🐙ออกแบบด้วยแอพ sketchbook บนมือถือ!🌈 | filter ig"
+    data-channel-url="https://www.youtube.com/channel/UCt2HyHftyIuD5bJr8gJ7pLw"
+    data-channel-title="moneyld"
+    data-duration="4:38"
+    data-published-at="2019-12-28"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=ixKIEnylujo" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/ixKIEnylujo/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:33</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=ixKIEnylujo">สอนทำฟิลเตอร์ไอจี ✨ ออกแบบง่ายๆด้วยแอพ over บนมือถือ!💗 | filter ig</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCt2HyHftyIuD5bJr8gJ7pLw">moneyld</a>
-      &bull;
-      2019-12-23
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=ixKIEnylujo"
+    data-thumbnail-url="https://i.ytimg.com/vi/ixKIEnylujo/sddefault.jpg"
+    data-title="สอนทำฟิลเตอร์ไอจี ✨ ออกแบบง่ายๆด้วยแอพ over บนมือถือ!💗 | filter ig"
+    data-channel-url="https://www.youtube.com/channel/UCt2HyHftyIuD5bJr8gJ7pLw"
+    data-channel-title="moneyld"
+    data-duration="10:33"
+    data-published-at="2019-12-23"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

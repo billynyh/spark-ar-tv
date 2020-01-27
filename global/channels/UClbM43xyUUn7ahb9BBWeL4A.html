@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=sO45RXRHd0c" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/sO45RXRHd0c/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:37</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=sO45RXRHd0c">Crear filtro "quien eres" para instagram</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UClbM43xyUUn7ahb9BBWeL4A">Elena Go</a>
-      &bull;
-      2020-01-11
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=sO45RXRHd0c"
+    data-thumbnail-url="https://i.ytimg.com/vi/sO45RXRHd0c/sddefault.jpg"
+    data-title="Crear filtro "quien eres" para instagram"
+    data-channel-url="https://www.youtube.com/channel/UClbM43xyUUn7ahb9BBWeL4A"
+    data-channel-title="Elena Go"
+    data-duration="10:37"
+    data-published-at="2020-01-11"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=hw1DklYnI5k" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/hw1DklYnI5k/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">14:24</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=hw1DklYnI5k">Cómo SUBIR un filtro a INSTAGRAM</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UClbM43xyUUn7ahb9BBWeL4A">Elena Go</a>
-      &bull;
-      2019-12-01
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=hw1DklYnI5k"
+    data-thumbnail-url="https://i.ytimg.com/vi/hw1DklYnI5k/sddefault.jpg"
+    data-title="Cómo SUBIR un filtro a INSTAGRAM"
+    data-channel-url="https://www.youtube.com/channel/UClbM43xyUUn7ahb9BBWeL4A"
+    data-channel-title="Elena Go"
+    data-duration="14:24"
+    data-published-at="2019-12-01"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=7Sqgc6onelc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/7Sqgc6onelc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">16:34</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=7Sqgc6onelc">CREA tu propio FILTRO de INSTAGRAM 😍(Spark AR)</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UClbM43xyUUn7ahb9BBWeL4A">Elena Go</a>
-      &bull;
-      2019-11-05
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=7Sqgc6onelc"
+    data-thumbnail-url="https://i.ytimg.com/vi/7Sqgc6onelc/sddefault.jpg"
+    data-title="CREA tu propio FILTRO de INSTAGRAM 😍(Spark AR)"
+    data-channel-url="https://www.youtube.com/channel/UClbM43xyUUn7ahb9BBWeL4A"
+    data-channel-title="Elena Go"
+    data-duration="16:34"
+    data-published-at="2019-11-05"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

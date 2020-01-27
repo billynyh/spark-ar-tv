@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=pliQxRfVY5s" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/pliQxRfVY5s/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:38</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=pliQxRfVY5s">🤚🏻Spark AR Tutorial. ЭФФЕКТ старой пленки. Быстро и просто🥰</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC8Sq5l2wDYw5YzAq8X6JRcg">Ham Ster</a>
-      &bull;
-      2019-11-01
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=pliQxRfVY5s"
+    data-thumbnail-url="https://i.ytimg.com/vi/pliQxRfVY5s/sddefault.jpg"
+    data-title="🤚🏻Spark AR Tutorial. ЭФФЕКТ старой пленки. Быстро и просто🥰"
+    data-channel-url="https://www.youtube.com/channel/UC8Sq5l2wDYw5YzAq8X6JRcg"
+    data-channel-title="Ham Ster"
+    data-duration="3:38"
+    data-published-at="2019-11-01"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=8aBKSnpaJ54" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/8aBKSnpaJ54/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">19:29</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=8aBKSnpaJ54">Spark AR Tutorial. Анимация 3D объектов над головой.</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC8Sq5l2wDYw5YzAq8X6JRcg">Ham Ster</a>
-      &bull;
-      2019-10-29
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=8aBKSnpaJ54"
+    data-thumbnail-url="https://i.ytimg.com/vi/8aBKSnpaJ54/sddefault.jpg"
+    data-title="Spark AR Tutorial. Анимация 3D объектов над головой."
+    data-channel-url="https://www.youtube.com/channel/UC8Sq5l2wDYw5YzAq8X6JRcg"
+    data-channel-title="Ham Ster"
+    data-duration="19:29"
+    data-published-at="2019-10-29"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=vKL7ScEkL0U" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/vKL7ScEkL0U/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=vKL7ScEkL0U">Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC8Sq5l2wDYw5YzAq8X6JRcg">Ham Ster</a>
-      &bull;
-      2019-10-25
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=vKL7ScEkL0U"
+    data-thumbnail-url="https://i.ytimg.com/vi/vKL7ScEkL0U/sddefault.jpg"
+    data-title="Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls"
+    data-channel-url="https://www.youtube.com/channel/UC8Sq5l2wDYw5YzAq8X6JRcg"
+    data-channel-title="Ham Ster"
+    data-duration="5:56"
+    data-published-at="2019-10-25"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

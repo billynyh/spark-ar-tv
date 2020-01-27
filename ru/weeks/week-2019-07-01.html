@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=Yj0EOIK7mNk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/Yj0EOIK7mNk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:26</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=Yj0EOIK7mNk">Spark ar studio уроки. 2 урок - создание маски-фона. Как создать свою маску Инстаграм.</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCI2CajpqcsjV8iGgUoljDJw.html">ViLiAR</a>
-      &bull;
-      2019-07-03
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=Yj0EOIK7mNk"
+    data-thumbnail-url="https://i.ytimg.com/vi/Yj0EOIK7mNk/sddefault.jpg"
+    data-title="Spark ar studio уроки. 2 урок - создание маски-фона. Как создать свою маску Инстаграм."
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCI2CajpqcsjV8iGgUoljDJw.html"
+    data-channel-title="ViLiAR"
+    data-duration="2:26"
+    data-published-at="2019-07-03"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=WCEWztLQVIE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/WCEWztLQVIE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">11:52</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=WCEWztLQVIE">КАК СДЕЛАТЬ МАСКУ(ФИЛЬТР) ДЛЯ ИНСТАГРАМ?😍за 5 минут//spark AR//самый лёгкий способ</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCPko-n400EdM3B4H3Vt92yQ">Mariya Gold</a>
-      &bull;
-      2019-11-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=WCEWztLQVIE"
+    data-thumbnail-url="https://i.ytimg.com/vi/WCEWztLQVIE/sddefault.jpg"
+    data-title="КАК СДЕЛАТЬ МАСКУ(ФИЛЬТР) ДЛЯ ИНСТАГРАМ?😍за 5 минут//spark AR//самый лёгкий способ"
+    data-channel-url="https://www.youtube.com/channel/UCPko-n400EdM3B4H3Vt92yQ"
+    data-channel-title="Mariya Gold"
+    data-duration="11:52"
+    data-published-at="2019-11-20"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

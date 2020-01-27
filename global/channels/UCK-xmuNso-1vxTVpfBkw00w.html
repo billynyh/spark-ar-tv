@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=oSp_CgomdzA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/oSp_CgomdzA/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:47</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=oSp_CgomdzA">4 awesome AR creators I met at AWE 2019 in Munich.</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCK-xmuNso-1vxTVpfBkw00w">Maria Nova</a>
-      &bull;
-      2019-11-14
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=oSp_CgomdzA"
+    data-thumbnail-url="https://i.ytimg.com/vi/oSp_CgomdzA/hqdefault.jpg"
+    data-title="4 awesome AR creators I met at AWE 2019 in Munich."
+    data-channel-url="https://www.youtube.com/channel/UCK-xmuNso-1vxTVpfBkw00w"
+    data-channel-title="Maria Nova"
+    data-duration="3:47"
+    data-published-at="2019-11-14"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

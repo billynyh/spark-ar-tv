@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=q626kHEuzNk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/q626kHEuzNk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:45</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=q626kHEuzNk">Spark AR Membuat color LUTs menerapkan Presets dan Profiles Lightroom Bahasa Indonesia</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCTEymLUVu-3wkDI3ignKe6Q">Roni Immanuel</a>
-      &bull;
-      2020-01-14
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=q626kHEuzNk"
+    data-thumbnail-url="https://i.ytimg.com/vi/q626kHEuzNk/sddefault.jpg"
+    data-title="Spark AR Membuat color LUTs menerapkan Presets dan Profiles Lightroom Bahasa Indonesia"
+    data-channel-url="https://www.youtube.com/channel/UCTEymLUVu-3wkDI3ignKe6Q"
+    data-channel-title="Roni Immanuel"
+    data-duration="7:45"
+    data-published-at="2020-01-14"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=wTNJJkYzjJg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/wTNJJkYzjJg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:06</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=wTNJJkYzjJg">Update Terbaru Spark AR Studio v78 1 Bahasa Indonesia</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCTEymLUVu-3wkDI3ignKe6Q">Roni Immanuel</a>
-      &bull;
-      2020-01-04
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=wTNJJkYzjJg"
+    data-thumbnail-url="https://i.ytimg.com/vi/wTNJJkYzjJg/sddefault.jpg"
+    data-title="Update Terbaru Spark AR Studio v78 1 Bahasa Indonesia"
+    data-channel-url="https://www.youtube.com/channel/UCTEymLUVu-3wkDI3ignKe6Q"
+    data-channel-title="Roni Immanuel"
+    data-duration="6:06"
+    data-published-at="2020-01-04"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=E4U1hsMp21M" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/E4U1hsMp21M/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:15</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=E4U1hsMp21M">Spark AR Menambahkan Efek Physics kedalam 3D Object Bahasa Indonesia</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCTEymLUVu-3wkDI3ignKe6Q">Roni Immanuel</a>
-      &bull;
-      2020-01-04
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=E4U1hsMp21M"
+    data-thumbnail-url="https://i.ytimg.com/vi/E4U1hsMp21M/sddefault.jpg"
+    data-title="Spark AR Menambahkan Efek Physics kedalam 3D Object Bahasa Indonesia"
+    data-channel-url="https://www.youtube.com/channel/UCTEymLUVu-3wkDI3ignKe6Q"
+    data-channel-title="Roni Immanuel"
+    data-duration="4:15"
+    data-published-at="2020-01-04"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

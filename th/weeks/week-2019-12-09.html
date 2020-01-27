@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=H1nzyRLFiVg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/H1nzyRLFiVg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:50</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=H1nzyRLFiVg">how to🐷 : ทำ ‘ ไอจีฟิลเตอร์ ’ เป็นของตัวเอง [แบบง่ายสุด] พร้อมโหลดใช้งาน | 🌾IG filter</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCVwKkuYLLqiD15V7NWKcvQA.html">Rada Hitopakorn</a>
-      &bull;
-      2019-12-15
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=H1nzyRLFiVg"
+    data-thumbnail-url="https://i.ytimg.com/vi/H1nzyRLFiVg/sddefault.jpg"
+    data-title="how to🐷 : ทำ ‘ ไอจีฟิลเตอร์ ’ เป็นของตัวเอง [แบบง่ายสุด] พร้อมโหลดใช้งาน | 🌾IG filter"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCVwKkuYLLqiD15V7NWKcvQA.html"
+    data-channel-title="Rada Hitopakorn"
+    data-duration="9:50"
+    data-published-at="2019-12-15"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

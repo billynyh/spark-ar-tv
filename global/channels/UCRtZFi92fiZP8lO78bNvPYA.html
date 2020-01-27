@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=rX41H7yxo8A" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/rX41H7yxo8A/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:18</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=rX41H7yxo8A">✨מדריך לפילטר של כרטיסים מתחלפים לאינסטגרם ✨SPARK AR RANDOM CARDS in 7 min!✨</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCRtZFi92fiZP8lO78bNvPYA">Nicole Herszkowicz</a>
-      &bull;
-      2020-01-13
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=rX41H7yxo8A"
+    data-thumbnail-url="https://i.ytimg.com/vi/rX41H7yxo8A/hqdefault.jpg"
+    data-title="✨מדריך לפילטר של כרטיסים מתחלפים לאינסטגרם ✨SPARK AR RANDOM CARDS in 7 min!✨"
+    data-channel-url="https://www.youtube.com/channel/UCRtZFi92fiZP8lO78bNvPYA"
+    data-channel-title="Nicole Herszkowicz"
+    data-duration="9:18"
+    data-published-at="2020-01-13"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

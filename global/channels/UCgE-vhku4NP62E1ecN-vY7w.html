@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=f4IxAwHFxVo" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/f4IxAwHFxVo/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">12:27</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=f4IxAwHFxVo">ทำ ไอจีฟิลเตอร์ ง่ายๆ ภายใน 10 นาที | Part1</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCgE-vhku4NP62E1ecN-vY7w">TE4M</a>
-      &bull;
-      2019-12-25
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=f4IxAwHFxVo"
+    data-thumbnail-url="https://i.ytimg.com/vi/f4IxAwHFxVo/sddefault.jpg"
+    data-title="ทำ ไอจีฟิลเตอร์ ง่ายๆ ภายใน 10 นาที | Part1"
+    data-channel-url="https://www.youtube.com/channel/UCgE-vhku4NP62E1ecN-vY7w"
+    data-channel-title="TE4M"
+    data-duration="12:27"
+    data-published-at="2019-12-25"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

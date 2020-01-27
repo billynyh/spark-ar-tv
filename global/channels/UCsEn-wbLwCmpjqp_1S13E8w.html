@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=hnccSp7u4Ik" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/hnccSp7u4Ik/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=hnccSp7u4Ik">Eigene Instagram Filter erstellen! | Spark Ar Studio Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCsEn-wbLwCmpjqp_1S13E8w">Julius</a>
-      &bull;
-      2020-01-08
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=hnccSp7u4Ik"
+    data-thumbnail-url="https://i.ytimg.com/vi/hnccSp7u4Ik/sddefault.jpg"
+    data-title="Eigene Instagram Filter erstellen! | Spark Ar Studio Tutorial"
+    data-channel-url="https://www.youtube.com/channel/UCsEn-wbLwCmpjqp_1S13E8w"
+    data-channel-title="Julius"
+    data-duration="9:56"
+    data-published-at="2020-01-08"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

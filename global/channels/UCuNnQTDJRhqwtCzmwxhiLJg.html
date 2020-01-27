@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=qycOJR-7p-c" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/qycOJR-7p-c/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:51:16</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=qycOJR-7p-c">Делаем маску в Spark AR для инстаграм</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCuNnQTDJRhqwtCzmwxhiLJg">Обучение, раскрутка, заработок, инфо видео</a>
-      &bull;
-      2020-01-23
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=qycOJR-7p-c"
+    data-thumbnail-url="https://i.ytimg.com/vi/qycOJR-7p-c/sddefault.jpg"
+    data-title="Делаем маску в Spark AR для инстаграм"
+    data-channel-url="https://www.youtube.com/channel/UCuNnQTDJRhqwtCzmwxhiLJg"
+    data-channel-title="Обучение, раскрутка, заработок, инфо видео"
+    data-duration="1:51:16"
+    data-published-at="2020-01-23"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

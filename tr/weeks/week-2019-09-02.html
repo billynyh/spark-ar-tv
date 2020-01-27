@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=mpZXXcjOrFc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/mpZXXcjOrFc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:47</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=mpZXXcjOrFc">Spark AR Studio'ya ses nasıl eklenir?</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCmubYNW4ytha2Qzx2uTNZdA.html">uzmanim.net</a>
-      &bull;
-      2019-09-08
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=mpZXXcjOrFc"
+    data-thumbnail-url="https://i.ytimg.com/vi/mpZXXcjOrFc/sddefault.jpg"
+    data-title="Spark AR Studio'ya ses nasıl eklenir?"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCmubYNW4ytha2Qzx2uTNZdA.html"
+    data-channel-title="uzmanim.net"
+    data-duration="1:47"
+    data-published-at="2019-09-08"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

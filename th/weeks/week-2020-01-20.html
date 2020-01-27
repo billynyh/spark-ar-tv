@@ -76,81 +76,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=nnBPjINEdVw" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/nnBPjINEdVw/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">8:19</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=nnBPjINEdVw">สอนทำ Effect & Filter Instagram EP.2 - เอา Effect ที่ทำลง IG อย่างไง?</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCVJ2FVVAmYeaRoH05mNBCeg.html">BossMoo</a>
-      &bull;
-      2020-01-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=nnBPjINEdVw"
+    data-thumbnail-url="https://i.ytimg.com/vi/nnBPjINEdVw/sddefault.jpg"
+    data-title="สอนทำ Effect & Filter Instagram EP.2 - เอา Effect ที่ทำลง IG อย่างไง?"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCVJ2FVVAmYeaRoH05mNBCeg.html"
+    data-channel-title="BossMoo"
+    data-duration="8:19"
+    data-published-at="2020-01-20"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=ID9AL2ldkYI" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/ID9AL2ldkYI/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:42</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=ID9AL2ldkYI">Facebook Live แบบตัดฉากหลังด้วยมือถือ | โดย สุชาติ พรมมี</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCODZW2MQn1O4dk4qGmITocQ.html">สุชาติ พรมมี</a>
-      &bull;
-      2020-01-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=ID9AL2ldkYI"
+    data-thumbnail-url="https://i.ytimg.com/vi/ID9AL2ldkYI/sddefault.jpg"
+    data-title="Facebook Live แบบตัดฉากหลังด้วยมือถือ | โดย สุชาติ พรมมี"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCODZW2MQn1O4dk4qGmITocQ.html"
+    data-channel-title="สุชาติ พรมมี"
+    data-duration="10:42"
+    data-published-at="2020-01-20"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=rTufgBAVFV8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/rTufgBAVFV8/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">16:16</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=rTufgBAVFV8">โทนสีแต่งภาพ Filter Ig Story Spark AR Studio</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC3ctzBamIQxsBcftcM479Tw.html">iibolife</a>
-      &bull;
-      2020-01-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=rTufgBAVFV8"
+    data-thumbnail-url="https://i.ytimg.com/vi/rTufgBAVFV8/hqdefault.jpg"
+    data-title="โทนสีแต่งภาพ Filter Ig Story Spark AR Studio"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC3ctzBamIQxsBcftcM479Tw.html"
+    data-channel-title="iibolife"
+    data-duration="16:16"
+    data-published-at="2020-01-20"
+></div>
 
 </div>
 
@@ -171,7 +129,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

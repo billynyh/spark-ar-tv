@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=rnPA0mnbw5o" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/rnPA0mnbw5o/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">11:03</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=rnPA0mnbw5o">Spark AR tutorial for beginners</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCILTACbI9Y3L8QUuuF8pKlw">Crazy Play</a>
-      &bull;
-      2019-11-26
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=rnPA0mnbw5o"
+    data-thumbnail-url="https://i.ytimg.com/vi/rnPA0mnbw5o/hqdefault.jpg"
+    data-title="Spark AR tutorial for beginners"
+    data-channel-url="https://www.youtube.com/channel/UCILTACbI9Y3L8QUuuF8pKlw"
+    data-channel-title="Crazy Play"
+    data-duration="11:03"
+    data-published-at="2019-11-26"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -76,81 +76,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=gGpIqYW4ML8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/gGpIqYW4ML8/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:19</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=gGpIqYW4ML8">Spark AR Tutorial - ITA - Filtro Instagram con oggetto che ruota intorno al volto.</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCKDogLKt54zYhiAiL6R04LA.html">jessicavangone</a>
-      &bull;
-      2019-12-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=gGpIqYW4ML8"
+    data-thumbnail-url="https://i.ytimg.com/vi/gGpIqYW4ML8/sddefault.jpg"
+    data-title="Spark AR Tutorial - ITA - Filtro Instagram con oggetto che ruota intorno al volto."
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCKDogLKt54zYhiAiL6R04LA.html"
+    data-channel-title="jessicavangone"
+    data-duration="2:19"
+    data-published-at="2019-12-20"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=eLqc9ciLL7k" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/eLqc9ciLL7k/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">8:16</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=eLqc9ciLL7k">Creare FILTRI per Instagram - COLORGRADING (2/3)</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC9fTGEk9pDhONb1D1EWQOXg.html">Visualmadda</a>
-      &bull;
-      2019-12-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=eLqc9ciLL7k"
+    data-thumbnail-url="https://i.ytimg.com/vi/eLqc9ciLL7k/sddefault.jpg"
+    data-title="Creare FILTRI per Instagram - COLORGRADING (2/3)"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC9fTGEk9pDhONb1D1EWQOXg.html"
+    data-channel-title="Visualmadda"
+    data-duration="8:16"
+    data-published-at="2019-12-20"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=6MbqtHRpv2g" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/6MbqtHRpv2g/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:01</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=6MbqtHRpv2g">SparkAr - VinRuscDay Filter</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCpCYTUG1KSRFOssPg_kE28w.html">SPSDesign</a>
-      &bull;
-      2019-12-19
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=6MbqtHRpv2g"
+    data-thumbnail-url="https://i.ytimg.com/vi/6MbqtHRpv2g/sddefault.jpg"
+    data-title="SparkAr - VinRuscDay Filter"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCpCYTUG1KSRFOssPg_kE28w.html"
+    data-channel-title="SPSDesign"
+    data-duration="2:01"
+    data-published-at="2019-12-19"
+></div>
 
 </div>
 
@@ -171,7 +129,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

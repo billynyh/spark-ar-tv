@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=Oqc2O9OBfnc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/Oqc2O9OBfnc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:32</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=Oqc2O9OBfnc">урок 2. Создание маски в иснтаграм.</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCgsvY76IgQGwDUJ9f7ye-5w">Какая-то Юлия</a>
-      &bull;
-      2020-01-12
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=Oqc2O9OBfnc"
+    data-thumbnail-url="https://i.ytimg.com/vi/Oqc2O9OBfnc/sddefault.jpg"
+    data-title="урок 2. Создание маски в иснтаграм."
+    data-channel-url="https://www.youtube.com/channel/UCgsvY76IgQGwDUJ9f7ye-5w"
+    data-channel-title="Какая-то Юлия"
+    data-duration="5:32"
+    data-published-at="2020-01-12"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=TuUZstzfDb8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/TuUZstzfDb8/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">8:03</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=TuUZstzfDb8">урок 1. Создание маски в инстаграм.</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCgsvY76IgQGwDUJ9f7ye-5w">Какая-то Юлия</a>
-      &bull;
-      2020-01-11
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=TuUZstzfDb8"
+    data-thumbnail-url="https://i.ytimg.com/vi/TuUZstzfDb8/sddefault.jpg"
+    data-title="урок 1. Создание маски в инстаграм."
+    data-channel-url="https://www.youtube.com/channel/UCgsvY76IgQGwDUJ9f7ye-5w"
+    data-channel-title="Какая-то Юлия"
+    data-duration="8:03"
+    data-published-at="2020-01-11"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

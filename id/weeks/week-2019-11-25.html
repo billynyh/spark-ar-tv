@@ -76,81 +76,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=UeE7JofnujM" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/UeE7JofnujM/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:22</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=UeE7JofnujM">Membuat Filter Instagram 360° - Spark AR Studio [ Tutorial ]</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html">Rudy Anwar</a>
-      &bull;
-      2019-11-30
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=UeE7JofnujM"
+    data-thumbnail-url="https://i.ytimg.com/vi/UeE7JofnujM/sddefault.jpg"
+    data-title="Membuat Filter Instagram 360° - Spark AR Studio [ Tutorial ]"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html"
+    data-channel-title="Rudy Anwar"
+    data-duration="5:22"
+    data-published-at="2019-11-30"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=iNWbJ_ajjQA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/iNWbJ_ajjQA/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:04</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=iNWbJ_ajjQA">Cara buat filter instagram sendiri,box logo diwajah | SPARK AR STUDIO</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCQCTjmp7_TGIt69WPLbf_TQ.html">DEWA KAWE</a>
-      &bull;
-      2019-11-30
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=iNWbJ_ajjQA"
+    data-thumbnail-url="https://i.ytimg.com/vi/iNWbJ_ajjQA/sddefault.jpg"
+    data-title="Cara buat filter instagram sendiri,box logo diwajah | SPARK AR STUDIO"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCQCTjmp7_TGIt69WPLbf_TQ.html"
+    data-channel-title="DEWA KAWE"
+    data-duration="10:04"
+    data-published-at="2019-11-30"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=kd9p1bw1X-g" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/kd9p1bw1X-g/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:50</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=kd9p1bw1X-g">Cara Membuat Filter Face Instagram Story Pakai Preset LR & VSCO | #SHARINGISCARING Ep7</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCaCPKzvGee6vPsNZS6cx7Wg.html">Adnan Saputro</a>
-      &bull;
-      2019-11-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=kd9p1bw1X-g"
+    data-thumbnail-url="https://i.ytimg.com/vi/kd9p1bw1X-g/sddefault.jpg"
+    data-title="Cara Membuat Filter Face Instagram Story Pakai Preset LR & VSCO | #SHARINGISCARING Ep7"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCaCPKzvGee6vPsNZS6cx7Wg.html"
+    data-channel-title="Adnan Saputro"
+    data-duration="6:50"
+    data-published-at="2019-11-27"
+></div>
 
 </div>
 
@@ -171,7 +129,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

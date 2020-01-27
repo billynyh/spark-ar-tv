@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=NCIGgdw5aUg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/NCIGgdw5aUg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:32</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=NCIGgdw5aUg">Create Facebook and Instagram Indian flag face mesh filter paint effect | Spark AR Studio Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC1zuvQ2jbeNJb5u6LyhpBHA">Mahesh Parab</a>
-      &bull;
-      2020-01-25
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=NCIGgdw5aUg"
+    data-thumbnail-url="https://i.ytimg.com/vi/NCIGgdw5aUg/sddefault.jpg"
+    data-title="Create Facebook and Instagram Indian flag face mesh filter paint effect | Spark AR Studio Tutorial"
+    data-channel-url="https://www.youtube.com/channel/UC1zuvQ2jbeNJb5u6LyhpBHA"
+    data-channel-title="Mahesh Parab"
+    data-duration="2:32"
+    data-published-at="2020-01-25"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=rR_9IEvHsoY" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/rR_9IEvHsoY/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:49</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=rR_9IEvHsoY">ANIMATION CLIP MASKING TEXT IN CSS</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC1zuvQ2jbeNJb5u6LyhpBHA">Mahesh Parab</a>
-      &bull;
-      2019-08-11
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=rR_9IEvHsoY"
+    data-thumbnail-url="https://i.ytimg.com/vi/rR_9IEvHsoY/sddefault.jpg"
+    data-title="ANIMATION CLIP MASKING TEXT IN CSS"
+    data-channel-url="https://www.youtube.com/channel/UC1zuvQ2jbeNJb5u6LyhpBHA"
+    data-channel-title="Mahesh Parab"
+    data-duration="1:49"
+    data-published-at="2019-08-11"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

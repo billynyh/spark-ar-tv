@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=u2YXOhSsEI0" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/u2YXOhSsEI0/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:53</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=u2YXOhSsEI0">Добавление таргет трекера в SPARK AR. Target tracking.</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCWDjgSsMBokNMFq8wMpR0oQ">WHY NOT</a>
-      &bull;
-      2019-11-28
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=u2YXOhSsEI0"
+    data-thumbnail-url="https://i.ytimg.com/vi/u2YXOhSsEI0/sddefault.jpg"
+    data-title="Добавление таргет трекера в SPARK AR. Target tracking."
+    data-channel-url="https://www.youtube.com/channel/UCWDjgSsMBokNMFq8wMpR0oQ"
+    data-channel-title="WHY NOT"
+    data-duration="5:53"
+    data-published-at="2019-11-28"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=4ZBI4sk41uc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/4ZBI4sk41uc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">11:12</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=4ZBI4sk41uc">СОЗДАНИЕ ПРОСТОЙ МАСКИ ДЛЯ ИНСТАГРАМ+ИКОНКА+ЗАГРУЗКА. SPARK AR</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCWDjgSsMBokNMFq8wMpR0oQ">WHY NOT</a>
-      &bull;
-      2019-09-23
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=4ZBI4sk41uc"
+    data-thumbnail-url="https://i.ytimg.com/vi/4ZBI4sk41uc/sddefault.jpg"
+    data-title="СОЗДАНИЕ ПРОСТОЙ МАСКИ ДЛЯ ИНСТАГРАМ+ИКОНКА+ЗАГРУЗКА. SPARK AR"
+    data-channel-url="https://www.youtube.com/channel/UCWDjgSsMBokNMFq8wMpR0oQ"
+    data-channel-title="WHY NOT"
+    data-duration="11:12"
+    data-published-at="2019-09-23"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

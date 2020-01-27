@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=bncF46UlDgA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/bncF46UlDgA/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:05</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=bncF46UlDgA">Как сделать маску для инстаграм? Spark AR Studio урок номер 3</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCUhaT4TkmzWaUFSPhRc6Oug">Oksy TV</a>
-      &bull;
-      2019-12-08
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=bncF46UlDgA"
+    data-thumbnail-url="https://i.ytimg.com/vi/bncF46UlDgA/sddefault.jpg"
+    data-title="Как сделать маску для инстаграм? Spark AR Studio урок номер 3"
+    data-channel-url="https://www.youtube.com/channel/UCUhaT4TkmzWaUFSPhRc6Oug"
+    data-channel-title="Oksy TV"
+    data-duration="6:05"
+    data-published-at="2019-12-08"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=t0r5EcM7rkc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/t0r5EcM7rkc/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:55</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=t0r5EcM7rkc">Как загрузить маску в инстаграм // Spark AR Studio / урок 2</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCUhaT4TkmzWaUFSPhRc6Oug">Oksy TV</a>
-      &bull;
-      2019-10-06
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=t0r5EcM7rkc"
+    data-thumbnail-url="https://i.ytimg.com/vi/t0r5EcM7rkc/hqdefault.jpg"
+    data-title="Как загрузить маску в инстаграм // Spark AR Studio / урок 2"
+    data-channel-url="https://www.youtube.com/channel/UCUhaT4TkmzWaUFSPhRc6Oug"
+    data-channel-title="Oksy TV"
+    data-duration="3:55"
+    data-published-at="2019-10-06"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=QNfXDwpDvO8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/QNfXDwpDvO8/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:34</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=QNfXDwpDvO8">Как создать маску в инстаграм новичку за минуту</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCUhaT4TkmzWaUFSPhRc6Oug">Oksy TV</a>
-      &bull;
-      2019-09-07
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=QNfXDwpDvO8"
+    data-thumbnail-url="https://i.ytimg.com/vi/QNfXDwpDvO8/sddefault.jpg"
+    data-title="Как создать маску в инстаграм новичку за минуту"
+    data-channel-url="https://www.youtube.com/channel/UCUhaT4TkmzWaUFSPhRc6Oug"
+    data-channel-title="Oksy TV"
+    data-duration="1:34"
+    data-published-at="2019-09-07"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

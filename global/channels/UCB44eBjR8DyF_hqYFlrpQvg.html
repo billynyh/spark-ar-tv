@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=eL9IZZTXcdI" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/eL9IZZTXcdI/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">24:32</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=eL9IZZTXcdI">Your first instagram face filter in spark AR</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCB44eBjR8DyF_hqYFlrpQvg">UI Helen</a>
-      &bull;
-      2020-01-03
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=eL9IZZTXcdI"
+    data-thumbnail-url="https://i.ytimg.com/vi/eL9IZZTXcdI/hqdefault.jpg"
+    data-title="Your first instagram face filter in spark AR"
+    data-channel-url="https://www.youtube.com/channel/UCB44eBjR8DyF_hqYFlrpQvg"
+    data-channel-title="UI Helen"
+    data-duration="24:32"
+    data-published-at="2020-01-03"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

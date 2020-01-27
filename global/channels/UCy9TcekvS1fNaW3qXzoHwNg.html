@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=j0n-DYLkZkQ" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/j0n-DYLkZkQ/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:53</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=j0n-DYLkZkQ">КАК СДЕЛАТЬ СВОЙ ФИЛЬТР В INSTAGRAM \\ LUTS in SPARK AR</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCy9TcekvS1fNaW3qXzoHwNg">Disavle</a>
-      &bull;
-      2019-08-30
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=j0n-DYLkZkQ"
+    data-thumbnail-url="https://i.ytimg.com/vi/j0n-DYLkZkQ/sddefault.jpg"
+    data-title="КАК СДЕЛАТЬ СВОЙ ФИЛЬТР В INSTAGRAM \\ LUTS in SPARK AR"
+    data-channel-url="https://www.youtube.com/channel/UCy9TcekvS1fNaW3qXzoHwNg"
+    data-channel-title="Disavle"
+    data-duration="5:53"
+    data-published-at="2019-08-30"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=Av3vkCKOQZA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/Av3vkCKOQZA/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:47</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=Av3vkCKOQZA">СВОЯ МАСКА В INSTAGRAM! \\ СВЕТЯЩИЕСЯ ГЛАЗА \\ ДОБАВЛЕНИЕ МУЗЫКИ \\ Spark AR</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCy9TcekvS1fNaW3qXzoHwNg">Disavle</a>
-      &bull;
-      2019-08-28
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=Av3vkCKOQZA"
+    data-thumbnail-url="https://i.ytimg.com/vi/Av3vkCKOQZA/sddefault.jpg"
+    data-title="СВОЯ МАСКА В INSTAGRAM! \\ СВЕТЯЩИЕСЯ ГЛАЗА \\ ДОБАВЛЕНИЕ МУЗЫКИ \\ Spark AR"
+    data-channel-url="https://www.youtube.com/channel/UCy9TcekvS1fNaW3qXzoHwNg"
+    data-channel-title="Disavle"
+    data-duration="7:47"
+    data-published-at="2019-08-28"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=76aLipJ--To" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/76aLipJ--To/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">8:29</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=76aLipJ--To">КАК СДЕЛАТЬ СВОЮ МАСКУ В INSTAGRAM? \\ СЕРИАЛ "ЭЙФОРИЯ" \\ ТЕПЕРЬ ВЫКЛАДЫВАТЬ МОГУТ ВСЕ! \\ Spark AR</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCy9TcekvS1fNaW3qXzoHwNg">Disavle</a>
-      &bull;
-      2019-08-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=76aLipJ--To"
+    data-thumbnail-url="https://i.ytimg.com/vi/76aLipJ--To/sddefault.jpg"
+    data-title="КАК СДЕЛАТЬ СВОЮ МАСКУ В INSTAGRAM? \\ СЕРИАЛ "ЭЙФОРИЯ" \\ ТЕПЕРЬ ВЫКЛАДЫВАТЬ МОГУТ ВСЕ! \\ Spark AR"
+    data-channel-url="https://www.youtube.com/channel/UCy9TcekvS1fNaW3qXzoHwNg"
+    data-channel-title="Disavle"
+    data-duration="8:29"
+    data-published-at="2019-08-21"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

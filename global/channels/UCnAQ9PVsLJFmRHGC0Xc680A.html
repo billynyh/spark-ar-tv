@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=TLKaD9sstPI" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/TLKaD9sstPI/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">16:48</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=TLKaD9sstPI">Crea un Filtro de Instagram Para Distorsionar Rostros</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCnAQ9PVsLJFmRHGC0Xc680A">MassterFX || Tutoriales Para Artistas Visuales</a>
-      &bull;
-      2019-12-31
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=TLKaD9sstPI"
+    data-thumbnail-url="https://i.ytimg.com/vi/TLKaD9sstPI/sddefault.jpg"
+    data-title="Crea un Filtro de Instagram Para Distorsionar Rostros"
+    data-channel-url="https://www.youtube.com/channel/UCnAQ9PVsLJFmRHGC0Xc680A"
+    data-channel-title="MassterFX || Tutoriales Para Artistas Visuales"
+    data-duration="16:48"
+    data-published-at="2019-12-31"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=rkGyndJiR4s" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/rkGyndJiR4s/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:53</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=rkGyndJiR4s">Crea Filtros Para Instagram Con Modelos 3D (Daft Punk)</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCnAQ9PVsLJFmRHGC0Xc680A">MassterFX || Tutoriales Para Artistas Visuales</a>
-      &bull;
-      2019-11-05
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=rkGyndJiR4s"
+    data-thumbnail-url="https://i.ytimg.com/vi/rkGyndJiR4s/sddefault.jpg"
+    data-title="Crea Filtros Para Instagram Con Modelos 3D (Daft Punk)"
+    data-channel-url="https://www.youtube.com/channel/UCnAQ9PVsLJFmRHGC0Xc680A"
+    data-channel-title="MassterFX || Tutoriales Para Artistas Visuales"
+    data-duration="10:53"
+    data-published-at="2019-11-05"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=3sycClIqnwg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/3sycClIqnwg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">19:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=3sycClIqnwg">CREA filtros Para Instagram FACIL</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCnAQ9PVsLJFmRHGC0Xc680A">MassterFX || Tutoriales Para Artistas Visuales</a>
-      &bull;
-      2019-10-30
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=3sycClIqnwg"
+    data-thumbnail-url="https://i.ytimg.com/vi/3sycClIqnwg/sddefault.jpg"
+    data-title="CREA filtros Para Instagram FACIL"
+    data-channel-url="https://www.youtube.com/channel/UCnAQ9PVsLJFmRHGC0Xc680A"
+    data-channel-title="MassterFX || Tutoriales Para Artistas Visuales"
+    data-duration="19:56"
+    data-published-at="2019-10-30"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

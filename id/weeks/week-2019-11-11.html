@@ -76,81 +76,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=7cVXtaBO6ow" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/7cVXtaBO6ow/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:54</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=7cVXtaBO6ow">Tutorial SPARK AR STUDIO : Membuat Filter Instagram Bahasa Indonesia</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCBNATOWbTbVxtAWC6oYJ6rg.html">Shilta Inda</a>
-      &bull;
-      2019-11-17
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=7cVXtaBO6ow"
+    data-thumbnail-url="https://i.ytimg.com/vi/7cVXtaBO6ow/sddefault.jpg"
+    data-title="Tutorial SPARK AR STUDIO : Membuat Filter Instagram Bahasa Indonesia"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCBNATOWbTbVxtAWC6oYJ6rg.html"
+    data-channel-title="Shilta Inda"
+    data-duration="6:54"
+    data-published-at="2019-11-17"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=FT5D8oGnnOY" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/FT5D8oGnnOY/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:01</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=FT5D8oGnnOY">Dust Effect/Effect Debu + Pastel Pink - Spark AR Studio [TUTORIAL]</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html">Rudy Anwar</a>
-      &bull;
-      2019-11-16
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=FT5D8oGnnOY"
+    data-thumbnail-url="https://i.ytimg.com/vi/FT5D8oGnnOY/sddefault.jpg"
+    data-title="Dust Effect/Effect Debu + Pastel Pink - Spark AR Studio [TUTORIAL]"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html"
+    data-channel-title="Rudy Anwar"
+    data-duration="10:01"
+    data-published-at="2019-11-16"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=PdV2eXcIJIg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/PdV2eXcIJIg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:01</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=PdV2eXcIJIg">Cara membuat Food Filter di Instagram - Spark AR Studio [ Tutorial ] ~ Free Filter</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html">Rudy Anwar</a>
-      &bull;
-      2019-11-11
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=PdV2eXcIJIg"
+    data-thumbnail-url="https://i.ytimg.com/vi/PdV2eXcIJIg/sddefault.jpg"
+    data-title="Cara membuat Food Filter di Instagram - Spark AR Studio [ Tutorial ] ~ Free Filter"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html"
+    data-channel-title="Rudy Anwar"
+    data-duration="10:01"
+    data-published-at="2019-11-11"
+></div>
 
 </div>
 
@@ -171,7 +129,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

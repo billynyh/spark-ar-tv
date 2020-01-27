@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=auZWKlhv1Sk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/auZWKlhv1Sk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:58</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=auZWKlhv1Sk">Vacay Makeup⛅️✨ แต่งหน้าไปเที่ยว ฉบับโซล🇰🇷 ลงสกินแคร์รับฤดูใบไม้ร่วง🍂 | ETUDE PINKNISTA</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCVwKkuYLLqiD15V7NWKcvQA.html">Rada Hitopakorn</a>
-      &bull;
-      2019-10-23
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=auZWKlhv1Sk"
+    data-thumbnail-url="https://i.ytimg.com/vi/auZWKlhv1Sk/sddefault.jpg"
+    data-title="Vacay Makeup⛅️✨ แต่งหน้าไปเที่ยว ฉบับโซล🇰🇷 ลงสกินแคร์รับฤดูใบไม้ร่วง🍂 | ETUDE PINKNISTA"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCVwKkuYLLqiD15V7NWKcvQA.html"
+    data-channel-title="Rada Hitopakorn"
+    data-duration="3:58"
+    data-published-at="2019-10-23"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

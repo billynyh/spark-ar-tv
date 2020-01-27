@@ -76,55 +76,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=HYQ_Kzyygk8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/HYQ_Kzyygk8/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">18:02</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=HYQ_Kzyygk8">Spark AR: How to Animate 3D Object (2020 Special)</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC_ycBf44SNpOc7w6kvYkufA.html">QKnow Design</a>
-      &bull;
-      2019-12-22
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=HYQ_Kzyygk8"
+    data-thumbnail-url="https://i.ytimg.com/vi/HYQ_Kzyygk8/sddefault.jpg"
+    data-title="Spark AR: How to Animate 3D Object (2020 Special)"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC_ycBf44SNpOc7w6kvYkufA.html"
+    data-channel-title="QKnow Design"
+    data-duration="18:02"
+    data-published-at="2019-12-22"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=X7ike4QMbOI" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/X7ike4QMbOI/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:41</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=X7ike4QMbOI">SPARK AR ANFÄNGER TUTORIAL DEUTSCH / LIGHTROOM PRESET ALS IG FILTER 2020</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCHs7JzMdNB18x5rsBOtxAgg.html">Jasmin Kiefer</a>
-      &bull;
-      2019-12-19
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=X7ike4QMbOI"
+    data-thumbnail-url="https://i.ytimg.com/vi/X7ike4QMbOI/sddefault.jpg"
+    data-title="SPARK AR ANFÄNGER TUTORIAL DEUTSCH / LIGHTROOM PRESET ALS IG FILTER 2020"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCHs7JzMdNB18x5rsBOtxAgg.html"
+    data-channel-title="Jasmin Kiefer"
+    data-duration="10:41"
+    data-published-at="2019-12-19"
+></div>
 
 </div>
 
@@ -145,7 +117,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

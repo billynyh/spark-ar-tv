@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=SsflPRQ2TXg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/SsflPRQ2TXg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=SsflPRQ2TXg">Como poner LABIOS  grandes en los FILTROS DE INSTAGRAM / Tutorial 2 SPARKAR/ Esculpir cara filtro.</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCm_hkm9AxiOeBEM01jL8i6w">Celiwhat2</a>
-      &bull;
-      2019-10-22
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=SsflPRQ2TXg"
+    data-thumbnail-url="https://i.ytimg.com/vi/SsflPRQ2TXg/sddefault.jpg"
+    data-title="Como poner LABIOS  grandes en los FILTROS DE INSTAGRAM / Tutorial 2 SPARKAR/ Esculpir cara filtro."
+    data-channel-url="https://www.youtube.com/channel/UCm_hkm9AxiOeBEM01jL8i6w"
+    data-channel-title="Celiwhat2"
+    data-duration="4:56"
+    data-published-at="2019-10-22"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=-SSm_JGPo3s" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/-SSm_JGPo3s/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">13:13</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=-SSm_JGPo3s">COMO CREAR  los mejores FILTROS O MÁSCARAS para INSTAGRAM paso a paso //SPARK AR ESPAÑOL// CELIWHAT2</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCm_hkm9AxiOeBEM01jL8i6w">Celiwhat2</a>
-      &bull;
-      2019-10-14
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=-SSm_JGPo3s"
+    data-thumbnail-url="https://i.ytimg.com/vi/-SSm_JGPo3s/sddefault.jpg"
+    data-title="COMO CREAR  los mejores FILTROS O MÁSCARAS para INSTAGRAM paso a paso //SPARK AR ESPAÑOL// CELIWHAT2"
+    data-channel-url="https://www.youtube.com/channel/UCm_hkm9AxiOeBEM01jL8i6w"
+    data-channel-title="Celiwhat2"
+    data-duration="13:13"
+    data-published-at="2019-10-14"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=lSdy54CQYVk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/lSdy54CQYVk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:40</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=lSdy54CQYVk">КАК СДЕЛАТЬ СВОЮ МАСКУ для ИНСТАГРАМА?/ СОЗДАНИЕ МАСКИ/ АДИСОВНА</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCb3XtAkDjDzIjzjivNRXVwA">Elza Adisowna</a>
-      &bull;
-      2019-11-02
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=lSdy54CQYVk"
+    data-thumbnail-url="https://i.ytimg.com/vi/lSdy54CQYVk/sddefault.jpg"
+    data-title="КАК СДЕЛАТЬ СВОЮ МАСКУ для ИНСТАГРАМА?/ СОЗДАНИЕ МАСКИ/ АДИСОВНА"
+    data-channel-url="https://www.youtube.com/channel/UCb3XtAkDjDzIjzjivNRXVwA"
+    data-channel-title="Elza Adisowna"
+    data-duration="5:40"
+    data-published-at="2019-11-02"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

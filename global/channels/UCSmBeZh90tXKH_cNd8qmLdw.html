@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=mNH8PGu4fc8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/mNH8PGu4fc8/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:38</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=mNH8PGu4fc8">1.1 The Complete Spark AR Course - Intro</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCSmBeZh90tXKH_cNd8qmLdw">Spinning Rock</a>
-      &bull;
-      2019-10-09
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=mNH8PGu4fc8"
+    data-thumbnail-url="https://i.ytimg.com/vi/mNH8PGu4fc8/hqdefault.jpg"
+    data-title="1.1 The Complete Spark AR Course - Intro"
+    data-channel-url="https://www.youtube.com/channel/UCSmBeZh90tXKH_cNd8qmLdw"
+    data-channel-title="Spinning Rock"
+    data-duration="2:38"
+    data-published-at="2019-10-09"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=jjejW4I3QLY" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/jjejW4I3QLY/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:44</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=jjejW4I3QLY">КАК СДЕЛАТЬ ФИЛЬТР/ПРЕСЕТ В ИНСТАГРАМ В SPARK AR STUDIO</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCgUYY2ytma-cqK30XQPRh8g">Dana Ishimova</a>
-      &bull;
-      2019-11-19
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=jjejW4I3QLY"
+    data-thumbnail-url="https://i.ytimg.com/vi/jjejW4I3QLY/sddefault.jpg"
+    data-title="КАК СДЕЛАТЬ ФИЛЬТР/ПРЕСЕТ В ИНСТАГРАМ В SPARK AR STUDIO"
+    data-channel-url="https://www.youtube.com/channel/UCgUYY2ytma-cqK30XQPRh8g"
+    data-channel-title="Dana Ishimova"
+    data-duration="7:44"
+    data-published-at="2019-11-19"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=75v6WaY6XrA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/75v6WaY6XrA/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:07</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=75v6WaY6XrA">Как увеличить губы в Spark AR Studio. Деформация Лица в Spark AR Studio</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCgUYY2ytma-cqK30XQPRh8g">Dana Ishimova</a>
-      &bull;
-      2019-11-19
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=75v6WaY6XrA"
+    data-thumbnail-url="https://i.ytimg.com/vi/75v6WaY6XrA/sddefault.jpg"
+    data-title="Как увеличить губы в Spark AR Studio. Деформация Лица в Spark AR Studio"
+    data-channel-url="https://www.youtube.com/channel/UCgUYY2ytma-cqK30XQPRh8g"
+    data-channel-title="Dana Ishimova"
+    data-duration="3:07"
+    data-published-at="2019-11-19"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=aDw0N9JbDAM" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/aDw0N9JbDAM/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:26</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=aDw0N9JbDAM">Как начать создавать маски в Инстаграм! Где скачать Spark AR Studio!?</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCgUYY2ytma-cqK30XQPRh8g">Dana Ishimova</a>
-      &bull;
-      2019-10-03
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=aDw0N9JbDAM"
+    data-thumbnail-url="https://i.ytimg.com/vi/aDw0N9JbDAM/sddefault.jpg"
+    data-title="Как начать создавать маски в Инстаграм! Где скачать Spark AR Studio!?"
+    data-channel-url="https://www.youtube.com/channel/UCgUYY2ytma-cqK30XQPRh8g"
+    data-channel-title="Dana Ishimova"
+    data-duration="3:26"
+    data-published-at="2019-10-03"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

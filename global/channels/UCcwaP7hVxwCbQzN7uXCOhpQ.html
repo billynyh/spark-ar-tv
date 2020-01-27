@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=Pa41f14Jr4g" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/Pa41f14Jr4g/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">19:48</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=Pa41f14Jr4g">Kendi Instagram Filtreni Kendin Yap! Spark AR Studio - Instagram Filtresi Nasıl Yapılır? Türkçe</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCcwaP7hVxwCbQzN7uXCOhpQ">AETech</a>
-      &bull;
-      2019-08-23
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=Pa41f14Jr4g"
+    data-thumbnail-url="https://i.ytimg.com/vi/Pa41f14Jr4g/sddefault.jpg"
+    data-title="Kendi Instagram Filtreni Kendin Yap! Spark AR Studio - Instagram Filtresi Nasıl Yapılır? Türkçe"
+    data-channel-url="https://www.youtube.com/channel/UCcwaP7hVxwCbQzN7uXCOhpQ"
+    data-channel-title="AETech"
+    data-duration="19:48"
+    data-published-at="2019-08-23"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

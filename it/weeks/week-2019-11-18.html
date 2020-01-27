@@ -76,81 +76,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=4avuvtr-eYU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/4avuvtr-eYU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">15:09</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=4avuvtr-eYU">COME CREARE FILTRI INSTAGRAM ASSURDI - TUTORIAL ITA SPARK AR STUDIO</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCjsi-hdm0Tpt57xXyFvvVDw.html">Ingeimaks</a>
-      &bull;
-      2019-11-23
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=4avuvtr-eYU"
+    data-thumbnail-url="https://i.ytimg.com/vi/4avuvtr-eYU/sddefault.jpg"
+    data-title="COME CREARE FILTRI INSTAGRAM ASSURDI - TUTORIAL ITA SPARK AR STUDIO"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCjsi-hdm0Tpt57xXyFvvVDw.html"
+    data-channel-title="Ingeimaks"
+    data-duration="15:09"
+    data-published-at="2019-11-23"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=8j_eUBtkmzc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/8j_eUBtkmzc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:28</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=8j_eUBtkmzc">Come Realizzare Filtri Personalizzati per Instagram (PARTE 2/2)</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCO5Ut2l8T2rquh1HLbs5XbQ.html">Linebeck</a>
-      &bull;
-      2019-11-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=8j_eUBtkmzc"
+    data-thumbnail-url="https://i.ytimg.com/vi/8j_eUBtkmzc/sddefault.jpg"
+    data-title="Come Realizzare Filtri Personalizzati per Instagram (PARTE 2/2)"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCO5Ut2l8T2rquh1HLbs5XbQ.html"
+    data-channel-title="Linebeck"
+    data-duration="6:28"
+    data-published-at="2019-11-20"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=-J4y0M_pUEU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/-J4y0M_pUEU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:53</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=-J4y0M_pUEU">Come Realizzare Filtri Personalizzati per Instagram (PARTE 1/2)</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCO5Ut2l8T2rquh1HLbs5XbQ.html">Linebeck</a>
-      &bull;
-      2019-11-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=-J4y0M_pUEU"
+    data-thumbnail-url="https://i.ytimg.com/vi/-J4y0M_pUEU/sddefault.jpg"
+    data-title="Come Realizzare Filtri Personalizzati per Instagram (PARTE 1/2)"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCO5Ut2l8T2rquh1HLbs5XbQ.html"
+    data-channel-title="Linebeck"
+    data-duration="7:53"
+    data-published-at="2019-11-20"
+></div>
 
 </div>
 
@@ -171,7 +129,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

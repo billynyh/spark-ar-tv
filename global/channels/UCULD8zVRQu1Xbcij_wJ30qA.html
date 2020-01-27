@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=4VewdzP_oso" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/4VewdzP_oso/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:31</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=4VewdzP_oso">COME CREARE UN FILTRO INSTAGRAM IN MENO DI 3 MINUTI!! TiaMooseca</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCULD8zVRQu1Xbcij_wJ30qA">Tia Mooseca</a>
-      &bull;
-      2020-01-19
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=4VewdzP_oso"
+    data-thumbnail-url="https://i.ytimg.com/vi/4VewdzP_oso/sddefault.jpg"
+    data-title="COME CREARE UN FILTRO INSTAGRAM IN MENO DI 3 MINUTI!! TiaMooseca"
+    data-channel-url="https://www.youtube.com/channel/UCULD8zVRQu1Xbcij_wJ30qA"
+    data-channel-title="Tia Mooseca"
+    data-duration="4:31"
+    data-published-at="2020-01-19"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

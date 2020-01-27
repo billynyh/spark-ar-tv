@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=7TgLHngtLDs" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/7TgLHngtLDs/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:39</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=7TgLHngtLDs">Best of 2019 | Motion Design, Animation & Resources - Motion Design Awards</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCjJk212xU15y_NPYKuCsKQA">Ben Marriott</a>
-      &bull;
-      2019-12-25
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=7TgLHngtLDs"
+    data-thumbnail-url="https://i.ytimg.com/vi/7TgLHngtLDs/sddefault.jpg"
+    data-title="Best of 2019 | Motion Design, Animation & Resources - Motion Design Awards"
+    data-channel-url="https://www.youtube.com/channel/UCjJk212xU15y_NPYKuCsKQA"
+    data-channel-title="Ben Marriott"
+    data-duration="4:39"
+    data-published-at="2019-12-25"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=xSgRgcNqzfU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/xSgRgcNqzfU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:21</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=xSgRgcNqzfU">Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCjJk212xU15y_NPYKuCsKQA">Ben Marriott</a>
-      &bull;
-      2019-11-13
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=xSgRgcNqzfU"
+    data-thumbnail-url="https://i.ytimg.com/vi/xSgRgcNqzfU/sddefault.jpg"
+    data-title="Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD"
+    data-channel-url="https://www.youtube.com/channel/UCjJk212xU15y_NPYKuCsKQA"
+    data-channel-title="Ben Marriott"
+    data-duration="4:21"
+    data-published-at="2019-11-13"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=_B0G1jIaxMA" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/_B0G1jIaxMA/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:47</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=_B0G1jIaxMA">Create an Instagram Filter | Beginner Spark AR Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCjJk212xU15y_NPYKuCsKQA">Ben Marriott</a>
-      &bull;
-      2019-10-16
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=_B0G1jIaxMA"
+    data-thumbnail-url="https://i.ytimg.com/vi/_B0G1jIaxMA/sddefault.jpg"
+    data-title="Create an Instagram Filter | Beginner Spark AR Tutorial"
+    data-channel-url="https://www.youtube.com/channel/UCjJk212xU15y_NPYKuCsKQA"
+    data-channel-title="Ben Marriott"
+    data-duration="3:47"
+    data-published-at="2019-10-16"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

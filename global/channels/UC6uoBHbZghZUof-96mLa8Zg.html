@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=o8yf110GuzQ" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/o8yf110GuzQ/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:44</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=o8yf110GuzQ">СМЕНА МАСКИ по ТАПУ 😍 /Spark AR SCREEN TAP / Маска в ИНСТАГРАМ</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC6uoBHbZghZUof-96mLa8Zg">Daria Gordeichik</a>
-      &bull;
-      2019-09-17
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=o8yf110GuzQ"
+    data-thumbnail-url="https://i.ytimg.com/vi/o8yf110GuzQ/sddefault.jpg"
+    data-title="СМЕНА МАСКИ по ТАПУ 😍 /Spark AR SCREEN TAP / Маска в ИНСТАГРАМ"
+    data-channel-url="https://www.youtube.com/channel/UC6uoBHbZghZUof-96mLa8Zg"
+    data-channel-title="Daria Gordeichik"
+    data-duration="6:44"
+    data-published-at="2019-09-17"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=tbDtB_QZ4J4" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/tbDtB_QZ4J4/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:07</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=tbDtB_QZ4J4">Маска в ИНСТАГРАМ / Как сделать МАСКУ ДЛЯ INSTAGRAM/ SPARK AR для новичков</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC6uoBHbZghZUof-96mLa8Zg">Daria Gordeichik</a>
-      &bull;
-      2019-08-24
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=tbDtB_QZ4J4"
+    data-thumbnail-url="https://i.ytimg.com/vi/tbDtB_QZ4J4/sddefault.jpg"
+    data-title="Маска в ИНСТАГРАМ / Как сделать МАСКУ ДЛЯ INSTAGRAM/ SPARK AR для новичков"
+    data-channel-url="https://www.youtube.com/channel/UC6uoBHbZghZUof-96mLa8Zg"
+    data-channel-title="Daria Gordeichik"
+    data-duration="9:07"
+    data-published-at="2019-08-24"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

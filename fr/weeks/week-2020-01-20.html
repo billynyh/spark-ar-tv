@@ -76,29 +76,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=SFvZpLWuvyg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/SFvZpLWuvyg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:02</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=SFvZpLWuvyg">Spark AR Studio Tutoriel - Comment créer une Image Normal Map ? en Français</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCWkSJvFF7m-CstbIh9YnKYw.html">Robbie Conceptuel</a>
-      &bull;
-      2020-01-24
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=SFvZpLWuvyg"
+    data-thumbnail-url="https://i.ytimg.com/vi/SFvZpLWuvyg/sddefault.jpg"
+    data-title="Spark AR Studio Tutoriel - Comment créer une Image Normal Map ? en Français"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCWkSJvFF7m-CstbIh9YnKYw.html"
+    data-channel-title="Robbie Conceptuel"
+    data-duration="2:02"
+    data-published-at="2020-01-24"
+></div>
 
 </div>
 
@@ -119,7 +105,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=riZ7RMnYzqE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/riZ7RMnYzqE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:01</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=riZ7RMnYzqE">Crea tus propios filtros de realidad aumentada para Instagram</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCQSLny1RMIQ0jTp0o8h0yPg">Orange España</a>
-      &bull;
-      2020-01-07
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=riZ7RMnYzqE"
+    data-thumbnail-url="https://i.ytimg.com/vi/riZ7RMnYzqE/sddefault.jpg"
+    data-title="Crea tus propios filtros de realidad aumentada para Instagram"
+    data-channel-url="https://www.youtube.com/channel/UCQSLny1RMIQ0jTp0o8h0yPg"
+    data-channel-title="Orange España"
+    data-duration="3:01"
+    data-published-at="2020-01-07"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

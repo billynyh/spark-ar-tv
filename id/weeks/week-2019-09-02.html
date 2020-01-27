@@ -76,55 +76,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=iwz6_5vZvT8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/iwz6_5vZvT8/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:58</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=iwz6_5vZvT8">cara buat filter vsco/lightroom ke filter instagram ( spark ar studio part III )</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCsD_zblvR775KTo8yIJP6Tg.html">xxznif</a>
-      &bull;
-      2019-09-08
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=iwz6_5vZvT8"
+    data-thumbnail-url="https://i.ytimg.com/vi/iwz6_5vZvT8/sddefault.jpg"
+    data-title="cara buat filter vsco/lightroom ke filter instagram ( spark ar studio part III )"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCsD_zblvR775KTo8yIJP6Tg.html"
+    data-channel-title="xxznif"
+    data-duration="3:58"
+    data-published-at="2019-09-08"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=mTG4hxJejlk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/mTG4hxJejlk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:19</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=mTG4hxJejlk">cara ganti background filter instagram ( spark ar studio part II )</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCsD_zblvR775KTo8yIJP6Tg.html">xxznif</a>
-      &bull;
-      2019-09-03
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=mTG4hxJejlk"
+    data-thumbnail-url="https://i.ytimg.com/vi/mTG4hxJejlk/sddefault.jpg"
+    data-title="cara ganti background filter instagram ( spark ar studio part II )"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCsD_zblvR775KTo8yIJP6Tg.html"
+    data-channel-title="xxznif"
+    data-duration="2:19"
+    data-published-at="2019-09-03"
+></div>
 
 </div>
 
@@ -145,7 +117,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=YEp99nDbLAs" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/YEp99nDbLAs/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">15:48</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=YEp99nDbLAs">МАСКА-ПРЕСЕТ в ИНСТАГРАМ | ПЫЛИНКИ | ПЕРЕКЛЮЧЕНИЕ Spark AR</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCE9eM-AiTF_DkulHfvrfSOg">Ansia Life</a>
-      &bull;
-      2019-09-25
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=YEp99nDbLAs"
+    data-thumbnail-url="https://i.ytimg.com/vi/YEp99nDbLAs/sddefault.jpg"
+    data-title="МАСКА-ПРЕСЕТ в ИНСТАГРАМ | ПЫЛИНКИ | ПЕРЕКЛЮЧЕНИЕ Spark AR"
+    data-channel-url="https://www.youtube.com/channel/UCE9eM-AiTF_DkulHfvrfSOg"
+    data-channel-title="Ansia Life"
+    data-duration="15:48"
+    data-published-at="2019-09-25"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=dGBwrBQDU3A" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/dGBwrBQDU3A/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:32</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=dGBwrBQDU3A">КАК СДЕЛАТЬ МАСКУ В INSTAGRAM | ДЕФОРМАЦИЯ ЛИЦА</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCE9eM-AiTF_DkulHfvrfSOg">Ansia Life</a>
-      &bull;
-      2019-09-07
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=dGBwrBQDU3A"
+    data-thumbnail-url="https://i.ytimg.com/vi/dGBwrBQDU3A/sddefault.jpg"
+    data-title="КАК СДЕЛАТЬ МАСКУ В INSTAGRAM | ДЕФОРМАЦИЯ ЛИЦА"
+    data-channel-url="https://www.youtube.com/channel/UCE9eM-AiTF_DkulHfvrfSOg"
+    data-channel-title="Ansia Life"
+    data-duration="4:32"
+    data-published-at="2019-09-07"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=KYqBU-StZpU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/KYqBU-StZpU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">8:02</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=KYqBU-StZpU">Как создать МАСКУ В ИНСТАГРАМ | Пошаговое руководство</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCE9eM-AiTF_DkulHfvrfSOg">Ansia Life</a>
-      &bull;
-      2019-08-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=KYqBU-StZpU"
+    data-thumbnail-url="https://i.ytimg.com/vi/KYqBU-StZpU/sddefault.jpg"
+    data-title="Как создать МАСКУ В ИНСТАГРАМ | Пошаговое руководство"
+    data-channel-url="https://www.youtube.com/channel/UCE9eM-AiTF_DkulHfvrfSOg"
+    data-channel-title="Ansia Life"
+    data-duration="8:02"
+    data-published-at="2019-08-20"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

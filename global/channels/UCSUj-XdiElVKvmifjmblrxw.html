@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=tk-pPlLi5Co" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/tk-pPlLi5Co/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">18:23</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=tk-pPlLi5Co">Spark Ar studio Botones desplegables-Drop-down buttons</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCSUj-XdiElVKvmifjmblrxw">MDALatam studio dyn Fotografia</a>
-      &bull;
-      2019-08-16
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=tk-pPlLi5Co"
+    data-thumbnail-url="https://i.ytimg.com/vi/tk-pPlLi5Co/sddefault.jpg"
+    data-title="Spark Ar studio Botones desplegables-Drop-down buttons"
+    data-channel-url="https://www.youtube.com/channel/UCSUj-XdiElVKvmifjmblrxw"
+    data-channel-title="MDALatam studio dyn Fotografia"
+    data-duration="18:23"
+    data-published-at="2019-08-16"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=tbcxVqAd8Hw" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/tbcxVqAd8Hw/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">0:35</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=tbcxVqAd8Hw">Spark Ar Studio Mda latam</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCSUj-XdiElVKvmifjmblrxw">MDALatam studio dyn Fotografia</a>
-      &bull;
-      2019-02-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=tbcxVqAd8Hw"
+    data-thumbnail-url="https://i.ytimg.com/vi/tbcxVqAd8Hw/sddefault.jpg"
+    data-title="Spark Ar Studio Mda latam"
+    data-channel-url="https://www.youtube.com/channel/UCSUj-XdiElVKvmifjmblrxw"
+    data-channel-title="MDALatam studio dyn Fotografia"
+    data-duration="0:35"
+    data-published-at="2019-02-27"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=m5JrirtgiOg" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/m5JrirtgiOg/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">0:19</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=m5JrirtgiOg">Spark Ar Studio Mda latam</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCSUj-XdiElVKvmifjmblrxw">MDALatam studio dyn Fotografia</a>
-      &bull;
-      2019-02-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=m5JrirtgiOg"
+    data-thumbnail-url="https://i.ytimg.com/vi/m5JrirtgiOg/sddefault.jpg"
+    data-title="Spark Ar Studio Mda latam"
+    data-channel-url="https://www.youtube.com/channel/UCSUj-XdiElVKvmifjmblrxw"
+    data-channel-title="MDALatam studio dyn Fotografia"
+    data-duration="0:19"
+    data-published-at="2019-02-27"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

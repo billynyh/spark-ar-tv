@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=8yJtgp6GuRE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/8yJtgp6GuRE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:39</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=8yJtgp6GuRE">Best Spark AR Mesh Layering | Simple Two ways of layering Techniques</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCsQpKbHYkaTHbMOnBNOxxuA">Sankalp Parab</a>
-      &bull;
-      2020-01-07
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=8yJtgp6GuRE"
+    data-thumbnail-url="https://i.ytimg.com/vi/8yJtgp6GuRE/sddefault.jpg"
+    data-title="Best Spark AR Mesh Layering | Simple Two ways of layering Techniques"
+    data-channel-url="https://www.youtube.com/channel/UCsQpKbHYkaTHbMOnBNOxxuA"
+    data-channel-title="Sankalp Parab"
+    data-duration="2:39"
+    data-published-at="2020-01-07"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=xXB9qbDKhpI" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/xXB9qbDKhpI/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:24</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=xXB9qbDKhpI">Best and Simple Spark AR Tutorial | Making of steampunk sunglasses</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCsQpKbHYkaTHbMOnBNOxxuA">Sankalp Parab</a>
-      &bull;
-      2019-10-22
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=xXB9qbDKhpI"
+    data-thumbnail-url="https://i.ytimg.com/vi/xXB9qbDKhpI/sddefault.jpg"
+    data-title="Best and Simple Spark AR Tutorial | Making of steampunk sunglasses"
+    data-channel-url="https://www.youtube.com/channel/UCsQpKbHYkaTHbMOnBNOxxuA"
+    data-channel-title="Sankalp Parab"
+    data-duration="3:24"
+    data-published-at="2019-10-22"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

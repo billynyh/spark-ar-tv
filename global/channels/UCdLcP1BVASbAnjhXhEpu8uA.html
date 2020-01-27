@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=mY4F4oD5Ig0" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/mY4F4oD5Ig0/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:37</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=mY4F4oD5Ig0">Как сделать маску для Инстаграм / Spark AR / Фильтр Инстаграм</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCdLcP1BVASbAnjhXhEpu8uA">Vlada Vaynberg</a>
-      &bull;
-      2019-12-13
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=mY4F4oD5Ig0"
+    data-thumbnail-url="https://i.ytimg.com/vi/mY4F4oD5Ig0/sddefault.jpg"
+    data-title="Как сделать маску для Инстаграм / Spark AR / Фильтр Инстаграм"
+    data-channel-url="https://www.youtube.com/channel/UCdLcP1BVASbAnjhXhEpu8uA"
+    data-channel-title="Vlada Vaynberg"
+    data-duration="10:37"
+    data-published-at="2019-12-13"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=kmsk74EDO8M" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/kmsk74EDO8M/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">18:59</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=kmsk74EDO8M">МАСКИ ИНСТАГРАМ / Самый лучший способ продвижения Инстаграм</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCdLcP1BVASbAnjhXhEpu8uA">Vlada Vaynberg</a>
-      &bull;
-      2019-09-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=kmsk74EDO8M"
+    data-thumbnail-url="https://i.ytimg.com/vi/kmsk74EDO8M/sddefault.jpg"
+    data-title="МАСКИ ИНСТАГРАМ / Самый лучший способ продвижения Инстаграм"
+    data-channel-url="https://www.youtube.com/channel/UCdLcP1BVASbAnjhXhEpu8uA"
+    data-channel-title="Vlada Vaynberg"
+    data-duration="18:59"
+    data-published-at="2019-09-27"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=II56YL_dntI" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/II56YL_dntI/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:08</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=II56YL_dntI">Ответы на Вопросы / КАК СДЕЛАТЬ МАСКУ ИНСТАГРАМ?!?!</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCdLcP1BVASbAnjhXhEpu8uA">Vlada Vaynberg</a>
-      &bull;
-      2019-06-29
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=II56YL_dntI"
+    data-thumbnail-url="https://i.ytimg.com/vi/II56YL_dntI/sddefault.jpg"
+    data-title="Ответы на Вопросы / КАК СДЕЛАТЬ МАСКУ ИНСТАГРАМ?!?!"
+    data-channel-url="https://www.youtube.com/channel/UCdLcP1BVASbAnjhXhEpu8uA"
+    data-channel-title="Vlada Vaynberg"
+    data-duration="3:08"
+    data-published-at="2019-06-29"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

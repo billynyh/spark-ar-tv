@@ -76,81 +76,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=NZes2-LJMaE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/NZes2-LJMaE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">2:31</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=NZes2-LJMaE">Spark AR studio Уроки. Как сделать маску своего лица? Маски в Инстаграм</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCYTyihvxy6KEcQrzXzp5j-w.html">Шпаргалка Криэйтора</a>
-      &bull;
-      2019-07-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=NZes2-LJMaE"
+    data-thumbnail-url="https://i.ytimg.com/vi/NZes2-LJMaE/sddefault.jpg"
+    data-title="Spark AR studio Уроки. Как сделать маску своего лица? Маски в Инстаграм"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCYTyihvxy6KEcQrzXzp5j-w.html"
+    data-channel-title="Шпаргалка Криэйтора"
+    data-duration="2:31"
+    data-published-at="2019-07-27"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=NAlLn2tBZ2w" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/NAlLn2tBZ2w/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:08</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=NAlLn2tBZ2w">Маски в Инстаграм на основе Gif Animation , Spark AR studio. Mask based on GIF Animation</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCYTyihvxy6KEcQrzXzp5j-w.html">Шпаргалка Криэйтора</a>
-      &bull;
-      2019-07-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=NAlLn2tBZ2w"
+    data-thumbnail-url="https://i.ytimg.com/vi/NAlLn2tBZ2w/sddefault.jpg"
+    data-title="Маски в Инстаграм на основе Gif Animation , Spark AR studio. Mask based on GIF Animation"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCYTyihvxy6KEcQrzXzp5j-w.html"
+    data-channel-title="Шпаргалка Криэйтора"
+    data-duration="5:08"
+    data-published-at="2019-07-27"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=ICBFNyQHaV4" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/ICBFNyQHaV4/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">22:46</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=ICBFNyQHaV4">Маски инстаграм ( Урок № 1)</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UC7wEk76BzCCY_hWdV9ANqOQ.html">Alexandra Everyday</a>
-      &bull;
-      2019-07-26
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=ICBFNyQHaV4"
+    data-thumbnail-url="https://i.ytimg.com/vi/ICBFNyQHaV4/sddefault.jpg"
+    data-title="Маски инстаграм ( Урок № 1)"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UC7wEk76BzCCY_hWdV9ANqOQ.html"
+    data-channel-title="Alexandra Everyday"
+    data-duration="22:46"
+    data-published-at="2019-07-26"
+></div>
 
 </div>
 
@@ -171,7 +129,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

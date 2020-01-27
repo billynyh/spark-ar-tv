@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=LcGQ1iS-bAk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/LcGQ1iS-bAk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:51</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=LcGQ1iS-bAk">Spark AR Studio - Scanner Face V2</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCwF8i8wUjnWJ9buvM2zQ2TA">iampimposo</a>
-      &bull;
-      2020-01-22
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=LcGQ1iS-bAk"
+    data-thumbnail-url="https://i.ytimg.com/vi/LcGQ1iS-bAk/sddefault.jpg"
+    data-title="Spark AR Studio - Scanner Face V2"
+    data-channel-url="https://www.youtube.com/channel/UCwF8i8wUjnWJ9buvM2zQ2TA"
+    data-channel-title="iampimposo"
+    data-duration="1:51"
+    data-published-at="2020-01-22"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=pRIH_NL-WEM" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/pRIH_NL-WEM/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:11</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=pRIH_NL-WEM">Spark AR Studio - Scanner Face</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCwF8i8wUjnWJ9buvM2zQ2TA">iampimposo</a>
-      &bull;
-      2020-01-18
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=pRIH_NL-WEM"
+    data-thumbnail-url="https://i.ytimg.com/vi/pRIH_NL-WEM/sddefault.jpg"
+    data-title="Spark AR Studio - Scanner Face"
+    data-channel-url="https://www.youtube.com/channel/UCwF8i8wUjnWJ9buvM2zQ2TA"
+    data-channel-title="iampimposo"
+    data-duration="1:11"
+    data-published-at="2020-01-18"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

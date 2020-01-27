@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=yuYoYTO789E" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/yuYoYTO789E/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">17:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=yuYoYTO789E">КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМЕ?///КАК ЗАГРУЗИТЬ МАСКУ В ИНСТАГРАМ?</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCFMRXY0NFNb9rVUhjQa5G8w">Mefny</a>
-      &bull;
-      2020-01-07
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=yuYoYTO789E"
+    data-thumbnail-url="https://i.ytimg.com/vi/yuYoYTO789E/hqdefault.jpg"
+    data-title="КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМЕ?///КАК ЗАГРУЗИТЬ МАСКУ В ИНСТАГРАМ?"
+    data-channel-url="https://www.youtube.com/channel/UCFMRXY0NFNb9rVUhjQa5G8w"
+    data-channel-title="Mefny"
+    data-duration="17:56"
+    data-published-at="2020-01-07"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

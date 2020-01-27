@@ -76,55 +76,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=gtGxxAIUqyE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/gtGxxAIUqyE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">12:21</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=gtGxxAIUqyE">SPARK AR ITA - COME CREARE MASCHERE E FILTRI INSTAGRAM NEON IN SEQUENZA</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCV135m1fNj2xE6yD70CPX2w.html">Natived_ Lab</a>
-      &bull;
-      2019-11-28
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=gtGxxAIUqyE"
+    data-thumbnail-url="https://i.ytimg.com/vi/gtGxxAIUqyE/sddefault.jpg"
+    data-title="SPARK AR ITA - COME CREARE MASCHERE E FILTRI INSTAGRAM NEON IN SEQUENZA"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCV135m1fNj2xE6yD70CPX2w.html"
+    data-channel-title="Natived_ Lab"
+    data-duration="12:21"
+    data-published-at="2019-11-28"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=nyo3l9Y-8eU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/nyo3l9Y-8eU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:04</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=nyo3l9Y-8eU">CREIAMO IL NOSTRO FILTRO INSTAGRAM! 💯</a>
-    </div>
-    <div class="meta">
-      <a href="https://billynyh.github.io/spark-ar-tv/global/channels/UCR-uCEwlxK5Fcn33zoXfwEg.html">Fucsia Braids</a>
-      &bull;
-      2019-11-25
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=nyo3l9Y-8eU"
+    data-thumbnail-url="https://i.ytimg.com/vi/nyo3l9Y-8eU/sddefault.jpg"
+    data-title="CREIAMO IL NOSTRO FILTRO INSTAGRAM! 💯"
+    data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCR-uCEwlxK5Fcn33zoXfwEg.html"
+    data-channel-title="Fucsia Braids"
+    data-duration="10:04"
+    data-published-at="2019-11-25"
+></div>
 
 </div>
 
@@ -145,7 +117,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=ES8-jY49KdU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/ES8-jY49KdU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">4:35</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=ES8-jY49KdU">КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ ЗА 5 МИНУТ</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCUu52VdED5ZfQDeV__9KwYA">Nastya Blaze</a>
-      &bull;
-      2019-12-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=ES8-jY49KdU"
+    data-thumbnail-url="https://i.ytimg.com/vi/ES8-jY49KdU/sddefault.jpg"
+    data-title="КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ ЗА 5 МИНУТ"
+    data-channel-url="https://www.youtube.com/channel/UCUu52VdED5ZfQDeV__9KwYA"
+    data-channel-title="Nastya Blaze"
+    data-duration="4:35"
+    data-published-at="2019-12-20"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

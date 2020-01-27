@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=4avuvtr-eYU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/4avuvtr-eYU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">15:09</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=4avuvtr-eYU">COME CREARE FILTRI INSTAGRAM ASSURDI - TUTORIAL ITA SPARK AR STUDIO</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCjsi-hdm0Tpt57xXyFvvVDw">Ingeimaks</a>
-      &bull;
-      2019-11-23
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=4avuvtr-eYU"
+    data-thumbnail-url="https://i.ytimg.com/vi/4avuvtr-eYU/sddefault.jpg"
+    data-title="COME CREARE FILTRI INSTAGRAM ASSURDI - TUTORIAL ITA SPARK AR STUDIO"
+    data-channel-url="https://www.youtube.com/channel/UCjsi-hdm0Tpt57xXyFvvVDw"
+    data-channel-title="Ingeimaks"
+    data-duration="15:09"
+    data-published-at="2019-11-23"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

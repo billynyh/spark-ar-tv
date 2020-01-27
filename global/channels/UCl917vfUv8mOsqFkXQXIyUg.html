@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=eR6vwvg21oY" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/eR6vwvg21oY/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:11</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=eR6vwvg21oY">who make a "beauty" filter  in spark ar</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCl917vfUv8mOsqFkXQXIyUg">uriya disegni</a>
-      &bull;
-      2020-01-17
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=eR6vwvg21oY"
+    data-thumbnail-url="https://i.ytimg.com/vi/eR6vwvg21oY/sddefault.jpg"
+    data-title="who make a "beauty" filter  in spark ar"
+    data-channel-url="https://www.youtube.com/channel/UCl917vfUv8mOsqFkXQXIyUg"
+    data-channel-title="uriya disegni"
+    data-duration="1:11"
+    data-published-at="2020-01-17"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=7m0XZEeCzjk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/7m0XZEeCzjk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">5:31</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=7m0XZEeCzjk">How to create an instagram effect on spark ar - "who", "which" effect</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCl917vfUv8mOsqFkXQXIyUg">uriya disegni</a>
-      &bull;
-      2020-01-16
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=7m0XZEeCzjk"
+    data-thumbnail-url="https://i.ytimg.com/vi/7m0XZEeCzjk/sddefault.jpg"
+    data-title="How to create an instagram effect on spark ar - "who", "which" effect"
+    data-channel-url="https://www.youtube.com/channel/UCl917vfUv8mOsqFkXQXIyUg"
+    data-channel-title="uriya disegni"
+    data-duration="5:31"
+    data-published-at="2020-01-16"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

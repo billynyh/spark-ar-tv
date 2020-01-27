@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=7QZzC4PsTZM" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/7QZzC4PsTZM/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">9:09</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=7QZzC4PsTZM">Como criar filtro BABY FACE pro Instagram - Distorção da Face</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCIpVFbojy6gn7yxGDMeMQRA">Cel Ilustra - Ilustrações e Estampas</a>
-      &bull;
-      2019-11-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=7QZzC4PsTZM"
+    data-thumbnail-url="https://i.ytimg.com/vi/7QZzC4PsTZM/sddefault.jpg"
+    data-title="Como criar filtro BABY FACE pro Instagram - Distorção da Face"
+    data-channel-url="https://www.youtube.com/channel/UCIpVFbojy6gn7yxGDMeMQRA"
+    data-channel-title="Cel Ilustra - Ilustrações e Estampas"
+    data-duration="9:09"
+    data-published-at="2019-11-21"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=qf1CFRr-5o8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/qf1CFRr-5o8/hqdefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">39:17</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=qf1CFRr-5o8">FILTRO PRO INSTAGRAM - Maquiagem Caveira Mexicana</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCIpVFbojy6gn7yxGDMeMQRA">Cel Ilustra - Ilustrações e Estampas</a>
-      &bull;
-      2019-11-01
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=qf1CFRr-5o8"
+    data-thumbnail-url="https://i.ytimg.com/vi/qf1CFRr-5o8/hqdefault.jpg"
+    data-title="FILTRO PRO INSTAGRAM - Maquiagem Caveira Mexicana"
+    data-channel-url="https://www.youtube.com/channel/UCIpVFbojy6gn7yxGDMeMQRA"
+    data-channel-title="Cel Ilustra - Ilustrações e Estampas"
+    data-duration="39:17"
+    data-published-at="2019-11-01"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=xOfGWPz9D0A" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/xOfGWPz9D0A/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">33:37</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=xOfGWPz9D0A">COMO CRIAR FILTRO NO INSTAGRAM - Passo a passo de 4 efeitos</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCIpVFbojy6gn7yxGDMeMQRA">Cel Ilustra - Ilustrações e Estampas</a>
-      &bull;
-      2019-10-31
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=xOfGWPz9D0A"
+    data-thumbnail-url="https://i.ytimg.com/vi/xOfGWPz9D0A/sddefault.jpg"
+    data-title="COMO CRIAR FILTRO NO INSTAGRAM - Passo a passo de 4 efeitos"
+    data-channel-url="https://www.youtube.com/channel/UCIpVFbojy6gn7yxGDMeMQRA"
+    data-channel-title="Cel Ilustra - Ilustrações e Estampas"
+    data-duration="33:37"
+    data-published-at="2019-10-31"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

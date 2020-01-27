@@ -73,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=o5YCrMRT_7o" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/o5YCrMRT_7o/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:32</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=o5YCrMRT_7o">How to Make "Which are You" Instgram Filter Spark AR Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCt_WdOWksI9lVnTtoZuSKTg">Varun Raikar</a>
-      &bull;
-      2020-01-24
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=o5YCrMRT_7o"
+    data-thumbnail-url="https://i.ytimg.com/vi/o5YCrMRT_7o/sddefault.jpg"
+    data-title="How to Make "Which are You" Instgram Filter Spark AR Tutorial"
+    data-channel-url="https://www.youtube.com/channel/UCt_WdOWksI9lVnTtoZuSKTg"
+    data-channel-title="Varun Raikar"
+    data-duration="7:32"
+    data-published-at="2020-01-24"
+></div>
 
 </div>
 
@@ -117,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

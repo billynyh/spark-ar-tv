@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=gJj45PX5sHE" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/gJj45PX5sHE/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">7:09</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=gJj45PX5sHE">Tutorial SPARK AR STUDIO : Membuat Filter di Instagram (Bahasa Indonesia)</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCBNATOWbTbVxtAWC6oYJ6rg">Shilta Inda</a>
-      &bull;
-      2019-12-19
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=gJj45PX5sHE"
+    data-thumbnail-url="https://i.ytimg.com/vi/gJj45PX5sHE/sddefault.jpg"
+    data-title="Tutorial SPARK AR STUDIO : Membuat Filter di Instagram (Bahasa Indonesia)"
+    data-channel-url="https://www.youtube.com/channel/UCBNATOWbTbVxtAWC6oYJ6rg"
+    data-channel-title="Shilta Inda"
+    data-duration="7:09"
+    data-published-at="2019-12-19"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=7cVXtaBO6ow" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/7cVXtaBO6ow/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">6:54</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=7cVXtaBO6ow">Tutorial SPARK AR STUDIO : Membuat Filter Instagram Bahasa Indonesia</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCBNATOWbTbVxtAWC6oYJ6rg">Shilta Inda</a>
-      &bull;
-      2019-11-17
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=7cVXtaBO6ow"
+    data-thumbnail-url="https://i.ytimg.com/vi/7cVXtaBO6ow/sddefault.jpg"
+    data-title="Tutorial SPARK AR STUDIO : Membuat Filter Instagram Bahasa Indonesia"
+    data-channel-url="https://www.youtube.com/channel/UCBNATOWbTbVxtAWC6oYJ6rg"
+    data-channel-title="Shilta Inda"
+    data-duration="6:54"
+    data-published-at="2019-11-17"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

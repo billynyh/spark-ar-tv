@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=UL2xNKk614M" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/UL2xNKk614M/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">0:41</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=UL2xNKk614M">Spark AR - Гладкая кожа (ретушь кожи). Как сделать маску в Инстаграм</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCQV8H4HJ04121iyDL-3OFCg">Для тех, у кого лапки</a>
-      &bull;
-      2019-10-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=UL2xNKk614M"
+    data-thumbnail-url="https://i.ytimg.com/vi/UL2xNKk614M/sddefault.jpg"
+    data-title="Spark AR - Гладкая кожа (ретушь кожи). Как сделать маску в Инстаграм"
+    data-channel-url="https://www.youtube.com/channel/UCQV8H4HJ04121iyDL-3OFCg"
+    data-channel-title="Для тех, у кого лапки"
+    data-duration="0:41"
+    data-published-at="2019-10-21"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=OgRocjLfXgU" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/OgRocjLfXgU/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:11</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=OgRocjLfXgU">Spark AR - Как сделать надпись на лице. Маска для Инстаграм</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCQV8H4HJ04121iyDL-3OFCg">Для тех, у кого лапки</a>
-      &bull;
-      2019-10-20
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=OgRocjLfXgU"
+    data-thumbnail-url="https://i.ytimg.com/vi/OgRocjLfXgU/sddefault.jpg"
+    data-title="Spark AR - Как сделать надпись на лице. Маска для Инстаграм"
+    data-channel-url="https://www.youtube.com/channel/UCQV8H4HJ04121iyDL-3OFCg"
+    data-channel-title="Для тех, у кого лапки"
+    data-duration="1:11"
+    data-published-at="2019-10-20"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

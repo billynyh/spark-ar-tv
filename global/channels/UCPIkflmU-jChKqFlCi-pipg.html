@@ -73,81 +73,39 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=YXCajhL_Pn8" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/YXCajhL_Pn8/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">10:02</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=YXCajhL_Pn8">Урок 1: Как делать крутые маски для инстаграм</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCPIkflmU-jChKqFlCi-pipg">3d school</a>
-      &bull;
-      2019-11-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=YXCajhL_Pn8"
+    data-thumbnail-url="https://i.ytimg.com/vi/YXCajhL_Pn8/sddefault.jpg"
+    data-title="Урок 1: Как делать крутые маски для инстаграм"
+    data-channel-url="https://www.youtube.com/channel/UCPIkflmU-jChKqFlCi-pipg"
+    data-channel-title="3d school"
+    data-duration="10:02"
+    data-published-at="2019-11-21"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=HLzHrm50Guc" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/HLzHrm50Guc/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">11:56</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=HLzHrm50Guc">урок 3: Миллион 3д моделей для новых масок в инстаграм</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCPIkflmU-jChKqFlCi-pipg">3d school</a>
-      &bull;
-      2019-11-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=HLzHrm50Guc"
+    data-thumbnail-url="https://i.ytimg.com/vi/HLzHrm50Guc/sddefault.jpg"
+    data-title="урок 3: Миллион 3д моделей для новых масок в инстаграм"
+    data-channel-url="https://www.youtube.com/channel/UCPIkflmU-jChKqFlCi-pipg"
+    data-channel-title="3d school"
+    data-duration="11:56"
+    data-published-at="2019-11-21"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=1Amlqj_oV-E" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/1Amlqj_oV-E/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">13:57</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=1Amlqj_oV-E">Урок 2: Как придумать новую маску?</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UCPIkflmU-jChKqFlCi-pipg">3d school</a>
-      &bull;
-      2019-11-21
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=1Amlqj_oV-E"
+    data-thumbnail-url="https://i.ytimg.com/vi/1Amlqj_oV-E/sddefault.jpg"
+    data-title="Урок 2: Как придумать новую маску?"
+    data-channel-url="https://www.youtube.com/channel/UCPIkflmU-jChKqFlCi-pipg"
+    data-channel-title="3d school"
+    data-duration="13:57"
+    data-published-at="2019-11-21"
+></div>
 
 </div>
 
@@ -169,7 +127,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

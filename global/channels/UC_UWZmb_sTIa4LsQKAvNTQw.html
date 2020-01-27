@@ -73,55 +73,27 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=OLCipWve774" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/OLCipWve774/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">3:32</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=OLCipWve774">Reflective Glass Shader for Spark AR</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC_UWZmb_sTIa4LsQKAvNTQw">Mate Steinforth</a>
-      &bull;
-      2019-11-27
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=OLCipWve774"
+    data-thumbnail-url="https://i.ytimg.com/vi/OLCipWve774/sddefault.jpg"
+    data-title="Reflective Glass Shader for Spark AR"
+    data-channel-url="https://www.youtube.com/channel/UC_UWZmb_sTIa4LsQKAvNTQw"
+    data-channel-title="Mate Steinforth"
+    data-duration="3:32"
+    data-published-at="2019-11-27"
+></div>
 
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=hImMgRb6TEk" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/hImMgRb6TEk/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">1:50</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=hImMgRb6TEk">Facebook Spark AR HDRI Environment / Glass Shader Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC_UWZmb_sTIa4LsQKAvNTQw">Mate Steinforth</a>
-      &bull;
-      2018-12-09
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=hImMgRb6TEk"
+    data-thumbnail-url="https://i.ytimg.com/vi/hImMgRb6TEk/sddefault.jpg"
+    data-title="Facebook Spark AR HDRI Environment / Glass Shader Tutorial"
+    data-channel-url="https://www.youtube.com/channel/UC_UWZmb_sTIa4LsQKAvNTQw"
+    data-channel-title="Mate Steinforth"
+    data-duration="1:50"
+    data-published-at="2018-12-09"
+></div>
 
 </div>
 
@@ -143,7 +115,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 
