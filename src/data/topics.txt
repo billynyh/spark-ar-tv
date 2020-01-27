@@ -132,6 +132,7 @@ KGWAvFbCGVo // Spark AR Studio - Glitter (Edge e Light Detection similar ao Kira
 XQekFaRtam0 // Как сделать маску в стиле kirra в Spark AR Studio? блестки/glitters
 neI8YTcJGqI // КАК СДЕЛАТЬ МАСКУ KIRA НА БЕЛОМ+LUT/ГЛИТТЕР/SPARK AR
 a0lrNep4yQo // HOW TO MAKE INSTAGRAM FILTERS  - Fast "kira kira" color effect tutorial on SPARK AR update v.78
+n4A5nFxZWis // КАК СДЕЛАТЬ ГЛИТТЕР С ТЕКСТУРОЙ ТОЧЕК?АНИМАЦИЯ PNG.SPARK AR
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -300,6 +301,7 @@ S7Gc7xGkc70 // Spark AR | Lightroom (Presets) Hazır Ayarlarınızı İnstagram 
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
 G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Anthi
+S7Fm6f1cRbc // Create an Instagram Color Filter in Spark AR | Beginner Tutorial
 
 # Music videos
 00qF95f6qBs // Grimes - Pretty Dark  {Demo}
@@ -463,6 +465,7 @@ o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
 cwg4ZDyTm8k // Как сделать маску Инстаграм с вопросами? Готовый шаблон
 SHo68PT7vfA // Уроки Spark AR Random КАРТИНОК и 3D ОБЪЕКТОВ. Маска в инстаграм рандом
 VHuRAwHxMxM // HOW TO MAKE WHICH / WHO ARE YOU FILTER EASY IN 3 MINUTES - FREE DOWNLOAD SPARK AR TEMPLATE
+cBpumG3ejbs // Как сделать круглую рамку для маски рандомайзер / кто ты? Spark AR и Photoshop
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
@@ -566,6 +569,7 @@ fgS4iHfpuIA // SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes
 # Tooling
 ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
 VinrQWhv0ss // Spark AR: Instagram Filters - Image Compression
+zJAYvJbCR_k // Spark AR  - Templates Guide: Head, Neck Decoration, World Object and more
 
 # Touch Gesture
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
