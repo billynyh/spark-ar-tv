@@ -364,7 +364,9 @@ fw5SKizDdh0 // Уроки Spark AR Studio  - Particle System👌🏻. Вылет
 272UJik_cdM // Spark AR Partículas Novas! Novo update no sistema de partículas!
 m-9BdirnrK4 // Spark AR Studio - Efectos de partículas flotando alrededor
 3bXuya898j4 // Урок 22 - Частицы, вылетающие при моргании и движении головы Spark AR. Система частиц Spark AR
+jwNTw2tEj08 // Cómo hacer filtros en instagram tutorial en español | Sistema de partículas
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
+d7tf6xDnoaQ // Spark AR Partículas ao piscar e abrir a boca. Tutorial de como usar birthrate.
 Hr-zfnq8PmA // Tutorial: Creating an Effect with Particles
 4rze2HaOGc8 // Spark AR GIF animation PARTICLES and TAP to TRY IT ON / HALLOWEEN FACE FILTER
 hOL-FZgAYYE // 💁TUTORIAL 2 SPARK AR STUDIO: PARTICLE CHE ESCONO DAGLI OCCHI
@@ -373,12 +375,15 @@ idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyel
 28bixY0DgvM // Creating Natural Feeling Particle Systems with Motion Vectors in Spark AR
 iGHpdd_qvUM // 3D Particle Fields in Spark AR
 uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
+6b5nnBaNdeA // Spark AR Native UI com Luts, Visible e Partículas
 yOsG__hIUas // Drawing with Particles - Spark AR
 fEUS-rY6DU8 // Glitter Effect Tutorial for Spark AR
 8lPnk4qmGGQ // Spark AR SpriteSheet Tutorial, how to make popcorn particles with a spritesheet.
 1hNHoKmn4Ag // Spark AR Tutorial #4: Particle System
 0GzBqIwgRyM // Spark AR/КАК СДЕЛАТЬ НИМБ/Particle system/Урок 7
+k9-uaTfpLPg // Spark AR Emissor de partículas girando e SDF
 XTqMshFg6Rg // Bokeh Particles in Spark AR
+U8CAMfoGD0Y // Spark AR Criando Partículas de fumaça em anéis
 6RNYsFzwdaY // สอนทำฟิลเตอร์ IG EP2: Particle ออกจากปาก ร่วงจากฟ้า
 ouWXN2BLMkc // Анимация Particle System
 
@@ -536,6 +541,7 @@ Cc-YubBQy-M // Spark AR Novos updates V78 Shaders e Pixelate
 Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 h6208mfKuoA // Spark ar - Tutorial easy texture distortion creative using SPARK AR library ONLY in v.78
 V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
+WKkoCfQbhmA // How to make filters: Clone shader patch for GLITCHY effects! Spark Ar for Beginners
 
 # Tap to change
 eDLvXDEK7us // Уроки Spark AR Studio. Смена эффекта по Тапу (Screen Tap).  Цвет губ. Маски в Инстаграм
