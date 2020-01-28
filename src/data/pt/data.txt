@@ -162,6 +162,7 @@ v4zYV3j6llw // Spark AR Apagando Vela Bolo de aniversário
 71wnBOdcwJA // Spark AR Desenhando com Nariz e Olhos!
 36kJ6iNKu6I // Spark AR Iris Tracking e trocar cor de olho!
 LtEeW-BZzzA // Spark AR Como criar o efeito Scanner usando SDF!
+SiYBt6iOsKM // Spark AR Plane Tracker, Parede de oclusão e Porta!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas

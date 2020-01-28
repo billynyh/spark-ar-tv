@@ -100,6 +100,7 @@ QB954GF0uSI // Voice Changer | Spark AR
 2uhVpMRo8MM // Random Image Effect Amendment [Record Trigger] | Spark AR
 iG9sMY6j-gA // 3D Random Image Effect | Spark AR Studio
 Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
+QpOLNFk8U4o // Replacing Backgrounds (360° Photos) | Spark AR Studio
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
@@ -389,6 +390,7 @@ BqGo2PvspqE // Spark AR Studio - Layers Tutorial : Problems with Layers  ?
 Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
 V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
+AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spark AR  ?
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
