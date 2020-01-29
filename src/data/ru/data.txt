@@ -249,6 +249,7 @@ EqynZCYHzxA // КАК ЗАГРУЗИТЬ МАСКУ В ИНСТАГРАМ | Spar
 IMM0anC9G6k // ИНСТА-МАСКА (Photoshop + Spark AR) БЕЛЫЕ ЗУБКИ. Простое отбеливание с наложением текстуры.
 ja6Elaxm1kY // ПОЛНЫЙ НАБОР В Spark AR. LUT + script + facemesh + plane. Создаем вместе маску как у Foreo.
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
+_zXG7p0_edI // Spark AR FixedTargetTracker - продвижение своего логотипа через Инстаграм.
 
 # kot
 JPOU_yTZKMY // СОЗДАЕМ МАСКУ с ДАРЬЕЙ ГРАФ
@@ -297,6 +298,7 @@ YjM-kwrIHiI // маска инстаграм с окружением
 ubTznTtFxkE // КАК ЗАГРУЗИТЬ МАСКУ В ИНСТАГРАМ | HOW TO EXPORT THE EFFECT TO INSTAGRAM
 bXd3BKDCe1c // маска-игра для бренда "электронный город"
 pXlUYX2IwZw // 3d eyelashes for spark ar. Tracking control
+JLWEyITs1gU // Rabbit mask 3d model for Spark AR. Customization. Capability
 
 # Oli Kokosik
 6knObtQ6H8w // Делаем маску в instagram / Spark AR для новичков. / 1 урок (установка и интерфейс)
@@ -367,6 +369,7 @@ F0S33wN-CnA // Как отбелить зубы? Уроки spark ar studio.
 oLlzI9zG8F8 // Уроки spark ar studio. Как создать маску Инстаграм?
 FmQ6YKbirmg // Уроки spark ar studio. Как сделать игру в instagram?
 jQpiDRIwIeo // Как сделать линзы? Уроки Spark ar studio.
+NIhmFVPi6js // Как сделать Lut фильтр? Как сделать кнопки? Уроки Spark ar studio.
 
 # Sveta Vesna
 p8qJKPjadkE // Spark AR/УРОК 1.РИСУНКИ НА ЛИЦЕ И МАКИЯЖ!

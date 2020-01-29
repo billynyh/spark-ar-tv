@@ -356,11 +356,15 @@ WvmfpvHoaNI // Spark AR - Fill Parent V69.0
 YpFfkCftF6U // Spark AR - LUTs + Segmentation
 59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
+lIl3vZEcbxY // Spark AR - Hidden Preview Videos!
 
 # Penguin Tech
 IVXKkBbGqpM // AR VR using Spark AR Framework  - Getting Started with AR & VR
 R6LUYbhffLs // How to start with AR VR  Framework -Develop  Project from scratch
 78pe0ugVMrI // Drone simulation in AR Spark | AR studio | AR game logic | AR VR Animation
+
+# Pinbout
+B1ZSEVb5OIU // Spark AR with Wyatt :)
 
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
@@ -394,6 +398,7 @@ Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object 
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
 V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
 AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spark AR  ?
+uUruWQMUXsE // Spark AR Studio Tutoriel Video - Comment créer une Animation 2D ? en Français
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
@@ -451,6 +456,7 @@ kJvRmXMvtGk // Censor Bar Tap to Change Filter Effect (Patch Editor) | Instagram
 9P2NbVhqj9Y // Change Background Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 D9rEDcY8XE0 // Alternate Layer Material (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 _eYKhKMIiTA // Gradient Colour Filter Effect (Tap Change, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
+l5a5fHZIGzM // Eyeball Tracking (Patch Editor) Snake Eye Filter Effect | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
