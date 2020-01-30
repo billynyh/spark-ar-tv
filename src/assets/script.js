@@ -52,7 +52,8 @@ $('.video-item').each(function(i, e){
       .append(playButton)
       ;
   const tw = div('thumb-wrapper').append(a);
-  const tc = div('thumb-container').append(tw);
+  const duration = div('thumb-label').text(e.attr('data-duration'));
+  const tc = div('thumb-container').append([tw, duration]);
   const title = div('title')
       .append(link(e.attr('data-title'), e.attr('data-video-url')));
   const meta = div('meta')

@@ -24,6 +24,9 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 # AndrewBakerVFX
 6kHrKpvpUXA // Exploring Spark AR Studio Face Filters - Intro for Beginners Tutorial: Lights Out #pge
 
+# Anna Lytical
+LZ4okgC2dj8 // Gourmet Makes: Instagram "which are you" effect coding tutorial  (CODE INCLUDED) #IWDFCFTBATK
+
 # AR with Renu
 TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
 Fl8_1-xl-54 // Spark AR : How To Create A Christmas Filter on Instagram
@@ -113,6 +116,7 @@ rnPA0mnbw5o // Spark AR tutorial for beginners
 
 # Dancing Developer
 Hzmyt-s_bZs // Spark AR Scripting Tutorial #1: Move items by screen tap
+8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare base textures.
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -291,6 +295,7 @@ NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter paint 
 
 # Manav Sharma
 S7Fm6f1cRbc // Create an Instagram Color Filter in Spark AR | Beginner Tutorial
+uka6NILQ3UY // ADD TAP TO CHANGE INSTRUCTION TO YOUR INSTAGRAM FILTERS | SPARK AR TUTORIAL
 
 # Manhsplains
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
@@ -328,6 +333,7 @@ yc5ohk_Nxng // Make filter effect with SPARK AR like "The Mandela Effect" movie
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
 jNGK9Q7oSsA // Watch me build #2 │Spark Ar
 wQyHIBDjY50 // Watch me build #3 │Spark Ar
+Ad6USwwl_rA // Watch me build #4 │Spark Ar
 
 # Newcolor Interface Design
 7RsYYY51S5k // Sketching for Spark AR Studio: Ego Death
