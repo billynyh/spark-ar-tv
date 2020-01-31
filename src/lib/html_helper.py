@@ -38,7 +38,12 @@ class HtmlHelper:
 
     def gen_facebook_html(self, site, page):
         t = self.get_template('facebook.html')
-        return self.render(t, site=site, page = page, groups=site.facebook)
+        return self.render(t, 
+            site=site, 
+            page = page, 
+            groups=site.facebook,
+            use_yt_channel_url = True,
+            )
 
     def gen_music_html(self, site, page):
         t = self.get_template('facebook.html')
