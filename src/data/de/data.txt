@@ -23,7 +23,7 @@ uw43wxKDWFw // Instagram Filter Selber machen
 AQyLm4d91Yo // Spark AR Studio Halloween-Tutorial [Face Tracker & Material Options]
 C6OrOpO_LXc // Spark AR Studio Tutorial Tap Option and Switch Option
 idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
-xRvPq_Uxja8 // Spark AR Tutorial XMas Special 1/3  [Face Deformation und wie du dir Hörner aufsetzt]
+xRvPq_Uxja8 // Spark AR Tutorial XMas Special 1/3  [Face Deformation and HeadOcculder]
 rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR [ XMas Special 2/3]
 Gy2rrn2TVS4 // Change your Faceshape in Spark AR without being an 3D Expert [Xmas Special 3/3]
 HYQ_Kzyygk8 // Spark AR: How to Animate 3D Object (2020 Special)

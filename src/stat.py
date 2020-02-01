@@ -174,7 +174,7 @@ def main():
     site = master.global_site
     groups = site.groups_by_time
     dump_groups_stat(groups, site.video_data)
-    dump_groups_details(groups[1:6], site.video_data)
+    dump_groups_details(groups[0:4], site.video_data)
 
     stat = {}
     #stat['langs'] = dump_lang_stat(master)
@@ -185,7 +185,7 @@ def main():
     #dump_top_videos(site)
     #dump_monthly_stat(site.video_data)
     
-    dump_channel_stat(site, site.video_data)
+    #dump_channel_stat(site, site.video_data)
     #html = stat_html(stat)
     #print(html)
 

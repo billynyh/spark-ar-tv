@@ -52,6 +52,10 @@ mIt2fdjExy0 // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial
 # Britney Ngaw
 2FZcjlCEzrk // How i create Instagram's "What Pokemon Are You" Filter
 
+# carnival
+Hzmyt-s_bZs // Spark AR quick tip 01: Scripting - move items by screen tap
+8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare base textures.
+
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
 T1dFtHmRIlI // How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
@@ -113,10 +117,6 @@ GUNl32dzslc // How To Make a Custom Instagram Face Filter
 
 # Crazy Play
 rnPA0mnbw5o // Spark AR tutorial for beginners
-
-# Dancing Developer
-Hzmyt-s_bZs // Spark AR Scripting Tutorial #1: Move items by screen tap
-8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare base textures.
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -294,7 +294,7 @@ rR_9IEvHsoY // ANIMATION CLIP MASKING TEXT IN CSS
 NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter paint effect | Spark AR Studio Tutorial
 
 # Manav Sharma
-S7Fm6f1cRbc // Create an Instagram Color Filter in Spark AR | Beginner Tutorial
+S7Fm6f1cRbc // CREATE AN INSTAGRAM STORY FILTER IN SPARK AR | BEGINNER TUTORIAL
 uka6NILQ3UY // ADD TAP TO CHANGE INSTRUCTION TO YOUR INSTAGRAM FILTERS | SPARK AR TUTORIAL
 
 # Manhsplains
@@ -462,6 +462,7 @@ kJvRmXMvtGk // Censor Bar Tap to Change Filter Effect (Patch Editor) | Instagram
 D9rEDcY8XE0 // Alternate Layer Material (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 _eYKhKMIiTA // Gradient Colour Filter Effect (Tap Change, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 l5a5fHZIGzM // Eyeball Tracking (Patch Editor) Snake Eye Filter Effect | Instagram & Facebook | Spark AR Tutorial
+yzoJSyjBijU // Iris Animation (Eyeball Tracking Part 2) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness

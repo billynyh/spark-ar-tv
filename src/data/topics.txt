@@ -96,7 +96,7 @@ udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter 
 _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
 6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
-Hzmyt-s_bZs // Spark AR Scripting Tutorial #1: Move items by screen tap
+Hzmyt-s_bZs // Spark AR quick tip 01: Scripting - move items by screen tap
 eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Beauty / Makeup / Lipstick
@@ -306,7 +306,7 @@ S7Gc7xGkc70 // Spark AR | Lightroom (Presets) Hazır Ayarlarınızı İnstagram 
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
 G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Anthi
-S7Fm6f1cRbc // Create an Instagram Color Filter in Spark AR | Beginner Tutorial
+S7Fm6f1cRbc // CREATE AN INSTAGRAM STORY FILTER IN SPARK AR | BEGINNER TUTORIAL
 
 # Music videos
 00qF95f6qBs // Grimes - Pretty Dark  {Demo}
@@ -474,7 +474,7 @@ gvnvZjN5TRA // КАК СДЕЛАТЬ МАСКУ-ТЕСТ В SPARK AR?ТРЕНД 
 o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
 cwg4ZDyTm8k // Как сделать маску Инстаграм с вопросами? Готовый шаблон
 SHo68PT7vfA // Уроки Spark AR Random КАРТИНОК и 3D ОБЪЕКТОВ. Маска в инстаграм рандом
-VHuRAwHxMxM // HOW TO MAKE WHICH / WHO ARE YOU FILTER EASY IN 3 MINUTES - FREE DOWNLOAD SPARK AR TEMPLATE
+VHuRAwHxMxM // HOW TO MAKE WHO ARE YOU FILTER EASY IN 3 MINUTES - Spark Ar tutorial - Natived Filters Laboratory
 cBpumG3ejbs // Как сделать круглую рамку для маски рандомайзер / кто ты? Spark AR и Photoshop
 
 # SDF
@@ -541,7 +541,7 @@ Cc-YubBQy-M // Spark AR Novos updates V78 Shaders e Pixelate
 Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 h6208mfKuoA // Spark ar - Tutorial easy texture distortion creative using SPARK AR library ONLY in v.78
 V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
-WKkoCfQbhmA // How to make filters: Clone shader patch for GLITCHY effects! Spark Ar for Beginners
+WKkoCfQbhmA // How to make filters - Clone shader patch for GLITCHY effects! Spark Ar - Natived Filters Laboratory
 
 # Tap to change
 eDLvXDEK7us // Уроки Spark AR Studio. Смена эффекта по Тапу (Screen Tap).  Цвет губ. Маски в Инстаграм
