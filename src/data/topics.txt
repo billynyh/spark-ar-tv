@@ -138,6 +138,7 @@ XQekFaRtam0 // Как сделать маску в стиле kirra в Spark AR 
 neI8YTcJGqI // КАК СДЕЛАТЬ МАСКУ KIRA НА БЕЛОМ+LUT/ГЛИТТЕР/SPARK AR
 a0lrNep4yQo // HOW TO MAKE INSTAGRAM FILTERS  - Fast "kira kira" color effect tutorial on SPARK AR update v.78
 n4A5nFxZWis // КАК СДЕЛАТЬ ГЛИТТЕР С ТЕКСТУРОЙ ТОЧЕК?АНИМАЦИЯ PNG.SPARK AR
+0KunK6XYzCs // Как Сделать Маску в Инстаграм за 5 минут! Анимированные Маски, блестки и в стиле kira kira
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -160,6 +161,9 @@ RPPgZU0szK8 // Spark AR Numeros interativos e Retouch com Segmentação!
 ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 fPqT8ZGNoA4 // Filtros no Instagram - Pele Suave + Postar na sua conta
 DdVTOUUBRXg // Урок 25 - Фильтр с ретушью Spark AR. Как сделать маску с фильтром Спарк. LUT and retouch spark ar
+eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
+DsbKbusJF5k // SPARK AR ANFÄNGER TUTORIAL RETOUCH + LIGHTROOM LUT TUTORIAL 2020
+opgUXotK1jk // Spark AR LUT com Chuvisco e Retouch!
 
 # Face extraction
 zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
@@ -223,8 +227,12 @@ jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
 z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
 O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
 FmQ6YKbirmg // Уроки spark ar studio. Как сделать игру в instagram?
+dyC9XrYxLtw // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 1
 6IFk0ST-AkA // Игра
+5nCkr_PtY_Y // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 2
+aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 3
 78pe0ugVMrI // Drone simulation in AR Spark | AR studio | AR game logic | AR VR Animation
+8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare base textures.
 
 # Halloween / Joker
 S_X8_ML1e2M // SparkAR Joker mask
@@ -253,6 +261,9 @@ u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Edi
 EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark Ar para Iniciantes #10
 XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Facebook | Spark AR Tutorial
 yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Facebook | Spark AR Tutorial
+5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
+YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
+uka6NILQ3UY // ADD TAP TO CHANGE INSTRUCTION TO YOUR INSTAGRAM FILTERS | SPARK AR TUTORIAL
 
 # Iris tracking
 hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
