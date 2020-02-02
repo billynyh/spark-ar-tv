@@ -255,9 +255,13 @@ XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Fac
 yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Facebook | Spark AR Tutorial
 
 # Iris tracking
+hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
 MwxctcV2kc4 // HOW TO MAKE INSTAGRAM FILTERS-Easy Tutorial iris tracking on black and white in spark ar v.80+extra
 h72hzXEfjdM // Spark AR - Iris Tracking Instagram Filter
 36kJ6iNKu6I // Spark AR Iris Tracking e trocar cor de olho!
+l5a5fHZIGzM // Eyeball Tracking (Patch Editor) Snake Eye Filter Effect | Instagram & Facebook | Spark AR Tutorial
+2_vkZm6e0A0 // Как сделать маску которая отслеживает зрачки и меняет их цвет / SPARK AR зрачки / INSTAGRAM фильтры
+yzoJSyjBijU // Iris Animation (Eyeball Tracking Part 2) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 
 # LUT
 lxF-ecbkbr4 // Color LUTs in Spark AR
@@ -307,6 +311,13 @@ YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
 G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Anthi
 S7Fm6f1cRbc // CREATE AN INSTAGRAM STORY FILTER IN SPARK AR | BEGINNER TUTORIAL
+
+# Multiple faces
+BYjxsecEbiI // Spark AR - Track Multiple Faces
+iRH_VQ_OTEA // TRACK TWO FACES SPARK AR / TRACK MULTIPLE FACES
+gNcpScPtrBU // Spark AR Trocando rosto e usando com 2 pessoas!
+lTA7_y-dZxY // Four faces effect with Spark AR Studio
+oga91xLjwfk // Как сделать маску на два, три лица? уроки Spark Ar. Маски для инстаграм
 
 # Music videos
 00qF95f6qBs // Grimes - Pretty Dark  {Demo}

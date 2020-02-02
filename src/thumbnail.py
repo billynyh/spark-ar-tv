@@ -88,4 +88,5 @@ def main():
 
 if __name__ == "__main__":
     config = config_factory.load()
-    main()
+    main_topics()
+    #main()
