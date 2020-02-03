@@ -76,17 +76,17 @@ def main_topics():
 def main():
     master = master_site(config)
     site = master.global_site
-    ids = '7jRWFipMpHc 36kJ6iNKu6I V_mXLdkfB9I 0N2d0BIwvbw'
+    ids = 'QpOLNFk8U4o U2enTbkL8Qs F8VUYnuE4ns wvev6w4YiOs'
     ids = ids.split()
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2020-01-20')
+    generate_custom_week_thumbnails(site, ids, 'week-2020-01-27')
     #generate_channel_thumbnails(site)
 
 
 if __name__ == "__main__":
     config = config_factory.load()
-    main_topics()
-    #main()
+    #main_topics()
+    main()
