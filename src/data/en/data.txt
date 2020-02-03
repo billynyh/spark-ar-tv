@@ -304,6 +304,9 @@ azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting
 # Maria Nova
 oSp_CgomdzA // 4 awesome AR creators I met at AWE 2019 in Munich.
 
+# Marty Markenson
+MO6o1Hwi9B8 // How to Add Audio to AR Studio
+
 # Maru Studio
 Dbhy8C3aI_A // Spark AR Studio - Tutorial for beginners
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
