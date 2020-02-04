@@ -108,6 +108,7 @@ QB954GF0uSI // Voice Changer | Spark AR
 iG9sMY6j-gA // 3D Random Image Effect | Spark AR Studio
 Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
 QpOLNFk8U4o // Replacing Backgrounds (360° Photos) | Spark AR Studio
+Ox_vRgQDpT0 // Track Matte Keying [Text cutout] | Premiere Pro CC
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
@@ -305,6 +306,9 @@ azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting
 oSp_CgomdzA // 4 awesome AR creators I met at AWE 2019 in Munich.
 
 # Marty Markenson
+3HnONkme0QE // Image Flip Flop Spark Studio Patch Editor
+YLpzQDTjilU // AR Spark Studio - Bow Tie Jamming
+CAx8z9qag9E // AR Spark Studio - Bow Tie Jamming
 MO6o1Hwi9B8 // How to Add Audio to AR Studio
 
 # Maru Studio
@@ -332,6 +336,9 @@ OLCipWve774 // Reflective Glass Shader for Spark AR
 # Midnight Typers
 yc5ohk_Nxng // Make filter effect with SPARK AR like "The Mandela Effect" movie
 
+# mnvshr
+j4NEq_jGVOk // Convert Lightroom Presets to Instagram Filters | Spark AR | Instagram Filters | Spark AR Beginner
+
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
 jNGK9Q7oSsA // Watch me build #2 │Spark Ar
@@ -343,6 +350,7 @@ Ad6USwwl_rA // Watch me build #4 │Spark Ar
 6stXwBt87Dg // Drag 2D Object: Spark AR Studio
 QgSmfJEFj1s // Emoji Face Slider: Spark AR Studio Project Template
 eKx0J1pqCdg // Beating Heart: Spark AR Studio Project Template
+WSg5ndH-ljg // Color Sampler: Spark AR Studio Example
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]

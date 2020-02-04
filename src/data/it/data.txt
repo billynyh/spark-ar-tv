@@ -13,6 +13,9 @@ YWD7XNna0Gk // Caffeuccio - il filtro di Barbara D'urso  // Spark ar tutorial - 
 # Cesare Ferrari
 Ks209IFFeSY // Creiamo un filtro AR per Instagram con Spark AR Studio
 
+# CruTech Web
+84Yvei4sZrU // Un Filtro Edutainment per Instagram - Spark AR [ITA]
+
 # DebeeMama
 fiqB_K_fxo4 // 💁TUTORIAL 1 SPARK AR STUDIO: CREARE UN FILTRO IG/FB MAKE-UP CON SPARK AR STUDIO
 hOL-FZgAYYE // 💁TUTORIAL 2 SPARK AR STUDIO: PARTICLE CHE ESCONO DAGLI OCCHI
@@ -71,6 +74,7 @@ WKkoCfQbhmA // How to make filters - Clone shader patch for GLITCHY effects! Spa
 LerynHPdjaA // Spark Ar Tutorials: How to fake synch Music to your instagram filters - Natived Filters Laboratory
 R1nBVAUbEM0 // How to make Filters - Creative segmentation - Spark Ar Tips and tricks - Natived Filters Laboratory
 a20kSlcWJYE // HOW TO MAKE A FILTER AND UPLOAD IT ON INSTAGRAM - Spark Ar beginners - Easy tutorial - Free Download
+XLiOkUO5pvE // Make custom Instagram filters - Weirdest face deformation using Spark AR Resources + Trick- Tutorial
 
 # Sebiforce
 xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram

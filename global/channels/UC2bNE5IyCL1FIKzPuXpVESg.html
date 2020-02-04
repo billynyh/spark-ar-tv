@@ -46,7 +46,10 @@
         <a class="nav-link" href="https://billynyh.github.io/spark-ar-tv/global/channels.html">Channels</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://billynyh.github.io/spark-ar-tv/global/facebook.html">Facebook</a>
+        <a class="nav-link" href="https://billynyh.github.io/spark-ar-tv/global/facebook.html">Spark AR official videos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://billynyh.github.io/spark-ar-tv/global/sitemap.html">Sitemap</a>
       </li>
     </ul>
   </div>
@@ -70,29 +73,15 @@
 <div class="row">
   
 
-<div class="vid-col col-xl-3 col-lg-3 col-sm-4">
-  <div class="vid">
-    <div class="thumb-container">
-      <div class="thumb-wrapper">
-        <a href="https://www.youtube.com/watch?v=RJvGwR0ro4Q" target="_blank">
-          <img data-src="https://i.ytimg.com/vi/RJvGwR0ro4Q/sddefault.jpg">
-          <span class="play-button">
-            <img src="https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png" />
-          </span>
-        </a>
-      </div>
-      <span class="thumb-label">8:59</span>
-    </div>
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v=RJvGwR0ro4Q">Create an Instagram Color Filter in Spark AR | Beginner Tutorial</a>
-    </div>
-    <div class="meta">
-      <a href="https://www.youtube.com/channel/UC2bNE5IyCL1FIKzPuXpVESg">mnvshr</a>
-      &bull;
-      2020-01-25
-    </div>
-  </div>
-</div>
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
+    data-video-url="https://www.youtube.com/watch?v=j4NEq_jGVOk"
+    data-thumbnail-url="https://i.ytimg.com/vi/j4NEq_jGVOk/sddefault.jpg"
+    data-title="Convert Lightroom Presets to Instagram Filters | Spark AR | Instagram Filters | Spark AR Beginner"
+    data-channel-url="https://www.youtube.com/channel/UC2bNE5IyCL1FIKzPuXpVESg"
+    data-channel-title="mnvshr"
+    data-duration="8:59"
+    data-published-at="2020-02-03"
+></div>
 
 </div>
 
@@ -114,7 +103,10 @@
     <script>
 
 $(document).ready(function(){
-  initPage('https://billynyh.github.io/spark-ar-tv/global/nav.json');
+  initPage({
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
+  });
 });
     </script>
 

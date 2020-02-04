@@ -168,6 +168,7 @@ LtEeW-BZzzA // Spark AR Como criar o efeito Scanner usando SDF!
 SiYBt6iOsKM // Spark AR Plane Tracker, Parede de oclusão e Porta!
 opgUXotK1jk // Spark AR LUT com Chuvisco e Retouch!
 hyOLStgdn-Y // Spark AR Juliet e Risco na sobrancelha
+3g7cG0AN-fM // Spark AR Partículas atrás da pessoa!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
