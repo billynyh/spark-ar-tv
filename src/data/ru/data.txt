@@ -488,6 +488,7 @@ u2YXOhSsEI0 // Добавление таргет трекера в SPARK AR. Tar
 # Yana Onuchina
 uOk7vlvCLpQ // ГДЕ СОЗДАЮТСЯ INSTAGRAM МАСКИ / Знакомство с интерфейсом Spark AR Studio
 FtD4X35bgNU // BEAUTY МАСКА ДЛЯ INSTAGRAM / Добавляем ретушь, блестки и рисунки на лице. Анимация в Spark AR Studio
+N4DNL4ko__A // КАК СДЕЛАТЬ МАСКУ С 3D ОЧКАМИ И ОТРАЖЕНИЕМ В СТЕКЛАХ / Уроки Spark AR Studio
 
 # ycg ykt
 ZinTlxSTh7c // 3D маска для instagram

@@ -55,6 +55,7 @@ mIt2fdjExy0 // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial
 # carnival
 Hzmyt-s_bZs // Spark AR quick tip 01: Scripting - move items by screen tap
 8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare base textures.
+heMa3fGj0Jc // Spark AR game scripting tutorial 02: locate textures
 
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
@@ -328,6 +329,7 @@ jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
 0if1-iDNvBI // Spark AR tutorial: How to control object by FaceTracker (Part 2)
 O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
 WECBaYICiPo // Spark AR: Maru Studio 2019 Recap
+QDpAMDe4UU8 // Spark AR Tutorial: Create GLITCH TEXT with Random Patch
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial

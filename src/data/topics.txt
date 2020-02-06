@@ -89,6 +89,8 @@ xxHMALAvmlk // Tutorial: Adding Audio
 Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
 tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
+MO6o1Hwi9B8 // How to Add Audio to AR Studio
+8KrHDr_XG0I // SPARK AR [использование Native UI для переключения Audio]  + Free script. Lesson #1.
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
@@ -139,6 +141,7 @@ neI8YTcJGqI // КАК СДЕЛАТЬ МАСКУ KIRA НА БЕЛОМ+LUT/ГЛИ�
 a0lrNep4yQo // HOW TO MAKE INSTAGRAM FILTERS  - Fast "kira kira" color effect tutorial on SPARK AR update v.78
 n4A5nFxZWis // КАК СДЕЛАТЬ ГЛИТТЕР С ТЕКСТУРОЙ ТОЧЕК?АНИМАЦИЯ PNG.SPARK AR
 0KunK6XYzCs // Как Сделать Маску в Инстаграм за 5 минут! Анимированные Маски, блестки и в стиле kira kira
+l2SU2pCEVUY // Como Fazer O Efeito Kira Kira | Spark AR Brasil @julliana.dev #kira #kirakira #bling
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -233,6 +236,7 @@ dyC9XrYxLtw // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game 
 aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 3
 78pe0ugVMrI // Drone simulation in AR Spark | AR studio | AR game logic | AR VR Animation
 8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare base textures.
+heMa3fGj0Jc // Spark AR game scripting tutorial 02: locate textures
 
 # Halloween / Joker
 S_X8_ML1e2M // SparkAR Joker mask
