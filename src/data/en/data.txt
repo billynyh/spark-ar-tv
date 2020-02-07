@@ -110,6 +110,7 @@ iG9sMY6j-gA // 3D Random Image Effect | Spark AR Studio
 Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
 QpOLNFk8U4o // Replacing Backgrounds (360° Photos) | Spark AR Studio
 Ox_vRgQDpT0 // Track Matte Keying [Text cutout] | Premiere Pro CC
+AV_T6cH-F88 // Split Screen into Quadrants | Spark AR Studio
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
@@ -476,9 +477,13 @@ D9rEDcY8XE0 // Alternate Layer Material (Patch Editor) Filter Effect | Instagram
 _eYKhKMIiTA // Gradient Colour Filter Effect (Tap Change, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 l5a5fHZIGzM // Eyeball Tracking (Patch Editor) Snake Eye Filter Effect | Instagram & Facebook | Spark AR Tutorial
 yzoJSyjBijU // Iris Animation (Eyeball Tracking Part 2) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+XvQdPtOcjzk // Blink to Change (Eyeball Tracking Part 3) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
+
+# Social Sam
+F3hV1ak7swY // HOW TO MAKE YOUR OWN INSTAGRAM FILTER (with Canva)
 
 # Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro

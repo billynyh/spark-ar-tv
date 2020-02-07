@@ -121,6 +121,7 @@ eLSTvhfQUa4 // Spark AR - Face Extraction Part II | Imagen estática & objeto 3d
 hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
 h72hzXEfjdM // Spark AR - Iris Tracking Instagram Filter
 zJAYvJbCR_k // Spark AR  - Templates Guide: Head, Neck Decoration, World Object and more
+dr_o1AhJgdI // Lens Studio Snapchat - how to upload a filter?
 Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation & Ripple Shader
 
 # Eric sin k
