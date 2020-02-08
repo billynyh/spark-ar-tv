@@ -7,6 +7,14 @@ from lib import data_loader, util
 from lib.data_loader import global_site, parse, master_site
 from lib import image_helper
 
+def ping_all(video_data):
+    caches = util.get_cache_images()
+    need_fetch = [id for id in video_data.keys() if not id in caches]
+    for id in need_fetch:
+        url = video_data[id].thumbnail_url
+        with urllib.request.urlopen(url) as response:
+            print(response.getcode())
+
 def download_all(video_data):
     caches = util.get_cache_images()
     need_fetch = [id for id in video_data.keys() if not id in caches]
@@ -85,8 +93,13 @@ def main():
     generate_custom_week_thumbnails(site, ids, 'week-2020-01-27')
     #generate_channel_thumbnails(site)
 
+def main_ping():
+    master = master_site(config)
+    site = master.global_site
+    ping_all(site.video_data)
 
 if __name__ == "__main__":
     config = config_factory.load()
+    main_ping()
     #main_topics()
-    main()
+    #main()

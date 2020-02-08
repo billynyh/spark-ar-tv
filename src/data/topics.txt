@@ -98,7 +98,7 @@ udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter 
 _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
 6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
-Hzmyt-s_bZs // Spark AR quick tip 01: Scripting - move items by screen tap
+Hzmyt-s_bZs // Spark AR quick tip 01: scripting movement by screen tap
 eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Beauty / Makeup / Lipstick
@@ -129,7 +129,7 @@ f-ROIFIuobw // Three Minute Lipstick Filter Effect (Easy) | Instagram & Facebook
 ZmIoWlVN_m0 // Date & Time in Spark AR
 95gBag1zmu8 // Aestetic Date Time - Spark AR Studio [ Tutorial ]
 R72a_5lwGIc // Date And Time - Spark Ar Tutorial
-O4GOZQAjHVE // Date And Time - Cara Membuat Filter Stories 2.0  Spark Ar Tutorial
+O4GOZQAjHVE // Date And Time - Cara Gampang Buat Filter Stories atau Typography  Spark Ar Tutorial
 
 # Edge detection / KiraKira
 VbFEAbeGmQc // Edge Detection in Spark AR
@@ -137,13 +137,13 @@ Z89FJw9ayfI // Kira Kira  Filter Instagram by Chris Price | ¿Cómo nació el fi
 KGWAvFbCGVo // Spark AR Studio - Glitter (Edge e Light Detection similar ao KiraKira+) - Por @julliana.dev
 -HYpPNldC3M // Spark AR Efeito Fake Kira Kira e brilho em qualquer tom!
 4_JUGfLLpEE // КАК СДЕЛАТЬ МАСКУ KIRA/ГЛИТТЕР/Spark AR/Маски для инстаграм.
-XQekFaRtam0 // Как сделать маску в стиле kirra в Spark AR Studio? блестки/glitters
+XQekFaRtam0 // Как сделать маску Glitter в Spark AR Studio? блестки/glitters
 neI8YTcJGqI // КАК СДЕЛАТЬ МАСКУ KIRA НА БЕЛОМ+LUT/ГЛИТТЕР/SPARK AR
-a0lrNep4yQo // HOW TO MAKE INSTAGRAM FILTERS  - Fast "kira kira" color effect tutorial on SPARK AR update v.78
+a0lrNep4yQo // HOW TO MAKE INSTAGRAM FILTERS  - Fake "kira kira" color effect tutorial on SPARK AR update v.78
 n4A5nFxZWis // КАК СДЕЛАТЬ ГЛИТТЕР С ТЕКСТУРОЙ ТОЧЕК?АНИМАЦИЯ PNG.SPARK AR
 0KunK6XYzCs // Как Сделать Маску в Инстаграм за 5 минут! Анимированные Маски, блестки и в стиле kira kira
 l2SU2pCEVUY // Como Fazer O Efeito Kira Kira | Spark AR Brasil @julliana.dev #kira #kirakira #bling
-jo-FoxmptR8 // Как сделать маску KIRA-KIRA? How to make Kira Kira mask?
+jo-FoxmptR8 // Kira-Kira маска - как делать? How to make Kira Kira mask? SPARK AR studio Lesson
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -237,7 +237,7 @@ dyC9XrYxLtw // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game 
 5nCkr_PtY_Y // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 2
 aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 3
 78pe0ugVMrI // Drone simulation in AR Spark | AR studio | AR game logic | AR VR Animation
-8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare base textures.
+8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare textures
 heMa3fGj0Jc // Spark AR game scripting tutorial 02: locate textures
 
 # Halloween / Joker
@@ -378,7 +378,7 @@ _UQ0AXeZUWE // Spark AR - Picture Frame Portal (Occlusion Tutorial)
 j54Ow026Pnk // Объекты за головой или HEAD OCCLUDER в Spark Ar. Уроки по созданию маски в инстаграм.
 LVrlXIwUgkw // Instagram Spark AR Como adicionar um óculos com Head Occluder
 lyK30WEi6nw // Spark AR Crie um efeito de coroa. Tutorial de como adicionar coroas com Head occluder!
-doNaxDHp-Gc // Spark AR - Occlusion Portal and Hole in the Floor | Tutorial
+doNaxDHp-Gc // Spark AR Tutorial - Occlusion Portal and Hole in the Floor | spark ar tutorial
 5FebsRAFD1s // TUTORIAL SPARK AR STUDIO EN ESPAÑOL | TEXTO NEÓN ANIMADO 🆒| head Occluder 3D |Tutorial desde cero 👍
 
 # Particles
@@ -493,7 +493,7 @@ Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Stud
 bJzlzjUM0iw // How to make a Calculator Filter in Sparkar | Love | Devil | Goodness | luck Calculator
 FH_sg17pxMY // How To Make A "Which Are You" Instagram Filter - Spark AR Tutorial
 a1J2-_TJB9w // Cara membuat filter "Which ... Are You?" (Random Selection) - Spark AR Tutorial Indonesia
-ZHtdlXd4W9w // КАК СОЗДАТЬ МАСКУ ДЛЯ ИНСТАГРАММА С РАНДОМНЫМ ВЫБОРОМ | МАСКА РАНДОМ | МАСКА ЗА 5 МИНУТ  для Windows
+ZHtdlXd4W9w // КАК СОЗДАТЬ МАСКУ ДЛЯ ИНСТАГРАММА С РАНДОМНЫМ ВЫБОРОМ | МАСКА - ТЕСТ | МАСКА ЗА 5 МИНУТ  для Windows
 PcF92LnOOXc // What character are you? / QUIZ Effect Spark AR  / What are you?
 Nl7ol3nFenk // Маска-тест "КТО ТЫ ИЗ?" ✧ Дополнения. Часть 1 ~ Quiz filter test "WHO ARE YOU?" in Spark AR
 9TTPC_6aTXo // Маска-тест "КТО ТЫ ИЗ?" ✧ Дополнения. Часть 2 ~ Quiz filter test "WHO ARE YOU?" in Spark AR
@@ -608,7 +608,7 @@ fgS4iHfpuIA // SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes
 # Tooling
 ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
 VinrQWhv0ss // Spark AR: Instagram Filters - Image Compression
-zJAYvJbCR_k // Spark AR  - Templates Guide: Head, Neck Decoration, World Object and more
+zJAYvJbCR_k // Spark AR  - Templates: Head, Neck Decoration, World Object | Instagram
 
 # Touch Gesture
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio

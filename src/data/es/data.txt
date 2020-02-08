@@ -111,7 +111,7 @@ LHVQk-ICgMk // Spark AR - Photogrammetry + Target Tracker Instagram | Display La
 Z89FJw9ayfI // Kira Kira  Filter Instagram by Chris Price | ¿Cómo nació el filtro?
 ojIQ-i6heBg // 3D object above your head | Spark AR & Lens Studio Tutorial
 tW0PHxMX63Q // Ahhh Filter - David OReilly - Storytelling Filter
-doNaxDHp-Gc // Spark AR - Occlusion Portal and Hole in the Floor | Tutorial
+doNaxDHp-Gc // Spark AR Tutorial - Occlusion Portal and Hole in the Floor | spark ar tutorial
 M4QSecKIzjE // Spark AR - Random Image Sequence | Filter Parecidos Razonables
 mUvbAq9dAN4 // Spark AR v78: AR Library ¿cómo usarlo?
 5fERiVVXcyM // Spark AR - Random Image Sequence | Part II | Disney & Pokemon Character
@@ -120,9 +120,9 @@ oarBdkJtL5o // Spark AR - Random Image Sequence | Part III | Next Vacation
 eLSTvhfQUa4 // Spark AR - Face Extraction Part II | Imagen estática & objeto 3d
 hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
 h72hzXEfjdM // Spark AR - Iris Tracking Instagram Filter
-zJAYvJbCR_k // Spark AR  - Templates Guide: Head, Neck Decoration, World Object and more
+zJAYvJbCR_k // Spark AR  - Templates: Head, Neck Decoration, World Object | Instagram
 dr_o1AhJgdI // Lens Studio Snapchat - how to upload a filter?
-Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation & Ripple Shader
+Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
 
 # Eric sin k
 c6ndYPE_vXk // Filtros de Instagram en corto / creo que es un tutorial.
@@ -142,12 +142,12 @@ yEnYy03BUx4 // COMO CREAR FILTROS PARA INSTAGRAM || @iesthereslla
 # JACOB DUQUE
 gQLKCtZB-Fc // ➡️ Como HACER un FILTRO para INSTAGRAM en 15 MINS MUY FACIL  ✅ JACOB DUQUE
 
-# Laura Rodríguez
-bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
-
-# Los Taquivalos
+# Jesus Taquillo
 kCz7Nd5ftPI // Como hacer filtros para INSTAGRAM o FACEBOOK /Spark AR
 H6DJPJKSbeQ // Como subir filtros a INSTAGRAM / Spark AR / español
+
+# Laura Rodríguez
+bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
 
 # Mafiuut
 tO3thxGANUc // COMO HACER UN EFECTO DE INSTAGRAM | Mafiuut
