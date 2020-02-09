@@ -246,6 +246,7 @@ XTqMshFg6Rg // Bokeh Particles in Spark AR
 QwoF0VnPIKk // Custom LUTs in Lightroom
 1do5R7UDuxI // Perlin Noise and Distortion in Spark AR
 gVuS2NJhGdw // Spark LUT Swiper Demo
+Mtgwi0NO3Ho // Motion blur in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
