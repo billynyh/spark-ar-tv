@@ -121,6 +121,9 @@ GUNl32dzslc // How To Make a Custom Instagram Face Filter
 # Crazy Play
 rnPA0mnbw5o // Spark AR tutorial for beginners
 
+# Dhaiwat Pandya
+RE3PDHVDyNU // Spark AR - Which Barça player are you filter demo
+
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
@@ -183,6 +186,8 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 
 # fritsbie
 8xpCHdwX9mo // SPARK AR - Quiz Tutorial / Who are you? / Which Disney character are you? / Where will you travel?
+43Yyi45v-n8 // SPARK AR - Colour Adjusting / LUT Tutorial
+URmBZcKp9dE // Spark AR - Face Deformation & Animation Tutorial
 
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
@@ -240,6 +245,7 @@ qw4QU-edVKw // Vignettes and 2d Face Tracking in Spark AR
 XTqMshFg6Rg // Bokeh Particles in Spark AR
 QwoF0VnPIKk // Custom LUTs in Lightroom
 1do5R7UDuxI // Perlin Noise and Distortion in Spark AR
+gVuS2NJhGdw // Spark LUT Swiper Demo
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -439,6 +445,9 @@ d4N9uyRBC_o // Spark AR Laucnhpad Tutorial
 # Sankalp Parab
 xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasses
 8yJtgp6GuRE // Best Spark AR Mesh Layering | Simple Two ways of layering Techniques
+
+# Shuripusta ILK
+0i-6OSxfWWI // AR Filters for Instagram - Breakdown - TimeLapse
 
 # Sid Farmer
 iDQm2jA4uqE // Green Screen Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
