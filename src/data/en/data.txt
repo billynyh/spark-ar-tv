@@ -111,6 +111,7 @@ Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Stud
 QpOLNFk8U4o // Replacing Backgrounds (360° Photos) | Spark AR Studio
 Ox_vRgQDpT0 // Track Matte Keying [Text cutout] | Premiere Pro CC
 AV_T6cH-F88 // Split Screen into Quadrants | Spark AR Studio
+yEAEY_udFYA // Facial Feature Extraction Part 1 of 2 | Spark AR Studio
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
@@ -188,6 +189,7 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 8xpCHdwX9mo // SPARK AR - Quiz Tutorial / Who are you? / Which Disney character are you? / Where will you travel?
 43Yyi45v-n8 // SPARK AR - Colour Adjusting / LUT Tutorial
 URmBZcKp9dE // Spark AR - Face Deformation & Animation Tutorial
+LDf9iR33YZY // SPARK AR - Facial Features Segmentation Tutorial
 
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
@@ -527,6 +529,9 @@ fUqthvjuxH8 // Grey Beard Hero - Instagram Filter (SparkAR)
 0B7FHZ6geMQ // Download + Open Spark AR - EAZY IG Filters
 NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
 48TwgAXNr-0 // SparkAR - SIMPLE Face Mesh Tutorial for Instagram Filters
+
+# Third Aurora
+Vuv6kB34t9c // Setup & Fixing Spark AR Audio | Third Aurora Augmented Reality Tech Company
 
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13

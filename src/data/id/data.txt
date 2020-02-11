@@ -29,6 +29,9 @@ e2qUWL4jNFA // Penasaran Mencoba Spark AR From Facebook
 # By Logic
 9j8uZuFXQhc // How to make instagram filter effect
 
+# Ciska
+JtBwYo9HBGQ // TUTORIAL MEMBUAT FILTER INSTAGRAM SENDIRI
+
 # Cynthia Pricillia
 WrZg05CIS9U // How to make Instagram Filters (Spark AR Tutorial) | Cynthia Pricillia
 3zmpPHvrTxU // How to make Instagram Filters (Glowing Effect) Spark AR Tutorial | Cynthia Pricillia
@@ -86,6 +89,8 @@ dyC9XrYxLtw // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game 
 5nCkr_PtY_Y // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 2
 aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 3
 nMsNpcIKaf4 // Kenapa Suara Filter Spark AR Ketika Rekaman Tidak Terdengar
+haLMG1EKMcs // Cara Membuat Filter Instagram Objek Berputar di Kepala
+ocfWlyPYUuI // Cara Membuat Augmented Reality Target Tracker Dengan Spark AR
 
 # ftr.
 aHJXyLVm7aE // Cara Membuat Filter Instagram 3DLuts Sendiri Dengan Spark Ar - Tutorial Spark Ar Indonesia
@@ -122,9 +127,13 @@ R72a_5lwGIc // Date And Time - Spark Ar Tutorial
 wvev6w4YiOs // Cara Membuat Filter Instagram Sendiri Menggunakan HP | Spark Ar Tutorial Tergampang
 GohHMLmz2LE // Cara Membuat Filter Instagram Seperti Filter Stories 2.0 - Spark Ar Tutorial
 O4GOZQAjHVE // Date And Time - Cara Gampang Buat Filter Stories atau Typography  Spark Ar Tutorial
+rqNRxreiY6o // Native UI | Cara Membuat Option Di Filter Spark Ar Indonesia
 
 # Muhammad Iqbal Al-Faruq
 zQjVJrhZg0w // CARA MEMBUAT EFEK INSATGARM DI ANDROID !!!
+
+# NazhifUU
+0e18XEvEPBY // Penasaran Cara Bikin Filter Instagram Story?
 
 # Novel Qu
 ib6ZUbIVbJ0 // spark ar studio tutorial glasses basic
@@ -190,6 +199,9 @@ El3pCV4utvs // Spark AR: Instagram Filters - Cara Membuat Filter Instagram & Fac
 
 # sugi anto
 hgUNzYEg3Ig // MEMBUAT EFEK DARI GIF UNTUK STORY INSTAGRAN MENGGGUNAKAN SPARK AR STUDIO    II
+
+# THE RAZAN
+LojGhczG8mo // Cara membuat Filter Instagram menggunakan Preset VSCO termudah | Spark AR Indonesia
 
 # xxznif
 kqfK7aQcC_8 // cara buat filter instagram sendiri ( spark ar studio part I )

@@ -91,6 +91,7 @@ tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
 MO6o1Hwi9B8 // How to Add Audio to AR Studio
 8KrHDr_XG0I // SPARK AR [использование Native UI для переключения Audio]  + Free script. Lesson #1.
+Vuv6kB34t9c // Setup & Fixing Spark AR Audio | Third Aurora Augmented Reality Tech Company
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
