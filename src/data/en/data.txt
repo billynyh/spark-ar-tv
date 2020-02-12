@@ -112,6 +112,7 @@ QpOLNFk8U4o // Replacing Backgrounds (360° Photos) | Spark AR Studio
 Ox_vRgQDpT0 // Track Matte Keying [Text cutout] | Premiere Pro CC
 AV_T6cH-F88 // Split Screen into Quadrants | Spark AR Studio
 yEAEY_udFYA // Facial Feature Extraction Part 1 of 2 | Spark AR Studio
+luzSzAUb9TM // Facial Feature Extraction Part 2 of 2 | Spark AR Studio
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
@@ -545,6 +546,7 @@ bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor an
 qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and visual shaders
 iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tutorial
 lVmsTiwF8KY // Animation and reacting to smile and gestures tutorial - Spark AR Studio
+SsfswG-hGJE // Black and white effect in Spark AR Studio - Tutorial
 
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)
