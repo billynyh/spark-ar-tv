@@ -21,6 +21,9 @@ G7V0nOhKuAk // How to rig your own 3D model for SparkAR in Blender 2.8
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 5uPNwr5OWQo // How to Create a ShapeKey Animation in Blender 2.8 that Works in Sparkar Version 76
 
+# Amy Marietta
+kzcFrErVGcY // HOW TO MAKE AN INSTAGRAM STORY FILTER - SUPER EASY SPARK AR TUTORIAL
+
 # AndrewBakerVFX
 6kHrKpvpUXA // Exploring Spark AR Studio Face Filters - Intro for Beginners Tutorial: Lights Out #pge
 
@@ -366,6 +369,7 @@ jNGK9Q7oSsA // Watch me build #2 │Spark Ar
 wQyHIBDjY50 // Watch me build #3 │Spark Ar
 Ad6USwwl_rA // Watch me build #4 │Spark Ar
 6e6UQAIFOpE // Watch me build #5 │Spark Ar
+vg1KophU1VA // Make your first #Instagram #filter
 
 # Newcolor Interface Design
 7RsYYY51S5k // Sketching for Spark AR Studio: Ego Death
