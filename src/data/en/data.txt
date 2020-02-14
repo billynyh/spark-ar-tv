@@ -116,6 +116,7 @@ Ox_vRgQDpT0 // Track Matte Keying [Text cutout] | Premiere Pro CC
 AV_T6cH-F88 // Split Screen into Quadrants | Spark AR Studio
 yEAEY_udFYA // Facial Feature Extraction Part 1 of 2 | Spark AR Studio
 luzSzAUb9TM // Facial Feature Extraction Part 2 of 2 | Spark AR Studio
+JIabqi-CmDA // How to create Eye Lasers | Spark AR Studio
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
@@ -195,6 +196,7 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 URmBZcKp9dE // Spark AR - Face Deformation & Animation Tutorial
 LDf9iR33YZY // SPARK AR - Facial Features Segmentation Tutorial
 gmdOP11j_no // SPARK AR - Filter Localisation Tutorial
+QdacZ25muxM // SPARK AR - Face Paint & Face Tattoos Tutorial
 
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
