@@ -23,6 +23,9 @@ XGGPr1fDS40 // Cara buat filter instagram sendiri | Tutorial Spark AR TERMUDAH D
 # Billy Brordus
 i4xEpwDZPlU // Cara Membuat Animation Text || Spark AR Tutorial 2020
 
+# Bosskuu Channel
+MxC4z11UqvA // CARA BUAT FILTER efek muka Instagram - SPARK AR STUDIO (TUTORIAL)
+
 # Brillian Solution
 e2qUWL4jNFA // Penasaran Mencoba Spark AR From Facebook
 
@@ -164,6 +167,7 @@ wTKeKSn3Yyo // Cara membuat filter warna LUT Color (Spark AR indonesia Part III 
 wTNJJkYzjJg // Update Terbaru Spark AR Studio v78 1 Bahasa Indonesia
 E4U1hsMp21M // Spark AR Menambahkan Efek Physics kedalam 3D Object Bahasa Indonesia
 q626kHEuzNk // Spark AR Membuat color LUTs menerapkan Presets dan Profiles Lightroom Bahasa Indonesia
+K1psMf3q3v0 // Spark AR Scripting Bahasa Indonesia | LookAt Function | Spark AR Programming.
 
 # Rudy Anwar
 5dJKGzR7jAc // Cara membuat 3D Filter Instagram - Tutorial Spark AR Studio
@@ -188,6 +192,7 @@ yd85ALDJdGg // CHANGE TEXT & COLOR - Spark AR Studio [ Tutorial ] Part 2
 T3e5iqsk5-c // Scanner ( Face Mesh ) Effect - Spark AR Studio [ Tutorial ]
 2NsWFHhLM1w // Realistic Polaroid - Spark AR Studio [ Tutorial ]
 ch5VpfRvrv8 // Color Palette - Spark AR Studio [ Tutorial ]
+AywZQRtyWGY // Light Leak - Spark AR Studio - [ Tutorial ]
 
 # SAY HELLO
 y3uD3Da7TyQ // TUTORIAL MEMBUAT FILTER INSTAGRAM DUST // SPARK AR
