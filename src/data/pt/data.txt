@@ -8,25 +8,6 @@ HoN5v-RPu9o // Criando um filtro de perguntas no instagram 📱(Spark AR Tutoria
 # Bruno Wendricky
 C050Gcnpujo // Como colocar um filtro na conta do cliente? | Spark AR
 
-# Canal do Kewin
-g_pOgjB0_9s // Como Fazer Uploads dos Filtros - Spark Ar para Iniciantes #3
-lp8w4wgKuRQ // O que você precisa saber antes de criar filtros para o instagram  -Spark Ar para Iniciantes #1
-owxcSKbdcfs // Conhecendo o Software - Spark Ar para Iniciantes #2
-flrSzFaoisQ // Como criar um filtro com moldura simples - Spark Ar para Iniciantes #4
-LLEG5hzHByo // Tutorial Animação Simples com Folhas - Spark Ar para Iniciantes #5
-G6kd76ew-1o // Tutorial Maquiagem Simples - Spark Ar para Iniciantes #6
-ooa4DKTv2LY // Tutorial FaceTracking Avançado   Spark Ar para Iniciantes #7
-I4pcAew4U2s // Tutorial emissor de partículas  - Spark Ar para Iniciantes #8
-d2zCC3yv5E0 // Tutorial Ativando Efeito ao Abrir a Boca   Mouth Open   Spark Ar para Iniciantes #9
-EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark Ar para Iniciantes #10
-1zgl4yIYewk // Tutorial Gifs e Vídeos no seu Filtro com Photoshop - Spark Ar para Iniciantes #11
-POJQjeJ72gg // Usando Deformação de Rosto e Plástica em filtros - Spark Ar para Iniciantes #12
-huWKGCCJH2U // Varíos filtros em um tocando na tela - Spark Ar para Iniciantes #13
--MpQutcrAN4 // Como fazer filtro com objetos girando em volta da cabeça - Spark Ar para Iniciantes #14
-99wNU14mcKI // Tutorial joguinho frases que param ao tocar na tela - Spark Ar para Iniciantes #15
-1R_541RWsnM // Como funciona o processo de aprovação dos filtros? - Spark Ar para Iniciantes #16
-409KSBX0Op4 // Como criar filtro de Máscara de Beleza - Spark Ar para Iniciantes #17
-
 # Carol Oliveira
 Fry3niEClf4 // COMO CRIAR O SEU FILTRO NO INSTAGRAM?
 
@@ -199,6 +180,25 @@ g7ZfSkubHbE // SparkAR - Tutorial Cirurgia Plástica - Efeito Instagram
 8CRGfJaFwZM // Filtro para Instagram- Spark Ar
 bkrkmrcmSkA // Filtro Instagram- Como fazer Neve- Spark Ar
 rdA12TK2MsY // FILTRO PARA INSTAGRAM | FILTER FOR VALENTINE'S DAY | USE GIFS NOS SEUS FILTROS | SPARK AR
+
+# Tutoriais do Kewin
+g_pOgjB0_9s // Como Fazer Uploads dos Filtros - Spark Ar para Iniciantes #3
+lp8w4wgKuRQ // O que você precisa saber antes de criar filtros para o instagram  -Spark Ar para Iniciantes #1
+owxcSKbdcfs // Conhecendo o Software - Spark Ar para Iniciantes #2
+flrSzFaoisQ // Como criar um filtro com moldura simples - Spark Ar para Iniciantes #4
+LLEG5hzHByo // Tutorial Animação Simples com Folhas - Spark Ar para Iniciantes #5
+G6kd76ew-1o // Tutorial Maquiagem Simples - Spark Ar para Iniciantes #6
+ooa4DKTv2LY // Tutorial FaceTracking Avançado   Spark Ar para Iniciantes #7
+I4pcAew4U2s // Tutorial emissor de partículas  - Spark Ar para Iniciantes #8
+d2zCC3yv5E0 // Tutorial Ativando Efeito ao Abrir a Boca   Mouth Open   Spark Ar para Iniciantes #9
+EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark Ar para Iniciantes #10
+1zgl4yIYewk // Tutorial Gifs e Vídeos no seu Filtro com Photoshop - Spark Ar para Iniciantes #11
+POJQjeJ72gg // Usando Deformação de Rosto e Plástica em filtros - Spark Ar para Iniciantes #12
+huWKGCCJH2U // Varíos filtros em um tocando na tela - Spark Ar para Iniciantes #13
+-MpQutcrAN4 // Como fazer filtro com objetos girando em volta da cabeça - Spark Ar para Iniciantes #14
+99wNU14mcKI // Tutorial joguinho frases que param ao tocar na tela - Spark Ar para Iniciantes #15
+1R_541RWsnM // Como funciona o processo de aprovação dos filtros? - Spark Ar para Iniciantes #16
+409KSBX0Op4 // Como criar filtro de Máscara de Beleza - Spark Ar para Iniciantes #17
 
 # VA Designer
 VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook

@@ -193,7 +193,7 @@ SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 # fritsbie
 8xpCHdwX9mo // SPARK AR - Quiz Tutorial / Who are you? / Which Disney character are you? / Where will you travel?
 43Yyi45v-n8 // SPARK AR - Colour Adjusting / LUT Tutorial
-URmBZcKp9dE // Spark AR - Face Deformation & Animation Tutorial
+URmBZcKp9dE // SPARK AR - Face Deformation & Animation Tutorial
 LDf9iR33YZY // SPARK AR - Facial Features Segmentation Tutorial
 gmdOP11j_no // SPARK AR - Filter Localisation Tutorial
 QdacZ25muxM // SPARK AR - Face Paint & Face Tattoos Tutorial
@@ -256,6 +256,7 @@ QwoF0VnPIKk // Custom LUTs in Lightroom
 1do5R7UDuxI // Perlin Noise and Distortion in Spark AR
 gVuS2NJhGdw // Spark LUT Swiper Demo
 Mtgwi0NO3Ho // Motion blur in Spark AR
+8iGdg0CloUE // Advanced Blur Demo
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -267,6 +268,25 @@ WI-wYxCVgo4 // SPARK AR TUTORIAL // MAKE YOUR OWN ZOMBIE INSTAGRAM FILTER
 
 # Kapwing App
 FH_sg17pxMY // How To Make A "Which Are You" Instagram Filter - Spark AR Tutorial
+
+# KATE, CREATE!
+A-EtXzBzfwQ // MAKE YOUR OWN INSTAGRAM FACE FILTER / INSTAGRAM MASK
+oOZwgC5GDxo // Add your Instagram Filter to Instagram / Spark AR upload
+dPCpUNwDqcY // SPARK AR LIPSTICK FACE FILTER
+6m9Y_QeUckA // 3D OBJECTS in INSTAGRAM FACE FILTER / Spark AR tutorial
+4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
+8RxhIZ7IX3g // TAP TO CHANGE / Spark Ar Instagram Masks Instagram Filter change by tap
+3cDr_weipeI // BETTER WAY to CHANGE a FACE (LIPS FULLER!) in SPARK AR / INSTAGRAM MASK
+iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
+4rze2HaOGc8 // Spark AR GIF animation PARTICLES and TAP to TRY IT ON / HALLOWEEN FACE FILTER
+waoNTltNESs // BLURRY filter SPARK AR – how to FIX?!
+iRH_VQ_OTEA // TRACK TWO FACES SPARK AR / TRACK MULTIPLE FACES
+YKunVWj32KQ // EYELASHES + BLUSH if you CAN'T DRAW / SPARK AR tutorial
+zUNTsc23-Vg // Old tape / TV interference effect SPARK AR
+saBMUfgP_S4 // CHANGE EYEs COLOR (PUPILS) SPARK AR
+nnF8SswYank // Witcher Yennefer of vengerberg EFFECT / SPARK AR Instagram mask
+qoJEBA2Jh-M // CHANGE EYE COLOR for INSTAGRAM / SPARK AR tutorials
+PcF92LnOOXc // What character are you? / QUIZ Effect Spark AR  / What are you?
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -322,6 +342,9 @@ NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter paint 
 S7Fm6f1cRbc // CREATE AN INSTAGRAM STORY FILTER IN SPARK AR | BEGINNER TUTORIAL
 uka6NILQ3UY // ADD TAP TO CHANGE INSTRUCTION TO YOUR INSTAGRAM FILTERS | SPARK AR TUTORIAL
 
+# Manav Sharma
+j4NEq_jGVOk // Convert Lightroom Presets to Instagram Filters | Spark AR | Instagram Filters | Spark AR Beginner
+
 # Manhsplains
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
 azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting around the mouth and eyes
@@ -361,9 +384,6 @@ OLCipWve774 // Reflective Glass Shader for Spark AR
 
 # Midnight Typers
 yc5ohk_Nxng // Make filter effect with SPARK AR like "The Mandela Effect" movie
-
-# mnvshr
-j4NEq_jGVOk // Convert Lightroom Presets to Instagram Filters | Spark AR | Instagram Filters | Spark AR Beginner
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -566,25 +586,6 @@ DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)
 # uriya disegni
 7m0XZEeCzjk // How to create an instagram effect on spark ar - "who", "which" effect
 eR6vwvg21oY // who make a "beauty" filter  in spark ar
-
-# USOV SCHOOL
-A-EtXzBzfwQ // MAKE YOUR OWN INSTAGRAM FACE FILTER / INSTAGRAM MASK
-oOZwgC5GDxo // Add your Instagram Filter to Instagram / Spark AR upload
-dPCpUNwDqcY // SPARK AR LIPSTICK FACE FILTER
-6m9Y_QeUckA // 3D OBJECTS in INSTAGRAM FACE FILTER / Spark AR tutorial
-4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
-8RxhIZ7IX3g // TAP TO CHANGE / Spark Ar Instagram Masks Instagram Filter change by tap
-3cDr_weipeI // BETTER WAY to CHANGE a FACE (LIPS FULLER!) in SPARK AR / INSTAGRAM MASK
-iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
-4rze2HaOGc8 // Spark AR GIF animation PARTICLES and TAP to TRY IT ON / HALLOWEEN FACE FILTER
-waoNTltNESs // BLURRY filter SPARK AR – how to FIX?!
-iRH_VQ_OTEA // TRACK TWO FACES SPARK AR / TRACK MULTIPLE FACES
-YKunVWj32KQ // EYELASHES + BLUSH if you CAN'T DRAW / SPARK AR tutorial
-zUNTsc23-Vg // Old tape / TV interference effect SPARK AR
-saBMUfgP_S4 // CHANGE EYEs COLOR (PUPILS) SPARK AR
-nnF8SswYank // Witcher Yennefer of vengerberg EFFECT / SPARK AR Instagram mask
-qoJEBA2Jh-M // CHANGE EYE COLOR for INSTAGRAM / SPARK AR tutorials
-PcF92LnOOXc // What character are you? / QUIZ Effect Spark AR  / What are you?
 
 # Varun Raikar
 o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
