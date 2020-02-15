@@ -428,6 +428,7 @@ sr4lLqU4FJ4 // Multiple Material for single object in code || Spark AR || Instar
 9vfG47-OrXY // How to reduce Size of your 3d model for spark ar in blender|| Spark AR ||Instargam Filter || Rbkavin
 Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
