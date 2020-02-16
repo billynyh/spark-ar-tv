@@ -197,6 +197,7 @@ URmBZcKp9dE // SPARK AR - Face Deformation & Animation Tutorial
 LDf9iR33YZY // SPARK AR - Facial Features Segmentation Tutorial
 gmdOP11j_no // SPARK AR - Filter Localisation Tutorial
 QdacZ25muxM // SPARK AR - Face Paint & Face Tattoos Tutorial
+JzexLE67O7c // SPARK AR TIPS - How to add Music/Song
 
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
@@ -381,6 +382,9 @@ Xq7b5j6QrCo // Spark AR tutorial: Create "Mood of the Day" filter with Dynamic T
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
 OLCipWve774 // Reflective Glass Shader for Spark AR
+
+# Mend Nad
+c8r_oS4DTMw // How To Make A  Which Are You  Instagram Filter   Spark AR Tutorial
 
 # Midnight Typers
 yc5ohk_Nxng // Make filter effect with SPARK AR like "The Mandela Effect" movie

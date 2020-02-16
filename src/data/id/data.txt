@@ -169,6 +169,7 @@ wTNJJkYzjJg // Update Terbaru Spark AR Studio v78 1 Bahasa Indonesia
 E4U1hsMp21M // Spark AR Menambahkan Efek Physics kedalam 3D Object Bahasa Indonesia
 q626kHEuzNk // Spark AR Membuat color LUTs menerapkan Presets dan Profiles Lightroom Bahasa Indonesia
 K1psMf3q3v0 // Spark AR Scripting Bahasa Indonesia | LookAt Function | Spark AR Programming.
+QRXWuAXwqkQ // Spark AR Sistem Score Game Bahasa Indonesia
 
 # Rudy Anwar
 5dJKGzR7jAc // Cara membuat 3D Filter Instagram - Tutorial Spark AR Studio
@@ -211,7 +212,7 @@ gJj45PX5sHE // Tutorial SPARK AR STUDIO : Membuat Filter di Instagram (Bahasa In
 
 # Sopyan Alansory
 El3pCV4utvs // Spark AR: Instagram Filters - Cara Membuat Filter Instagram & Facebook
-nc3yxyTlW8w // Spark AR: Instagram Filters - Cara Membuat Filter Typography Instagram
+QzaeVcDlogg // Spark AR : Instagram Filters - Cara Membuat Filter Typography Instagram
 
 # sugi anto
 hgUNzYEg3Ig // MEMBUAT EFEK DARI GIF UNTUK STORY INSTAGRAN MENGGGUNAKAN SPARK AR STUDIO    II
