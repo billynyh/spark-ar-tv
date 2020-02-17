@@ -117,6 +117,7 @@ AV_T6cH-F88 // Split Screen into Quadrants | Spark AR Studio
 yEAEY_udFYA // Facial Feature Extraction Part 1 of 2 | Spark AR Studio
 luzSzAUb9TM // Facial Feature Extraction Part 2 of 2 | Spark AR Studio
 JIabqi-CmDA // How to create Eye Lasers | Spark AR Studio
+52cyV4bCWN8 // Orbit Objects around Head | Spark AR Studio
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
@@ -198,6 +199,7 @@ LDf9iR33YZY // SPARK AR - Facial Features Segmentation Tutorial
 gmdOP11j_no // SPARK AR - Filter Localisation Tutorial
 QdacZ25muxM // SPARK AR - Face Paint & Face Tattoos Tutorial
 JzexLE67O7c // SPARK AR TIPS - How to add Music/Song
+yuYqagBMhmY // SPARK AR TIPS - How to add Custom Instructions
 
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
@@ -390,6 +392,7 @@ c8r_oS4DTMw // How To Make A  Which Are You  Instagram Filter   Spark AR Tutoria
 
 # Midnight Typers
 yc5ohk_Nxng // Make filter effect with SPARK AR like "The Mandela Effect" movie
+moXttlpCSCA // Cara membuat filter instagram sendiri - sparkar - triggered meme
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -405,6 +408,7 @@ vg1KophU1VA // Make your first #Instagram #filter
 QgSmfJEFj1s // Emoji Face Slider: Spark AR Studio Project Template
 eKx0J1pqCdg // Beating Heart: Spark AR Studio Project Template
 WSg5ndH-ljg // Color Sampler: Spark AR Studio Example
+qzHZf7PzPI8 // Face Averaging: Spark AR Studio Project Template Eucalyptus Wedding Photo Booth
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
