@@ -22,6 +22,7 @@ qzv3U4fcSjo // КАК СДЕЛАТЬ МАСКУ С 3D МОДЕЛЬЮ  В ИНС�
 rkGyndJiR4s // Crea Filtros Para Instagram Con Modelos 3D (Daft Punk)
 mbwEeVqAOho // Как сделать маску в инстаграм Где брать 3D объекты Spark AR. Как сделать маску в инстаграм
 HLzHrm50Guc // урок 3: Миллион 3д моделей для новых масок в инстаграм
+0i-6OSxfWWI // AR Filters for Instagram - Breakdown - TimeLapse
 
 # Animation / Gif
 cLQVGv8gG90 // Spark AR: Instagram Filters - How to use gifs as Sprite Sheets
@@ -69,6 +70,7 @@ vxO2J6jMVAg // Как создать гифку - делаем GIF анимац�
 5FebsRAFD1s // TUTORIAL SPARK AR STUDIO EN ESPAÑOL | TEXTO NEÓN ANIMADO 🆒| head Occluder 3D |Tutorial desde cero 👍
 fAlTa4ciZyw // After Effect - секвенция видео
 XDpAi3VZtF8 // Spark AR/ gif,анимация и тд
+4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 
 # Audio
 b5rw9Ypo7dY // Spark AR: Instagram Filter - How to convert an mp3 for use in a filter
@@ -92,6 +94,8 @@ GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
 MO6o1Hwi9B8 // How to Add Audio to AR Studio
 8KrHDr_XG0I // SPARK AR [использование Native UI для переключения Audio]  + Free script. Lesson #1.
 Vuv6kB34t9c // Setup & Fixing Spark AR Audio | Third Aurora Augmented Reality Tech Company
+JzexLE67O7c // SPARK AR TIPS - How to add Music/Song
+EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску караоке?
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
@@ -101,6 +105,11 @@ _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
 Hzmyt-s_bZs // Spark AR quick tip 01: scripting movement by screen tap
 eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+K1psMf3q3v0 // Spark AR Scripting Bahasa Indonesia | LookAt Function | Spark AR Programming.
+4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску караоке?
+qpmMZoQcWg8 // Blink Counting Game: Timer, Script to Patch Bridge, Value to String Conversion in Spark AR Studio
+TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
 
 # Beauty / Makeup / Lipstick
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -125,6 +134,10 @@ iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tuto
 a30cyRPQ9Zc // HOW TO CREATE INSTAGRAM FILTERS |  MAKEUP INSTAGRAM FILTER | SPARK AR TUTORIAL
 e2SK998RVhU // Lipstick Filter Effect | Instagram & Facebook | Spark AR Tutorial
 f-ROIFIuobw // Three Minute Lipstick Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+sO4JBLWMsSM // КАК СДЕЛАТЬ МАСКУ МАКИЯЖ/РЕСНИЦЫ/SPARK AR
+
+# Color Sampler
+WSg5ndH-ljg // Color Sampler: Spark AR Studio Example
 
 # Date and time
 ZmIoWlVN_m0 // Date & Time in Spark AR
@@ -159,6 +172,7 @@ L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 pXlUYX2IwZw // 3d eyelashes for spark ar. Tracking control
 OUlI_fvrOno // Урок2.Создание маски в Spark AR с ретушью,надписью на лице и макияжем.
 FhTxlMsYEwM // Spark AR Yennefer Look a Like Tutorial [Change your Eyecolor, MakeUp, add 3D Eyelashes]
+sO4JBLWMsSM // КАК СДЕЛАТЬ МАСКУ МАКИЯЖ/РЕСНИЦЫ/SPARK AR
 
 # Face Retouching
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -185,6 +199,8 @@ fLuqn3vjPe0 // Spark AR Sem rosto e Alpha nos olhos e boca!
 4uxWgaUFfzk // FaceMesh Wiggle Effect | Spark AR
 eLSTvhfQUa4 // Spark AR - Face Extraction Part II | Imagen estática & objeto 3d
 RxBG_MIzgt8 // Делаем маску с движующей камерой / ДОБАВЛЯЕМ ЛИЦО НА 3D ОБЪЕКТ / SPARK AR МАСКА / instagram
+yEAEY_udFYA // Facial Feature Extraction Part 1 of 2 | Spark AR Studio
+luzSzAUb9TM // Facial Feature Extraction Part 2 of 2 | Spark AR Studio
 
 # Face mesh / deformation
 7lx9iNagJ6o // Sparkar Studio -  Deformation Face
@@ -205,6 +221,7 @@ ZaZ28P9HP7s // Spark AR Deformation + LUTs + Retouching
 YEjuwNDdMf8 // Создание масок в инстаграм. Уроки Spark AR. Уникальная пластика лица на примере создания маски Рафа
 7QZzC4PsTZM // Como criar filtro BABY FACE pro Instagram - Distorção da Face
 POJQjeJ72gg // Usando Deformação de Rosto e Plástica em filtros - Spark Ar para Iniciantes #12
+URmBZcKp9dE // SPARK AR - Face Deformation & Animation Tutorial
 
 # Face tracker tricks
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
@@ -244,6 +261,7 @@ aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game 
 78pe0ugVMrI // Drone simulation in AR Spark | AR studio | AR game logic | AR VR Animation
 8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare textures
 heMa3fGj0Jc // Spark AR game scripting tutorial 02: locate textures
+QRXWuAXwqkQ // Spark AR Sistem Score Game Bahasa Indonesia
 
 # Halloween / Joker
 S_X8_ML1e2M // SparkAR Joker mask
@@ -275,6 +293,7 @@ yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Face
 5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 uka6NILQ3UY // ADD TAP TO CHANGE INSTRUCTION TO YOUR INSTAGRAM FILTERS | SPARK AR TUTORIAL
+yuYqagBMhmY // SPARK AR TIPS - How to add Custom Instructions
 
 # Iris tracking
 hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
@@ -284,6 +303,7 @@ h72hzXEfjdM // Spark AR - Iris Tracking Instagram Filter
 l5a5fHZIGzM // Eyeball Tracking (Patch Editor) Snake Eye Filter Effect | Instagram & Facebook | Spark AR Tutorial
 2_vkZm6e0A0 // Как сделать маску которая отслеживает зрачки и меняет их цвет / SPARK AR зрачки / INSTAGRAM фильтры
 yzoJSyjBijU // Iris Animation (Eyeball Tracking Part 2) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+XEYbjXe0TIE // SPARK AR - Iris Tracking & Triggered Eyes Meme Tutorial
 
 # LUT
 lxF-ecbkbr4 // Color LUTs in Spark AR
@@ -333,6 +353,21 @@ YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
 G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Anthi
 S7Fm6f1cRbc // CREATE AN INSTAGRAM STORY FILTER IN SPARK AR | BEGINNER TUTORIAL
+opgUXotK1jk // Spark AR LUT com Chuvisco e Retouch!
+iFOHrmu90x8 // Cara buat filter instagram sendiri dengan Lightroom (Spark AR Studio)
+GohHMLmz2LE // Color Pallete - Cara Membuat Filter Instagram Seperti Filter Stories 2.0 Spark Ar Tutorial
+v1EKUR0ajaE // How to Make an Instagram Filters with Preset Lightroom or VSCO | ENG SUB
+43Yyi45v-n8 // SPARK AR - Colour Adjusting / LUT Tutorial
+cPMo-oUcsQc // COMO FAZER EFEITO LUT NO SPARK AR
+aHJXyLVm7aE // Cara Membuat Filter Instagram 3DLuts Sendiri Dengan Spark Ar - Tutorial Spark Ar Indonesia
+gVuS2NJhGdw // Spark LUT Swiper Demo
+LojGhczG8mo // Cara membuat Filter Instagram menggunakan Preset VSCO termudah | Spark AR Indonesia
+-7Bxx1oSyLU // Make Up Tutorial - Cara Membuat Filter Make Up Dan Lut Di Spark Ar
+UTuew30eeKA // SPARK AR TUTORIAL | CARA MEMBUAT FILTER INSTAGRAM STORY DARI PRESET LIGHTROOM
+
+# Laser eyes
+qj4FGokKDpM // Spark AR Criando o melhor efeito Laser!
+JIabqi-CmDA // How to create Eye Lasers | Spark AR Studio
 
 # Multiple faces
 BYjxsecEbiI // Spark AR - Track Multiple Faces
@@ -431,7 +466,10 @@ XTqMshFg6Rg // Bokeh Particles in Spark AR
 U8CAMfoGD0Y // Spark AR Criando Partículas de fumaça em anéis
 6RNYsFzwdaY // สอนทำฟิลเตอร์ IG EP2: Particle ออกจากปาก ร่วงจากฟ้า
 ouWXN2BLMkc // Анимация Particle System
+3g7cG0AN-fM // Spark AR Partículas atrás da pessoa!
 EFX5610o2Js // Как сделать салют/частицы в маске Рандомайзер Spark AR
+T18xS9Q1KyU // SPARK AR STUDIO. Маска в Инстаграм. Нимб
+TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
 
 # Patch Editor
 S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
@@ -476,6 +514,10 @@ XM9JrT6PB0w // Уроки Spark AR Studio 76v.  Fixed Target Tracker - как и
 LHVQk-ICgMk // Spark AR - Photogrammetry + Target Tracker Instagram | Display Land
 d_2KU0gLkqY // Spark AR Tutorial Target Tracker. Создаем дополненную реальность в Инстаграм
 w6beb3zwuHA // Как сделать привязку маски к вывеске/монитору/логотипу в Spark AR. Создаём Fixed Target Tracker.
+ocfWlyPYUuI // Cara Membuat Augmented Reality Target Tracker Dengan Spark AR
+
+# Publish effects
+pdozPtEIaVY // UPLOAD FILTER INSTAGRAM DI SPARK AR HUB
 
 # Random image game / head quiz
 2JHSVWRLuBI // Head Quiz - Games Filter Instagram  | Realidad Aumentada
@@ -522,6 +564,11 @@ cwg4ZDyTm8k // Как сделать маску Инстаграм с вопро
 SHo68PT7vfA // Уроки Spark AR Random КАРТИНОК и 3D ОБЪЕКТОВ. Маска в инстаграм рандом
 VHuRAwHxMxM // HOW TO MAKE WHO ARE YOU FILTER EASY IN 3 MINUTES - Spark Ar tutorial - Natived Filters Laboratory
 cBpumG3ejbs // Как сделать круглую рамку для маски рандомайзер / кто ты? Spark AR и Photoshop
+68TzvFIbW_8 // Cómo hacer el filtro "A qué personaje te pareces" para instagram Spark AR
+8xpCHdwX9mo // SPARK AR - Quiz Tutorial / Who are you? / Which Disney character are you? / Where will you travel?
+RE3PDHVDyNU // Spark AR - Which Barça player are you filter demo
+c8r_oS4DTMw // How To Make A  Which Are You  Instagram Filter   Spark AR Tutorial
+jlH63vvyFK8 // RANDOM MEME FILTER for Instagram / SPARK AR TUTORIALs Image Sequence
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
@@ -538,6 +585,7 @@ pRIH_NL-WEM // Spark AR Studio - Scanner Face
 LcGQ1iS-bAk // Spark AR Studio - Scanner Face V2
 LtEeW-BZzzA // Spark AR Como criar o efeito Scanner usando SDF!
 T3e5iqsk5-c // Scanner ( Face Mesh ) Effect - Spark AR Studio [ Tutorial ]
+laivaNp_bVg // Spark AR studio урок СКАНЕР ЛИЦА/ tutorials  face scanner
 
 # Segmentation
 yVjb6iBHFo8 // Body Segmentation with SparkAr Studio
@@ -571,6 +619,9 @@ YpFfkCftF6U // Spark AR - LUTs + Segmentation
 9P2NbVhqj9Y // Change Background Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 MwxctcV2kc4 // HOW TO MAKE INSTAGRAM FILTERS-Easy Tutorial iris tracking on black and white in spark ar v.80+extra
 8U5A9VvlqlE // КАК ПОМЕНЯТЬ ФОН МАСКИ ДЛЯ ИНСТАГРАММ | Маска для Инстаграмм за 5 минут | Маска с анимацией |SonLife
+3g7cG0AN-fM // Spark AR Partículas atrás da pessoa!
+Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
+NRQEJ1z8DL0 // Урок по Spark AR. Интересный эффект с обводкой человека
 
 # Shader
 6rcTbfrVyWo // Spark AR MatCap shader
@@ -588,6 +639,8 @@ Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || 
 h6208mfKuoA // Spark ar - Tutorial easy texture distortion creative using SPARK AR library ONLY in v.78
 V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
 WKkoCfQbhmA // How to make filters - Clone shader patch for GLITCHY effects! Spark Ar - Natived Filters Laboratory
+Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
+8iGdg0CloUE // Advanced Blur Demo
 
 # Tap to change
 eDLvXDEK7us // Уроки Spark AR Studio. Смена эффекта по Тапу (Screen Tap).  Цвет губ. Маски в Инстаграм
@@ -628,6 +681,7 @@ AKS6m_uxgFI // Создание масок инстаграм. Урок 7 - па
 ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
 VinrQWhv0ss // Spark AR: Instagram Filters - Image Compression
 zJAYvJbCR_k // Spark AR  - Templates: Head, Neck Decoration, World Object | Instagram
+vJo1HaYGd8c // Spark AR - how to change the video preview | cómo cambiar el video preview | WebM FFmpeg
 
 # Touch Gesture
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
@@ -635,4 +689,5 @@ qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
 
 # Wings / Angel
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
+MsaKgHguHXw // Уроки Spark ar Studio. Как сделать маску с крыльями?
 VlWuZDCo8hc // Уроки Spark AR Wings, Аngel. КРЫЛЬЯ И ОБЪЕКТЫ ЗА ЧЕЛОВЕКОМ. Маски в инстаграм
