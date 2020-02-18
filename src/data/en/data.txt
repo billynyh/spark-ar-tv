@@ -200,6 +200,7 @@ gmdOP11j_no // SPARK AR - Filter Localisation Tutorial
 QdacZ25muxM // SPARK AR - Face Paint & Face Tattoos Tutorial
 JzexLE67O7c // SPARK AR TIPS - How to add Music/Song
 yuYqagBMhmY // SPARK AR TIPS - How to add Custom Instructions
+XEYbjXe0TIE // SPARK AR - Iris Tracking & Triggered Eyes Meme Tutorial
 
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
@@ -409,6 +410,7 @@ QgSmfJEFj1s // Emoji Face Slider: Spark AR Studio Project Template
 eKx0J1pqCdg // Beating Heart: Spark AR Studio Project Template
 WSg5ndH-ljg // Color Sampler: Spark AR Studio Example
 qzHZf7PzPI8 // Face Averaging: Spark AR Studio Project Template Eucalyptus Wedding Photo Booth
+qpmMZoQcWg8 // Blink Counting Game: Timer, Script to Patch Bridge, Value to String Conversion in Spark AR Studio
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]

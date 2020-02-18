@@ -145,6 +145,10 @@ n4A5nFxZWis // КАК СДЕЛАТЬ ГЛИТТЕР С ТЕКСТУРОЙ ТОЧ
 0KunK6XYzCs // Как Сделать Маску в Инстаграм за 5 минут! Анимированные Маски, блестки и в стиле kira kira
 l2SU2pCEVUY // Como Fazer O Efeito Kira Kira | Spark AR Brasil @julliana.dev #kira #kirakira #bling
 jo-FoxmptR8 // Kira-Kira маска - как делать? How to make Kira Kira mask? SPARK AR studio Lesson
+OLPJ3UNH-rE // spark ar / how to make kira-kira / как сделать киру киру
+nK1I-HutyFg // КАК СДЕЛАТЬ RETOUCH+Глиттер, KIRA/Spark AR
+-_6t80zdEE0 // 18 урок Spark AR Studio. Маска-эффект Кира-Кира
+L5_lTMz1-Nw // Как сделать маску инстаграм Кира Кира. Уроки Spark AR Studio
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -370,7 +374,9 @@ qKj6tSOolqk // Spark AR Studio - Neonaura - Efecto sencillo basado en segmentaci
 5dUVBjjKy0k // CyberNeon (CN) - Spark AR Studio [Tutorial]
 H4JIKO6kexc // Instagram Filter Neon Mask (Basic) - Instagram Filtresi Nasıl Yapılır?
 _eF0PdZpQLE // Spark AR Criando efeito Neon!
+gtGxxAIUqyE // SPARK AR ITA - COME CREARE MASCHERE E FILTRI INSTAGRAM NEON IN SEQUENZA
 YLCrsSXrvYE // Неон, добавление неонового plane и 3D анимация
+dGABnufFkvs // Spark AR/ как сделать неоновую маску
 
 # Occluder / Occlusion
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -381,6 +387,16 @@ LVrlXIwUgkw // Instagram Spark AR Como adicionar um óculos com Head Occluder
 lyK30WEi6nw // Spark AR Crie um efeito de coroa. Tutorial de como adicionar coroas com Head occluder!
 doNaxDHp-Gc // Spark AR Tutorial - Occlusion Portal and Hole in the Floor | spark ar tutorial
 5FebsRAFD1s // TUTORIAL SPARK AR STUDIO EN ESPAÑOL | TEXTO NEÓN ANIMADO 🆒| head Occluder 3D |Tutorial desde cero 👍
+
+# Open mouth
+4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
+iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
+d2zCC3yv5E0 // Tutorial Ativando Efeito ao Abrir a Boca   Mouth Open   Spark Ar para Iniciantes #9
+idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
+6g5GdU33Eyk // Spark AR Tutorial 3 Useful Mouth Open Patch Ideas (2020 Special)
+hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
+wmQ3tVXafy4 // КАК СДЕЛАТЬ МАСКУ OPEN MOUTH ДЛЯ ИНСТРАГРАМ | DARIA TSVET
+xDOnGh-ygXM // How to Stop Animation with Facial Expression in Spark AR [useful patch for blink, mouth open, etc.]
 
 # Particles
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
@@ -415,6 +431,7 @@ XTqMshFg6Rg // Bokeh Particles in Spark AR
 U8CAMfoGD0Y // Spark AR Criando Partículas de fumaça em anéis
 6RNYsFzwdaY // สอนทำฟิลเตอร์ IG EP2: Particle ออกจากปาก ร่วงจากฟ้า
 ouWXN2BLMkc // Анимация Particle System
+EFX5610o2Js // Как сделать салют/частицы в маске Рандомайзер Spark AR
 
 # Patch Editor
 S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
@@ -605,6 +622,7 @@ bOxiFTY0lR4 // Eye Colour Tap to Change  (Quick Version) Filter Effect | Instagr
 hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial
 1ML_yfDRg6Q // Hero/Villain Mask Tap to Change Filter Effect (Quick Version)| Instagram/Facebook |Spark AR Tutorial
 fgS4iHfpuIA // SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes
+AKS6m_uxgFI // Создание масок инстаграм. Урок 7 - патчи. Как сделать переключение по нажатию на экран
 
 # Tooling
 ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
@@ -614,3 +632,7 @@ zJAYvJbCR_k // Spark AR  - Templates: Head, Neck Decoration, World Object | Inst
 # Touch Gesture
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
 6stXwBt87Dg // Drag 2D Object: Spark AR Studio
+
+# Wings / Angel
+oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
+VlWuZDCo8hc // Уроки Spark AR Wings, Аngel. КРЫЛЬЯ И ОБЪЕКТЫ ЗА ЧЕЛОВЕКОМ. Маски в инстаграм
