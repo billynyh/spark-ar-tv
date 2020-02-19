@@ -49,6 +49,7 @@ JYOezMX0H1U // Spark AR Studio - Cambio de texturas con NativeUI Picker
 RD3m5XnmRmA // Spark AR Studio - Traducción del Texto editable según geografía del usuario
 aH8_miA4vow // Spark AR Studio - Rectángulos responsivos
 PyPIKezwrF4 // Spark AR Studio. Posicionamiento rectángulos - Re grabado
+_VNFrxTuC5M // Spark AR Studio - Tracking more than one face - Seguir más de un rostro - Silent Bob Version
 
 # Daim Vazquez
 n-B2B6CTNkk // CREA TUS PROPIOS FILTROS/EFECTOS PARA INSTAGRAM STORIES/Daim Vazquez/Tutorial/
@@ -87,6 +88,7 @@ Ui82aNi24Mo // Filtro para Instagram | Cómo agrandar los labios con Spark AR St
 7Sqgc6onelc // CREA tu propio FILTRO de INSTAGRAM 😍(Spark AR)
 hw1DklYnI5k // Cómo SUBIR un filtro a INSTAGRAM
 sO45RXRHd0c // Crear filtro "quien eres" para instagram
+VPaBIDmdtzo // Mi filtro esta en REVISION - SOLUCIÓN a SPARK AR
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -128,6 +130,7 @@ zJAYvJbCR_k // Spark AR  - Templates: Head, Neck Decoration, World Object | Inst
 Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
 shHeRjQVkQo // Spark AR Tutorial -  Eye tracking & beating heart
 vJo1HaYGd8c // Spark AR - how to change the video preview | cómo cambiar el video preview | WebM FFmpeg
+l_8aQI31mSI // Spark AR Tutorial - Segmentation & Eye tracking | Srburns Simpsons
 
 # Eric sin k
 c6ndYPE_vXk // Filtros de Instagram en corto / creo que es un tutorial.
