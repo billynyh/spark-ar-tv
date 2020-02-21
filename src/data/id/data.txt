@@ -100,6 +100,7 @@ aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game 
 nMsNpcIKaf4 // Kenapa Suara Filter Spark AR Ketika Rekaman Tidak Terdengar
 haLMG1EKMcs // Cara Membuat Filter Instagram Objek Berputar di Kepala
 ocfWlyPYUuI // Cara Membuat Augmented Reality Target Tracker Dengan Spark AR
+Abt7EP1w4vA // Cara Menambahkan Video Preview Lain di Spark AR
 
 # ftr.
 aHJXyLVm7aE // Cara Membuat Filter Instagram 3DLuts Sendiri Dengan Spark Ar - Tutorial Spark Ar Indonesia
