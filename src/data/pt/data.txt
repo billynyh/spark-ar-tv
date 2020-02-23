@@ -147,7 +147,6 @@ Q1Yh_J43MX0 // Spark AR Criando um contorno com segmentação!
 4UyHr7GHxIc // Spark AR Cílios 3D, Nova MakeUP e V76!
 0B-1wH1U2EM // Spark AR Crie seu Game com Play/Pause em animação
 tw1nBgK2IeI // Spark AR Como usar Native UI Slider
-KsGty8pYGMo // Acesso a 36 projetos completos de Spark AR
 R08gaDQTku8 // Spark AR Objeto 3D com oclusão!
 k9-uaTfpLPg // Spark AR Emissor de partículas girando e SDF
 z2f0pLUBH0E // Spark AR Criando Moldura com 3D, Lut e mudança de cor!
