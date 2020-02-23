@@ -216,6 +216,7 @@ yuYqagBMhmY // SPARK AR TIPS - How to add Custom Instructions
 XEYbjXe0TIE // SPARK AR - Iris Tracking & Triggered Eyes Meme Tutorial
 13bXUghu39E // SPARK AR TIPS - Changing Text with Scripting (Random Date Picker) Tutorial
 y2j9n2g8bZc // Spark AR - Native UI Picker Tutorial (With LUT Switch)
+YhfveCO0YL4 // SPARK AR - Fixed Target Tracker Tutorial (With 3D Animations)
 
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
@@ -580,6 +581,9 @@ mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 
 # Steven Van
 qz0cuIAHras // How to Make Instagram AR Filters!
+
+# Sunshine in My Code
+E_7vchBipEk // Create your own Instagram Filters | Beginner friendly | SUNSHINE IN MY CODE
 
 # SuperHi
 E8Sf3tNvNE4 // How to make an AR fashion filter for Instagram
