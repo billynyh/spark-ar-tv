@@ -94,7 +94,7 @@ GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
 MO6o1Hwi9B8 // How to Add Audio to AR Studio
 8KrHDr_XG0I // SPARK AR [использование Native UI для переключения Audio]  + Free script. Lesson #1.
 Vuv6kB34t9c // Setup & Fixing Spark AR Audio | Third Aurora Augmented Reality Tech Company
-JzexLE67O7c // SPARK AR TIPS - How to add Music/Song
+JzexLE67O7c // SPARK AR TIPS - Convert Audio to M4A (How to add Music/Song)
 EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску караоке?
 
 # Basic JS script
@@ -108,7 +108,7 @@ eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instarga
 K1psMf3q3v0 // Spark AR Scripting Bahasa Indonesia | LookAt Function | Spark AR Programming.
 4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску караоке?
-qpmMZoQcWg8 // Blink Counting Game: Timer, Script to Patch Bridge, Value to String Conversion in Spark AR Studio
+qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
 
 # Beauty / Makeup / Lipstick
@@ -138,7 +138,7 @@ sO4JBLWMsSM // КАК СДЕЛАТЬ МАСКУ МАКИЯЖ/РЕСНИЦЫ/SPAR
 
 # Color Sampler
 vPuObKf-55I // Chromakey in Spark AR
-WSg5ndH-ljg // Color Sampler: Spark AR Studio Example
+WSg5ndH-ljg // Color Sampling: Spark AR Studio Patch Tutorial
 
 # Date and time
 ZmIoWlVN_m0 // Date & Time in Spark AR
@@ -342,7 +342,7 @@ kd9p1bw1X-g // Cara Membuat Filter Face Instagram Story Pakai Preset LR & VSCO |
 QwoF0VnPIKk // Custom LUTs in Lightroom
 YpFfkCftF6U // Spark AR - LUTs + Segmentation
 z2f0pLUBH0E // Spark AR Criando Moldura com 3D, Lut e mudança de cor!
-EbkutUyZGWk // Cara buat Filter Instagram Sendiri Dengan Mudah Pakai Preset Lightroom / VSCO | Spark AR Tutorial
+EbkutUyZGWk // Cara buat Filter Instagram Sendiri Dengan Mudah Pakai Lightroom / VSCO | Spark AR Tutorial
 8nsD9_T7Yog // Spark AR 5 Dicas para deixar seu LUT Incrível!
 ja6Elaxm1kY // ПОЛНЫЙ НАБОР В Spark AR. LUT + script + facemesh + plane. Создаем вместе маску как у Foreo.
 X7ike4QMbOI // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / LIGHTROOM PRESET ALS IG FILTER 2020
@@ -686,7 +686,7 @@ vJo1HaYGd8c // Spark AR - how to change the video preview | cómo cambiar el vid
 
 # Touch Gesture
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
-6stXwBt87Dg // Drag 2D Object: Spark AR Studio
+6stXwBt87Dg // Drag 2D Object on Canvas: Spark AR Studio Patch Tutorial
 
 # Wings / Angel
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
