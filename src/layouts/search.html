@@ -1,0 +1,28 @@
+<%inherit file="base.html" />
+
+<div class="row">
+
+<div class="col-6">
+
+<form>
+  <div class="form-group">
+    <label for="search-box">Search</label>
+    <input type="text" class="form-control" id="search-keyword" placeholder="Keyword" readonly>
+  </div>
+</form>
+
+</div>
+</div>
+
+
+<div id="search-result" class="row"></div>
+
+<%block name="extra_include_scripts">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
+
+</%block>
+
+<%block name="extra_scripts">
+initSort(CONFIG);
+</%block>
+

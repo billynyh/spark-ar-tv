@@ -29,6 +29,7 @@ class HtmlHelper:
             site = site,
             navs = get_navs(self.master, site),
             nav_json_url = "%s/global/nav.json" % site.url,
+            search_data_json_url = "%s/global/search.json" % site.url,
             debug = False, #True,
             **kwargs)
 
@@ -120,6 +121,14 @@ class HtmlHelper:
 
     def gen_sitemap_html(self, site, page, sitemap):
         t = self.get_template('sitemap.html')
+        return self.render(t,
+            site = site,
+            page = page,
+            sitemap = sitemap,
+            )
+
+    def gen_search_html(self, site, page, sitemap):
+        t = self.get_template('search.html')
         return self.render(t,
             site = site,
             page = page,

@@ -118,13 +118,21 @@ def single_channel_pages(site, config):
             html_helper.gen_single_channel_html(site, page_config, x)
         ))
     return pages
-        
+
 def sitemap_page(master, site, config):
     page_config = PageConfig(config.site_config.page_config)
     page_config.title = "Sitemap | Spark AR TV" 
     page_config.og_image = util.get_logo_url(config)
     sitemap = sitemap_helper.load_sitemap(master, config)
     page = ("sitemap.html", html_helper.gen_sitemap_html(site, page_config, sitemap))
+    return page
+
+def search_page(master, site, config):
+    page_config = PageConfig(config.site_config.page_config)
+    page_config.title = "Search | Spark AR TV" 
+    page_config.og_image = util.get_logo_url(config)
+    sitemap = sitemap_helper.load_sitemap(master, config)
+    page = ("search.html", html_helper.gen_search_html(site, page_config, sitemap))
     return page
 
 def gen_lang_site(master, site, config):
@@ -152,6 +160,8 @@ def gen_lang_site(master, site, config):
         pages += single_channel_pages(site, config)
     if site.gen_sitemap:
         pages += [sitemap_page(master, site, config)]
+    if site.gen_search:
+        pages += [search_page(master, site, config)]
 
     for page in pages:
         with open_out_file(out_dir, page[0]) as outfile:
@@ -160,7 +170,8 @@ def gen_lang_site(master, site, config):
 
 def gen_global_json(master, site, config):
     pages = [
-        ('nav.json', json_helper.nav_json(master))
+        ('nav.json', json_helper.nav_json(master)),
+        ('search.json', json_helper.search_json(master))
     ]
     out_dir = "%s/global" % (config.out_dir)
     for page in pages:
@@ -188,9 +199,9 @@ def gen_site(config):
         langs = config.site_config.languages
 
     with Pool(processes=4) as pool:
-        results = [pool.apply_async(gen_lang_site, (master, master.lang_sites[lang], config)) for lang in langs]
+        results = [pool.apply_async(gen_global_site, (master,))]
+        results += [pool.apply_async(gen_lang_site, (master, master.lang_sites[lang], config)) for lang in langs]
         [res.get(timeout=10) for res in results]
-    gen_global_site(master)
 
     # Copy assets
     util.copy_all_assets(config)

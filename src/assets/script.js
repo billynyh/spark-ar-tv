@@ -36,39 +36,63 @@ function div(cls) {
 }
 
 function link(title, url) {
-  return $('<a/>').attr('href', url).text(title);
+  return ['<a href="',url,'">',title,'</a>'].join('');
 }
 
-function initPage(config) {
+function renderVid(config, vid) {
+  return html = [
+      '<div class="vid">',
+      '<div class="thumb-container">',
+      '<div class="thumb-wrapper">',
+      '<a target="_blank" href="',
+      vid.video_url,
+      '"><img data-src="',vid.thumbnail_url,'"/>',
+      config.PLAY_BUTTON_HTML,
+      '</a>',
+      '</div>',
+      '<div class="thumb-label">',
+      vid.duration,
+      '</div>',
+      '</div>',
+      '<div class="title">',
+       link(vid.title, vid.video_url),
+       '</div>',
+      '<div class="meta">',
+      link(vid.channel_title, vid.channel_url),
+      '&nbsp;&bull;&nbsp;',
+      vid.published_at,
+      '</div>',
+      '</div>',
+      ].join('');
+}
 
-$('.video-item').each(function(i, e){
-  e = $(e);
-  const playButton = $('<span/>')
-      .addClass('play-button')
-      .append($('<img />').attr('src', config.play_icon_url));
-  const a = link('', e.attr('data-video-url'))
-      .attr('target', '_blank')
-      .append($('<img/>').attr('data-src', e.attr('data-thumbnail-url')))
-      .append(playButton)
-      ;
-  const tw = div('thumb-wrapper').append(a);
-  const duration = div('thumb-label').text(e.attr('data-duration'));
-  const tc = div('thumb-container').append([tw, duration]);
-  const title = div('title')
-      .append(link(e.attr('data-title'), e.attr('data-video-url')));
-  const meta = div('meta')
-      .append(link(e.attr('data-channel-title'), e.attr('data-channel-url')))
-      .append("&bull;")
-      .append(e.attr('data-published-at'));
-  const vid = div('vid').append([tc,title,meta]);
-  e.append(vid)
-});
-
+function initLazy() {
 $('.thumb-container img').Lazy({
   effect: 'fadeIn',
   effectTime: 200,
   visibleOnly:true,
 })
+}
+
+function initPage(config) {
+config.PLAY_BUTTON_HTML = '<span class="play-button"><img src="' + config.play_icon_url + '"/></span>';
+
+$('.video-item').each(function(i, e){
+  e = $(e);
+  data = {
+    channel_title: e.attr('data-channel-title'),
+    channel_url: e.attr('data-channel-url'),
+    duration: e.attr('data-duration'),
+    published_at: e.attr('data-published-at'),
+    thumbnail_url: e.attr('data-thumbnail-url'),
+    title: e.attr('data-title'),
+    video_url: e.attr('data-video-url'),
+  }
+  const v = renderVid(config, data)
+  e.append(v)
+});
+
+initLazy();
 
 $.getJSON(
   config.nav_json_url,
@@ -83,4 +107,47 @@ $("#sidebar-toggle").click(function(e) {
 });
 
 };
+
+// Search
+
+function initSort(config) {
+$.getJSON(
+  config.search_data_json_url,
+  function(data) {
+    var options = {
+      threshold: 0.3,
+      minMatchCharLength: 3,
+      keys: [
+        "title",
+        "channel_title",
+        "metadata",
+      ],
+    };
+    var fuse = new Fuse(data, options);
+    const node = $('#search-keyword');
+    node.removeAttr('readonly');
+
+    var timer;
+    node.on('input', function(){
+      clearTimeout(timer);
+      const _this = $(this);
+      timer = setTimeout(function() {
+        var result = fuse.search(_this.val());
+        renderSearchResult(config, result);
+        initLazy();
+      }, 200);
+    });
+  }
+);
+
+}
+
+function renderSearchResult(config, result) {
+  const html = result.map(function(v){
+    return $('<div/>')
+        .addClass('video-item vid-col col-xl-2 col-lg-3 col-sm-4')
+        .append(renderVid(config, v));
+  }) 
+  $('#search-result').empty().append(html);
+}
 

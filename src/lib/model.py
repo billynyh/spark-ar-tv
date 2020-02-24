@@ -49,6 +49,7 @@ class Site:
     blogs = None
     gen_channel_html = False
     gen_sitemap = False
+    gen_search = False
     num_videos = 0
 
 class Group:

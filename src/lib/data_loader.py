@@ -261,6 +261,7 @@ def global_site(config, video_cache):
     site.blogs = load_blogs()
     site.gen_channel_html = True
     site.gen_sitemap = True
+    site.gen_search = True
     return site
 
 def master_site(config, merge_small_groups = True):
