@@ -120,7 +120,7 @@ const queryString = window.location.search;
 const params = new URLSearchParams(queryString);
 const keyword = params.get("keyword");
 if (keyword) {
-  node.val(keyword.replace(/\+/g, '%20'));
+  node.val(keyword.replace(/\+/g, '%20').trim());
   node.trigger('input');
 }
 
@@ -128,8 +128,10 @@ $.getJSON(
   config.search_data_json_url,
   function(data) {
     var options = {
-      threshold: 0.3,
+      shouldSort: true,
+      threshold: 0.1,
       minMatchCharLength: 3,
+      maxPatternLength: 32,
       keys: [
         "title",
         "channel_title",
@@ -143,13 +145,14 @@ $.getJSON(
 
     var timer;
     node.on('input', function(){
+      clearSearchResult();
       clearTimeout(timer);
       const _this = $(this);
       timer = setTimeout(function() {
-        var result = fuse.search(_this.val());
+        var result = fuse.search(_this.val().trim());
         renderSearchResult(config, result);
         initLazy();
-      }, 200);
+      }, 500);
     });
     if (keyword) {
       node.trigger('input');
@@ -161,11 +164,15 @@ $.getJSON(
 }
 
 function renderSearchResult(config, result) {
-  const html = result.map(function(v){
+  const html = result.slice(0, 30).map(function(v){
     return $('<div/>')
         .addClass('video-item vid-col col-xl-2 col-lg-3 col-sm-4')
         .append(renderVid(config, v));
   }) 
   $('#search-result').empty().append(html);
+}
+
+function clearSearchResult() {
+  $('#search-result').empty();
 }
 
