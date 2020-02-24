@@ -427,6 +427,7 @@ eKx0J1pqCdg // Spark AR Studio Project Template: 3D Animated Beating Heart
 WSg5ndH-ljg // Color Sampling: Spark AR Studio Patch Tutorial
 qzHZf7PzPI8 // Face Averaging: Spark AR Studio Tutorial - Wedding Photo Booth Project Template
 qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
+IqDtJ61BIVA // Value to Text: Spark AR Studio - Script to Patch Bridging
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
@@ -648,6 +649,7 @@ U5m2_3SX0zE // [ NOOB UV MAPPING TUTORIAL - BLENDER 2.8 ] adding Color to 3D mod
 7jRWFipMpHc // I got Invited to Facebook SparkAR Hackathon, 2 months after I started learning SparkAR
 
 # Zsuzsanna Pápai
+fNlvPdx04J0 // Convert mask anchor points in After Effects
 J0rXlabi2L8 // Random Which... are you filter for Facebook and Instagram DIY tutorial
 
 # 呂柏甫
