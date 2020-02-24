@@ -3,13 +3,10 @@
 <div class="row">
 
 <div class="col-6">
-
-<form>
-  <div class="form-group">
-    <label for="search-box">Search</label>
-    <input type="text" class="form-control" id="search-keyword" placeholder="Keyword" readonly>
-  </div>
-</form>
+<h1>Search</h1>
+<div class="form-group">
+  <input type="text" class="form-control" id="search-keyword" placeholder="Keyword, eg. Tap to change, LUT, kira kira" readonly>
+</div>
 
 </div>
 </div>
@@ -23,6 +20,6 @@
 </%block>
 
 <%block name="extra_scripts">
-initSort(CONFIG);
+initSearch(CONFIG);
 </%block>
 

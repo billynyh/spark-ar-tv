@@ -201,7 +201,7 @@ def gen_site(config):
     with Pool(processes=4) as pool:
         results = [pool.apply_async(gen_global_site, (master,))]
         results += [pool.apply_async(gen_lang_site, (master, master.lang_sites[lang], config)) for lang in langs]
-        [res.get(timeout=10) for res in results]
+        [res.get(timeout=30) for res in results]
 
     # Copy assets
     util.copy_all_assets(config)

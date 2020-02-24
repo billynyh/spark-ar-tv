@@ -49,6 +49,9 @@
         <a class="nav-link" href="https://billynyh.github.io/spark-ar-tv/global/facebook.html">Spark AR official videos</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="https://billynyh.github.io/spark-ar-tv/global/search.html">Search</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="https://billynyh.github.io/spark-ar-tv/global/sitemap.html">Sitemap</a>
       </li>
     </ul>
@@ -188,6 +191,7 @@
 </div>
 </div>
 
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" />
@@ -195,13 +199,22 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
     <script type="text/javascript" src="https://billynyh.github.io/spark-ar-tv/assets/script.js"></script>
+
+
+
+
     <script>
 
 $(document).ready(function(){
-  initPage({
+  const CONFIG = {
       nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
       play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
-  });
+      search_data_json_url: 'https://billynyh.github.io/spark-ar-tv/global/search.json'
+  };
+  initPage(CONFIG);
+
+
+
 });
     </script>
 

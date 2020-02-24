@@ -110,7 +110,7 @@ $("#sidebar-toggle").click(function(e) {
 
 // Search
 
-function initSort(config) {
+function initSearch(config) {
 $.getJSON(
   config.search_data_json_url,
   function(data) {
@@ -126,6 +126,7 @@ $.getJSON(
     var fuse = new Fuse(data, options);
     const node = $('#search-keyword');
     node.removeAttr('readonly');
+    node.focus();
 
     var timer;
     node.on('input', function(){
