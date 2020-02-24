@@ -108,7 +108,7 @@ def dump_lang_stat(master):
     stat = sorted(stat, key = lambda s: -s['num_videos'])
 
     gsite = master.global_site
-    for g in (gsite.facebook + gsite.music):
+    for g in (gsite.facebook):
         num_vid = len(g.ids)
         total += num_vid
         dup = [item for item, count in collections.Counter(g.ids).items() if count > 1]
@@ -177,7 +177,7 @@ def main():
     dump_groups_details(groups[0:2], site.video_data)
 
     stat = {}
-    #stat['langs'] = dump_lang_stat(master)
+    dump_lang_stat(master)
     #dump_groups_ids(groups[1:6], site.video_data)
 
     print("All videos: %s" % len(site.video_data))

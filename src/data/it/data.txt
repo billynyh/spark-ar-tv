@@ -86,10 +86,6 @@ o1Gcw_bfEpI // How to make filters - Pixelate every texture with custom images a
 ggaYc20k1O4 // Spark Ar tutorial - How to add sound effects and music to your filters + interactions
 _7rqH3dxYQ0 // Spark Ar - Distort camera texture with custom image textures - Easy instagram filter tutorial
 
-# Sebiforce
-xzsep8lVEiE // Spark AR Tutorial | eigenen Lightroom / PSD Filter für Instagram
-TN_3VEApYFQ // Spark AR Tutorial | Deutsch| Einfacher Filter in 5 Minuten für Instagram
-
 # Spark AR Italia
 1ITtcDoungo // Come creare filtri Instagram ITA
 A6AcRLNUr4M // Come creare un filtro instagram: Creare una maschera

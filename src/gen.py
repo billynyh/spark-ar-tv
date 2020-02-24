@@ -102,9 +102,8 @@ def blogs(site, config):
         ))
     return pages
 
-def single_channel_pages(site, config):
-    pages = []
-    for x in site.groups:
+def single_channel_pages(site, config, groups):
+    for x in groups:
         first_vid = site.video_data[x.ids[0]]
         channel_id = first_vid.channel_id
         page_config = PageConfig(config.site_config.page_config)
@@ -113,11 +112,14 @@ def single_channel_pages(site, config):
             page_config.og_image = util.get_channel_banner_url(config, channel_id)
         else:
             page_config.og_image = util.get_logo_url(config)
-        pages.append((
-            "channels/%s.html" % channel_id,
-            html_helper.gen_single_channel_html(site, page_config, x)
-        ))
-    return pages
+        
+        path = "channels/%s.html" % channel_id
+        html = html_helper.gen_single_channel_html(site, page_config, x)
+       
+        out_dir = "%s/global" % (config.out_dir)
+        with open_out_file(out_dir, path) as outfile:
+            outfile.write(html)
+            print("Generated %s" % outfile.name)
 
 def sitemap_page(master, site, config):
     page_config = PageConfig(config.site_config.page_config)
@@ -155,9 +157,6 @@ def gen_lang_site(master, site, config):
     if site.blogs:
         util.mkdir("%s/blogs" % out_dir)
         pages += blogs(site, config)
-    if site.gen_channel_html and config.channel:
-        util.mkdir("%s/channels" % out_dir)
-        pages += single_channel_pages(site, config)
     if site.gen_sitemap:
         pages += [sitemap_page(master, site, config)]
     if site.gen_search:
@@ -168,7 +167,10 @@ def gen_lang_site(master, site, config):
             outfile.write(page[1])
             print("Generated %s" % outfile.name)
 
-def gen_global_json(master, site, config):
+def gen_global_json(master):
+    config = master.config
+    site = master.global_site
+
     pages = [
         ('nav.json', json_helper.nav_json(master)),
         ('search.json', json_helper.search_json(master))
@@ -184,7 +186,20 @@ def gen_global_site(master):
     site = master.global_site
 
     gen_lang_site(master, site, config)
-    gen_global_json(master, site, config)
+
+def pool_gen_global_site_channels(pool, master):
+    config = master.config
+    site = master.global_site
+
+    pages = []
+    out_dir = "%s/global" % (config.out_dir)
+    results = []
+    if site.gen_channel_html and config.channel:
+        util.mkdir("%s/channels" % out_dir)
+        chunks = util.chunks(site.groups, 10)
+        for chunk in chunks:
+            results.append(pool.apply_async(single_channel_pages, (site, config, chunk)))
+    return results
 
 def gen_site(config):
     master = master_site(config)
@@ -199,7 +214,12 @@ def gen_site(config):
         langs = config.site_config.languages
 
     with Pool(processes=4) as pool:
-        results = [pool.apply_async(gen_global_site, (master,))]
+        results = []
+        results += pool_gen_global_site_channels(pool, master)
+        results += [
+            pool.apply_async(gen_global_site, (master,)),
+            pool.apply_async(gen_global_json, (master,)),
+        ]
         results += [pool.apply_async(gen_lang_site, (master, master.lang_sites[lang], config)) for lang in langs]
         [res.get(timeout=30) for res in results]
 

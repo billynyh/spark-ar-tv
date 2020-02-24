@@ -237,11 +237,6 @@ lTA7_y-dZxY // Four faces effect with Spark AR Studio
 # Jayasurya Aasaithambi
 yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
 
-# jessicavangone
-gGpIqYW4ML8 // Spark AR Tutorial - ITA - Filtro Instagram con oggetto che ruota intorno al volto.
-5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
-tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
-
 # Joseph Arning
 WdjIq3DHfdg // How To Make An Instagram Filter | Beginner Spark AR Tutorial
 
