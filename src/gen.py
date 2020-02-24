@@ -187,7 +187,9 @@ def gen_site(config):
     else:
         langs = config.site_config.languages
 
-    [gen_lang_site(master, master.lang_sites[lang], config) for lang in langs]
+    with Pool(processes=4) as pool:
+        results = [pool.apply_async(gen_lang_site, (master, master.lang_sites[lang], config)) for lang in langs]
+        [res.get(timeout=10) for res in results]
     gen_global_site(master)
 
     # Copy assets

@@ -16,7 +16,11 @@ class HtmlHelper:
 
     def get_template(self, filename):
         lookup = TemplateLookup(directories=['.'])
-        t = Template(filename="layouts/%s" % filename, lookup=lookup)
+        t = Template(
+            filename="layouts/%s" % filename, 
+            lookup=lookup,
+            module_directory='/tmp/mako_modules'
+        )
         return t
 
     def render(self, t, site, **kwargs):
