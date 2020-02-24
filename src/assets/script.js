@@ -31,8 +31,12 @@ function createSidebar(data) {
   return wrapper;
 }
 
-function div(cls) {
-  return $('<div/>').addClass(cls);
+function getUrlVars() {
+  var vars = {};
+  var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+      vars[key] = value;
+  });
+  return vars;
 }
 
 function link(title, url) {
@@ -111,6 +115,15 @@ $("#sidebar-toggle").click(function(e) {
 // Search
 
 function initSearch(config) {
+const node = $('#search-keyword');
+const queryString = window.location.search;
+const params = new URLSearchParams(queryString);
+const keyword = params.get("keyword");
+if (keyword) {
+  node.val(keyword.replace(/\+/g, '%20'));
+  node.trigger('input');
+}
+
 $.getJSON(
   config.search_data_json_url,
   function(data) {
@@ -124,7 +137,7 @@ $.getJSON(
       ],
     };
     var fuse = new Fuse(data, options);
-    const node = $('#search-keyword');
+
     node.removeAttr('readonly');
     node.focus();
 
@@ -138,6 +151,10 @@ $.getJSON(
         initLazy();
       }, 200);
     });
+    if (keyword) {
+      node.trigger('input');
+    }
+
   }
 );
 
