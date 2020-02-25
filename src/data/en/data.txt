@@ -218,6 +218,9 @@ XEYbjXe0TIE // SPARK AR - Iris Tracking & Triggered Eyes Meme Tutorial
 y2j9n2g8bZc // Spark AR - Native UI Picker Tutorial (With LUT Switch)
 YhfveCO0YL4 // SPARK AR - Fixed Target Tracker Tutorial (With 3D Animations)
 
+# Frédéric Bui
+vd5CFqPmNLM // Create an Instagram Filter
+
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
@@ -428,6 +431,7 @@ WSg5ndH-ljg // Color Sampling: Spark AR Studio Patch Tutorial
 qzHZf7PzPI8 // Face Averaging: Spark AR Studio Tutorial - Wedding Photo Booth Project Template
 qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
 IqDtJ61BIVA // Value to Text: Spark AR Studio - Script to Patch Bridging
+pD3vHi4Nnsk // Emoji Face Slider: Spark AR Studio Project Structure Example
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
