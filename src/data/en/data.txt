@@ -121,6 +121,7 @@ yEAEY_udFYA // Facial Feature Extraction Part 1 of 2 | Spark AR Studio
 luzSzAUb9TM // Facial Feature Extraction Part 2 of 2 | Spark AR Studio
 JIabqi-CmDA // How to create Eye Lasers | Spark AR Studio
 52cyV4bCWN8 // Orbit Objects around Head | Spark AR Studio
+7FzdMWHO_LU // PixelHead Effect | Spark AR Studio
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
@@ -432,6 +433,7 @@ qzHZf7PzPI8 // Face Averaging: Spark AR Studio Tutorial - Wedding Photo Booth Pr
 qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
 IqDtJ61BIVA // Value to Text: Spark AR Studio - Script to Patch Bridging
 pD3vHi4Nnsk // Emoji Face Slider: Spark AR Studio Project Structure Example
+npk38VlKZ8c // Bendy Flower: Spark AR Studio and Blender 2.8 - Intro Model Rigging Animation Tutorial Project
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
