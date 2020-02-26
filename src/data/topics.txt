@@ -561,7 +561,6 @@ Nl7ol3nFenk // Маска-тест "КТО ТЫ ИЗ?" ✧ Дополнения.
 Pu7qlt6u-X0 // Маска-тест "КТО ТЫ ИЗ?" ✧ Дополнения. Часть 3 ~ Quiz filter test "WHO ARE YOU?" in Spark AR
 gvnvZjN5TRA // КАК СДЕЛАТЬ МАСКУ-ТЕСТ В SPARK AR?ТРЕНД 2020/GAME/RANDOM
 o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
-cwg4ZDyTm8k // Как сделать маску Инстаграм с вопросами? Готовый шаблон
 SHo68PT7vfA // Уроки Spark AR Random КАРТИНОК и 3D ОБЪЕКТОВ. Маска в инстаграм рандом
 VHuRAwHxMxM // HOW TO MAKE WHO ARE YOU FILTER EASY IN 3 MINUTES - Spark Ar tutorial - Natived Filters Laboratory
 cBpumG3ejbs // Как сделать круглую рамку для маски рандомайзер / кто ты? Spark AR и Photoshop
@@ -686,7 +685,7 @@ vJo1HaYGd8c // Spark AR - how to change the video preview | cómo cambiar el vid
 
 # Touch Gesture
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
-6stXwBt87Dg // Drag 2D Object on Canvas: Spark AR Studio Patch Tutorial
+6stXwBt87Dg // Drag 2D Object on Canvas: Spark AR Studio Pan Gesture Tutorial
 
 # Wings / Angel
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
