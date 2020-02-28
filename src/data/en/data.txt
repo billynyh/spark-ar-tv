@@ -115,7 +115,6 @@ QB954GF0uSI // Voice Changer | Spark AR
 iG9sMY6j-gA // 3D Random Image Effect | Spark AR Studio
 Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
 QpOLNFk8U4o // Replacing Backgrounds (360° Photos) | Spark AR Studio
-Ox_vRgQDpT0 // Track Matte Keying [Text cutout] | Premiere Pro CC
 AV_T6cH-F88 // Split Screen into Quadrants | Spark AR Studio
 yEAEY_udFYA // Facial Feature Extraction Part 1 of 2 | Spark AR Studio
 luzSzAUb9TM // Facial Feature Extraction Part 2 of 2 | Spark AR Studio
@@ -487,6 +486,9 @@ eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instarga
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
 
+# Rebekah Read Creative
+rcqHiR0ULx8 // How To Create a Spark AR "What Are You" Instagram Filter
+
 # Robbie Conceptuel
 REqpibMDZv4 // Spark AR Studio - Segmentation Tutorial : How To Change Background ?
 CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
@@ -613,6 +615,7 @@ qUNNIbQlfjA // Radar Filter Part 2. Spark AR Studio tutorial on patch editor and
 iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tutorial
 lVmsTiwF8KY // Animation and reacting to smile and gestures tutorial - Spark AR Studio
 b22ootdy2cw // Black and white effect in Spark AR Studio - tutorial
+uR-JQUQGsak // Create a timer for Spark AR Studio - download project and full tutorial
 
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)
