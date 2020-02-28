@@ -17,7 +17,7 @@ def main():
     config = config_factory.load(False)
     master = master_site(config)
     site = master.global_site
-    groups = site.groups_by_time
+    groups = site.groups_by_week
 
     api = PlaylistApi()
     api.auth()

@@ -26,7 +26,7 @@ def download_all(video_data):
                 print("Downloaded %s" % outfile.name)
 
 def generate_week_thumbnails(site):
-    for g in site.groups_by_time:
+    for g in site.groups_by_week:
         img = image_helper.group_thumbnail_collage(site, g.ids)
         outfile = util.get_group_banner_path(config.out_dir, g)
         img.save(outfile, "JPEG")

@@ -23,7 +23,7 @@ def open_out_file(out_dir, name):
 
 def week_pages(site, config):
     pages = []
-    for week in site.groups_by_time:
+    for week in site.groups_by_week:
         path = util.week_page_path(week)
         page_config = PageConfig()
         page_config.title = "%s | Spark AR TV" % week.title

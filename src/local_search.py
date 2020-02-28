@@ -28,7 +28,7 @@ def main(keyword, debug, search_tags = False):
     video_data = master.global_site.video_data
 
     print("\nLocal search: %s" % keyword)
-    for g in master.global_site.groups_by_time:
+    for g in master.global_site.groups_by_week:
         #print("# %s" % g.title)
         search(g.ids, video_data, keyword, debug, search_tags)
 

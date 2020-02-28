@@ -6,10 +6,10 @@
 <%
 GROUPS_TO_SHOW = 3
 if full:
-    groups = site.groups_by_time
+    groups = site.groups_by_week
 else:
-    groups = site.groups_by_time[:GROUPS_TO_SHOW]
-has_more = len(site.groups_by_time) > GROUPS_TO_SHOW
+    groups = site.groups_by_week[:GROUPS_TO_SHOW]
+has_more = len(site.groups_by_week) > GROUPS_TO_SHOW
 %>
 <%include file="_groups.html" args="site=site,groups=groups" />
 

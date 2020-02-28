@@ -34,7 +34,7 @@ def global_topic_section(site, config):
 
 def global_week_section(site, config):
     title = "Weekly collections"
-    links = [(g.title, util.week_page_url(site, 'global', g)) for g in site.groups_by_time]
+    links = [(g.title, util.week_page_url(site, 'global', g)) for g in site.groups_by_week]
     return (title, links)
 
 def single_lang_section(site, config, lang):
@@ -45,7 +45,7 @@ def single_lang_section(site, config, lang):
 def single_lang_week_section(site, config, lang):
     title = "%s weekly collections" % nav_helper.lang_display_name(lang)
     title = None
-    links = [(g.title, util.week_page_url(site, lang, g)) for g in site.groups_by_time]
+    links = [(g.title, util.week_page_url(site, lang, g)) for g in site.groups_by_week]
     return (title, links)
 
 def standard_lang_site_pages(site, config, lang):

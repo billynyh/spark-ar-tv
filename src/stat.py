@@ -172,7 +172,7 @@ def main():
     config = config_factory.load(False)
     master = master_site(config)
     site = master.global_site
-    groups = site.groups_by_time
+    groups = site.groups_by_week
     dump_groups_stat(groups, site.video_data)
     dump_groups_details(groups[0:2], site.video_data)
 
