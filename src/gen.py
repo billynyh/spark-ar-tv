@@ -29,7 +29,7 @@ def day_pages(site, config):
         page_config.title = "%s | Spark AR TV" % day.title
         page_config.description = config.site_config.page_config.description
         if util.banner_generated(config.out_dir, day):
-            page_config.og_image = util.get_banner_url(config, day)
+            page_config.og_image = util.get_group_banner_url(config, day)
         else:
             page_config.og_image = util.get_logo_url(config)
 
