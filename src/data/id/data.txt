@@ -150,6 +150,7 @@ rqNRxreiY6o // Native UI Picker | Cara Membuat Option Di Filter Spark Ar Indones
 PeXVVSvT_Bw // Dust Effect - Cara Membuat Filter Instagram Mengunakan HP Tergampang Spark Ar Tutorial
 TXrOUuz91c4 // Face Distortion - Cara Buat Wajah Jadi Chubby Dengan Spark Ar
 17yDhXECl_U // Border Radius - Cara Membuat Filter Instagram Dengan Mudah
+8ncLObDlnoU // Cara Buat Filter Instagram Scan Wajah - Spark Ar Tutorial
 
 # Muhammad Iqbal Al-Faruq
 zQjVJrhZg0w // CARA MEMBUAT EFEK INSATGARM DI ANDROID !!!
@@ -213,6 +214,7 @@ T3e5iqsk5-c // Scanner ( Face Mesh ) Effect - Spark AR Studio [ Tutorial ]
 ch5VpfRvrv8 // Color Palette - Spark AR Studio [ Tutorial ]
 AywZQRtyWGY // Light Leak - Spark AR Studio - [ Tutorial ]
 zKyObv6xWOo // Kodak Filter - Spark AR Studio  [ Tutorial ]
+_-wmMeIFEfs // Split Screen, Smooth Zoom, Movement Rectangle - Spark AR Studio [ Tutorial ]
 
 # SAY HELLO
 y3uD3Da7TyQ // TUTORIAL MEMBUAT FILTER INSTAGRAM DUST // SPARK AR
