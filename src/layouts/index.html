@@ -14,7 +14,7 @@ if not show_day:
 else:
     groups = site.groups_by_day[:DAYS_TO_SHOW]
 %>
-<%include file="_groups.html" args="site=site,groups=groups" />
+<%include file="_groups.html" args="site=site,groups=groups,link_to_day=True,link_to_week=False" />
 
 % if show_day:
 <h1>By week</h1>
@@ -27,7 +27,7 @@ else:
     groups = site.groups_by_week[:GROUPS_TO_SHOW]
 has_more = len(site.groups_by_week) > GROUPS_TO_SHOW
 %>
-<%include file="_groups.html" args="site=site,groups=groups" />
+<%include file="_groups.html" args="site=site,groups=groups,link_to_day=False,link_to_week=True" />
 
 
 % if not full and has_more:

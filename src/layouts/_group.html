@@ -1,8 +1,12 @@
-<%page args="group,video_data,link_to_group=False,show_group_title=True" />
+<%page args="group,video_data,link_to_group=False,show_group_title=True,link_to_week=True,link_to_day=False" />
 <%
 from lib import util
 from lib.mako_util import wrap_lang
-group_page_url = wrap_lang(context, util.week_page_path(group))
+
+if link_to_week:
+    group_page_url = wrap_lang(context, util.week_page_path(group))
+elif link_to_day:
+    group_page_url = wrap_lang(context, util.day_page_path(group))
 %>
 <div class="row">
 % if link_to_group:

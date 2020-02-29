@@ -1,9 +1,9 @@
-<%page args="site,groups" />
+<%page args="site,groups,link_to_week=False,link_to_day=False" />
 <div class="content">
 <div class="container-fluid">
 % for group in groups:
   % if len(group.ids) > 0:
-<%include file="_group.html" args="group=group, video_data=site.video_data" />
+<%include file="_group.html" args="group=group, video_data=site.video_data, link_to_week=link_to_week, link_to_day=link_to_day" />
   % endif
 % endfor
 </div>
