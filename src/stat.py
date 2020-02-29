@@ -44,6 +44,12 @@ def dump_monthly_stat(video_data):
     for m in stat:
         print("%d: %d" % (m, len(stat[m])))
 
+def dump_day_stat(site):
+    for g in site.groups_by_day:
+        print("%s: %d" % (g.title, len(g.ids)))
+    
+
+
 def format(s):
     val = int(s)
     if val > 1000:
@@ -181,6 +187,8 @@ def main():
     #dump_groups_ids(groups[1:6], site.video_data)
 
     print("All videos: %s" % len(site.video_data))
+
+    dump_day_stat(site)
 
     #dump_top_videos(site)
     #dump_monthly_stat(site.video_data)

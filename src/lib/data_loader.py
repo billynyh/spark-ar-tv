@@ -133,6 +133,24 @@ def filter_video_by_date(video_data, start_date, end_date):
             result.append(id)
     return sort_video_ids_by_time(result, video_data)
 
+def group_by_day(video_data):
+    start_date = datetime.date(2020, 2, 17)
+    tmr = datetime.date.today() + datetime.timedelta(days=1) # consider timezone
+    delta = datetime.timedelta(days=1)
+
+    groups = []
+
+    while start_date <= tmr:
+        end_date = start_date + delta
+        title = "%s" % start_date
+        ids = filter_video_by_date(video_data, start_date, end_date)
+        group = Group(title, ids) 
+
+        if len(group.ids) > 0:
+            groups.insert(0, group)
+        start_date = end_date
+    return groups
+
 def group_by_week(video_data):
     dummy_start_date = datetime.date(2017, 7, 1)
     start_date = datetime.date(2019, 7, 1)
@@ -195,6 +213,7 @@ def load_site_data(config, path, video_cache, merge_small_groups = True):
     site.most_viewed = most_viewed
     site.latest = latest
     site.groups_by_week = group_by_week(video_data)
+    site.groups_by_day = group_by_day(video_data)
     site.groups_by_num_videos = groups_by_num_videos
     site.num_videos = len(all_youtube_ids)
     return site
@@ -251,6 +270,7 @@ def global_site(config, video_cache):
     all_youtube_ids = set([id for g in all_groups for id in g.ids])
     site.video_data = load_video_data(all_youtube_ids, video_cache, config.api_key)
     site.groups_by_week = group_by_week(site.video_data)
+    site.groups_by_day = group_by_day(site.video_data)
     for topic in site.topics:
         topic.ids = sort_video_ids_by_time(topic.ids, site.video_data)
     for g in site.facebook:

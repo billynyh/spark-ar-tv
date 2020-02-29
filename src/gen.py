@@ -21,6 +21,22 @@ html_helper = HtmlHelper()
 def open_out_file(out_dir, name):
     return open("%s/%s" % (out_dir, name), "w")
 
+def day_pages(site, config):
+    pages = []
+    for day in site.groups_by_day:
+        path = util.day_page_path(day)
+        page_config = PageConfig()
+        page_config.title = "%s | Spark AR TV" % day.title
+        page_config.description = config.site_config.page_config.description
+        if util.banner_generated(config.out_dir, day):
+            page_config.og_image = util.get_banner_url(config, day)
+        else:
+            page_config.og_image = util.get_logo_url(config)
+
+        pages.append((path, html_helper.gen_week_html(site, page_config, day)))
+    return pages
+        
+
 def week_pages(site, config):
     pages = []
     for week in site.groups_by_week:
@@ -142,8 +158,10 @@ def gen_lang_site(master, site, config):
     out_dir = "%s/%s" % (config.out_dir, lang)
     util.mkdir(out_dir)
     util.mkdir("%s/weeks" % out_dir)
+    util.mkdir("%s/days" % out_dir)
 
     pages = standard_pages(site, config) + week_pages(site, config)
+    pages += day_pages(site, config)
 
     if site.topics:
         util.mkdir("%s/topics" % out_dir)

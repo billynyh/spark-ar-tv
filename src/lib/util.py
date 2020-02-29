@@ -102,6 +102,9 @@ def get_channel_banner_url(config, slug):
 def get_logo_url(config):
     return "%s/assets/logo2.png" % (config.site_config.url)
 
+def day_page_path(day):
+    return "days/%s.html" % day.slug
+
 def week_page_path(week):
     return "weeks/%s.html" % week.slug
 
