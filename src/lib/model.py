@@ -51,6 +51,7 @@ class Site:
     gen_sitemap = False
     gen_search = False
     num_videos = 0
+    show_day = False
 
 class Group:
     title = None

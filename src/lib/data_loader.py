@@ -282,6 +282,7 @@ def global_site(config, video_cache):
     site.gen_channel_html = True
     site.gen_sitemap = True
     site.gen_search = True
+    site.show_day = True
     return site
 
 def master_site(config, merge_small_groups = True):
