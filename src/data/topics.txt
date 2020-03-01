@@ -138,7 +138,7 @@ sO4JBLWMsSM // КАК СДЕЛАТЬ МАСКУ МАКИЯЖ/РЕСНИЦЫ/SPAR
 
 # Color Sampler
 vPuObKf-55I // Chromakey in Spark AR
-WSg5ndH-ljg // Color Sampling: Spark AR Studio Patch Tutorial
+WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Tutorial
 
 # Date and time
 ZmIoWlVN_m0 // Date & Time in Spark AR
@@ -293,7 +293,6 @@ XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Fac
 yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Facebook | Spark AR Tutorial
 5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
-uka6NILQ3UY // ADD TAP TO CHANGE INSTRUCTION TO YOUR INSTAGRAM FILTERS | SPARK AR TUTORIAL
 yuYqagBMhmY // SPARK AR TIPS - How to add Custom Instructions
 
 # Iris tracking
@@ -352,8 +351,7 @@ q626kHEuzNk // Spark AR Membuat color LUTs menerapkan Presets dan Profiles Light
 S7Gc7xGkc70 // Spark AR | Lightroom (Presets) Hazır Ayarlarınızı İnstagram Efekti Yapma
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
-G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Anthi
-S7Fm6f1cRbc // CREATE AN INSTAGRAM STORY FILTER IN SPARK AR | BEGINNER TUTORIAL
+G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Jannis
 opgUXotK1jk // Spark AR LUT com Chuvisco e Retouch!
 iFOHrmu90x8 // Cara buat filter instagram sendiri dengan Lightroom (Spark AR Studio)
 GohHMLmz2LE // Color Pallete - Cara Membuat Filter Instagram Seperti Filter Stories 2.0 Spark Ar Tutorial
@@ -621,7 +619,7 @@ MwxctcV2kc4 // HOW TO MAKE INSTAGRAM FILTERS-Easy Tutorial iris tracking on blac
 8U5A9VvlqlE // КАК ПОМЕНЯТЬ ФОН МАСКИ ДЛЯ ИНСТАГРАММ | Маска для Инстаграмм за 5 минут | Маска с анимацией |SonLife
 3g7cG0AN-fM // Spark AR Partículas atrás da pessoa!
 Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
-NRQEJ1z8DL0 // Урок по Spark AR. Интересный эффект с обводкой человека
+NRQEJ1z8DL0 // Урок по Spark AR. Эффект с обводкой человека
 
 # Shader
 6rcTbfrVyWo // Spark AR MatCap shader

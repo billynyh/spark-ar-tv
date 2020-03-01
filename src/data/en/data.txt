@@ -364,10 +364,6 @@ rR_9IEvHsoY // ANIMATION CLIP MASKING TEXT IN CSS
 NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter paint effect | Spark AR Studio Tutorial
 
 # Manav Sharma
-S7Fm6f1cRbc // CREATE AN INSTAGRAM STORY FILTER IN SPARK AR | BEGINNER TUTORIAL
-uka6NILQ3UY // ADD TAP TO CHANGE INSTRUCTION TO YOUR INSTAGRAM FILTERS | SPARK AR TUTORIAL
-
-# Manav Sharma
 j4NEq_jGVOk // Convert Lightroom Presets to Instagram Filters | Spark AR | Instagram Filters | Spark AR Beginner
 bmNJEstv8C0 // NEON TEXT FILTER IN SPARK AR | Easiest method | Spark Ar Tutorials
 
@@ -377,6 +373,9 @@ azOum82EbM0 // Manhsplains: Spark AR tutorial to fix weird face mesh artifacting
 
 # Maria Nova
 oSp_CgomdzA // 4 awesome AR creators I met at AWE 2019 in Munich.
+
+# Maria Saavedra
+A14Z4AaZCX4 // How to create a custom Instagram filter in Spark AR Studio
 
 # Marty Markenson
 3HnONkme0QE // Image Flip Flop Spark Studio Patch Editor
@@ -431,12 +430,12 @@ a1PODXhevGA // #Disposable camera effect  │ How to achieve #analog #film look
 6stXwBt87Dg // Drag 2D Object on Canvas: Spark AR Studio Pan Gesture Tutorial
 QgSmfJEFj1s // Emoji Face Slider: Spark AR Studio Project Template - Control Slider with Face Position
 eKx0J1pqCdg // 3D Animated Beating Heart: Spark AR Studio Project Template:
-WSg5ndH-ljg // Color Sampling: Spark AR Studio Patch Tutorial
+WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Tutorial
 qzHZf7PzPI8 // Face Averaging: Spark AR Studio Tutorial - Wedding Photo Booth Project Template
 qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
 IqDtJ61BIVA // Value to Text: Spark AR Studio - Script to Patch Bridging
 pD3vHi4Nnsk // Emoji Face Slider: Spark AR Studio Project Structure Example
-npk38VlKZ8c // Bendy Flower: Spark AR Studio and Blender 2.8 - Intro Model Rigging Animation Tutorial Project
+npk38VlKZ8c // Bend Object: Spark AR Studio and Blender 2.8 - Intro Model Rigging Animation Tutorial Project
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
