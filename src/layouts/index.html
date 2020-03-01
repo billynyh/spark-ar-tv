@@ -1,12 +1,9 @@
 <%inherit file="base.html" />
 
-<%include
-    file="_featured_banner.html" 
-    args="ids=site.most_viewed,video_data=master.global_site.video_data" />
 <%
 show_day = not full and site.show_day
 DAYS_TO_SHOW = 5
-GROUPS_TO_SHOW = 2
+GROUPS_TO_SHOW = 0
 
 if not show_day:
     GROUPS_TO_SHOW = 5
@@ -16,7 +13,7 @@ else:
 %>
 <%include file="_groups.html" args="site=site,groups=groups,link_to_day=True,link_to_week=False" />
 
-% if show_day:
+% if show_day and GROUPS_TO_SHOW > 0:
 <h1>By week</h1>
 %endif
 

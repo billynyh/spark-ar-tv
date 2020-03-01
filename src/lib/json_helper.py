@@ -1,12 +1,32 @@
 import json
 from lib.nav_helper import get_topic_nav
 from lib.nav_helper import get_navs
+from lib import util
 
-def nav_json(master):
+def get_recent_weeks(master, site):
+    weeks = site.groups_by_week[:6]
+    return [week_to_dict(w, site) for w in weeks]
+
+def get_featured_contents(master, site):
+    channels = site.groups_by_num_videos[:8]
+    vids = site.most_viewed[:8]
+
+    contents = []
+    contents += [channel_to_dict(c, site) for c in channels]
+    contents += [vid_to_content_dict(id, site) for id in vids]
+    return contents
+
+def nav_json(master, indent = None):
     site = master.global_site
-    navs = get_navs(master, site)
-
-    return json.dumps(navs)
+    nav = get_navs(master, site)
+    featured_contents = get_featured_contents(master, site)
+    recent_weeks = get_recent_weeks(master, site)
+    obj = {
+      'nav': nav,
+      'featured_contents': featured_contents,
+      'recent_weeks': recent_weeks,
+    }
+    return json.dumps(obj, indent = indent)
 
 def search_json(master):
     site = master.global_site
@@ -14,6 +34,37 @@ def search_json(master):
 
     return json.dumps(vids)
 
+def week_to_dict(w, site):
+    v = site.video_data[w.ids[0]]
+    channel_id = v.channel_id
+    return {
+        'url': util.channel_page_url(site, channel_id),
+        'thumbnail_url': v.thumbnail_url,
+        'title': w.title,
+        'meta1': "Num videos: %d" % len(w.ids),
+        'meta2': None,
+    }
+
+def channel_to_dict(c, site):
+    v = site.video_data[c.ids[0]]
+    channel_id = v.channel_id
+    return {
+        'url': util.channel_page_url(site, channel_id),
+        'thumbnail_url': v.thumbnail_url,
+        'title': "Channel: %s" % c.title,
+        'meta1': "Num videos: %d" % len(c.ids),
+        'meta2': None,
+    }
+
+def vid_to_content_dict(id, site):
+    v = site.video_data[id]
+    return {
+        'url': v.video_url,
+        'thumbnail_url': v.thumbnail_url,
+        'title': "%s" % v.title,
+        'meta1': v.channel_title,
+        'meta2': "%s" % v.published_at,
+    }
 
 def vid_to_dict(v):
     return {

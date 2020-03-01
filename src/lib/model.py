@@ -7,6 +7,7 @@ class GeneratorConfig:
     site_config = None
     api_key = None
     global_only = False
+    index_only = False
     channel = True
 
 class SiteConfig:

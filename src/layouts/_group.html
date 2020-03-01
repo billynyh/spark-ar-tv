@@ -9,21 +9,14 @@ elif link_to_day:
     group_page_url = wrap_lang(context, util.day_page_path(group))
 %>
 <div class="row">
+<div class="col-12 vid-col">
 % if link_to_group:
   <h3><a href="${group_page_url}">${group.title}</a></h3>
 % elif show_group_title:
   <h3>${group.title}</h3>
 % endif
 </div>
-% if debug:
-<div class="row">
-<textarea style="width:600px; height:200px; display:block;">
-% for id in group.ids:
-${id} // ${video_data[id].title}
-% endfor
-</textarea>
 </div>
-% endif
 <div class="row">
 % for id in group.ids:
   <%include file="_standard_video.html" args="obj=video_data[id]" />

@@ -69,3 +69,4 @@ def get_navs(master, site):
         'other': []
     }
     return navs
+

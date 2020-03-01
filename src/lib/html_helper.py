@@ -6,7 +6,7 @@ from lib import util
 from lib.nav_helper import get_navs
 
 def large_thumb(ids):
-    return len(ids) <= 12
+    return True
 
 class HtmlHelper:
 
@@ -64,6 +64,7 @@ class HtmlHelper:
             site = site, 
             page = page, 
             link_to_group = True,
+            large_thumb = True,
             full = full)
 
     def gen_week_html(self, site, page, week):

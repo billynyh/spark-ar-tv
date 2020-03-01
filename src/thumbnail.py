@@ -10,10 +10,17 @@ from lib import image_helper
 def ping_all(video_data):
     caches = util.get_cache_images()
     need_fetch = [id for id in video_data.keys() if not id in caches]
+    cnt = 0
+    total = len(need_fetch)
+    print()
     for id in need_fetch:
+        print("\r%d/%d" % (cnt, total), end="\r")
         url = video_data[id].thumbnail_url
-        with urllib.request.urlopen(url) as response:
-            print(response.getcode())
+        cnt += 1
+        try:
+            r = urllib.request.urlopen(url)
+        except urllib.error.HTTPError as e:
+            print(id)
 
 def download_all(video_data):
     caches = util.get_cache_images()
@@ -119,7 +126,7 @@ def main_day():
 
 if __name__ == "__main__":
     config = config_factory.load()
-    #main_ping()
+    main_ping()
     #main_topics()
     #main()
-    main_day()
+    #main_day()

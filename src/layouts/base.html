@@ -46,16 +46,31 @@ description = page.description
  
   <%include file="_nav.html" />
 
-<div class="content d-flex" id="wrapper">
-<div class="sidebar-wrapper">
+<div class="" id="wrapper">
+
+<div class="container-fluid">
+<div class="row">
+
+<div class="sidebar-wrapper pt-3 order-1 col-2">
   <div class="sidebar" id="sidebar">
   </div>
 </div>
-<div class="container-fluid">
+
+
+<div class="right-sidebar-wrapper pt-3 order-3 col-3">
+  <div id="right-sidebar">
+  </div>
+</div>
+
+
+<div class="main-content-wrapper pt-3 order-2 col-7">
 ${next.body()}
+</div>
+
 </div>
 </div>
 
+</div> <!-- wrapper -->
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

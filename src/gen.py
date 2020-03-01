@@ -59,7 +59,7 @@ def standard_pages(site, config):
     pages = [
         ("index.html", html_helper.gen_timeline_html(site, page_config)),
         ("full-list.html", html_helper.gen_timeline_html(site, page_config, full=True)),
-        ("debug.html", html_helper.gen_debug_html(site, page_config)),
+        #("debug.html", html_helper.gen_debug_html(site, page_config)),
     ]
     pages.append(("channels.html", html_helper.gen_channels_html(site, page_config)))
     return pages
@@ -160,25 +160,27 @@ def gen_lang_site(master, site, config):
     util.mkdir("%s/weeks" % out_dir)
     util.mkdir("%s/days" % out_dir)
 
-    pages = standard_pages(site, config) + week_pages(site, config)
-    pages += day_pages(site, config)
+    pages = standard_pages(site, config)
+    if not config.index_only:
+        pages += week_pages(site, config)
+        pages += day_pages(site, config)
 
-    if site.topics:
-        util.mkdir("%s/topics" % out_dir)
-        pages += topic_pages(site, config)
-    if site.facebook:
-        pages += facebook_pages(site, config)
-    if site.interviews:
-        pages += interviews_pages(site, config)
-    if site.custom:
-        pages += custom_pages(site, config)
-    if site.blogs:
-        util.mkdir("%s/blogs" % out_dir)
-        pages += blogs(site, config)
-    if site.gen_sitemap:
-        pages += [sitemap_page(master, site, config)]
-    if site.gen_search:
-        pages += [search_page(master, site, config)]
+        if site.topics:
+            util.mkdir("%s/topics" % out_dir)
+            pages += topic_pages(site, config)
+        if site.facebook:
+            pages += facebook_pages(site, config)
+        if site.interviews:
+            pages += interviews_pages(site, config)
+        if site.custom:
+            pages += custom_pages(site, config)
+        if site.blogs:
+            util.mkdir("%s/blogs" % out_dir)
+            pages += blogs(site, config)
+        if site.gen_sitemap:
+            pages += [sitemap_page(master, site, config)]
+        if site.gen_search:
+            pages += [search_page(master, site, config)]
 
     for page in pages:
         with open_out_file(out_dir, page[0]) as outfile:
@@ -190,7 +192,8 @@ def gen_global_json(master):
     site = master.global_site
 
     pages = [
-        ('nav.json', json_helper.nav_json(master)),
+        ('nav.json', json_helper.nav_json(master, indent = 2)),
+        ('nav.min.json', json_helper.nav_json(master)),
         ('search.json', json_helper.search_json(master))
     ]
     out_dir = "%s/global" % (config.out_dir)
@@ -244,17 +247,18 @@ def gen_site(config):
     # Copy assets
     util.copy_all_assets(config)
 
-
 def main(args):
     prod = args.prod
     assets_only = args.assets
-    global_only = args.global_only
+    index_only = args.index_only
+    global_only = args.global_only or index_only
     channel = args.channel or prod
 
     util.prepare_cache()
 
     config = config_factory.load(prod)
     config.global_only = global_only
+    config.index_only = index_only
     config.channel = channel
 
     if assets_only:
@@ -267,6 +271,7 @@ if __name__ == "__main__":
     parser.add_argument('--prod', action='store_true')
     parser.add_argument('--assets', action='store_true')
     parser.add_argument('--global-only', action='store_true')
+    parser.add_argument('--index-only', action='store_true')
     parser.add_argument('--channel', action='store_true')
     args = parser.parse_args()
     main(args)

@@ -163,6 +163,7 @@ OLPJ3UNH-rE // spark ar / how to make kira-kira / как сделать киру
 nK1I-HutyFg // КАК СДЕЛАТЬ RETOUCH+Глиттер, KIRA/Spark AR
 -_6t80zdEE0 // 18 урок Spark AR Studio. Маска-эффект Кира-Кира
 L5_lTMz1-Nw // Как сделать маску инстаграм Кира Кира. Уроки Spark AR Studio
+9m5-HaVZpWs // БОЛЬШЕ БЛЕСТОК КИРА-КИРА NEW KIRA GLITTER
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -239,6 +240,7 @@ D9WjrNPj1_A // Spark AR Effect Tutorial: SlinkyCheeks
 gNcpScPtrBU // Spark AR Trocando rosto e usando com 2 pessoas!
 
 # Game
+https://www.youtube.com/watch?v=DHHPMBa8B6E
 -r256yKFeos // Spark AR Masterclass: AR and Gaming
 APWpLdvXaiE // Spark AR: Blinking Game Tutorial - Part 1
 IDI6xi9z3Zk // Spark AR: Blinking Game Tutorial - Part 2
@@ -263,6 +265,8 @@ aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game 
 8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare textures
 heMa3fGj0Jc // Spark AR game scripting tutorial 02: locate textures
 QRXWuAXwqkQ // Spark AR Sistem Score Game Bahasa Indonesia
+qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
+DHHPMBa8B6E // Spark Ar Blink Game
 
 # Halloween / Joker
 S_X8_ML1e2M // SparkAR Joker mask
@@ -351,7 +355,7 @@ q626kHEuzNk // Spark AR Membuat color LUTs menerapkan Presets dan Profiles Light
 S7Gc7xGkc70 // Spark AR | Lightroom (Presets) Hazır Ayarlarınızı İnstagram Efekti Yapma
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
-G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Jannis
+G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Anthi
 opgUXotK1jk // Spark AR LUT com Chuvisco e Retouch!
 iFOHrmu90x8 // Cara buat filter instagram sendiri dengan Lightroom (Spark AR Studio)
 GohHMLmz2LE // Color Pallete - Cara Membuat Filter Instagram Seperti Filter Stories 2.0 Spark Ar Tutorial
@@ -514,6 +518,7 @@ LHVQk-ICgMk // Spark AR - Photogrammetry + Target Tracker Instagram | Display La
 d_2KU0gLkqY // Spark AR Tutorial Target Tracker. Создаем дополненную реальность в Инстаграм
 w6beb3zwuHA // Как сделать привязку маски к вывеске/монитору/логотипу в Spark AR. Создаём Fixed Target Tracker.
 ocfWlyPYUuI // Cara Membuat Augmented Reality Target Tracker Dengan Spark AR
+YhfveCO0YL4 // SPARK AR - Fixed Target Tracker Tutorial (With 3D Animations)
 
 # Publish effects
 pdozPtEIaVY // UPLOAD FILTER INSTAGRAM DI SPARK AR HUB

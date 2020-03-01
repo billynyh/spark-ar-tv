@@ -1,3 +1,4 @@
+const SHOW_PLAY_ICON = false;
 
 function createSidebarGroup(id, cls, items) {
   const ul = $('<ul class="list-group" />').addClass(cls).attr('id', id);
@@ -16,7 +17,7 @@ function createSidebarGroup(id, cls, items) {
   return ul.append(lis);
 }
 
-function createSidebar(data) {
+function createLeftSidebar(data) {
   const toggle = $('<a class="lang-toggle collapsed" data-toggle="collapse" href="#secondaryLangsMenu" role="button" aria-expanded="false" />');
   const wrapper = $('<div />')
       .append(createSidebarGroup('lang-nav', '', data.top_langs))
@@ -29,6 +30,52 @@ function createSidebar(data) {
       .append($('<hr/>'))
       .append(createSidebarGroup('topic-nav', '', data.topics))
   return wrapper;
+}
+
+function createRightSidebarItem(x) {
+  const html = [
+    '<a href="', x.url, '">',
+    '<div class="media">',
+    '<div class="mr-3 thumb-outter-container">',
+      '<div class="thumb-container">',
+      '<div class="thumb-wrapper">',
+      '<img src="', x.thumbnail_url, '" />',
+      '</div>',
+      '</div>',
+    '</div>',
+    '<div class="media-body">',
+      '<div class="title">', x.title, '</div>',
+      '<div>', x.meta1, '</div>',
+    '</div>',
+    '</div>', // media
+    '</a>',
+  ];
+
+  return html.join('');
+}
+
+function shuffle_list(list, size) {
+  const N = list.length;
+  for (let i = 0; i < size; i++) {
+    let j = Math.floor(Math.random() * (N - i));
+    let t = list[i];
+    list[i] = list[j];
+    list[j] = t;
+  }
+  return list.slice(0, size);
+}
+
+function createRightSidebar(data) {
+  const featured_contents = shuffle_list(data.featured_contents, 5);
+  let html = [];
+  const block1 = featured_contents.map(x => createRightSidebarItem(x));
+  const block2 = data.recent_weeks.map(x => createRightSidebarItem(x));
+
+  html.push('<h5>Featured contents</h5>');
+  html = html.concat(block1);
+  html.push('<h5>Weekly archives</h5>');
+  html = html.concat(block2);
+  return html.join('');
 }
 
 function getUrlVars() {
@@ -79,7 +126,10 @@ $('.thumb-container img').Lazy({
 }
 
 function initPage(config) {
-config.PLAY_BUTTON_HTML = '<span class="play-button"><img src="' + config.play_icon_url + '"/></span>';
+config.PLAY_BUTTON_HTML = '';
+if (SHOW_PLAY_ICON) {
+  config.PLAY_BUTTON_HTML = '<span class="play-button"><img src="' + config.play_icon_url + '"/></span>';
+}
 
 $('.video-item').each(function(i, e){
   e = $(e);
@@ -101,7 +151,8 @@ initLazy();
 $.getJSON(
   config.nav_json_url,
   function(data) {
-    $('#sidebar').html(createSidebar(data));
+    $('#sidebar').html(createLeftSidebar(data.nav));
+    $('#right-sidebar').html(createRightSidebar(data));
   }
 );
 
