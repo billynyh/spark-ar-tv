@@ -59,14 +59,24 @@
 </nav>
 
 
-<div class="content d-flex" id="wrapper">
-<div class="sidebar-wrapper">
+<div class="" id="wrapper">
+
+<div class="container-fluid">
+<div class="row">
+
+<div class="sidebar-wrapper pt-3 order-1 col-2">
   <div class="sidebar" id="sidebar">
   </div>
 </div>
-<div class="container-fluid">
 
 
+<div class="right-sidebar-wrapper pt-3 order-3 col-3">
+  <div id="right-sidebar">
+  </div>
+</div>
+
+
+<div class="main-content-wrapper pt-3 order-2 col-7">
 
 
 
@@ -85,14 +95,16 @@
 
 
 <div class="row">
+<div class="col-12 vid-col">
   <h3><a href="https://billynyh.github.io/spark-ar-tv/ar/weeks/week-2019-12-09.html">Week 2019-12-09</a></h3>
+</div>
 </div>
 <div class="row">
   
 
-<div class="video-item vid-col col-xl-2 col-lg-3 col-sm-4"
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
     data-video-url="https://www.youtube.com/watch?v=H_6CMr33Vx4"
-    data-thumbnail-url="https://i.ytimg.com/vi/H_6CMr33Vx4/hqdefault.jpg"
+    data-thumbnail-url="https://i.ytimg.com/vi/H_6CMr33Vx4/sddefault.jpg"
     data-title="كيفية ارسال  فلتر  الانستقرام او فيسبوك بعد التصميم | ارسال الفلتر الى موقع  Spark AR Studio"
     data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCCUA4AnBI773AppvbXbpmUA.html"
     data-channel-title="HAMMUD TECHNOLOGY"
@@ -105,14 +117,16 @@
 
 
 <div class="row">
+<div class="col-12 vid-col">
   <h3><a href="https://billynyh.github.io/spark-ar-tv/ar/weeks/week-2019-11-18.html">Week 2019-11-18</a></h3>
+</div>
 </div>
 <div class="row">
   
 
-<div class="video-item vid-col col-xl-2 col-lg-3 col-sm-4"
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
     data-video-url="https://www.youtube.com/watch?v=Tic7Y1lggbg"
-    data-thumbnail-url="https://i.ytimg.com/vi/Tic7Y1lggbg/hqdefault.jpg"
+    data-thumbnail-url="https://i.ytimg.com/vi/Tic7Y1lggbg/sddefault.jpg"
     data-title="كيف تصمم فلترك الخاص عالانستجرام how to make your customize filter in instgram"
     data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCNSuGUzm3_EfxqERvEecSJQ.html"
     data-channel-title="Saad AL-Khateeb SDSKTB"
@@ -125,14 +139,16 @@
 
 
 <div class="row">
+<div class="col-12 vid-col">
   <h3><a href="https://billynyh.github.io/spark-ar-tv/ar/weeks/week-2019-11-11.html">Week 2019-11-11</a></h3>
+</div>
 </div>
 <div class="row">
   
 
-<div class="video-item vid-col col-xl-2 col-lg-3 col-sm-4"
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
     data-video-url="https://www.youtube.com/watch?v=hGGUZpyU93g"
-    data-thumbnail-url="https://i.ytimg.com/vi/hGGUZpyU93g/hqdefault.jpg"
+    data-thumbnail-url="https://i.ytimg.com/vi/hGGUZpyU93g/sddefault.jpg"
     data-title="كيف تسوي فلتر أنستجرام | Spark AR"
     data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCpQFH-0O6b-pjXr1PYjC9eQ.html"
     data-channel-title="SkroooB 4Tutz"
@@ -145,14 +161,16 @@
 
 
 <div class="row">
+<div class="col-12 vid-col">
   <h3><a href="https://billynyh.github.io/spark-ar-tv/ar/weeks/week-2019-10-21.html">Week 2019-10-21</a></h3>
+</div>
 </div>
 <div class="row">
   
 
-<div class="video-item vid-col col-xl-2 col-lg-3 col-sm-4"
+<div class="video-item vid-col col-xl-3 col-lg-3 col-sm-4"
     data-video-url="https://www.youtube.com/watch?v=sPVwosZ1HR4"
-    data-thumbnail-url="https://i.ytimg.com/vi/sPVwosZ1HR4/hqdefault.jpg"
+    data-thumbnail-url="https://i.ytimg.com/vi/sPVwosZ1HR4/sddefault.jpg"
     data-title="كيفية تصميم فلتر &quot;الانستقرام او فيسبوك | تحميل برنامج Spark AR Studio لتصميم الفلتر |Spark AR Studio"
     data-channel-url="https://billynyh.github.io/spark-ar-tv/global/channels/UCCUA4AnBI773AppvbXbpmUA.html"
     data-channel-title="HAMMUD TECHNOLOGY"
@@ -169,8 +187,11 @@
 
 
 </div>
+
+</div>
 </div>
 
+</div> <!-- wrapper -->
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -187,7 +208,7 @@
 
 $(document).ready(function(){
   const CONFIG = {
-      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.json',
+      nav_json_url:'https://billynyh.github.io/spark-ar-tv/global/nav.min.json',
       play_icon_url: 'https://billynyh.github.io/spark-ar-tv/assets/youtube-play5.png',
       search_data_json_url: 'https://billynyh.github.io/spark-ar-tv/global/search.json'
   };
