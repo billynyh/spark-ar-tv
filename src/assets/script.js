@@ -217,7 +217,7 @@ $.getJSON(
 function renderSearchResult(config, result) {
   const html = result.slice(0, 30).map(function(v){
     return $('<div/>')
-        .addClass('video-item vid-col col-xl-2 col-lg-3 col-sm-4')
+        .addClass('video-item vid-col col-xl-3 col-lg-3 col-sm-4')
         .append(renderVid(config, v));
   }) 
   $('#search-result').empty().append(html);
