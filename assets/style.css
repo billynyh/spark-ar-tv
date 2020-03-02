@@ -55,8 +55,24 @@ a, a:hover {
 
 
 /* sidebar */
+/* sidebar for small */
 .toggled .sidebar-wrapper {
+  display:flex;
+}
+.sidebar-wrapper {
   display:none;
+}
+@media (min-width: 576px) {
+  .toggled .sidebar-wrapper {
+    display:none;
+  }
+  .sidebar-wrapper {
+    display:flex;
+  }
+}
+
+.sidebar {
+  width: 100%;
 }
 .sidebar .nav-item {
   background:none;
