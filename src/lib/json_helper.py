@@ -36,9 +36,8 @@ def search_json(master):
 
 def week_to_dict(w, site):
     v = site.video_data[w.ids[0]]
-    channel_id = v.channel_id
     return {
-        'url': util.channel_page_url(site, channel_id),
+        'url': util.week_page_url(site, 'global', w),
         'thumbnail_url': v.thumbnail_url,
         'title': w.title,
         'meta1': "Num videos: %d" % len(w.ids),
