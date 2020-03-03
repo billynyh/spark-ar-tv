@@ -30,6 +30,9 @@ kzcFrErVGcY // HOW TO MAKE AN INSTAGRAM STORY FILTER - SUPER EASY SPARK AR TUTOR
 # Anna Lytical
 LZ4okgC2dj8 // Gourmet Makes: Instagram "which are you" effect coding tutorial  (CODE INCLUDED) #IWDFCFTBATK
 
+# AR Critic
+h4CJeFz_iZg // Spark AR Studio Tutorial 1 : Create a Simple Filter in a Few Seconds
+
 # AR with Renu
 TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
 Fl8_1-xl-54 // Spark AR : How To Create A Christmas Filter on Instagram
@@ -123,6 +126,7 @@ JIabqi-CmDA // How to create Eye Lasers | Spark AR Studio
 7FzdMWHO_LU // PixelHead Effect | Spark AR Studio
 ha46pvSqwHQ // Course Overview | Spark AR Project Pipeline: The Creation Station
 NySg2pab4Es // Research and Ideation | Spark AR Project Pipeline: The Creation Station
+VIMPMLHJNWc // Asset Creation | Spark AR Project Pipeline: The Creation Station
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
@@ -358,6 +362,7 @@ fj7U27H-B1c // Spark AR: Instagram Filters - Getting Started: Patch Editor
 sBoMUuuxC0A // Spark AR: Instagram Filters - Getting Started: Sharing Patches
 FTCHx4QrqPQ // Spark AR: Instagram Filters - Smooth Head Tracking
 VinrQWhv0ss // Spark AR: Instagram Filters - Image Compression
+puwLXrjMLGw // Spark AR: Instagram Filters: What _____ Am I? / What _____ Are You? - FREE Filter Template
 
 # Mahesh Parab
 rR_9IEvHsoY // ANIMATION CLIP MASKING TEXT IN CSS
@@ -669,6 +674,7 @@ U5m2_3SX0zE // [ NOOB UV MAPPING TUTORIAL - BLENDER 2.8 ] adding Color to 3D mod
 # Zsuzsanna Pápai
 fNlvPdx04J0 // Convert mask anchor points in After Effects
 J0rXlabi2L8 // Random Which... are you filter for Facebook and Instagram DIY tutorial
+DXH0GZYW2LE // Trigger a sound with a random value! SPARK AR
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74
