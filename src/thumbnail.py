@@ -32,16 +32,15 @@ def download_all(video_data):
                 shutil.copyfileobj(response, outfile)
                 print("Downloaded %s" % outfile.name)
 
-def generate_day_thumbnails(site):
-    for g in site.groups_by_day:
-        ids = g.ids[:4]
-        video_data = {id:site.video_data[id] for id in ids}
-        download_all(video_data)
+def generate_day_thumbnail(site, g):
+    ids = g.ids[:4]
+    video_data = {id:site.video_data[id] for id in ids}
+    download_all(video_data)
 
-        img = image_helper.group_thumbnail_collage(site, ids)
-        outfile = util.get_group_banner_path(config.out_dir, g)
-        img.save(outfile, "JPEG")
-        print("Saved %s" % outfile)
+    img = image_helper.group_thumbnail_collage(site, ids)
+    outfile = util.get_group_banner_path(config.out_dir, g)
+    img.save(outfile, "JPEG")
+    print("Saved %s" % outfile)
 
 def generate_week_thumbnails(site):
     for g in site.groups_by_week:
@@ -120,7 +119,9 @@ def main_day():
     master = master_site(config)
     site = master.global_site
 
-    generate_day_thumbnails(site)
+    groups = site.groups_by_day[1:3]
+    for g in groups:
+        generate_day_thumbnail(site, g)
     
 
 
@@ -128,5 +129,6 @@ if __name__ == "__main__":
     config = config_factory.load()
     #main_ping()
     #main_topics()
-    main()
-    #main_day()
+    
+    #main()
+    main_day()
