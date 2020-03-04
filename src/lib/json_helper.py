@@ -31,6 +31,7 @@ def nav_json(master, indent = None):
 def search_json(master):
     site = master.global_site
     vids = [vid_to_dict(v) for v in site.video_data.values()]
+    vids = sorted(vids, key = lambda v: v['id'])
 
     return json.dumps(vids)
 
