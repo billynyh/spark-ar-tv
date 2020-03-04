@@ -32,6 +32,8 @@ LZ4okgC2dj8 // Gourmet Makes: Instagram "which are you" effect coding tutorial  
 
 # AR Critic
 h4CJeFz_iZg // Spark AR Studio Tutorial 1 : Create a Simple Filter in a Few Seconds
+7hpCqobhXWw // Spark AR Studio Tutorial 2: Creating a Cute Face Mask using PNG Image
+TwWx7PanhXY // PIZZA FACE Instagram Filter - How I Made it using Spark AR Studio?
 
 # AR with Renu
 TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
@@ -127,6 +129,8 @@ JIabqi-CmDA // How to create Eye Lasers | Spark AR Studio
 ha46pvSqwHQ // Course Overview | Spark AR Project Pipeline: The Creation Station
 NySg2pab4Es // Research and Ideation | Spark AR Project Pipeline: The Creation Station
 VIMPMLHJNWc // Asset Creation | Spark AR Project Pipeline: The Creation Station
+BoGpXd8eD6A // TV Head Effect | Spark AR Studio
+TzbfUyjpYl0 // Edge Detection | Spark AR Studio
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
@@ -228,6 +232,9 @@ YhfveCO0YL4 // SPARK AR - Fixed Target Tracker Tutorial (With 3D Animations)
 
 # Frédéric Bui
 vd5CFqPmNLM // Create an Instagram Filter
+
+# fxdojo
+ta8c_U_BjLM // Augmented Reality 101
 
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
@@ -663,6 +670,9 @@ d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR
 6rcTbfrVyWo // Spark AR MatCap shader
 n3ZXo7GUiAo // Spark AR Toon Shader
 ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
+
+# yippee yap
+OudPTUngOYY // Spark AR Tutorial for Beginner - Create your own INS effect
 
 # ZiFeng Learns to Make
 jkYt6_8RiDw // [ NOOB MAKES INSTAGRAM FILTER ] Learning Spark AR to create my first Instagram filter.
