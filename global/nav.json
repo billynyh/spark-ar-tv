@@ -123,7 +123,7 @@
       {
         "title": "Audio",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/audio.html",
-        "video_count": 23
+        "video_count": 27
       },
       {
         "title": "Basic JS script",
@@ -133,7 +133,7 @@
       {
         "title": "Beauty / Makeup / Lipstick",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/beauty-makeup-lipstick.html",
-        "video_count": 23
+        "video_count": 30
       },
       {
         "title": "Color Sampler",
@@ -143,12 +143,12 @@
       {
         "title": "Date and time",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/date-and-time.html",
-        "video_count": 4
+        "video_count": 5
       },
       {
         "title": "Edge detection / KiraKira",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/edge-detection-kirakira.html",
-        "video_count": 17
+        "video_count": 19
       },
       {
         "title": "Eyelashes",
@@ -178,12 +178,12 @@
       {
         "title": "Game",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/game.html",
-        "video_count": 26
+        "video_count": 27
       },
       {
         "title": "Halloween / Joker",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/halloween-joker.html",
-        "video_count": 9
+        "video_count": 11
       },
       {
         "title": "Hand tracker",
@@ -228,7 +228,7 @@
       {
         "title": "Neon light",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/neon-light.html",
-        "video_count": 7
+        "video_count": 8
       },
       {
         "title": "Occluder / Occlusion",
@@ -243,7 +243,7 @@
       {
         "title": "Particles",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/particles.html",
-        "video_count": 36
+        "video_count": 38
       },
       {
         "title": "Patch Editor",
@@ -273,12 +273,12 @@
       {
         "title": "Scanner / Rader Effect",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/scanner-rader-effect.html",
-        "video_count": 7
+        "video_count": 8
       },
       {
         "title": "Segmentation",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/segmentation.html",
-        "video_count": 34
+        "video_count": 36
       },
       {
         "title": "Shader",
@@ -299,6 +299,11 @@
         "title": "Touch Gesture",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/touch-gesture.html",
         "video_count": 2
+      },
+      {
+        "title": "Typography",
+        "url": "https://billynyh.github.io/spark-ar-tv/global/topics/typography.html",
+        "video_count": 7
       },
       {
         "title": "Wings / Angel",

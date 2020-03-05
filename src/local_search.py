@@ -5,7 +5,7 @@ from lib.data_loader import *
 
 def search(ids, video_data, keyword, debug, search_tags):
     has_result = False
-    for id in ids:
+    for id in reversed(ids):
         video = video_data[id]
         match = False
         if keyword in video.title.lower():
@@ -28,7 +28,7 @@ def main(keyword, debug, search_tags = False):
     video_data = master.global_site.video_data
 
     print("\nLocal search: %s" % keyword)
-    for g in master.global_site.groups_by_week:
+    for g in reversed(master.global_site.groups_by_week):
         #print("# %s" % g.title)
         search(g.ids, video_data, keyword, debug, search_tags)
 
