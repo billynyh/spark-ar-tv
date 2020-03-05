@@ -591,6 +591,10 @@ cBpumG3ejbs // Как сделать круглую рамку для маски
 RE3PDHVDyNU // Spark AR - Which Barça player are you filter demo
 c8r_oS4DTMw // How To Make A  Which Are You  Instagram Filter   Spark AR Tutorial
 jlH63vvyFK8 // RANDOM MEME FILTER for Instagram / SPARK AR TUTORIALs Image Sequence
+J0rXlabi2L8 // Random Which... are you filter for Facebook and Instagram DIY tutorial
+rcqHiR0ULx8 // How To Create a Spark AR "What Are You" Instagram Filter
+puwLXrjMLGw // Spark AR: Instagram Filters: What _____ Am I? / What _____ Are You? - FREE Filter Template
+tlos76Nm_nE // Spark AR - Random Image Sequence & Segmentation | Part IV (EN captions)
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
@@ -608,7 +612,7 @@ LcGQ1iS-bAk // Spark AR Studio - Scanner Face V2
 LtEeW-BZzzA // Spark AR Como criar o efeito Scanner usando SDF!
 T3e5iqsk5-c // Scanner ( Face Mesh ) Effect - Spark AR Studio [ Tutorial ]
 laivaNp_bVg // Spark AR studio урок СКАНЕР ЛИЦА/ tutorials  face scanner
-8ncLObDlnoU
+8ncLObDlnoU // Cara Buat Filter Instagram Scan Wajah - Spark Ar Tutorial
 
 # Segmentation
 yVjb6iBHFo8 // Body Segmentation with SparkAr Studio
