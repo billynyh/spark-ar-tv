@@ -42,6 +42,7 @@ FhTxlMsYEwM // Spark AR Yennefer Look a Like Tutorial [Change your Eyecolor, Mak
 NXBZvf8Lu24 // How to Create a Hole Scene in Spar AR Studio [Customize Color, Segmentation, Patch Hacks and more]
 xDOnGh-ygXM // How to Stop Animation with Facial Expression in Spark AR [useful patch for blink, mouth open, etc.]
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
+IAUqD_z6noQ // How to add an Alpha Mask to your Face Mesh in Spark AR
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio

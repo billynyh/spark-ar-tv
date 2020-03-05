@@ -34,6 +34,9 @@ LZ4okgC2dj8 // Gourmet Makes: Instagram "which are you" effect coding tutorial  
 h4CJeFz_iZg // Spark AR Studio Tutorial 1 : Create a Simple Filter in a Few Seconds
 7hpCqobhXWw // Spark AR Studio Tutorial 2: Creating a Cute Face Mask using PNG Image
 TwWx7PanhXY // PIZZA FACE Instagram Filter - How I Made it using Spark AR Studio?
+oZg-YX0cyuM // Spark AR Studio Lesson 3: Adding/Duplicating Images that Follows the User's Face
+YUZdx1wf5E4 // Spark AR Studio Lesson 4: How to Create Makeup Effect?
+nomeWk6Ccn0 // Spark AR Studio Lesson 5: Hearts Coming Out from Mouth (Patch Editor, Particle System)
 
 # AR with Renu
 TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
@@ -67,6 +70,7 @@ LKd9xs3QhRk // Make your own Instagram story filter in less than 10 minutes!!
 Hzmyt-s_bZs // Spark AR quick tip 01: scripting movement by screen tap
 8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare textures
 heMa3fGj0Jc // Spark AR game scripting tutorial 02: locate textures
+vomFaTbQSOY // Spark AR game scripting tutorial 03: animate bg
 
 # Caroline Dunn
 FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark AR Part 1: Face Mask
@@ -448,6 +452,7 @@ qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Con
 IqDtJ61BIVA // Value to Text: Spark AR Studio - Script to Patch Bridging
 pD3vHi4Nnsk // Emoji Face Slider: Spark AR Studio Project Structure Example
 npk38VlKZ8c // Bend Object: Spark AR Studio and Blender 2.8 - Intro Model Rigging Animation Tutorial Project
+WKRGMvErKfg // How I Turned My 3-year-old's Art into an AR World with Spark AR Studio
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]

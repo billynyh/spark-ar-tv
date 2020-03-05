@@ -119,7 +119,7 @@ def main_day():
     master = master_site(config)
     site = master.global_site
 
-    groups = site.groups_by_day[1:3]
+    groups = site.groups_by_day[1:2]
     for g in groups:
         generate_day_thumbnail(site, g)
     
