@@ -1,6 +1,6 @@
 import urllib.request
 import shutil
-
+import random
 import config_factory
 import site_config
 from lib import data_loader, util
@@ -33,7 +33,9 @@ def download_all(video_data):
                 print("Downloaded %s" % outfile.name)
 
 def generate_day_thumbnail(site, g):
-    ids = g.ids[:4]
+    ids = list(g.ids)
+    random.shuffle(ids)
+    ids = ids[:4]
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
@@ -119,7 +121,7 @@ def main_day():
     master = master_site(config)
     site = master.global_site
 
-    groups = site.groups_by_day[1:2]
+    groups = site.groups_by_day[0:2]
     for g in groups:
         generate_day_thumbnail(site, g)
     

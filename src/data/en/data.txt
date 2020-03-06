@@ -37,6 +37,10 @@ TwWx7PanhXY // PIZZA FACE Instagram Filter - How I Made it using Spark AR Studio
 oZg-YX0cyuM // Spark AR Studio Lesson 3: Adding/Duplicating Images that Follows the User's Face
 YUZdx1wf5E4 // Spark AR Studio Lesson 4: How to Create Makeup Effect?
 nomeWk6Ccn0 // Spark AR Studio Lesson 5: Hearts Coming Out from Mouth (Patch Editor, Particle System)
+NAyXPMl2y7k // Spark AR Lesson 6: How to use Eye Blinking in Patch Editor?
+ZluNtaz1Kb4 // Spark AR Lesson 7: How to create Beauty3000 Lighting Face Animation Effect?
+eb0jnRlwfDo // Spark AR Lesson 8: How to use Segmentation? (Step-by-Step Guide)
+PoZolGpZ6mM // Spark AR Tutorial 9: How to Play Sound Effect on Mouth Open using Patch Editor
 
 # AR with Renu
 TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
