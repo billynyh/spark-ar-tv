@@ -41,11 +41,14 @@ NAyXPMl2y7k // Spark AR Lesson 6: How to use Eye Blinking in Patch Editor?
 ZluNtaz1Kb4 // Spark AR Lesson 7: How to create Beauty3000 Lighting Face Animation Effect?
 eb0jnRlwfDo // Spark AR Lesson 8: How to use Segmentation? (Step-by-Step Guide)
 PoZolGpZ6mM // Spark AR Tutorial 9: How to Play Sound Effect on Mouth Open using Patch Editor
+M7CB98VZj3w // Spark AR Lesson 10: How to Create Randomizer Effect using Scripting?
+yGL_RMkLtLQ // Spark AR Lesson 11 - Understanding 'To Script' & 'From Script' (JS Scripting)
 
 # AR with Renu
 TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
 Fl8_1-xl-54 // Spark AR : How To Create A Christmas Filter on Instagram
 QKz_fqW6ExQ // Spark AR : How To Create A Birthday Filter on Instagram
+ZlOCibu1bR8 // How To Use Augmented Reality in E-Commerce
 
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
@@ -139,10 +142,13 @@ NySg2pab4Es // Research and Ideation | Spark AR Project Pipeline: The Creation S
 VIMPMLHJNWc // Asset Creation | Spark AR Project Pipeline: The Creation Station
 BoGpXd8eD6A // TV Head Effect | Spark AR Studio
 TzbfUyjpYl0 // Edge Detection | Spark AR Studio
+Sqds53SJfgg // Part 1: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
+1TAv2nJFmCU // Part 2: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
 B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER GRAIN/DUST EFFECT DI SPARK AR STUDIO
+8Gk515ye24I // MEMBUAT FILTER MAKE UP DENGAN SPARK AR
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
