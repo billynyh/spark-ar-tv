@@ -383,6 +383,7 @@ gVuS2NJhGdw // Spark LUT Swiper Demo
 LojGhczG8mo // Cara membuat Filter Instagram menggunakan Preset VSCO termudah | Spark AR Indonesia
 -7Bxx1oSyLU // Make Up Tutorial - Cara Membuat Filter Make Up Dan Lut Di Spark Ar
 UTuew30eeKA // SPARK AR TUTORIAL | CARA MEMBUAT FILTER INSTAGRAM STORY DARI PRESET LIGHTROOM
+Y10OoaDTIiE // Spark AR Fade-in e Fade-out de forma FÁCIL no seu LUT!
 
 # Laser eyes
 qj4FGokKDpM // Spark AR Criando o melhor efeito Laser!
@@ -595,6 +596,9 @@ J0rXlabi2L8 // Random Which... are you filter for Facebook and Instagram DIY tut
 rcqHiR0ULx8 // How To Create a Spark AR "What Are You" Instagram Filter
 puwLXrjMLGw // Spark AR: Instagram Filters: What _____ Am I? / What _____ Are You? - FREE Filter Template
 tlos76Nm_nE // Spark AR - Random Image Sequence & Segmentation | Part IV (EN captions)
+M7CB98VZj3w // Spark AR Lesson 10: How to Create Randomizer Effect using Scripting?
+Sqds53SJfgg // Part 1: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
+1TAv2nJFmCU // Part 2: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
