@@ -43,6 +43,10 @@ eb0jnRlwfDo // Spark AR Lesson 8: How to use Segmentation? (Step-by-Step Guide)
 PoZolGpZ6mM // Spark AR Tutorial 9: How to Play Sound Effect on Mouth Open using Patch Editor
 M7CB98VZj3w // Spark AR Lesson 10: How to Create Randomizer Effect using Scripting?
 yGL_RMkLtLQ // Spark AR Lesson 11 - Understanding 'To Script' & 'From Script' (JS Scripting)
+MP0bdsdloSc // Spark AR Lesson 12 - Delay, Unpack & Pack Patches to Create an Interesting Animation
+2f3zZjUwUqo // How to Create Glitter Makeup Effect in Spark AR Studio for Instagram & Facebook?
+mMbjtUSdktI // How to Make Glittery Lip Gloss Makeup Filter in Spark AR Studio?
+ffjO_j3Bfmw // How to Create Eye Color Changer Instagram Filter in Spark AR Studio?
 
 # AR with Renu
 TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
@@ -144,6 +148,7 @@ BoGpXd8eD6A // TV Head Effect | Spark AR Studio
 TzbfUyjpYl0 // Edge Detection | Spark AR Studio
 Sqds53SJfgg // Part 1: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
 1TAv2nJFmCU // Part 2: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
+CODvf6JTLOA // Part 3: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA

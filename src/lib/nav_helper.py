@@ -18,9 +18,9 @@ LANG_DISPLAY_NAME = {
   'th': 'Thai',
   'pl': 'Polish',
   'ro': 'Romanian',
-  #'hr': 'Croatian',
   'sk': 'Slovak',
   'el': 'Greek',
+  'fa': 'Persian',
   'global': 'All Languages',
 }
 
