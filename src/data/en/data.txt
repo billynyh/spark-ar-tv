@@ -604,6 +604,7 @@ yzoJSyjBijU // Iris Animation (Eyeball Tracking Part 2) Filter Effect | Instagra
 XvQdPtOcjzk // Blink to Change (Eyeball Tracking Part 3) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 Hu2AvOQh0RU // How to Edit/Update Filter Effects | Instagram & Facebook | Spark AR Tutorial
 iJ5a5v8X3zc // Import 3D Models (Blender Donut, Animation) Filter Effect | Instagram & Facebook | Spark AR Tutorial
+3cMpRSe1Ulk // Black & White Filter Effect (Luminance, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
