@@ -86,6 +86,7 @@ XLiOkUO5pvE // Make custom Instagram filters - Weirdest face deformation using S
 o1Gcw_bfEpI // How to make filters - Pixelate every texture with custom images and patch from Spark Ar Library!
 ggaYc20k1O4 // Spark Ar tutorial - How to add sound effects and music to your filters + interactions
 _7rqH3dxYQ0 // Spark Ar - Distort camera texture with custom image textures - Easy instagram filter tutorial
+ZmY3cB2uuk4 // Spark Ar Tutorial timelapse - EASY OUTLINE EFFECT using built in Library patches - no scripts needed
 
 # Spark AR Italia
 1ITtcDoungo // Come creare filtri Instagram ITA
@@ -94,18 +95,19 @@ Uza-dhu_9-0 // Come Inserire oggetti 3D in Spark AR
 xrOrvHnEVBk // Come creare un filtro Instagram per 2 volti
 vrIS-9bLl1Y // Inserire una collana in Spark AR
 
-# Spark AR Tutorial in Italiano
-tkH8n0Y5ECE // Come creare e caricare un filtro instagram tutorial facebook spark ar italiano
+# Spark AR Tutorial Italiano
+tkH8n0Y5ECE // Come creare e pubblicare un filtro instagram tutorial spark ar italiano
 hgU9orx2kZw // Come creare filtri per snapchat tutorial lens studio italiano
 SigHL7GwDCI // Tutorial filtri tik tok come creare e pubblicare un filtro per tik tok
 -39ahWb0BD8 // Filtri instagram Come creare un logo GUIDA SPARK AR ITALIA
+4nevfTAX5ms // COME CREARE UN FILTRO CON TESTO IN MENO DI 3 MN SPARK AR  TUTORIAL
 
 # SPSDesign
 6MbqtHRpv2g // SparkAr - VinRuscDay Filter
 
 # Tia Mooseca
-4VewdzP_oso // CREARE FILTRI INSTAGRAM IN MENO DI 3 MINUTI!! TiaMooseca
-Xzf3jS6WxmU // CREARE FILTRI INSTAGRAM CON RISPOSTE CASUALI!! - TiaMooseca
+4VewdzP_oso // CREARE FILTRI INSTAGRAM IN MENO DI 3 MINUTI!!
+Xzf3jS6WxmU // CREARE FILTRI INSTAGRAM CON DOMANDA e RISPOSTE CASUALI IN 5 MINUTI!!
 
 # TravellÆrt
 pGQMZteCVD0 // CREA il tuo FILTRO IG in meno di 10 MINUTI! - Basi di Spark AR

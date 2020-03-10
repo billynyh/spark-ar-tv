@@ -90,7 +90,7 @@ tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || In
 xxHMALAvmlk // Tutorial: Adding Audio
 Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
 tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
-GhWTMCBA7AY // Spark AR | Convert Audio to M4A using Online Converter
+GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
 MO6o1Hwi9B8 // How to Add Audio to AR Studio
 8KrHDr_XG0I // SPARK AR [использование Native UI для переключения Audio]  + Free script. Lesson #1.
 ggaYc20k1O4 // Spark Ar tutorial - How to add sound effects and music to your filters + interactions
@@ -275,12 +275,12 @@ dyC9XrYxLtw // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game 
 5nCkr_PtY_Y // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 2
 aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 3
 78pe0ugVMrI // Drone simulation in AR Spark | AR studio | AR game logic | AR VR Animation
-8IfQUmlICCI // Spark AR game scripting tutorial 01: prepare textures
-heMa3fGj0Jc // Spark AR game scripting tutorial 02: locate textures
+8IfQUmlICCI // 01 Spark AR tutorial: how to prepare textures
+heMa3fGj0Jc // 02 Spark AR tutorial: how to locate objects on the scene
 QRXWuAXwqkQ // Spark AR Sistem Score Game Bahasa Indonesia
 qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
 DHHPMBa8B6E // Spark Ar Blink Game
-vomFaTbQSOY // Spark AR game scripting tutorial 03: animate bg
+vomFaTbQSOY // 03 Spark AR tutorial: how to scripting object animation
 
 # Halloween / Joker
 S_X8_ML1e2M // SparkAR Joker mask
@@ -306,7 +306,7 @@ JahuumWeWbI // Tap to change / Add instructions - Spark AR beginner tutorial
 RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructions
 FgEAV3oS_D0 // Spark AR Várias instruções. Tutorial de como adicionar Instructions ao filtro
 hwCBJKqI3rA // Adding instructions Spark AR | Добавление инструкции
-iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
+iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH tutorial
 u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
 EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark Ar para Iniciantes #10
 XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Facebook | Spark AR Tutorial
@@ -446,7 +446,7 @@ doNaxDHp-Gc // Spark AR Tutorial - Occlusion Portal and Hole in the Floor | spar
 
 # Open mouth
 4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
-iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
+iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH tutorial
 d2zCC3yv5E0 // Tutorial Ativando Efeito ao Abrir a Boca   Mouth Open   Spark Ar para Iniciantes #9
 idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
 6g5GdU33Eyk // Spark AR Tutorial 3 Useful Mouth Open Patch Ideas (2020 Special)
@@ -492,7 +492,7 @@ EFX5610o2Js // Как сделать салют/частицы в маске Р�
 T18xS9Q1KyU // SPARK AR STUDIO. Маска в Инстаграм. Нимб
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
 ggz6GuIRXDE // Spark AR studio урок СИСТЕМА ЧАСТИЦ НАД ГОЛОВОЙ-БАБОЧКИ/ tutorials  particles butterflies overhead
-nomeWk6Ccn0 // Spark AR Studio Lesson 5: Hearts Coming Out from Mouth (Patch Editor, Particle System)
+nomeWk6Ccn0 // Spark AR Lesson 5: Hearts Coming Out from Mouth (Patch Editor, Particle System)
 
 # Patch Editor
 S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
@@ -690,7 +690,7 @@ RjBkrvU-W80 // Spark AR Toque para alterar. Tutorial de como mudar seu efeito ao
 lmklVU5dzDw // Уроки Spark AR Studio . 👌🏻 Эффект старой камеры, плёнки, vhs + LUT. Маски в Инстаграм
 o8yf110GuzQ // СМЕНА МАСКИ по ТАПУ 😍 /Spark AR SCREEN TAP / Маска в ИНСТАГРАМ
 8RxhIZ7IX3g // TAP TO CHANGE / Spark Ar Instagram Masks Instagram Filter change by tap
-iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH
+iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH tutorial
 E9L0uQKwmug // Object Tap + Switch - Spark AR Studio
 4rze2HaOGc8 // Spark AR GIF animation PARTICLES and TAP to TRY IT ON / HALLOWEEN FACE FILTER
 C6OrOpO_LXc // Spark AR Studio Tutorial Tap Option and Switch Option
@@ -726,7 +726,7 @@ O4GOZQAjHVE // Date And Time - Cara Gampang Buat Filter Stories atau Typography 
 QzaeVcDlogg // Spark AR : Instagram Filters - Cara Membuat Filter Typography Instagram
 a6Qj-veDQm4 // Bagaimana Cara Saya  Mendapatkan Persetujuan Untuk Filter Instagram Static Teks | Typography
 mH-1KzCJyZk // Cara membuat filter Instagram tanggal dan waktu (Typography) | Spark AR Tutorial
-uZ1Y7Dn-baU // Saya Membuat filter instagram typography | Disetujui ?! | tutorial spark ar studio indonesia
+uZ1Y7Dn-baU // Saya Membuat filter instagram typography Disetujui ?! | tutorial spark ar studio indonesia
 AE2Sa2H8Cik // Cara upload filter typography/static text langsung di approve
 
 # Wings / Angel

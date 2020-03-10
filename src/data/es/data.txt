@@ -49,7 +49,8 @@ JYOezMX0H1U // Spark AR Studio - Cambio de texturas con NativeUI Picker
 RD3m5XnmRmA // Spark AR Studio - Traducción del Texto editable según geografía del usuario
 aH8_miA4vow // Spark AR Studio - Rectángulos responsivos
 PyPIKezwrF4 // Spark AR Studio. Posicionamiento rectángulos - Re grabado
-_VNFrxTuC5M // Spark AR Studio - Tracking more than one face - Seguir más de un rostro - Silent Bob Version
+_VNFrxTuC5M // Spark AR Studio - Tracking more than one face - Seguir más de un rostro - Muted Version
+MrxG36zOGss // Spark AR Studio - Integrando audio en nuestros efectos. Guía definitiva
 
 # Daim Vazquez
 n-B2B6CTNkk // CREA TUS PROPIOS FILTROS/EFECTOS PARA INSTAGRAM STORIES/Daim Vazquez/Tutorial/
@@ -135,6 +136,7 @@ l_8aQI31mSI // Spark AR Tutorial - Segmentation & Eye tracking | Srburns Simpson
 _MVjZ-6BrgE // Spark AR Tutorial | Virtual Paint - Tilt Brush | Oculus Quest (EN Captions)
 tlos76Nm_nE // Spark AR - Random Image Sequence & Segmentation | Part IV (EN captions)
 _upid8B310Y // Display Land - Photogrammetry to Spark AR, Unity, Mixamo, Sketchfab
+OhJzmaJ7c5Q // Spark AR Tutorial - 360 Video sphere | Optimized texture
 
 # Eric sin k
 c6ndYPE_vXk // Filtros de Instagram en corto / creo que es un tutorial.
