@@ -99,7 +99,6 @@ def main():
         cleanup(master)
         return
 
-    skip_lang = ['fr']
     langs = config.site_config.languages
     for lang in langs:
         if lang in skip_lang:
