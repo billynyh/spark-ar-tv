@@ -50,6 +50,7 @@ HwJVgQtOjac // Cara bikin Instagram story filter untuk 2 orang (Track 2 faces) S
 
 # db
 _7SzODxAxps // Cara buat Color Filter Blue Cyan Orange Teal Instagram dengan Spark AR Studio & Photoshop
+r9MOz_LoWOs // Efisiensi Texture Spark AR Studio. "SIMPLE Animation Sequence"
 
 # Dedi Rosalam
 adlRj06Sjnk // Tutorial Membuat Filter Instagram Lengkap Dan Cara Menguploudnya
@@ -202,6 +203,7 @@ NIxU6ncdN2o // Cara Buat Filter Instagram Sendiri Pakai Spark AR Studio
 
 # PedProject
 QL1h23Lt3WU // Cara membuat filter Instagram dengan Mudah! | Tutorial Spark AR ter-gampang di YouTube - PedProject
+Bz2PqTjIbHU // Lengkap! Cara membuat filter Instagram Sederhana paling Gampang | Tutorial Spark AR #2 - PedProject
 
 # Peediepai
 mbzqqgG1BSg // Membuar Filter Instagram Sendiri (Spark AR Tutorial Part 1)
@@ -217,6 +219,7 @@ E4U1hsMp21M // Spark AR Menambahkan Efek Physics kedalam 3D Object Bahasa Indone
 q626kHEuzNk // Spark AR Membuat color LUTs menerapkan Presets dan Profiles Lightroom Bahasa Indonesia
 K1psMf3q3v0 // Spark AR Scripting Bahasa Indonesia | LookAt Function | Spark AR Programming.
 QRXWuAXwqkQ // Spark AR Sistem Score Game Bahasa Indonesia
+tVduBSwGoJc // Spark AR Sistem Score Game Versi 2 Bahasa Indonesia
 
 # Rudy Anwar
 5dJKGzR7jAc // Cara membuat 3D Filter Instagram - Tutorial Spark AR Studio

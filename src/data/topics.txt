@@ -2,6 +2,7 @@
 UeE7JofnujM // Membuat Filter Instagram 360° - Spark AR Studio [ Tutorial ]
 rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR [ XMas Special 2/3]
 QpOLNFk8U4o // Replacing Backgrounds (360° Photos) | Spark AR Studio
+OhJzmaJ7c5Q // Spark AR Tutorial - 360 Video sphere | Optimized texture
 
 # 3D model
 9HifpKbhI4w // Spark AR: Interacting with 3D objects
@@ -100,6 +101,7 @@ EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску ка
 SY2fy_7ifes // Spark AR Import Failed | Failed to Import Audio
 RXjpLSh4TK4 // Spark AR Studio ses çalışmıyor, müzik çalmıyor | Spark AR audio not working
 DXH0GZYW2LE // Trigger a sound with a random value! SPARK AR
+MrxG36zOGss // Spark AR Studio - Integrando audio en nuestros efectos. Guía definitiva
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar

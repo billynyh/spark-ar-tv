@@ -500,6 +500,9 @@ B1ZSEVb5OIU // Spark AR with Wyatt :)
 # PIOTAR BOA
 IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" BY PIOTAR BOA #sparkarstudio
 
+# Radssoon AR
+xcXYwFP90nQ // SparkAR
+
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
 vfMXwODsXa0 // Spark AR - How to extract face features
@@ -606,6 +609,7 @@ Hu2AvOQh0RU // How to Edit/Update Filter Effects | Instagram & Facebook | Spark 
 iJ5a5v8X3zc // Import 3D Models (Blender Donut, Animation) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 3cMpRSe1Ulk // Black & White Filter Effect (Luminance, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 qC-2icafBuQ // 2 Colours Gradient Filter Effect (Blending, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
+R6irTb3kxTc // 4 Colours Gradient Filter Effect (Patch Editor, Color) | Instagram & Facebook | Spark AR Tutorial
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
@@ -642,6 +646,7 @@ NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
 
 # Third Aurora
 Vuv6kB34t9c // Setup & Fixing Spark AR Audio | Third Aurora Augmented Reality Tech Company
+eeq0WlQ-Lkk // How I Got 500k Impressions In 30 Hours With ONE Instagram Filter!
 
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13
