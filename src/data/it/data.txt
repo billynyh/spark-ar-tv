@@ -25,12 +25,9 @@ E9CSdsVy0CY // 💁TUTORIAL 5 SPARK AR STUDIO: COME CREARE SFONDI (STATICI E ANI
 ZMpDEF3VuHs // TUTORIAL 6 SPARK AR STUDIO: COME INSERIRE LE SCRITTE SU UN FILTRO (PLANE)
 vi4V8E-nd60 // TUTORIAL SPARK AR: COME CARICARE IL FILTRO IG/FB ONLINE
 
-# Elena Sofia Studio
+# Elena Sofia
 tD1j_ncvyws // Spark AR Studio: Crea il tuo filtro Instagram personale in meno di 10 minuti
 xUAFKio7Mdg // Spark AR Studio: come creare una texture viso per filtro Instagram (face mesh)
-
-# Fabio Ragni
-l3G43kNsxdI // Video tutorial SparkAR Studio - Come creare domanda e risposte multiple
 
 # Flavio Rausa
 lA7LPLhlXnk // Filtri Instagram, Spark AR, Realtá aumentata: moda o rivoluzione?
@@ -91,6 +88,9 @@ ggaYc20k1O4 // Spark Ar tutorial - How to add sound effects and music to your fi
 _7rqH3dxYQ0 // Spark Ar - Distort camera texture with custom image textures - Easy instagram filter tutorial
 ZmY3cB2uuk4 // Spark Ar Tutorial timelapse - EASY OUTLINE EFFECT using built in Library patches - no scripts needed
 
+# Pentaprisma
+s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla
+
 # Spark AR Italia
 1ITtcDoungo // Come creare filtri Instagram ITA
 A6AcRLNUr4M // Come creare un filtro instagram: Creare una maschera
@@ -99,11 +99,11 @@ xrOrvHnEVBk // Come creare un filtro Instagram per 2 volti
 vrIS-9bLl1Y // Inserire una collana in Spark AR
 
 # Spark AR Tutorial Italiano
-tkH8n0Y5ECE // Come creare e pubblicare un filtro instagram tutorial spark ar italiano
-hgU9orx2kZw // Come creare filtri per snapchat tutorial lens studio italiano
-SigHL7GwDCI // Tutorial filtri tik tok come creare e pubblicare un filtro per tik tok
--39ahWb0BD8 // Filtri instagram Come creare un logo GUIDA SPARK AR ITALIA
-4nevfTAX5ms // COME CREARE UN FILTRO CON TESTO IN MENO DI 3 MN SPARK AR  TUTORIAL
+tkH8n0Y5ECE // COME CREARE E PUBBLICARE UN FILTRO INSTAGRAM TUTORIAL GUIDA SPARK AR ITALIANO
+hgU9orx2kZw // COME CREARE UN FILTRO SNAPCHAT TUTORIAL GUIDA LENS STUDIO ITALIANO
+SigHL7GwDCI // COME CREARE UN FILTRO TIK TOK TUTORIAL GUIDA ITALIANO
+-39ahWb0BD8 // COME CREARE UN LOGO PER UN FILTRO INSTAGRAM GUIDA SPARK AR ITALIA
+4nevfTAX5ms // COME CREARE UN FILTRO CON TESTO IN MENO DI 3 MN SPARK AR  TUTORIAL GUIDA ITALIANO
 BsJsAqhB6ec // COME COLORARE I CAPELLI CON SPARK AR PER UN FILTRO INSTAGRAM
 
 # SPSDesign
@@ -112,6 +112,7 @@ BsJsAqhB6ec // COME COLORARE I CAPELLI CON SPARK AR PER UN FILTRO INSTAGRAM
 # Tia Mooseca
 4VewdzP_oso // CREARE FILTRI INSTAGRAM IN MENO DI 3 MINUTI!!
 Xzf3jS6WxmU // CREARE FILTRI INSTAGRAM CON DOMANDA e RISPOSTE CASUALI IN 5 MINUTI!!
+rVQWGhrFjhc // CREARE FILTRI INSTAGRAM CON OGGETTI 3D IN 3 MINUTI!!
 
 # TravellÆrt
 pGQMZteCVD0 // CREA il tuo FILTRO IG in meno di 10 MINUTI! - Basi di Spark AR

@@ -100,6 +100,7 @@ def main():
         return
 
     langs = config.site_config.languages
+    skip_lang = []
     for lang in langs:
         if lang in skip_lang:
             print("Skip fetching %s" % lang)

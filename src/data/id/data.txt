@@ -51,6 +51,7 @@ HwJVgQtOjac // Cara bikin Instagram story filter untuk 2 orang (Track 2 faces) S
 # db
 _7SzODxAxps // Cara buat Color Filter Blue Cyan Orange Teal Instagram dengan Spark AR Studio & Photoshop
 r9MOz_LoWOs // Efisiensi Texture Spark AR Studio. "SIMPLE Animation Sequence"
+tVKkb8MzlWg // Cara buat Filter Polaroid Instagram dan FB dengan Spark AR Studio. Bag 1
 
 # Dedi Rosalam
 adlRj06Sjnk // Tutorial Membuat Filter Instagram Lengkap Dan Cara Menguploudnya
@@ -75,6 +76,7 @@ R3o8pJhxdJ8 // Bikin filter instagram serba Pink Lucu 😂 | Spark AR Studio Ind
 esGnkbpdCks // Filter makeup instagram + cara deteksi 2 wajah di spark ar | tutorial spark ar indonesia
 tO6BSEHXjSo // Filter Instagram Typography ala ala Kutipan NKTCHI | Spark AR Tutorial Indonesia
 jPdsa6VCOBI // Membuat gerakan objek filter instagram lebih halus, spark ar tutorial indonesia
+TBFKWsq7mrg // Cara merubah posisi,ukuran,rotasi objek pada filter instagram | spark ar tutorial indonesia
 
 # Eyss Channel
 UTuew30eeKA // SPARK AR TUTORIAL | CARA MEMBUAT FILTER INSTAGRAM STORY DARI PRESET LIGHTROOM
@@ -121,6 +123,9 @@ haLMG1EKMcs // Cara Membuat Filter Instagram Objek Berputar di Kepala
 ocfWlyPYUuI // Cara Membuat Augmented Reality Target Tracker Dengan Spark AR
 Abt7EP1w4vA // Cara Menambahkan Video Preview Lain di Spark AR
 
+# Fauzan Mufid
+07rlorSr978 // CARA MENGAKALI FILTER TYPOGRAPHY INSTAGRAM (DIJAMIN LOLOS)
+
 # ftr.
 aHJXyLVm7aE // Cara Membuat Filter Instagram 3DLuts Sendiri Dengan Spark Ar - Tutorial Spark Ar Indonesia
 
@@ -132,7 +137,7 @@ KKlAFNym2d8 // TUTORIAL SPARK AR STUDIO : BIKIN FILTER INSTA STORIES SENDIRI
 
 # Itsmaera
 4I1T5jzXIm0 // Cara membuat filter instagram ! Spark AR tergampang
-95zt5PM7L0w // CARA MEMBUAT FILTER INSTAGRAM PAKAI HP ! PART 2
+95zt5PM7L0w // CARA MEMBUAT FILTER INSTAGRAM PAKAI HP ! FILTER WAJAH
 
 # ivanchndraa
 OyZusSNlkJU // TUTORIAL MEMBUAT FILTER INSTAGRAM GAMPANG PART 1
@@ -174,7 +179,7 @@ PeXVVSvT_Bw // Dust Effect - Cara Membuat Filter Instagram Mengunakan HP Tergamp
 TXrOUuz91c4 // Face Distortion - Cara Buat Wajah Jadi Chubby Dengan Spark Ar
 17yDhXECl_U // Border Radius - Cara Membuat Filter Instagram Dengan Mudah
 8ncLObDlnoU // Cara Buat Filter Instagram Scan Wajah - Spark Ar Tutorial
-zkmDZ13cTEU // Cara Membuat Filter Warna Instagram PART #2 Dan Bagi - Bagi Lut Gratis | Spark Ar Tutorial
+zkmDZ13cTEU // Cara Membuat Filter Instagram Story PART #2 Dan Bagi - Bagi Lut Gratis | Spark Ar Tutorial
 
 # Muhammad Iqbal Al-Faruq
 zQjVJrhZg0w // CARA MEMBUAT EFEK INSATGARM DI ANDROID !!!
