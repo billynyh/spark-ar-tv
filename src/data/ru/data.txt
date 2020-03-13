@@ -185,6 +185,7 @@ laivaNp_bVg // Spark AR studio урок СКАНЕР ЛИЦА/ tutorials  face 
 ggz6GuIRXDE // Spark AR studio урок СИСТЕМА ЧАСТИЦ НАД ГОЛОВОЙ-БАБОЧКИ/ tutorials  particles butterflies overhead
 DSw6ck06_2k // Spark AR studio  урок ПРЕСЕТ РЕТУШЬ и МАКИЯЖ/ tutorials filter retouch makeup
 T4gETBpv_j8 // Spark AR studio  урок маска КОЛЛАЖ/ tutorials collage mask
+qr5Kt6pMhSk // Spark AR studio  урок ЯРКИЙ ГЛИТТЕР НА БЕЛОМ/ glitter segmentation on white
 
 # DreamMakers
 NcSm8KAluEY // Как создавать свои маски в Instagram?
@@ -606,6 +607,7 @@ EFX5610o2Js // Как сделать салют/частицы в маске Р�
 YIKywdWKNn0 // Создатель масок в Инстаграм, Ч.2 - С чего начать? Как найти первый заказ?
 VDUzZWXaGPI // Как загрузить маску в Инстаграм через Facebook
 JRO-ReGTxGc // Как сделать свой зрачок глаза (линзу) для маски инстаграм в Spark AR
+edcCByAcpTI // Как сделать полноценный фильтр Kira Kira / Глиттер в Spark AR
 
 # Виктория Прежняя
 zYPMEIKNi9E // Знакомство с SPARK AR

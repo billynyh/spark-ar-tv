@@ -192,6 +192,7 @@ ObSC4KO3F24 // Spark AR Random e Visible
 Y10OoaDTIiE // Spark AR Fade-in e Fade-out de forma FÁCIL no seu LUT!
 1pV8m1BhMw4 // Spark AR Efeito de granulação e chuvisco!
 a9fMxrfgbI4 // Spark AR Criando frase na cabeça para Instagram (NEW)!
+Wrmcq4HtmNM // Spark AR Criar efeito Desfoque Gaussiano e Direcional!
 
 # Studio Haus
 hqF3jLYGtC0 // Tutorial SPARK AR Studio - Fontes Externas
