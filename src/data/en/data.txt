@@ -155,6 +155,9 @@ RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONES
 B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER GRAIN/DUST EFFECT DI SPARK AR STUDIO
 8Gk515ye24I // MEMBUAT FILTER MAKE UP DENGAN SPARK AR
 
+# Chris Joy Quiamco
+CUGP1VxmmaQ // Doodle Instagram Camera Effect SparkAR
+
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
 
@@ -342,6 +345,7 @@ qoJEBA2Jh-M // CHANGE EYE COLOR for INSTAGRAM / SPARK AR tutorials
 PcF92LnOOXc // What character are you? / QUIZ Effect Spark AR  / What are you?
 jlH63vvyFK8 // RANDOM MEME FILTER for Instagram / SPARK AR TUTORIALs Image Sequence
 QRSmiPnNsU8 // GLITTER /  KIRA KIRA / SPARKLE effect in Spark AR studio
+AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -433,6 +437,7 @@ O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
 WECBaYICiPo // Spark AR: Maru Studio 2019 Recap
 QDpAMDe4UU8 // Spark AR Tutorial: Create GLITCH TEXT with Random Patch
 Xq7b5j6QrCo // Spark AR tutorial: Create "Mood of the Day" filter with Dynamic Text & Custom Font
+05Y44gE_eds // Spark AR hackathon 2020: Monster Escape (AR game filter)  | Maru.studio x Rbkavin
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -520,6 +525,7 @@ sr4lLqU4FJ4 // Multiple Material for single object in code || Spark AR || Instar
 Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+LP-uEQ3Tlxg // Spark AR hackathon 2020: Monster Escape (AR game filter) | Maru.studio x Rbkavin
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -661,6 +667,7 @@ iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tuto
 lVmsTiwF8KY // Animation and reacting to smile and gestures tutorial - Spark AR Studio
 b22ootdy2cw // Black and white effect in Spark AR Studio - tutorial
 uR-JQUQGsak // Create a timer for Spark AR Studio - download project and full tutorial
+t7gQK2vKeHY // Create a 3d crown in Spark AR - tutorial and materials
 
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)
