@@ -128,7 +128,7 @@
       {
         "title": "Audio",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/audio.html",
-        "video_count": 28
+        "video_count": 29
       },
       {
         "title": "Basic JS script",
@@ -143,7 +143,7 @@
       {
         "title": "Color Sampler",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/color-sampler.html",
-        "video_count": 2
+        "video_count": 3
       },
       {
         "title": "Date and time",
@@ -153,7 +153,7 @@
       {
         "title": "Edge detection / KiraKira",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/edge-detection-kirakira.html",
-        "video_count": 18
+        "video_count": 20
       },
       {
         "title": "Eyelashes",
@@ -435,9 +435,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-03-09.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/CUGP1VxmmaQ/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/01TKkjZ8xxI/hqdefault.jpg",
       "title": "Week 2020-03-09",
-      "meta1": "Num videos: 66",
+      "meta1": "Num videos: 77",
       "meta2": null
     },
     {

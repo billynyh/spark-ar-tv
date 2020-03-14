@@ -102,6 +102,7 @@ SY2fy_7ifes // Spark AR Import Failed | Failed to Import Audio
 RXjpLSh4TK4 // Spark AR Studio ses çalışmıyor, müzik çalmıyor | Spark AR audio not working
 DXH0GZYW2LE // Trigger a sound with a random value! SPARK AR
 MrxG36zOGss // Spark AR Studio - Integrando audio en nuestros efectos. Guía definitiva
+AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
@@ -152,6 +153,7 @@ esGnkbpdCks // Filter makeup instagram + cara deteksi 2 wajah di spark ar | tuto
 # Color Sampler
 vPuObKf-55I // Chromakey in Spark AR
 WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Tutorial
+A6MtXGuVTuM // Filtro com paleta de cores, tutorial - Spark Ar para Iniciantes #23
 
 # Date and time
 ZmIoWlVN_m0 // Date & Time in Spark AR
@@ -179,6 +181,8 @@ nK1I-HutyFg // КАК СДЕЛАТЬ RETOUCH+Глиттер, KIRA/Spark AR
 L5_lTMz1-Nw // Как сделать маску инстаграм Кира Кира. Уроки Spark AR Studio
 9m5-HaVZpWs // Новая Kira-Kira с разнымы блестками - New Kira-Kira Glitter More Shine Ar Studio Spark Lesson
 IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" BY PIOTAR BOA #sparkarstudio
+edcCByAcpTI // Как сделать полноценный фильтр Kira Kira / Глиттер в Spark AR
+qr5Kt6pMhSk // Spark AR studio  урок ЯРКИЙ ГЛИТТЕР НА БЕЛОМ/ glitter segmentation on white
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
