@@ -1,3 +1,14 @@
 <%inherit file="base.html" />
 
+% if title:
+<div class="row">
+<div class="col-12 vid-col">
+  <h3>${title}</h3>
+</div>
+</div>
+% endif
+
+% if featured:
+<%include file="_group.html" args="group=featured, video_data=site.video_data" />
+% endif
 <%include file="_group.html" args="group=topic, video_data=site.video_data" />

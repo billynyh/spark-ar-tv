@@ -6,13 +6,14 @@ import os.path
 
 import config_factory
 import site_config
-from lib.html_helper import HtmlHelper
+from lib import data_loader
 from lib import json_helper
 from lib import sitemap_helper
 from lib import util
 from lib import yt_api_util
 from lib.api import ApiDataLoader
 from lib.data_loader import *
+from lib.html_helper import HtmlHelper
 from lib.model import SiteConfig, PageConfig, Site
 from multiprocessing import Pool
 
@@ -78,7 +79,17 @@ def topic_pages(site, config):
         else:
             page_config.og_image = util.get_logo_url(config)
 
-        pages.append((path, html_helper.gen_topic_html(site, page_config, topic)))
+        featured = None
+        title = None
+        if len(topic.ids) > 12:
+            title = topic.title
+            featured_ids = data_loader.sort_by_view_count(topic.ids, site.video_data)
+            featured = Group("Featured", featured_ids[:6])
+            topic = Group("All videos", topic.ids)
+        pages.append((
+            path, 
+            html_helper.gen_topic_html(
+                site, page_config, topic, featured, title)))
     return pages
 
 def facebook_pages(site, config):

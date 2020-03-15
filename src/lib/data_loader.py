@@ -180,6 +180,9 @@ def group_by_week(video_data):
 def sort_by_num_videos(groups):
     return sorted(groups, key = lambda group: -len(group.ids))
 
+def sort_by_view_count(ids, video_data):
+    return sorted(ids, key=lambda id: -int(video_data[id].view_count))
+
 def load_site_data(config, path, video_cache, merge_small_groups = True):
     api_key = config.api_key
     ph = PathHelper(path)

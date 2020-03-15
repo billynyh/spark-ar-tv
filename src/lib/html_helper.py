@@ -82,12 +82,14 @@ class HtmlHelper:
             page = page,
             large_thumb = True)
         
-    def gen_topic_html(self, site, page, topic):
+    def gen_topic_html(self, site, page, topic, featured, title = None):
         t = self.get_template('topic.html')
         return self.render(t, 
             site = site,
             page = page,
             topic = topic,
+            featured = featured,
+            title = title,
             large_thumb = large_thumb(topic.ids))
 
     def gen_single_channel_html(self, site, page, group):
