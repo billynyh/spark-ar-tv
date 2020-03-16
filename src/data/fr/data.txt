@@ -11,9 +11,7 @@ LBcaPikm9QQ // Spark AR Studio Tutoriel - Patch Editor : Comment faire une rotat
 cn_trVLLzls // Spark AR Studio Tutoriel en Français - Comment régler le problème des Layers ?
 y8VK_EOVN08 // Spark AR Studio Tutoriel - Patch Editor : Comment avoir 5 Options de Couleurs ?
 TIreWvuBhvo // Spark AR Studio Tutoriel - Comment créer une Lumière ?
-V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
 SFvZpLWuvyg // Spark AR Studio Tutoriel - Comment créer une Image Normal Map ? en Français
-AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spark AR  ?
 uUruWQMUXsE // Spark AR Studio Tutoriel Video - Comment créer une Animation 2D ? en Français
 
 # Solène DRN

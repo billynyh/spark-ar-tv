@@ -24,7 +24,7 @@ def dump_groups_details(groups, video_data):
         for x in ids:
             v = video_data[x]
             view_count = int(v.view_count)
-            thresold = 100
+            thresold = 50
             if view_count > thresold:
                 print("%s // %s | %s" % (v.id, v.title, v.view_count))
                 #print("%s %s\n%s\n" % (v.title, v.channel_title, v.video_url))
