@@ -140,6 +140,7 @@ tlos76Nm_nE // Spark AR - Random Image Sequence & Segmentation | Part IV (EN cap
 _upid8B310Y // Display Land - Photogrammetry to Spark AR, Unity, Mixamo, Sketchfab
 OhJzmaJ7c5Q // Spark AR Tutorial - 360 Video sphere | Optimized texture
 M8za25yDt24 // AR foundation Face Tracking ¿Spark AR es mejor?
+y7wxh4TMiI4 // Spark AR - Target Tracker Portal Occlusion | Display Land
 
 # Eric sin k
 c6ndYPE_vXk // Filtros de Instagram en corto / creo que es un tutorial.
