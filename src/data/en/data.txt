@@ -197,6 +197,7 @@ RQnPuvJb8bk // KIRA KIRA SPARK AR
 aPj652PPzQE // Step Gradient Patch
 qoMGTHiZnc0 // Spark AR Lut Retouch Dust
 6MzPAp1HJEQ // Spark ar Native Ui Picker and Slider
+Y5FUFY6RyQE // Average Face Tone Spark AR
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -474,6 +475,7 @@ IqDtJ61BIVA // Value to Text: Spark AR Studio - Script to Patch Bridging
 pD3vHi4Nnsk // Emoji Face Slider: Spark AR Studio Project Structure Example
 npk38VlKZ8c // Bend Object: Spark AR Studio and Blender - Intro Model Rigging and Procedural Animation Tutorial
 WKRGMvErKfg // How I Turned My 3-year-old's Art into an AR World with Spark AR Studio
+xAa27KTNs2I // Drag Multiple 2D Objects: Spark AR Studio Tutorial
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
