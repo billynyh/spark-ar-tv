@@ -205,10 +205,12 @@ def load_site_data(config, path, video_cache, merge_small_groups = True):
     print("Num of videos: %s" % len(all_youtube_ids))
 
     video_data = load_video_data(all_youtube_ids, video_cache, api_key)
+    videos_by_time = Group("All videos", sort_video_ids_by_time(all_youtube_ids, video_data))
 
     # merge and sort
     groups_by_num_videos = sort_by_num_videos(groups) 
     groups = process_groups(groups, video_data, merge_small_groups)
+
 
     site = Site()
     site.groups = groups
@@ -218,6 +220,7 @@ def load_site_data(config, path, video_cache, merge_small_groups = True):
     site.groups_by_week = group_by_week(video_data)
     site.groups_by_day = group_by_day(video_data)
     site.groups_by_num_videos = groups_by_num_videos
+    site.videos_by_time = videos_by_time
     site.num_videos = len(all_youtube_ids)
     return site
 

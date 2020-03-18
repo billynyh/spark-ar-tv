@@ -18,11 +18,18 @@ else:
 %endif
 
 <%
-if full:
-    groups = site.groups_by_week
+num_videos = len(site.video_data)
+has_more = False
+if num_videos > 30:
+    if full:
+        groups = site.groups_by_week
+    else:
+        groups = site.groups_by_week[:GROUPS_TO_SHOW]
+        has_more = len(site.groups_by_week) > GROUPS_TO_SHOW
 else:
-    groups = site.groups_by_week[:GROUPS_TO_SHOW]
-has_more = len(site.groups_by_week) > GROUPS_TO_SHOW
+    groups = [site.videos_by_time]
+endif
+
 %>
 <%include file="_groups.html" args="site=site,groups=groups,link_to_day=False,link_to_week=True" />
 
