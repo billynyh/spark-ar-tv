@@ -173,6 +173,9 @@ aeGMoyGdD8k // Create an Instagram Filter | Beginner Spark AR Tutorial | Guess M
 # Dhaiwat Pandya
 RE3PDHVDyNU // Spark AR - Which Barça player are you filter demo
 
+# Dirk de Jong
+HVVI3UewIL4 // Spark AR Native UI slider to patch editor
+
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
@@ -198,6 +201,7 @@ aPj652PPzQE // Step Gradient Patch
 qoMGTHiZnc0 // Spark AR Lut Retouch Dust
 6MzPAp1HJEQ // Spark ar Native Ui Picker and Slider
 Y5FUFY6RyQE // Average Face Tone Spark AR
+kYyHxMFV7ko // How to add Shadow Frame in Spark AR
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -316,6 +320,7 @@ Mtgwi0NO3Ho // Motion blur in Spark AR
 8iGdg0CloUE // Advanced Blur Demo
 xl7AyJnrz7I // Directional Blur Update: Clarity
 tX2uyytflM4 // Fit textures into rectangles in Spark AR
+QE_4YmwNt2o // 2D Face Tracking in Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -648,6 +653,8 @@ ptq6MCKEl9k // Multiple Faces in Spark Ar - Part 5. Несколько лиц в
 bAuluN90Ag8 // How to upload/submit filter to Instagram using Spark Ar - Part 6. Загрузить фильтр в инстаграм
 --_rjCy38TA // Vol.1 - Color changing filter(Spark Ar) - Part 7. Смена цвета фильтров в Спарк Ар
 AbLQtJLuVsA // Using emitter in Spark Ar - Part 8. Фильтр в Спарке
+Rbtps0OWo_U // Multiple custom instructions in Spark Ar - Part 9. Пользовательские инструкции
+uSxvFydMxO4 // Vol. 2 Color Changing Filter(LUTs) in Spark Ar - Part 10. Изменение цвета в Спарк
 
 # Sunshine in My Code
 E_7vchBipEk // Instagram Filters made using SparkAR | Beginner friendly | SUNSHINE IN MY CODE
