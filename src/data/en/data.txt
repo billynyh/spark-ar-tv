@@ -14,6 +14,9 @@ bJzlzjUM0iw // How to make a Calculator Filter in Sparkar | Love | Devil | Goodn
 0aWK8mXwBwM // Occluder Planes SparkAR Tutorial
 3YY9wbp3W8c // My Instagram face filters
 
+# Alex McKelvey
+HJwPrpZM4QQ // The 'Not Basic' Spark AR Basics Tutorial
+
 # AlwaysCoding Something
 gxQHNpwte3c // How to reduce polygon count of a 3D model in Blender 2.8 for SparkAR
 5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
@@ -47,6 +50,10 @@ MP0bdsdloSc // Spark AR Lesson 12 - Delay, Unpack & Pack Patches to Create an In
 2f3zZjUwUqo // How to Create Glitter Makeup Effect in Spark AR Studio for Instagram & Facebook?
 mMbjtUSdktI // How to Make Glittery Lip Gloss Makeup Filter in Spark AR Studio?
 ffjO_j3Bfmw // How to Create Eye Color Changer Instagram Filter in Spark AR Studio?
+wQ6K4HUjXUc // Spark AR v84: Eye Color Changer Template - How to use it?
+-DFlx4T4wBU // Spark AR: Dynamic Eye Color Change Animation using Template & Patch Editor
+ZWzgMAdT5CE // 'HOLLYWOOD' (Popcorn Head) Instagram filter - AR Creator Insight (Spark AR Studio)
+XfZEE-WioDU // Spark AR Studio BLOCKS Feature: How to Use It and Why?
 
 # AR with Renu
 TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
