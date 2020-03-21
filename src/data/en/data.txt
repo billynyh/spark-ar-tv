@@ -669,6 +669,7 @@ Rbtps0OWo_U // Multiple custom instructions in Spark Ar - Part 9. Пользов
 uSxvFydMxO4 // Vol. 2 Color Changing Filter(LUTs) in Spark Ar - Part 10. Изменение цвета в Спарк
 nWKUW9EmWaY // 3d animation in Spark Ar - Part 11. 3d анимация. Loop animation, transition
 BpbBFr8_peg // Particular System(emitter) in SparkAr. Система в Спарк. Filter Spark Ar
+6QKvEpuiM48 // Glitch effect in SparkAr - part 12. Глитч эффект фильтр для инстаграма.
 
 # Sunshine in My Code
 E_7vchBipEk // Instagram Filters made using SparkAR | Beginner friendly | SUNSHINE IN MY CODE
