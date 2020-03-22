@@ -133,6 +133,7 @@ nMsNpcIKaf4 // Kenapa Suara Filter Spark AR Ketika Rekaman Tidak Terdengar
 haLMG1EKMcs // Cara Membuat Filter Instagram Objek Berputar di Kepala
 ocfWlyPYUuI // Cara Membuat Augmented Reality Target Tracker Dengan Spark AR
 Abt7EP1w4vA // Cara Menambahkan Video Preview Lain di Spark AR
+tJdlnZRw5VY // Review Game Ular Tangga Yang Dibuat Menggunakan Spark AR
 
 # Fauzan Mufid
 07rlorSr978 // CARA MENGAKALI FILTER TYPOGRAPHY INSTAGRAM (DIJAMIN LOLOS)
@@ -172,6 +173,7 @@ mH-1KzCJyZk // Cara membuat filter Instagram tanggal dan waktu (Typography) | Sp
 gX0ydfvWGLs // Cara Membuat Filter yang Berubah kalo di Tap (SCREEN TAP) | Tutorial Spark AR Indonesia
 yof6Bz2TpiQ // Cara Membuat Filter Dust/Debu/Grain di Instagram | Tutorial Spark AR Indonesia
 4mN85Uj-sjc // Cara membuat filter Instagram A6 (Kacamata + Emoji) | Tutorial Spark AR Indonesia
+cr-MFP_sbNo // ADA TEMPLATENYA! Cara membuat filter kacamata & emoji + cara menambahkan LUT | Spark AR Indonesia
 
 # Karisah Salim
 V8D-Vl4bpQo // How to make Instagram filter (from Lightroom!) Indonesia. | KSHARING
@@ -251,6 +253,9 @@ QrnK3Slzlts // TUTORIAL SPARK AR STUDIO MEMBUAT INTERAKSI OBJEK 3D
 # Rezkymndr
 rAE6OWNpIxY // MEMBUAT FILTER TYPOGRAPH INSTAGRAM DAN CARA UPLOAD - TUTORIAL SPARK AR
 
+# RN Creative
+-QimGTqAnOs // Cara membuat filter instagram seperti A6 / Clout dengan emoji & efek luts
+
 # Roni Immanuel
 wTNJJkYzjJg // Update Terbaru Spark AR Studio v78 1 Bahasa Indonesia
 E4U1hsMp21M // Spark AR Menambahkan Efek Physics kedalam 3D Object Bahasa Indonesia
@@ -260,6 +265,7 @@ QRXWuAXwqkQ // Spark AR Sistem Score Game Bahasa Indonesia
 tVduBSwGoJc // Spark AR Sistem Score Game Versi 2 Bahasa Indonesia
 
 # Rudi Rahman
+W_8J4qQXWko // MAFIA MASKER | VIRUS CORONA DAN PRIVASI PASIEN CORONA
 TqWNn9O31iM // CARA MUDAH MEMBUAT FILTER WHICH ARE YOU INSTAGRAM & PATCH EDITOR
 
 # Rudy Anwar
@@ -332,6 +338,9 @@ VyVNUos5UL8 // Cara Membuat Efek Glitch | Spark AR Indonesia
 
 # Trisky Febrianz
 NgCu1tgc6t8 // MUDAH BGT !!!! CARA MEMBUAT FILTER / EFEK INSTAGRAM STORY BUNGA BUNGA !!!
+
+# VolanceId
+kZRhZKya-Q0 // GAMPANG DAN SIMPEL! Membuat Filter Instagram dan Screen Tap Muncul Efek Beauty | Tutorial Spark AR
 
 # xxznif
 kqfK7aQcC_8 // cara buat filter instagram sendiri ( spark ar studio part I )

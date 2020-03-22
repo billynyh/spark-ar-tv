@@ -565,6 +565,7 @@ Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object 
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
 V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
 AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spark AR  ?
+1cEAhjxp-gI // How To Make Gold ? (UPDATE) - Spark AR Studio
 
 # Rod Antunes
 DHHPMBa8B6E // Spark Ar Blink Game
@@ -670,6 +671,8 @@ uSxvFydMxO4 // Vol. 2 Color Changing Filter(LUTs) in Spark Ar - Part 10. Изм�
 nWKUW9EmWaY // 3d animation in Spark Ar - Part 11. 3d анимация. Loop animation, transition
 BpbBFr8_peg // Particular System(emitter) in SparkAr. Система в Спарк. Filter Spark Ar
 6QKvEpuiM48 // Glitch effect in SparkAr - part 12. Глитч эффект фильтр для инстаграма.
+gWV-TI9Ywdw // Glitch effect in SparkAr - Part 13.1. Глитч эффект для инстаграма. Фильтр. СпаркАр.
+hrWZTLafVR8 // Glitch Effect in Spark Ar - Part 13.2. Глитч эффект для Инстаграм. Фильтр для СпаркАр.
 
 # Sunshine in My Code
 E_7vchBipEk // Instagram Filters made using SparkAR | Beginner friendly | SUNSHINE IN MY CODE

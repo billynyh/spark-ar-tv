@@ -188,7 +188,7 @@ def main():
 
     print("All videos: %s" % len(site.video_data))
 
-    dump_day_stat(site)
+    #dump_day_stat(site)
 
     #dump_top_videos(site)
     #dump_monthly_stat(site.video_data)
