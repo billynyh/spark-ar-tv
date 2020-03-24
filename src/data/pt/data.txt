@@ -116,6 +116,9 @@ BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 # Rauni Tutoriais
 eUqNter3Xrk // Como criar filtro para instagram - Spark Ar Studio
 
+# She's A Rebel
+IIlsQSVSwZY // CRIANDO UM FILTRO DO ZERO! (FILTRO APROVADO EM 3 MIN)
+
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
 abNCZDtc0dA // Instagram Spark AR Texto acima da cabeça
@@ -194,6 +197,7 @@ Y10OoaDTIiE // Spark AR Fade-in e Fade-out de forma FÁCIL no seu LUT!
 a9fMxrfgbI4 // Spark AR Criando frase na cabeça para Instagram (NEW)!
 Wrmcq4HtmNM // Spark AR Criar efeito Desfoque Gaussiano e Direcional!
 VzyngXEe9qI // Spark AR Dynamic Text, Legenda e Data com Lut's
+RVrH40vvrPo // Spark AR Como alterar cor e fonte de Dynamic Text
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
@@ -241,9 +245,6 @@ DNzJHNJ4M-E // Como fazer efeito fade in e fade out  nos seus filtros - Spark Ar
 
 # VA Designer
 VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook
-
-# She's A Rebel
-IIlsQSVSwZY // CRIANDO UM FILTRO DO ZERO! (FILTRO APROVADO EM 3 MIN)
 
 # Zayd
 yAeUgQ1LVjY // COMO FAZER FILTROS PARA O INSTAGRAM STORIES | PARA INICIANTE - SPARK AR STUDIO

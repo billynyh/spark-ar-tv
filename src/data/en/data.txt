@@ -494,6 +494,7 @@ pD3vHi4Nnsk // Emoji Face Slider: Spark AR Studio Project Structure Example
 npk38VlKZ8c // Bend Object: Spark AR Studio and Blender - Intro Model Rigging and Procedural Animation Tutorial
 WKRGMvErKfg // How I Turned My 3-year-old's Art into an AR World with Spark AR Studio
 xAa27KTNs2I // Drag Multiple 2D Objects: Spark AR Studio Tutorial
+KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
@@ -648,6 +649,7 @@ F3hV1ak7swY // HOW TO MAKE YOUR OWN INSTAGRAM FILTER (with Canva)
 # Spark AR Academy Eng
 y3JLWRdNGPQ // How to install Spark AR
 9k0fVkKHBE4 // Lesson 2 - Create your first Instagram mask in 6 min, Spark AR tutorial
+IFs2mdyh8PE // Lesson 3  -Tap to change mask. Spark AR Tutorials. How to change the mask.
 
 # Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
@@ -674,6 +676,9 @@ BpbBFr8_peg // Particular System(emitter) in SparkAr. Система в Спар
 6QKvEpuiM48 // Glitch effect in SparkAr - part 12. Глитч эффект фильтр для инстаграма.
 gWV-TI9Ywdw // Glitch effect in SparkAr - Part 13.1. Глитч эффект для инстаграма. Фильтр. СпаркАр.
 hrWZTLafVR8 // Glitch Effect in Spark Ar - Part 13.2. Глитч эффект для Инстаграм. Фильтр для СпаркАр.
+dOeGm1vUnGA // Randomizer in Spark Ar - Part 14.1. Рандом, фильтр, инстаграм.СпаркАр
+sCB4jIZwyEg // Randomizer in Spark Ar - Part 14.2. Рандом фильтр для инстаграма. Random filter for SparkAr.
+w1Hbz1rHw2w // Introduction for my tutorials, Spark Ar.
 
 # Sunshine in My Code
 E_7vchBipEk // Instagram Filters made using SparkAR | Beginner friendly | SUNSHINE IN MY CODE

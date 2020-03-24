@@ -58,6 +58,7 @@ PfvSEgPXycE // Cara buat Filter Polaroid Instagram dan FB dengan Spark AR Studio
 xr8u3t31hIA // Cara buat filter instagram sendiri. Lengkap sampai upload.
 FOuUOugJ-o4 // Cara buat Natuive UI Picker SPARK AR. Menampilkan Native UI Picker SPARK AR
 LUeVpJZzvAo // Cara buat Face Swap di Spark AR untuk Instagram
+Dc5A67fXQPk // Cara buat efek Face Neon story Instagram dengan SPARK AR
 
 # Dedi Rosalam
 adlRj06Sjnk // Tutorial Membuat Filter Instagram Lengkap Dan Cara Menguploudnya
@@ -67,6 +68,7 @@ iFOHrmu90x8 // Cara buat filter instagram sendiri dengan Lightroom (Spark AR Stu
 
 # DEWA KAWE
 iNWbJ_ajjQA // Cara buat filter instagram sendiri,box logo diwajah | SPARK AR STUDIO
+ygUIHuNQ_jc // Bikin filter instagram txt hari dan waktu part.2
 
 # Emory Tan
 LPMi7ZnloK0 // CARA MEMBUAT EFEK/FILTER INSTAGRAM PT. 1| PAKE LAPTOP KENTANG
@@ -248,13 +250,19 @@ mbzqqgG1BSg // Membuar Filter Instagram Sendiri (Spark AR Tutorial Part 1)
 KrSOrmMhsFw // Cara membuat Filter Efek Pengubah Suara (Spark Ar Studio Part II)
 wTKeKSn3Yyo // Cara membuat filter warna LUT Color (Spark AR indonesia Part III )
 
+# piccha
+MQlwmkIdE6E // TUTORIAL FILTER INSTAGRAM STORY MENGGUNAKAN LIGHTROOM || PICCHA
+
 # Ranger Computer
 QrnK3Slzlts // TUTORIAL SPARK AR STUDIO MEMBUAT INTERAKSI OBJEK 3D
+HGhvtqbpACg // TUTORIAL SPARK AR STUDIO MENAMBAHKAN BACKGROUN DAN PARTIKEL EFEK
+VeKmrdQbC7s // TUTORIAL SPARK AR STUDIO CARA UPLOAD HASIL EFFECT DAN MEMPUBLIKASIKAN KE FACEBOOK ATAU INSTAGRAM
 
 # Rezkymndr
 rAE6OWNpIxY // MEMBUAT FILTER TYPOGRAPH INSTAGRAM DAN CARA UPLOAD - TUTORIAL SPARK AR
 
 # RN Creative
+5788u7G3L-4 // Filter story instagram dengan typography twitter kekinian - Creative Post
 -QimGTqAnOs // Cara membuat filter instagram seperti A6 / Clout dengan emoji & efek luts
 
 # Roni Immanuel
