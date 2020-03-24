@@ -108,6 +108,7 @@ ZmY3cB2uuk4 // Spark Ar Tutorial timelapse - EASY OUTLINE EFFECT using built in 
 -5W-v5RpaIs // Spark AR tutorials - How to add multiple Instructions - Multiple custom instructions in patch editor
 JnuIPqnbkU4 // Spark AR tutorial - Using SDF to distort camera texture - Mandala effect + Gradient - inspiration
 9svDksa80uQ // Spark AR Tutorial - Add CUSTOM external FONT on 2D TEXT! DATE and TIME - MOOD OF THE DAY
+6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla

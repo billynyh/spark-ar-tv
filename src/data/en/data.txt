@@ -714,6 +714,8 @@ lVmsTiwF8KY // Animation and reacting to smile and gestures tutorial - Spark AR 
 b22ootdy2cw // Black and white effect in Spark AR Studio - tutorial
 uR-JQUQGsak // Create a timer for Spark AR Studio - download project and full tutorial
 t7gQK2vKeHY // Create a 3d crown in Spark AR - tutorial and materials
+ZJKNGSLIR7g // How to use patches in Spark AR - Basic tutorial
+s12v_GuCpLg // How to use the transition patch - Spark AR tutorial
 
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)

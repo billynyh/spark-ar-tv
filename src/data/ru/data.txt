@@ -5,6 +5,7 @@ KE1iWmiOrrI // Урок3. Создание пресета. Ольчик_учил
 xr-SvVBB8ts // Урок 4. Создание маски со световыми эффектами. Работа с материалами.
 Qah5VOHHoNE // Урок 5. Искры из глаз. Ольчик училка
 y7twUoR6fi4 // Урок 6. SPARK AR. Добавление 3d объекта. Ольчик училка
+wQ8cXczb5e8 // Урок7. Оптимизация файлов Spark AR. Ольчик училка
 
 # 3d school
 YXCajhL_Pn8 // Урок 1: Как делать крутые маски для инстаграм
@@ -357,6 +358,9 @@ x_wmZOGKCsc // Как создавать маски? | Обзор програм
 # Nina Ryabina
 feopeXROT2Q // Урок 1. Установка программы Spark AR. Интерфейс
 
+# NURISVIEW
+2gnqS-5yKck // КАК СОЗДАТЬ МАСКУ ДЛЯ ИНСТАГРАМА? САМЫЙ ПРОСТОЙ СПОСОБ
+
 # Oleg Khartov
 6UtMnE36rFM // Creating segmentation in Spark AR studio
 YLeZ1901qKI // Creating a glow effect in Spark AR Studio
@@ -379,6 +383,7 @@ IzQzoWxVlGg // СОЗДАЕМ СВОЮ МАСКУ В ИНСТАГРАМ - за 1
 
 # Pavel Rix
 tTUysSJ1Pkw // Как создать свою первую маску для Instagram? Маска за 10 минут | PAVEL RIX
+338iyiPWduc // Как загрузить свою маску в Instagram? Публикуем маску через Spark AR Hub | PAVEL RIX
 
 # poddubn1y
 w-TiZBQEvL8 // КАК БЫСТРО СДЕЛАТЬ МАСКУ В INSTAGRAM.ВИДЕОУРОК ТУТОРИАЛ ДЛЯ НОВИЧКОВ, ИНСТРУКЦИЯ. Windows Photoshop
