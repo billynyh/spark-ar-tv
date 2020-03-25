@@ -109,9 +109,10 @@ def dump_lang_stat(master):
         dup = [item for item, count in collections.Counter(ids).items() if count > 1]
         if len(dup) > 0:
             print(dup)
-        print("%s: %d %d" % (site.lang, num_vid, len(set(ids))))
         stat.append({'lang': site.lang, 'num_videos': num_vid})
     stat = sorted(stat, key = lambda s: -s['num_videos'])
+    for s in stat:
+        print("%s: %d" % (s['lang'], s['num_videos']))
 
     gsite = master.global_site
     for g in (gsite.facebook):
