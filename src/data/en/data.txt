@@ -556,6 +556,9 @@ LP-uEQ3Tlxg // Spark AR hackathon 2020: Monster Escape (AR game filter) | Maru.s
 # Rebekah Read Creative
 rcqHiR0ULx8 // How To Create a Spark AR "What Are You" Instagram Filter
 
+# Riccardo Bosio
+WqkkR9368r0 // Countdown SparkAR Tutorial
+
 # Robbie Conceptuel
 REqpibMDZv4 // Spark AR Studio - Segmentation Tutorial : How To Change Background ?
 CvJt8-naobg // Spark AR Studio - Face Reference Assets Tutorial  : How To Smooth The Edges ?
@@ -679,6 +682,7 @@ hrWZTLafVR8 // Glitch Effect in Spark Ar - Part 13.2. Глитч эффект д
 dOeGm1vUnGA // Randomizer in Spark Ar - Part 14.1. Рандом, фильтр, инстаграм.СпаркАр
 sCB4jIZwyEg // Randomizer in Spark Ar - Part 14.2. Рандом фильтр для инстаграма. Random filter for SparkAr.
 w1Hbz1rHw2w // Introduction for my tutorials, Spark Ar.
+oK-a8gBnwJk // Randomizer+GlitchEffect+Mask in SparkAR - Part 15. Рандом+маски+глитч фильтр для инстаграма.
 
 # Sunshine in My Code
 E_7vchBipEk // Instagram Filters made using SparkAR | Beginner friendly | SUNSHINE IN MY CODE
