@@ -111,17 +111,25 @@ def dump_lang_stat(master):
             print(dup)
         stat.append({'lang': site.lang, 'num_videos': num_vid})
     stat = sorted(stat, key = lambda s: -s['num_videos'])
-    for s in stat:
+    for s in stat[:5]:
         print("%s: %d" % (s['lang'], s['num_videos']))
+    other = 0
+    for s in stat[5:]:
+        other += s['num_videos']
+    print('other: %d' % other)
 
+    num_fb = 0
     gsite = master.global_site
     for g in (gsite.facebook):
         num_vid = len(g.ids)
         total += num_vid
         dup = [item for item, count in collections.Counter(g.ids).items() if count > 1]
-        if len(dup) > 0:
-            print(dup)
-        print("%s: %d %d" % (g.title, num_vid, len(set(g.ids))))
+        #if len(dup) > 0:
+        #    print(dup)
+        #print("%s: %d %d" % (g.title, num_vid, len(set(g.ids))))
+        num_fb += num_vid
+    print('fb: %d' % num_fb)
+
     print("Total: %d" % total)
 
     # find duplicated

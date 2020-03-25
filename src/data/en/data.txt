@@ -330,6 +330,7 @@ xl7AyJnrz7I // Directional Blur Update: Clarity
 tX2uyytflM4 // Fit textures into rectangles in Spark AR
 QE_4YmwNt2o // 2D Face Tracking in Spark AR
 nN3CIi17lnI // Animated Native UI Picker Icons in Spark AR
+9t3lMBq0VIk // Holographic Face Sticker for Spark AR
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
