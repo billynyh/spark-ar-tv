@@ -117,6 +117,7 @@ K1psMf3q3v0 // Spark AR Scripting Bahasa Indonesia | LookAt Function | Spark AR 
 EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску караоке?
 qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
+WqkkR9368r0 // Countdown SparkAR Tutorial
 
 # Beauty / Makeup / Lipstick
 RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouching and Lighting Effect
@@ -151,10 +152,10 @@ YUZdx1wf5E4 // Spark AR Studio Lesson 4: How to Create Makeup Effect?
 esGnkbpdCks // Filter makeup instagram + cara deteksi 2 wajah di spark ar | tutorial spark ar indonesia
 
 # Color Sampler
-https://www.youtube.com/watch?v=KJx0EgFVYqU
 vPuObKf-55I // Chromakey in Spark AR
 WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Tutorial
 A6MtXGuVTuM // Filtro com paleta de cores, tutorial - Spark Ar para Iniciantes #23
+KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio
 
 # Date and time
 ZmIoWlVN_m0 // Date & Time in Spark AR
@@ -186,6 +187,7 @@ KPskW8KwRuE // КАК ДОБАВИТЬ РЕТУШЬ ЛИЦА И ФИЛЬТР К 
 edcCByAcpTI // Как сделать полноценный фильтр Kira Kira / Глиттер в Spark AR
 qr5Kt6pMhSk // Spark AR studio  урок ЯРКИЙ ГЛИТТЕР НА БЕЛОМ/ glitter segmentation on white
 duOB6QUKg1w // КАК СДЕЛАТЬ МАСКУ KIRA-KIRA | DARIA TSVET
+eslt3bb4AUg // Эффект Kira Kira ! Как сделать фильтр с блестками для Instagram. Уроки Spark AR studio.
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -526,6 +528,8 @@ kJvRmXMvtGk // Censor Bar Tap to Change Filter Effect (Patch Editor) | Instagram
 9P2NbVhqj9Y // Change Background Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 D9rEDcY8XE0 // Alternate Layer Material (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 _eYKhKMIiTA // Gradient Colour Filter Effect (Tap Change, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
+ZJKNGSLIR7g // How to use patches in Spark AR - Basic tutorial
+s12v_GuCpLg // How to use the transition patch - Spark AR tutorial
 
 # Plane tracker / Target tracker
 ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
@@ -615,6 +619,8 @@ P6GlszoC2Qw // SDF Creating a Twisting effect - Spark AR
 Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
 k9-uaTfpLPg // Spark AR Emissor de partículas girando e SDF
 LtEeW-BZzzA // Spark AR Como criar o efeito Scanner usando SDF!
+JnuIPqnbkU4 // Spark AR tutorial - Using SDF to distort camera texture - Mandala effect + Gradient - inspiration
+6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
 
 # Scanner / Rader Effect
 bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
@@ -738,7 +744,7 @@ uZ1Y7Dn-baU // Saya Membuat filter instagram typography Disetujui ?! | tutorial 
 AE2Sa2H8Cik // Cara upload filter typography/static text langsung di approve
 
 # Wings / Angel
-https://www.youtube.com/watch?v=Gwf9QbwpIM4
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
 MsaKgHguHXw // Уроки Spark ar Studio. Как сделать маску с крыльями?
 VlWuZDCo8hc // Уроки Spark AR Wings, Аngel. КРЫЛЬЯ И ОБЪЕКТЫ ЗА ЧЕЛОВЕКОМ. Маски в инстаграм
+Gwf9QbwpIM4 // Spark AR - Neck Bending & Person Segmentation | Tutorial Wings Alas
