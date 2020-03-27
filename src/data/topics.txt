@@ -433,6 +433,7 @@ QwcAw3UqshY // NativeUI Picker | Spark AR Studio
 B-kU2HIZ__0 // NativeUI Slider | Spark AR Studio
 yIMuUnvtxMg // Native UI Picker Spark AR turoial indonesia + Project File
 BEYHNvC2ZwU // КАК СДЕЛАТЬ РЕГУЛИРОВКУ В SPARK AR/Native./SLIDER
+ypjbAr2wXHQ // CARA MENAMPILKAN NATIVE UI PICKER UNTUK FACEMESH di Spark AR | spark ar tutorial indonesia
 
 # Neon light
 qKj6tSOolqk // Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación -
@@ -748,3 +749,4 @@ oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando s
 MsaKgHguHXw // Уроки Spark ar Studio. Как сделать маску с крыльями?
 VlWuZDCo8hc // Уроки Spark AR Wings, Аngel. КРЫЛЬЯ И ОБЪЕКТЫ ЗА ЧЕЛОВЕКОМ. Маски в инстаграм
 Gwf9QbwpIM4 // Spark AR - Neck Bending & Person Segmentation | Tutorial Wings Alas
+Bl3wVTw2NxA // How to create angel wings - Spark AR tutorial
