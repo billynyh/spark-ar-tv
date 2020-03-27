@@ -1,3 +1,4 @@
+import json
 from lib.data_loader import *
 from lib import nav_helper
 import config_factory
@@ -96,6 +97,9 @@ def top_video_html(v, rank):
 
 from itertools import chain
 def dump_lang_stat(master):
+    values = []
+    names = []
+
     stat = []
     video_data = master.global_site.video_data
     total = 0
@@ -112,11 +116,16 @@ def dump_lang_stat(master):
         stat.append({'lang': site.lang, 'num_videos': num_vid})
     stat = sorted(stat, key = lambda s: -s['num_videos'])
     for s in stat[:5]:
-        print("%s: %d" % (s['lang'], s['num_videos']))
+        name = nav_helper.lang_display_name(s['lang'])
+        print("%s: %d" % (name, s['num_videos']))
+        values.append(s['num_videos'])
+        names.append(name)
     other = 0
     for s in stat[5:]:
         other += s['num_videos']
     print('other: %d' % other)
+    values.append(other)
+    names.append('Other')
 
     num_fb = 0
     gsite = master.global_site
@@ -129,8 +138,13 @@ def dump_lang_stat(master):
         #print("%s: %d %d" % (g.title, num_vid, len(set(g.ids))))
         num_fb += num_vid
     print('fb: %d' % num_fb)
+    values.append(num_fb)
+    names.append('FB')
 
     print("Total: %d" % total)
+
+    print(json.dumps(values))
+    print(json.dumps(names))
 
     # find duplicated
     for k1, site1 in master.lang_sites.items():
