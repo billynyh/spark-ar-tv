@@ -160,6 +160,8 @@ Sqds53SJfgg // Part 1: How to make a 'What am I?' Effect | Spark AR Studio [Prot
 1TAv2nJFmCU // Part 2: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
 CODvf6JTLOA // Part 3: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
 2Cv5DXh0VaE // Part 4: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
+J_0rOSWVul0 // Target Shooter Planetracking Part 1 Countdown Timer | Spark AR Studio
+rTRyL7zejjo // Target Shooter Planetracking Part 2 Scene Setup | Spark AR Studio
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
@@ -423,9 +425,6 @@ puwLXrjMLGw // Spark AR: Instagram Filters: What _____ Am I? / What _____ Are Yo
 rR_9IEvHsoY // ANIMATION CLIP MASKING TEXT IN CSS
 NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter paint effect | Spark AR Studio Tutorial
 
-# Maker Team
-olxFSTY5P-o // SparkAR Tutorial
-
 # Manav Sharma
 j4NEq_jGVOk // Convert Lightroom Presets to Instagram Filters | Spark AR | Instagram Filters | Spark AR Beginner
 bmNJEstv8C0 // NEON TEXT FILTER IN SPARK AR | Easiest method | Spark Ar Tutorials
@@ -597,6 +596,9 @@ d4N9uyRBC_o // Spark AR Laucnhpad Tutorial
 # Sankalp Parab
 xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasses
 8yJtgp6GuRE // Best Spark AR Mesh Layering | Simple Two ways of layering Techniques
+
+# Science Museum of Virginia
+5-7ZrrigsV4 // SparkAR Tutorial
 
 # Shuripusta ILK
 0i-6OSxfWWI // AR Filters for Instagram - Breakdown - TimeLapse
