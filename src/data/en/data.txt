@@ -162,6 +162,7 @@ CODvf6JTLOA // Part 3: How to make a 'What am I?' Effect | Spark AR Studio [Prot
 2Cv5DXh0VaE // Part 4: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
 J_0rOSWVul0 // Target Shooter Planetracking Part 1 Countdown Timer | Spark AR Studio
 rTRyL7zejjo // Target Shooter Planetracking Part 2 Scene Setup | Spark AR Studio
+A7oJfJoum5k // Target Shooter Planetracking Part 3 Patch Editor 1/2 | Spark AR Studio
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
@@ -182,6 +183,9 @@ rnPA0mnbw5o // Spark AR tutorial for beginners
 
 # Dave Tech Tips
 aeGMoyGdD8k // Create an Instagram Filter | Beginner Spark AR Tutorial | Guess My Age
+
+# Developer Circles Toronto
+Iy1nms6Nbgg // DevC Toronto 2020 March Meetup
 
 # Dhaiwat Pandya
 RE3PDHVDyNU // Spark AR - Which Barça player are you filter demo
@@ -209,12 +213,12 @@ _aQ9N0pOI5w // Spark AR Speaker Event : Spark AR Overview + Interactive Filter W
 43R0J_urrzo // CREATE YOUR INSTAGRAM STORY FILTERS
 
 # effectization studio
-RQnPuvJb8bk // KIRA KIRA SPARK AR
+RQnPuvJb8bk // How to do KIRA KIRA effect SPARK AR | project link in description
 aPj652PPzQE // Step Gradient Patch
-qoMGTHiZnc0 // Spark AR Lut Retouch Dust
-6MzPAp1HJEQ // Spark ar Native Ui Picker and Slider
-Y5FUFY6RyQE // Average Face Tone Spark AR
-kYyHxMFV7ko // How to add Shadow Frame in Spark AR
+qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
+6MzPAp1HJEQ // Spark ar Native Ui Picker and Slider | Spark AR tutorial
+Y5FUFY6RyQE // How to get Average Face Tone Spark AR
+kYyHxMFV7ko // How to add Shadow Frame in Spark AR | Spark AR tutorial
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -383,7 +387,7 @@ TSsNcLFmLw0 // HOW TO CREATE AN INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTRO
 # Liucidity
 pc4isqdbmhQ // Create a face filter from doodle | Beginner Spark AR Tutorial
 
-# Lol & Epic
+# Lol and epic LIT
 l3kcupzw6-w // Epic edit filtering IG / Spark AR , Adobe Photoshop
 
 # Look Ahead Labs
@@ -662,7 +666,7 @@ X5X7tLcc4Vo // Some AR Madness
 F3hV1ak7swY // HOW TO MAKE YOUR OWN INSTAGRAM FILTER (with Canva)
 
 # Spark AR Academy Eng
-y3JLWRdNGPQ // How to install Spark AR
+y3JLWRdNGPQ // Lesson 1 - How to install Spark AR, Spark AR Tutorial
 9k0fVkKHBE4 // Lesson 2 - Create your first Instagram mask in 6 min, Spark AR tutorial
 IFs2mdyh8PE // Lesson 3  -Tap to change mask. Spark AR Tutorials. How to change the mask.
 
@@ -670,14 +674,14 @@ IFs2mdyh8PE // Lesson 3  -Tap to change mask. Spark AR Tutorials. How to change 
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 
 # Steffie Harner ASMR
-6F6qqEQf2QA // SparkAR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
+6F6qqEQf2QA // Spark AR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
 
 # Steven Van
 qz0cuIAHras // How to Make Instagram AR Filters!
 
 # Sultan Bazarbayev
-inHVU49wYQs // Spark Ar Installation/Download - Part 1
-XAW-uEFLupI // Photoshop for Spark AR - Part 2
+inHVU49wYQs // Spark Ar Installation/Download - Part 1. Скачать Спарк Ар для фильтров в инстаграм
+XAW-uEFLupI // Photoshop for Spark AR - Part 2. Фотошоп для СпаркАр. Для чего нужен?
 bDloy59oZpI // Screen Tap in Spark Ar - Part 3. Смена маски по нажатию
 osLHFLOcs3c // Screen Tap and Screen Long Press Tap in Spark Ar - Part 4. Смена маски по нажатию
 ptq6MCKEl9k // Multiple Faces in Spark Ar - Part 5. Несколько лиц в Спарк Ар
@@ -688,13 +692,14 @@ Rbtps0OWo_U // Multiple custom instructions in Spark Ar - Part 9. Пользов
 uSxvFydMxO4 // Vol. 2 Color Changing Filter(LUTs) in Spark Ar - Part 10. Изменение цвета в Спарк
 nWKUW9EmWaY // 3d animation in Spark Ar - Part 11. 3d анимация. Loop animation, transition
 BpbBFr8_peg // Particular System(emitter) in SparkAr. Система в Спарк. Filter Spark Ar
-6QKvEpuiM48 // Glitch effect in SparkAr - part 12. Глитч эффект фильтр для инстаграма.
+6QKvEpuiM48 // Glitch effect in SparkAr - Part 12. Глитч эффект фильтр для инстаграма.
 gWV-TI9Ywdw // Glitch effect in SparkAr - Part 13.1. Глитч эффект для инстаграма. Фильтр. СпаркАр.
-hrWZTLafVR8 // Glitch Effect in Spark Ar - Part 13.2. Глитч эффект для Инстаграм. Фильтр для СпаркАр.
+hrWZTLafVR8 // Glitch Effect in Spark Ar - Part 13.2. Глитч эффект для Инстаграм. Фильтр для СпаркАр. VHS, lut
 dOeGm1vUnGA // Randomizer in Spark Ar - Part 14.1. Рандом, фильтр, инстаграм.СпаркАр
 sCB4jIZwyEg // Randomizer in Spark Ar - Part 14.2. Рандом фильтр для инстаграма. Random filter for SparkAr.
 w1Hbz1rHw2w // Introduction for my tutorials, Spark Ar.
-oK-a8gBnwJk // Randomizer+GlitchEffect+Mask in SparkAR - Part 15. Рандом+маски+глитч фильтр для инстаграма.
+oK-a8gBnwJk // Randomizer+Glitch Effect+Mask in SparkAR - Part 15. Рандом+маски+глитч фильтр для инстаграма.
+8vrUwscC454 // Eyes changing mode in Spark Ar - Part 16. Фильтр для инстаграма. Цвета глаз. Меняются глаза.Eyecolor
 
 # Sunshine in My Code
 E_7vchBipEk // Instagram Filters made using SparkAR | Beginner friendly | SUNSHINE IN MY CODE
@@ -733,6 +738,9 @@ t7gQK2vKeHY // Create a 3d crown in Spark AR - tutorial and materials
 ZJKNGSLIR7g // How to use patches in Spark AR - Basic tutorial
 s12v_GuCpLg // How to use the transition patch - Spark AR tutorial
 Bl3wVTw2NxA // How to create angel wings - Spark AR tutorial
+
+# Underscodes
+kC038NhhvUM // Spark AR tutorial   Face Split effect
 
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)

@@ -38,6 +38,7 @@ xUAFKio7Mdg // Spark AR Studio: come creare una texture viso per filtro Instagra
 
 # Elisa Molteni
 Jcj40MWhi8Q // Fare i FILTRI per INSTAGRAM STORIES
+p80Gi5BvxpU // COME FARE UNA COLOR SPARK AR
 
 # Flavio Rausa
 lA7LPLhlXnk // Filtri Instagram, Spark AR, Realtá aumentata: moda o rivoluzione?
@@ -103,7 +104,7 @@ Or_d5ulXPXI // HOW TO MAKE INSTAGRAM FILTERS - Download free Spark Ar templates 
 CphBxu6XlYg // HOW TO MAKE FILTERS - Aesthetic Frame filter+realtime text-Spark AR Beginners- Free project download
 VHuRAwHxMxM // HOW TO MAKE WHO ARE YOU FILTER EASY IN 3 MINUTES - Spark Ar tutorial - Natived Filters Laboratory
 WKkoCfQbhmA // How to make filters - Clone shader patch for GLITCHY effects! Spark Ar - Natived Filters Laboratory
-7qb7gPW4BII // HOW TO MAKE INSTAGRAM FILTERS - SPARK AR - EASY OUTILNE EFFECT TUTORIAL - Natived Filters Laboratory
+7qb7gPW4BII // HOW TO MAKE INSTAGRAM FILTERS - SPARK AR - EASY EDGE DETECTOR TUTORIAL - Neon outright effect
 LerynHPdjaA // Spark Ar Tutorials: How to fake synch Music to your instagram filters - Natived Filters Laboratory
 R1nBVAUbEM0 // How to make Filters - Creative segmentation - Spark Ar Tips and tricks - Natived Filters Laboratory
 a20kSlcWJYE // HOW TO MAKE A FILTER AND UPLOAD IT ON INSTAGRAM - Spark Ar beginners - Easy tutorial - Free Download
@@ -140,6 +141,7 @@ BsJsAqhB6ec // COME COLORARE I CAPELLI CON SPARK AR PER UN FILTRO INSTAGRAM
 iWD7JA8vg3g // COME PUBBLICARE  O CREARE UNA GIF PER  STORIES INSTAGRAM IN MENO DI 3 MN
 5DWV4NWUVZ8 // CREARE FILTRI PER 2 / 5  FACEMESH E IMPORTARE VIDEO PERSONALIZZATI
 WUE1kCVQ_e8 // IMPORTARE FONT PERSONALIZZATO CON TESTO COLORATO PER FILTRI INSTAGRAM
+9bLAAF-s8Ao // CREARE FILTRO INSTAGRAM CON CANZONE PERSONALIZZATA TUTORIAL ITALIANO GUIDA
 
 # SPSDesign
 6MbqtHRpv2g // SparkAr - VinRuscDay Filter
@@ -149,9 +151,9 @@ MAffIl3LEuE // Primi Passi con Spark AR: Creiamo un filtro Instagram (Parte 1)
 GGv4QqSfg_A // Primi Passi con Spark AR: Creiamo un filtro Instagram (Parte 2)
 
 # Tia Mooseca
-4VewdzP_oso // CREARE FILTRI INSTAGRAM IN MENO DI 3 MINUTI!!
-Xzf3jS6WxmU // CREARE FILTRI INSTAGRAM CON DOMANDA e RISPOSTE CASUALI IN 5 MINUTI!!
-rVQWGhrFjhc // CREARE FILTRI INSTAGRAM CON OGGETTI 3D IN 3 MINUTI!!
+4VewdzP_oso // CREARE FILTRI INSTAGRAM IN 3 MINUTI!! TUTORIAL #1
+Xzf3jS6WxmU // CREARE FILTRI INSTAGRAM CON DOMANDA e RISPOSTE CASUALI IN 5 MINUTI!! TUTORIAL #2
+rVQWGhrFjhc // CREARE FILTRI INSTAGRAM CON OGGETTI 3D IN 3 MINUTI!! TUTORIAL #3
 
 # TravellÆrt
 pGQMZteCVD0 // CREA il tuo FILTRO IG in meno di 10 MINUTI! - Basi di Spark AR
