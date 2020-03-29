@@ -117,6 +117,7 @@ ZmY3cB2uuk4 // Spark Ar Tutorial timelapse - EASY OUTLINE EFFECT using built in 
 JnuIPqnbkU4 // Spark AR tutorial - Using SDF to distort camera texture - Mandala effect + Gradient - inspiration
 9svDksa80uQ // Spark AR Tutorial - Add CUSTOM external FONT on 2D TEXT! DATE and TIME - MOOD OF THE DAY
 6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
+Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
 
 # Paradox
 Ip9WHvtPMz8 // COME CREARE FILTRI PER INSTAGRAM!🔥 – Filtri con color correction.
@@ -142,6 +143,7 @@ iWD7JA8vg3g // COME PUBBLICARE  O CREARE UNA GIF PER  STORIES INSTAGRAM IN MENO 
 5DWV4NWUVZ8 // CREARE FILTRI PER 2 / 5  FACEMESH E IMPORTARE VIDEO PERSONALIZZATI
 WUE1kCVQ_e8 // IMPORTARE FONT PERSONALIZZATO CON TESTO COLORATO PER FILTRI INSTAGRAM
 9bLAAF-s8Ao // CREARE FILTRO INSTAGRAM CON CANZONE PERSONALIZZATA TUTORIAL ITALIANO GUIDA
+4Nq9ByiEoUs // COME CREARE O USARE UN FILTRO PINTEREST
 
 # SPSDesign
 6MbqtHRpv2g // SparkAr - VinRuscDay Filter
