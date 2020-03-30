@@ -47,6 +47,7 @@ xDOnGh-ygXM // How to Stop Animation with Facial Expression in Spark AR [useful 
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
 IAUqD_z6noQ // How to add an Alpha Mask to your Face Mesh in Spark AR
 qvmIsLKAXiw // How to create a mode-of-the-day Filter from facial expressions in Spark AR
+I7uCLe1VEfg // How to Change your Eye Color in SPARK AR
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio
