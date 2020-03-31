@@ -204,6 +204,7 @@ a9fMxrfgbI4 // Spark AR Criando frase na cabeça para Instagram (NEW)!
 Wrmcq4HtmNM // Spark AR Criar efeito Desfoque Gaussiano e Direcional!
 VzyngXEe9qI // Spark AR Dynamic Text, Legenda e Data com Lut's
 RVrH40vvrPo // Spark AR Como alterar cor e fonte de Dynamic Text
+aoLkt3E3xQ8 // Spark AR Criando Efeito de Microfone Parte 1
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
@@ -251,6 +252,9 @@ DNzJHNJ4M-E // Como fazer efeito fade in e fade out  nos seus filtros - Spark Ar
 
 # VA Designer
 VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook
+
+# VICTOR IEMINI
+A9yroQsKGKQ // Crie seu primeiro filtro de instagram | iniciante
 
 # Zayd
 yAeUgQ1LVjY // COMO FAZER FILTROS PARA O INSTAGRAM STORIES | PARA INICIANTE - SPARK AR STUDIO
