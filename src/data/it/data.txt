@@ -121,6 +121,7 @@ JnuIPqnbkU4 // Spark AR tutorial - Using SDF to distort camera texture - Mandala
 9svDksa80uQ // Spark AR Tutorial - Add CUSTOM external FONT on 2D TEXT! DATE and TIME - MOOD OF THE DAY
 6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
+C_DgUv4d3hY // Spark Ar Tutorial beginners  -How to Fill EYES and MOUTH Directly inside Spark AR - No photoshop
 
 # Paradox
 Ip9WHvtPMz8 // COME CREARE FILTRI PER INSTAGRAM!🔥 – Filtri con color correction.

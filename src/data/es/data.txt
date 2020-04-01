@@ -49,6 +49,10 @@ JYOezMX0H1U // Spark AR Studio - Cambio de texturas con NativeUI Picker
 RD3m5XnmRmA // Spark AR Studio - Traducción del Texto editable según geografía del usuario
 aH8_miA4vow // Spark AR Studio - Rectángulos responsivos
 PyPIKezwrF4 // Spark AR Studio. Posicionamiento rectángulos - Re grabado
+_VNFrxTuC5M // Spark AR Studio - Tracking more than one face - Seguir más de un rostro - Muted Version
+MrxG36zOGss // Spark AR Studio - Integrando audio en nuestros efectos. Guía inicial
+iBRJrS15MaY // Spark AR Studio - Switch para ocultar y mostrar elementos de nuestra escena.
+tg_h3Om14-M // Spark AR Studio - Creando un carrete de imágenes PARTE 2
 50h-hdI76yk // Spark AR Studio - Repositorios de Git, para proyectos de Spark AR Studio
 
 # Daim Vazquez
