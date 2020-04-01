@@ -1,6 +1,6 @@
 # 360 background
 UeE7JofnujM // Membuat Filter Instagram 360° - Spark AR Studio [ Tutorial ]
-rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR [ XMas Special 2/3]
+rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR
 QpOLNFk8U4o // Replacing Backgrounds (360° Photos) | Spark AR Studio
 OhJzmaJ7c5Q // Spark AR Tutorial - 360 Video sphere | Optimized texture
 
@@ -62,7 +62,7 @@ cOwnk5XV7T4 // Tutorial: Animating 3D Objects
 iFhYcK732KY // How to do glitter makeup face filter in Spark AR - animation tutorial
 ATV-ZhXEFFE // Animation Sequences The Basics | Bonus Spark AR
 lVmsTiwF8KY // Animation and reacting to smile and gestures tutorial - Spark AR Studio
-HYQ_Kzyygk8 // Spark AR: How to Animate 3D Object (2020 Special)
+HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 lN7isI4isMg // Spark AR - GIF to Sprite Sheet using ImageMagick
 MhBtDil2YEg // สอนทำฟิลเตอร์ IG EP05 : GIF หน้าสองคนขึ้นไป
 Rkbv3W-HtbU // Spark Ar Studio animación hecha en blender objeto 3D 🚀 pruebas ➕ VIDEOS y TUTORIALES 👨‍💻👇
@@ -116,7 +116,7 @@ K1psMf3q3v0 // Spark AR Scripting Bahasa Indonesia | LookAt Function | Spark AR 
 4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску караоке?
 qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
-TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
+TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in SPARK AR)
 WqkkR9368r0 // Countdown SparkAR Tutorial
 
 # Beauty / Makeup / Lipstick
@@ -327,7 +327,7 @@ yuYqagBMhmY // SPARK AR TIPS - How to add Custom Instructions
 
 # Iris tracking
 hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
-MwxctcV2kc4 // HOW TO MAKE INSTAGRAM FILTERS-Easy Tutorial iris tracking on black and white in spark ar v.80+extra
+MwxctcV2kc4 // Spark Ar Tutorial - Easy iris tracking - How to Change eyes color + Extra + Free download
 h72hzXEfjdM // Spark AR - Iris Tracking Instagram Filter
 36kJ6iNKu6I // Spark AR Iris Tracking e trocar cor de olho!
 l5a5fHZIGzM // Eyeball Tracking (Patch Editor) Snake Eye Filter Effect | Instagram & Facebook | Spark AR Tutorial
@@ -459,11 +459,11 @@ doNaxDHp-Gc // Spark AR Tutorial - Occlusion Portal and Hole in the Floor | spar
 4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
 iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH tutorial
 d2zCC3yv5E0 // Tutorial Ativando Efeito ao Abrir a Boca - Spark Ar #9
-idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
-6g5GdU33Eyk // Spark AR Tutorial 3 Useful Mouth Open Patch Ideas (2020 Special)
+idUij9qtHko // SPARK AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
+6g5GdU33Eyk // 3 Useful Mouth Open Patch Ideas for SPARK AR
 hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
 wmQ3tVXafy4 // КАК СДЕЛАТЬ МАСКУ OPEN MOUTH ДЛЯ ИНСТРАГРАМ | DARIA TSVET
-xDOnGh-ygXM // How to Stop Animation with Facial Expression in Spark AR [useful patch for blink, mouth open, etc.]
+xDOnGh-ygXM // How to Stop Animation with Facial Expression in SPARK AR [useful patch for blink, mouth open, etc.]
 
 # Particles
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
@@ -483,7 +483,7 @@ Hr-zfnq8PmA // Tutorial: Creating an Effect with Particles
 4rze2HaOGc8 // Spark AR GIF animation PARTICLES and TAP to TRY IT ON / HALLOWEEN FACE FILTER
 hOL-FZgAYYE // 💁TUTORIAL 2 SPARK AR STUDIO: PARTICLE CHE ESCONO DAGLI OCCHI
 I4pcAew4U2s // Tutorial emissor de partículas  - Spark Ar #8
-idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
+idUij9qtHko // SPARK AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
 28bixY0DgvM // Creating Natural Feeling Particle Systems with Motion Vectors in Spark AR
 iGHpdd_qvUM // 3D Particle Fields in Spark AR
 uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
@@ -501,7 +501,7 @@ ouWXN2BLMkc // Анимация Particle System
 3g7cG0AN-fM // Spark AR Partículas atrás da pessoa!
 EFX5610o2Js // Как сделать салют/частицы в маске Рандомайзер Spark AR
 T18xS9Q1KyU // SPARK AR STUDIO. Маска в Инстаграм. Нимб
-TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
+TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in SPARK AR)
 ggz6GuIRXDE // Spark AR studio урок СИСТЕМА ЧАСТИЦ НАД ГОЛОВОЙ-БАБОЧКИ/ tutorials  particles butterflies overhead
 nomeWk6Ccn0 // Spark AR Lesson 5: Hearts Coming Out from Mouth (Patch Editor, Particle System)
 
@@ -511,7 +511,7 @@ S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
 KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patch Editor
 fj7U27H-B1c // Spark AR: Instagram Filters - Getting Started: Patch Editor
 u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
-idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
+idUij9qtHko // SPARK AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
 EvTyGWdPr0k // Spark AR Studio Tutoriel en Français - Patch Editor  : Comment changer la voix ?
 Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
@@ -620,7 +620,7 @@ P6GlszoC2Qw // SDF Creating a Twisting effect - Spark AR
 Ng6-PHCPNSY // Spark AR Studio - SDF's Operaciones y animaciones con texturas procedimentales
 k9-uaTfpLPg // Spark AR Emissor de partículas girando e SDF
 LtEeW-BZzzA // Spark AR Como criar o efeito Scanner usando SDF!
-JnuIPqnbkU4 // Spark AR tutorial - Using SDF to distort camera texture - Mandala effect + Gradient - inspiration
+JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala effect + Gradient - inspiration
 6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
 
@@ -659,12 +659,12 @@ RPPgZU0szK8 // Spark AR Numeros interativos e Retouch com Segmentação!
 9cRwX5yp-G8 // Glitch Effect in Spark Ar / Фильтр в стиле Глитч для инстаграм / Уроки Spark Ar Studio
 Q1Yh_J43MX0 // Spark AR Criando um contorno com segmentação!
 A3vMevjHJ_I // Урок 26 - Как поменять фон в маске Spark AR. Обводка человека Spark AR. Сегментация Спарк
-rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR [ XMas Special 2/3]
+rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR
 -XA2ZKkuY-Q // Tutorial: Segmentation and the Camera Texture
 YpFfkCftF6U // Spark AR - LUTs + Segmentation
 59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
 9P2NbVhqj9Y // Change Background Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
-MwxctcV2kc4 // HOW TO MAKE INSTAGRAM FILTERS-Easy Tutorial iris tracking on black and white in spark ar v.80+extra
+MwxctcV2kc4 // Spark Ar Tutorial - Easy iris tracking - How to Change eyes color + Extra + Free download
 8U5A9VvlqlE // КАК ПОМЕНЯТЬ ФОН МАСКИ ДЛЯ ИНСТАГРАММ | Маска для Инстаграмм за 5 минут | Маска с анимацией |SonLife
 3g7cG0AN-fM // Spark AR Partículas atrás da pessoa!
 Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
@@ -685,7 +685,7 @@ yrWh6TzXYkg // Function & Composition patches: What do they do?
 Cc-YubBQy-M // Spark AR Novos updates V78 Shaders e Pixelate
 1do5R7UDuxI // Perlin Noise and Distortion in Spark AR
 Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
-h6208mfKuoA // Spark ar - Tutorial easy texture distortion creative using SPARK AR library ONLY in v.78
+h6208mfKuoA // Spark Ar Studio - Tutorial - Easy Camera DISTORTION + RGB shift using SPARK AR Library
 V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
 WKkoCfQbhmA // How to make filters - Clone shader patch for GLITCHY effects! Spark Ar - Natived Filters Laboratory
 Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
@@ -709,7 +709,7 @@ o8yf110GuzQ // СМЕНА МАСКИ по ТАПУ 😍 /Spark AR SCREEN TAP / �
 iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH tutorial
 E9L0uQKwmug // Object Tap + Switch - Spark AR Studio
 4rze2HaOGc8 // Spark AR GIF animation PARTICLES and TAP to TRY IT ON / HALLOWEEN FACE FILTER
-C6OrOpO_LXc // Spark AR Studio Tutorial Tap Option and Switch Option
+C6OrOpO_LXc // Tap Option and Switch Option in SPARK AR
 8u2kY5WJ3Kw // audio with face tracker and screen tap ( spark ar studio part VIII )
 ig8F7OVOrQM // Cara membuat filter efek instagram bisa di Tap / bisa ganti efek | Spark Ar Indo
 kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
@@ -723,7 +723,7 @@ qO-arATN7SM // Eye Colour Tap to Change  (Patch Editor) Filter Effect | Instagra
 bOxiFTY0lR4 // Eye Colour Tap to Change  (Quick Version) Filter Effect | Instagram & Facebook | Spark AR Tutorial
 hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | Instagram/Facebook |Spark AR Tutorial
 1ML_yfDRg6Q // Hero/Villain Mask Tap to Change Filter Effect (Quick Version)| Instagram/Facebook |Spark AR Tutorial
-fgS4iHfpuIA // SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes
+fgS4iHfpuIA // How to Screen Tap Between Face Meshes in SPARK AR
 AKS6m_uxgFI // Создание масок инстаграм. Урок 7 - патчи. Как сделать переключение по нажатию на экран
 
 # Tooling

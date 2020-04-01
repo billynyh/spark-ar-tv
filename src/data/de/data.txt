@@ -31,22 +31,22 @@ uw43wxKDWFw // Instagram Filter Selber machen
 
 # QKnow Design
 AQyLm4d91Yo // Spark AR Studio Halloween-Tutorial [Face Tracker & Material Options]
-C6OrOpO_LXc // Spark AR Studio Tutorial Tap Option and Switch Option
-idUij9qtHko // Spark AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
-xRvPq_Uxja8 // Spark AR Tutorial XMas Special 1/3  [Face Deformation and HeadOcculder]
-rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR [ XMas Special 2/3]
-Gy2rrn2TVS4 // Change your Faceshape in Spark AR without being an 3D Expert [Xmas Special 3/3]
-HYQ_Kzyygk8 // Spark AR: How to Animate 3D Object (2020 Special)
-6g5GdU33Eyk // Spark AR Tutorial 3 Useful Mouth Open Patch Ideas (2020 Special)
+C6OrOpO_LXc // Tap Option and Switch Option in SPARK AR
+idUij9qtHko // SPARK AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
+xRvPq_Uxja8 // Face Deformation and HeadOcculder in SPARK AR
+rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR
+Gy2rrn2TVS4 // Change your Faceshape in Spark AR without being an 3D Expert
+HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
+6g5GdU33Eyk // 3 Useful Mouth Open Patch Ideas for SPARK AR
 UN674uFGwrY // How to Convert any Preset into Instagram Filter [Photoshop/Lightroom/LUT]
-fgS4iHfpuIA // SPARK AR BASIC T!P | How to Screen Tap Between Face Meshes
+fgS4iHfpuIA // How to Screen Tap Between Face Meshes in SPARK AR
 FhTxlMsYEwM // Spark AR Yennefer Look a Like Tutorial [Change your Eyecolor, MakeUp, add 3D Eyelashes]
-37TmTpiT7Xo // Easy Way to Create and Customize 3D Eyelashes in Spark AR !!!No 3D Modeling needed!!!
+37TmTpiT7Xo // Easy Way to Create and Customize 3D Eyelashes in SPARK AR !No 3D Modeling needed!
 NXBZvf8Lu24 // How to Create a Hole Scene in Spar AR Studio [Customize Color, Segmentation, Patch Hacks and more]
-xDOnGh-ygXM // How to Stop Animation with Facial Expression in Spark AR [useful patch for blink, mouth open, etc.]
-TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in Spark AR)
-IAUqD_z6noQ // How to add an Alpha Mask to your Face Mesh in Spark AR
-qvmIsLKAXiw // How to create a mode-of-the-day Filter from facial expressions in Spark AR
+xDOnGh-ygXM // How to Stop Animation with Facial Expression in SPARK AR [useful patch for blink, mouth open, etc.]
+TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in SPARK AR)
+IAUqD_z6noQ // How to add an Alpha Mask to your Face Mesh in SPARK AR
+qvmIsLKAXiw // How to create a mode-of-the-day Filter from facial expressions in SPARK AR
 I7uCLe1VEfg // How to Change your Eye Color in SPARK AR
 
 # Rene Schreiner
