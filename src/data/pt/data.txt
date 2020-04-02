@@ -205,6 +205,7 @@ Wrmcq4HtmNM // Spark AR Criar efeito Desfoque Gaussiano e Direcional!
 VzyngXEe9qI // Spark AR Dynamic Text, Legenda e Data com Lut's
 RVrH40vvrPo // Spark AR Como alterar cor e fonte de Dynamic Text
 aoLkt3E3xQ8 // Spark AR Criando Efeito de Microfone Parte 1
+vOKGkmDocUU // Spark AR Criando Efeito de Microfone Parte 2
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
