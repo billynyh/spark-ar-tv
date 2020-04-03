@@ -121,6 +121,7 @@ JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala
 6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
 C_DgUv4d3hY // Spark Ar Tutorial beginners  -How to Fill EYES and MOUTH Directly inside Spark AR - No photoshop
+mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla
