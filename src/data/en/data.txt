@@ -763,6 +763,7 @@ s12v_GuCpLg // How to use the transition patch - Spark AR tutorial
 Bl3wVTw2NxA // How to create angel wings - Spark AR tutorial
 yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
 ZjL77SX6CfM // Create this weird face filter for Instagram - Spark AR tutorial
+7cFOntKN1qk // 'Which neon animal are you' filter - Spark AR tutorial
 
 # Underscodes
 kC038NhhvUM // Spark AR tutorial   Face Split effect

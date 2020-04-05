@@ -163,6 +163,18 @@ ZmIoWlVN_m0 // Date & Time in Spark AR
 R72a_5lwGIc // Date And Time - Spark Ar Tutorial
 O4GOZQAjHVE // Date And Time - Cara Gampang Buat Filter Stories atau Typography  Spark Ar Tutorial
 13bXUghu39E // SPARK AR TIPS - Changing Text with Scripting (Random Date Picker) Tutorial
+9svDksa80uQ // Spark AR Tutorial - Add CUSTOM external FONT on 2D TEXT! DATE and TIME - MOOD OF THE DAY
+
+# Dust
+-8G-ZHE-gJo // cara buat filter instagram effect debu / dust ( spark ar studio part VII )
+FT5D8oGnnOY // Dust Effect/Effect Debu + Pastel Pink - Spark AR Studio [TUTORIAL]
+iUOpgW5AljI // 【 電商人妻 】Spark AR 濾鏡復古灰塵躁點兩招！dusty effect
+y3uD3Da7TyQ // TUTORIAL MEMBUAT FILTER INSTAGRAM DUST // SPARK AR
+ZIiN-G0oRJM // Tutorial Membuat Filter Dust/Debu | SparkAR Studio | Part 3
+PeXVVSvT_Bw // Dust Effect - Cara Membuat Filter Instagram Mengunakan HP Tergampang Spark Ar Tutorial
+qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
+B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER GRAIN/DUST EFFECT DI SPARK AR STUDIO
+yof6Bz2TpiQ // Cara Membuat Filter Dust/Debu/Grain di Instagram | Tutorial Spark AR Indonesia
 
 # Edge detection / KiraKira
 VbFEAbeGmQc // Edge Detection in Spark AR
@@ -183,6 +195,7 @@ nK1I-HutyFg // КАК СДЕЛАТЬ RETOUCH+Глиттер, KIRA/Spark AR
 L5_lTMz1-Nw // Как сделать маску инстаграм Кира Кира. Уроки Spark AR Studio
 9m5-HaVZpWs // Новая Kira-Kira с разнымы блестками - New Kira-Kira Glitter More Shine Ar Studio Spark Lesson
 IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" BY PIOTAR BOA #sparkarstudio
+ZmY3cB2uuk4 // Spark Ar Tutorial timelapse - FAST AND EASY - OUTLINE EFFECT - EDGE DETECTOR - no scripts needed
 KPskW8KwRuE // КАК ДОБАВИТЬ РЕТУШЬ ЛИЦА И ФИЛЬТР К МАСКЕ GLITTER | DARIA TSVET
 edcCByAcpTI // Как сделать полноценный фильтр Kira Kira / Глиттер в Spark AR
 qr5Kt6pMhSk // Spark AR studio ЯРКИЙ ГЛИТТЕР НА БЕЛОМ/ анимация блеск на белом/glitter segmentation on white
@@ -262,6 +275,10 @@ iRH_VQ_OTEA // TRACK TWO FACES SPARK AR / TRACK MULTIPLE FACES
 d2zCC3yv5E0 // Tutorial Ativando Efeito ao Abrir a Boca - Spark Ar #9
 D9WjrNPj1_A // Spark AR Effect Tutorial: SlinkyCheeks
 gNcpScPtrBU // Spark AR Trocando rosto e usando com 2 pessoas!
+
+# Freckles
+kegd5DCAyYc // Three Minute Freckles Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
+c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio | Fast 4 Minutes Tutorial
 
 # Game
 -r256yKFeos // Spark AR Masterclass: AR and Gaming
@@ -442,8 +459,12 @@ H4JIKO6kexc // Instagram Filter Neon Mask (Basic) - Instagram Filtresi Nasıl Ya
 _eF0PdZpQLE // Spark AR Criando efeito Neon!
 gtGxxAIUqyE // SPARK AR ITA - COME CREARE MASCHERE E FILTRI INSTAGRAM NEON IN SEQUENZA
 YLCrsSXrvYE // Неон, добавление неонового plane и 3D анимация
+7qb7gPW4BII // HOW TO MAKE INSTAGRAM FILTERS - SPARK AR - EASY EDGE DETECTOR TUTORIAL - Neon outline effect
 dGABnufFkvs // Spark AR/ как сделать неоновую маску
 bmNJEstv8C0 // NEON TEXT FILTER IN SPARK AR | Easiest method | Spark Ar Tutorials
+Dc5A67fXQPk // Cara buat efek Face Neon story Instagram dengan SPARK AR
+mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
+7cFOntKN1qk // 'Which neon animal are you' filter - Spark AR tutorial
 
 # Occluder / Occlusion
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -623,6 +644,7 @@ LtEeW-BZzzA // Spark AR Como criar o efeito Scanner usando SDF!
 JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala effect + Gradient - inspiration
 6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
+mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
 
 # Scanner / Rader Effect
 bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders

@@ -64,7 +64,7 @@ def dump_top_videos(site):
     all_ids = sorted(all_ids, key=lambda id: (int(site.video_data[id].view_count)), reverse=True)
 
 
-    excludes = site.music[0].ids + ['rpSSbBqLshg']
+    excludes = [] # site.music[0].ids + ['rpSSbBqLshg']
     rank = 1
     for i in range(20):
         id = all_ids[i]
@@ -75,8 +75,8 @@ def dump_top_videos(site):
         #top_video_html(v, rank)
         rank += 1
 
-        if rank == 6:
-            print('<h2>#6 - #10</h2>')
+        #if rank == 6:
+        #    print('<h2>#6 - #10</h2>')
 
         if rank > 10:
             break
@@ -213,7 +213,7 @@ def main():
 
     #dump_day_stat(site)
 
-    #dump_top_videos(site)
+    dump_top_videos(site)
     #dump_monthly_stat(site.video_data)
     
     #dump_channel_stat(site, site.video_data)

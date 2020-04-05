@@ -104,6 +104,7 @@ ypjbAr2wXHQ // CARA MENAMPILKAN NATIVE UI PICKER UNTUK FACEMESH di Spark AR | sp
 b135gvtrswI // Bikin Filter game Instagram tangkap ayam yang lagi hits wkwk | spark ar tutorial indonesia
 MLmUvrcYCxA // Cara bikin Filter Instagram COLOR PALETTE seperti anime nahir.esper | SPARK AR TUTORIAL INDONESIA
 YfwmpQEHtkk // CARA BIKIN FILTER INSTAGRAM seperti BIYU emacyntiaa | SPARK AR TUTORIAL INDONESIA
+9352RfOIj08 // CARA MENGGERAKAN RECTANGLE DENGAN FACE TRACKER | SPARK AR TUTORIAL INDONESIA
 
 # Eyss Channel
 UTuew30eeKA // SPARK AR TUTORIAL | CARA MEMBUAT FILTER INSTAGRAM STORY DARI PRESET LIGHTROOM
@@ -354,6 +355,7 @@ pMfelSfjQ3c // Softlens - Spark AR Studio ( Tutorial )
 A7zaeHbfEvg // Cara membuat Filter Instagram dari Handphone - Spark AR Studio ( Tutorial )
 dlVWv7XyRLU // Disposable Camera Effect - Spark AR Studio - [ Tutorial ]
 6P0mLuFASd0 // Outline Segmentation - Spark AR Studio [ Tutorial ]
+DtLTMSML-40 // Angkutan Umum (APB) - Spark AR Studio - [ Tutorial ]
 
 # SAY HELLO
 y3uD3Da7TyQ // TUTORIAL MEMBUAT FILTER INSTAGRAM DUST // SPARK AR
@@ -376,15 +378,13 @@ QzaeVcDlogg // Spark AR : Instagram Filters - Cara Membuat Filter Typography Ins
 g083Nq78rRk // Spark AR : Instagram Filters - Cara Menambah Instruksi, Export & Upload Filter Ke Instagram
 MUB9_yPTNb8 // Spark AR : Instagram Filters - Cara Membuat Filter Quotes Ala Ala NKCTHI
 d9XyII6nVQc // Spark AR : Instagram Filters - Cara Membuat Filter Seperti Tentang Stories (@ftchann)
+fO-VpoMvoMo // Spark AR Tutorial : Instagram Filters - Cara Saya Membuat Filter Joker
 
 # Stay Alive
 rsrg5bJ0VwQ // Tutorial membuat filter kutipan kata-kata di instagram | TUTORIAL MEMBUAT FILTER INSTAGRAM SENDIRI
 
 # sugi anto
 hgUNzYEg3Ig // MEMBUAT EFEK DARI GIF UNTUK STORY INSTAGRAN MENGGGUNAKAN SPARK AR STUDIO    II
-
-# The Auctus
-9slq4m2KHFY // Cara Membuat Filter Warna Instagram Story Pakai HP - Tutorial Spark Ar Termudah
 
 # THE RAZAN
 LojGhczG8mo // Cara membuat Filter Instagram menggunakan Preset VSCO termudah | Spark AR Indonesia
@@ -405,6 +405,7 @@ kZRhZKya-Q0 // GAMPANG DAN SIMPEL! Membuat Filter Instagram dan Screen Tap Muncu
 
 # xxznif
 kqfK7aQcC_8 // cara buat filter instagram sendiri ( spark ar studio part I )
+mTG4hxJejlk // cara ganti background filter instagram ( spark ar studio part II )
 iwz6_5vZvT8 // cara buat filter vsco/lightroom ke filter instagram ( spark ar studio part III )
 7XeLGbRa3s4 // cara buat effect filter looping mouth emoticon ( spark ar studio part IV )
 djd19Gj-vWM // cara buat face rotation object, effect filter instagram ( spark ar studio part V )
