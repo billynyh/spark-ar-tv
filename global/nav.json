@@ -444,10 +444,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-06.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/S6Ch2Rey8FE/hqdefault.jpg",
+      "title": "Week 2020-04-06",
+      "meta1": "Num videos: 1",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-03-30.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/fO-VpoMvoMo/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/_EWIkxWJswA/hqdefault.jpg",
       "title": "Week 2020-03-30",
-      "meta1": "Num videos: 85",
+      "meta1": "Num videos: 86",
       "meta2": null
     },
     {
@@ -476,13 +483,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zkmDZ13cTEU/hqdefault.jpg",
       "title": "Week 2020-03-02",
       "meta1": "Num videos: 88",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-02-24.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/IDU3gzzWwaI/hqdefault.jpg",
-      "title": "Week 2020-02-24",
-      "meta1": "Num videos: 49",
       "meta2": null
     }
   ]
