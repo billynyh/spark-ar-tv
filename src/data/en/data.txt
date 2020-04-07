@@ -173,6 +173,8 @@ J_0rOSWVul0 // Target Shooter Planetracking Part 1 Countdown Timer | Spark AR St
 rTRyL7zejjo // Target Shooter Planetracking Part 2 Scene Setup | Spark AR Studio
 A7oJfJoum5k // Target Shooter Planetracking Part 3 Patch Editor 1/2 | Spark AR Studio
 L3GV8ef4dp8 // Target Shooter Planetracking Part 4 Patch Editor 2/2 | Spark AR Studio
+uyzfcOsfgP8 // NativeUI Picker: Part One Script | Spark AR Studio
+VlFRsE4KSJY // NativeUI Picker: Part Two Patch Editor| Spark AR Studio
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
