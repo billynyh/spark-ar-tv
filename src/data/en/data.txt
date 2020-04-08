@@ -64,6 +64,7 @@ TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
 Fl8_1-xl-54 // Spark AR : How To Create A Christmas Filter on Instagram
 QKz_fqW6ExQ // Spark AR : How To Create A Birthday Filter on Instagram
 ZlOCibu1bR8 // How To Use Augmented Reality in E-Commerce
+dH7Uf5Awqd0 // Spark AR Tutorial : Who's More Likely Game Part 1
 
 # Arti Creator
 PvNPegxSRQM // MAKE YOUR OWN INSTAGRAM FILTER IN 5 MINUTES | Spark AR Studio Tutorial
@@ -186,6 +187,9 @@ CUGP1VxmmaQ // Doodle Instagram Camera Effect SparkAR
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
+
+# Colm Hayden
+hPV6cnZM0xw // Aesthetic Spark AR face filter speed paint
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -766,6 +770,7 @@ Bl3wVTw2NxA // How to create angel wings - Spark AR tutorial
 yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
 ZjL77SX6CfM // Create this weird face filter for Instagram - Spark AR tutorial
 7cFOntKN1qk // 'Which neon animal are you' filter - Spark AR tutorial
+JdrvB14rhto // Create this weird face filter for Instagram - Spark AR tutorial
 
 # Underscodes
 kC038NhhvUM // Spark AR tutorial   Face Split effect
