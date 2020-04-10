@@ -21,6 +21,7 @@ LANG_DISPLAY_NAME = {
   'sk': 'Slovak',
   'el': 'Greek',
   'fa': 'Persian',
+  'ko': 'Korean',
   'global': 'All Languages',
 }
 

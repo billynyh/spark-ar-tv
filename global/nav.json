@@ -107,6 +107,11 @@
         "title": "Persian",
         "url": "https://billynyh.github.io/spark-ar-tv/fa/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Korean",
+        "url": "https://billynyh.github.io/spark-ar-tv/ko/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -331,9 +336,9 @@
   "featured_contents": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCh2gFKv1dmrTxmMRgzchmrQ.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/vOKGkmDocUU/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/s95mXdweUcI/hqdefault.jpg",
       "title": "Channel: Spark AR Tutoriais em Portugu\u00eas",
-      "meta1": "Num videos: 80",
+      "meta1": "Num videos: 81",
       "meta2": null
     },
     {
@@ -352,9 +357,9 @@
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/tyd4S9Lwi6U/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/A7zc-Y1ZFQs/hqdefault.jpg",
       "title": "Channel: Emiliusvgs",
-      "meta1": "Num videos: 48",
+      "meta1": "Num videos: 49",
       "meta2": null
     },
     {
@@ -445,9 +450,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-06.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/6wDP-dDJdp8/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/A7zc-Y1ZFQs/hqdefault.jpg",
       "title": "Week 2020-04-06",
-      "meta1": "Num videos: 37",
+      "meta1": "Num videos: 52",
       "meta2": null
     },
     {
