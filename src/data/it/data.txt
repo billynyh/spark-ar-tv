@@ -120,6 +120,7 @@ Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors anima
 C_DgUv4d3hY // Spark Ar Tutorial beginners  -How to Fill EYES and MOUTH Directly inside Spark AR - No photoshop
 mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
 4Ri0VIQ2B1c // Spark Ar Studio Tutorial - How to make Comics / Cartoon effect with Sobel Filter + SDF Animations
+J9HjQUJQljs // Spark Ar Tutorials - Opening RGB Shift Shader patch - GLITCH effect - CHROMATIC ABERRATION Creative
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla

@@ -156,6 +156,7 @@ vPuObKf-55I // Chromakey in Spark AR
 WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Tutorial
 A6MtXGuVTuM // Filtro com paleta de cores, tutorial - Spark Ar #23
 KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio
+yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
 
 # Date and time
 ZmIoWlVN_m0 // Date & Time in Spark AR
@@ -645,6 +646,7 @@ JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala
 6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
 mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
+4Ri0VIQ2B1c // Spark Ar Studio Tutorial - How to make Comics / Cartoon effect with Sobel Filter + SDF Animations
 
 # Scanner / Rader Effect
 bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders
