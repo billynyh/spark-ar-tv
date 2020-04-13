@@ -375,6 +375,7 @@ tX2uyytflM4 // Fit textures into rectangles in Spark AR
 QE_4YmwNt2o // 2D Face Tracking in Spark AR
 nN3CIi17lnI // Animated Native UI Picker Icons in Spark AR
 9t3lMBq0VIk // Holographic Face Sticker for Spark AR
+6iRmdFx6CWY // Spark Color Adjustment Update
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -754,6 +755,7 @@ VppjVzl3918 // Free Spark Ar Projects 5.0 - Part 25. Фильтры для ин�
 pajop9qDB8o // Free Spark Ar Projects 6.0 - Part 26. Фильтры для инстаграма бесплатные. Instagram Filters for free.
 _eoqbsmo1jk // Free Spark Ar Projects 7.0 - Part 27. Фильтры для инстаграма бесплатные. Instagram Filters for free.
 ml37Zc24qno // Free Spark Ar Projects 8.0 - Part 28. Фильтры для инстаграма бесплатные. Instagram Filters for free.
+kfVw1fGLYoI // Face Deformation in Spark Ar - Part 29. Деформация лица фильтр в СпаркАр. Изменение внешности.Filter
 
 # Sunny Youth
 nqncXtofMa4 // How I created my very own instagram filter with picsart!(easy and simple)
