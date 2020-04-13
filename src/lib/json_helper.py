@@ -9,7 +9,7 @@ def get_recent_weeks(master, site):
 
 def get_featured_contents(master, site):
     channels = site.groups_by_num_videos[:8]
-    vids = site.most_viewed[:8]
+    vids = site.most_viewed[:40]
 
     contents = []
     contents += [channel_to_dict(c, site) for c in channels]
