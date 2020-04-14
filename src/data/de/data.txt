@@ -54,6 +54,7 @@ IAUqD_z6noQ // How to add an Alpha Mask to your Face Mesh in SPARK AR
 qvmIsLKAXiw // How to create a mode-of-the-day Filter from facial expressions in SPARK AR
 I7uCLe1VEfg // How to Change your Eye Color in SPARK AR
 jRD2hMQpIr0 // Adding the Native UI Picker to Switch 3D Object in SPARK AR
+9xM1rbc4y-E // SPARK AR from Lightroom Presets to LUT (Avoid these Mistakes)
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio

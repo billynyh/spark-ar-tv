@@ -22,6 +22,7 @@ LANG_DISPLAY_NAME = {
   'el': 'Greek',
   'fa': 'Persian',
   'ko': 'Korean',
+  'cs': 'Czech',
   'global': 'All Languages',
 }
 

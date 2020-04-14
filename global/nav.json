@@ -112,6 +112,11 @@
         "title": "Korean",
         "url": "https://billynyh.github.io/spark-ar-tv/ko/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Czech",
+        "url": "https://billynyh.github.io/spark-ar-tv/cs/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -349,17 +354,17 @@
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/R6irTb3kxTc/hqdefault.jpg",
-      "title": "Channel: Sid Farmer",
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/7ZxO4CtkZ74/hqdefault.jpg",
+      "title": "Channel: Emiliusvgs",
       "meta1": "Num videos: 50",
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/A7zc-Y1ZFQs/hqdefault.jpg",
-      "title": "Channel: Emiliusvgs",
-      "meta1": "Num videos: 49",
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/R6irTb3kxTc/hqdefault.jpg",
+      "title": "Channel: Sid Farmer",
+      "meta1": "Num videos: 50",
       "meta2": null
     },
     {
@@ -377,16 +382,16 @@
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCZMGG9QLteZtdEkEoRjeE1w.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/EQ52B50sN7E/hqdefault.jpg",
-      "title": "Channel: Stories Digital",
-      "meta1": "Num videos: 33",
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCKim2cVx6wlJVsfVJdDMD_A.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/dnl4LL5Ild4/hqdefault.jpg",
+      "title": "Channel: Sultan Bazarbayev",
+      "meta1": "Num videos: 34",
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCKim2cVx6wlJVsfVJdDMD_A.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/pajop9qDB8o/hqdefault.jpg",
-      "title": "Channel: Sultan Bazarbayev",
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCZMGG9QLteZtdEkEoRjeE1w.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/EQ52B50sN7E/hqdefault.jpg",
+      "title": "Channel: Stories Digital",
       "meta1": "Num videos: 33",
       "meta2": null
     },
@@ -673,6 +678,13 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-13.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/7ZxO4CtkZ74/hqdefault.jpg",
+      "title": "Week 2020-04-13",
+      "meta1": "Num videos: 16",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-06.html",
       "thumbnail_url": "https://i.ytimg.com/vi/pl0AcpXsWcs/hqdefault.jpg",
       "title": "Week 2020-04-06",
@@ -705,13 +717,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qjCEAtC0Egs/hqdefault.jpg",
       "title": "Week 2020-03-09",
       "meta1": "Num videos: 102",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-03-02.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/zkmDZ13cTEU/hqdefault.jpg",
-      "title": "Week 2020-03-02",
-      "meta1": "Num videos: 89",
       "meta2": null
     }
   ]
