@@ -115,7 +115,7 @@ eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instarga
 K1psMf3q3v0 // Spark AR Scripting Bahasa Indonesia | LookAt Function | Spark AR Programming.
 4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску караоке?
-qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
+qpmMZoQcWg8 // v83 Blink Counting Game: Spark AR Studio - Link to v85+ Example Project in Description
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in SPARK AR)
 WqkkR9368r0 // Countdown SparkAR Tutorial
 
@@ -306,7 +306,7 @@ aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game 
 8IfQUmlICCI // 01 Spark AR tutorial: how to prepare textures
 heMa3fGj0Jc // 02 Spark AR tutorial: how to locate objects on the scene
 QRXWuAXwqkQ // Spark AR Sistem Score Game Bahasa Indonesia
-qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
+qpmMZoQcWg8 // v83 Blink Counting Game: Spark AR Studio - Link to v85+ Example Project in Description
 DHHPMBa8B6E // Spark Ar Blink Game
 vomFaTbQSOY // 03 Spark AR tutorial: how to scripting object animation
 
@@ -393,7 +393,7 @@ EbkutUyZGWk // Cara buat Filter Instagram Sendiri Dengan Mudah Pakai Lightroom /
 8nsD9_T7Yog // Spark AR 5 Dicas para deixar seu LUT Incrível!
 ja6Elaxm1kY // ПОЛНЫЙ НАБОР В Spark AR. LUT + script + facemesh + plane. Создаем вместе маску как у Foreo.
 X7ike4QMbOI // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / LIGHTROOM PRESET ALS IG FILTER 2020
-TSsNcLFmLw0 // HOW TO CREATE AN INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTROOM PRESETS MOBILE/NORMAL | TUTORIAL
+TSsNcLFmLw0 // HOW TO CREATE A INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTROOM PRESETS MOBILE/NORMAL | TUTORIAL
 UN674uFGwrY // How to Convert any Preset into Instagram Filter [Photoshop/Lightroom/LUT]
 q626kHEuzNk // Spark AR Membuat color LUTs menerapkan Presets dan Profiles Lightroom Bahasa Indonesia
 S7Gc7xGkc70 // Spark AR | Lightroom (Presets) Hazır Ayarlarınızı İnstagram Efekti Yapma
@@ -447,7 +447,7 @@ aAiKckXdHeM // #10 🔥Native Slider - меняем свойства элеме�
 tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 tw1nBgK2IeI // Spark AR Como usar Native UI Slider
 JYOezMX0H1U // Spark AR Studio - Cambio de texturas con NativeUI Picker
-QwcAw3UqshY // NativeUI Picker | Spark AR Studio
+QwcAw3UqshY // NativeUI Picker (Outdated) | Spark AR Studio
 B-kU2HIZ__0 // NativeUI Slider | Spark AR Studio
 yIMuUnvtxMg // Native UI Picker Spark AR turoial indonesia + Project File
 BEYHNvC2ZwU // КАК СДЕЛАТЬ РЕГУЛИРОВКУ В SPARK AR/Native./SLIDER
@@ -763,7 +763,7 @@ qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
 # Typography
 Vs9FiGNUAwQ // Cara membuat filter instagram typography , aesthetic | spark ar tutorial
 O4GOZQAjHVE // Date And Time - Cara Gampang Buat Filter Stories atau Typography  Spark Ar Tutorial
-QzaeVcDlogg // Spark AR : Instagram Filters - Cara Membuat Filter Typography Instagram
+QzaeVcDlogg // Spark AR Tutorial : Instagram Filters - Cara Membuat Filter Typography Instagram
 a6Qj-veDQm4 // Bagaimana Cara Saya  Mendapatkan Persetujuan Untuk Filter Instagram Static Teks | Typography
 mH-1KzCJyZk // Cara membuat filter Instagram tanggal dan waktu (Typography) | Spark AR Tutorial
 uZ1Y7Dn-baU // Saya Membuat filter instagram typography Disetujui ?! | tutorial spark ar studio indonesia

@@ -54,7 +54,7 @@ kwDh-ILHW2U // Come Creare Filtri Instagram e Facebook 2D in 10 Minuti | Tutoria
 i8PdvgcrFPU // Come Creare Filtri Instagram Domande/Risposte Casuali, in 10 minuti
 
 # Gian's Tech
-5OUQwGsEZs4 // Creare FILTRI per INSTAGRAM Stories in meno di 5 MINUTI!
+5OUQwGsEZs4 // Creare filtri personalizzati per INSTAGRAM Stories in meno di 5 MINUTI! [2020]
 
 # Gianluca Ciullini
 TGQtux3eOMc // COME CREARE FILTRI PER IL VISO PER INSTAGRAM *FACILE E VELOCE*
@@ -97,7 +97,7 @@ zC4mo8ahrmM // TUTORIAL COME CREARE FILTRI INSTAGRAM e FACEBOOK //spark ar
 
 # Natived Filters Laboratory
 gtGxxAIUqyE // SPARK AR ITA - COME CREARE MASCHERE E FILTRI INSTAGRAM NEON IN SEQUENZA
-sAHkUlUAT-E // Come creare un filtro Instagram - Estrarre la texture facciale e utilizzarla a nostro piacimento
+sAHkUlUAT-E // Spark Ar tutorial Italiano - Estrarre la texture facciale e utilizzarla a nostro piacimento
 1r7nagauHnU // SPARK AR EASY FILTER TUTORIAL - HOW TO MAKE DUOTONE & TRITONE FILTER/EFFECTS + HUE LOOPING ANIMATION
 a0lrNep4yQo // HOW TO MAKE INSTAGRAM FILTERS  - Fake "kira kira" color effect tutorial on SPARK AR update v.78
 h6208mfKuoA // Spark Ar Studio - Tutorial - Easy Camera DISTORTION + RGB shift using SPARK AR Library
@@ -120,7 +120,7 @@ JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala
 9svDksa80uQ // Spark AR Tutorial - Add CUSTOM external FONT on 2D TEXT! DATE and TIME - MOOD OF THE DAY
 6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
-C_DgUv4d3hY // Spark Ar Tutorial beginners  -How to Fill EYES and MOUTH Directly inside Spark AR - No photoshop
+C_DgUv4d3hY // Spark Ar Tutorial beginners  - How to Fill EYES and MOUTH Directly inside Spark AR - No photoshop
 mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
 4Ri0VIQ2B1c // Spark Ar Studio Tutorial - How to make Comics / Cartoon effect with Sobel Filter + SDF Animations
 J9HjQUJQljs // Spark Ar Tutorials - Opening RGB Shift Shader patch - GLITCH effect - CHROMATIC ABERRATION Creative
@@ -147,6 +147,7 @@ iWD7JA8vg3g // COME PUBBLICARE  O CREARE UNA GIF PER  STORIES INSTAGRAM IN MENO 
 WUE1kCVQ_e8 // IMPORTARE FONT PERSONALIZZATO CON TESTO COLORATO PER FILTRI INSTAGRAM TUTORIAL ITALIANO GUIDA
 9bLAAF-s8Ao // CREARE FILTRO INSTAGRAM CON CANZONE PERSONALIZZATA TUTORIAL ITALIANO GUIDA
 4Nq9ByiEoUs // COME CREARE O USARE UN FILTRO PINTEREST
+zLRm0mjKE5k // TRAILER SPARK AR
 
 # SPSDesign
 6MbqtHRpv2g // SparkAr - VinRuscDay Filter

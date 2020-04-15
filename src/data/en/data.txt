@@ -39,6 +39,14 @@ LZ4okgC2dj8 // Gourmet Makes: Instagram "which are you" effect coding tutorial  
 # Annaryan
 XuyUVKxHTfU // How to make instagram filters(Spark Ar Studio)
 
+# AR Academy
+TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
+Fl8_1-xl-54 // Spark AR : How To Create A Christmas Filter on Instagram
+QKz_fqW6ExQ // Spark AR : How To Create A Birthday Filter on Instagram
+ZlOCibu1bR8 // How To Use Augmented Reality in E-Commerce
+dH7Uf5Awqd0 // Spark AR Tutorial : Who's More Likely Game Part 1
+7byXrrn3hXA // Spark AR Tutorial : Who's More Likely Game Part 2
+
 # AR Critic
 h4CJeFz_iZg // Spark AR Studio Tutorial 1 : Create a Simple Filter in a Few Seconds
 7hpCqobhXWw // Spark AR Studio Tutorial 2: Creating a Cute Face Mask using PNG Image
@@ -61,14 +69,6 @@ wQ6K4HUjXUc // Spark AR v84: Eye Color Changer Template - How to use it?
 ZWzgMAdT5CE // 'HOLLYWOOD' (Popcorn Head) Instagram filter - AR Creator Insight (Spark AR Studio)
 XfZEE-WioDU // Spark AR Studio BLOCKS Feature: How to Use It and Why?
 gxQiOwRVjJ8 // Due to COVID-19 (Coronavirus) Spark AR Effect Reviews and Publishing Suspended
-
-# AR with Renu
-TCnjH6XLRgA // Spark AR Tutorial : Create Your First Instagram Filter
-Fl8_1-xl-54 // Spark AR : How To Create A Christmas Filter on Instagram
-QKz_fqW6ExQ // Spark AR : How To Create A Birthday Filter on Instagram
-ZlOCibu1bR8 // How To Use Augmented Reality in E-Commerce
-dH7Uf5Awqd0 // Spark AR Tutorial : Who's More Likely Game Part 1
-7byXrrn3hXA // Spark AR Tutorial : Who's More Likely Game Part 2
 
 # Arti Creator
 PvNPegxSRQM // MAKE YOUR OWN INSTAGRAM FILTER IN 5 MINUTES | Spark AR Studio Tutorial
@@ -155,7 +155,7 @@ yr9UcMsDmJE // Making an AR Xmas Card Part One: The Setup
 FINkRBfE2oY // Making a AR Xmas Card Part Two: Augmenting the Card
 uWFzvAcJ5wU // Understanding Shader Types | Spark AR
 98IFD_f5JS0 // Creating the Hole in the Head effect | Spark AR
-QwcAw3UqshY // NativeUI Picker | Spark AR Studio
+QwcAw3UqshY // NativeUI Picker (Outdated) | Spark AR Studio
 ATV-ZhXEFFE // Animation Sequences The Basics | Bonus Spark AR
 B-kU2HIZ__0 // NativeUI Slider | Spark AR Studio
 ypIC3gQ0svs // Spark AR V78+ Library Update
@@ -241,7 +241,7 @@ _aQ9N0pOI5w // Spark AR Speaker Event : Spark AR Overview + Interactive Filter W
 43R0J_urrzo // CREATE YOUR INSTAGRAM STORY FILTERS
 
 # effectization studio
-RQnPuvJb8bk // How to do KIRA KIRA effect SPARK AR | project link in description
+RQnPuvJb8bk // KIRA KIRA / GLITTER / SPARKEL effect SPARK AR | download link | kira kira + LUT + Slider New Update
 aPj652PPzQE // Step Gradient Patch
 qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
 6MzPAp1HJEQ // Spark ar Native Ui Picker and Slider | Spark AR tutorial
@@ -250,6 +250,7 @@ kYyHxMFV7ko // How to add Shadow Frame in Spark AR | Spark AR tutorial
 
 # Effects Maker
 Dzi25J8gmZ8 // Publishing an Effects Maker AR Camera Filter Effect on Instagram
+r0Z506YclS8 // Who is More Likely? Instagram Filter SparkAR Tutorial by EffectsMaker.com
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -419,7 +420,7 @@ DuBk4PIVRds // CORONA VIRUS vs INSTAGRAM FILTERS / SPARK AR STUDIO STILL WORKS?
 aiG3bCK15XY // SPARK AR DESIGN  LIVE WORKFLOW V2 : DBZ MEDICAL MACHINE
 
 # LionKloud
-TSsNcLFmLw0 // HOW TO CREATE AN INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTROOM PRESETS MOBILE/NORMAL | TUTORIAL
+TSsNcLFmLw0 // HOW TO CREATE A INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTROOM PRESETS MOBILE/NORMAL | TUTORIAL
 A_HOfFsY-EM // CREATE A INSTAGRAM FILTER WITH SPARK AR WITH YOUR LR MOBILE PRESETS + SMOOTH SKIN & MULTIPLE CHOICES
 
 # Liucidity
@@ -515,6 +516,9 @@ OLCipWve774 // Reflective Glass Shader for Spark AR
 # Mend Nad
 c8r_oS4DTMw // How To Make A  Which Are You  Instagram Filter   Spark AR Tutorial
 
+# MercaTecnia
+7_LHINnVwaM // Mostacho [Spark instagram tutorial]
+
 # Midnight Typers
 yc5ohk_Nxng // Make filter effect with SPARK AR like "The Mandela Effect" movie
 moXttlpCSCA // Cara membuat filter instagram sendiri - sparkar - triggered meme
@@ -535,11 +539,11 @@ a1PODXhevGA // #Disposable camera effect  │ How to achieve #analog #film look
 
 # Newcolor Studio
 6stXwBt87Dg // Drag 2D Object on Canvas: Spark AR Studio Pan Gesture Tutorial
-QgSmfJEFj1s // Emoji Face Slider: Spark AR Studio Project Template - Control Slider with Face Position
+QgSmfJEFj1s // Emoji Face Slider: Spark AR Studio Project Template v85+ - Control Slider with Face Position
 eKx0J1pqCdg // 3D Animated Beating Heart: Spark AR Studio Project Template:
 WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Tutorial
 qzHZf7PzPI8 // Wedding Photo Booth: Spark AR Studio Tutorial - Average Face Rotation
-qpmMZoQcWg8 // Blink Counting Game: Spark AR Studio - Timer, Value to String Conversion, Script to Patch Bridge
+qpmMZoQcWg8 // v83 Blink Counting Game: Spark AR Studio - Link to v85+ Example Project in Description
 IqDtJ61BIVA // Value to Text: Spark AR Studio - Script to Patch Bridging
 pD3vHi4Nnsk // Emoji Face Slider: Spark AR Studio Project Structure Example
 npk38VlKZ8c // Bend Object: Spark AR Studio and Blender - Intro Model Rigging and Procedural Animation Tutorial
@@ -626,6 +630,7 @@ kcEa6idCEwg // Spark AR Studio - Patch Editor Tutorial : How to Change Colors ?
 V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map ?
 AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spark AR  ?
 1cEAhjxp-gI // How To Make Gold ? (UPDATE) - Spark AR Studio
+4P5dEQLZrho // Débutant sur Spark AR Studio - Tutoriel en Français : Comment publier un Filtre ?
 
 # Rod Antunes
 DHHPMBa8B6E // Spark Ar Blink Game
@@ -644,7 +649,7 @@ xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasse
 8yJtgp6GuRE // Best Spark AR Mesh Layering | Simple Two ways of layering Techniques
 
 # Science Museum of Virginia
-5-7ZrrigsV4 // SparkAR Tutorial
+5-7ZrrigsV4 // Maker Mindset: SparkAR Tutorial
 
 # sebpic
 j5PEMEFv3WE // Create your own Instagram filters in 5 minutes
@@ -801,7 +806,6 @@ ZJKNGSLIR7g // How to use patches in Spark AR - Basic tutorial
 s12v_GuCpLg // How to use the transition patch - Spark AR tutorial
 Bl3wVTw2NxA // How to create angel wings - Spark AR tutorial
 yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
-ZjL77SX6CfM // Create this weird face filter for Instagram - Spark AR tutorial
 7cFOntKN1qk // 'Which neon animal are you' filter - Spark AR tutorial
 JdrvB14rhto // Create this weird face filter for Instagram - Spark AR tutorial
 o2EpTbmjrbE // How to use the Sender and Receiver patches - Spark AR tutorial
