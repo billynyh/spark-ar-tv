@@ -412,6 +412,7 @@ QRSmiPnNsU8 // GLITTER /  KIRA KIRA / SPARKLE effect in Spark AR studio
 AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
 -QAObBHOj4o // Choose ANY PREVIEW in SPARK AR + SECRET SIMULATION CLIPS / Real Time Video
 DuBk4PIVRds // CORONA VIRUS vs INSTAGRAM FILTERS / SPARK AR STUDIO STILL WORKS?
+yi8FihNRxos // UPLOAD FILTER to INSTAGRAM 2020 / how to publish filter from Spark AR to Instagram account
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -517,6 +518,7 @@ OLCipWve774 // Reflective Glass Shader for Spark AR
 c8r_oS4DTMw // How To Make A  Which Are You  Instagram Filter   Spark AR Tutorial
 
 # MercaTecnia
+y8clNu8MEe4 // Spark AR Studio - Catrina [tutorial]
 7_LHINnVwaM // Mostacho [Spark instagram tutorial]
 
 # Midnight Typers
@@ -551,6 +553,7 @@ WKRGMvErKfg // How I Turned My 3-year-old's Art into an AR World with Spark AR S
 xAa27KTNs2I // Drag Multiple 2D Objects: Spark AR Studio Tutorial
 KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio
 qhjlGSPPJZU // Teach on Instagram Live: Teaching Mirror Effect Spark AR Studio Tutorial
+-aJD8oIPaWI // Pick Greater Than 4 Objects Spark AR Studio: And Multiplexer, Sender & Receiver Tutorial
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
@@ -809,6 +812,7 @@ yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
 7cFOntKN1qk // 'Which neon animal are you' filter - Spark AR tutorial
 JdrvB14rhto // Create this weird face filter for Instagram - Spark AR tutorial
 o2EpTbmjrbE // How to use the Sender and Receiver patches - Spark AR tutorial
+LT_N88k8Y1o // How to use the Blend patch - Spark AR tutorial
 
 # Underscodes
 kC038NhhvUM // Spark AR tutorial   Face Split effect
