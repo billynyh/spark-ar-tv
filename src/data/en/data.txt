@@ -509,6 +509,7 @@ WECBaYICiPo // Spark AR: Maru Studio 2019 Recap
 QDpAMDe4UU8 // Spark AR Tutorial: Create GLITCH TEXT with Random Patch
 Xq7b5j6QrCo // Spark AR tutorial: Create "Mood of the Day" filter with Dynamic Text & Custom Font
 05Y44gE_eds // Spark AR hackathon 2020: Monster Escape (AR game filter)  | Maru.studio x Rbkavin
+033uM62blLw // Spark AR: Retouching combined with Color LUTs
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -575,6 +576,9 @@ YpFfkCftF6U // Spark AR - LUTs + Segmentation
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 lIl3vZEcbxY // Spark AR - Hidden Preview Videos!
 
+# Pedro Afonso Design
+90q2XDx3BaM // Prince - Clash of Royale - Spark AR Timelapse
+
 # Penguin Tech
 IVXKkBbGqpM // AR VR using Spark AR Framework  - Getting Started with AR & VR
 R6LUYbhffLs // How to start with AR VR  Framework -Develop  Project from scratch
@@ -588,6 +592,9 @@ IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" 
 
 # programmer me
 Qc96WHqR_Tw // LearnFromHome | Intro to Spark AR | Programmer-Me | TinkerHub CUCEK
+
+# q y o c h i e
+x1hNDJW-qWI // how to own instagram effect ? | PicsArt + Spark Ar 🔥
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -634,6 +641,7 @@ V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map 
 AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spark AR  ?
 1cEAhjxp-gI // How To Make Gold ? (UPDATE) - Spark AR Studio
 4P5dEQLZrho // Débutant sur Spark AR Studio - Tutoriel en Français : Comment publier un Filtre ?
+w26zn6zs_Pk // How To Add Interactions ? (Switch) - Spark AR Studio
 
 # Rod Antunes
 DHHPMBa8B6E // Spark Ar Blink Game
