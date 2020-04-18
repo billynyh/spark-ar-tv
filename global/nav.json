@@ -27,17 +27,17 @@
         "video_count": 0
       },
       {
+        "title": "Italian",
+        "url": "https://billynyh.github.io/spark-ar-tv/it/index.html",
+        "video_count": 0
+      },
+      {
         "title": "Indonesian",
         "url": "https://billynyh.github.io/spark-ar-tv/id/index.html",
         "video_count": 0
       }
     ],
     "secondary_langs": [
-      {
-        "title": "Italian",
-        "url": "https://billynyh.github.io/spark-ar-tv/it/index.html",
-        "video_count": 0
-      },
       {
         "title": "Japanese",
         "url": "https://billynyh.github.io/spark-ar-tv/jp/index.html",
@@ -383,9 +383,9 @@
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCKim2cVx6wlJVsfVJdDMD_A.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/dnl4LL5Ild4/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/zn5bae3v7ig/hqdefault.jpg",
       "title": "Channel: Sultan Bazarbayev",
-      "meta1": "Num videos: 34",
+      "meta1": "Num videos: 35",
       "meta2": null
     },
     {
@@ -679,9 +679,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-13.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/9Z6unDwuq6w/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zebvl1gILYE/hqdefault.jpg",
       "title": "Week 2020-04-13",
-      "meta1": "Num videos: 59",
+      "meta1": "Num videos: 75",
       "meta2": null
     },
     {

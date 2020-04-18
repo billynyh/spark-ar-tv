@@ -28,6 +28,7 @@ qFUmhakpfeI // 💁TUTORIAL 4 SPARK AR STUDIO: DISTORSIONE FACCIALE
 E9CSdsVy0CY // 💁TUTORIAL 5 SPARK AR STUDIO: COME CREARE SFONDI (STATICI E ANIMATI) E CORNICI SUI FILTRI IG/FB
 ZMpDEF3VuHs // TUTORIAL 6 SPARK AR STUDIO: COME INSERIRE LE SCRITTE SU UN FILTRO (PLANE)
 vi4V8E-nd60 // TUTORIAL SPARK AR: COME CARICARE IL FILTRO IG/FB ONLINE
+uT4y8G-b3z8 // TUTORIAL 7: CREARE UN FILTRO IG COLORE PRESET (LUT) CON GRANA
 
 # Elena Sofia
 tD1j_ncvyws // Spark AR Studio: Crea il tuo filtro Instagram personale in meno di 10 minuti
@@ -125,6 +126,7 @@ C_DgUv4d3hY // Spark Ar Tutorial beginners  - How to Fill EYES and MOUTH Directl
 mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
 4Ri0VIQ2B1c // Spark Ar Studio Tutorial - How to make Comics / Cartoon effect with Sobel Filter + SDF Animations
 J9HjQUJQljs // Spark Ar Tutorials - Opening RGB Shift Shader patch - GLITCH effect - CHROMATIC ABERRATION Creative
+VYAJ8WKQAbo // Spark Ar Tutorial - Frame animation using SDF - Easy animations inside patch editor
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla
