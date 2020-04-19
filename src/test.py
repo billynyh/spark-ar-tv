@@ -17,10 +17,19 @@ def test_extract_youtube_id():
     for t in tests:
         print(util.extract_youtube_id(t))
 
+def test_regroup():
+    config = config_factory.load(False)
+    master = data_loader.master_site(config, merge_small_groups = False)
+
+    import cleanup
+    site = master.lang_sites['ru']
+    print(len(site.groups))
+
+    print("---")
+    new_groups = cleanup.regroup_by_channel(site.groups, site.video_data)
+    new_groups = sorted(new_groups, key = lambda group: group.title.lower()) 
+    print(len(new_groups))
+
 if __name__ == "__main__":
     #test_extract_youtube_id()
-
-    config = config_factory.load(False)
-    master = data_loader.master_site(config)
-    sitemap = sitemap_helper.load_sitemap(master, config)
-    pprint(sitemap)
+    test_regroup()

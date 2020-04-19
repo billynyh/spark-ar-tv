@@ -78,6 +78,7 @@ XAKqYxOUVYs // Eye Color Change Filter in Spark AR Studio | Fast 4 minutes Tutor
 vFe7-U-WBy0 // Blush Filter for Your Instagram in Spark AR Studio | Fast 3 Minutes Tutorial
 1tn4nWBfwDE // Retouch / Soft Skin Filter for Your Instagram in Spark AR Studio | Fast 2 Minutes Tutorial
 c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio | Fast 4 Minutes Tutorial
+Ny-IQtDxlIU // How to Upload + Publish Filters from Spark AR Studio to Instagram or Facebook | Fast 5 Min Tutorial
 
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
@@ -332,9 +333,20 @@ lTA7_y-dZxY // Four faces effect with Spark AR Studio
 # Jayasurya Aasaithambi
 yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
 
+# Jeff  Rayner
+yGYk1jHSNqw // Spark AR 3D text problem - won't show up
+aZjwBhrv8mo // Spark AR : how to add 3D text - and how to overcome the default grayed out issue
+qk_Mi6924SQ // Spark AR background clipping issue
+
+# Jennifer Hill
+E4BX9xK8UrA // Spark AR Tutorial
+
 # Jivesh Piplani
 maRyEJJICdA // Facebook Augmented Reality Hackathon 2020 Submission by Jivesh Piplani.
 W5ipARDtJHQ // How to create water in Spark AR Studio | Tutorial
+
+# John Abreu
+bCcxHrvoz4g // My Effect went VIRAL on Instagram
 
 # Joseph Arning
 WdjIq3DHfdg // How To Make An Instagram Filter | Beginner Spark AR Tutorial
@@ -776,6 +788,8 @@ ml37Zc24qno // Free Spark Ar Projects 8.0 - Part 28. Фильтры для ин�
 kfVw1fGLYoI // Face Deformation in Spark Ar - Part 29. Деформация лица фильтр в СпаркАр. Изменение внешности.Filter
 dnl4LL5Ild4 // Plane Tracker(3d Animation) Spark Ar - Part 30. Анимация в СпаркАр. Трекер фильтр. 3д. Инстаграм.
 zn5bae3v7ig // Free Spark Ar Projects 9.0 - Part 31. Бесплатные фильтры для инстаграма. Instagram Filters for Free.
+1sb92Jxv4jc // 3D Mask in Spark Ar - Part 32. 3Д Маска фильтр для инстаграма. Анимация. Animation 3D. Filter
+VfuVeUfjfik // Free Spark Ar Projects 10.0 - Part 33. Бесплатные фильтры для инстаграма. Instagram Filters for Free
 
 # Sunny Youth
 nqncXtofMa4 // How I created my very own instagram filter with picsart!(easy and simple)

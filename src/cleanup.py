@@ -6,7 +6,8 @@ from lib.data_loader import *
 from numpy import unique
 
 def dump_site(site):
-    groups = sorted(site.groups, key = lambda group: group.title.lower())
+    groups = regroup_by_channel(site.groups, site.video_data)
+    groups = sorted(groups, key = lambda group: group.title.lower())
     fix_title = True
     return dump_groups(groups, site.video_data, fix_title)
 
@@ -31,6 +32,21 @@ def dump_groups(groups, video_data, fix_title):
             lines.append("%s // %s" % (id, video_data[id].title))
         lines.append("")
     return lines
+
+def regroup_by_channel(groups, video_data):
+    lines = []
+    ids = []
+    for group in groups:
+        ids += group.ids
+    channels = {}
+    for id in ids:
+        v = video_data[id]
+        c = v.channel_id
+        if not channels.get(c, None):
+            channels[c] = []
+        channels[c].append(id)
+    new_groups = [Group(video_data[ids[0]].channel_title, ids) for (c, ids) in channels.items()]
+    return new_groups
 
 def cleanup_custom_groups(groups, video_data, fname):
     fix_title = False
@@ -60,4 +76,4 @@ def main():
 
 if __name__=="__main__":
     main()
-    main()
+    #main()
