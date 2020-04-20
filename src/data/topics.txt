@@ -152,6 +152,7 @@ YUZdx1wf5E4 // Spark AR Studio Lesson 4: How to Create Makeup Effect?
 esGnkbpdCks // Filter makeup instagram + cara deteksi 2 wajah di spark ar | tutorial spark ar indonesia
 
 # Color Sampler
+ZvreBOvyu5w // Avril Lavigne - Let Go (B-sides)
 vPuObKf-55I // Chromakey in Spark AR
 WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Tutorial
 A6MtXGuVTuM // Filtro com paleta de cores, tutorial - Spark Ar #23
@@ -202,6 +203,8 @@ edcCByAcpTI // Как сделать полноценный фильтр Kira Ki
 qr5Kt6pMhSk // Spark AR studio ЯРКИЙ ГЛИТТЕР НА БЕЛОМ/ анимация блеск на белом/glitter segmentation on white
 duOB6QUKg1w // КАК СДЕЛАТЬ МАСКУ KIRA-KIRA | DARIA TSVET
 eslt3bb4AUg // Эффект Kira Kira ! Как сделать фильтр с блестками для Instagram. Уроки Spark AR studio.
+58zQ0f30xRY // Bikin Filter Instagram Sparkle Glitter Kira | SPARK AR TUTORIAL INDONESIA
+a6WaTHewlH0 // Sparkle Kira - Spark AR Studio - [ Tutorial ]
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -228,6 +231,19 @@ DdVTOUUBRXg // Урок 25 - Фильтр с ретушью Spark AR. Как с�
 eIvNTbleBCU // Точечная прорисовка макияжа на 3D лице Spark AR. Соединяем конструкцию: LUT + retouch + 2 лица + tap
 DsbKbusJF5k // SPARK AR ANFÄNGER TUTORIAL RETOUCH + LIGHTROOM LUT TUTORIAL 2020
 opgUXotK1jk // Spark AR LUT com Chuvisco e Retouch!
+nK1I-HutyFg // КАК СДЕЛАТЬ RETOUCH+Глиттер, KIRA/Spark AR
+qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
+DSw6ck06_2k // Spark AR studio  урок ПРЕСЕТ РЕТУШЬ и МАКИЯЖ/ tutorials filter retouch makeup
+Qol4ZNbOvYw // Tutorial - Retoque na pele do Rosto "Retouching" no Spark Ar
+fRbtF4hZhOE // THUTORIAL #001 - FaceMesh / Retouch / LightLeak [Spark AR Filter] (German Tutorial)
+wEhVNlvDiVE // Пластика лица. Face Distortion and Retouching. Создание маски для Instagram с помощью Spark AR
+SNytCM8kUns // Spark AR: LUT + Retouch + Color Adjustments. 2 Native UI Pickers + Slider
+eEDFWawsb_Y // Bikin Filter Instagram Lut + Retouching bisa?! | spark ar tutorial indonesia
+oHikGjGZmCo // Spark AR Tutorial: LUT + ретушь/LUT + retouch
+z84-GkDyd0c // Cara Membuat Retouch Native UI Slider - Spark AR Tutorial
+1tn4nWBfwDE // Retouch / Soft Skin Filter for Your Instagram in Spark AR Studio | Fast 2 Minutes Tutorial
+033uM62blLw // Spark AR: Retouching combined with Color LUTs
+jYHqZmQn78M // Retouch, picker, LUT intensity slider | SparkAR V85+ | Ретушь, кнопки, интенсивность лута слайдером
 
 # Face extraction
 zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
@@ -487,6 +503,17 @@ hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
 wmQ3tVXafy4 // КАК СДЕЛАТЬ МАСКУ OPEN MOUTH ДЛЯ ИНСТРАГРАМ | DARIA TSVET
 xDOnGh-ygXM // How to Stop Animation with Facial Expression in SPARK AR [useful patch for blink, mouth open, etc.]
 
+# Outline
+59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
+7qb7gPW4BII // HOW TO MAKE INSTAGRAM FILTERS - SPARK AR - EASY EDGE DETECTOR TUTORIAL - Neon outline effect
+ZmY3cB2uuk4 // Spark Ar Tutorial timelapse - FAST AND EASY - OUTLINE EFFECT - EDGE DETECTOR - no scripts needed
+6P0mLuFASd0 // Outline Segmentation - Spark AR Studio [ Tutorial ]
+mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
+rL2CAD5zP_A // Como fazer o filtro Outline (contorno) | Spark AR
+sJc2nab3EGQ // Cara Membuat Filter Instagram OUTLINER | SPARK AR TUTORIAL INDONESIA
+mRxDOl2s5t0 // Spark AR ITA Tutorial Outline Effect
+Q1SCmTzdwD4 // Como criar o filtro Outlines (contorno) | Spark AR | @bruno.wx
+
 # Particles
 p_JvPoPpLVg // Manhsplains: How to make particles come out of your eye on blink in Spark AR Tutorial
 TnWrJoPCfco // Spark AR Studio - Layers, Segmentation and Emitters
@@ -647,6 +674,7 @@ JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
 mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
 4Ri0VIQ2B1c // Spark Ar Studio Tutorial - How to make Comics / Cartoon effect with Sobel Filter + SDF Animations
+VYAJ8WKQAbo // Spark Ar Tutorial - Frame animation using SDF - Easy animations inside patch editor
 
 # Scanner / Rader Effect
 bVWEUX43Aeg // Radar Filter  Part 1. Spark AR Studio tutorial on patch editor and visual shaders

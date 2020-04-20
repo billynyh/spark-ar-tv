@@ -337,6 +337,7 @@ yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
 yGYk1jHSNqw // Spark AR 3D text problem - won't show up
 aZjwBhrv8mo // Spark AR : how to add 3D text - and how to overcome the default grayed out issue
 qk_Mi6924SQ // Spark AR background clipping issue
+BnChXa5YLO4 // Spark AR clipping issue [solution] - when background and person or 3D image clip
 
 # Jennifer Hill
 E4BX9xK8UrA // Spark AR Tutorial
@@ -526,6 +527,7 @@ Xq7b5j6QrCo // Spark AR tutorial: Create "Mood of the Day" filter with Dynamic T
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
 OLCipWve774 // Reflective Glass Shader for Spark AR
+OuNUyD_Vw4o // 200419 SPARK STREAM
 
 # Mend Nad
 c8r_oS4DTMw // How To Make A  Which Are You  Instagram Filter   Spark AR Tutorial
@@ -654,6 +656,7 @@ AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spa
 1cEAhjxp-gI // How To Make Gold ? (UPDATE) - Spark AR Studio
 4P5dEQLZrho // Débutant sur Spark AR Studio - Tutoriel en Français : Comment publier un Filtre ?
 w26zn6zs_Pk // How To Add Interactions ? (Switch) - Spark AR Studio
+YEgzL8pWL5I // Comment ajouter une interaction dans un filtre Instagram ? - Spark AR Studio
 
 # Rod Antunes
 DHHPMBa8B6E // Spark Ar Blink Game

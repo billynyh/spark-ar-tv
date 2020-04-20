@@ -25,6 +25,7 @@ SFvZpLWuvyg // Spark AR Studio Tutoriel - Comment créer une Image Normal Map ? 
 uUruWQMUXsE // Spark AR Studio Tutoriel Video - Comment créer une Animation 2D ? en Français
 4P5dEQLZrho // Débutant sur Spark AR Studio - Tutoriel en Français : Comment publier un Filtre ?
 w26zn6zs_Pk // How To Add Interactions ? (Switch) - Spark AR Studio
+YEgzL8pWL5I // Comment ajouter une interaction dans un filtre Instagram ? - Spark AR Studio
 
 # Rémi Abbou
 y-M7prDHPjI // CRÉER UN FILTRE INSTAGRAM SIMPLE (Paris)
@@ -50,6 +51,7 @@ e72uDwJkmmU // CHANGER LA COULEUR DES YEUX SUR SPARK AR - Filtre Instagram tutor
 m7hrWwMJNKY // UN MASQUE VISAGE SUR SPARK AR - Filtre Instagram tutoriel
 9Hn9Yg_WxAQ // UN FILTRE INSTAGRAM VSCO / LIGHTROOM ? Spark AR Tutoriel
 QMLnWxramiA // FILTRE INSTA BOUCLES D'OREILLES + TEMPLATE PROJET / Spark AR Tutoriel
+G4Z7989FvYE // ANIMAL CROSSING FILTER - Speed filter making !
 
 # Ugo N
 TDigbGo-32M // Formation Spark AR pour apprendre à créer des filtres Instagram : Teaser
