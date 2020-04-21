@@ -10,6 +10,9 @@ uuIuoKz2I3U // Paint face
 _ZWtKUVPLK4 // How to make Face filter | Face Paint Filter
 bJzlzjUM0iw // How to make a Calculator Filter in Sparkar | Love | Devil | Goodness | luck Calculator
 
+# Ahmed Hassanein
+EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
+
 # Alex Dohotaru
 0aWK8mXwBwM // Occluder Planes SparkAR Tutorial
 3YY9wbp3W8c // My Instagram face filters
