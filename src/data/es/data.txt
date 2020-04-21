@@ -162,7 +162,6 @@ Gwf9QbwpIM4 // Spark AR - Neck Bending & Person Segmentation | Tutorial Wings Al
 tyd4S9Lwi6U // Spark AR - 3D Map with Blender GIS & Augmented Reality
 A7zc-Y1ZFQs // From metric to KPI  | Spark AR Statistics & Lens Studio Statistics
 7ZxO4CtkZ74 // Spark AR - How to make a 360 sphere portal | Augmented Reality
-9Z6unDwuq6w // Generative Code with Processing | Peasy cam | Inicio Realidad Aumentada
 XiMs1IBDWj4 // Spark AR Tutorial | Color Picker for 3d Object texture | Screen tap Filter
 
 # Eric sin k
