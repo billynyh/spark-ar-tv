@@ -251,6 +251,7 @@ qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
 6MzPAp1HJEQ // Spark ar Native Ui Picker and Slider | Spark AR tutorial
 Y5FUFY6RyQE // How to get Average Face Tone Spark AR
 kYyHxMFV7ko // How to add Shadow Frame in Spark AR | Spark AR tutorial
+tcMQa3TEYmQ // Vertex Displacement Spark AR | Custom Shader
 
 # Effects Maker
 Dzi25J8gmZ8 // Publishing an Effects Maker AR Camera Filter Effect on Instagram
@@ -344,6 +345,9 @@ BnChXa5YLO4 // Spark AR clipping issue [solution] - when background and person o
 
 # Jennifer Hill
 E4BX9xK8UrA // Spark AR Tutorial
+
+# Jia Chen
+UUbqP3Lawo8 // CS final project: 3D object interactions via Spark AR
 
 # Jivesh Piplani
 maRyEJJICdA // Facebook Augmented Reality Hackathon 2020 Submission by Jivesh Piplani.
@@ -480,6 +484,9 @@ sBoMUuuxC0A // Spark AR: Instagram Filters - Getting Started: Sharing Patches
 FTCHx4QrqPQ // Spark AR: Instagram Filters - Smooth Head Tracking
 VinrQWhv0ss // Spark AR: Instagram Filters - Image Compression
 puwLXrjMLGw // Spark AR: Instagram Filters: What _____ Am I? / What _____ Are You? - FREE Filter Template
+
+# Madison Coviello
+FbEQj1ip7_4 // Save Yourself 4 Hours - 3 Tips for Making Your First IG Face Filter
 
 # Mahesh Parab
 rR_9IEvHsoY // ANIMATION CLIP MASKING TEXT IN CSS
@@ -796,6 +803,7 @@ dnl4LL5Ild4 // Plane Tracker(3d Animation) Spark Ar - Part 30. Анимация 
 zn5bae3v7ig // Free Spark Ar Projects 9.0 - Part 31. Бесплатные фильтры для инстаграма. Instagram Filters for Free.
 1sb92Jxv4jc // 3D Mask in Spark Ar - Part 32. 3Д Маска фильтр для инстаграма. Анимация. Animation 3D. Filter
 VfuVeUfjfik // Free Spark Ar Projects 10.0 - Part 33. Бесплатные фильтры для инстаграма. Instagram Filters for Free
+kHtSGoIyWho // KiraKira For Free - Part 34. Filters for free. KiraEffect. Кира-кира эффект бесплатно. Spark Ar
 
 # Sunny Youth
 nqncXtofMa4 // How I created my very own instagram filter with picsart!(easy and simple)
