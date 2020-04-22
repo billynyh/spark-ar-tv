@@ -5,6 +5,9 @@ dowIDFtZx94 // 【Spark AR】03. 画像をランダムに表示して、ル�
 RKfqmVhPJ6U // 【Spark AR】ARフィルターの申請方法
 FkxA1xhzz_g // 【Spark AR】01. 顔にイラストを貼ってみよう！
 
+# Junji Suzuki
+Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを付ける方法@Spark AR Studio
+
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】
 41sr4gBOBnk // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 1】
