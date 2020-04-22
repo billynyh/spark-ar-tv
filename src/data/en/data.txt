@@ -506,6 +506,9 @@ oSp_CgomdzA // 4 awesome AR creators I met at AWE 2019 in Munich.
 # Maria Saavedra
 A14Z4AaZCX4 // How to create a custom Instagram filter in Spark AR Studio
 
+# Marina Maldonado
+junpsc_ydLg // Sparks AR Tratamiento Proyecto
+
 # Marty Markenson
 3HnONkme0QE // Image Flip Flop Spark Studio Patch Editor
 YLpzQDTjilU // AR Spark Studio - Bow Tie Jamming
@@ -579,6 +582,7 @@ xAa27KTNs2I // Drag Multiple 2D Objects: Spark AR Studio Tutorial
 KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio
 qhjlGSPPJZU // Teach on Instagram Live: Teaching Mirror Effect Spark AR Studio Tutorial
 -aJD8oIPaWI // Pick Greater Than 4 Objects Spark AR Studio: And Multiplexer, Sender & Receiver Tutorial
+g2a93PBYEJ0 // Simple Timer: Spark AR Studio Tutorial
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
