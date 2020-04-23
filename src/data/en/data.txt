@@ -252,6 +252,7 @@ qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
 Y5FUFY6RyQE // How to get Average Face Tone Spark AR
 kYyHxMFV7ko // How to add Shadow Frame in Spark AR | Spark AR tutorial
 tcMQa3TEYmQ // Vertex Displacement Spark AR | Custom Shader
+JQHj9mVrQzU // 3D Score Counter Spark AR | Game Score Counter
 
 # Effects Maker
 Dzi25J8gmZ8 // Publishing an Effects Maker AR Camera Filter Effect on Instagram
@@ -808,6 +809,7 @@ zn5bae3v7ig // Free Spark Ar Projects 9.0 - Part 31. Бесплатные фил
 1sb92Jxv4jc // 3D Mask in Spark Ar - Part 32. 3Д Маска фильтр для инстаграма. Анимация. Animation 3D. Filter
 VfuVeUfjfik // Free Spark Ar Projects 10.0 - Part 33. Бесплатные фильтры для инстаграма. Instagram Filters for Free
 kHtSGoIyWho // KiraKira For Free - Part 34. Filters for free. KiraEffect. Кира-кира эффект бесплатно. Spark Ar
+vq7a_sQO2qw // Freckles in Spark Ar - Part 35. Веснушки фильтр. Freckles filter for instagram. Free Filter.
 
 # Sunny Youth
 nqncXtofMa4 // How I created my very own instagram filter with picsart!(easy and simple)
@@ -854,6 +856,7 @@ yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
 JdrvB14rhto // Create this weird face filter for Instagram - Spark AR tutorial
 o2EpTbmjrbE // How to use the Sender and Receiver patches - Spark AR tutorial
 LT_N88k8Y1o // How to use the Blend patch - Spark AR tutorial
+T273zL-t3xE // How to use Vertex Attribute - Spark AR tutorial
 
 # Underscodes
 kC038NhhvUM // Spark AR tutorial   Face Split effect

@@ -164,6 +164,9 @@ A7zc-Y1ZFQs // From metric to KPI  | Spark AR Statistics & Lens Studio Statistic
 7ZxO4CtkZ74 // Spark AR - How to make a 360 sphere portal | Augmented Reality
 XiMs1IBDWj4 // Spark AR Tutorial | Color Picker for 3d Object texture | Screen tap Filter
 
+# Entretags
+7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene
+
 # Eric sin k
 c6ndYPE_vXk // Filtros de Instagram en corto / creo que es un tutorial.
 
