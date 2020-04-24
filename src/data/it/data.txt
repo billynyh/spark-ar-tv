@@ -107,6 +107,8 @@ mr0ntxwYqx0 // Tutorial Spark AR Studio n.1 - Eye color
 q_apvP9pUTU // Tutorial Spark AR Studio n.2 - Background
 X-JCcMIYiWI // Tutorial Spark AR Studio n.3 - 3D Animated Poster - Marker
 nnNsSzBkn80 // Tutorial Spark AR Studio n.4 - World Object - riconoscimento del piano
+oDSoaSofA_8 // Tutorial Spark AR Studio n.5 - Face Tracker
+MT5E_q0XZ9I // Tutorial Spark AR Studio n.6 - Face Tracker 2 - Creazione di una maschera
 
 # Maria Fraternali
 zC4mo8ahrmM // TUTORIAL COME CREARE FILTRI INSTAGRAM e FACEBOOK //spark ar
@@ -148,6 +150,9 @@ VYAJ8WKQAbo // Spark Ar Tutorial - Frame animation using SDF - Easy animations i
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla
+
+# Siria Coppola
+F4dv49l9m6Q // TUTORIAL SPARK AR STUDIO - ITA:  filtro "random" domanda-risposta
 
 # Spark AR Italia
 1ITtcDoungo // Come creare filtri Instagram ITA
@@ -193,3 +198,4 @@ eLqc9ciLL7k // Creare FILTRI per Instagram - COLORGRADING (2/3)
 UEhgMvjNyA0 // CARICARE FILTRI SU INSTAGRAM *FREE 2020
 8uyl4ZBrLDg // CREARE UN FILTRO PERSONALIZZATO PER INSTAGRAM IN POCHI MINUTI
 YQWda9nKnmo // COME FUNZIONA SPARK AR STUDIO?
+D6B76qCiMtc // CREARE UN FILTRO INSTAGRAM CON LA PELLE LEVIGATA PERFETTA
