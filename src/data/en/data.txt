@@ -82,6 +82,7 @@ vFe7-U-WBy0 // Blush Filter for Your Instagram in Spark AR Studio | Fast 3 Minut
 1tn4nWBfwDE // Retouch / Soft Skin Filter for Your Instagram in Spark AR Studio | Fast 2 Minutes Tutorial
 c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio | Fast 4 Minutes Tutorial
 Ny-IQtDxlIU // How to Upload + Publish Filters from Spark AR Studio to Instagram or Facebook | Fast 5 Min Tutorial
+ouMHgISrPIY // 3D Objects Rotate Around Head Instagram Filter. Head Occluder in Spark AR Studio Tutorial
 
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
@@ -337,6 +338,7 @@ sRUfCf-Ksog // How to make an Instagram Filter | Spark AR
 # iampimposo
 pRIH_NL-WEM // Spark AR Studio - Scanner Face
 LcGQ1iS-bAk // Spark AR Studio - Scanner Face V2
+uDnUG5raBf4 // Brightness Patch Spark AR Studio
 
 # Ian Johnson
 lTA7_y-dZxY // Four faces effect with Spark AR Studio
@@ -597,6 +599,9 @@ oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No codin
 # Nina Judy
 RHOdt1zNjj8 // How to get Instagram Filters 2020 Tutorial. "Which are you?", HiddenIGFilters & More.
 
+# Oliver Lardner
+Ii5xM6TeVWQ // Selective Colour Video LUT (good for for Spark AR)
+
 # Omm Cardiff
 NXShgnP0qsk // Make your own INSTAGRAM FILTER in 10ish MINUTES
 
@@ -816,6 +821,7 @@ zn5bae3v7ig // Free Spark Ar Projects 9.0 - Part 31. Бесплатные фил
 VfuVeUfjfik // Free Spark Ar Projects 10.0 - Part 33. Бесплатные фильтры для инстаграма. Instagram Filters for Free
 kHtSGoIyWho // KiraKira For Free - Part 34. Filters for free. KiraEffect. Кира-кира эффект бесплатно. Spark Ar
 vq7a_sQO2qw // Freckles in Spark Ar - Part 35. Веснушки фильтр. Freckles filter for instagram. Free Filter.
+bdQKlH601-w // Free Spark Ar Projects 11.0 - Part 36.
 
 # Sunny Youth
 nqncXtofMa4 // How I created my very own instagram filter with picsart!(easy and simple)
@@ -921,6 +927,9 @@ J0rXlabi2L8 // Random Which... are you filter for Facebook and Instagram DIY tut
 DXH0GZYW2LE // Trigger a sound with a random value! SPARK AR
 vU7PaBJzRLE // Replace background with animation - Spark AR
 7V_k465rErU // SPARK AR  particles emitter tutorial - bubbles flying out from mouth
+
+# Константин Парамонов
+DlErsYnct9E // Spark AR | New scratch card with random gifts (Instagram mask)
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74

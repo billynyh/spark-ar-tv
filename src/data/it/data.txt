@@ -109,6 +109,8 @@ X-JCcMIYiWI // Tutorial Spark AR Studio n.3 - 3D Animated Poster - Marker
 nnNsSzBkn80 // Tutorial Spark AR Studio n.4 - World Object - riconoscimento del piano
 oDSoaSofA_8 // Tutorial Spark AR Studio n.5 - Face Tracker
 MT5E_q0XZ9I // Tutorial Spark AR Studio n.6 - Face Tracker 2 - Creazione di una maschera
+j8ct5edfaNA // Tutorial Spark AR Studio n.7 - T-shirt in Realtà Aumentata - video (sequenza png) in SparkAr
+fi0ydrtmtv8 // Tutorial Spark AR Studio n.8 - Realizziamo un bottone
 
 # Maria Fraternali
 zC4mo8ahrmM // TUTORIAL COME CREARE FILTRI INSTAGRAM e FACEBOOK //spark ar

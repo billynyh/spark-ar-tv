@@ -166,6 +166,7 @@ XiMs1IBDWj4 // Spark AR Tutorial | Color Picker for 3d Object texture | Screen t
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene
+qzJTeZE4Mgw // Spark AR: Add texture to camera
 
 # Eric sin k
 c6ndYPE_vXk // Filtros de Instagram en corto / creo que es un tutorial.
