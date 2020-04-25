@@ -74,14 +74,14 @@ XfZEE-WioDU // Spark AR Studio BLOCKS Feature: How to Use It and Why?
 gxQiOwRVjJ8 // Due to COVID-19 (Coronavirus) Spark AR Effect Reviews and Publishing Suspended
 
 # Arti Creator
-PvNPegxSRQM // MAKE YOUR OWN INSTAGRAM FILTER IN 5 MINUTES | Spark AR Studio Tutorial
-9ROo-kS24Kw // Face Distortion Filter for Your Instagram in Spark AR Studio. Fast 5 minutes Tutorial.
+PvNPegxSRQM // Make Your Own Instagram Filter in Spark AR Studio. Fast Tutorial
+9ROo-kS24Kw // Face Distortion, Deformation Filter for Your Instagram in Spark AR Studio
 uoPPo9cenBU // MAKE YOUR OWN MAKEUP INSTAGRAM FILTER IN SPARK AR | Spark AR Tutorials
-XAKqYxOUVYs // Eye Color Change Filter in Spark AR Studio | Fast 4 minutes Tutorial
-vFe7-U-WBy0 // Blush Filter for Your Instagram in Spark AR Studio | Fast 3 Minutes Tutorial
-1tn4nWBfwDE // Retouch / Soft Skin Filter for Your Instagram in Spark AR Studio | Fast 2 Minutes Tutorial
-c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio | Fast 4 Minutes Tutorial
-Ny-IQtDxlIU // How to Upload + Publish Filters from Spark AR Studio to Instagram or Facebook | Fast 5 Min Tutorial
+XAKqYxOUVYs // Eye Color Change Instagram Filter in Spark AR Studio. Eye lenses
+vFe7-U-WBy0 // Blush Filter for Your Instagram in Spark AR Studio
+1tn4nWBfwDE // Retouch or Soft Skin Filter for Your Instagram in Spark AR Studio
+c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio
+Ny-IQtDxlIU // How to Upload + Publish Filters from Spark AR Studio to Instagram
 ouMHgISrPIY // 3D Objects Rotate Around Head Instagram Filter. Head Occluder in Spark AR Studio Tutorial
 
 # Aulia Dwiza Puteri
@@ -191,7 +191,7 @@ J_0rOSWVul0 // Target Shooter Planetracking Part 1 Countdown Timer | Spark AR St
 rTRyL7zejjo // Target Shooter Planetracking Part 2 Scene Setup | Spark AR Studio
 A7oJfJoum5k // Target Shooter Planetracking Part 3 Patch Editor 1/2 | Spark AR Studio
 L3GV8ef4dp8 // Target Shooter Planetracking Part 4 Patch Editor 2/2 | Spark AR Studio
-uyzfcOsfgP8 // NativeUI Picker: Part One Script | Spark AR Studio
+uyzfcOsfgP8 // NativeUI Picker: Part One Script | Spark AR Studio [Updated Script in Description]
 VlFRsE4KSJY // NativeUI Picker: Part Two Patch Editor| Spark AR Studio
 
 # chill sux
@@ -327,7 +327,7 @@ vd5CFqPmNLM // Create an Instagram Filter
 # fxdojo
 ta8c_U_BjLM // Augmented Reality 101
 
-# Gabri
+# Gabrisp
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
 # gurmeetweb.com
@@ -440,7 +440,6 @@ saBMUfgP_S4 // CHANGE EYEs COLOR (PUPILS) SPARK AR
 nnF8SswYank // Witcher Yennefer of vengerberg EFFECT / SPARK AR Instagram AR filter
 qoJEBA2Jh-M // CHANGE EYE COLOR for INSTAGRAM / SPARK AR tutorials
 PcF92LnOOXc // What character are you? / QUIZ Effect Spark AR  / What are you?
-jlH63vvyFK8 // RANDOM MEME FILTER for Instagram / SPARK AR TUTORIALs Image Sequence
 QRSmiPnNsU8 // GLITTER /  KIRA KIRA / SPARKLE effect in Spark AR studio
 AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
 -QAObBHOj4o // Choose ANY PREVIEW in SPARK AR + SECRET SIMULATION CLIPS / Real Time Video
@@ -582,21 +581,21 @@ Wt29aZ1avyA // Watch me build #6 │Spark Ar
 a1PODXhevGA // #Disposable camera effect  │ How to achieve #analog #film look
 
 # Newcolor Studio
-6stXwBt87Dg // Drag 2D Object on Canvas: Spark AR Studio Pan Gesture Tutorial
+6stXwBt87Dg // Drag 2D Object on Canvas: Spark AR Studio Pan Gesture to Move Object Tutorial
 QgSmfJEFj1s // Emoji Face Slider: Spark AR Studio Project Template v85+ - Control Slider with Face Position
 eKx0J1pqCdg // 3D Animated Beating Heart: Spark AR Studio Project Template:
-WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Tutorial
+WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Asset Tutorial
 qzHZf7PzPI8 // Wedding Photo Booth: Spark AR Studio Tutorial - Average Face Rotation
 qpmMZoQcWg8 // v83 Blink Counting Game: Spark AR Studio - Link to v85+ Example Project in Description
-IqDtJ61BIVA // Value to Text: Spark AR Studio - Script to Patch Bridging
+IqDtJ61BIVA // Value to Text: Spark AR Studio - Script to Patch Bridging - Link to v85+ in Description
 pD3vHi4Nnsk // Emoji Face Slider: Spark AR Studio Project Structure Example
 npk38VlKZ8c // Bend Object: Spark AR Studio and Blender - Intro Model Rigging and Procedural Animation Tutorial
 WKRGMvErKfg // How I Turned My 3-year-old's Art into an AR World with Spark AR Studio
 xAa27KTNs2I // Drag Multiple 2D Objects: Spark AR Studio Tutorial
-KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio
+KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio Patch Asset Tutorial
 qhjlGSPPJZU // Teach on Instagram Live: Teaching Mirror Effect Spark AR Studio Tutorial
--aJD8oIPaWI // Pick Greater Than 4 Objects Spark AR Studio: And Multiplexer, Sender & Receiver Tutorial
-g2a93PBYEJ0 // Simple Timer: Spark AR Studio Tutorial
+-aJD8oIPaWI // Pick Multiple Objects in Spark AR Studio: And Multiplexer Patch Asset, Sender & Receiver Tutorial
+g2a93PBYEJ0 // Simple Timer: Spark AR Studio Patch Asset Tutorial
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
@@ -637,9 +636,6 @@ IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" 
 
 # programmer me
 Qc96WHqR_Tw // LearnFromHome | Intro to Spark AR | Programmer-Me | TinkerHub CUCEK
-
-# q y o c h i e
-x1hNDJW-qWI // how to own instagram effect ? | PicsArt + Spark Ar 🔥
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -918,6 +914,9 @@ A-eQhDMW4qg // Fire VFX for Spark AR
 
 # yippee yap
 OudPTUngOYY // Spark AR Tutorial for Beginner - Create your own INS effect
+
+# zafri
+x1hNDJW-qWI // how to own instagram effect ? | PicsArt + Spark Ar 🔥
 
 # ZiFeng Learns to Make
 jkYt6_8RiDw // [ NOOB MAKES INSTAGRAM FILTER ] Learning Spark AR to create my first Instagram filter.

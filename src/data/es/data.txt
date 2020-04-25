@@ -166,7 +166,7 @@ XiMs1IBDWj4 // Spark AR Tutorial | Color Picker for 3d Object texture | Screen t
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene
-qzJTeZE4Mgw // Spark AR: Add texture to camera
+qzJTeZE4Mgw // Spark AR: Adding a camera texture
 
 # Eric sin k
 c6ndYPE_vXk // Filtros de Instagram en corto / creo que es un tutorial.
@@ -178,7 +178,7 @@ DlukBj9IVBw // Spark AR Studio - Aprende a crear un filtro de Instagram
 p_zLJ-tsOZE // CREA ESTOS FILTROS DE MODA PARA INSTAGRAM RÁPIDO! EXPLICADO AL DETALLE #SPARKAR
 
 # grace en internet
-U_KBtWEFuSQ // ✧ Creando mis propios filtros de Instagram ✧
+U_KBtWEFuSQ // ✧ Cómo hago mis propios filtros de Instagram ✧
 
 # Helentech
 FpIApJHKDns // Cómo hacer filtros para Instagram, face mask | @helentech_

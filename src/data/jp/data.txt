@@ -1,10 +1,3 @@
-# ARPG東京
-4zEj92ahJjs // 【Spark AR】Spark ARのインストール方法
--gAuiTH-toY // 【Spark AR】02. 貼ったイラストをアニメーションさせてみよう！
-dowIDFtZx94 // 【Spark AR】03. 画像をランダムに表示して、ルーレットさせてみよう！
-RKfqmVhPJ6U // 【Spark AR】ARフィルターの申請方法
-FkxA1xhzz_g // 【Spark AR】01. 顔にイラストを貼ってみよう！
-
 # Junji Suzuki
 Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを付ける方法@Spark AR Studio
 
