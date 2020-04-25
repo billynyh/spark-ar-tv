@@ -258,6 +258,7 @@ JQHj9mVrQzU // 3D Score Counter Spark AR | Game Score Counter
 # Effects Maker
 Dzi25J8gmZ8 // Publishing an Effects Maker AR Camera Filter Effect on Instagram
 r0Z506YclS8 // Who is More Likely? Instagram Filter SparkAR Tutorial by EffectsMaker.com
+HAS8KBU2VPU // How to make a Guess the Gibberish style filter on Instagram on EffectsMaker.com in under 2 minutes
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -328,6 +329,9 @@ ta8c_U_BjLM // Augmented Reality 101
 
 # Gabri
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
+
+# gurmeetweb.com
+bj5p1xXdGOc // How to create Instagram Augmented Reality Filter or Photography Frame for Models only in one minute
 
 # Helen Demina
 eL9IZZTXcdI // Your first instagram face filter in spark AR
@@ -442,6 +446,7 @@ AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
 -QAObBHOj4o // Choose ANY PREVIEW in SPARK AR + SECRET SIMULATION CLIPS / Real Time Video
 DuBk4PIVRds // CORONA VIRUS vs INSTAGRAM FILTERS / SPARK AR STUDIO STILL WORKS?
 yi8FihNRxos // UPLOAD FILTER to INSTAGRAM 2020 / how to publish filter from Spark AR to Instagram account
+KiWrEhxIgkg // 6 SPARK AR TIPs and TRICKs YOU NEED TO KNOW
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -929,6 +934,8 @@ vU7PaBJzRLE // Replace background with animation - Spark AR
 7V_k465rErU // SPARK AR  particles emitter tutorial - bubbles flying out from mouth
 
 # Константин Парамонов
+GfDQdI9Zu1c // Spark AR Earrings. Как добавить серьги в маску инстаграм?
+jYHqZmQn78M // Retouch, picker, LUT intensity slider | SparkAR V85+ | Ретушь, кнопки, интенсивность лута слайдером
 DlErsYnct9E // Spark AR | New scratch card with random gifts (Instagram mask)
 
 # 呂柏甫

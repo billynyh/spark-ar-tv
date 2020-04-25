@@ -23,6 +23,7 @@ LANG_DISPLAY_NAME = {
   'fa': 'Persian',
   'ko': 'Korean',
   'cs': 'Czech',
+  'lt': 'Lithuanian',
   'global': 'All Languages',
 }
 
