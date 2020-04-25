@@ -117,6 +117,11 @@
         "title": "Czech",
         "url": "https://billynyh.github.io/spark-ar-tv/cs/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Lithuanian",
+        "url": "https://billynyh.github.io/spark-ar-tv/lt/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -168,7 +173,7 @@
       {
         "title": "Edge detection / KiraKira",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/edge-detection-kirakira.html",
-        "video_count": 27
+        "video_count": 24
       },
       {
         "title": "Eyelashes",
@@ -293,7 +298,7 @@
       {
         "title": "Random image game / head quiz",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/random-image-game.html",
-        "video_count": 55
+        "video_count": 53
       },
       {
         "title": "SDF",
@@ -403,7 +408,7 @@
     {
       "url": "https://www.youtube.com/watch?v=NiUrW1Pw1RU",
       "thumbnail_url": "https://i.ytimg.com/vi/NiUrW1Pw1RU/hqdefault.jpg",
-      "title": "\u4e00\u5468\u5c31\u7834500\u842c\u4eba ! \u85dd\u4eba\u7db2\u7d05\u90fd\u5728\u7528\u7684IG\u7279\u6548 [\u6559\u5b78\u7bc7]",
+      "title": "[IG\u7279\u6548\u6559\u5b78]\u4e00\u5468\u5c31\u7834500\u842c\u4eba ! \u85dd\u4eba\u7db2\u7d05\u90fd\u5728\u7528\u7684IG\u7279\u6548",
       "meta1": "Ting Music\u633a\u97f3\u6a02",
       "meta2": "2020-03-30"
     },
@@ -438,7 +443,7 @@
     {
       "url": "https://www.youtube.com/watch?v=LuigF3ClnhM",
       "thumbnail_url": "https://i.ytimg.com/vi/LuigF3ClnhM/hqdefault.jpg",
-      "title": "CARA MEMBUAT FILTER WHICH ARE YOU - Tutorial Spark AR Studio Indonesia",
+      "title": "CARA MEMBUAT FILTER WHICH ARE YOU - di HP AndroidTutorial Spark AR Studio Indonesia",
       "meta1": "Firdaus and Fijira",
       "meta2": "2020-03-30"
     },
@@ -522,7 +527,7 @@
     {
       "url": "https://www.youtube.com/watch?v=PvNPegxSRQM",
       "thumbnail_url": "https://i.ytimg.com/vi/PvNPegxSRQM/hqdefault.jpg",
-      "title": "MAKE YOUR OWN INSTAGRAM FILTER IN 5 MINUTES | Spark AR Studio Tutorial",
+      "title": "Make Your Own Instagram Filter in Spark AR Studio. Fast Tutorial",
       "meta1": "Arti Creator",
       "meta2": "2020-04-02"
     },
@@ -558,7 +563,7 @@
       "url": "https://www.youtube.com/watch?v=tFBF0-rmDjw",
       "thumbnail_url": "https://i.ytimg.com/vi/tFBF0-rmDjw/hqdefault.jpg",
       "title": "\u0e2a\u0e2d\u0e19\u0e17\u0e33\u0e1f\u0e34\u0e25\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e2d\u0e08\u0e35 \u0e17\u0e35\u0e48\u0e21\u0e35\u0e15\u0e31\u0e27\u0e15\u0e01\u0e25\u0e07\u0e21\u0e32 [\u0e20\u0e32\u0e22\u0e43\u0e1910\u0e19\u0e32\u0e17\u0e35\ud83d\udcaf\ud83c\udf08]",
-      "meta1": "Stn k",
+      "meta1": "Stnk _",
       "meta2": "2020-04-03"
     },
     {
@@ -684,9 +689,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-20.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/7iD7yajBZ0A/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/bj5p1xXdGOc/hqdefault.jpg",
       "title": "Week 2020-04-20",
-      "meta1": "Num videos: 111",
+      "meta1": "Num videos: 122",
       "meta2": null
     },
     {
@@ -714,7 +719,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-03-23.html",
       "thumbnail_url": "https://i.ytimg.com/vi/JadU_f5f1Rw/hqdefault.jpg",
       "title": "Week 2020-03-23",
-      "meta1": "Num videos: 92",
+      "meta1": "Num videos: 90",
       "meta2": null
     },
     {

@@ -100,7 +100,7 @@ def load_blogs():
 
 def sort_video_ids_by_time(ids, video_data):
     return sorted(
-        remove_invalid_ids(ids),
+        remove_invalid_ids(ids, video_data),
         key=lambda id: (video_data[id].published_at, video_data[id].channel_id, id), 
         reverse=True)
 
