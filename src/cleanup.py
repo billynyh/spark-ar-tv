@@ -14,6 +14,8 @@ def dump_site(site):
 def dump_groups(groups, video_data, fix_title):
     lines = []
     for group in groups:
+        if len(group.ids) == 0:
+            continue
         ids = sorted(group.ids, key = lambda id: (video_data[id].raw_published_at, id))
         appeared = set()
         if fix_title:

@@ -264,6 +264,7 @@ def main(args):
     index_only = args.index_only
     global_only = args.global_only or index_only
     channel = args.channel or prod
+    validate = args.validate
 
     util.prepare_cache()
 
@@ -274,6 +275,9 @@ def main(args):
 
     if assets_only:
         util.copy_all_assets(config)
+    elif validate:
+        video_cache = data_loader.load_cache()
+        data_loader.load_global_groups(config, video_cache)
     else:
         gen_site(config)
 
@@ -284,5 +288,6 @@ if __name__ == "__main__":
     parser.add_argument('--global-only', action='store_true')
     parser.add_argument('--index-only', action='store_true')
     parser.add_argument('--channel', action='store_true')
+    parser.add_argument('--validate', action='store_true')
     args = parser.parse_args()
     main(args)

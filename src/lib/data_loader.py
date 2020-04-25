@@ -46,7 +46,10 @@ def process_groups(groups, video_data, merge_small_groups = True):
     others = []
     group_map = {}
     for group in groups:
-        g_id = video_data[group.ids[0]].channel_id
+        ids = remove_invalid_ids(group.ids, video_data)
+        if len(ids) == 0:
+            continue
+        g_id = video_data[ids[0]].channel_id
         if group_map.get(g_id, None):
             group_map[g_id].ids += group.ids
         else:
@@ -66,7 +69,8 @@ def process_groups(groups, video_data, merge_small_groups = True):
     # sort each group by publish date
     for group in result:
         group.ids = sort_video_ids_by_time(group.ids, video_data)
-        group.slug = video_data[group.ids[0]].channel_id
+        if len(group.ids) > 0:
+            group.slug = video_data[group.ids[0]].channel_id
 
     return result
 
@@ -96,7 +100,7 @@ def load_blogs():
 
 def sort_video_ids_by_time(ids, video_data):
     return sorted(
-        ids,
+        remove_invalid_ids(ids),
         key=lambda id: (video_data[id].published_at, video_data[id].channel_id, id), 
         reverse=True)
 
@@ -182,6 +186,9 @@ def sort_by_num_videos(groups):
 
 def sort_by_view_count(ids, video_data):
     return sorted(ids, key=lambda id: -int(video_data[id].view_count))
+
+def remove_invalid_ids(ids, video_data):
+    return [id for id in ids if video_data.get(id, None)]
 
 def load_site_data(config, path, video_cache, merge_small_groups = True):
     api_key = config.api_key
