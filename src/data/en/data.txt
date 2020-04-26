@@ -13,6 +13,9 @@ bJzlzjUM0iw // How to make a Calculator Filter in Sparkar | Love | Devil | Goodn
 # Ahmed Hassanein
 EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
 
+# Alejandra Cerda
+Hj5Q5oikuAw // How to make your own filter for Instagram stories with presets from Lightroom | The easiest way
+
 # Alex Dohotaru
 0aWK8mXwBwM // Occluder Planes SparkAR Tutorial
 3YY9wbp3W8c // My Instagram face filters
@@ -659,6 +662,7 @@ Z4dQEqYtE6c // Tip to make your custom shader || Spark AR || Facebook Filter || 
 eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 LP-uEQ3Tlxg // Spark AR hackathon 2020: Monster Escape (AR game filter) | Maru.studio x Rbkavin
+QXT5BRtmxm4 // Native UI PICKER ON PATCH EDITOR || Spark AR || Instargam Filter || Rbkavin
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -761,6 +765,7 @@ iJ5a5v8X3zc // Import 3D Models (Blender Donut, Animation) Filter Effect | Insta
 3cMpRSe1Ulk // Black & White Filter Effect (Luminance, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 qC-2icafBuQ // 2 Colours Gradient Filter Effect (Blending, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 R6irTb3kxTc // 4 Colours Gradient Filter Effect (Patch Editor, Color) | Instagram & Facebook | Spark AR Tutorial
+cVKD14ayTtc // Reviewing Your Filters | Spark AR | Instagram & Facebook | Another Show
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
@@ -848,6 +853,9 @@ NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
 # Third Aurora
 Vuv6kB34t9c // Setup & Fixing Spark AR Audio | Third Aurora Augmented Reality Tech Company
 eeq0WlQ-Lkk // How I Got 500k Impressions In 30 Hours With ONE Instagram Filter!
+
+# Till Daling
+ltLyDMl3FKo // Turn your Lightroom Presets into Instagram Filters!
 
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13

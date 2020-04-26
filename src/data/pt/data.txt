@@ -147,6 +147,9 @@ BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 # Rauni Tutoriais
 eUqNter3Xrk // Como criar filtro para instagram - Spark Ar Studio
 
+# Ricardo Matos de Araújo Rios
+9-7MHUFwmyc // Inteligência Digital - PP Unipac Barbacena - Aula 8 - Realidade Aumentada usando o Spark AR
+
 # She's A Rebel
 IIlsQSVSwZY // CRIANDO UM FILTRO DO ZERO! (FILTRO APROVADO EM 3 MIN)
 oQfdGRm9hl8 // REGISTRANDO SEU FILTRO!
@@ -289,6 +292,7 @@ rnH7JiOs9FY // Filtro com efeito granulado, tutorial - Spark Ar #29
 249taKjxY4k // Como é ser uma blogueira de filtros? - @bloganap | Papo Aumentado #2
 SxLOwee49co // Como colocar um seletor no meu filtro / Native UI Picker v85 - Spark Ar #30
 sMExXA3gCdg // Tudo sobre o novo hub - Spark AR #31
+V3NSYUpKAxU // O Criador do Spark Brasil - @leal.cc | Papo Aumentado #3
 
 # VA Designer
 VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook
