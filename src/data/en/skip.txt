@@ -75,3 +75,13 @@ B4-mFGRH_DE // 3D Printing Face Shields - Cura settings & Where to Find the STL 
 A76_h3UZTPU // DIY How To Transform A Pant Into 12 Face Masks
 mcx61MdPP98 // 7 WORK FROM HOME TIPs to stay productive and motivated
 o_11_DZFITQ // Content Aware Fill Tutorial (After Effects)
+4P5dEQLZrho // Débutant sur Spark AR Studio - Tutoriel en Français : Comment publier un Filtre ?
+YEgzL8pWL5I // Comment ajouter une interaction dans un filtre Instagram ? - Spark AR Studio
+AQyLm4d91Yo // Spark AR Studio Halloween-Tutorial [Face Tracker & Material Options]
+C6OrOpO_LXc // Tap Option and Switch Option in SPARK AR
+idUij9qtHko // SPARK AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
+xRvPq_Uxja8 // Face Deformation and HeadOcculder in SPARK AR
+rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR
+Gy2rrn2TVS4 // Change your Faceshape in Spark AR without being an 3D Expert
+HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
+6g5GdU33Eyk // 3 Useful Mouth Open Patch Ideas for SPARK AR
