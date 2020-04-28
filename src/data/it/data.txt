@@ -110,6 +110,7 @@ oDSoaSofA_8 // Tutorial Spark AR Studio n.5 - Face Tracker
 MT5E_q0XZ9I // Tutorial Spark AR Studio n.6 - Face Tracker 2 - Creazione di una maschera
 j8ct5edfaNA // Tutorial Spark AR Studio n.7 - T-shirt in Realtà Aumentata - video (sequenza png) in SparkAr
 fi0ydrtmtv8 // Tutorial Spark AR Studio n.8 - Realizziamo un bottone
+X0gxSZFw968 // Tutorial Spark AR Studio n.9 - Audio
 
 # Maria Fraternali
 zC4mo8ahrmM // TUTORIAL COME CREARE FILTRI INSTAGRAM e FACEBOOK //spark ar
@@ -148,6 +149,7 @@ mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA te
 J9HjQUJQljs // Spark Ar Tutorials - Opening RGB Shift Shader patch - GLITCH effect - CHROMATIC ABERRATION Creative
 VYAJ8WKQAbo // Spark Ar Tutorial - Frame animation using SDF - Easy animations inside patch editor
 3SrGP8s1AHk // Spark Ar tutorials - Huji camera style - Light leaks in patch editor - no textures - no photoshop
+VQxcSMsvfeU // Spark Ar Tutorial - Flashy lights transition and Cinematic look using TEXTURE SAMPLER + LUT
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla

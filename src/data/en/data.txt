@@ -196,6 +196,7 @@ A7oJfJoum5k // Target Shooter Planetracking Part 3 Patch Editor 1/2 | Spark AR S
 L3GV8ef4dp8 // Target Shooter Planetracking Part 4 Patch Editor 2/2 | Spark AR Studio
 uyzfcOsfgP8 // NativeUI Picker: Part One Script | Spark AR Studio [Updated Script in Description]
 VlFRsE4KSJY // NativeUI Picker: Part Two Patch Editor| Spark AR Studio
+YSRBcMsPwYg // Quiz Style Tutorial (Word Quiz) | Spark AR Studio
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
@@ -291,8 +292,14 @@ bsKS4Mp02og // 03 Spark AR workflow
 -xdeNrClC3Y // Spark AR Mask
 1WQOckuupYs // Spark AR Export Mask
 
+# feeyonn
+KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio tutorial | 如何制作 自己的 IG STORY FILTER
+
 # Filters & Design
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
+
+# Flex Studio
+pz7zlTipqrg // HOW TO MAKE "Which Are You" Instagram Filter IN UNDER 10 MINUTES (Easiest Method)
 
 # Frameboxx Animation & Visual Effects
 P9ROp8tGjC4 // Webinar on Spark AR Studio by Mr. Vishal Kawji | Frameboxx 2.0
@@ -607,6 +614,9 @@ oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No codin
 # Nina Judy
 RHOdt1zNjj8 // How to get Instagram Filters 2020 Tutorial. "Which are you?", HiddenIGFilters & More.
 
+# Nisha&Madhur
+efru3Z0BTRM // CREATE YOUR OWN EFFECTS/FILTERS FOR INSTAGRAM & FACEBOOK STORIES | SPARK AR STUDIO TUTORIAL
+
 # Oliver Lardner
 Ii5xM6TeVWQ // Selective Colour Video LUT (good for for Spark AR)
 
@@ -806,6 +816,7 @@ mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 
 # Steven Van
 qz0cuIAHras // How to Make Instagram AR Filters!
+Ys7jtAiOy74 // FREEZE FRAME EFFECT - Premiere Pro CC 2020 Tutorial (Music Video Effects)
 
 # Sultan Bazarbayev
 inHVU49wYQs // Spark Ar Installation/Download - Part 1. Скачать Спарк Ар для фильтров в инстаграм
@@ -848,6 +859,7 @@ VfuVeUfjfik // Free Spark Ar Projects 10.0 - Part 33. Бесплатные фи�
 kHtSGoIyWho // KiraKira For Free - Part 34. Filters for free. KiraEffect. Кира-кира эффект бесплатно. Spark Ar
 vq7a_sQO2qw // Freckles in Spark Ar - Part 35. Веснушки фильтр. Freckles filter for instagram. Free Filter.
 bdQKlH601-w // Free Spark Ar Projects 11.0 - Part 36.
+9DbzaXA5YQY // Free Spark Ar Projects 12.0 - Part 37. Бесплатные фильтры для инстаграма. Instagram Filters for free
 
 # Sunny Youth
 nqncXtofMa4 // How I created my very own instagram filter with picsart!(easy and simple)
