@@ -254,6 +254,7 @@ iImoc11B-rg // Spark AR/ голографическая текстура \ holo 
 _D0JiQjVksw // Spark AR/ 2D крылья
 p7qs0-OSel8 // Spark AR/ маска - обводка
 1C5iDd6XhBE // Spark AR\ Деформация без деформаци 2.0.
+Zn0NMkb8XjM // Spark AR\ Изображение на поверхности
 
 # Geya Kamskaya
 FAY05xP1Yvk // Как сделать маску для Instagram?!
@@ -266,6 +267,7 @@ Yaem95NeNoo // КАК СДЕЛАТЬ СВОЮ МАСКУ В INSTAGRAM?
 
 # Hack Anonim
 SaDAZHKDMPs // СОЗДАЛ МАСКУ INSTAGRAM - СЛЕДУЮЩАЯ БУДЕТ ТВОЯ
+YUpsNvVy75A // СДЕЛАЛ МАСКУ ПОДПИСЧИКУ В INSTAGRAM
 
 # Ham Ster
 vKL7ScEkL0U // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
@@ -341,6 +343,9 @@ pPOQgZYQ_z8 // Как сделать маску для сторис инстаг
 
 # Irinakarana
 EqynZCYHzxA // КАК ЗАГРУЗИТЬ МАСКУ В ИНСТАГРАМ | Spark AR Studio
+
+# joolstill
+BXTK8DRCnBY // Как сделать маску с очками в Инстаграм? | урок spark AR
 
 # Jorik Rosa
 OrD0Icsw9Jc // Spark AR Studio Hand Tracker Tutorial
@@ -494,6 +499,9 @@ XNfQnuoCQWg // Маски Инстаграм Ретушь кожи
 # Sasha Candy
 wKV4Ka_dg6g // Туториал как загрузить маску в Spark AR
 
+# SAZHNOV ЗДЕСЬ
+SDZCc70ZPRA // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ / SPARK AR / ПРОСТАЯ ИНСТРУКЦИЯ
+
 # Skrap
 JCMI2XBDS-A // ΠΩΣ ΝΑ ΚΑΝΕΙΣ ΕΝΑ INSTAGRAM FILTER ΣΕ 5 ΛΕΠΤΑ
 
@@ -573,6 +581,50 @@ FmQ6YKbirmg // Уроки spark ar studio. Как сделать игру в ins
 jQpiDRIwIeo // Как сделать линзы? Уроки Spark ar studio.
 NIhmFVPi6js // Как сделать Lut фильтр? Как сделать кнопки? Уроки Spark ar studio.
 EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску караоке?
+
+# Sultan Bazarbayev
+inHVU49wYQs // Spark Ar Installation/Download - Part 1. Скачать Спарк Ар для фильтров в инстаграм
+XAW-uEFLupI // Photoshop for Spark AR - Part 2. Фотошоп для СпаркАр. Для чего нужен?
+bDloy59oZpI // Screen Tap in Spark Ar - Part 3. Смена маски по нажатию
+osLHFLOcs3c // Screen Tap and Screen Long Press Tap in Spark Ar - Part 4. Смена маски по нажатию
+ptq6MCKEl9k // Multiple Faces in Spark Ar - Part 5. Несколько лиц в Спарк Ар
+bAuluN90Ag8 // How to upload/submit filter to Instagram using Spark Ar - Part 6. Загрузить фильтр в инстаграм
+--_rjCy38TA // Vol.1 - Color changing filter(Spark Ar) - Part 7. Смена цвета фильтров в Спарк Ар
+AbLQtJLuVsA // Using emitter in Spark Ar - Part 8. Фильтр в Спарке
+Rbtps0OWo_U // Multiple custom instructions in Spark Ar - Part 9. Пользовательские инструкции
+uSxvFydMxO4 // Vol. 2 Color Changing Filter(LUTs) in Spark Ar - Part 10. Изменение цвета в Спарк
+nWKUW9EmWaY // 3d animation in Spark Ar - Part 11. 3d анимация. Loop animation, transition
+BpbBFr8_peg // Particular System(emitter) in SparkAr. Система в Спарк. Filter Spark Ar
+6QKvEpuiM48 // Glitch effect in SparkAr - Part 12. Глитч эффект фильтр для инстаграма.
+gWV-TI9Ywdw // Glitch effect in SparkAr - Part 13.1. Глитч эффект для инстаграма. Фильтр. СпаркАр.
+hrWZTLafVR8 // Glitch Effect in Spark Ar - Part 13.2. Глитч эффект для Инстаграм. Фильтр для СпаркАр. VHS, lut
+dOeGm1vUnGA // Randomizer in Spark Ar - Part 14.1. Рандом, фильтр, инстаграм.СпаркАр
+sCB4jIZwyEg // Randomizer in Spark Ar - Part 14.2. Рандом фильтр для инстаграма. Random filter for SparkAr.
+w1Hbz1rHw2w // Introduction for my tutorials, Spark Ar.
+oK-a8gBnwJk // Randomizer+Glitch Effect+Mask in SparkAR - Part 15. Рандом+маски+глитч фильтр для инстаграма.
+8vrUwscC454 // Eyes changing mode in Spark Ar - Part 16. Фильтр для инстаграма. Цвета глаз. Меняются глаза.Eyecolor
+ZfPB6jawiOM // Tattoos in Spark Ar - Part 17. Тату в СпаркАр. Тату на лице. Фильтр тату для инстаграма. Татуировка
+R0V3C_fUwbM // White teeth filter in Spark Ar - Part 18. Белые зубы, фильтр. отбеливание. Teeth whitening filter!
+iHFs-WZTh80 // Emitter(particle system) in Spark Ar - Part 19. Частицы, фильтр для инстаграма. Masks in Spark Ar
+qovcxxqqth0 // Glasses, Screen Tap, Change in Spark Ar - Part 20. Очки, изменения по нажатию. Объекты. Изменения.
+jMg6713Tc4k // Free Spark Ar Projects 1.0 - Part 21. Фильтры бесплатные для инстаграма. Instagram filters for free.
+wtWPxXtE2yA // Free Spark Ar Projects 2.0 - Part 22. Фильтры бесплатные для инстаграма. Instagram filters for free
+hz4BUk2dqzA // Free Spark Ar Projects 3.0 - Part 23. Фильтры для инстаграма бесплатные. Instagram Filters for free.
+Y-kw6Jy13HM // Free Spark Ar Projects 4.0 - Part 24. Фильтры для инстаграма бесплатные. Instagram Filters for free.
+VppjVzl3918 // Free Spark Ar Projects 5.0 - Part 25. Фильтры для инстаграма бесплатные. Instagram Filters for free.
+pajop9qDB8o // Free Spark Ar Projects 6.0 - Part 26. Фильтры для инстаграма бесплатные. Instagram Filters for free.
+_eoqbsmo1jk // Free Spark Ar Projects 7.0 - Part 27. Фильтры для инстаграма бесплатные. Instagram Filters for free.
+ml37Zc24qno // Free Spark Ar Projects 8.0 - Part 28. Фильтры для инстаграма бесплатные. Instagram Filters for free.
+kfVw1fGLYoI // Face Deformation in Spark Ar - Part 29. Деформация лица фильтр в СпаркАр. Изменение внешности.Filter
+dnl4LL5Ild4 // Plane Tracker(3d Animation) Spark Ar - Part 30. Анимация в СпаркАр. Трекер фильтр. 3д. Инстаграм.
+zn5bae3v7ig // Free Spark Ar Projects 9.0 - Part 31. Бесплатные фильтры для инстаграма. Instagram Filters for Free.
+1sb92Jxv4jc // 3D Mask in Spark Ar - Part 32. 3Д Маска фильтр для инстаграма. Анимация. Animation 3D. Filter
+VfuVeUfjfik // Free Spark Ar Projects 10.0 - Part 33. Бесплатные фильтры для инстаграма. Instagram Filters for Free
+kHtSGoIyWho // KiraKira For Free - Part 34. Filters for free. KiraEffect. Кира-кира эффект бесплатно. Spark Ar
+vq7a_sQO2qw // Freckles in Spark Ar - Part 35. Веснушки фильтр. Freckles filter for instagram. Free Filter.
+bdQKlH601-w // Free Spark Ar Projects 11.0 - Part 36.
+9DbzaXA5YQY // Free Spark Ar Projects 12.0 - Part 37. Бесплатные фильтры для инстаграма. Instagram Filters for free
+yxCg9WWk0kI // Make-Up Filter in Spark Ar - Part 38. Makeup filter for instagram. Макияж фильтр для инстаграма.
 
 # Sveta Vesna
 p8qJKPjadkE // Spark AR/УРОК 1.РИСУНКИ НА ЛИЦЕ И МАКИЯЖ!
