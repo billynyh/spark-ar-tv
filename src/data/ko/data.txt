@@ -18,6 +18,7 @@ OGUKGz2Vnm4 // [Spark AR]성형필터/무료프로그램만 이용하기(인스�
 WPuktXWy3b4 // [Spark AR](포토샵 대신)GIMP 활용하기/무료프로그램만 이용하기_필터 튜토리얼
 Z59_NEJT2LU // [Spark AR]머리에 별이 돌아가는 효과_페이스 필터 튜토리얼
 LFRQ_4kuu2w // [Spark AR]Q&A/저는 왜 안될까요?/질문 답변_필터만들기 튜토리얼
+iT0RwN1Uoqc // [Spark AR]랜덤 질문 효과/화면터치 후 재생_필터 튜토리얼
 
 # 손호성
 pD7WF5BIFgM // SparkAR 간단히 만든 플라워이펙트

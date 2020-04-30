@@ -267,6 +267,9 @@ HAS8KBU2VPU // How to make a Guess the Gibberish style filter on Instagram on Ef
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
 
+# Elliott Norris
+PhpzM7EgyxI // INSTAGRAM FILTER IN 5 MINUTES SPARK AR
+
 # Estefannie Explains It All
 LDbmH8pyjjY // MAKE YOUR OWN INSTAGRAM FILTER IN 10 MINUTES // LEARN SOMETHING
 0sZGiUjRPdY // MAKE YOUR OWN MAKEUP INSTAGRAM FILTER // LEARN SOMETHING
@@ -872,6 +875,7 @@ JdrvB14rhto // Create this weird face filter for Instagram - Spark AR tutorial
 o2EpTbmjrbE // How to use the Sender and Receiver patches - Spark AR tutorial
 LT_N88k8Y1o // How to use the Blend patch - Spark AR tutorial
 T273zL-t3xE // How to use Vertex Attribute - Spark AR tutorial
+dfsix2fxIz0 // How to use the Swizzle patch - Spark AR tutorial
 
 # Underscodes
 kC038NhhvUM // Spark AR tutorial   Face Split effect
