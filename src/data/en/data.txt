@@ -84,8 +84,8 @@ XAKqYxOUVYs // Eye Color Change Instagram Filter in Spark AR Studio. Eye lenses
 vFe7-U-WBy0 // Blush Filter for Your Instagram in Spark AR Studio
 1tn4nWBfwDE // Retouch or Soft Skin Filter for Your Instagram in Spark AR Studio
 c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio
-Ny-IQtDxlIU // How to Upload + Publish Filters from Spark AR Studio to Instagram
-ouMHgISrPIY // 3D Objects Rotate Around Head Instagram Filter. Head Occluder in Spark AR Studio Tutorial
+Ny-IQtDxlIU // Upload Filter to Instagram 2020. How to publish filter from Spark AR to Instagram
+ouMHgISrPIY // Head Occluder in Spark AR Studio. 3D Objects Rotate Around Head Instagram Filter
 
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
@@ -196,7 +196,7 @@ A7oJfJoum5k // Target Shooter Planetracking Part 3 Patch Editor 1/2 | Spark AR S
 L3GV8ef4dp8 // Target Shooter Planetracking Part 4 Patch Editor 2/2 | Spark AR Studio
 uyzfcOsfgP8 // NativeUI Picker: Part One Script | Spark AR Studio [Updated Script in Description]
 VlFRsE4KSJY // NativeUI Picker: Part Two Patch Editor| Spark AR Studio
-YSRBcMsPwYg // Quiz Style Tutorial (Word Quiz) | Spark AR Studio
+YSRBcMsPwYg // Quiz Style Tutorial (Jumbled Up V1.0) | Spark AR Studio
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
@@ -296,13 +296,13 @@ bsKS4Mp02og // 03 Spark AR workflow
 1WQOckuupYs // Spark AR Export Mask
 
 # feeyonn
-KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio tutorial | 如何制作 自己的 IG STORY FILTER
+KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio tutorial
 
 # Filters & Design
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
 
 # Flex Studio
-pz7zlTipqrg // HOW TO MAKE "Which Are You" Instagram Filter IN UNDER 10 MINUTES (Easiest Method)
+pz7zlTipqrg // "Which Are You" Instagram Filter Tutorial IN UNDER 10 MINUTES (Easiest Method)
 
 # Frameboxx Animation & Visual Effects
 P9ROp8tGjC4 // Webinar on Spark AR Studio by Mr. Vishal Kawji | Frameboxx 2.0
@@ -668,7 +668,7 @@ qvmIsLKAXiw // How to create a mode-of-the-day Filter from facial expressions in
 I7uCLe1VEfg // How to Change your Eye Color in SPARK AR
 jRD2hMQpIr0 // Adding the Native UI Picker to Switch 3D Object in SPARK AR
 9xM1rbc4y-E // SPARK AR from Lightroom Presets to LUT (Avoid these Mistakes)
-Yumu3aqeRbI // Spark AR Native UI Picker 2020 for 3D Objects (update 85v)
+Yumu3aqeRbI // Spark AR Native UI Picker 2020 for 3D Objects (update v85+)
 8lWnWs0U6rA // How to Create a Retouching in SPARK AR combined with the Fast Color LUT Patch
 
 # Radssoon AR
@@ -679,7 +679,7 @@ P6kZl8-QzUU // Spark AR - How to rotate an object around your head
 vfMXwODsXa0 // Spark AR - How to extract face features
 
 # Rbkavin Studio
-jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
+jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin (old method)
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
 abVjrDlUIT0 // How to use Action Property in Spark AR || v76 update || rbkavin
 Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
