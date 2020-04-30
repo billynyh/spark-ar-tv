@@ -143,7 +143,7 @@
       {
         "title": "Audio",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/audio.html",
-        "video_count": 29
+        "video_count": 34
       },
       {
         "title": "Basic JS script",
@@ -158,22 +158,22 @@
       {
         "title": "Color Sampler",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/color-sampler.html",
-        "video_count": 6
+        "video_count": 7
       },
       {
         "title": "Date and time",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/date-and-time.html",
-        "video_count": 6
+        "video_count": 7
       },
       {
         "title": "Dust",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/dust.html",
-        "video_count": 9
+        "video_count": 13
       },
       {
         "title": "Edge detection / KiraKira",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/edge-detection-kirakira.html",
-        "video_count": 24
+        "video_count": 25
       },
       {
         "title": "Eyelashes",
@@ -183,7 +183,7 @@
       {
         "title": "Face Retouching",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/face-retouching.html",
-        "video_count": 26
+        "video_count": 29
       },
       {
         "title": "Face extraction",
@@ -203,7 +203,7 @@
       {
         "title": "Freckles",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/freckles.html",
-        "video_count": 2
+        "video_count": 3
       },
       {
         "title": "Game",
@@ -223,7 +223,7 @@
       {
         "title": "Instructions",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/instructions.html",
-        "video_count": 12
+        "video_count": 16
       },
       {
         "title": "Iris tracking",
@@ -233,7 +233,7 @@
       {
         "title": "LUT",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/lut.html",
-        "video_count": 58
+        "video_count": 106
       },
       {
         "title": "Laser eyes",
@@ -253,7 +253,7 @@
       {
         "title": "Native UI Picker / Slider",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/native-ui.html",
-        "video_count": 21
+        "video_count": 47
       },
       {
         "title": "Neon light",
@@ -263,12 +263,12 @@
       {
         "title": "Occluder / Occlusion",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/occluder-occlusion.html",
-        "video_count": 8
+        "video_count": 10
       },
       {
         "title": "Open mouth",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/open-mouth.html",
-        "video_count": 8
+        "video_count": 13
       },
       {
         "title": "Outline",
@@ -278,12 +278,17 @@
       {
         "title": "Particles",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/particles.html",
-        "video_count": 38
+        "video_count": 41
       },
       {
         "title": "Patch Editor",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/patch-editor.html",
         "video_count": 25
+      },
+      {
+        "title": "Picsart",
+        "url": "https://billynyh.github.io/spark-ar-tv/global/topics/picsart.html",
+        "video_count": 10
       },
       {
         "title": "Plane tracker / Target tracker",
@@ -313,7 +318,7 @@
       {
         "title": "Segmentation",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/segmentation.html",
-        "video_count": 36
+        "video_count": 42
       },
       {
         "title": "Shader",
@@ -324,6 +329,11 @@
         "title": "Tap to change",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/tap-to-change.html",
         "video_count": 33
+      },
+      {
+        "title": "Timer",
+        "url": "https://billynyh.github.io/spark-ar-tv/global/topics/timer.html",
+        "video_count": 4
       },
       {
         "title": "Tooling",
@@ -338,7 +348,7 @@
       {
         "title": "Typography",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/typography.html",
-        "video_count": 7
+        "video_count": 16
       },
       {
         "title": "Wings / Angel",
@@ -400,9 +410,9 @@
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/MMTta6yjnrg/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zm-MbHiy1dg/hqdefault.jpg",
       "title": "Channel: Tutoriais do Kewin",
-      "meta1": "Num videos: 36",
+      "meta1": "Num videos: 37",
       "meta2": null
     },
     {
@@ -689,16 +699,16 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-27.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/tmK9biUGo-o/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/DDfeAt9F2h0/hqdefault.jpg",
       "title": "Week 2020-04-27",
-      "meta1": "Num videos: 54",
+      "meta1": "Num videos: 73",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-20.html",
       "thumbnail_url": "https://i.ytimg.com/vi/QXT5BRtmxm4/hqdefault.jpg",
       "title": "Week 2020-04-20",
-      "meta1": "Num videos: 153",
+      "meta1": "Num videos: 154",
       "meta2": null
     },
     {

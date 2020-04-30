@@ -92,6 +92,7 @@ xxHMALAvmlk // Tutorial: Adding Audio
 Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
 tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
 GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
+4Cm5pDLzOMg // Spark AR Tutorial: Рандомайзер со звуковыми эффектами/Random Image Effect + Sound
 MO6o1Hwi9B8 // How to Add Audio to AR Studio
 8KrHDr_XG0I // SPARK AR [использование Native UI для переключения Audio]  + Free script. Lesson #1.
 ggaYc20k1O4 // Spark Ar tutorial - How to add sound effects and music to your filters + interactions
@@ -101,8 +102,12 @@ EQ52B50sN7E // Уроки Spark ar Studio. Как сделать маску ка
 SY2fy_7ifes // Spark AR Import Failed | Failed to Import Audio
 RXjpLSh4TK4 // Spark AR Studio ses çalışmıyor, müzik çalmıyor | Spark AR audio not working
 DXH0GZYW2LE // Trigger a sound with a random value! SPARK AR
+PoZolGpZ6mM // Spark AR Tutorial 9: How to Play Sound Effect on Mouth Open using Patch Editor
 MrxG36zOGss // Spark AR Studio - Integrando audio en nuestros efectos. Guía inicial
 AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
+qjCEAtC0Egs // Filter which are you and Audio m4a in Spark Ar
+MalxFo1vEVY // Cara Menambahkan Lagu/Audio ke Spark AR | Tanpa Aplikasi Eksternal!
+X0gxSZFw968 // Tutorial Spark AR Studio n.9 - Audio
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
@@ -158,6 +163,7 @@ WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Asset Tutorial
 A6MtXGuVTuM // Filtro com paleta de cores, tutorial - Spark Ar #23
 KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio Patch Asset Tutorial
 yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
+VQxcSMsvfeU // Spark Ar Tutorial - Flashy lights transition and Cinematic look using TEXTURE SAMPLER + LUT
 
 # Date and time
 ZmIoWlVN_m0 // Date & Time in Spark AR
@@ -305,6 +311,7 @@ gNcpScPtrBU // Spark AR Trocando rosto e usando com 2 pessoas!
 # Freckles
 kegd5DCAyYc // Three Minute Freckles Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
 c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio
+vq7a_sQO2qw // Freckles in Spark Ar - Part 35. Веснушки фильтр. Freckles filter for instagram. Free Filter.
 
 # Game
 -r256yKFeos // Spark AR Masterclass: AR and Gaming
@@ -369,6 +376,10 @@ yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Face
 5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 yuYqagBMhmY // SPARK AR TIPS - How to add Custom Instructions
+-5W-v5RpaIs // Spark AR Beginners tutorials - How to add multiple Instructions in patch editor
+Rbtps0OWo_U // Multiple custom instructions in Spark Ar - Part 9. Пользовательские инструкции
+kz0pZdvj6sk // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / ADD INSTRUCTIONS 2020
+XYrFHHnly1k // Spark AR Studio: Poser des instructions dans un filtre en réalité augmentée sur Facebook / Instagram
 
 # Iris tracking
 hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
@@ -582,6 +593,8 @@ LVrlXIwUgkw // Instagram Spark AR Como adicionar um óculos com Head Occluder
 lyK30WEi6nw // Spark AR Crie um efeito de coroa. Tutorial de como adicionar coroas com Head occluder!
 doNaxDHp-Gc // Spark AR Tutorial - Occlusion Portal and Hole in the Floor | spark ar tutorial
 5FebsRAFD1s // TUTORIAL SPARK AR STUDIO EN ESPAÑOL | TEXTO NEÓN ANIMADO 🆒| head Occluder 3D |Tutorial desde cero 👍
+y7wxh4TMiI4 // Spark AR - Target Tracker Portal Occlusion | Display Land
+ouMHgISrPIY // 3D Objects Rotate Around Head Instagram Filter. Head Occluder in Spark AR Studio Tutorial
 
 # Open mouth
 4BEKaaHmjfk // FACE DEFORMATION (distortion effect) SPARK AR / MAKE EYES, MOUTH OR WHATEVER BIGGER
@@ -592,6 +605,11 @@ idUij9qtHko // SPARK AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyel
 hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
 wmQ3tVXafy4 // КАК СДЕЛАТЬ МАСКУ OPEN MOUTH ДЛЯ ИНСТРАГРАМ | DARIA TSVET
 xDOnGh-ygXM // How to Stop Animation with Facial Expression in SPARK AR [useful patch for blink, mouth open, etc.]
+nomeWk6Ccn0 // Spark AR Lesson 5: Hearts Coming Out from Mouth (Patch Editor, Particle System)
+PoZolGpZ6mM // Spark AR Tutorial 9: How to Play Sound Effect on Mouth Open using Patch Editor
+WTZrXomShNg // สอนทำเอฟเฟควัตถุตกลงมาโดยใช้การอ้าปาก (Falling Object by mouth) | Spark AR
+C_DgUv4d3hY // Spark Ar Tutorial beginners  - How to Fill EYES and MOUTH Directly inside Spark AR - No photoshop
+7V_k465rErU // SPARK AR  particles emitter tutorial - bubbles flying out from mouth
 
 # Outline
 59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
@@ -642,6 +660,9 @@ T18xS9Q1KyU // SPARK AR STUDIO. Маска в Инстаграм. Нимб
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in SPARK AR)
 ggz6GuIRXDE // Spark AR studio урок СИСТЕМА ЧАСТИЦ НАД ГОЛОВОЙ-БАБОЧКИ/ tutorials  particles butterflies overhead
 nomeWk6Ccn0 // Spark AR Lesson 5: Hearts Coming Out from Mouth (Patch Editor, Particle System)
+7V_k465rErU // SPARK AR  particles emitter tutorial - bubbles flying out from mouth
+iHFs-WZTh80 // Emitter(particle system) in Spark Ar - Part 19. Частицы, фильтр для инстаграма. Masks in Spark Ar
+sivgQADadbs // Tutorial Membuat Particle Love Dan Music - Spark Ar Tutorial
 
 # Patch Editor
 S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
@@ -822,6 +843,12 @@ Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
 NRQEJ1z8DL0 // Урок по Spark AR. Эффект с обводкой человека
 l_8aQI31mSI // Spark AR Tutorial - Segmentation & Eye tracking | Srburns Simpsons
 tlos76Nm_nE // Spark AR - Random Image Sequence & Segmentation | Part IV (EN captions)
+eb0jnRlwfDo // Spark AR Lesson 8: How to use Segmentation? (Step-by-Step Guide)
+qr5Kt6pMhSk // Spark AR studio ЯРКИЙ ГЛИТТЕР НА БЕЛОМ/ анимация блеск на белом/glitter segmentation on white
+6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
+Gwf9QbwpIM4 // Spark AR - Neck Bending & Person Segmentation | Tutorial Wings Alas
+6P0mLuFASd0 // Outline Segmentation - Spark AR Studio [ Tutorial ]
+S-02Cl14wwk // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / SEGMENTATION 2020
 
 # Shader
 6rcTbfrVyWo // Spark AR MatCap shader
@@ -902,6 +929,15 @@ a6Qj-veDQm4 // Bagaimana Cara Saya  Mendapatkan Persetujuan Untuk Filter Instagr
 mH-1KzCJyZk // Cara membuat filter Instagram tanggal dan waktu (Typography) | Spark AR Tutorial
 uZ1Y7Dn-baU // Saya Membuat filter instagram typography Disetujui ?! | tutorial spark ar studio indonesia
 AE2Sa2H8Cik // Cara upload filter typography/static text langsung di approve
+rAE6OWNpIxY // MEMBUAT FILTER TYPOGRAPH INSTAGRAM DAN CARA UPLOAD - TUTORIAL SPARK AR
+tO6BSEHXjSo // Filter Instagram Typography ala ala Kutipan NKTCHI | Spark AR Tutorial Indonesia
+07rlorSr978 // CARA MENGAKALI FILTER TYPOGRAPHY INSTAGRAM (DIJAMIN LOLOS)
+_1PkS_oiL6w // Cara buat Filter TYPOGRAPHY di instagram - SPARK AR
+5788u7G3L-4 // Filter story instagram dengan typography twitter kekinian - Creative Post
+HDEPRjapFlU // Tutorial Membuat Filter 'Typography' Instagram - SPARK AR
+V5giyWQgWlo // CARA MEMBUAT FILTER TYPOGRAPHY INSTAGRAM || PART 2
+CaEGa0dx91Q // Tutorial Dynamic Text Typography Instagram - Spark AR Tutorial : Instagram Filters 100% APPROVED
+9JPKjSsBlxM // Spark AR Tutorial: Cara Mudah Membuat Filter Instagram Typography
 
 # Wings / Angel
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
