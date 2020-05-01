@@ -36,6 +36,9 @@ kzcFrErVGcY // HOW TO MAKE AN INSTAGRAM STORY FILTER - SUPER EASY SPARK AR TUTOR
 # AndrewBakerVFX
 6kHrKpvpUXA // Exploring Spark AR Studio Face Filters - Intro for Beginners Tutorial: Lights Out #pge
 
+# Anika Kasoiz
+eV1EVM9u39A // CREATE YOUR OWN IG STORY FILTER || SPARK AR
+
 # Anja Blid
 V4TFU8rLJnA // MAKE YOUR OWN INSTAGRAM FILTER IN 3 MIN // VERY EASY TUTORIAL // FOR TOTAL BEGINNERS
 
@@ -197,6 +200,7 @@ L3GV8ef4dp8 // Target Shooter Planetracking Part 4 Patch Editor 2/2 | Spark AR S
 uyzfcOsfgP8 // NativeUI Picker: Part One Script | Spark AR Studio [Updated Script in Description]
 VlFRsE4KSJY // NativeUI Picker: Part Two Patch Editor| Spark AR Studio
 YSRBcMsPwYg // Quiz Style Tutorial (Jumbled Up V1.0) | Spark AR Studio
+EODeYdHmQe4 // Jumbled Up Effect V1.1 - Quick Amendment Update and Troubleshoot
 
 # chill sux
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
@@ -300,6 +304,7 @@ KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio 
 
 # Filters & Design
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
+ZEJ3pc7Nr64 // Spark AR Vídeos PT - Jogo Simples Usando o Patch Editor!
 
 # Flex Studio
 pz7zlTipqrg // "Which Are You" Instagram Filter Tutorial IN UNDER 10 MINUTES (Easiest Method)
@@ -319,6 +324,9 @@ qYm1PosWQr0 // How to design your own Instagram mask with Ipad
 SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 5sBEw5QJ6R0 // FaceMesh Split - Sparkar Studio
 9sgI3HTFu48 // Animate FaceMesh - SparkAr Studio
+
+# Francesco Ranchi
+8JQEVP6_eg0 // How to make an Instagram Filter: SPARK AR TUTORIAL
 
 # fritsbie
 8xpCHdwX9mo // SPARK AR - Quiz Tutorial / Who are you? / Which Disney character are you? / Where will you travel?
@@ -345,6 +353,9 @@ mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
 # gurmeetweb.com
 bj5p1xXdGOc // How to create Instagram Augmented Reality Filter or Photography Frame for Models only in one minute
+
+# Happy Mill
+fdDGSsakOFI // Create your new Instagram filter! - Spark AR Studio
 
 # Helen Demina
 eL9IZZTXcdI // Your first instagram face filter in spark AR
@@ -374,6 +385,7 @@ E4BX9xK8UrA // Spark AR Tutorial
 
 # Jia Chen
 UUbqP3Lawo8 // CS final project: 3D object interactions via Spark AR
+Nz-kIR8RXto // CS final: Instagram 3D object Interactions via Spark AR
 
 # Jivesh Piplani
 maRyEJJICdA // Facebook Augmented Reality Hackathon 2020 Submission by Jivesh Piplani.
@@ -896,6 +908,7 @@ eR6vwvg21oY // who make a "beauty" filter  in spark ar
 
 # Varun Raikar
 o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
+obqbx4mdze4 // How to Make "Guess the Gibberish" Instagram Filter Spark AR Tutorial
 
 # Verizon
 Apxq1zMtl1Q // How to Create Custom Filters for Instagram | Techxperts | Verizon
