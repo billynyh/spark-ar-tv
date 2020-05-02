@@ -122,6 +122,11 @@
         "title": "Lithuanian",
         "url": "https://billynyh.github.io/spark-ar-tv/lt/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Hindi",
+        "url": "https://billynyh.github.io/spark-ar-tv/hi/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -402,16 +407,16 @@
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC5K-VEQJLcBJZqjzp7LFowQ.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/6iRmdFx6CWY/hqdefault.jpg",
-      "title": "Channel: Josh Beckwith",
-      "meta1": "Num videos: 37",
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/QT3d4u0Z40Q/hqdefault.jpg",
+      "title": "Channel: Tutoriais do Kewin",
+      "meta1": "Num videos: 38",
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zm-MbHiy1dg/hqdefault.jpg",
-      "title": "Channel: Tutoriais do Kewin",
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC5K-VEQJLcBJZqjzp7LFowQ.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/6iRmdFx6CWY/hqdefault.jpg",
+      "title": "Channel: Josh Beckwith",
       "meta1": "Num videos: 37",
       "meta2": null
     },
@@ -699,9 +704,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-27.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/EcSuTzMFcH8/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/qu0sKl3D1Ys/hqdefault.jpg",
       "title": "Week 2020-04-27",
-      "meta1": "Num videos: 122",
+      "meta1": "Num videos: 152",
       "meta2": null
     },
     {
@@ -729,7 +734,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-03-30.html",
       "thumbnail_url": "https://i.ytimg.com/vi/_EWIkxWJswA/hqdefault.jpg",
       "title": "Week 2020-03-30",
-      "meta1": "Num videos: 85",
+      "meta1": "Num videos: 86",
       "meta2": null
     },
     {

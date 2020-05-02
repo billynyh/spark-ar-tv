@@ -24,6 +24,7 @@ LANG_DISPLAY_NAME = {
   'ko': 'Korean',
   'cs': 'Czech',
   'lt': 'Lithuanian',
+  'hi': 'Hindi',
   'global': 'All Languages',
 }
 
