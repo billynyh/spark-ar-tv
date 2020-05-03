@@ -141,6 +141,7 @@ VYAJ8WKQAbo // Spark Ar Tutorial - Frame animation using SDF - Easy animations i
 3SrGP8s1AHk // Spark Ar tutorials - Huji camera style - Light leaks in patch editor - no textures - no photoshop
 VQxcSMsvfeU // Spark Ar Tutorial - Flashy lights transition and Cinematic look using TEXTURE SAMPLER + LUT
 jPrzLb-hx5Y // Spark Ar tutorial - Motion Pop HALFTONE effect -  Using SDF in patch editor - no script
+lY92ACD5_2Y // Spark Ar tutorial - Add Music part 2 - How to make the audio start when pressing record on device
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla

@@ -36,6 +36,8 @@ Lp_6XuiOBHU // FILTROS INSTAGRAM 3D | Experimento Spark AR #1
 Luf4YoxI0rg // VIRALIZAR EFECTO INSTAGRAM | Experimento #2
 XkMz4EXuEIo // CÓMO HACER UN FILTRO DE INSTAGRAM | Claves del éxito
 Gz7HH-I3MTs // CURSO SPARK AR STUDIO | Ajustar elementos a diferentes dispositivos #6
+L4n9qJoZPVs // CREAR UN EFECTO CON SPARK AR STUDIO
+zdGEeVNwMEI // CURSO SPARK AR STUDIO | Sencillos movimientos de objetos #7
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -215,6 +217,9 @@ H6DJPJKSbeQ // Como subir filtros a INSTAGRAM / Spark AR / español
 # JWIBEL
 NrrKn-v8a7E // La VERDAD sobre los FILTROS de INSTAGRAM
 mzITx_I_KrE // Robie - Búscame - Filtro Tutorial 90s Cowboy Girl - Spark AR
+
+# Kath&Bash
+P0et94uHLoY // COMO hacer FILTROS de instagram usando Lightroom presets y que tengan Botones para elegir NATIVE UI
 
 # Laura Rodríguez
 bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
