@@ -354,7 +354,6 @@ vd5CFqPmNLM // Create an Instagram Filter
 
 # fxdojo
 ta8c_U_BjLM // Augmented Reality 101
-HSE3R8PDgEU // After Effects Tutorial: We Are One Festival Trailer
 
 # Gabrisp
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
@@ -496,6 +495,7 @@ aiG3bCK15XY // SPARK AR DESIGN  LIVE WORKFLOW V2 : DBZ MEDICAL MACHINE
 # LionKloud
 TSsNcLFmLw0 // HOW TO CREATE A INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTROOM PRESETS MOBILE/NORMAL | TUTORIAL
 A_HOfFsY-EM // CREATE A INSTAGRAM FILTER WITH SPARK AR WITH YOUR LR MOBILE PRESETS + SMOOTH SKIN & MULTIPLE CHOICES
+JzY7G6zNbRE // HOW TO ADD GRAIN AND DUST TO YOUR INSTAGRAM FILTER (STATIC OR ANIMATED) WITH SPARK AR | TUTORIAL
 
 # Liucidity
 pc4isqdbmhQ // Create a face filter from doodle | Beginner Spark AR Tutorial
@@ -595,6 +595,7 @@ hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
 OLCipWve774 // Reflective Glass Shader for Spark AR
 OuNUyD_Vw4o // 200419 SPARK STREAM
 Iiwfieb-hEE // spark stream 200427
+LJn3yxXm2FQ // SUPER SUNDAY SPARK STREAM /w LUKE HURD!!!
 
 # medha. bee
 GIYNPkuS4so // 1000 FRIES FOR 1000 SUBSCRIBERS
@@ -878,6 +879,9 @@ IZpe3gKlrtQ // Skillshare Course Trailer: Spark AR for Surface Pattern Designers
 NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
 48TwgAXNr-0 // SparkAR - SIMPLE Face Mesh Tutorial for Instagram Filters
 
+# TheKrishnendu
+r1oYxAASiAU // Make your own INSTAGRAM STORY FILTER in BENGALI| Step by Step Guide| ইনস্টাগ্রাম এ নিজের ফিল্টার
+
 # Third Aurora
 Vuv6kB34t9c // Setup & Fixing Spark AR Audio | Third Aurora Augmented Reality Tech Company
 eeq0WlQ-Lkk // How I Got 500k Impressions In 30 Hours With ONE Instagram Filter!
@@ -935,6 +939,9 @@ eR6vwvg21oY // who make a "beauty" filter  in spark ar
 # Varun Raikar
 o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
 obqbx4mdze4 // How to Make "Guess the Gibberish" Instagram Filter Spark AR Tutorial
+
+# Vector Enfield
+LrVf7ULpbMU // AR 101 ASSIGNMENT - FACEBOOK SUV
 
 # Verizon
 Apxq1zMtl1Q // How to Create Custom Filters for Instagram | Techxperts | Verizon

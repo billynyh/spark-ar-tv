@@ -105,6 +105,7 @@ Ui82aNi24Mo // Filtro para Instagram | Cómo agrandar los labios con Spark AR St
 D6MdxvBNYRE // Cambio de color de ojos: Función Eyeball para Instagram Spark AR
 CdVIcuk202U // Tutorial de cómo subir un filtro a instagram con la nueva interfaz de Spark AR
 M6To3Zk9NQc // Tutorial cómo añadir hora y fecha a un filtro de Spark AR para Instagram
+1RcsZBiNIF0 // Tutorial Retouching con LUT para Spark AR versión v87
 
 # Eani13
 ntbOMqVjA8Y // Cómo hacer filtros de instagram tipo ruleta con spark AR (Qué personaje eres?)
@@ -176,6 +177,7 @@ A7zc-Y1ZFQs // From metric to KPI  | Spark AR Statistics & Lens Studio Statistic
 7ZxO4CtkZ74 // Spark AR - How to make a 360 sphere portal | Augmented Reality
 XiMs1IBDWj4 // Spark AR Tutorial | Color Picker for 3d Object texture | Screen tap Filter
 Zzl4ukjL6qE // Spark AR Tutorial - Real 3D Map - Plane tracker |  Blender GIS
+CBNFBT13Zls // Spark AR Tutorial - Easy Blink Games Instagram Filter
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene
