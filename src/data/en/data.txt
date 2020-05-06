@@ -589,6 +589,7 @@ QDpAMDe4UU8 // Spark AR Tutorial: Create GLITCH TEXT with Random Patch
 Xq7b5j6QrCo // Spark AR tutorial: Create "Mood of the Day" filter with Dynamic Text & Custom Font
 05Y44gE_eds // Spark AR hackathon 2020: Monster Escape (AR game filter)  | Maru.studio x Rbkavin
 033uM62blLw // Spark AR: Retouching combined with Color LUTs
+knM1zI7VaC0 // Spark AR Template: LUTs + Retouching + Native UI  (All-in-one for Instagram filter)
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -612,6 +613,9 @@ y8clNu8MEe4 // Spark AR Studio - Catrina [tutorial]
 yc5ohk_Nxng // Make filter effect with SPARK AR like "The Mandela Effect" movie
 moXttlpCSCA // Cara membuat filter instagram sendiri - sparkar - triggered meme
 kHdFvwnB_iY // Make filter Instagram Harley Quinn | Spark AR
+
+# Mimx
+-3bWkrG4-_A // Spark AR for Beginner
 
 # Mr Nubyan
 8qmD-LPlIMw // How To Make A Corona Mask Face Filter | SPARK AR | Facebook & Instagram | Augmented Reality
@@ -726,6 +730,7 @@ eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instarga
 4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 LP-uEQ3Tlxg // Spark AR hackathon 2020: Monster Escape (AR game filter) | Maru.studio x Rbkavin
 QXT5BRtmxm4 // Native UI PICKER ON PATCH EDITOR || Spark AR || Instargam Filter || Rbkavin
+94IAv6Pwfz4 // Native Slider IN PATCH EDITOR || Spark AR ||Instargam Filter || Rbkavin
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -847,6 +852,7 @@ PULxnnYyucg // I made my own Instagram filter using Picsart + Spark AR Studio | 
 y3JLWRdNGPQ // Lesson 1 - How to install Spark AR, Spark AR Tutorial
 9k0fVkKHBE4 // Lesson 2 - Create your first Instagram mask in 6 min, Spark AR tutorial
 IFs2mdyh8PE // Lesson 3  -Tap to change mask. Spark AR Tutorials. How to change the mask.
+-w8Z1u78KvA // Lesson 4 - How to add Custom Instructions to Spark AR mask. The fastest way.
 
 # Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro

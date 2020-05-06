@@ -25,6 +25,8 @@ LANG_DISPLAY_NAME = {
   'cs': 'Czech',
   'lt': 'Lithuanian',
   'hi': 'Hindi',
+  'ne': 'Nepali',
+  'ml': 'Malayalam',
   'global': 'All Languages',
 }
 
