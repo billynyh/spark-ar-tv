@@ -2,6 +2,7 @@ import json
 from lib.nav_helper import get_topic_nav
 from lib.nav_helper import get_navs
 from lib import util
+from lib import data_loader
 
 def get_recent_weeks(master, site):
     weeks = site.groups_by_week[:6]
@@ -36,7 +37,8 @@ def search_json(master):
     return json.dumps(vids)
 
 def week_to_dict(w, site):
-    v = site.video_data[w.ids[0]]
+    ids = data_loader.sort_by_view_count(w.ids, site.video_data)
+    v = site.video_data[ids[0]]
     return {
         'url': util.week_page_url(site, 'global', w),
         'thumbnail_url': v.thumbnail_url,
@@ -46,7 +48,8 @@ def week_to_dict(w, site):
     }
 
 def channel_to_dict(c, site):
-    v = site.video_data[c.ids[0]]
+    ids = data_loader.sort_by_view_count(c.ids, site.video_data)
+    v = site.video_data[ids[0]]
     channel_id = v.channel_id
     return {
         'url': util.channel_page_url(site, channel_id),
