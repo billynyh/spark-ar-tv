@@ -7,6 +7,9 @@ b636Ki4Pksw // [Spark AR] 【初心者による初心者の為のSpark AR講座(
 # VR Creaors LABO
 i4M0fpjOZFs // SparkAR　インスタエフェクト作成講座＜NO.2＞顔面変形
 dxhCJlQQQpg // SparkAR　インスタエフェクト作成講座＜NO.１＞フェイスフィルターの作り方
+D34G7YlNg_E // SparkAR　自分で作れる！インスタエフェクト作成講座＜NO.３＞背景変更方法
+-Fbrakomo-4 // SparkAR　自分で作れる！インスタエフェクト作成講座＜NO.４　前編＞目からビームを出す方法。
+IBegiuipv6Q // SparkAR　自分で作れる！インスタエフェクト作成講座＜NO.4　後篇＞目からビーム！！！
 
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】

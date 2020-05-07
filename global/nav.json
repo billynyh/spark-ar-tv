@@ -137,6 +137,11 @@
         "title": "Malayalam",
         "url": "https://billynyh.github.io/spark-ar-tv/ml/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Vietnamese",
+        "url": "https://billynyh.github.io/spark-ar-tv/vi/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -719,9 +724,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-04.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/dlKdDYiodC8/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/s3nMvPI-xnQ/hqdefault.jpg",
       "title": "Week 2020-05-04",
-      "meta1": "Num videos: 45",
+      "meta1": "Num videos: 62",
       "meta2": null
     },
     {

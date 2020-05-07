@@ -27,6 +27,7 @@ LANG_DISPLAY_NAME = {
   'hi': 'Hindi',
   'ne': 'Nepali',
   'ml': 'Malayalam',
+  'vi': 'Vietnamese',
   'global': 'All Languages',
 }
 

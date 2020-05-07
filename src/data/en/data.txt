@@ -93,6 +93,9 @@ c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio
 Ny-IQtDxlIU // Upload Filter to Instagram 2020. How to publish filter from Spark AR to Instagram
 ouMHgISrPIY // Head Occluder in Spark AR Studio. 3D Objects Rotate Around Head Instagram Filter
 
+# Ashlee Rose
+GcXQ-2nVqCo // How To Create A Makeup Instagram Filter & Publish To Spark AR
+
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
 
@@ -314,6 +317,9 @@ ZEJ3pc7Nr64 // Spark AR Vídeos PT - Jogo Simples Usando o Patch Editor!
 
 # Flex Studio
 pz7zlTipqrg // "Which Are You" Instagram Filter Tutorial IN UNDER 10 MINUTES (Easiest Method)
+
+# FOCUS MEDIA
+62sgCzrzAPg // HOW TO MAKE YOUR OWN INSTAGRAM FILTER IN 2 MINUTES On Phone and Pc|how to Create an Instagram filter
 
 # Frameboxx Animation & Visual Effects
 P9ROp8tGjC4 // Webinar on Spark AR Studio by Mr. Vishal Kawji | Frameboxx 2.0
@@ -705,6 +711,7 @@ jRD2hMQpIr0 // Adding the Native UI Picker to Switch 3D Object in SPARK AR
 9xM1rbc4y-E // SPARK AR from Lightroom Presets to LUT (Avoid these Mistakes)
 Yumu3aqeRbI // Spark AR Native UI Picker 2020 for 3D Objects (update v85+)
 8lWnWs0U6rA // How to Create a Retouching in SPARK AR combined with the Fast Color LUT Patch
+t5hHstJ6i4c // How to Create a 2D Game in SPARK AR [How to Start the Game and Set Objects in Motion]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -927,6 +934,7 @@ o2EpTbmjrbE // How to use the Sender and Receiver patches - Spark AR tutorial
 LT_N88k8Y1o // How to use the Blend patch - Spark AR tutorial
 T273zL-t3xE // How to use Vertex Attribute - Spark AR tutorial
 dfsix2fxIz0 // How to use the Swizzle patch - Spark AR tutorial
+poqC24bmnyw // How to use the AND OR and NOT patches - Spark AR tutorial
 
 # Underscodes
 kC038NhhvUM // Spark AR tutorial   Face Split effect
