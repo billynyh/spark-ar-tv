@@ -420,6 +420,7 @@ OOh11cyLp8M // Spark AR/МАСКА РАНДОМ
 IdUz-c9Hx0U // Spark AR/МАСКА ФИЛЬТР-ПРЕСЕТ
 xDpn4JoZwKI // Spark AR/МАСКА ПЕРЕКЛЮЧАЕТСЯ ПО НАЖАТИЮ
 fSwVo3YYh_8 // Spark AR/МАСКА С ОБРАМЛЕНИЕМ ЛИЦА
+1S9GaV-oleA // Spark AR/Маска с перемещением объектов
 
 # MyArmood / Уроки Spark Ar Studio
 uFZkXCY3FKM // Spark AR Studio СДЕЛАТЬ МАСКУ С АНИМАЦИЕЙ, как вставить ВИДЕО в Spark AR Studio, УРОКИ по Spark AR
