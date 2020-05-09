@@ -349,6 +349,7 @@ qYm1PosWQr0 // How to design your own Instagram mask with Ipad
 SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 5sBEw5QJ6R0 // FaceMesh Split - Sparkar Studio
 9sgI3HTFu48 // Animate FaceMesh - SparkAr Studio
+xdtFvhQyVys // How to insert a video in an Instagram or Facebook filter with SparkAr Studio
 
 # Francesco Ranchi
 icqjA_aIUtk // iPhone motherboard NAND reword (*FAILED*)
@@ -508,6 +509,7 @@ AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
 DuBk4PIVRds // CORONA VIRUS vs INSTAGRAM FILTERS / SPARK AR STUDIO STILL WORKS?
 yi8FihNRxos // UPLOAD FILTER to INSTAGRAM 2020 / how to publish filter from Spark AR to Instagram account
 KiWrEhxIgkg // 6 SPARK AR TIPs and TRICKs YOU NEED TO KNOW
+54mVAA_IjlM // GAME FOR TWO Instagram Filter / Head Lean Nod Questions for Couples Spark AR Studio Tutorial
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -900,6 +902,9 @@ E8Sf3tNvNE4 // How to make an AR fashion filter for Instagram
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
 fUqthvjuxH8 // Grey Beard Hero - Instagram Filter (SparkAR)
 
+# TechzClub - technology beyond Us!
+39W4lqW9L2Q // How to Create Your First AR Filter for Instagram or Facebook using Spark AR Studio?
+
 # The Freelance Life
 IZpe3gKlrtQ // Skillshare Course Trailer: Spark AR for Surface Pattern Designers - Create Filters for Instastories
 
@@ -925,6 +930,9 @@ d6BcJUl3_X0 // Spark AR tutorial:  Face mesh, Retouching and Lighting Effect\ in
 # Trashbag Ghost
 R5I98cCH1DY // Trashbag Ghost Gets Some Shocking Results on His First Spark AR Studio Filter
 wOtxInU5VNA // Trashbag Ghost Paints His Face in AR!?
+
+# Trionn Tech N' Stuff
+uGDmTE4VoA8 // Install Spark AR Studio - Getting Started with Spark AR - Episode 01
 
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13
@@ -973,6 +981,7 @@ CbqAzct2L-Y // How to Make "This or That" Quiz Instagram Filter Spark AR Tutoria
 
 # Vector Enfield
 LrVf7ULpbMU // AR 101 ASSIGNMENT - FACEBOOK SUV
+JuIW5s1w06c // facebook ar101 final Assignment
 
 # Verizon
 Apxq1zMtl1Q // How to Create Custom Filters for Instagram | Techxperts | Verizon
