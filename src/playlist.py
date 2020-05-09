@@ -36,5 +36,21 @@ def main():
     playlist_id = "PLJ-lx8QFIxZYuTqACE5t5V_iY2rase3Bn"
     add_group_to_playlist(api, g, playlist_id)
 
+def main_url():
+    config = config_factory.load(False)
+    master = master_site(config)
+    site = master.global_site
+    groups = site.groups_by_week[:10]
+    for g in groups:
+        idx = 0
+        chunks = util.chunks(g.ids, 50)
+        for ids in chunks:
+            idx += 1
+            print('%s - %d' % (g.title, idx))
+            print('http://www.youtube.com/watch_videos?video_ids=%s' % ','.join(ids))
+            print()
+    print("Steps:")
+    print("https://webapps.stackexchange.com/questions/120451/how-to-create-a-playlist-form-a-list-of-links-not-from-bookmarks")
 
-main()
+# main()
+main_url()
