@@ -7,13 +7,9 @@ Z9v8Hs8BYRs // 6 MONTHS OF LEARNING AUGMENTED REALITY
 
 # Flamingo Filter
 7cV2V--GdXk // Paris Augmented Reality Influencers Show
-SXx9i7YI1_o // Tutoriel Filtre 360 Instagram - Flamingo TV - Quick Tip EACCES error management
+SXx9i7YI1_o // Tutoriel Filtre 360 Instagram - Flamingo TV - Quick Tip 8:53 EACCES error management
 W2sYBC6150Y // [Episode 1] Tutorial Star Wars Instagram filter game - Build your space ship
 DVTzIqaIAD4 // Tutorial - Spark Ar - How to use Persistence module ? - Flamingo TV
-
-# Hichem
-VgT4rwqXAxA // Filtre Instagram | Spark AR Tuto Débutant Filtre Louis Vuitton
-zzUu8aiJHZo // SPARK AR TIME LAPS Instagram Filter Avocado Love
 
 # LenFX
 nMeBop3VAVQ // Créer un filtre 3D Stickers Spark AR ( nouvelle fonctionalité ) FRENCH TUTO
@@ -54,6 +50,10 @@ oscJPjYJPNk // Comment utiliser Spark AR Studio pour créer un filtre en réalit
 QOraGzalC1g // Comment utiliser Spark AR Studio pour créer un filtre / effet qui pose un objet 3D sur un visage ?🤓
 vznEwFnbk9g // Tuto Spark AR Studio : Comment créer un filtre / effet avec des particules sur Facebook ou Instagram
 XYrFHHnly1k // Spark AR Studio: Poser des instructions dans un filtre en réalité augmentée sur Facebook / Instagram
+
+# Spark AR FR
+VgT4rwqXAxA // Filtre Instagram | Spark AR Tuto Débutant Filtre Louis Vuitton
+zzUu8aiJHZo // SPARK AR TIME LAPS Instagram Filter Avocado Love
 
 # Tenessees
 pWj_oiFfNZM // SPARK AR TUTORIEL - Crée ton premier filtre Instagram!
