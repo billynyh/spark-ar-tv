@@ -47,12 +47,12 @@ class ApiDataLoader:
         api_service_name = "youtube"
         api_version = "v3"
 
-        #youtube = googleapiclient.discovery.build(
-        #    api_service_name, api_version, developerKey=self.key)
+        youtube = googleapiclient.discovery.build(
+            api_service_name, api_version, developerKey=self.key)
 
-        service = json.load(open("youtube-api-rest.json"))
-        youtube = googleapiclient.discovery.build_from_document(
-            service, developerKey=self.key)
+        #service = json.load(open("youtube-api-rest.json"))
+        #youtube = googleapiclient.discovery.build_from_document(
+        #    service, developerKey=self.key)
 
         return youtube
 
