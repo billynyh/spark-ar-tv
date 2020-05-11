@@ -3,6 +3,7 @@ UeE7JofnujM // Membuat Filter Instagram 360° - Spark AR Studio [ Tutorial ]
 rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR
 QpOLNFk8U4o // Replacing Backgrounds (360° Photos) | Spark AR Studio
 OhJzmaJ7c5Q // Spark AR Tutorial - 360 Video sphere | Optimized texture
+-KA0LC19Xtc // 360 панорама заднего фона - сферический хромакей - Spark AR
 
 # 3D model
 9HifpKbhI4w // Spark AR: Interacting with 3D objects
@@ -107,6 +108,10 @@ AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
 qjCEAtC0Egs // Filter which are you and Audio m4a in Spark Ar
 MalxFo1vEVY // Cara Menambahkan Lagu/Audio ke Spark AR | Tanpa Aplikasi Eksternal!
 X0gxSZFw968 // Tutorial Spark AR Studio n.9 - Audio
+lY92ACD5_2Y // Spark Ar tutorial - Add Music part 2 - How to make the audio start when pressing record on device
+jtqldgvWI9A // TUTORIAL SPARK AR 3D, PARTICLE, AUDIO CUMA 5 MENIT!!!
+3K9f1od2h5E // Import failed Spark ar.  Spark ar Audio #spark ar audio format#m4Amono#import#failed#
+jET-30_cNOQ // Как загрузить audio Spark AR studio #zhandosxx#sparkar#audio#
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
@@ -187,6 +192,11 @@ AHLGhbKYCIA // SPARK AR TUTORIAL | Cara membuat filter instagram effect dust/gra
 bNvUy4PSvJ4 // CARA BUAT FILTER EFEK DEBU ATAU DUSTY EFFECT DI INSTAGRAM STORY / HOW TO MAKE DUSTY EFFECT IG FILTER
 sVjNzj4rqAs // SPARK AR TUTORIAL || Cara membuat Filter Instagram Dust / Ketombe
 5995hVoINtI // CARA MEMBUAT FILTER INSTAGRAM FILTER DUST/DEBU DENGAN SCREEN TAP DAN CARA UPLOAD FILTER DI SPARK AR
+OZOlnR21tZs // Cara membuat filter instagram yang Aesthetic + Efek dust | Part 1
+1Qjb1iBVn8Q // Cara Membuat Effect DUST/GRAIN Instagram || SPARK AR INDONESIA
+JzY7G6zNbRE // HOW TO ADD GRAIN AND DUST TO YOUR INSTAGRAM FILTER (STATIC OR ANIMATED) WITH SPARK AR | TUTORIAL
+0Z60yJBVcUQ // SPARK AR || TUTORIAL MEMBUAT ANIMATION DUST
+biwLitaTZ9U // Cara membuat filter instagram pakai VSCO Dust / Debu .
 
 # Edge detection / KiraKira
 VbFEAbeGmQc // Edge Detection in Spark AR
@@ -214,6 +224,13 @@ eslt3bb4AUg // Эффект Kira Kira ! Bikin Filter Instagram Sparkle Glitter K
 a6WaTHewlH0 // Sparkle Kira - Spark AR Studio - [ Tutorial ]
 kHtSGoIyWho // KiraKira For Free - Part 34. Filters for free. KiraEffect. Кира-кира эффект бесплатно. Spark Ar
 1NjOyHehNlo // SPARK AR TUTORIAL | Cara bikin filter IG Kira kira / sparkle
+QeEAKC7kPzo // Cara Membuat Filter Instagram Sparkle / Kira - Kira Dengan Simple Dan Cepat
+vyw8ce2PdOM // Filter Instagram Sparkle Glitter Kira Kira PART 2 | SPARK AR TUTORIAL INDONESIA
+1Z-FxPkzgLQ // Sparkle Kira + LUTs - Spark AR Studio - [ Tutorial ]
+s3nMvPI-xnQ // Cara membuat filter instagram SPARKLE KIRA & LUT - Ala ala filter tiktok! Cepat & mudah! #Part4
+ieIy0KpWprE // CARA MEMBUAT FILTER INSTAGRAM - Sparkle Kira Kira Glitter
+wZfwkUW7_qA // Cara Buat Filter Instagram Bling/Sparkle kira-kira + LUT aesthetic | Tutorial Spark AR Indonesia
+Zuqyto3dKUw // Spark AR Tutorial : Instagram Filters - Cara Membuat Filter Sparkle Kira Instagram
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -355,6 +372,7 @@ xTlEWNqF-B4 // "Birds of Prey" fan-art filter for Instagram, Harley Quinn style.
 kHdFvwnB_iY // Make filter Instagram Harley Quinn | Spark AR
 fO-VpoMvoMo // Spark AR Tutorial : Instagram Filters - Cara Saya Membuat Filter Joker
 9Kdx4rkPXM0 // Joker Face AR | AR101 Assignment | SparkAR
+1CtvUmfbtnE // Joker Face Filter Explanation📚 Video
 
 # Hand tracker
 VsLjCqNBd1o // Spark AR Tutorial:  Hand Tracker en español
@@ -405,6 +423,7 @@ dlKdDYiodC8 // Review filter Instagram terbaru! Cobain 35+ filter instagram terb
 RMmKFpIbsgc // Funny Face! Bagi bagi filter Instagram gratis! - Spark AR Project
 BjhPW9QnNhA // Cara upload filter buatan kita ke Instagram sendiri - Spark AR Project
 qGTQkoDL-DM // как сделать маску и пресет в spark ar hub🖇️/cinnthux
+xfdYw83YOXU // COMO FAZER FILTRO PRO INSTAGRAM E FACEBOOK
 
 # LUT
 lxF-ecbkbr4 // Color LUTs in Spark AR
@@ -579,6 +598,8 @@ SxLOwee49co // Como colocar um seletor no meu filtro / Native UI Picker v85 - Sp
 sUDShhX593g // CARA MENAMPILKAN NATIVE UI PICKER BARU SPARK AR V85 PART 2 | SPARK AR TUTORIAL INDONESIA
 Yumu3aqeRbI // Spark AR Native UI Picker 2020 for 3D Objects (update v85+)
 QXT5BRtmxm4 // Native UI PICKER ON PATCH EDITOR || Spark AR || Instargam Filter || Rbkavin
+_4CO2I6dhQA // УРОКИ SPARK AR. Делаем Native UI Picker NEW API v87 👌. Переключаем Пресеты и Объекты кнопками.
+0AdmlS6bx2s // Spark AR: Lut + Color Adjustments + Retouch. 2 Pickers + Slider
 
 # Neon light
 qKj6tSOolqk // Spark AR Studio - Neonaura - Efecto sencillo basado en segmentación -
@@ -672,9 +693,14 @@ T18xS9Q1KyU // SPARK AR STUDIO. Маска в Инстаграм. Нимб
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in SPARK AR)
 ggz6GuIRXDE // Spark AR studio урок СИСТЕМА ЧАСТИЦ НАД ГОЛОВОЙ-БАБОЧКИ/ tutorials  particles butterflies overhead
 nomeWk6Ccn0 // Spark AR Lesson 5: Hearts Coming Out from Mouth (Patch Editor, Particle System)
+HGhvtqbpACg // TUTORIAL SPARK AR STUDIO MENAMBAHKAN BACKGROUN DAN PARTIKEL EFEK
 7V_k465rErU // SPARK AR  particles emitter tutorial - bubbles flying out from mouth
 iHFs-WZTh80 // Emitter(particle system) in Spark Ar - Part 19. Частицы, фильтр для инстаграма. Masks in Spark Ar
+l5Doa4UDyWc // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / Partikelsystem & blinzeln 2020
 sivgQADadbs // Tutorial Membuat Particle Love Dan Music - Spark Ar Tutorial
+jtqldgvWI9A // TUTORIAL SPARK AR 3D, PARTICLE, AUDIO CUMA 5 MENIT!!!
+xmcShsl-qlE // Cara Bikin Filter Instagram Partikel | SPARK AR TUTORIAL INDONESIA
+vpAftlJ2B3I // CARA MEMBUAT FILTER INSTAGRAM - Particle System with Love
 
 # Patch Editor
 S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
@@ -714,6 +740,8 @@ St7ond-pW7M // Cara Buat Filter Tatto Instagram Cuma Dari Picsart Part 1 ( About
 hLvmyYpHoho // Cara Buat Filter Tatto Cuma Dari Picsart Part 2 ( Spark AR Finishing)
 PULxnnYyucg // I made my own Instagram filter using Picsart + Spark AR Studio | Sophia Molina
 v3lIsJmELLo // CARA MEMBUAT FILTER INSTAGRAM | Efek Filter Wajah Mengkilap dengan Picsart di HP Android
+Ke-y8eMFZHE // Cara Membuat Filter Instagram pakai PicsArt dan SparkAr  // Gampang dan Simpel banget!!
+EfNgZpTrq2c // TUTORIAL FILTER INSTAGRAM GAMPANG BANGET CUMA PAKE PICSART!
 
 # Plane tracker / Target tracker
 ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
@@ -916,6 +944,12 @@ hfEH79FtRS4 // Hero/Villain Mask Tap to Change Filter Effect (Patch Editor) | In
 1ML_yfDRg6Q // Hero/Villain Mask Tap to Change Filter Effect (Quick Version)| Instagram/Facebook |Spark AR Tutorial
 fgS4iHfpuIA // How to Screen Tap Between Face Meshes in SPARK AR
 AKS6m_uxgFI // Создание масок инстаграм. Урок 7 - патчи. Как сделать переключение по нажатию на экран
+
+# This or That
+5b63jRTbWN0 // MAIN FILTER INSTAGRAM THIS OR THAT: Pilihannya bikin Dilemma
+jpTkJCjNBo0 // THIS OR THAT Filter für Instagram | SPARK AR  Anfänger Tutorial Deutsch
+CbqAzct2L-Y // How to Make "This or That" Quiz Instagram Filter Spark AR Tutorial
+54mVAA_IjlM // GAME FOR TWO Instagram Filter / Head Lean Nod Questions for Couples Spark AR Studio Tutorial
 
 # Timer
 uR-JQUQGsak // Create a timer for Spark AR Studio - download project and full tutorial

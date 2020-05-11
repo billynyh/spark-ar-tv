@@ -43,6 +43,7 @@ Luf4YoxI0rg // VIRALIZAR EFECTO INSTAGRAM | Experimento #2
 XkMz4EXuEIo // CÓMO HACER UN FILTRO DE INSTAGRAM | Claves del éxito
 Gz7HH-I3MTs // CURSO SPARK AR STUDIO | Ajustar elementos a diferentes dispositivos #6
 zdGEeVNwMEI // CURSO SPARK AR STUDIO | Sencillos movimientos de objetos #7
+QERYVt5J3BI // CURSO SPARK AR STUDIO | Partículas #8
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -131,6 +132,7 @@ G5rASl5jH_c // CREA Filtro de Instagram con MÚSICA o edición de VOZ (SPARK AR)
 zL74F4yGwYQ // ANIMACIONES en Spark AR FILTRO DE INSTAGRAM
 N0V0t3OPNDU // Crear FILTRO RANDOM con SONIDO (que canción)
 k_WkwoLBuJU // PREGUNTAS sobre SPARK AR y SOLUCIONES
+NVkvGYRlx_4 // CREA tus filtros Random (PARTE 2) Spark AR
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español

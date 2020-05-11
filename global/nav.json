@@ -148,7 +148,7 @@
       {
         "title": "360 background",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/360-background.html",
-        "video_count": 4
+        "video_count": 5
       },
       {
         "title": "3D model",
@@ -163,7 +163,7 @@
       {
         "title": "Audio",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/audio.html",
-        "video_count": 34
+        "video_count": 38
       },
       {
         "title": "Basic JS script",
@@ -188,12 +188,12 @@
       {
         "title": "Dust",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/dust.html",
-        "video_count": 13
+        "video_count": 18
       },
       {
         "title": "Edge detection / KiraKira",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/edge-detection-kirakira.html",
-        "video_count": 25
+        "video_count": 32
       },
       {
         "title": "Eyelashes",
@@ -233,7 +233,7 @@
       {
         "title": "Halloween / Joker",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/halloween-joker.html",
-        "video_count": 13
+        "video_count": 14
       },
       {
         "title": "Hand tracker",
@@ -253,7 +253,7 @@
       {
         "title": "Kid creators",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/kid-creators.html",
-        "video_count": 14
+        "video_count": 15
       },
       {
         "title": "LUT",
@@ -278,7 +278,7 @@
       {
         "title": "Native UI Picker / Slider",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/native-ui.html",
-        "video_count": 47
+        "video_count": 49
       },
       {
         "title": "Neon light",
@@ -303,7 +303,7 @@
       {
         "title": "Particles",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/particles.html",
-        "video_count": 40
+        "video_count": 45
       },
       {
         "title": "Patch Editor",
@@ -313,7 +313,7 @@
       {
         "title": "Picsart",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/picsart.html",
-        "video_count": 10
+        "video_count": 12
       },
       {
         "title": "Plane tracker / Target tracker",
@@ -354,6 +354,11 @@
         "title": "Tap to change",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/tap-to-change.html",
         "video_count": 33
+      },
+      {
+        "title": "This or That",
+        "url": "https://billynyh.github.io/spark-ar-tv/global/topics/this-or-that.html",
+        "video_count": 4
       },
       {
         "title": "Timer",
@@ -420,13 +425,6 @@
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/99wNU14mcKI/hqdefault.jpg",
-      "title": "Channel: Tutoriais do Kewin",
-      "meta1": "Num videos: 40",
-      "meta2": null
-    },
-    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC4-1nuI6rLNfCGf3Zzh4RYA.html",
       "thumbnail_url": "https://i.ytimg.com/vi/8giLTE6Ivv0/hqdefault.jpg",
       "title": "Channel: Faraaz",
@@ -438,6 +436,13 @@
       "thumbnail_url": "https://i.ytimg.com/vi/58zQ0f30xRY/hqdefault.jpg",
       "title": "Channel: Emory Tan",
       "meta1": "Num videos: 38",
+      "meta2": null
+    },
+    {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCI7pSUi_CX5ElJGfOl6n4cA.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qh-Y9k8YaVw/hqdefault.jpg",
+      "title": "Channel: Artem Maiko",
+      "meta1": "Num videos: 37",
       "meta2": null
     },
     {
@@ -602,13 +607,6 @@
       "meta2": "2020-04-03"
     },
     {
-      "url": "https://www.youtube.com/watch?v=vmkvX8q_xtU",
-      "thumbnail_url": "https://i.ytimg.com/vi/vmkvX8q_xtU/hqdefault.jpg",
-      "title": "Quanto e como cobrar pelos seus filtros - OTAODOFINO | Papo Aumentado #1",
-      "meta1": "Tutoriais do Kewin",
-      "meta2": "2020-04-04"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=9352RfOIj08",
       "thumbnail_url": "https://i.ytimg.com/vi/9352RfOIj08/hqdefault.jpg",
       "title": "CARA MENGGERAKAN RECTANGLE DENGAN FACE TRACKER | SPARK AR TUTORIAL INDONESIA",
@@ -719,6 +717,13 @@
       "title": "\u0e2a\u0e2d\u0e19\u0e17\u0e33\u0e1f\u0e34\u0e25\u0e40\u0e15\u0e2d\u0e23\u0e4c IG EP1: Instagram \u0e1f\u0e34\u0e25\u0e40\u0e15\u0e2d\u0e23\u0e4c \u0e17\u0e33\u0e07\u0e48\u0e32\u0e22\u0e19\u0e34\u0e14\u0e40\u0e14\u0e35\u0e22\u0e27",
       "meta1": "New Kanatip",
       "meta2": "2019-12-22"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KGWAvFbCGVo",
+      "thumbnail_url": "https://i.ytimg.com/vi/KGWAvFbCGVo/hqdefault.jpg",
+      "title": "Spark AR Studio - Glitter (Edge e Light Detection similar ao KiraKira+) - Por @julliana.dev",
+      "meta1": "Julliana Spark AR Brasil",
+      "meta2": "2019-12-18"
     }
   ],
   "recent_weeks": [
@@ -726,28 +731,28 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-04.html",
       "thumbnail_url": "https://i.ytimg.com/vi/vyw8ce2PdOM/hqdefault.jpg",
       "title": "Week 2020-05-04",
-      "meta1": "Num videos: 138",
+      "meta1": "Num videos: 152",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-27.html",
       "thumbnail_url": "https://i.ytimg.com/vi/raL9TyX5IEs/hqdefault.jpg",
       "title": "Week 2020-04-27",
-      "meta1": "Num videos: 169",
+      "meta1": "Num videos: 168",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-20.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qP3MFws1uhA/hqdefault.jpg",
       "title": "Week 2020-04-20",
-      "meta1": "Num videos: 157",
+      "meta1": "Num videos: 156",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-13.html",
       "thumbnail_url": "https://i.ytimg.com/vi/xJOEFuFLfrU/hqdefault.jpg",
       "title": "Week 2020-04-13",
-      "meta1": "Num videos: 124",
+      "meta1": "Num videos: 123",
       "meta2": null
     },
     {
@@ -761,7 +766,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-03-30.html",
       "thumbnail_url": "https://i.ytimg.com/vi/0RQb5nyZ2nc/hqdefault.jpg",
       "title": "Week 2020-03-30",
-      "meta1": "Num videos: 86",
+      "meta1": "Num videos: 85",
       "meta2": null
     }
   ]
