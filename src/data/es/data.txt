@@ -115,6 +115,7 @@ M6To3Zk9NQc // Tutorial cómo añadir hora y fecha a un filtro de Spark AR para 
 1RcsZBiNIF0 // Tutorial Retouching con LUT para Spark AR versión v87
 0zC0VR6Be0Q // Cómo poner pestañas en 3D con Spark AR para instagram
 rL_l--ciUEA // Spark AR tutorial efecto granulado para Instagram paso a paso
+Ac4lXRlCbnY // Cómo hacer el filtro Kira Kira con Lut y Retouching tutorial Spark AR paso a paso
 
 # Eani13
 ntbOMqVjA8Y // Cómo hacer filtros de instagram tipo ruleta con spark AR (Qué personaje eres?)
@@ -189,6 +190,7 @@ XiMs1IBDWj4 // Spark AR Tutorial | Color Picker for 3d Object texture | Screen t
 Zzl4ukjL6qE // Spark AR Tutorial - Real 3D Map - Plane tracker |  Blender GIS
 CBNFBT13Zls // Spark AR Tutorial - Easy Blink Games Instagram Filter
 sggORaVaWdo // Spark AR Tutorial | Shadow's object | Templates (2d stickers & Object Reveal)
+dkidmE2buTw // Spark AR - Random Image Sequence with sound | Instagram Filter
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
