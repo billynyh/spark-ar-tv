@@ -315,6 +315,9 @@ bsKS4Mp02og // 03 Spark AR workflow
 -xdeNrClC3Y // Spark AR Mask
 1WQOckuupYs // Spark AR Export Mask
 
+# Feelters Spark AR
+HpatUjqDYIc // Tutorial - Spark AR - Gallery Image Picker
+
 # feeyonn
 KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio tutorial
 
@@ -671,6 +674,8 @@ qhjlGSPPJZU // Teach on Instagram Live: Teaching Mirror Effect Spark AR Studio T
 -aJD8oIPaWI // Pick Multiple Objects in Spark AR Studio: And Multiplexer Patch Asset, Sender & Receiver Tutorial
 g2a93PBYEJ0 // Simple Timer: Spark AR Studio Patch Asset Tutorial
 ZTn2ATGQdtI // Millisecond Timer in Spark AR Studio: Simple Timer vs. Runtime Showdown
+e7dkGIE48oE // Personality Quiz This-Or-That Filter Game with Weighted Questions: Spark AR
+jB4HIN2Btn0 // Get Day of the WEEK in Spark AR v87+ Free DATE Project Template Download
 
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
@@ -731,6 +736,7 @@ jRD2hMQpIr0 // Adding the Native UI Picker to Switch 3D Object in SPARK AR
 Yumu3aqeRbI // Spark AR Native UI Picker 2020 for 3D Objects (update v85+)
 8lWnWs0U6rA // How to Create a Retouching in SPARK AR combined with the Fast Color LUT Patch
 t5hHstJ6i4c // How to Create a 2D Game in SPARK AR [How to Start the Game and Set Objects in Motion]
+xWIqnVE8VM4 // How to Create a 2D Game in SPARK AR [Gaming Logic, Count Score, Start/End the Game]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -763,6 +769,9 @@ QXT5BRtmxm4 // Native UI PICKER ON PATCH EDITOR || Spark AR || Instargam Filter 
 rcqHiR0ULx8 // How To Create a Spark AR "What Are You" Instagram Filter
 
 # Reezzy
+bIi4DBStgqg // 25 color picker for spark ar
+DhXpIH8dTWM // 25 number picker for Spark AR
+6Afb8mz2fKU // Spark AR film grain
 eTR2G82eR9w // Spark ar Butterfly asset
 
 # Reticent Dude
