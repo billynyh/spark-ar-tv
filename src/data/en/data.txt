@@ -115,6 +115,9 @@ NXm4SAtidmM // Davide La Sala (Facebook, Inc.): Intro to Facebook's Spark AR: Im
 # Ayush Krishnan
 MWgIJ-q2OHE // How to create a custom Instagram Filter in less than 10 minutes! ❤️🔥
 
+# Ayush Wadhwa
+t0hix1pxnXg // How to make 'Guess The Gibberish' & More Instagram Filters | EASIEST WAY!
+
 # azo zea
 4jUAeLkPYow // How to make an AR portal effect with SparkAR
 
@@ -288,6 +291,7 @@ JQHj9mVrQzU // 3D Score Counter Spark AR | Game Score Counter
 Dzi25J8gmZ8 // Publishing an Effects Maker AR Camera Filter Effect on Instagram
 r0Z506YclS8 // Who is More Likely? Instagram Filter SparkAR Tutorial by EffectsMaker.com
 HAS8KBU2VPU // How to make a Guess the Gibberish style filter on Instagram on EffectsMaker.com in under 2 minutes
+np7oN_JKPTE // Effects Maker Filter Creator Spark AR Effect Tutorial Intro
 
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
@@ -957,6 +961,8 @@ TsUnA7QWW8o // How to MAKE Instagram FILTERS using Lightroom PRESETS | Spark AR 
 # Trashbag Ghost
 R5I98cCH1DY // Trashbag Ghost Gets Some Shocking Results on His First Spark AR Studio Filter
 wOtxInU5VNA // Trashbag Ghost Paints His Face in AR!?
+PrkUjRWs3M0 // Highlight: Trashbag Ghost Reviews a Can of Seltzer with a Cursed Chewbacca Instagram Face Filter
+sKZ3L88r7sE // Trashbag Ghost Taking Your Requests Painting Instagram Face Filters Live!
 
 # Trionn Tech N' Stuff
 uGDmTE4VoA8 // Install Spark AR Studio - Getting Started with Spark AR - Episode 01
@@ -991,6 +997,9 @@ T273zL-t3xE // How to use Vertex Attribute - Spark AR tutorial
 dfsix2fxIz0 // How to use the Swizzle patch - Spark AR tutorial
 poqC24bmnyw // How to use the AND OR and NOT patches - Spark AR tutorial
 RrIgHKAePdU // How to use the Option Switch and Option Picker - Spark AR tutorial
+
+# Ulka Chandini Pendit
+3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
 
 # Unnecessary Inventions
 DTA9PRd3o2Y // I got my own Instagram Filter (Spark AR Tutorial)

@@ -459,6 +459,9 @@ tQory2mDets // Spark AR. Как убрать красные помехи на т
 # MediaBrick
 uNZGjmMgY8Q // Создай свою маску! Мастер-класс от MediaBrick
 
+# METKIN Продакшн
+uuT1vyl-gsw // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ // ДЕЛАЕМ СВОЙ ФИЛЬТР В SPARK AR
+
 # Mishanya
 -sp6VTY3o4s // Как сделать анимационную маску в instagram за 13 минут 13 секунд
 PZ1sNdx5Qj4 // Изи маска в instagram за 5 минут
@@ -724,6 +727,8 @@ bdQKlH601-w // Free Spark Ar Projects 11.0 - Part 36. Бесплатные фи�
 yxCg9WWk0kI // Make-Up Filter in Spark Ar - Part 38. Makeup filter for instagram. Макияж фильтр для инстаграма.
 ZeKSa1EVIog // 18 Free Masks For insta/Spark Ar - Part 39.18 Бесплатных фильтров масок для инстаграма.Free filter
 -UBmKdLcP5k // COLOR luts + glitch effect - Part 40. Spark Ar. color luts(115 - 1$). Фильтры инста+глитч эффект.
+a1bqa3GQAUQ // Teeth whitening v2. in SparkAR - Part 41. Белые зубы фильтр. Фильтр бесплатно.
+A2mNU7ageRM // Face Zoom effect in SparkAr in 2min - Part 42. Увеличение головы фильтр.  Filter increasing object.
 
 # Sveta Vesna
 p8qJKPjadkE // Spark AR/УРОК 1.РИСУНКИ НА ЛИЦЕ И МАКИЯЖ!
@@ -970,6 +975,7 @@ VsrAvh6TPn4 // Spark AR - Fake Face Deformation v3. Change size of lips, eyes an
 zgBzAwNK38Y // Spark AR - Eye Concealer / Замазывание синяков и мешков под глазами
 JkI2aD-tyEM // How LUT works
 0AdmlS6bx2s // Spark AR: Lut + Color Adjustments + Retouch. 2 Pickers + Slider
+NZd7ZAskIk0 // Spark AR - Fake Face Deformation v4.0
 
 # Для тех, у кого лапки
 OgRocjLfXgU // Spark AR - Как сделать надпись на лице. Маска для Инстаграм
