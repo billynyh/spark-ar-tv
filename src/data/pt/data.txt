@@ -339,6 +339,7 @@ MMTta6yjnrg // Filtro com músicas ou efeitos sonoros - Spark Ar #33
 Zm-MbHiy1dg // Como usar limpeza de pele junto com preset de cor nos filtros - LUT + Retouch - Spark Ar #34
 QT3d4u0Z40Q // Por que meu filtro não funciona em todos aparelhos? - Spark Ar #35
 TDB7c3o_To8 // Template filtro com frase girando em volta da cabeça - Spark Ar #36
+HigFzcNSxsw // Como usar imagem da galeria como textura | Tela Verde - Spark Ar
 
 # VA Designer
 VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook
