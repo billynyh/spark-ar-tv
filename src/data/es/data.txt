@@ -58,6 +58,7 @@ XkMz4EXuEIo // CÓMO HACER UN FILTRO DE INSTAGRAM | Claves del éxito
 Gz7HH-I3MTs // CURSO SPARK AR STUDIO | Ajustar elementos a diferentes dispositivos #6
 zdGEeVNwMEI // CURSO SPARK AR STUDIO | Sencillos movimientos de objetos #7
 QERYVt5J3BI // CURSO SPARK AR STUDIO | Partículas #8
+vI6FbXcNr3U // CURSO SPARK AR STUDIO | Screen Tap cambiar elementos #9
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -148,6 +149,7 @@ zL74F4yGwYQ // ANIMACIONES en Spark AR FILTRO DE INSTAGRAM
 N0V0t3OPNDU // Crear FILTRO RANDOM con SONIDO (que canción)
 k_WkwoLBuJU // PREGUNTAS sobre SPARK AR y SOLUCIONES
 NVkvGYRlx_4 // CREA tus filtros Random (PARTE 2) Spark AR
+0bLfpC4k2zE // Crea Filtro de GIRAR alrededor de la CARA (Spark AR)
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -248,6 +250,9 @@ MZOUJATcuVA // Cómo CREAR y PUBLICAR filtros en Instagram 🔥
 # JACOB DUQUE
 gQLKCtZB-Fc // ➡️ Como HACER un FILTRO para INSTAGRAM en 15 MINS MUY FACIL  ✅ JACOB DUQUE
 
+# Jefer Williams PH
+ELKbRTySeXU // Convierte tus Presets de Lightroom en filtros de Instagram
+
 # Jesus Taquillo
 kCz7Nd5ftPI // Como hacer filtros para INSTAGRAM o FACEBOOK /Spark AR
 H6DJPJKSbeQ // Como subir filtros a INSTAGRAM / Spark AR / español
@@ -298,6 +303,11 @@ tbcxVqAd8Hw // Spark Ar Studio Mda latam
 tk-pPlLi5Co // Spark Ar studio Botones desplegables-Drop-down buttons
 g3yY4XcYMg4 // Jungle Game, Augmente Reality Hackathon SparkAr 2020
 BKX1FI3_P28 // City Game Augmented Reality Hackathon SparkAr 2020
+
+# Menke 2.0
+YT-y7HuEXgs // Crea tu propio filtro de colores para Instagram - Spark AR Tutorial
+-i2m5hE4a9o // Crea tu propio filtro con tatuajes o texto en la cara para Instagram - Spark AR tutorial
+dXLC2NrEeC8 // Como exportar y subir filtros para Instagram - Spark AR tutorial
 
 # Michael Hernández
 hC0izIDukvw // Como Crear tus Propios Filtros de Instagram
