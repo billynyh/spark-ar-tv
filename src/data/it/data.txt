@@ -143,6 +143,7 @@ VYAJ8WKQAbo // Spark Ar Tutorial - Frame animation using SDF - Easy animations i
 VQxcSMsvfeU // Spark Ar Tutorial - Flashy lights transition and Cinematic look using TEXTURE SAMPLER + LUT
 jPrzLb-hx5Y // Spark Ar tutorial - Motion Pop HALFTONE effect -  Using SDF in patch editor - no script
 lY92ACD5_2Y // Spark Ar tutorial - Add Music part 2 - How to make the audio start when pressing record on device
+7VuRK5Ii22c // Spark Ar Studio Tutorial - Activate the GALLERY TEXTURE option and insert custom images inside IRIS
 
 # Nicolò Fava
 TXtV8VaLFpg // Come ho creato 5(+1) FILTRI INSTAGRAM in 5 giorni

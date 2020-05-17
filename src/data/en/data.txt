@@ -633,6 +633,8 @@ Xq7b5j6QrCo // Spark AR tutorial: Create "Mood of the Day" filter with Dynamic T
 05Y44gE_eds // Spark AR hackathon 2020: Monster Escape (AR game filter)  | Maru.studio x Rbkavin
 033uM62blLw // Spark AR: Retouching combined with Color LUTs
 knM1zI7VaC0 // Spark AR Template: LUTs + Retouching + Native UI  (All-in-one for Instagram filter)
+jWD2Mi-j8gM // Spark AR tutorial: How to add Video real-time simulator
+DAs145P-usQ // Spark AR Studio V85+ | Getting Started
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
