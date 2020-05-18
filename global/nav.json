@@ -435,16 +435,16 @@
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCI7pSUi_CX5ElJGfOl6n4cA.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qh-Y9k8YaVw/hqdefault.jpg",
-      "title": "Channel: Artem Maiko",
-      "meta1": "Num videos: 41",
-      "meta2": null
-    },
-    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCJt1CtJlosyPZMuxBstwy4g.html",
       "thumbnail_url": "https://i.ytimg.com/vi/58zQ0f30xRY/hqdefault.jpg",
       "title": "Channel: Emory Tan",
+      "meta1": "Num videos: 42",
+      "meta2": null
+    },
+    {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCI7pSUi_CX5ElJGfOl6n4cA.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qh-Y9k8YaVw/hqdefault.jpg",
+      "title": "Channel: Artem Maiko",
       "meta1": "Num videos: 41",
       "meta2": null
     },
@@ -738,6 +738,13 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-18.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/i75Z196jBWI/hqdefault.jpg",
+      "title": "Week 2020-05-18",
+      "meta1": "Num videos: 3",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-11.html",
       "thumbnail_url": "https://i.ytimg.com/vi/uuT1vyl-gsw/hqdefault.jpg",
       "title": "Week 2020-05-11",
@@ -770,13 +777,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xJOEFuFLfrU/hqdefault.jpg",
       "title": "Week 2020-04-13",
       "meta1": "Num videos: 124",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-06.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/JCMI2XBDS-A/hqdefault.jpg",
-      "title": "Week 2020-04-06",
-      "meta1": "Num videos: 109",
       "meta2": null
     }
   ]
