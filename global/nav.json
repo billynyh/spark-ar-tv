@@ -163,7 +163,7 @@
       {
         "title": "Audio",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/audio.html",
-        "video_count": 38
+        "video_count": 39
       },
       {
         "title": "Basic JS script",
@@ -193,7 +193,7 @@
       {
         "title": "Edge detection / KiraKira",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/edge-detection-kirakira.html",
-        "video_count": 32
+        "video_count": 33
       },
       {
         "title": "Eyelashes",
@@ -228,7 +228,7 @@
       {
         "title": "Gallery Texture",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/gallery-texture.html",
-        "video_count": 6
+        "video_count": 8
       },
       {
         "title": "Game",
@@ -288,7 +288,7 @@
       {
         "title": "Neon light",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/neon-light.html",
-        "video_count": 15
+        "video_count": 16
       },
       {
         "title": "Occluder / Occlusion",
@@ -314,6 +314,11 @@
         "title": "Patch Editor",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/patch-editor.html",
         "video_count": 25
+      },
+      {
+        "title": "Persistence Module",
+        "url": "https://billynyh.github.io/spark-ar-tv/global/topics/persistence-module.html",
+        "video_count": 1
       },
       {
         "title": "Picsart",

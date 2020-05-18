@@ -112,6 +112,7 @@ lY92ACD5_2Y // Spark Ar tutorial - Add Music part 2 - How to make the audio star
 jtqldgvWI9A // TUTORIAL SPARK AR 3D, PARTICLE, AUDIO CUMA 5 MENIT!!!
 3K9f1od2h5E // Import failed Spark ar.  Spark ar Audio #spark ar audio format#m4Amono#import#failed#
 jET-30_cNOQ // Как загрузить audio Spark AR studio #zhandosxx#sparkar#audio#
+dkidmE2buTw // Spark AR - Random Image Sequence with sound | Instagram Filter
 
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
@@ -231,6 +232,7 @@ s3nMvPI-xnQ // Cara membuat filter instagram SPARKLE KIRA & LUT - Ala ala filter
 ieIy0KpWprE // CARA MEMBUAT FILTER INSTAGRAM - Sparkle Kira Kira Glitter
 wZfwkUW7_qA // Cara Buat Filter Instagram Bling/Sparkle kira-kira + LUT aesthetic | Tutorial Spark AR Indonesia
 Zuqyto3dKUw // Spark AR Tutorial : Instagram Filters - Cara Membuat Filter Sparkle Kira Instagram
+Ac4lXRlCbnY // Cómo hacer el filtro Kira Kira con Lut y Retouching tutorial Spark AR paso a paso
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -330,12 +332,14 @@ c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio
 vq7a_sQO2qw // Freckles in Spark Ar - Part 35. Веснушки фильтр. Freckles filter for instagram. Free Filter.
 
 # Gallery Texture
+r_nEYBQ-tGc // Gardens SparkAR - Augmented Reality Art Gallery
 wJhoW168BdQ // Gallery Texture Spark AR v88 - новая фишка для новых заказов! Тренд!
 vnZ7AyLjpzs // Уроки Spark AR Studio v 88 - Gallery Texture. Заменяем фон на видео или фото из галерее смартфона.
 HpatUjqDYIc // Tutorial - Spark AR - Gallery Image Picker
 ibRj1V0YEXk // Spark AR -  Gallery picker | Background | Target tracker & 3D object
 itMQB1HVfw8 // Gallery Picker | Spark AR Studio
 Am4N_Dc33Po // Spark AR Tutorial: Gallery Texture/Cвое фото или видео на заднем фоне
+7VuRK5Ii22c // Spark Ar Studio Tutorial - Activate the GALLERY TEXTURE option and insert custom images inside IRIS
 
 # Game
 -r256yKFeos // Spark AR Masterclass: AR and Gaming
@@ -630,6 +634,7 @@ mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA te
 cWMT5o8XvTs // SPARK AR- Máscara de luzes/Neon- Crie seu próprio Filtro para Instagram
 G8hrtSFXVEA // Cara Membuat Filter Instagram NEON Animasi | Tutorial Spark AR 2020
 oNNi3hRBvgQ // Cara Buat Filter Instagram Neon / Light Face
+rO4xd6Q4zRo // Как сделать маску в Spark AR? Создание неоновой маски с тестом на глазах в Instagram!
 
 # Occluder / Occlusion
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -741,6 +746,9 @@ D9rEDcY8XE0 // Alternate Layer Material (Patch Editor) Filter Effect | Instagram
 _eYKhKMIiTA // Gradient Colour Filter Effect (Tap Change, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 ZJKNGSLIR7g // How to use patches in Spark AR - Basic tutorial
 s12v_GuCpLg // How to use the transition patch - Spark AR tutorial
+
+# Persistence Module
+eysrVgdPFD0 // Tutorial - Spark Ar - How to use Persistence module ? - Flamingo TV
 
 # Picsart
 -NcY9njbivw // CARA MEMBUAT FILTER INSTAGRAM | Di HP Android dengan Picsart Efek Filter Wajah
