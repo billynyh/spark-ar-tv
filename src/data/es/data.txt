@@ -308,6 +308,7 @@ BKX1FI3_P28 // City Game Augmented Reality Hackathon SparkAr 2020
 YT-y7HuEXgs // Crea tu propio filtro de colores para Instagram - Spark AR Tutorial
 -i2m5hE4a9o // Crea tu propio filtro con tatuajes o texto en la cara para Instagram - Spark AR tutorial
 dXLC2NrEeC8 // Como exportar y subir filtros para Instagram - Spark AR tutorial
+yHi6UZyTV7Y // Crea un filtro de luces para instagram - Spark AR tutorial
 
 # Michael Hernández
 hC0izIDukvw // Como Crear tus Propios Filtros de Instagram
@@ -335,6 +336,7 @@ BK1_8dZyJiQ // Modelado “Zorro - Fox” con blender. Máscara para filtro Inst
 BSVK8alpSJ8 // Naza.carrero y Daniel Murcia - blender y realidad aumentada - spark ar
 JMqLwEHfsC4 // Puerco araña nuevo filtro Instagram - spark ar studio
 qeweWr6mRo0 // Tutorial como cambiar el fondo con imágenes y videos de la galería Filtro Instagram con Spark Ar
+-3ew83N8xlw // Como hacer que tu objeto 3D con huesos se mueva en spark ar studio tutorial
 
 # Neo Luisk
 1i7lNmf9RP4 // COMO HACER FILTROS DE INSTAGRAM (TUTORIAL)
