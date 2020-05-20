@@ -240,6 +240,9 @@ GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
 # Colm Hayden
 hPV6cnZM0xw // Aesthetic Spark AR face filter speed paint
 
+# Computer Science
+ORpSAUzmAyY // How to make filter Instagram with spark AR
+
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
 
@@ -346,6 +349,7 @@ woc5UtOZtfk // Intro Tutorial to Spark AR for Creating Instagram Story Filters
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
 ZEJ3pc7Nr64 // Spark AR Vídeos PT - Jogo Simples Usando o Patch Editor!
 NuTJ3r-iHvU // Spark AR Vídeos PT - Maquiagem Simples I Utilizando o Photoshop!
+Pzd4p_w8ebY // Spark AR Vídeos PT - Filtro para o Instagram LUT + Ruídos!
 
 # Flex Studio
 pz7zlTipqrg // "Which Are You" Instagram Filter Tutorial IN UNDER 10 MINUTES (Easiest Method)
@@ -681,6 +685,9 @@ LKHCrMqFhq4 // CONVERT YOUR LIGHTROOM PRESETS INTO INSTAGRAM FILTERS IN 10 MINUT
 # Mr Nubyan
 8qmD-LPlIMw // How To Make A Corona Mask Face Filter | SPARK AR | Facebook & Instagram | Augmented Reality
 
+# Musiclick
+xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spark AR Studio
+
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
 wQyHIBDjY50 // Watch me build #3 │Spark Ar
@@ -928,6 +935,9 @@ NXuWUaPF9lU // How To Create Instagram Story Filters - Spark AR Tutorial For Beg
 # Social Sam
 F3hV1ak7swY // HOW TO MAKE YOUR OWN INSTAGRAM FILTER (with Canva)
 
+# Sohail Mehra
+I1PlESFdyac // Spark AR Scripting - Episode 1 - Basics
+
 # Sophia Molina
 PULxnnYyucg // I made my own Instagram filter using Picsart + Spark AR Studio | Sophia Molina
 etY-DxtANNQ // Spark Ar tutorial: Glass skin/highlighter effect + make up (part 2)
@@ -940,6 +950,9 @@ IFs2mdyh8PE // Lesson 3  -Tap to change mask. Spark AR Tutorials. How to change 
 
 # Spark AR Tutorials
 7Bfs3YfHpJU // HOW TO MAKE INSTAGRAM FILTER IN 3 MINUTES/ WORK WITH SKIN (Spark AR)
+
+# SparkArBeauty
+w0s1WTQT9U0 // Aurora glitter instruction for Spark AR. Read the description
 
 # Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
@@ -1107,6 +1120,7 @@ J0rXlabi2L8 // Random Which... are you filter for Facebook and Instagram DIY tut
 DXH0GZYW2LE // Trigger a sound with a random value! SPARK AR
 vU7PaBJzRLE // Replace background with animation - Spark AR
 7V_k465rErU // SPARK AR  particles emitter tutorial - bubbles flying out from mouth
+TJAcS-keTX4 // Spark AR game tutorial - controlled by head movement (part1)
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74

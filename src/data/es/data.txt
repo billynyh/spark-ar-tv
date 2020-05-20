@@ -148,6 +148,7 @@ G5rASl5jH_c // CREA Filtro de Instagram con MÚSICA o edición de VOZ (SPARK AR)
 zL74F4yGwYQ // ANIMACIONES en Spark AR FILTRO DE INSTAGRAM
 N0V0t3OPNDU // Crear FILTRO RANDOM con SONIDO (que canción)
 k_WkwoLBuJU // PREGUNTAS sobre SPARK AR y SOLUCIONES
+ujBbL33rC3E // Como Combinar FILTRO DE COLOR con FACE MESH (SPARK AR)
 NVkvGYRlx_4 // CREA tus filtros Random (PARTE 2) Spark AR
 0bLfpC4k2zE // Crea Filtro de GIRAR alrededor de la CARA (Spark AR)
 
@@ -208,6 +209,7 @@ CBNFBT13Zls // Spark AR Tutorial - Easy Blink Games Instagram Filter
 sggORaVaWdo // Spark AR Tutorial | Shadow's object | Templates (2d stickers & Object Reveal)
 dkidmE2buTw // Spark AR - Random Image Sequence with sound | Instagram Filter
 ibRj1V0YEXk // Spark AR -  Gallery picker | Background | Target tracker & 3D object
+kjAwEUT_ltE // Spark AR Tutorial - Blink games "catch me" - coincidence of elements | Part II
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -350,6 +352,9 @@ _kyaopAlxro // Cómo PUBLICAR tus propios filtros en Instagram
 
 # PITINSTUDIOS
 sNrPvnlpOT0 // CREAR FILTROS PARA INSTAGRAM
+
+# Ricardo Urquidi
+9Xa1WJVDqNk // Realidad aumentada de tus ilustraciones con Spark AR studio
 
 # Sandra Milena Mendoza Mendoza
 q-H_3OM8yxY // Presentación Pecha Kucha Spark AR.
