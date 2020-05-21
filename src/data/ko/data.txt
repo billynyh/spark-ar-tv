@@ -15,10 +15,7 @@ ZDFd5iamRlw // [Spark AR] 인스타그램 필터 만들기 / 인스타그램 스
 LPMrEb5zR4Y // 04)인스타 스티커 만드는 방법/spark ar 사용법 간단하게 설명하기/인스타 필터 만들기
 Eu07rjQ8WYU // 04)인스타 필터, 스티커 만들기 2 [쫌 더 자세하게 설명,spark ar,클립스튜디오 사용]
 
-# 뷔글김
-5O0hwGr27mU // Spark AR과  3D그림판으로 간단하게 인스타 스티커 만들기 /인스타 face스티커 /spark AR/댓글참고
-
-# 박서영Seo Young Park
+# 서영 아트팩토리
 j2KAHjblm98 // [Spark AR] Instagtam filter tutorial/쉽게 배우는 인스타그램 필터 만들기/튜토리얼(Tattoo effect)
 uWuRhsDkAdY // [Spark AR] Instagtam filter tutorial/쉽게 배우는 인스타그램 필터 만들기/튜토리얼(Light effect)
 0XJSfK_Mp-c // [Spark AR] 다운로드 및 실행/Faceasset 다운받는 방법/ Instagtam filter tutorial/인스타그램 필터 만들기_튜토리얼
@@ -30,7 +27,7 @@ LFRQ_4kuu2w // [Spark AR]Q&A/저는 왜 안될까요?/질문 답변_필터만들
 iT0RwN1Uoqc // [Spark AR]랜덤 질문 효과/화면터치 후 재생_필터 튜토리얼
 bRT8kLxthN0 // [Spark AR]눈,입에서 나오는 효과/파티클(입자)효과_필터 튜토리얼
 fyiEvaDCK2Q // [Spark AR]인스타그램 사진보정필터(with VSCO)/색감보정 필터만들기_튜토리얼
-UyY0isKlq_I // [Spark AR]명품필터 만들기(LV SHINE필터)/ Instagtam filter tutorial/인스타그램 필터 만들기_튜토리얼
+UyY0isKlq_I // [Spark AR]샤넬필터 만드는 법(명품필터_LV SHINE)/ Instagtam filter tutorial/인스타그램 필터 만들기_튜토리얼
 
 # 손호성
 pD7WF5BIFgM // SparkAR 간단히 만든 플라워이펙트
@@ -41,6 +38,9 @@ bc-kKUujEvI // [ Spark AR, Photoshop ] 인스타 스티커 만들기 / Instagram
 # 승연쉽
 qwibKama_pM // 인스타 스티커 만들기 / spark ar 다운방법
 mV0LbtYgLBU // Spark ar 다운로드 방법 / 자세히 알려드려용
+
+# 아영난
+5O0hwGr27mU // Spark AR과  3D그림판으로 간단하게 인스타 스티커 만들기 /인스타 face스티커 /spark AR/댓글참고
 
 # 하이!
 Y3VmDv7SwAk // 인스타 필터 만들기 ! | spark ar | 픽스아트 | 인스타 필터 | 궁금한 점은 설명 참고 해주세요!

@@ -42,6 +42,10 @@ YEgzL8pWL5I // Comment ajouter une interaction dans un filtre Instagram ? - Spar
 # Rémi Abbou
 y-M7prDHPjI // CRÉER UN FILTRE INSTAGRAM SIMPLE (Paris)
 
+# Scheme's visual
+VgT4rwqXAxA // Filtre Instagram | Spark AR Tuto Débutant Filtre Louis Vuitton
+zzUu8aiJHZo // SPARK AR TIME LAPS Instagram Filter Avocado Love
+
 # Solène DRN
 XY01Si4v5ZE // COMMENT FAIRE UN FILTRE INSTAGRAM ? Du type Quel personnage Disney es-tu
 
@@ -51,10 +55,6 @@ oscJPjYJPNk // Comment utiliser Spark AR Studio pour créer un filtre en réalit
 QOraGzalC1g // Comment utiliser Spark AR Studio pour créer un filtre / effet qui pose un objet 3D sur un visage ?🤓
 vznEwFnbk9g // Tuto Spark AR Studio : Comment créer un filtre / effet avec des particules sur Facebook ou Instagram
 XYrFHHnly1k // Spark AR Studio: Poser des instructions dans un filtre en réalité augmentée sur Facebook / Instagram
-
-# Spark AR FR
-VgT4rwqXAxA // Filtre Instagram | Spark AR Tuto Débutant Filtre Louis Vuitton
-zzUu8aiJHZo // SPARK AR TIME LAPS Instagram Filter Avocado Love
 
 # Tenessees
 pWj_oiFfNZM // SPARK AR TUTORIEL - Crée ton premier filtre Instagram!
@@ -70,7 +70,7 @@ QMLnWxramiA // FILTRE INSTA BOUCLES D'OREILLES + TEMPLATE PROJET / Spark AR Tuto
 G4Z7989FvYE // ANIMAL CROSSING FILTER - Speed filter making !
 pstqb8tLhHo // FILTRE INSTA PAPILLONS ANIMÉS + Papillon 3D OFFERT / Spark AR Tutoriel
 _JThHzgGsgo // Vos problèmes et leurs solutions - SPARK AR TUTORIEL
-iKSrK70bMvE // FILTRE INSTA FAUX BRONZAGE / Spark AR Tutoriel
+iKSrK70bMvE // FILTRE INSTA BRONZAGE / Spark AR Tutoriel
 
 # Ugo N
 TDigbGo-32M // Formation Spark AR pour apprendre à créer des filtres Instagram : Teaser

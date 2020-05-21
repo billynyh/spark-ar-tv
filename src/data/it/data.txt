@@ -28,11 +28,7 @@ tD1j_ncvyws // Spark AR Studio: Crea il tuo filtro Instagram personale in meno d
 xUAFKio7Mdg // Spark AR Studio: come creare una texture viso per filtro Instagram (face mesh)
 
 # Elisa Molteni
-x0EiS9zngps // COME FARE FILTRI PER INSTAGRAM
-DL_QThpd_3c // COME FARE UNA COLOR SU SPARK AR
-817mx6tV8kw // COME FARE PIÙ COLOR SU SPARK AR
 grUpygMUvCE // COME CARICARE I FILTRI SU INSTAGRAM
-Hi-j-r8vs8I // COME AGGIUNGERE TATTOO IN FACE SPARK AR
 
 # Flavio Rausa
 lA7LPLhlXnk // Filtri Instagram, Spark AR, Realtá aumentata: moda o rivoluzione?
@@ -75,10 +71,7 @@ gGpIqYW4ML8 // Spark AR Tutorial - ITA - Filtro Instagram con oggetto che ruota 
 tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
 fUj5UEgMIEs // Spark AR - Tutorial ITA - Lut Color Filter
 mRxDOl2s5t0 // Spark AR ITA Tutorial Outline Effect
-jbHNPLuDMog // Tutorial Spark AR - ITA - Doppio FaceTrack
-
-# LAUTARO SALA
-_zRRC2w1Pfo // spark ar studio►Como Crear un Efecto/Filtro en  Instagram 📱
+jbHNPLuDMog // Spark AR - Tutorial ITA - Doppio FaceTrack/Double FaceTrack
 
 # Linebeck
 ViDXHCFYUVw // How to Make Superhero MASK for Cosplay - VERY EASY AND CHEAP
@@ -145,7 +138,7 @@ jPrzLb-hx5Y // Spark Ar tutorial - Motion Pop HALFTONE effect -  Using SDF in pa
 lY92ACD5_2Y // Spark Ar tutorial - Add Music part 2 - How to make the audio start when pressing record on device
 7VuRK5Ii22c // Spark Ar Studio Tutorial - Activate the GALLERY TEXTURE option and insert custom images inside IRIS
 
-# Nicolò Fava
+# Nicolò Fava - Channel
 TXtV8VaLFpg // Come ho creato 5(+1) FILTRI INSTAGRAM in 5 giorni
 
 # Pentaprisma
@@ -170,13 +163,12 @@ vrIS-9bLl1Y // Inserire una collana in Spark AR
 # Spark Ar Tutorial
 Qfk8eqJ9aos // COME CREARE UN FILTRO BASE PER INSTAGRAM - how to create a basic filter for instagram
 
-# Spark AR Tutorial Italiano
+# Spark AR Tutorial Italia
 tkH8n0Y5ECE // COME CREARE E PUBBLICARE UN FILTRO INSTAGRAM TUTORIAL GUIDA SPARK AR ITALIANO
 hgU9orx2kZw // COME CREARE UN FILTRO SNAPCHAT TUTORIAL GUIDA LENS STUDIO ITALIANO
 SigHL7GwDCI // COME CREARE UN FILTRO TIK TOK TUTORIAL GUIDA ITALIANO
 -39ahWb0BD8 // COME CREARE UN LOGO PER UN FILTRO INSTAGRAM GUIDA SPARK AR ITALIA TUTORIAL  GUIDA
 4nevfTAX5ms // COME CREARE UN FILTRO CON TESTO IN MENO DI 3 MN SPARK AR  TUTORIAL GUIDA ITALIANO
-BsJsAqhB6ec // COME COLORARE I CAPELLI CON SPARK AR PER UN FILTRO INSTAGRAM
 iWD7JA8vg3g // COME PUBBLICARE  O CREARE UNA GIF PER  STORIES INSTAGRAM IN MENO DI 3 MN TUTORIAL ITALIANO GUIDA
 5DWV4NWUVZ8 // CREARE FILTRI PER 2 / 5  FACEMESH E IMPORTARE VIDEO PERSONALIZZATI TUTORIAL ITALIANO GUIDA
 WUE1kCVQ_e8 // IMPORTARE FONT PERSONALIZZATO CON TESTO COLORATO PER FILTRI INSTAGRAM TUTORIAL ITALIANO GUIDA
@@ -184,7 +176,7 @@ WUE1kCVQ_e8 // IMPORTARE FONT PERSONALIZZATO CON TESTO COLORATO PER FILTRI INSTA
 4Nq9ByiEoUs // COME CREARE O USARE UN FILTRO PINTEREST
 zLRm0mjKE5k // TRAILER SPARK AR
 EkKTXuqtyTs // COME CREARE GLI OCCHI DA DEMONE PER FILTRI INSTAGRAM SPARK AR TUTORIAL GUIDA ITALIANO
-wxwOjzbYQIM // Come Creare Filtro TIK TOK su INSTAGRAM
+wxwOjzbYQIM // Come Creare Filtri TIK TOK su INSTAGRAM
 
 # SPSDesign
 6MbqtHRpv2g // SparkAr - VinRuscDay Filter
