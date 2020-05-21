@@ -242,6 +242,7 @@ hPV6cnZM0xw // Aesthetic Spark AR face filter speed paint
 
 # Computer Science
 ORpSAUzmAyY // How to make filter Instagram with spark AR
+cTNxGE758Ks // Video Riview Filter Instagram with Spark AR
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
@@ -785,6 +786,7 @@ Yumu3aqeRbI // Spark AR Native UI Picker 2020 for 3D Objects (update v85+)
 8lWnWs0U6rA // How to Create a Retouching in SPARK AR combined with the Fast Color LUT Patch
 t5hHstJ6i4c // How to Create a 2D Game in SPARK AR [How to Start the Game and Set Objects in Motion]
 xWIqnVE8VM4 // How to Create a 2D Game in SPARK AR [Gaming Logic, Count Score, Start/End the Game]
+ETYOmdFnlew // Spark AR Tutorial: Kira Kira Glitter Sparkle Filter with VHS Effect
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -953,6 +955,7 @@ IFs2mdyh8PE // Lesson 3  -Tap to change mask. Spark AR Tutorials. How to change 
 
 # SparkArBeauty
 w0s1WTQT9U0 // Aurora glitter instruction for Spark AR. Read the description
+IanJD8yyXCk // Realistic glowing highlighter in Spark AR
 
 # Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
@@ -1049,6 +1052,7 @@ T273zL-t3xE // How to use Vertex Attribute - Spark AR tutorial
 dfsix2fxIz0 // How to use the Swizzle patch - Spark AR tutorial
 poqC24bmnyw // How to use the AND OR and NOT patches - Spark AR tutorial
 RrIgHKAePdU // How to use the Option Switch and Option Picker - Spark AR tutorial
+lNUL5O98LRI // Option sender tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
