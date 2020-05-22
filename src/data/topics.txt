@@ -198,6 +198,12 @@ OZOlnR21tZs // Cara membuat filter instagram yang Aesthetic + Efek dust | Part 1
 JzY7G6zNbRE // HOW TO ADD GRAIN AND DUST TO YOUR INSTAGRAM FILTER (STATIC OR ANIMATED) WITH SPARK AR | TUTORIAL
 0Z60yJBVcUQ // SPARK AR || TUTORIAL MEMBUAT ANIMATION DUST
 biwLitaTZ9U // Cara membuat filter instagram pakai VSCO Dust / Debu .
+uuPPxoRGLy8 // Cara membuat filter instagram sendiri (Lut + Dust / Grain / Debu + Screen tap) #Part6
+qhPbvsc8tcA // COMO ADICIONAR DUST E GRÃO NO SEU FILTRO DO INSTAGRAM! (Spark AR tutorial) - @LUCASFOP
+EcglNIn_fzA // SparkAr Tutorial | Filter instagram effect dust
+5EgfS8o3Res // Cara Membuat Filter Instagram (Make up - Lut Filter - Dust/debu/grain) TERGAMPANG!!! #Part7
+MuWjyxIz9vA // CARA MEMBUAT DUST FILTER ATAU FILTER DEBU MUDAH l Spark AR Tutorial
+DzzKonRO_Zo // Spark AR Tutorial Indonesia : Cara Mambuat Filter Dust&Grain Sekaligus (+SCREEN TAP)  | GAMPANG!!
 
 # Edge detection / KiraKira
 VbFEAbeGmQc // Edge Detection in Spark AR
@@ -233,6 +239,10 @@ ieIy0KpWprE // Efek Sparkle Kira Kira Glitter - Cara Membuat Filter Instagram di
 wZfwkUW7_qA // Cara Buat Filter Instagram Bling/Sparkle kira-kira + LUT aesthetic | Tutorial Spark AR Indonesia
 Zuqyto3dKUw // Spark AR Tutorial : Instagram Filters - Cara Membuat Filter Sparkle Kira Instagram
 Ac4lXRlCbnY // Cómo hacer el filtro Kira Kira con Lut y Retouching tutorial Spark AR paso a paso
+i7tfUJKxqu8 // How to make "KIRA KIRA EFFECT" Facebook | Instagram Filter in SparkAr
+PJxRw1fAvXI // KIRA (SPARKLE) EFFECT FILTER INSTAGRAM PALING GAMPANG - FREE TEMPLATE SPARK AR | Part 2
+5ftw4_6QsBk // Bagaimana Cara Saya Bikin Filter Aesthetic Glitter Sparkle Kira | SPARK AR TUTORIAL INDONESIA
+ETYOmdFnlew // Spark AR Tutorial: Kira Kira Glitter Sparkle Filter with VHS Effect
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -277,6 +287,14 @@ z84-GkDyd0c // Cara Membuat Retouch Native UI Slider - Spark AR Tutorial
 jYHqZmQn78M // Retouch, picker, LUT intensity slider | SparkAR V85+ | Ретушь, кнопки, интенсивность лута слайдером
 8lWnWs0U6rA // How to Create a Retouching in SPARK AR combined with the Fast Color LUT Patch
 Zm-MbHiy1dg // Como usar limpeza de pele junto com preset de cor nos filtros - LUT + Retouch - Spark Ar #34
+U-sDe67gyNI // Spark AR Lut + Make + Noise + Retouch
+d6BcJUl3_X0 // Spark AR tutorial:  Face mesh, Retouching and Lighting Effect\ insta filter|india #Easy Tutorial
+_erJ2qrDsx8 // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / 3 LUTs + Retouch + Screen Tap 2020
+1RcsZBiNIF0 // Tutorial Retouching con LUT para Spark AR versión v87
+PtUGVWL2zJ0 // Spark AR  Сглаживание кожи (ретушь,retouch) smoothing the skin
+knM1zI7VaC0 // Spark AR Template: LUTs + Retouching + Native UI  (All-in-one for Instagram filter)
+0AdmlS6bx2s // Spark AR: Lut + Color Adjustments + Retouch. 2 Pickers + Slider
+Ac4lXRlCbnY // Cómo hacer el filtro Kira Kira con Lut y Retouching tutorial Spark AR paso a paso
 
 # Face extraction
 zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
@@ -339,6 +357,9 @@ ibRj1V0YEXk // Spark AR -  Gallery picker | Background | Target tracker & 3D obj
 itMQB1HVfw8 // Gallery Picker | Spark AR Studio
 Am4N_Dc33Po // Spark AR Tutorial: Gallery Texture/Cвое фото или видео на заднем фоне
 7VuRK5Ii22c // Spark Ar Studio Tutorial - Activate the GALLERY TEXTURE option and insert custom images inside IRIS
+AGuP4L3Y4FA // Spark AR - Custom gallery texture on 3D model
+ua2TZ2B99eE // SPARK AR TUTORIAL | Gallery Texture + Color Lut Preset | Deutsch
+-_QFHqSY4tI // Media Gallery et Gallery Texture - Spark AR Studio Tutoriel en Français
 
 # Game
 -r256yKFeos // Spark AR Masterclass: AR and Gaming
@@ -438,6 +459,7 @@ xfdYw83YOXU // COMO FAZER FILTRO PRO INSTAGRAM E FACEBOOK
 SBNRA-2F_qM // как сделать маску в инстаграм за 15 минут | #zzzeka
 zfvmn6Iz4C8 // COMO FAZER FILTROS PARA O INSTAGRAM!
 CRzvNjnZlQ0 // Как сделать маску для Инстаграмм??
+8BlNHfbv0q4 // 🔍САМЫЙ ПРОСТОЙ СПОСОБ СДЕЛАТЬ МАСКУ В ИНСТАГРАМ за 5 минут
 
 # LUT
 lxF-ecbkbr4 // Color LUTs in Spark AR
@@ -762,6 +784,7 @@ PULxnnYyucg // I made my own Instagram filter using Picsart + Spark AR Studio (p
 v3lIsJmELLo // Buat Efek Filter Instagram di HP Android pakai Picsart dan Spark AR
 Ke-y8eMFZHE // Cara Membuat Filter Instagram pakai PicsArt dan SparkAr  // Gampang dan Simpel banget!!
 EfNgZpTrq2c // TUTORIAL FILTER INSTAGRAM GAMPANG BANGET CUMA PAKE PICSART!
+E-VIl-w9A70 // Cara membuat filter instagram di hp dengan picsart
 
 # Plane tracker / Target tracker
 ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
