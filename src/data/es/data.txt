@@ -152,6 +152,9 @@ ujBbL33rC3E // Como Combinar FILTRO DE COLOR con FACE MESH (SPARK AR)
 NVkvGYRlx_4 // CREA tus filtros Random (PARTE 2) Spark AR
 0bLfpC4k2zE // Crea Filtro de GIRAR alrededor de la CARA (Spark AR)
 
+# Emi Castro
+rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)
+
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
 VsLjCqNBd1o // Spark AR Tutorial:  Hand Tracker en español
@@ -262,6 +265,9 @@ H6DJPJKSbeQ // Como subir filtros a INSTAGRAM / Spark AR / español
 # jose francisco Romero
 Tl9mq5-molU // Filtro en spark ar
 
+# Josue Vetz
+W08tfNQj7TI // ❗❗❗¿CÓMO CREAR TU PROPIO FILTRO DE INSTAGRAM? , 💻 FÁCIL Y GRATIS... (Josue Vetz)
+
 # JWIBEL
 NrrKn-v8a7E // La VERDAD sobre los FILTROS de INSTAGRAM
 mzITx_I_KrE // Robie - Búscame - Filtro Tutorial 90s Cowboy Girl - Spark AR
@@ -352,6 +358,9 @@ _kyaopAlxro // Cómo PUBLICAR tus propios filtros en Instagram
 
 # PITINSTUDIOS
 sNrPvnlpOT0 // CREAR FILTROS PARA INSTAGRAM
+
+# psychomood
+abWLWkf2a_c // convierte presets de lightroom en un filtro de instagram | Spark AR Studio
 
 # Ricardo Urquidi
 9Xa1WJVDqNk // Realidad aumentada de tus ilustraciones con Spark AR studio

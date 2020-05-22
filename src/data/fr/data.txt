@@ -38,6 +38,7 @@ SFvZpLWuvyg // Spark AR Studio Tutoriel - Comment créer une Image Normal Map ? 
 uUruWQMUXsE // Spark AR Studio Tutoriel Video - Comment créer une Animation 2D ? en Français
 4P5dEQLZrho // Débutant sur Spark AR Studio - Tutoriel en Français : Comment publier un Filtre ?
 YEgzL8pWL5I // Comment ajouter une interaction dans un filtre Instagram ? - Spark AR Studio
+-_QFHqSY4tI // Media Gallery et Gallery Texture - Spark AR Studio Tutoriel en Français
 
 # Rémi Abbou
 y-M7prDHPjI // CRÉER UN FILTRE INSTAGRAM SIMPLE (Paris)

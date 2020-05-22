@@ -402,6 +402,9 @@ ta8c_U_BjLM // Augmented Reality 101
 # Gabrisp
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
+# Grace Petersen
+hdkVFX2qlQc // SPARK AR Tutorial Simple Filter For Beginners
+
 # gurmeetweb.com
 bj5p1xXdGOc // How to create Instagram Augmented Reality Filter or Photography Frame for Models only in one minute
 
@@ -616,6 +619,7 @@ junpsc_ydLg // Sparks AR Tratamiento Proyecto
 
 # Marius Eder
 4ggS6G9HIh8 // How to create 3D Volumes & Depth Fog in Spark AR
+UEjPkrSRi0w // How to get shadows and GI in SparkAR
 
 # Marty Markenson
 3HnONkme0QE // Image Flip Flop Spark Studio Patch Editor
@@ -845,6 +849,7 @@ V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map 
 AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spark AR  ?
 1cEAhjxp-gI // How To Make Gold ? (UPDATE) - Spark AR Studio
 w26zn6zs_Pk // How To Add Interactions ? (Switch) - Spark AR Studio
+-_QFHqSY4tI // Media Gallery et Gallery Texture - Spark AR Studio Tutoriel en Français
 
 # Rod Antunes
 DHHPMBa8B6E // Spark Ar Blink Game
@@ -923,6 +928,7 @@ iJ5a5v8X3zc // Import 3D Models (Blender Donut, Animation) Filter Effect | Insta
 qC-2icafBuQ // 2 Colours Gradient Filter Effect (Blending, Patch Editor) | Instagram & Facebook | Spark AR Tutorial
 R6irTb3kxTc // 4 Colours Gradient Filter Effect (Patch Editor, Color) | Instagram & Facebook | Spark AR Tutorial
 cVKD14ayTtc // Reviewing Your Filters | Spark AR | Instagram & Facebook | Another Show
+iMnu394HXs0 // Reviewing My Filters | Spark AR | Instagram & Facebook | Another Show
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
