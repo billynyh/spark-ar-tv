@@ -17,6 +17,8 @@ IBegiuipv6Q // 自分で作れる！インスタエフェクト作成講座＜NO
 AjQrfhbV6Es // １番最初に見るべき基本操作！SparkARで自分で作れるインスタエフェクト講座
 GaIzdi94Yqg // SparkARでパーティクルで桜吹雪作成自分で作れるインスタエフェクト講座
 Gy3XgAdE8Fg // SparkARでマーカーから３Dモデルを出現させよう！！ARコンテンツ作成チュートリアル
+8LipkX8Hexg // SparkARで＜複数人の顔を認識＞facetracker！！ARコンテンツ作成チュートリアル
+kj5HmhtA5OU // SparkARで＜美肌filiterを作成しよう！！＞ARコンテンツ作成チュートリアル
 
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】
