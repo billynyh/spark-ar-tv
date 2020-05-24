@@ -151,6 +151,7 @@ k_WkwoLBuJU // PREGUNTAS sobre SPARK AR y SOLUCIONES
 ujBbL33rC3E // Como Combinar FILTRO DE COLOR con FACE MESH (SPARK AR)
 NVkvGYRlx_4 // CREA tus filtros Random (PARTE 2) Spark AR
 0bLfpC4k2zE // Crea Filtro de GIRAR alrededor de la CARA (Spark AR)
+jBs4TJeRl6w // CREAR un FILTRO GLITTER (Spark AR)
 
 # Emi Castro
 rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)
