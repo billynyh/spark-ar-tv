@@ -87,6 +87,7 @@ wQ6K4HUjXUc // Spark AR v84: Eye Color Changer Template - How to use it?
 ZWzgMAdT5CE // 'HOLLYWOOD' (Popcorn Head) Instagram filter - AR Creator Insight (Spark AR Studio)
 XfZEE-WioDU // Spark AR Studio BLOCKS Feature: How to Use It and Why?
 gxQiOwRVjJ8 // Due to COVID-19 (Coronavirus) Spark AR Effect Reviews and Publishing Suspended
+P85XSs8IQn8 // How to use Promise.all API In Spark AR? - JavaScript Scripting
 
 # Arti Creator
 PvNPegxSRQM // Make Your Own Instagram Filter in Spark AR Studio. Fast Tutorial
@@ -100,12 +101,10 @@ c6Zou_t6k5A // Freckles Filter for Your Instagram in Spark AR Studio
 Ny-IQtDxlIU // Upload Filter to Instagram 2020. How to publish filter Spark AR Studio on Instagram
 ouMHgISrPIY // Head Occluder in Spark AR Studio. 3D Objects Rotate Around Head Instagram Filter
 -2TLoN7QvAM // Spark AR Studio for Beginners: Create Your Own Filters for Instagram and Facebook
+ZqzDe6E5rQM // Kira Kira Glitter Instagram Filter Tutorial in Spark AR Studio
 
 # Ashlee Rose
-u_m2STRVKPs // DIY: Easy Face Mask Using A Shirt | No Elastic | Ashlee Rose
-0oMRj2ej7kA // How To Sew A Medical Mask! | Ashlee Rose
 GcXQ-2nVqCo // How To Create A Makeup Instagram Filter & Publish To Spark AR
-OOMGeABtPUI // Pixar SparkShorts: OUT | Reaction
 
 # Aulia Dwiza Puteri
 Qdhx4-eYV0c // how to make an instagram filters with SPARK AR Studio
@@ -669,6 +668,7 @@ LJn3yxXm2FQ // SUPER SUNDAY SPARK STREAM /w LUKE HURD!!!
 aBHZiDXsJrE // SPARKO SUNDAY SPLASH with Hannah Schilsky GOING LIVE!
 j1OGKa9yTow // Spark AR vertex colors
 PkSnvezF_qA // TUTORIAL Import softbody simulations  into SparkAR
+ns0YjmubsWk // SANGUINE SUNDAY SPARK AR is live!
 
 # matemesz
 DYAJAjcNC5k // Creating filter by Nora Horvath

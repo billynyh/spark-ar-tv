@@ -22,6 +22,8 @@ GaIzdi94Yqg // SparkARでパーティクルで桜吹雪作成自分で作れる�
 Gy3XgAdE8Fg // SparkARでマーカーから３Dモデルを出現させよう！！ARコンテンツ作成チュートリアル
 8LipkX8Hexg // SparkARで＜複数人の顔を認識＞facetracker！！ARコンテンツ作成チュートリアル
 kj5HmhtA5OU // SparkARで＜美肌filiterを作成しよう！！＞ARコンテンツ作成チュートリアル
+_IPDD6LKfoU // SparkARで＜美肌filiterを作成しよう！！＞ARコンテンツ作成チュートリアル
+weKTyxJkZAk // SparkARインスタフィルター作成講座＜化粧AR・LIP編＞ARコンテンツ作成チュートリアル
 
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】

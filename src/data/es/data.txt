@@ -62,6 +62,7 @@ Gz7HH-I3MTs // CURSO SPARK AR STUDIO | Ajustar elementos a diferentes dispositiv
 zdGEeVNwMEI // CURSO SPARK AR STUDIO | Sencillos movimientos de objetos #7
 QERYVt5J3BI // CURSO SPARK AR STUDIO | Partículas #8
 vI6FbXcNr3U // CURSO SPARK AR STUDIO | Screen Tap cambiar elementos #9
+BjSTbzmBoRU // CURSO SPARK AR STUDIO | Añadir instrucciones a tu efecto #10
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -282,6 +283,7 @@ bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
 # LUZIA EDITS
 66vkYMx3VPk // COMO CREAR FILTRO PARA INSTAGRAM *FÁCIL* | Spark Ar tutorial
 BoCBkM9WDLg // Como CREAR tu propio FILTRO de instagram *PRINCIPIANTES* | Spark Ar
+saNUNVLRHiE // CREA filtro GLITTER sparkle para instagram | SPARK AR TUTORIAL
 
 # Mafiuut
 tO3thxGANUc // COMO HACER UN EFECTO DE INSTAGRAM | Mafiuut
@@ -394,6 +396,16 @@ cvYeCQdATGA // Introducción a Spark AR (para gente con conocimientos de 3D)
 
 # TecnologiaUncomo
 d58Z7ksFJgs // Cómo crear FILTROS para INSTAGRAM STORIES 🐼 Paso 1 - MÁSCARA
+
+# theWolful
+1s8oQ7uj924 // Spark AR Tutorial 1: Crea y Sube tu propio EFECTO a INSTAGRAM FACIL
+GvY3sB2DxwY // Spark AR Tutorial 2: Crea un Efecto con Objetos 3D
+6kSdG6seimc // Spark AR Tutorial 3: Efecto que reconozca 2 personas
+RU14gz44k7U // Spark AR Tutorial 4: Objeto 3D con animacion
+NSGeiCcZdCE // Spark AR Tutorial 5: Crear Efecto RGB
+0NWmoofAnwU // Spark AR Tutorial 6: Crear Efecto Pixels
+gz_xW2TXuSQ // Spark AR Tutorial 7: Crear Efecto OUTLINE
+FpdUH0zGaXo // Spark AR Tutorial 8: Como crear Efecto Clones
 
 # Tutoriales Belen
 hSR-pUh79OY // CREA TUS PROPIOS FILTROS/EFECTOS PARA INSTAGRAM STORIES ❤️- Tutoriales Belen
