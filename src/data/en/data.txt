@@ -353,6 +353,7 @@ UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
 ZEJ3pc7Nr64 // Spark AR Vídeos PT - Jogo Simples Usando o Patch Editor!
 NuTJ3r-iHvU // Spark AR Vídeos PT - Maquiagem Simples I Utilizando o Photoshop!
 Pzd4p_w8ebY // Spark AR Vídeos PT - Filtro para o Instagram LUT + Ruídos!
+ZS8xSOB9Slc // Spark AR Vídeos PT - Filtro para o Instagram com borda colorida!
 
 # Flex Studio
 pz7zlTipqrg // "Which Are You" Instagram Filter Tutorial IN UNDER 10 MINUTES (Easiest Method)
@@ -1143,6 +1144,7 @@ DXH0GZYW2LE // Trigger a sound with a random value + free project file download!
 vU7PaBJzRLE // Replace background with animation - Spark AR
 7V_k465rErU // SPARK AR  particles emitter tutorial - bubbles flying out from mouth
 TJAcS-keTX4 // Spark AR game tutorial - controlled by head movement (part1)
+qL2cR_6gieE // Spark AR game tutorial - controlled by head movement PART 2
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74
