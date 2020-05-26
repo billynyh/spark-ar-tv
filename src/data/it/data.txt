@@ -68,9 +68,9 @@ drPOcG0Ik64 // Realtà Aumentata in classe con i Filtri Instagram
 # jessicavangone
 gGpIqYW4ML8 // Spark AR Tutorial - ITA - Filtro Instagram con oggetto che ruota intorno al volto.
 5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
-tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
+tcX-sE6W2j4 // Spark AR - Tutorial - ITA: Effetto voce distorta/Add Voice Distortion
 fUj5UEgMIEs // Spark AR - Tutorial ITA - Lut Color Filter
-mRxDOl2s5t0 // Spark AR ITA Tutorial Outline Effect
+mRxDOl2s5t0 // Spark AR  Tutorial ITA Outline Effect
 jbHNPLuDMog // Spark AR - Tutorial ITA - Doppio FaceTrack/Double FaceTrack
 IhFk-Pzw-90 // Spark AR - Tutorial - ITA - Filtro con Testo/Add Text
 

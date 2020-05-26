@@ -90,7 +90,7 @@ Bi7we1vNmT4 // Уроки Spark AR Studio. Наложение глаз и рта
 tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 xxHMALAvmlk // Tutorial: Adding Audio
 Hmv6supT-0A // Triggering Sound with Value [Random Image Effect] | Spark AR Studio
-tcX-sE6W2j4 // SPARK AR TUTORIAL: Add Voice Distortion
+tcX-sE6W2j4 // Spark AR - Tutorial - ITA: Effetto voce distorta/Add Voice Distortion
 GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
 4Cm5pDLzOMg // Spark AR Tutorial: Рандомайзер со звуковыми эффектами/Random Image Effect + Sound
 MO6o1Hwi9B8 // How to Add Audio to AR Studio
@@ -105,7 +105,7 @@ DXH0GZYW2LE // Trigger a sound with a random value + free project file download!
 PoZolGpZ6mM // Spark AR Tutorial 9: How to Play Sound Effect on Mouth Open using Patch Editor
 MrxG36zOGss // Spark AR Studio - Integrando audio en nuestros efectos. Guía inicial
 AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
-qjCEAtC0Egs // Filter which are you and Audio m4a in Spark Ar
+qjCEAtC0Egs // Filter Tebak Tebakan dan Audio m4a di Spark Ar
 MalxFo1vEVY // Cara Menambahkan Lagu/Audio ke Spark AR | Tanpa Aplikasi Eksternal!
 X0gxSZFw968 // Tutorial Spark AR Studio n.9 - Audio
 lY92ACD5_2Y // Spark Ar tutorial - Add Music part 2 - How to make the audio start when pressing record on device
@@ -203,7 +203,7 @@ qhPbvsc8tcA // COMO ADICIONAR DUST E GRÃO NO SEU FILTRO DO INSTAGRAM! (Spark AR
 EcglNIn_fzA // SparkAr Tutorial | Filter instagram effect dust
 5EgfS8o3Res // Cara Membuat Filter Instagram (Make up - Lut Filter - Dust/debu/grain) TERGAMPANG!!! #Part7
 MuWjyxIz9vA // CARA MEMBUAT DUST FILTER ATAU FILTER DEBU MUDAH l Spark AR Tutorial
-DzzKonRO_Zo // Spark AR Tutorial Indonesia : Cara Mambuat Filter Dust&Grain Sekaligus (+SCREEN TAP)  | GAMPANG!!
+DzzKonRO_Zo // Cara Membuat Filter Dust&Grain Sekaligus (+SCREEN TAP), GAMPANG!! | Spark AR Tutorial Indonesia
 
 # Edge detection / KiraKira
 VbFEAbeGmQc // Edge Detection in Spark AR
@@ -241,10 +241,10 @@ Zuqyto3dKUw // Spark AR Tutorial : Instagram Filters - Cara Membuat Filter Spark
 Ac4lXRlCbnY // Cómo hacer el filtro Kira Kira con Lut y Retouching tutorial Spark AR paso a paso
 i7tfUJKxqu8 // How to make "KIRA KIRA EFFECT" Facebook | Instagram Filter in SparkAr
 PJxRw1fAvXI // KIRA (SPARKLE) EFFECT FILTER INSTAGRAM PALING GAMPANG - FREE TEMPLATE SPARK AR | Part 2
-5ftw4_6QsBk // Bagaimana Cara Saya Bikin Filter Aesthetic Glitter Sparkle Kira | SPARK AR TUTORIAL INDONESIA
+5ftw4_6QsBk // Bagaimana Cara Bikin Filter Aesthetic Glitter Sparkle Kira | SPARK AR TUTORIAL INDONESIA
 ETYOmdFnlew // Spark AR Tutorial: Kira Kira Glitter Sparkle Filter with VHS Effect
 ekH0gtLDZBc // Tutorial Efek Sparkle / Kira-kira PART 2 | Efek hilang saat Screen Tap | Tutorial Spark AR Indonesia
-mybm0FRb-JQ // Tutorial filter "KIRA" paling gampang II 😱👽 🤖
+mybm0FRb-JQ // Tutorial filter "KIRA" paling gampang II 😱👽 🤖  --Tutorial Spark Ar Indonesia
 
 # Eyelashes
 0VE0KiDu5VQ // 3d eyelashes for spark ar studio
@@ -446,7 +446,7 @@ XEYbjXe0TIE // SPARK AR - Iris Tracking & Triggered Eyes Meme Tutorial
 yuYoYTO789E // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМЕ?///КАК ЗАГРУЗИТЬ МАСКУ В ИНСТАГРАМ?
 k-kIb1Rz7jU // Как сделать маску в Инстаграм?//ILONA CVETKOVA 🌿
 _y9Gf1gIIRY // Как делать свои маски в spark ar?😱Cat Alice🥰Урок 1✨
-cn6cSQvt_oM // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ ЗА 5 МИНУТ???? || Инстаграм маски)
+cn6cSQvt_oM // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ ЗА 5 МИНУТ???? || Инстаграм маски
 diFBG1yhxM8 // Как сделать маску в инстаграм быстро и просто.
 dq6La-Gms8c // Как сделать маску в инстаграм 2 часть
 GEb7UcB3r00 // МАСКА С ОБЪЕКТАМИ ЗА 2 МИНУТЫ???? МАСКИ В ИНСТАГРАМ! Endryu
@@ -695,7 +695,7 @@ ZmY3cB2uuk4 // Spark Ar Tutorial timelapse - FAST AND EASY - OUTLINE EFFECT - ED
 6P0mLuFASd0 // Outline Segmentation - Spark AR Studio [ Tutorial ]
 mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
 sJc2nab3EGQ // Cara Membuat Filter Instagram OUTLINER | SPARK AR TUTORIAL INDONESIA
-mRxDOl2s5t0 // Spark AR ITA Tutorial Outline Effect
+mRxDOl2s5t0 // Spark AR  Tutorial ITA Outline Effect
 Q1SCmTzdwD4 // Como criar o filtro Outlines (contorno) | Spark AR | @bruno.wx
 
 # Particles
