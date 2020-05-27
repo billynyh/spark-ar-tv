@@ -47,8 +47,6 @@ def fetch_all(config, master, lang, new_only = True, max_result=10, single_chann
     channels = set([(v.channel_id, v.channel_title) for v in site.video_data.values()])
     result = []
 
-    cache = load_cache()
-
     print("Fetching channels...")
     channel_ids = set([c[0] for c in channels])
     if single_channel_id:
@@ -81,6 +79,7 @@ def fetch_all(config, master, lang, new_only = True, max_result=10, single_chann
                 for item in v[1]:
                     g.ids.append(item.id)
     # Reload video data
+    cache = load_cache()
     all_youtube_ids = [id for g in site.groups for id in g.ids]
     site.video_data = load_video_data(all_youtube_ids, cache, config.api_key)
     return master
