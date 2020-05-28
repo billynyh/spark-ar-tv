@@ -35,6 +35,7 @@ gxQHNpwte3c // How to reduce polygon count of a 3D model in Blender 2.8 for Spar
 G7V0nOhKuAk // How to rig your own 3D model for SparkAR in Blender 2.8
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 5uPNwr5OWQo // How to Create a ShapeKey Animation in Blender 2.8 that Works in Sparkar Version 76
+3BtHGs_tp_k // SparkAR's Audio Analyzer Tutorial v89
 
 # Amy Marietta
 kzcFrErVGcY // HOW TO MAKE AN INSTAGRAM STORY FILTER - SUPER EASY SPARK AR TUTORIAL
@@ -220,6 +221,8 @@ YSRBcMsPwYg // Quiz Style Tutorial (Jumbled Up V1.0) | Spark AR Studio
 EODeYdHmQe4 // Jumbled Up Effect V1.1 - Quick Amendment Update and Troubleshoot
 iM4ieUPFsJ8 // Wireframe Mask Effect
 itMQB1HVfw8 // Gallery Picker | Spark AR Studio
+W9EKzK0RAQM // 2D Reactive Audio Effect (V89) | Spark AR Studio
+detwgxAqnzA // 3D Reactive Audio Effect (V89) | Spark AR Studio
 
 # Charm Gegato
 2NpbmRbRJhc // How to make an instagram filter? (PicsArt + SparkAR) || random vlogs
@@ -585,6 +588,7 @@ gX8SItNwyts // HOW TO CREATE A FIGHT CLUB FILTER
 
 # Luke Gibbs
 TqVzRFbEJcE // Instagram Filter │Make a kaleidoscope in Spark AR
+9FWEEYUqYWI // Instagram Filter │AR Music Reactive Effects in Spark AR Studio
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -805,6 +809,7 @@ Yumu3aqeRbI // Spark AR Native UI Picker 2020 for 3D Objects (update v85+)
 t5hHstJ6i4c // How to Create a 2D Game in SPARK AR [How to Start the Game and Set Objects in Motion]
 xWIqnVE8VM4 // How to Create a 2D Game in SPARK AR [Gaming Logic, Count Score, Start/End the Game]
 ETYOmdFnlew // Spark AR Tutorial: Kira Kira Glitter Sparkle Filter with VHS Effect
+dTA6LzCP7N4 // How to Create Light Setting, Light Leaks and Animation Sequence as Light Effects in SPARK AR
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -945,6 +950,7 @@ qC-2icafBuQ // 2 Colours Gradient Filter Effect (Blending, Patch Editor) | Insta
 R6irTb3kxTc // 4 Colours Gradient Filter Effect (Patch Editor, Color) | Instagram & Facebook | Spark AR Tutorial
 cVKD14ayTtc // Reviewing Your Filters | Spark AR | Instagram & Facebook | Another Show
 iMnu394HXs0 // Reviewing My Filters | Spark AR | Instagram & Facebook | Another Show
+GsKwJnvmEzg // Reviewing Your Filters #2 | Spark AR | Instagram & Facebook | Another Show
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
@@ -1082,6 +1088,7 @@ dfsix2fxIz0 // How to use the Swizzle patch - Spark AR tutorial
 poqC24bmnyw // How to use the AND OR and NOT patches - Spark AR tutorial
 RrIgHKAePdU // How to use the Option Switch and Option Picker - Spark AR tutorial
 lNUL5O98LRI // Option sender tutorial
+Aj0Pqq4YJXg // How to use the Gradient Step patch - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR

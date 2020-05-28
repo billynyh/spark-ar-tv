@@ -544,6 +544,7 @@ aoZROjtuFso // Как загрузить маску в Инстаграм в 202
 9pBhb9GcZ-k // УЛУЧШАЕМ МАСКУ "ПОЙМАЙ МЕНЯ / ПРЕДМЕТ" / ОСТАНАВЛИВАЕМ ЖЕСТАМИ — Spark AR Studio
 t5XjKZ503gI // КАРАОКЕ В МАСКЕ ИНСТАГРАМ ЧАСТЬ 2 / РЕАЛИЗАЦИЯ ЧЕРЕЗ PLANE И МАТЕРИАЛЫ — Spark AR Studio
 PUEggLq4V0E // GALLERY TEXTURE SPARK AR - ОСНОВА ЗА 2 МИНУТЫ
+ZmOuQaauDL8 // ЭКВАЛАЙЗЕР В ДВА КЛИКА ДЛЯ ПЕСЕН SPARK AR - Audio Meter / Audio Analyzer
 
 # NURISVIEW
 2gnqS-5yKck // КАК СОЗДАТЬ МАСКУ ДЛЯ ИНСТАГРАМА? САМЫЙ ПРОСТОЙ СПОСОБ
@@ -820,6 +821,7 @@ EMYTFJ-zTuk // Как сохранить маску в Spark Ar? Самый лё
 x8QDxYyjghg // Создание AR-маски в SparkAR/Photoshop
 gqi6yLfs3KE // Как нанести картинку на лицо в SparkAR
 2u8fCwetu-8 // Как загрузить AR-маску в Instagram
+dU8Y9m-1wqg // Как загрузить AR-маску в Spark AR Hub
 
 # Viktoria Ado
 NTN_L9J6fqY // Как Сделать Маску в Инстаграме за 5 минут | Самый Простой Способ!
