@@ -216,6 +216,7 @@ dkidmE2buTw // Spark AR - Random Image Sequence with sound | Instagram Filter
 ibRj1V0YEXk // Spark AR -  Gallery picker | Background | Target tracker & 3D object
 kjAwEUT_ltE // Spark AR Tutorial - Blink games "catch me" - coincidence of elements | Part II
 iEZV5R4jkBw // Spark AR Tutorial - Draw with Particles | Face Tracker | Gallery texture
+C5k_kgy_n_4 // Spark AR - Audio Energy meter | V89 - New functionality
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]

@@ -114,6 +114,14 @@ jtqldgvWI9A // TUTORIAL SPARK AR 3D, PARTICLE, AUDIO CUMA 5 MENIT!!!
 jET-30_cNOQ // Как загрузить audio Spark AR studio #zhandosxx#sparkar#audio#
 dkidmE2buTw // Spark AR - Random Image Sequence with sound | Instagram Filter
 
+# Audio Analyzer / Energy Meter
+W9EKzK0RAQM // 2D Reactive Audio Effect (V89) | Spark AR Studio
+detwgxAqnzA // 3D Reactive Audio Effect (V89) | Spark AR Studio
+ZmOuQaauDL8 // ЭКВАЛАЙЗЕР В ДВА КЛИКА ДЛЯ ПЕСЕН SPARK AR - Audio Meter / Audio Analyzer
+seE6qoM-zoU // Cara Membuat Filter Disko Atau Dugem Mengikuti Beat Musik Dengan Audio analyzer - Spark Ar Tutorial
+3BtHGs_tp_k // SparkAR's Audio Analyzer Tutorial v89
+C5k_kgy_n_4 // Spark AR - Audio Energy meter | V89 - New functionality
+
 # Basic JS script
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
 udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin

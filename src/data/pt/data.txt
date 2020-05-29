@@ -165,6 +165,9 @@ njmfGzdlXqc // Spark AR Studio | Tour para iniciantes na plataforma
 # María Humans
 AjV6IMvBPwc // COMO CREAR FILTROS PARA INSTAGRAM FACIL | Maria Little
 
+# Mateus Valerino
+YdixULkbKCk // COMO EU CRIEI MEU FILTRO NO INSTAGRAM!!!
+
 # Meiriany Rocha
 Zebvl1gILYE // Como enviar um filtro para a análise no Spark Ar Hub
 
@@ -374,6 +377,7 @@ HigFzcNSxsw // Como usar imagem da galeria como textura | Tela Verde - Spark Ar
 W9r6RYzEQAw // Filtro com alterador de voz, tutorial - Spark Ar
 jSQP6N9Qrwk // Meu filtro não aprova com texto estático, o que fazer? - Spark AR
 RlI2sPiz13Q // Trocar fundo do seu filtro sem template / Segmentation - Spark Ar
+nY2IYO_EwzA // Varios LUTs / Presets / Filtros de Cor em um filtro sem script | Native UI Fácil - Spark Ar
 
 # VA Designer
 VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook
