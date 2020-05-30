@@ -109,6 +109,7 @@ qSpUgBua-uA // Filtros de realidad aumentada para Instagram y Facebook - Curso o
 CP6rZAQYx5s // Filtros ilustrados para Facebook e Instagram Stories - Curso online de Naranjalidad
 BVUHR-jQTbA // Tutorial 3D: filtros de realidad aumentada para redes sociales - Paul Brown - Domestika
 WNFXUGQmdsM // Tutorial Spark AR: ilustración en realidad aumentada - Beatriz Ramo “Naranjalidad” - Domestika
+wyWkawuB_q0 // Filtros Animados en 2D para Instagram | Un curso de Ayo Vega
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
@@ -135,6 +136,7 @@ M6To3Zk9NQc // Tutorial cómo añadir hora y fecha a un filtro de Spark AR para 
 0zC0VR6Be0Q // Cómo poner pestañas en 3D con Spark AR para instagram
 rL_l--ciUEA // Spark AR tutorial efecto granulado para Instagram paso a paso
 Ac4lXRlCbnY // Cómo hacer el filtro Kira Kira con Lut y Retouching tutorial Spark AR paso a paso
+lInyxVH2ht8 // Cómo crear Luts con photoshop para Spark AR - Paso a paso
 
 # Eani13
 ntbOMqVjA8Y // Cómo hacer filtros de instagram tipo ruleta con spark AR (Qué personaje eres?)
@@ -354,6 +356,7 @@ BSVK8alpSJ8 // Naza.carrero y Daniel Murcia - blender y realidad aumentada - spa
 JMqLwEHfsC4 // Puerco araña nuevo filtro Instagram - spark ar studio
 qeweWr6mRo0 // Tutorial como cambiar el fondo con imágenes y videos de la galería Filtro Instagram con Spark Ar
 -3ew83N8xlw // Como hacer que tu objeto 3D con huesos se mueva en spark ar studio tutorial
+9CisUoQs_zE // Donut 🍩 filtro Instagram spark Ar
 
 # Neo Luisk
 1i7lNmf9RP4 // COMO HACER FILTROS DE INSTAGRAM (TUTORIAL)
@@ -418,6 +421,15 @@ hSR-pUh79OY // CREA TUS PROPIOS FILTROS/EFECTOS PARA INSTAGRAM STORIES ❤️- T
 
 # Tutoriales Varios
 xt1uPREQqaw // CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM FACIL!
+
+# Vevo
+Du9rX-0GuLk // | Spark AR | ¡Cómo CREAR tus propios FILTROS de INSTAGRAM! 📱 [2020 actualizada ]
+VliTEfp43TE // How to create Instagram Filter  Face mask  | Cómo crear una máscara facial de filtro de Instagram
+2HcrMwvdOhY // Spark AR tutorials | Cree un efecto de filtro con Face Mesh, Retoque y Efecto de luz Instagram
+pnOwPWevQWU // How to Make a "Who / What are you?" Filter? | Spark AR | Cómo hacer un  Quién / Qué eres? Filtrar?
+
+# William AR Lab
+mNZLkzlVSms // Creación de filtro con efecto marco en Spark AR Studio
 
 # YeYo
 AbaknB4FlAM // ¡Cómo CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM! 📱

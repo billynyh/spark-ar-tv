@@ -1,6 +1,9 @@
 # bit X Channel
 kW9mwfouUtc // 【Spark AR】インスタで使えるARフィルターを作ろう！
 
+# Ezumi_DIY
+_PutM2xEvVA // ARエフェクトを作ろう！【Spark AR_01_概要とインストール】
+
 # Junji Suzuki
 Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを付ける方法@Spark AR Studio
 wTlfj4W8uAc // ZoomでSnapCameraのようにSpark ARを使う方法
