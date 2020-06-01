@@ -15,6 +15,17 @@ bJzlzjUM0iw // How to make a Calculator Filter in Sparkar | Love | Devil | Goodn
 nXihvgq6Rd8 // How to make "Glitter" | "Sparkle" Facebook/Instagram Filter in SparkAr
 i7tfUJKxqu8 // How to make "KIRA KIRA EFFECT" Facebook | Instagram Filter in SparkAr
 sL-45WLqCAo // How to make "KERA KERA EFFECT 2" Facebook | Instagram Filter in SparkAr
+mRtmdKyRFTU // How to make "Multiple Screen LUT Effect" Facebook | Instagram Filter in SparkAr
+
+# Aditya Agarwal
+RQnPuvJb8bk // KIRA KIRA / GLITTER / SPARKEL effect SPARK AR | download link | kira kira + LUT + Slider New Update
+aPj652PPzQE // Step Gradient Patch
+qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
+6MzPAp1HJEQ // Spark ar Native Ui Picker and Slider | Spark AR tutorial
+Y5FUFY6RyQE // How to get Average Face Tone Spark AR
+kYyHxMFV7ko // How to add Shadow Frame in Spark AR | Spark AR tutorial
+tcMQa3TEYmQ // Vertex Displacement Spark AR | Custom Shader
+JQHj9mVrQzU // 3D Score Counter Spark AR | Game Score Counter
 
 # Ahmed Hassanein
 EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
@@ -284,16 +295,6 @@ _aQ9N0pOI5w // Spark AR Speaker Event : Spark AR Overview + Interactive Filter W
 # editing by matthieu
 43R0J_urrzo // CREATE YOUR INSTAGRAM STORY FILTERS
 
-# effectization studio
-RQnPuvJb8bk // KIRA KIRA / GLITTER / SPARKEL effect SPARK AR | download link | kira kira + LUT + Slider New Update
-aPj652PPzQE // Step Gradient Patch
-qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
-6MzPAp1HJEQ // Spark ar Native Ui Picker and Slider | Spark AR tutorial
-Y5FUFY6RyQE // How to get Average Face Tone Spark AR
-kYyHxMFV7ko // How to add Shadow Frame in Spark AR | Spark AR tutorial
-tcMQa3TEYmQ // Vertex Displacement Spark AR | Custom Shader
-JQHj9mVrQzU // 3D Score Counter Spark AR | Game Score Counter
-
 # Effects Maker
 Dzi25J8gmZ8 // Publishing an Effects Maker AR Camera Filter Effect on Instagram
 r0Z506YclS8 // Who is More Likely? Instagram Filter SparkAR Tutorial by EffectsMaker.com
@@ -411,6 +412,9 @@ hdkVFX2qlQc // SPARK AR Tutorial Simple Filter For Beginners
 
 # gurmeetweb.com
 bj5p1xXdGOc // How to create Instagram Augmented Reality Filter or Photography Frame for Models only in one minute
+
+# Hannah Escarez
+2sbeU2yi6x4 // Make your own Instagram filters using PicsArt & Spark AR Studio (Voice over with my lil sis)
 
 # Happy Mill
 fdDGSsakOFI // Create your new Instagram filter! - Spark AR Studio
@@ -596,6 +600,7 @@ gX8SItNwyts // HOW TO CREATE A FIGHT CLUB FILTER
 # Luke Gibbs
 TqVzRFbEJcE // Instagram Filter │Make a kaleidoscope in Spark AR
 9FWEEYUqYWI // Instagram Filter │AR Music Reactive Effects in Spark AR Studio
+ZJXjYnDXi1c // Instagram Filter │ How to make a higher quality panorama in Spark AR Studio
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -690,6 +695,7 @@ j1OGKa9yTow // Spark AR vertex colors
 PkSnvezF_qA // TUTORIAL Import softbody simulations  into SparkAR
 ns0YjmubsWk // SANGUINE SUNDAY SPARK AR is live!
 Dwc5XIdyMGo // MERGE/IMPORT SPARK AR PROJECT FILES
+69OCpxFfQ3Q // SPARK AR SUPERCONDUCTING SUBTERRANEAN SAGA /w YEGOR RYABTSOV
 
 # matemesz
 DYAJAjcNC5k // Creating filter by Nora Horvath
@@ -759,6 +765,9 @@ jB4HIN2Btn0 // Get Day of the WEEK in Spark AR v87+ Free DATE Project Template D
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
 
+# Nikka Pesudas
+aT9MzK3WOh4 // how to create your own Instagram filters ~
+
 # Nina Judy
 RHOdt1zNjj8 // How to get Instagram Filters 2020 Tutorial. "Which are you?", HiddenIGFilters & More.
 
@@ -812,7 +821,7 @@ NXBZvf8Lu24 // How to Create a Hole Scene in Spar AR Studio [Customize Color, Se
 xDOnGh-ygXM // How to Stop Animation with Facial Expression in SPARK AR [useful patch for blink, mouth open, etc.]
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in SPARK AR)
 IAUqD_z6noQ // How to add an Alpha Mask to your Face Mesh in SPARK AR
-qvmIsLKAXiw // How to create a mode-of-the-day Filter from facial expressions in SPARK AR
+qvmIsLKAXiw // How to Create a Mode-of-The-Day Filter from Facial Expressions in SPARK AR
 I7uCLe1VEfg // How to Change your Eye Color in SPARK AR
 jRD2hMQpIr0 // Adding the Native UI Picker to Switch 3D Object in SPARK AR
 9xM1rbc4y-E // SPARK AR from Lightroom Presets to LUT (Avoid these Mistakes)
@@ -1000,6 +1009,7 @@ oveKr-RBuNk // FlyingTweetBird
 w0s1WTQT9U0 // Aurora glitter instruction for Spark AR. Read the description
 IanJD8yyXCk // Realistic glowing highlighter in Spark AR
 MHF__3g4HIM // Crybaby  inspired wet skin set for Spark AR
+5HEAS0nWgj0 // Glam Clown Workflow. Creating hd make up in Procreate and Spark AR
 
 # Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
@@ -1007,7 +1017,7 @@ mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 # squintythicc
 -aqf1Pto4tk // making an instagram face filter
 
-# Steffie Harner ASMR
+# Steffie Harner
 6F6qqEQf2QA // Spark AR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
 
 # Steven Van
@@ -1105,7 +1115,6 @@ poqC24bmnyw // How to use the AND OR and NOT patches - Spark AR tutorial
 RrIgHKAePdU // How to use the Option Switch and Option Picker - Spark AR tutorial
 lNUL5O98LRI // Option sender tutorial
 Aj0Pqq4YJXg // How to use the Gradient Step patch - Spark AR tutorial
-MR2u0nqz1UI // Creating Instagram filters live in Spark AR - streaming live with Udart
 u84HtaeehvU // Live recording creating an Instagram filter in Spark AR
 
 # Ulka Chandini Pendit

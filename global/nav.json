@@ -443,14 +443,14 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCJt1CtJlosyPZMuxBstwy4g.html",
       "thumbnail_url": "https://i.ytimg.com/vi/58zQ0f30xRY/hqdefault.jpg",
       "title": "Channel: Emory Tan",
-      "meta1": "Num videos: 47",
+      "meta1": "Num videos: 48",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCI7pSUi_CX5ElJGfOl6n4cA.html",
       "thumbnail_url": "https://i.ytimg.com/vi/Qh-Y9k8YaVw/hqdefault.jpg",
       "title": "Channel: Artem Maiko",
-      "meta1": "Num videos: 44",
+      "meta1": "Num videos: 45",
       "meta2": null
     },
     {
@@ -743,10 +743,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-01.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/pvcu6mozmF8/hqdefault.jpg",
+      "title": "Week 2020-06-01",
+      "meta1": "Num videos: 2",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-25.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/mb_0j_Pqk2o/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/LNA5XGpc-_4/hqdefault.jpg",
       "title": "Week 2020-05-25",
-      "meta1": "Num videos: 136",
+      "meta1": "Num videos: 173",
       "meta2": null
     },
     {
@@ -760,7 +767,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-11.html",
       "thumbnail_url": "https://i.ytimg.com/vi/uuT1vyl-gsw/hqdefault.jpg",
       "title": "Week 2020-05-11",
-      "meta1": "Num videos: 186",
+      "meta1": "Num videos: 185",
       "meta2": null
     },
     {
@@ -775,13 +782,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/obqbx4mdze4/hqdefault.jpg",
       "title": "Week 2020-04-27",
       "meta1": "Num videos: 168",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-20.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/qP3MFws1uhA/hqdefault.jpg",
-      "title": "Week 2020-04-20",
-      "meta1": "Num videos: 149",
       "meta2": null
     }
   ]

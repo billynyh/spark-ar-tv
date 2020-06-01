@@ -72,6 +72,7 @@ def cleanup(master):
     cleanup_custom_groups(master.global_site.topics, video_data, "topics.txt")
 
 def main():
+    util.prepare_cache()
     config = config_factory.load()
     master = master_site(config, merge_small_groups = False)
     cleanup(master)
