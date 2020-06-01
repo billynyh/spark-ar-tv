@@ -138,6 +138,7 @@ M6To3Zk9NQc // Tutorial cómo añadir hora y fecha a un filtro de Spark AR para 
 rL_l--ciUEA // Spark AR tutorial efecto granulado para Instagram paso a paso
 Ac4lXRlCbnY // Cómo hacer el filtro Kira Kira con Lut y Retouching tutorial Spark AR paso a paso
 lInyxVH2ht8 // Cómo crear Luts con photoshop para Spark AR - Paso a paso
+ztTJFnP4bwk // Native UI Picker Básico Spark AR Tutorial en Español - Paso a paso
 
 # Eani13
 ntbOMqVjA8Y // Cómo hacer filtros de instagram tipo ruleta con spark AR (Qué personaje eres?)
@@ -429,6 +430,8 @@ Du9rX-0GuLk // | Spark AR | ¡Cómo CREAR tus propios FILTROS de INSTAGRAM! 📱
 VliTEfp43TE // How to create Instagram Filter  Face mask  | Cómo crear una máscara facial de filtro de Instagram
 2HcrMwvdOhY // Spark AR tutorials | Cree un efecto de filtro con Face Mesh, Retoque y Efecto de luz Instagram
 pnOwPWevQWU // How to Make a "Who / What are you?" Filter? | Spark AR | Cómo hacer un  Quién / Qué eres? Filtrar?
+gycx9IV9r_g // Spark AR Rotating Head Crown
+2hqTcX-9LKI // Spark AR | Realastic Glitter makeup mask  |  Máscara de maquillaje de brillo realista
 
 # William AR Lab
 mNZLkzlVSms // Creación de filtro con efecto marco en Spark AR Studio

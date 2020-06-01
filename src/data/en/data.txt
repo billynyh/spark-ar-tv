@@ -62,6 +62,7 @@ V4TFU8rLJnA // MAKE YOUR OWN INSTAGRAM FILTER IN 3 MIN // VERY EASY TUTORIAL // 
 
 # Anna Designs
 yBzEwJJRoo4 // How to Design Simple Mask for Instagram in Spark Ar
+4x_IEfmWPyQ // How to Desing Instagram Mask with What\Who\Where Question and Randome Answers
 
 # Anna Lytical
 LZ4okgC2dj8 // Gourmet Makes: Instagram "which are you" effect coding tutorial  (CODE INCLUDED) #IWDFCFTBATK
@@ -114,6 +115,7 @@ Ny-IQtDxlIU // Upload Filter to Instagram 2020. How to publish filter Spark AR S
 ouMHgISrPIY // Head Occluder in Spark AR Studio. 3D Objects Rotate Around Head Instagram Filter
 -2TLoN7QvAM // Spark AR Studio for Beginners: Create Your Own Filters for Instagram and Facebook
 ZqzDe6E5rQM // Kira Kira Glitter Instagram Filter Tutorial in Spark AR Studio
+wUIs5x20P8A // Neon Text Rotating Around Head Instagram Filter in Spark AR Studio
 
 # Ashlee Rose
 GcXQ-2nVqCo // How To Create A Makeup Instagram Filter & Publish To Spark AR
@@ -696,6 +698,7 @@ PkSnvezF_qA // TUTORIAL Import softbody simulations  into SparkAR
 ns0YjmubsWk // SANGUINE SUNDAY SPARK AR is live!
 Dwc5XIdyMGo // MERGE/IMPORT SPARK AR PROJECT FILES
 69OCpxFfQ3Q // SPARK AR SUPERCONDUCTING SUBTERRANEAN SAGA /w YEGOR RYABTSOV
+NZbSEIKDTdQ // MESH DEFORMATIONS IN SPARK
 
 # matemesz
 DYAJAjcNC5k // Creating filter by Nora Horvath
@@ -975,6 +978,7 @@ R6irTb3kxTc // 4 Colours Gradient Filter Effect (Patch Editor, Color) | Instagra
 cVKD14ayTtc // Reviewing Your Filters | Spark AR | Instagram & Facebook | Another Show
 iMnu394HXs0 // Reviewing My Filters | Spark AR | Instagram & Facebook | Another Show
 GsKwJnvmEzg // Reviewing Your Filters #2 | Spark AR | Instagram & Facebook | Another Show
+KqLBSXi47O0 // Gallery Texture (User Selected Image, Video, Camera Roll) | Instagram & Facebook | Spark AR Tutorial
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
