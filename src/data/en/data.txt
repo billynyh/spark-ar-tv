@@ -605,6 +605,7 @@ TqVzRFbEJcE // Instagram Filter │Make a kaleidoscope in Spark AR
 9FWEEYUqYWI // Instagram Filter │AR Music Reactive Effects in Spark AR Studio
 ZJXjYnDXi1c // Instagram Filter │ How to make a higher quality panorama in Spark AR Studio
 tA9Wi16AK7I // Instagram Filter│How to make spritesheets for Spark AR Studio
+Rswzu8UkbCc // Instagram Filter│How to create a 3D animated character using Mixamo in Spark AR Studio
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -837,6 +838,7 @@ t5hHstJ6i4c // How to Create a 2D Game in SPARK AR [How to Start the Game and Se
 xWIqnVE8VM4 // How to Create a 2D Game in SPARK AR [Gaming Logic, Count Score, Start/End the Game]
 ETYOmdFnlew // Spark AR Tutorial: Kira Kira Glitter Sparkle Filter with VHS Effect
 dTA6LzCP7N4 // How to Create Light Setting, Light Leaks and Animation Sequence as Light Effects in SPARK AR
+WkkznIy3jI8 // How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target Disappear by Collision, Add Music]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -984,6 +986,7 @@ iMnu394HXs0 // Reviewing My Filters | Spark AR | Instagram & Facebook | Another 
 GsKwJnvmEzg // Reviewing Your Filters #2 | Spark AR | Instagram & Facebook | Another Show
 KqLBSXi47O0 // Gallery Texture (User Selected Image, Video, Camera Roll) | Instagram & Facebook | Spark AR Tutorial
 u5DzVCGUcqw // Pixel Filter Effect (Pixelated Shader Patch, Animation) | Instagram & Facebook | Spark AR Tutorial
+-oJFcIqh058 // RGB Colour Shift Filter Effect (Shader Patch, Animation) | Instagram & Facebook | Spark AR Tutorial
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
@@ -1126,6 +1129,7 @@ RrIgHKAePdU // How to use the Option Switch and Option Picker - Spark AR tutoria
 lNUL5O98LRI // Option sender tutorial
 Aj0Pqq4YJXg // How to use the Gradient Step patch - Spark AR tutorial
 u84HtaeehvU // Live recording creating an Instagram filter in Spark AR
+H1JadxN_GD0 // Visualizing audio in Spark AR - tutorial about the audio analyser patches
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR

@@ -143,6 +143,7 @@ jPrzLb-hx5Y // Spark Ar tutorial - Motion Pop HALFTONE effect -  Using SDF in pa
 lY92ACD5_2Y // Spark Ar tutorial - Add Music part 2 - How to make the audio start when pressing record on device
 7VuRK5Ii22c // Spark Ar Studio Tutorial - Activate the GALLERY TEXTURE option and insert custom images inside IRIS
 AlJTHssJpVA // Spark Ar - Gallery texture part 2 - Creative use of Gallery picker using patch editor
+D0Rwb71covc // Spark ar studio - Audio Analyzer + RGB Shift Glitch - SDF Music reactive patterns - Creative Preview
 
 # Nicolò Fava - Channel
 TXtV8VaLFpg // Come ho creato 5(+1) FILTRI INSTAGRAM in 5 giorni

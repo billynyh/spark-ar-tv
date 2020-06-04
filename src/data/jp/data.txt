@@ -4,7 +4,7 @@ kW9mwfouUtc // 【Spark AR】インスタで使えるARフィルターを作ろ�
 # Ezumi_DIY
 _PutM2xEvVA // ARエフェクトを作ろう！【Spark AR_01_概要とインストール】
 g3sann0qJIg // 2.家族とペットのARエフェクトを作ろう！【前半】＜無料ソフトで素材作り＞
-DBC__MpVglo // 3.家族やペットのARエフェクトを作ろう【後半】初めてのSpark AR Studio
+f4yUT9ftZk0 // 3.家族やペットのARエフェクトを作ろう【後半】初めてのSpark AR Studio
 
 # Junji Suzuki
 Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを付ける方法@Spark AR Studio
