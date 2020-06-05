@@ -429,7 +429,14 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
-      "meta1": "Num videos: 56",
+      "meta1": "Num videos: 57",
+      "meta2": null
+    },
+    {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCJt1CtJlosyPZMuxBstwy4g.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/58zQ0f30xRY/hqdefault.jpg",
+      "title": "Channel: Emory Tan",
+      "meta1": "Num videos: 50",
       "meta2": null
     },
     {
@@ -437,13 +444,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/R0V3C_fUwbM/hqdefault.jpg",
       "title": "Channel: Sultan Bazarbayev",
       "meta1": "Num videos: 50",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCJt1CtJlosyPZMuxBstwy4g.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/58zQ0f30xRY/hqdefault.jpg",
-      "title": "Channel: Emory Tan",
-      "meta1": "Num videos: 49",
       "meta2": null
     },
     {
@@ -457,7 +457,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
       "thumbnail_url": "https://i.ytimg.com/vi/99wNU14mcKI/hqdefault.jpg",
       "title": "Channel: Tutoriais do Kewin",
-      "meta1": "Num videos: 43",
+      "meta1": "Num videos: 44",
       "meta2": null
     },
     {
@@ -744,9 +744,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-01.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/ucg8Rwd2yts/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZsI2aWik9uE/hqdefault.jpg",
       "title": "Week 2020-06-01",
-      "meta1": "Num videos: 81",
+      "meta1": "Num videos: 110",
       "meta2": null
     },
     {

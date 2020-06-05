@@ -601,11 +601,13 @@ gX8SItNwyts // HOW TO CREATE A FIGHT CLUB FILTER
 8lPnk4qmGGQ // Spark AR SpriteSheet Tutorial, how to make popcorn particles with a spritesheet.
 
 # Luke Gibbs
+7t_72tEQkfU // Instagram & Facebook Filters - Demo Reel
 TqVzRFbEJcE // Instagram Filter │Make a kaleidoscope in Spark AR
 9FWEEYUqYWI // Instagram Filter │AR Music Reactive Effects in Spark AR Studio
 ZJXjYnDXi1c // Instagram Filter │ How to make a higher quality panorama in Spark AR Studio
 tA9Wi16AK7I // Instagram Filter│How to make spritesheets for Spark AR Studio
 Rswzu8UkbCc // Instagram Filter│How to create a 3D animated character using Mixamo in Spark AR Studio
+D5yo6Kq_hi4 // Instagram Filter│Camera distortion in Spark AR Studio
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -801,6 +803,9 @@ YpFfkCftF6U // Spark AR - LUTs + Segmentation
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 lIl3vZEcbxY // Spark AR - Hidden Preview Videos!
 
+# Patricia TV
+Oiv5nhr8toQ // HOW I MAKE MY OWN IG FILTER ( PHILIPPINES ) | Patricia Teodoro
+
 # Pedro Afonso Design
 90q2XDx3BaM // Prince - Clash of Royale - Spark AR Timelapse
 
@@ -987,6 +992,7 @@ GsKwJnvmEzg // Reviewing Your Filters #2 | Spark AR | Instagram & Facebook | Ano
 KqLBSXi47O0 // Gallery Texture (User Selected Image, Video, Camera Roll) | Instagram & Facebook | Spark AR Tutorial
 u5DzVCGUcqw // Pixel Filter Effect (Pixelated Shader Patch, Animation) | Instagram & Facebook | Spark AR Tutorial
 -oJFcIqh058 // RGB Colour Shift Filter Effect (Shader Patch, Animation) | Instagram & Facebook | Spark AR Tutorial
+4CkZlkzDQds // 2D Text Filter Effect (Time, Date, Location, Temperature) | Instagram & Facebook | Spark AR Tutorial
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
@@ -1003,10 +1009,12 @@ F3hV1ak7swY // HOW TO MAKE YOUR OWN INSTAGRAM FILTER (with Canva)
 # Sohail Mehra
 I1PlESFdyac // Spark AR Scripting - Episode 1 - Basics // Getting Started
 egX1UTRKzx0 // Spark AR Scripting - Episode 2 - Reactive Programming { Patches vs Scripting }
+ZUTxeQcaZ-I // Spark AR Scripting - Episode 3 - Shaders ( Part 1 ) // Graphics Pipeline, UVs, Interpolation
 
 # Sophia Molina
 PULxnnYyucg // I made my own Instagram filter using Picsart + Spark AR Studio (part 1) | Sophia Molina
 etY-DxtANNQ // Make your own Instagram filter (Spark Ar tutorial) | Part 2
+XFdgpA3HHmw // How to make your own Instagram filter | Spark AR Tutorial (Headdress)
 
 # Spark AR Academy Eng
 y3JLWRdNGPQ // Lesson 1 - How to install Spark AR, Spark AR Tutorial

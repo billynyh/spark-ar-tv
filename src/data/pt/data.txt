@@ -393,6 +393,7 @@ RlI2sPiz13Q // Trocar fundo do seu filtro sem template / Segmentation - Spark Ar
 nY2IYO_EwzA // Varios LUTs / Presets / Filtros de Cor em um filtro sem script | Native UI Fácil - Spark Ar
 xl4Yuw3CNnE // Ajustar intensidade do seu filtro | Slider Native UI - Spark Ar
 tbZ9X5_leeU // Filtro com Efeito de Luzes Coloridas/Light Leak - Spark AR
+ydQ4wLxh4Qk // Filtro com foco de câmera que segue o rosto, tutorial - Spark Ar
 
 # VA Designer
 VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook
