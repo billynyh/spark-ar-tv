@@ -266,6 +266,9 @@ GUNl32dzslc // How To Make a Custom Instagram Face Filter
 # Crazy Play
 rnPA0mnbw5o // Spark AR tutorial for beginners
 
+# Darshan Kadam photography
+TImSPtV1HY0 // Create an Instagram Filter | Beginner Spark AR Tutorial | stayhome stay safe tattoo
+
 # Dave Tech Tips
 aeGMoyGdD8k // Create an Instagram Filter | Beginner Spark AR Tutorial | Guess My Age
 
@@ -608,6 +611,8 @@ ZJXjYnDXi1c // Instagram Filter │ How to make a higher quality panorama in Spa
 tA9Wi16AK7I // Instagram Filter│How to make spritesheets for Spark AR Studio
 Rswzu8UkbCc // Instagram Filter│How to create a 3D animated character using Mixamo in Spark AR Studio
 D5yo6Kq_hi4 // Instagram Filter│Camera distortion in Spark AR Studio
+OzvXhri662A // Instagram Filter│How to do random deformation in Spark AR Studio
+sZ24WSa4a1k // How to add film dust and scratches to your Instagram or Facebook filters in Spark AR Studio
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -704,6 +709,7 @@ ns0YjmubsWk // SANGUINE SUNDAY SPARK AR is live!
 Dwc5XIdyMGo // MERGE/IMPORT SPARK AR PROJECT FILES
 69OCpxFfQ3Q // SPARK AR SUPERCONDUCTING SUBTERRANEAN SAGA /w YEGOR RYABTSOV
 NZbSEIKDTdQ // MESH DEFORMATIONS IN SPARK
+W7CDuMtXjnQ // TUTORIAL: SPARK AR SHADER BASICS
 
 # matemesz
 DYAJAjcNC5k // Creating filter by Nora Horvath
@@ -881,6 +887,8 @@ DhXpIH8dTWM // 25 number picker for Spark AR
 6Afb8mz2fKU // Spark AR film grain
 eTR2G82eR9w // Spark ar Butterfly asset
 oH3oS8yuSjE // Spark ar static butterfly for instagram filter
+hUsYqeewF3g // OMG SPARK AR PATCH!
+D6qrW3yoA_4 // FREE PUTCH FOR SPARK AR (link in description)
 
 # Reticent Dude
 nAU25ZP98Sc // Easy way to use your Lightroom presets as an IG filter!!!   (using Spark AR)
@@ -993,6 +1001,8 @@ KqLBSXi47O0 // Gallery Texture (User Selected Image, Video, Camera Roll) | Insta
 u5DzVCGUcqw // Pixel Filter Effect (Pixelated Shader Patch, Animation) | Instagram & Facebook | Spark AR Tutorial
 -oJFcIqh058 // RGB Colour Shift Filter Effect (Shader Patch, Animation) | Instagram & Facebook | Spark AR Tutorial
 4CkZlkzDQds // 2D Text Filter Effect (Time, Date, Location, Temperature) | Instagram & Facebook | Spark AR Tutorial
+pjhGTl4cklo // Two Tone Filter Effect (Duotone Shader Patch, Constrast) | Instagram & Facebook | Spark AR Tutorial
+p1HF28ZkzBQ // Three Tone Filter Effect (Tritone Shader Patch) | Instagram & Facebook | Spark AR Tutorial
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
