@@ -63,7 +63,7 @@ class HtmlHelper:
         return self.render(t, 
             site = site, 
             page = page, 
-            link_to_group = True,
+            link_to_group = len(site.video_data) > 30,
             large_thumb = True,
             full = full)
 
