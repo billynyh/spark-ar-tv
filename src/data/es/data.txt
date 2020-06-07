@@ -64,6 +64,7 @@ QERYVt5J3BI // CURSO SPARK AR STUDIO | Partículas #8
 vI6FbXcNr3U // CURSO SPARK AR STUDIO | Screen Tap cambiar elementos #9
 BjSTbzmBoRU // CURSO SPARK AR STUDIO | Añadir instrucciones a tu efecto #10
 bp2zGTZNBak // CURSO SPARK AR STUDIO | Añadir botones de opciones #11
+5GK331JZr3g // CURSO SPARK AR STUDIO | Fuentes de creatividad #12
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -141,6 +142,7 @@ lInyxVH2ht8 // Cómo crear Luts con photoshop para Spark AR - Paso a paso
 ztTJFnP4bwk // Native UI Picker Básico Spark AR Tutorial en Español - Paso a paso
 IFpNAVgSStk // Cómo crear marcos o frame polaroid para Spark Ar - Paso a paso
 Ct3Ru6OkiTM // Cómo colocar Lut + retouching + grano + frame - Tutorial en español de Spark AR
+tA_S8svXwqg // Native UI picker, Botones de selección con LUT sin Script con Retouch - Spark AR
 
 # Eani13
 ntbOMqVjA8Y // Cómo hacer filtros de instagram tipo ruleta con spark AR (Qué personaje eres?)

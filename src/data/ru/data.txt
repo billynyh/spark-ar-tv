@@ -1078,6 +1078,9 @@ t2l6y-CutHg // Spark AR - Glitch Pack (4 patches)
 OgRocjLfXgU // Spark AR - Как сделать надпись на лице. Маска для Инстаграм
 UL2xNKk614M // Spark AR - Гладкая кожа (ретушь кожи). Как сделать маску в Инстаграм
 
+# Евгения Тимина
+BPu8FYArbug // как сделать маску в spark ar
+
 # Елена Кондратенко
 vEjvOUV6YF0 // Как загрузить маску в свой аккаунт инстаграм.  spark ar studio
 DZ511BPkhJQ // КАК ЗАГРУЗИТЬ МАСКУ В INSTAGRAM НОВАЯ ВЕРСИЯ SPARK AR
@@ -1256,6 +1259,22 @@ ncysBf5m-bA // ПРОСТАЯ МАСКА В ИНСТАГРАМ ЗА 5 минут
 df-ER1AiVLM // Объекты над головой в Spark AR! Создание маски в Instagram
 oVvSTDY7nFE // Как сделать маску в Spark AR за 6 минут / татуировки на лице / самый легкий способ
 rO4xd6Q4zRo // Как сделать маску в Spark AR? Создание неоновой маски с тестом на глазах в Instagram!
+
+# Создание AR-масок
+BhWAHPi5l3I // 1 урок. Знакомство с интерфейсом SPARK AR
+luNwZiO1v1g // 2 урок. Наложение 2D объекта
+s3pveqFQ6x8 // 3 урок. Глянцевый эффект и светомузыка
+wW89lQ-MqOg // 4 урок. Анимация секвенция + смена маски по тапу
+EtpCgdJA6EE // 5 урок. Создание пресета в SPARK AR (LUT и Animation Sequence)
+Np38H2onMC8 // 6 урок. Маска макияж + эффект объемных ресниц
+HnABkh9YkDU // 7 урок. Эффект шиммера + LUT в SPARK AR
+4Ewp6JsQ1W4 // 8 урок. Инструмент Particle System в SPARK AR
+rJhjar6wtsw // 9 урок. Инструменты интерактива в SPARK AR, смена маски по тапу, создание инструкции.
+SZoyjDRN2aQ // 10 урок. Экспорт маски SPARK AR в Instagram
+42_kKv2TOKA // 11 урок. Наложение 3D-объекта в SPARK AR
+EES1udzj784 // 12 урок. Вращение 3D-объектов SPARK AR
+XAO0ohk65c8 // 13 урок. Неоновый текст вокруг головы SPARK AR
+aymqpJ70mhw // 14 урок. Игра рандомайзер SPARK AR
 
 # Так блэт production
 T2qUB4MO3e8 // Маски в инстаграм, spark ar, как сделать маску в инстаграм

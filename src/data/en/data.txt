@@ -27,6 +27,9 @@ kYyHxMFV7ko // How to add Shadow Frame in Spark AR | Spark AR tutorial
 tcMQa3TEYmQ // Vertex Displacement Spark AR | Custom Shader
 JQHj9mVrQzU // 3D Score Counter Spark AR | Game Score Counter
 
+# adryn
+a-w03AzIaB4 // CREATE YOUR OWN FILTER EASY// BEGINNER TUTORIAL REQUIRED SPARK AR AND PICSART
+
 # Ahmed Hassanein
 EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
 
@@ -555,6 +558,11 @@ Nc6lmmg2Pjs // INSTAGRAM FILTER ICON how to create + Effect Icon Template Downlo
 # Kathlene Figuracion
 TufUUsCFB2o // Create Your Own Instagram Filter | Fast & Simple
 
+# keetapol boonprachak
+pwLioCE3gEE // Jumper Game Project Template - Parameters demo
+X79vGPzqdB8 // Jumper Game Project Template - Replace assets Demo
+uxgZPLa2qFc // Jumper Game Project Template Tips : disable LIVE_UPDATE before publish
+
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
 
@@ -613,6 +621,7 @@ Rswzu8UkbCc // Instagram Filter│How to create a 3D animated character using Mi
 D5yo6Kq_hi4 // Instagram Filter│Camera distortion in Spark AR Studio
 OzvXhri662A // Instagram Filter│How to do random deformation in Spark AR Studio
 sZ24WSa4a1k // How to add film dust and scratches to your Instagram or Facebook filters in Spark AR Studio
+uh6vKVXs5ic // Spark AR Quick Tip - How to add movement to anything
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -710,6 +719,8 @@ Dwc5XIdyMGo // MERGE/IMPORT SPARK AR PROJECT FILES
 69OCpxFfQ3Q // SPARK AR SUPERCONDUCTING SUBTERRANEAN SAGA /w YEGOR RYABTSOV
 NZbSEIKDTdQ // MESH DEFORMATIONS IN SPARK
 W7CDuMtXjnQ // TUTORIAL: SPARK AR SHADER BASICS
+zRroh6GW2z4 // SOPHISTICATED SPARK SAFARI /w KYM FIALA Version 2020.8
+TjO9LKCL6GI // SOPHISTICATED SPARK SAFARI /w KYM FIALA Version 2020.8
 
 # matemesz
 DYAJAjcNC5k // Creating filter by Nora Horvath
@@ -735,6 +746,9 @@ kHdFvwnB_iY // Make filter Instagram Harley Quinn | Spark AR
 # Mimx
 -3bWkrG4-_A // Spark AR for Beginner
 R3BFw92JsLI // Publishing your fist Spark AR project
+
+# MozillaTN
+SB2ht7x1MuI // FOSSWeeks 2020 - Week 5 Webinar | Build your own Instagram AR Filters
 
 # Mr Arun
 LKHCrMqFhq4 // CONVERT YOUR LIGHTROOM PRESETS INTO INSTAGRAM FILTERS IN 10 MINUTES | SPARK AR STUDIO | HINDI | 2020
@@ -812,6 +826,7 @@ lIl3vZEcbxY // Spark AR - Hidden Preview Videos!
 
 # Patricia TV
 Oiv5nhr8toQ // HOW I MAKE MY OWN IG FILTER ( PHILIPPINES ) | Patricia Teodoro
+dRgntzWEl_o // HOW TO UPLOAD YOUR FILTER TO INSTAGRAM
 
 # Pedro Afonso Design
 90q2XDx3BaM // Prince - Clash of Royale - Spark AR Timelapse
@@ -889,7 +904,6 @@ DhXpIH8dTWM // 25 number picker for Spark AR
 eTR2G82eR9w // Spark ar Butterfly asset
 oH3oS8yuSjE // Spark ar static butterfly for instagram filter
 hUsYqeewF3g // OMG SPARK AR PATCH!
-D6qrW3yoA_4 // FREE PUTCH FOR SPARK AR (link in description)
 
 # Reticent Dude
 nAU25ZP98Sc // Easy way to use your Lightroom presets as an IG filter!!!   (using Spark AR)
@@ -921,6 +935,7 @@ DHHPMBa8B6E // Spark Ar Blink Game
 
 # Roses are Alexia
 IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
+9otkaWCh-68 // Polaroid Pack | Spark AR | @roses_are_alexia
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
@@ -1117,6 +1132,9 @@ juTUQ2s9D8g // How to make a "Devil Horn Face Effect + B&W Filter" ? for Instagr
 mP2PPj1RURs // How to make a "Sorting Hat at Harry Potter" Filter for Instagram/Facebook ? | Spark AR - Episode 06
 eTMHNH45PMw // How to create a "Flower Crown" Filter/Effect for Instagram/Facebook ? | Spark AR - Episode 07
 54psYRGLB_0 // How to Create a Quadrant Split Face Effect For Instagram/Facebook ? | Spark AR - Episode 08
+
+# Trixie Litan
+Cd253TiCisw // How to make instagram face filter *easy, simple* | Trixie Litan
 
 # Two Lane
 NgDwh4Da-70 // A Taste of Spark with Marcus Benisty - Episode #13
