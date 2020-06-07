@@ -5,6 +5,7 @@ kW9mwfouUtc // 【Spark AR】インスタで使えるARフィルターを作ろ�
 _PutM2xEvVA // ARエフェクトを作ろう！【Spark AR_01_概要とインストール】
 g3sann0qJIg // 2.家族とペットのARエフェクトを作ろう！【前半】＜無料ソフトで素材作り＞
 f4yUT9ftZk0 // 3.家族やペットのARエフェクトを作ろう【後半】初めてのSpark AR Studio
+kALCzTrw-wE // 映画CGを再現したい！40倍速🎬「アバター」ARエフェクト制作過程⏳4min⏳Avatar＋Spirits AR Effect -Instagram,facebook
 
 # Junji Suzuki
 Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを付ける方法@Spark AR Studio
@@ -12,6 +13,13 @@ wTlfj4W8uAc // ZoomでSnapCameraのようにSpark ARを使う方法
 
 # Marin Park
 b636Ki4Pksw // [Spark AR] 【初心者による初心者の為のSpark AR講座(1)】ソフトをダウンロードして簡単に触ってみよう！
+
+# Takeshi Nagata
+KKZfl52txqw // [LIVE] Spark AR Studio 05 Upload Your Face Filter
+f5KWtn-ea5Y // Spark AR Studio 04 Face Distortion, Retouching and more.
+pc5UpzPUtLM // Spark AR studio 03 Animation Basic 2
+Vy6u4Dmpl7g // Spark AR studio 02 Animation Basic 1
+oxjJQjYg1gc // Spark AR Studio 01 3D Bricolage
 
 # VR Creaors LABO
 i4M0fpjOZFs // 自分で作れる　インスタエフェクト作成講座＜NO.2＞SparkAR　顔面変形

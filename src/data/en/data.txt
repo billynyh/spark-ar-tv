@@ -734,6 +734,7 @@ kHdFvwnB_iY // Make filter Instagram Harley Quinn | Spark AR
 
 # Mimx
 -3bWkrG4-_A // Spark AR for Beginner
+R3BFw92JsLI // Publishing your fist Spark AR project
 
 # Mr Arun
 LKHCrMqFhq4 // CONVERT YOUR LIGHTROOM PRESETS INTO INSTAGRAM FILTERS IN 10 MINUTES | SPARK AR STUDIO | HINDI | 2020
@@ -1167,6 +1168,7 @@ o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
 obqbx4mdze4 // How to Make "Guess the Gibberish" Instagram Filter Spark AR Tutorial
 CbqAzct2L-Y // How to Make "This or That" Quiz Instagram Filter Spark AR Tutorial
 -0_hiARHOfs // How to Make "Color Palette" / "Anime" Instagram Filter Spark AR Tutorial
+H6Y03bm2Xww // How to Make Gibberish Filter without Spark AR Coding in minutes on Effects Maker
 
 # Vector Enfield
 LrVf7ULpbMU // AR 101 ASSIGNMENT - FACEBOOK SUV
@@ -1222,6 +1224,9 @@ vU7PaBJzRLE // Replace background with animation - Spark AR
 7V_k465rErU // SPARK AR  particles emitter tutorial - bubbles flying out from mouth
 TJAcS-keTX4 // Spark AR game tutorial - controlled by head movement (part1)
 qL2cR_6gieE // Spark AR game tutorial - controlled by head movement PART 2
+
+# רון אבות
+FcPX2AGR7Io // Spark AR studio tutorial: Create 2D stickers
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74
