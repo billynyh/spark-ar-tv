@@ -408,7 +408,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCh2gFKv1dmrTxmMRgzchmrQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/zPAEpZCu1QI/hqdefault.jpg",
       "title": "Channel: Spark AR Tutoriais em Portugu\u00eas",
-      "meta1": "Num videos: 90",
+      "meta1": "Num videos: 91",
       "meta2": null
     },
     {
@@ -422,7 +422,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
       "thumbnail_url": "https://i.ytimg.com/vi/M4QSecKIzjE/hqdefault.jpg",
       "title": "Channel: Emiliusvgs",
-      "meta1": "Num videos: 60",
+      "meta1": "Num videos: 61",
       "meta2": null
     },
     {
@@ -457,7 +457,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
       "thumbnail_url": "https://i.ytimg.com/vi/99wNU14mcKI/hqdefault.jpg",
       "title": "Channel: Tutoriais do Kewin",
-      "meta1": "Num videos: 44",
+      "meta1": "Num videos: 45",
       "meta2": null
     },
     {
@@ -743,6 +743,13 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-08.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/AOA-e8RGNkI/hqdefault.jpg",
+      "title": "Week 2020-06-08",
+      "meta1": "Num videos: 24",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-01.html",
       "thumbnail_url": "https://i.ytimg.com/vi/oehDwSga8AI/hqdefault.jpg",
       "title": "Week 2020-06-01",
@@ -775,13 +782,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZVlbwLQSiEQ/hqdefault.jpg",
       "title": "Week 2020-05-04",
       "meta1": "Num videos: 150",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-04-27.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/obqbx4mdze4/hqdefault.jpg",
-      "title": "Week 2020-04-27",
-      "meta1": "Num videos: 168",
       "meta2": null
     }
   ]
