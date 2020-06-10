@@ -51,6 +51,9 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 5uPNwr5OWQo // How to Create a ShapeKey Animation in Blender 2.8 that Works in Sparkar Version 76
 3BtHGs_tp_k // SparkAR's Audio Analyzer Tutorial v89
 
+# Amir Rasyid
+rOz4GM_8QHc // Facebook/Instagram filter using spark AR
+
 # Amy Marietta
 kzcFrErVGcY // HOW TO MAKE AN INSTAGRAM STORY FILTER - SUPER EASY SPARK AR TUTORIAL
 
@@ -354,8 +357,6 @@ HpatUjqDYIc // Tutorial - Spark AR - Gallery Image Picker
 KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio tutorial
 
 # FilterGrade
-FPwAL9rMfMQ // Cool Transitions in After Effects Tutorial (Basics into Advanced)
-aJfF6vMwk_g // Learn After Effects CC in Under 15 Minutes (Beginner's Guide)
 woc5UtOZtfk // Intro Tutorial to Spark AR for Creating Instagram Story Filters
 
 # Filters & Design
@@ -463,6 +464,9 @@ BnChXa5YLO4 // Spark AR clipping issue [solution] - when background and person o
 
 # Jennifer Hill
 E4BX9xK8UrA // Spark AR Tutorial
+
+# Jhon Mark Perez
+oDKdPFP2X7Y // TUTORIAL PANO GUMAWA NG FILTERS INSTAGRAM 😍❤️ |Jhon Mark Perez
 
 # Jia Chen
 UUbqP3Lawo8 // CS final project: 3D object interactions via Spark AR
