@@ -870,6 +870,7 @@ xWIqnVE8VM4 // How to Create a 2D Game in SPARK AR [Gaming Logic, Count Score, S
 ETYOmdFnlew // Spark AR Tutorial: Kira Kira Glitter Sparkle Filter with VHS Effect
 dTA6LzCP7N4 // How to Create Light Setting, Light Leaks and Animation Sequence as Light Effects in SPARK AR
 WkkznIy3jI8 // How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target Disappear by Collision, Add Music]
+rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter without oily, grain and pixel]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1023,6 +1024,7 @@ u5DzVCGUcqw // Pixel Filter Effect (Pixelated Shader Patch, Animation) | Instagr
 4CkZlkzDQds // 2D Text Filter Effect (Time, Date, Location, Temperature) | Instagram & Facebook | Spark AR Tutorial
 pjhGTl4cklo // Two Tone Filter Effect (Duotone Shader Patch, Constrast) | Instagram & Facebook | Spark AR Tutorial
 p1HF28ZkzBQ // Three Tone Filter Effect (Tritone Shader Patch) | Instagram & Facebook | Spark AR Tutorial
+VNotxYufBQE // Big Head Filter Effect (Face Tracker, Animation, Scale) | Instagram & Facebook | Spark AR Tutorial
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
@@ -1171,6 +1173,7 @@ lNUL5O98LRI // Option sender tutorial
 Aj0Pqq4YJXg // How to use the Gradient Step patch - Spark AR tutorial
 u84HtaeehvU // Live recording creating an Instagram filter in Spark AR
 H1JadxN_GD0 // Visualizing audio in Spark AR - tutorial about the audio analyser patches
+ZdG9ei-B12g // How to use the Exponential Smoothing patch - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
