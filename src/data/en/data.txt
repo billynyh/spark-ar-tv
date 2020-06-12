@@ -36,6 +36,9 @@ EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
 # Alejandra Cerda
 Hj5Q5oikuAw // How to make your own filter for Instagram stories with presets from Lightroom | The easiest way
 
+# Alessandra Marienne
+uUfsz2wqhrM // TUTORIAL 101: HOW TO MAKE AN INSTAGRAM FILTER | BEGINNER
+
 # Alex Dohotaru
 0aWK8mXwBwM // Occluder Planes SparkAR Tutorial
 3YY9wbp3W8c // My Instagram face filters
@@ -847,8 +850,14 @@ B1ZSEVb5OIU // Spark AR with Wyatt :)
 IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" BY PIOTAR BOA #sparkarstudio
 0QrI5Ay7qYA // Dream Land is the new Instagram Filter created by Piotar Boa
 
+# Praveen Rao
+5KiuK6LK9YU // Spark AR | Ekagr | Self Learn Skills
+
 # programmer me
 Qc96WHqR_Tw // LearnFromHome | Intro to Spark AR | Programmer-Me | TinkerHub CUCEK
+
+# Q_Real_Dev
+E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
 
 # QKnow Design
 UN674uFGwrY // How to Convert any Preset into Instagram Filter [Photoshop/Lightroom/LUT]
@@ -961,6 +970,9 @@ xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasse
 # sebpic
 j5PEMEFv3WE // Create your own Instagram filters in 5 minutes
 
+# shimme yaw
+vfLPe2nGtgM // HOW I MAKE MY INSTAGRAM FILTERS ✨ || SIMPLE TUTORIAL
+
 # Shuripusta ILK
 0i-6OSxfWWI // AR Filters for Instagram - Breakdown - TimeLapse
 
@@ -1047,6 +1059,7 @@ ZUTxeQcaZ-I // Spark AR Scripting - Episode 3 - Shaders ( Part 1 ) // Graphics P
 PULxnnYyucg // I made my own Instagram filter using Picsart + Spark AR Studio (part 1) | Sophia Molina
 etY-DxtANNQ // Make your own Instagram filter (Spark Ar tutorial) | Part 2
 XFdgpA3HHmw // How to make your own Instagram filter | Spark AR Tutorial (Headdress)
+94fdKNkz_zc // How to make your own Instagram filter | Spark Ar Tutorial (Kira kira/bling/glitter effect)
 
 # Spark AR Academy Eng
 y3JLWRdNGPQ // Lesson 1 - How to install Spark AR, Spark AR Tutorial

@@ -14,6 +14,7 @@ ys3GXkwT9As // Tutorial - Spark Ar - Native Ui Picker - How to have two Pickers 
 _BmkMCUzMG4 // [Episode 2] Tutorial Star Wars Instagram filter game - Shoot lazer bullets
 7KlA4j1bULs // [Episode 3] Tutorial Star Wars Instagram filter game - Spawn Enemies
 vqjEekSI7jQ // [Episode 4] Tutorial Star Wars Instagram filter game - Game Manager
+PmLSu7QY9No // [Episode 5] Tutorial Star Wars Instagram filter game - Collider
 
 # LenFX
 nMeBop3VAVQ // Créer un filtre 3D Stickers Spark AR ( nouvelle fonctionalité ) FRENCH TUTO
