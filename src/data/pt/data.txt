@@ -409,6 +409,7 @@ tbZ9X5_leeU // Filtro com Efeito de Luzes Coloridas/Light Leak - Spark AR
 ydQ4wLxh4Qk // Filtro com foco de câmera que segue o rosto, tutorial - Spark Ar
 KvHJfsOcakE // Tutorial de textura ajustável pelo usuário | Bug Tela Verde | Sem Script - Spark Ar
 -RnavAmC_Xs // Efeito 3d nos seus filtros | RGB Color Shift - Spark Ar
+wiQYIM_wjMk // Como fazer personagens dançando em 3d no seu filtro - Spark Ar
 
 # VA Designer
 VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook
