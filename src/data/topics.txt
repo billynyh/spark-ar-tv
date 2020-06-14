@@ -67,7 +67,7 @@ lN7isI4isMg // Spark AR - GIF to Sprite Sheet using ImageMagick
 MhBtDil2YEg // สอนทำฟิลเตอร์ IG EP05 : GIF หน้าสองคนขึ้นไป
 Rkbv3W-HtbU // Spark Ar Studio animación hecha en blender objeto 3D 🚀 pruebas ➕ VIDEOS y TUTORIALES 👨‍💻👇
 vxO2J6jMVAg // Как создать гифку - делаем GIF анимацию в Photoshop
-1r7nagauHnU // SPARK AR EASY FILTER TUTORIAL - HOW TO MAKE DUOTONE & TRITONE FILTER/EFFECTS + HUE LOOPING ANIMATION
+1r7nagauHnU // Spark ar studio tutorial - DUOTONE & TRITONE  + HUE looping - Easy beginners
 5FebsRAFD1s // TUTORIAL SPARK AR STUDIO EN ESPAÑOL | TEXTO NEÓN ANIMADO 🆒| head Occluder 3D |Tutorial desde cero 👍
 fAlTa4ciZyw // After Effect - секвенция видео
 XDpAi3VZtF8 // Spark AR/ gif,анимация и тд
@@ -117,7 +117,6 @@ dkidmE2buTw // Spark AR - Random Image Sequence with sound | Instagram Filter
 # Audio Analyzer / Energy Meter
 W9EKzK0RAQM // 2D Reactive Audio Effect (V89) | Spark AR Studio
 detwgxAqnzA // 3D Reactive Audio Effect (V89) | Spark AR Studio
-ZmOuQaauDL8 // ЭКВАЛАЙЗЕР В ДВА КЛИКА ДЛЯ ПЕСЕН SPARK AR - Audio Meter / Audio Analyzer
 seE6qoM-zoU // Cara Membuat Filter Disko Atau Dugem Mengikuti Beat Musik Dengan Audio analyzer - Spark Ar Tutorial
 3BtHGs_tp_k // SparkAR's Audio Analyzer Tutorial v89
 C5k_kgy_n_4 // Spark AR - Audio Energy meter | V89 - New functionality
@@ -195,7 +194,7 @@ y3uD3Da7TyQ // TUTORIAL MEMBUAT FILTER INSTAGRAM DUST // SPARK AR
 ZIiN-G0oRJM // Tutorial Membuat Filter Dust/Debu | SparkAR Studio | Part 3
 PeXVVSvT_Bw // Dust Effect - Cara Membuat Filter Instagram Mengunakan HP Tergampang Spark Ar Tutorial
 qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
-B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER GRAIN/DUST EFFECT DI SPARK AR STUDIO
+B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER DUST EFFECT DI SPARK AR STUDIO
 yof6Bz2TpiQ // Cara Membuat Filter Dust/Debu/Grain di Instagram | Tutorial Spark AR Indonesia
 AHLGhbKYCIA // SPARK AR TUTORIAL | Cara membuat filter instagram effect dust/grain/noise
 bNvUy4PSvJ4 // CARA BUAT FILTER EFEK DEBU ATAU DUSTY EFFECT DI INSTAGRAM STORY / HOW TO MAKE DUSTY EFFECT IG FILTER
@@ -204,7 +203,7 @@ sVjNzj4rqAs // SPARK AR TUTORIAL || Cara membuat Filter Instagram Dust / Ketombe
 OZOlnR21tZs // Cara membuat filter instagram yang Aesthetic + Efek dust | Part 1
 1Qjb1iBVn8Q // Cara Membuat Effect DUST/GRAIN Instagram || SPARK AR INDONESIA
 JzY7G6zNbRE // HOW TO ADD GRAIN AND DUST TO YOUR INSTAGRAM FILTER (STATIC OR ANIMATED) WITH SPARK AR | TUTORIAL
-0Z60yJBVcUQ // SPARK AR || TUTORIAL MEMBUAT ANIMATION DUST
+0Z60yJBVcUQ // SPARK AR || TUTORIAL SIMPLE MEMBUAT ANIMATION DUST FILTER INSTAGRAM
 biwLitaTZ9U // Cara membuat filter instagram pakai VSCO Dust / Debu .
 uuPPxoRGLy8 // Cara membuat filter instagram sendiri (Lut + Dust / Grain / Debu + Screen tap) #Part6
 qhPbvsc8tcA // COMO ADICIONAR DUST E GRÃO NO SEU FILTRO DO INSTAGRAM! (Spark AR tutorial) - @LUCASFOP
@@ -249,7 +248,7 @@ Zuqyto3dKUw // Spark AR Tutorial : Instagram Filters - Cara Membuat Filter Spark
 Ac4lXRlCbnY // Cómo hacer el filtro Kira Kira con Lut y Retouching tutorial Spark AR paso a paso
 i7tfUJKxqu8 // How to make "KIRA KIRA EFFECT" Facebook | Instagram Filter in SparkAr
 PJxRw1fAvXI // KIRA (SPARKLE) EFFECT FILTER INSTAGRAM PALING GAMPANG - FREE TEMPLATE SPARK AR | Part 2
-5ftw4_6QsBk // Bagaimana Cara Bikin Filter Aesthetic Glitter Sparkle Kira | SPARK AR TUTORIAL INDONESIA
+5ftw4_6QsBk // Cara Membuat Filter Aesthetic Glitter Sparkle Kira | SPARK AR TUTORIAL INDONESIA
 ETYOmdFnlew // Spark AR Tutorial: Kira Kira Glitter Sparkle Filter with VHS Effect
 ekH0gtLDZBc // Tutorial Efek Sparkle / Kira-kira PART 2 | Efek hilang saat Screen Tap | Tutorial Spark AR Indonesia
 mybm0FRb-JQ // Tutorial filter "KIRA" paling gampang II 😱👽 🤖  --Tutorial Spark Ar Indonesia
@@ -608,12 +607,10 @@ xJXzh_ePbdI // Spark AR Native UI. Tutorial de como adicionar Native UI ao seu f
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 sHRrOD5VCwE // Уроки SPARK AR Studio NATIVE UI PICKER. Как сделать меню для фильтра Маски в Инстаграм
 lXCJjuQXrQM // Spark AR Native UI múltiplos. Native UI em várias pessoas ou materiais!
-SJMNOFX_K1U // 🔥NativeUI Picker  - создаём колесо переключения эффектов в маске Инстаграм. Spark AR Scripting
 znMXpXjA1s8 // Урок 18 - Переключение кнопками Spark AR. Кнопки переключения Spark AR. NATIVE UI PICKER
 6b5nnBaNdeA // Spark AR Native UI com Luts, Visible e Partículas
 jIxY4YszsVE // Native UI Picker Patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin (old method)
 Ewnon4cbi3k // Native Slider with default Template || Spark AR v76 || rbkavin
-aAiKckXdHeM // Native Slider - меняем свойства элементов в маске 🤡 Spark AR
 tANLZuyjnsU // Voice modulation with slider || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 tw1nBgK2IeI // Spark AR Como usar Native UI Slider
 JYOezMX0H1U // Spark AR Studio - Cambio de texturas con NativeUI Picker
@@ -832,8 +829,6 @@ hNgYIAtezbo // Which Disney character are you | what Pokemon are you | Random Fi
 _BHo-QcQbgU // How to Make a "Who / What are you?" Filter? | Spark AR
 7q2muFReqqE // КАК СДЕЛАТЬ МАСКУ С ПРЕДСКАЗАНИЯМИ ДЛЯ ИНСТРАГРАМ | DARIA TSVET
 7mX6J_jVv2c // สอนทำฟิลเตอร์ IG EP8: สุ่มรูป
-HqyM6oKDCwE // НОВОГОДНЯЯ РАНДОМ МАСКА С ЖЕЛАНИЯМИ 🎄ЧАСТЬ 1/ Spark AR Scripting
-agx-MEvpzUc // НОВОГОДНЯЯ РАНДОМ МАСКА С ЖЕЛАНИЯМИ 🎄ЧАСТЬ 2/ Spark AR Scripting
 Q1-UHP9KHWw // Random Image Sequence ~ Head quiz filter on Spark AR like "Which Disney" ~ Фильтр "Тест" в Инстаграм
 Ffr_gVE9w44 // Как создать маску с предсказанием instagram сторис/ Случайный подбор картинок/ Настройка превью #2
 rE--pW50YN8 // Going Further with Random Image Effect | Spark AR
@@ -889,7 +884,7 @@ JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala
 6s1hK1yqsFk // Spark AR Tutorial - Body Segmentation Animation using SDF! Creative User segmentation -
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
 mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
-4Ri0VIQ2B1c // Spark Ar Studio Tutorial - How to make Comics / Cartoon effect with Sobel Filter + SDF Animations
+4Ri0VIQ2B1c // Spark ar Studio Tutorial - Comics / Cartoon effect with Sobel Filter + SDF Animations
 VYAJ8WKQAbo // Spark Ar Tutorial - Frame animation using SDF - Easy animations inside patch editor
 
 # Scanner / Rader Effect
@@ -918,7 +913,6 @@ f5uA87D4xL8 // Spark AR Mudando o background. Tutorial de como remover o fundo d
 T1dFtHmRIlI // How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
 RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructions
 oheltjsZNvM // Spark AR Crie suas ASAS. Tutorial de como adicionar asas usando segmentação!
-Vo8cS-Xkwuo // Spark AR  - отделяем задний фон камеры. Сегментация (урок).
 SCx3nGxe1i0 // Sparkar Studio - How to show facemesh above background
 6UtMnE36rFM // Creating segmentation in Spark AR studio
 bItiWOkgHhc // Insert yourself on a new background with Spark AR - background segmentation tutorial

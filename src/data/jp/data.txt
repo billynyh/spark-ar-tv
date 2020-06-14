@@ -2,10 +2,10 @@
 kW9mwfouUtc // 【Spark AR】インスタで使えるARフィルターを作ろう！
 
 # Ezumi_DIY
-_PutM2xEvVA // ARエフェクトを作ろう！【Spark AR_01_概要とインストール】
+_PutM2xEvVA // 1.ARエフェクトを作ろう！【Spark AR Studio_概要とインストール】
 g3sann0qJIg // 2.家族とペットのARエフェクトを作ろう！【前半】＜無料ソフトで素材作り＞
 f4yUT9ftZk0 // 3.家族やペットのARエフェクトを作ろう【後半】初めてのSpark AR Studio
-kALCzTrw-wE // 映画CGを再現したい！40倍速🎬「アバター」ARエフェクト制作過程⏳4min⏳Avatar＋Spirits AR Effect -Instagram,facebook
+kALCzTrw-wE // TIME-LAPSE "Avatar"AR Effect---映画「アバター」をARエフェクトで再現した
 
 # Junji Suzuki
 Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを付ける方法@Spark AR Studio
@@ -15,7 +15,7 @@ wTlfj4W8uAc // ZoomでSnapCameraのようにSpark ARを使う方法
 b636Ki4Pksw // [Spark AR] 【初心者による初心者の為のSpark AR講座(1)】ソフトをダウンロードして簡単に触ってみよう！
 
 # Takeshi Nagata
-KKZfl52txqw // [LIVE] Spark AR Studio 05 Upload Your Face Filter
+KKZfl52txqw // Spark AR Studio 06 Upload Your Face Filter
 f5KWtn-ea5Y // Spark AR Studio 04 Face Distortion, Retouching and more.
 pc5UpzPUtLM // Spark AR studio 03 Animation Basic 2
 Vy6u4Dmpl7g // Spark AR studio 02 Animation Basic 1
@@ -36,8 +36,11 @@ GaIzdi94Yqg // SparkARでパーティクルで桜吹雪作成自分で作れる�
 Gy3XgAdE8Fg // SparkARでマーカーから３Dモデルを出現させよう！！ARコンテンツ作成チュートリアル
 8LipkX8Hexg // SparkARで＜複数人の顔を認識＞facetracker！！ARコンテンツ作成チュートリアル
 kj5HmhtA5OU // SparkARで＜美肌filiterを作成しよう！！＞ARコンテンツ作成チュートリアル
-_IPDD6LKfoU // SparkARインスタフィルター作成講座＜美肌filiterを作成しよう！！＞ARコンテンツ作成チュートリアル
+_IPDD6LKfoU // SparkARインスタフィルター作成講座＜パッチエディター＞ARコンテンツ作成チュートリアル
 weKTyxJkZAk // SparkARインスタフィルター作成講座＜化粧AR・LIP編＞ARコンテンツ作成チュートリアル
+Bp_XnIDSaug // send to divice（instagram/facebookに）フィルターを送れない場合の解決法【SparkAR解チュートリアル】
+R3zrc93phUc // 頭の周りを回転する機能の付与★インスタエフェクト作成講座＜SparkAR＞
+t4V59GkR1bo // 任意のオブジェクトが顔をゆっくり追尾する効果の付与★インスフィルター作成講座＜SparkARチュートリアル＞
 
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】

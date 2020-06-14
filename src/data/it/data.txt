@@ -76,8 +76,8 @@ tcX-sE6W2j4 // Spark AR - Tutorial - ITA: Effetto voce distorta/Add Voice Distor
 fUj5UEgMIEs // Spark AR - Tutorial ITA - Lut Color Filter
 mRxDOl2s5t0 // Spark AR  Tutorial ITA Outline Effect
 jbHNPLuDMog // Spark AR - Tutorial ITA - Doppio FaceTrack/Double FaceTrack
-IhFk-Pzw-90 // Spark AR - Tutorial - ITA - Filtro con Testo/Add Text
-oVVOVipipUg // Photoshop Turorial ITA - Come realizzare un Lut per Spark AR
+IhFk-Pzw-90 // Spark AR - Tutorial - ITA - Filtro con Testo statico.
+oVVOVipipUg // Realizza un Lut per Spark AR - Tutorial ITA
 mRyce1nAajQ // Spark AR Tutorial ITA - Filtro Data/Giorno - 2dText
 
 # Linebeck
@@ -113,7 +113,7 @@ zC4mo8ahrmM // TUTORIAL COME CREARE FILTRI INSTAGRAM e FACEBOOK //spark ar
 # Natived Filters Laboratory
 gtGxxAIUqyE // SPARK AR ITA - COME CREARE MASCHERE E FILTRI INSTAGRAM NEON IN SEQUENZA
 sAHkUlUAT-E // Spark Ar tutorial Italiano - Estrarre la texture facciale e utilizzarla a nostro piacimento
-1r7nagauHnU // SPARK AR EASY FILTER TUTORIAL - HOW TO MAKE DUOTONE & TRITONE FILTER/EFFECTS + HUE LOOPING ANIMATION
+1r7nagauHnU // Spark ar studio tutorial - DUOTONE & TRITONE  + HUE looping - Easy beginners
 a0lrNep4yQo // Spark Ar Tutorial  - Replace shadows - Mid lights and highlights with your custom sequence -Images
 h6208mfKuoA // Spark Ar Studio - Tutorial - Easy Camera texture DISTORTION + RGB shift using SPARK AR Library
 MwxctcV2kc4 // Spark Ar Tutorial - Easy iris tracking - How to Change eyes color + Extra + Free download
@@ -137,7 +137,7 @@ JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
 C_DgUv4d3hY // Spark Ar Tutorial beginners  - How to Fill EYES and MOUTH Directly inside Spark AR - No photoshop
 mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
-4Ri0VIQ2B1c // Spark Ar Studio Tutorial - How to make Comics / Cartoon effect with Sobel Filter + SDF Animations
+4Ri0VIQ2B1c // Spark ar Studio Tutorial - Comics / Cartoon effect with Sobel Filter + SDF Animations
 J9HjQUJQljs // Spark Ar Tutorials - Opening RGB Shift Shader patch - GLITCH effect - CHROMATIC ABERRATION Creative
 VYAJ8WKQAbo // Spark Ar Tutorial - Frame animation using SDF - Easy animations inside patch editor
 3SrGP8s1AHk // Spark Ar tutorials - Huji camera style - Light leaks in patch editor - no textures - no photoshop
@@ -146,13 +146,15 @@ jPrzLb-hx5Y // Spark Ar tutorial - Motion Pop HALFTONE effect -  Using SDF in pa
 lY92ACD5_2Y // Spark Ar tutorial - Add Music part 2 - How to make the audio start when pressing record on device
 7VuRK5Ii22c // Spark Ar Studio Tutorial - Activate the GALLERY TEXTURE option and insert custom images inside IRIS
 AlJTHssJpVA // Spark Ar - Gallery texture part 2 - Creative use of Gallery picker using patch editor
-D0Rwb71covc // Spark ar studio - Audio Analyzer + RGB Shift Glitch - SDF Music reactive patterns - Creative Preview
+D0Rwb71covc // Spark ar - Audio Analyzer + RGB Shift Glitch Free Template + SDF Music reactive patterns - tutorial
+r-0iZz1XHBM // Spark Ar - RGB shift with LUT - BLACK AND WHITE - OUTLINES - RETOUCHING - FREE Template tutorial
 
 # Nicolò Fava - Channel
 TXtV8VaLFpg // Come ho creato 5(+1) FILTRI INSTAGRAM in 5 giorni
 
 # ObbiettivaMente
 FUyrljCJ-4M // Come creare filtri Instagram sul viso. FACILE E VELOCE
+Sb_hXO6uoms // Come fare filtri con immagini al di fuori del viso. #TUTORIAL #SPARKAR
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla
@@ -208,6 +210,7 @@ GGv4QqSfg_A // Primi Passi con Spark AR: Creiamo un filtro Instagram (Parte 2)
 4VewdzP_oso // CREARE FILTRI INSTAGRAM in 3 MINUTI!! TUTORIAL #1
 Xzf3jS6WxmU // CREARE FILTRI INSTAGRAM con DOMANDA e RISPOSTE CASUALI!! TUTORIAL #2
 rVQWGhrFjhc // CREARE FILTRI INSTAGRAM con OGGETTI 3D in 3 MINUTI!! TUTORIAL #3
+FeMqYOr0pUg // CREARE FILTRI INSTAGRAM con MUSICA e AUDIO!! TUTORIAL #4
 
 # TravellÆrt
 pGQMZteCVD0 // CREA il tuo FILTRO IG in meno di 10 MINUTI! - Basi di Spark AR
