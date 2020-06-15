@@ -10,6 +10,7 @@ kALCzTrw-wE // TIME-LAPSE "Avatar"AR Effect---映画「アバター」をARエ�
 # Junji Suzuki
 Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを付ける方法@Spark AR Studio
 wTlfj4W8uAc // ZoomでSnapCameraのようにSpark ARを使う方法
+XtqeNPjl82g // Spark AR Texture Transform Touch Gestures
 
 # Marin Park
 b636Ki4Pksw // [Spark AR] 【初心者による初心者の為のSpark AR講座(1)】ソフトをダウンロードして簡単に触ってみよう！

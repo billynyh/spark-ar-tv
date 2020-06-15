@@ -150,6 +150,8 @@ ztTJFnP4bwk // Native UI Picker Básico Spark AR Tutorial en Español - Paso a p
 IFpNAVgSStk // Cómo crear marcos o frame polaroid para Spark Ar - Paso a paso
 Ct3Ru6OkiTM // Cómo colocar Lut + retouching + grano + frame - Tutorial en español de Spark AR
 tA_S8svXwqg // Native UI picker, Botones de selección con LUT sin Script con Retouch - Spark AR
+Mmjfr0yWjWA // filtro de Figura 3d animada bailando para instagram con Spark AR | tutorial en español
+NHhMz8o4pg8 // Cómo poner música en los filtros de Instagram con Spark AR tutorial en español
 
 # Eani13
 ntbOMqVjA8Y // Cómo hacer filtros de instagram tipo ruleta con spark AR (Qué personaje eres?)
@@ -319,6 +321,7 @@ bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
 BoCBkM9WDLg // CREA tu filtro de BELLEZA para Instagram | Spark Ar
 saNUNVLRHiE // CREA filtro BRILLOS sparkle para instagram | Kira Kira | SPARK AR TUTORIAL
 3mRjKia7zNo // Crea tu filtro GLITTER para intagram | SPARK AR TUTORIAL
+UZ1h5IVdWD4 // Como crear un filtro de FECHA Y HORA para Instagram | Spark Ar
 
 # Lytech Room
 hma-t4VQWwo // ¿Cómo hacer filtros para Instagram y Facebook? | Spark AR | Introducción
@@ -397,6 +400,7 @@ JMqLwEHfsC4 // Puerco araña nuevo filtro Instagram - spark ar studio
 qeweWr6mRo0 // Tutorial como cambiar el fondo con imágenes y videos de la galería Filtro Instagram con Spark Ar
 -3ew83N8xlw // Como hacer que tu objeto 3D con huesos se mueva en spark ar studio tutorial
 9CisUoQs_zE // Donut 🍩 filtro Instagram spark Ar
+KLYQHmPR9os // Aretes hongo Mario 3d print spark Ar studio
 
 # Neo Luisk
 1i7lNmf9RP4 // COMO HACER FILTROS DE INSTAGRAM (TUTORIAL)

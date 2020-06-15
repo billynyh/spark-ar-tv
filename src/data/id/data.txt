@@ -357,6 +357,7 @@ AOA-e8RGNkI // Cara Membuat Filter Lagu + Sparkle di Instagram, GAMPANG! | Free 
 5exkn3EQbL4 // Cara Membuat Filter Segmentation di Instagram, Cuma 4 Menit! | Spark AR Tutorial Indonesia
 rtDeBpF-xvg // Cara Membuat Filter 8mm di Instagram, Cuma 3 Menit! | Spark AR Tutorial Indonesia
 CVocxlciMkU // Cara/Tips agar Hasil Filter Preset Instagram TIDAK BERMINYAK! | Spark AR Tutorial Indonesia
+jwBYX8fTkZo // Cara Membuat Filter AddMedia Library di Instagram, Free File .arexport | Spark AR Tutorial Indonesia
 
 # Emory Tan
 LPMi7ZnloK0 // CARA MEMBUAT EFEK/FILTER INSTAGRAM PT. 1| PAKE LAPTOP KENTANG
@@ -411,6 +412,7 @@ po7tnNmFXyg // Cara Menampilkan Native UI Add Media dan Native UI Picker+Slider 
 ZsI2aWik9uE // INSTAGRAM MEDIA LIBRARY ?! | SPARK AR TUTORIAL INDONESIA
 07xQly0Ny2I // Bikin Filter Instagram Kekeyi Aku Bukan Boneka | SPARK AR TUTORIAL INDONESIA
 jL2mhMPavh4 // Eye Color + Make Up  + LUT Instagram Filter | SPARK AR TUTORIAL INDONESIA
+0IoRKowaIec // BLUR BACKGROUND INSTAGRAM FILTER | SPARK AR TUTORIAL INDONESIA
 
 # Erika Richardo
 G997nhTXP6k // GIMANA SIH CARA BIKIN FILTER INSTAGRAM!?
@@ -928,6 +930,7 @@ aemOVKBFkLM // Cara Melihat Siapa Yang Pakai Filter Kita - Spark AR Tutorial
 VtFGAJdbo_g // Cara Membuat Filter Instagram Lighting Effect Glowing - Spark AR Tutorial
 20SIBWFdNSU // Cara Gampang Membuat Filter Instagram Lut + UI Picker [Free LUTs] - Spark AR Tutorial
 yRKzNvEJAGM // Cara Membuat Filter Instagram Lathi by Weird Genius Versi Jepang - Spark AR Tutorial
+5--8OtTfQQI // Penjelasan Lengkap Impresi Tiba-Tiba Menurun Beserta Contoh Kasus - Spark AR Tutorial
 
 # Panduan Dasar
 NIxU6ncdN2o // Cara Buat Filter Instagram Sendiri Pakai Spark AR Studio
@@ -1056,6 +1059,7 @@ o-rNXksoqF4 // Spark AR Tips File Size Bahasa Indonesia
 _RtI8Mk9JtU // Perubahan Script Spark AR v85+ | Asynchronous API Changes (v85+) | Solusi Script Deprecated Spark AR
 
 # RRyhn
+a0RXvNA9xTc // DIMANA KAU MASKER? AKU MEMBUTUHKANMU
 iUeE-WLnpUk // Cara Membuat Filter Instagram | Bagi Pemula | Spark AR Indonesia ~1
 
 # Rudi Rahman
@@ -1205,10 +1209,15 @@ gshqdmSa2ZE // TUTORIAL #1 - Membuat Filter Instagram Menggunakan HP & PC
 omOpJER72Ug // CARA MEMBUAT FILTER IG SIMPLE || SPARK AR TUTORIAL
 YygBWgaqQzc // CARA UPLOAD FILTER IG DI SPARK AR HUB TERBARU
 
+# Syahrir Teknik Multimedia Jaringan
+Sz92xpCqD3A // Tutorial Augmented Reality Spark Ar studio|Efek Filter Instagram dan Facebook #part1
+wMNPspat02U // Tutorial Export Augmented Reality dengan Spark Ar studio| efek istagram dan facebook#part2
+
 # Syavinamh
 796VmLZiW7g // CARA BIKIN FILTER INSTAGRAM TERGAMPANG! | SPARK AR
 IWJNrkYKsT4 // CARA MEMBUAT FILTER INSTAGRAM (MAKE UP) Spark AR| Part 2
 -m6QMJQ8TRw // CARA MENGHILANGKAN LUT BERMINYAK(SparkAR) | part 3
+yX-q7xzYXnQ // CARA MEMBUAT FILTER POLAROID+SCREEN TAP | SPARK AR
 
 # Talitha Zhafirah
 E4PlvwusaT0 // Membuat Filter Instagram. GAMPANG BANGET! 6MENIT JADI!

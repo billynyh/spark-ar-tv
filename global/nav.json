@@ -436,7 +436,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCJt1CtJlosyPZMuxBstwy4g.html",
       "thumbnail_url": "https://i.ytimg.com/vi/58zQ0f30xRY/hqdefault.jpg",
       "title": "Channel: Emory Tan",
-      "meta1": "Num videos: 52",
+      "meta1": "Num videos: 53",
       "meta2": null
     },
     {
@@ -743,24 +743,31 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-15.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/F7hZGCIiePc/hqdefault.jpg",
+      "title": "Week 2020-06-15",
+      "meta1": "Num videos: 8",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-08.html",
       "thumbnail_url": "https://i.ytimg.com/vi/jElBm93UxLk/hqdefault.jpg",
       "title": "Week 2020-06-08",
-      "meta1": "Num videos: 161",
+      "meta1": "Num videos: 171",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-01.html",
       "thumbnail_url": "https://i.ytimg.com/vi/R7NVMdGdy9Q/hqdefault.jpg",
       "title": "Week 2020-06-01",
-      "meta1": "Num videos: 202",
+      "meta1": "Num videos: 203",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-25.html",
       "thumbnail_url": "https://i.ytimg.com/vi/TufUUsCFB2o/hqdefault.jpg",
       "title": "Week 2020-05-25",
-      "meta1": "Num videos: 167",
+      "meta1": "Num videos: 168",
       "meta2": null
     },
     {
@@ -775,13 +782,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uuT1vyl-gsw/hqdefault.jpg",
       "title": "Week 2020-05-11",
       "meta1": "Num videos: 183",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-04.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZVlbwLQSiEQ/hqdefault.jpg",
-      "title": "Week 2020-05-04",
-      "meta1": "Num videos: 149",
       "meta2": null
     }
   ]
