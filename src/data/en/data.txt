@@ -30,6 +30,9 @@ JQHj9mVrQzU // 3D Score Counter Spark AR | Game Score Counter
 # adryn
 a-w03AzIaB4 // CREATE YOUR OWN FILTER EASY// BEGINNER TUTORIAL REQUIRED SPARK AR AND PICSART
 
+# Aecee Waje
+2hxZ3fBxvF0 // HOW TO CREATE YOUR OWN INSTAGRAM FILTER (cute and simple)
+
 # Ahmed Hassanein
 EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
 
@@ -413,6 +416,9 @@ ta8c_U_BjLM // Augmented Reality 101
 
 # Gabrisp
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
+
+# Geotica
+uHWMv3yboeM // how to create an ar tattoo face filter / spark ar studio tutorial
 
 # Grace Petersen
 hdkVFX2qlQc // SPARK AR Tutorial Simple Filter For Beginners
@@ -834,6 +840,7 @@ YpFfkCftF6U // Spark AR - LUTs + Segmentation
 59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 lIl3vZEcbxY // Spark AR - Hidden Preview Videos!
+EfL4YUaMptk // Spark AR - Eye Colour + LUTs
 
 # Patricia TV
 Oiv5nhr8toQ // HOW I MAKE MY OWN IG FILTER ( PHILIPPINES ) | Patricia Teodoro
