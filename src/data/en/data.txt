@@ -249,6 +249,7 @@ iM4ieUPFsJ8 // Wireframe Mask Effect
 itMQB1HVfw8 // Gallery Picker | Spark AR Studio
 W9EKzK0RAQM // 2D Reactive Audio Effect (V89) | Spark AR Studio
 detwgxAqnzA // 3D Reactive Audio Effect (V89) | Spark AR Studio
+JUVCqxGqsmM // Adjusting values via Slider Patch | Spark AR Studio
 
 # Charm Gegato
 2NpbmRbRJhc // How to make an instagram filter? (PicsArt + SparkAR) || random vlogs
@@ -739,6 +740,9 @@ TjO9LKCL6GI // SOPHISTICATED SPARK SAFARI /w KYM FIALA Version 2020.8
 # matemesz
 DYAJAjcNC5k // Creating filter by Nora Horvath
 
+# Mayeh Lorenz
+qdDlEoP34EA // PAANO GUMAWA NG INSTAGRAM FILTER IN 5 MINUTES - SPARK AR & PICSART | PH |
+
 # MD Tech
 Tptb-uIroEA // Using Gallery Texture feature in eyes | SPARK AR TUTORIAL [english+hindi]
 
@@ -823,6 +827,9 @@ ISxF9jI3_5Q // How to Save Preset and use it as LUT in Adobe Premiere Pro
 
 # Noobie Bro
 KI6QXOiJ5ew // How to Create Instagram Filter | Designing SPARK AR   Quiz Tutorial |
+
+# NovelTech Media
+1kZjkOvNa7c // Make Your Own Instagram Story Filters Using Spark AR
 
 # Oliver Lardner
 Ii5xM6TeVWQ // Selective Colour Video LUT (good for for Spark AR)
@@ -1048,9 +1055,13 @@ u5DzVCGUcqw // Pixel Filter Effect (Pixelated Shader Patch, Animation) | Instagr
 pjhGTl4cklo // Two Tone Filter Effect (Duotone Shader Patch, Constrast) | Instagram & Facebook | Spark AR Tutorial
 p1HF28ZkzBQ // Three Tone Filter Effect (Tritone Shader Patch) | Instagram & Facebook | Spark AR Tutorial
 VNotxYufBQE // Big Head Filter Effect (Face Tracker, Animation, Scale) | Instagram & Facebook | Spark AR Tutorial
+fstYyDxoYkA // Hand Tracking Filter Effect (3D Object, 360° Image) | Instagram & Facebook | Spark AR Tutorial
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
+
+# Smart Income Builders
+oq7L4oRKCm4 // How to create a Spark AR ad for Facebook
 
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness

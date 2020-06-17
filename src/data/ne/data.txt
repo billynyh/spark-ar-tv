@@ -6,3 +6,4 @@ IKszIXrPnk0 // Create Face Filter | Face Extraction in Spark AR (Nepali Language
 CwNQ6hn-zCE // Create Face Filter | Adding audio and instruction in Spark AR (Nepali Language ) [Part -2]
 otvUOQmlBQg // How to make "Guess The Riddles " Instagram Filter(Nepali Language)
 VloKY9LIAsI // Audio reactive filter using Audio analyzer V89 tutorial for beginners (Nepali Language)
+S3h_prLLvcc // Spark AR: How to create LUTs in Photoshop for Instagram filters(Nepali Language)
