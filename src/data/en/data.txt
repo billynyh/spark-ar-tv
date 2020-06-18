@@ -156,6 +156,9 @@ _B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
 xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD
 7TgLHngtLDs // Best of 2019 | Motion Design, Animation & Resources - Motion Design Awards
 
+# Best Banners Ever
+RlGmAB5LxEA // Spark AR : Learning part 1: Too much, too soon
+
 # Black Mixture
 mIt2fdjExy0 // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial
 
@@ -308,6 +311,9 @@ Bpvyajfe6sY // Spark AR #10 Tutorial: Shaders / Filter Effects
 z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
 _aQ9N0pOI5w // Spark AR Speaker Event : Spark AR Overview + Interactive Filter Workshop
 
+# DSZ arts
+bdeCgtdYm2k // Moody Zones - Instagram Filter - Spark AR Timelapse
+
 # editing by matthieu
 43R0J_urrzo // CREATE YOUR INSTAGRAM STORY FILTERS
 
@@ -354,6 +360,9 @@ nOu050rZYyE // 02 Spark AR Interface
 bsKS4Mp02og // 03 Spark AR workflow
 -xdeNrClC3Y // Spark AR Mask
 1WQOckuupYs // Spark AR Export Mask
+
+# Farah Bros
+q7juW5Woxv8 // Who are you / Questions AR Filter tutorial for Instagram and Facebook [2020]
 
 # Feelters Spark AR
 HpatUjqDYIc // Tutorial - Spark AR - Gallery Image Picker
@@ -849,6 +858,9 @@ L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 lIl3vZEcbxY // Spark AR - Hidden Preview Videos!
 EfL4YUaMptk // Spark AR - Eye Colour + LUTs
 
+# ozkar
+-H7uuxZuyz8 // I Paid 3 Different Fiverr Artists For An Instagram Filter
+
 # Patricia TV
 Oiv5nhr8toQ // HOW I MAKE MY OWN IG FILTER ( PHILIPPINES ) | Patricia Teodoro
 dRgntzWEl_o // HOW TO UPLOAD YOUR FILTER TO INSTAGRAM
@@ -898,6 +910,7 @@ ETYOmdFnlew // Spark AR Tutorial: Kira Kira Glitter Sparkle Filter with VHS Effe
 dTA6LzCP7N4 // How to Create Light Setting, Light Leaks and Animation Sequence as Light Effects in SPARK AR
 WkkznIy3jI8 // How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target Disappear by Collision, Add Music]
 rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter without oily, grain and pixel]
+s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark AR
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1207,6 +1220,7 @@ Aj0Pqq4YJXg // How to use the Gradient Step patch - Spark AR tutorial
 u84HtaeehvU // Live recording creating an Instagram filter in Spark AR
 H1JadxN_GD0 // Visualizing audio in Spark AR - tutorial about the audio analyser patches
 ZdG9ei-B12g // How to use the Exponential Smoothing patch - Spark AR tutorial
+_tigJW8cxUM // Creating a manu using the Picker UI patch - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR

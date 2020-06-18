@@ -70,6 +70,7 @@ HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 dTA6LzCP7N4 // How to Create Light Setting, Light Leaks and Animation Sequence as Light Effects in SPARK AR
 WkkznIy3jI8 // How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target Disappear by Collision, Add Music]
 rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter without oily, grain and pixel]
+s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark AR
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio
