@@ -148,6 +148,7 @@ lY92ACD5_2Y // Spark Ar tutorial - Add Music part 2 - How to make the audio star
 AlJTHssJpVA // Spark Ar - Gallery texture part 2 - Creative use of Gallery picker using patch editor
 D0Rwb71covc // Spark ar - Audio Analyzer + RGB Shift Glitch Free Template + SDF Music reactive patterns - tutorial
 r-0iZz1XHBM // Spark Ar - RGB shift with LUT - BLACK AND WHITE - OUTLINES - RETOUCHING - FREE Template tutorial
+wq2cyTdudDM // MAKE UP INSTAGRAM FILTER + PLASTIC / GLOSSY FACE | EASY SPARK AR STUDIO TUTORIAL
 
 # Nicolò Fava - Channel
 TXtV8VaLFpg // Come ho creato 5(+1) FILTRI INSTAGRAM in 5 giorni
@@ -155,6 +156,7 @@ TXtV8VaLFpg // Come ho creato 5(+1) FILTRI INSTAGRAM in 5 giorni
 # ObbiettivaMente
 FUyrljCJ-4M // Come creare filtri Instagram sul viso. FACILE E VELOCE
 Sb_hXO6uoms // Come fare filtri con immagini al di fuori del viso. #TUTORIAL #SPARKAR
+SIsC-Q4g74g // COME CAMBIARE IL NASO E ALTRE PARTI DELLA FACCIA SU SPARK AR
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla

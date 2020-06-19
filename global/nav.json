@@ -142,6 +142,11 @@
         "title": "Vietnamese",
         "url": "https://billynyh.github.io/spark-ar-tv/vi/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Filipino",
+        "url": "https://billynyh.github.io/spark-ar-tv/fil/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -422,7 +427,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
       "thumbnail_url": "https://i.ytimg.com/vi/M4QSecKIzjE/hqdefault.jpg",
       "title": "Channel: Emiliusvgs",
-      "meta1": "Num videos: 62",
+      "meta1": "Num videos: 63",
       "meta2": null
     },
     {
@@ -436,7 +441,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCJt1CtJlosyPZMuxBstwy4g.html",
       "thumbnail_url": "https://i.ytimg.com/vi/58zQ0f30xRY/hqdefault.jpg",
       "title": "Channel: Emory Tan",
-      "meta1": "Num videos: 53",
+      "meta1": "Num videos: 54",
       "meta2": null
     },
     {
@@ -746,7 +751,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-15.html",
       "thumbnail_url": "https://i.ytimg.com/vi/kl6MtBe60jI/hqdefault.jpg",
       "title": "Week 2020-06-15",
-      "meta1": "Num videos: 67",
+      "meta1": "Num videos: 88",
       "meta2": null
     },
     {
@@ -781,7 +786,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-11.html",
       "thumbnail_url": "https://i.ytimg.com/vi/uuT1vyl-gsw/hqdefault.jpg",
       "title": "Week 2020-05-11",
-      "meta1": "Num videos: 183",
+      "meta1": "Num videos: 184",
       "meta2": null
     }
   ]

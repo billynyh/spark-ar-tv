@@ -129,6 +129,7 @@ ouMHgISrPIY // Head Occluder in Spark AR Studio. 3D Objects Rotate Around Head I
 -2TLoN7QvAM // Spark AR Studio for Beginners: Create Your Own Filters for Instagram and Facebook
 ZqzDe6E5rQM // Kira Kira Glitter Instagram Filter Tutorial in Spark AR Studio
 wUIs5x20P8A // Neon Text Rotating Around Head Instagram Filter in Spark AR Studio
+Q2CW-vrh6bc // Neon Face with Glow Lightning Effect Instagram Filter in Spark AR Studio
 
 # Ashlee Rose
 GcXQ-2nVqCo // How To Create A Makeup Instagram Filter & Publish To Spark AR
@@ -158,6 +159,7 @@ xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutor
 
 # Best Banners Ever
 RlGmAB5LxEA // Spark AR : Learning part 1: Too much, too soon
+aD1wgKgPc5k // Spark AR Learning Part 2:  Orbiting 3D Primitive
 
 # Black Mixture
 mIt2fdjExy0 // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial
@@ -372,6 +374,7 @@ KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio 
 
 # FilterGrade
 woc5UtOZtfk // Intro Tutorial to Spark AR for Creating Instagram Story Filters
+sYwRyeHxTR4 // Trying Lenses in the Free Adobe Photoshop Camera App
 
 # Filters & Design
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
@@ -546,6 +549,9 @@ KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patc
 wvrT0LuU_Mc // Spark AR | Creating filters for Facebook and Instagram | LIVESTREAM
 dZlBUt9XDp4 // Spark AR | LIVESTREAM
 WI-wYxCVgo4 // SPARK AR TUTORIAL // MAKE YOUR OWN ZOMBIE INSTAGRAM FILTER
+
+# Jul Nie
+Nmvfv7NLOEE // Create your own Instagram Filter || ft. Team Payaman IG Filter
 
 # Kapwing App
 FH_sg17pxMY // How To Make A "Which Are You" Instagram Filter - Spark AR Tutorial

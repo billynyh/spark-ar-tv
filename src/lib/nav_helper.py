@@ -28,6 +28,7 @@ LANG_DISPLAY_NAME = {
   'ne': 'Nepali',
   'ml': 'Malayalam',
   'vi': 'Vietnamese',
+  'fil': 'Filipino',
   'global': 'All Languages',
 }
 
