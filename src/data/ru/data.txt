@@ -1082,6 +1082,7 @@ NZd7ZAskIk0 // Spark AR - Fake Face Deformation v4.0
 t2l6y-CutHg // Spark AR - Glitch Pack (4 patches)
 xD41JKU8gH8 // Spark AR - 3D Face Deformation / 3D деформация лица
 zpIldHsYrow // Spark AR - Fluid LUTs / Smooth LUT Switch
+M9vMhuTjn5s // Spark AR - Minesweeper Game
 
 # Для тех, у кого лапки
 OgRocjLfXgU // Spark AR - Как сделать надпись на лице. Маска для Инстаграм
