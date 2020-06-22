@@ -198,12 +198,12 @@
       {
         "title": "Dust",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/dust.html",
-        "video_count": 24
+        "video_count": 32
       },
       {
         "title": "Edge detection / KiraKira",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/edge-detection-kirakira.html",
-        "video_count": 39
+        "video_count": 52
       },
       {
         "title": "Eyelashes",
@@ -273,7 +273,7 @@
       {
         "title": "LUT",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/lut.html",
-        "video_count": 104
+        "video_count": 135
       },
       {
         "title": "Laser eyes",
@@ -333,7 +333,7 @@
       {
         "title": "Picsart",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/picsart.html",
-        "video_count": 13
+        "video_count": 20
       },
       {
         "title": "Plane tracker / Target tracker",
@@ -363,7 +363,7 @@
       {
         "title": "Segmentation",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/segmentation.html",
-        "video_count": 41
+        "video_count": 48
       },
       {
         "title": "Shader",

@@ -103,13 +103,13 @@ def main_topics():
 def main():
     master = master_site(config)
     site = master.global_site
-    ids = 'ybf4fzlMg1Q E9yTzy3aXA4 sumcC91Iwv4 VNotxYufBQE'
+    ids = 'OPg7U1uuYNg eA2wriO1l8k g7rW5tPet-s _tigJW8cxUM'
     ids = ids.split()
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2020-06-08')
+    generate_custom_week_thumbnails(site, ids, 'week-2020-06-15')
     #generate_channel_thumbnails(site)
 
 def main_ping():
