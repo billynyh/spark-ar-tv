@@ -162,6 +162,7 @@ xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutor
 RlGmAB5LxEA // Spark AR : Learning part 1: Too much, too soon
 aD1wgKgPc5k // Spark AR Learning Part 2:  Orbiting 3D Primitive
 g7rW5tPet-s // Spark AR Learning Part 3: 3D primitive adding texture (Donut)
+qR_0kj_Q34E // Spark AR Learning Part 4: Particle Emitter & Actions
 
 # Black Mixture
 mIt2fdjExy0 // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial
@@ -949,6 +950,7 @@ eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instarga
 4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 LP-uEQ3Tlxg // Spark AR hackathon 2020: Monster Escape (AR game filter) | Maru.studio x Rbkavin
 QXT5BRtmxm4 // Native UI PICKER ON PATCH EDITOR || Spark AR || Instargam Filter || Rbkavin
+uIN-LTCYBJg // Ocean Cleaning Force || Spark AR || Instargam Filter || Rbkavin || Kym Fiala
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
