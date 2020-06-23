@@ -71,6 +71,7 @@ kzcFrErVGcY // HOW TO MAKE AN INSTAGRAM STORY FILTER - SUPER EASY SPARK AR TUTOR
 
 # AndrewBakerVFX
 6kHrKpvpUXA // Exploring Spark AR Studio Face Filters - Intro for Beginners Tutorial: Lights Out #pge
+RnRiiKqNWR0 // Demo Video - Devpost Facebook AR Hackathon - Safety Net Game
 
 # Anika Kasoiz
 eV1EVM9u39A // CREATE YOUR OWN IG STORY FILTER || SPARK AR
@@ -377,6 +378,7 @@ KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio 
 
 # FilterGrade
 woc5UtOZtfk // Intro Tutorial to Spark AR for Creating Instagram Story Filters
+eG6ncf3txSU // All About Stabilization in Premiere Pro CC
 
 # Filters & Design
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
@@ -741,6 +743,7 @@ jWD2Mi-j8gM // Spark AR tutorial: How to add Video real-time simulator
 DAs145P-usQ // Spark AR Studio V85+ | Getting Started
 VftnI9WNQbM // [Part 1] Spark AR tutorial | Happy Birthday - Interactive filter (Instagram)
 -91drFu98w8 // [Part 2] Spark AR tutorial | Happy Birthday - Interactive filter (Instagram)
+urWYuxqZHVc // Spark AR Tutorial: Create a basic filter, export and publish it
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -1149,6 +1152,9 @@ E_7vchBipEk // Instagram Filters made using SparkAR | Beginner friendly | SUNSHI
 
 # SuperHi
 E8Sf3tNvNE4 // How to make an AR fashion filter for Instagram
+
+# Tech Raikar
+FBJ_5cIZhAM // How To Make "Guess the Gibberish" And More Instagram Filters | Create Your Own Filter Today
 
 # TechMe Show
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!

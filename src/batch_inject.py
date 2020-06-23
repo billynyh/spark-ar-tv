@@ -6,24 +6,19 @@ from lib import util
 from lib.data_loader import *
 
 RAW = """
-# zh
-https://www.youtube.com/watch?v=B5zursnGW0k
+# id
+https://www.youtube.com/watch?v=k_eQlsm2-OY
+https://www.youtube.com/watch?v=YZQvRTA76wg
 
-# iw
-/watch?v=9G1c0GWcqnw //איך להכין פילטר לאינסטגרם - איפור פנים (make up)
-/watch?v=cCfV1z5dW4Q //איך להכין פילטר לאינסטגרם - קעקוע פנים
-/watch?v=sFuiO1rV-Ow //איך להכין פילטר לאינסטגרם ? סרטון היכרות עם SPARK AR
+# es
+https://www.youtube.com/watch?v=37tZhMwErzc
 
 # en
-https://www.youtube.com/watch?v=ryTTzR3__zE
-https://www.youtube.com/watch?v=T-D6zOX_pTY
+https://www.youtube.com/watch?v=FBJ_5cIZhAM
 
-# pt
-https://www.youtube.com/watch?v=ATQsCz0t_DY
-https://www.youtube.com/watch?v=6fiG-IzoePo
+# ru
+https://www.youtube.com/watch?v=o_wlKbOvSuY
 
-# id
-https://www.youtube.com/watch?v=o8-wPukcHiI
 """
 
 def parse(raw):
