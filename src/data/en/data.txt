@@ -481,6 +481,9 @@ F7hZGCIiePc // make ig filter with me!! ; bratz theme (+ some tutorial for begin
 # Jayasurya Aasaithambi
 yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
 
+# Jeetesh Singh
+gQe2lKTbmsI // Jungle Friends- SparkAR Demonstration
+
 # Jeff  Rayner
 yGYk1jHSNqw // Spark AR 3D text problem - won't show up
 aZjwBhrv8mo // Spark AR : how to add 3D text - and how to overcome the default grayed out issue
@@ -815,6 +818,9 @@ a1PODXhevGA // #Disposable camera effect  │ How to achieve #analog #film look
 
 # Natalia Kovalchuk
 yBZAW99Bupw // Spark AR tutorial. Basic filter tutorial
+
+# Nathaniel Waite
+ndMFX7N545I // How to create your own instagram filter with spark Ar Studio
 
 # Newcolor Studio
 6stXwBt87Dg // Drag 2D Object on Canvas: Spark AR Studio Pan Gesture to Move Object Tutorial

@@ -7,17 +7,18 @@ from lib.data_loader import *
 
 RAW = """
 # id
-https://www.youtube.com/watch?v=k_eQlsm2-OY
-https://www.youtube.com/watch?v=YZQvRTA76wg
-
-# es
-https://www.youtube.com/watch?v=37tZhMwErzc
-
-# en
-https://www.youtube.com/watch?v=FBJ_5cIZhAM
+https://www.youtube.com/watch?v=U_ygJb2atfI
+https://www.youtube.com/watch?v=qYwcJmWcqnQ
 
 # ru
-https://www.youtube.com/watch?v=o_wlKbOvSuY
+https://www.youtube.com/watch?v=KgG7sYcQtuM
+
+# en
+https://www.youtube.com/watch?v=gQe2lKTbmsI
+https://www.youtube.com/watch?v=ndMFX7N545I
+
+# it
+https://www.youtube.com/watch?v=DQZuMnYZ0RQ
 
 """
 
