@@ -6,19 +6,22 @@ from lib import util
 from lib.data_loader import *
 
 RAW = """
+# id 
+https://www.youtube.com/watch?v=ks6JUQvXUKA
+https://www.youtube.com/watch?v=hJUP4yB0wuU
+https://www.youtube.com/watch?v=kCoRmZvx8GM
+https://www.youtube.com/watch?v=3osL6qmi584
+https://www.youtube.com/watch?v=z_301OMk2VA
+
 # ru
-https://www.youtube.com/watch?v=1t-MvZUj8PA
+https://www.youtube.com/watch?v=dROI7OARdzU
 
-# iw
-https://www.youtube.com/watch?v=WX3_MiZLaGY
+# pt
+https://www.youtube.com/watch?v=yJ7w569iSm4
 
-# en
-/watch?v=oGMyXjkAUIQ //Easy Tutorial : "Color Filter" for Instagram and Facebook with LUT on SPARK AR STUDIO | 4 minutes
-/watch?v=wWhrPFgYxiE //Easy App for Making Instagram Filter with Spark Ar | Free Download Tutorial
-https://www.youtube.com/watch?v=OYNcTojG-mQ
-https://www.youtube.com/watch?v=UeET9A5Dq3w
-https://www.youtube.com/watch?v=qPOejL_1CgY
-
+# es
+https://www.youtube.com/watch?v=XMjJ9J5wQzE
+https://www.youtube.com/watch?v=sijC0UXhE18
 """
 
 def parse(raw):
