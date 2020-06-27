@@ -9,3 +9,4 @@ _cache
 _out
 __pycache__
 *.swp
+input.txt
