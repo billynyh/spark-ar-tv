@@ -1026,6 +1026,7 @@ DHHPMBa8B6E // Spark Ar Blink Game
 # Roses are Alexia
 IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
 9otkaWCh-68 // Polaroid Pack | Spark AR | @roses_are_alexia
+fTgfSE48QwU // Glitter Animation Patch | Spark AR | @roses_are_alexia
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
@@ -1135,6 +1136,7 @@ I1PlESFdyac // Spark AR Scripting - Ep 1 - Basics // Getting started with JavaSc
 egX1UTRKzx0 // Spark AR Scripting - Ep 2 - Reactive Programming // How to convert patches to script!
 ZUTxeQcaZ-I // Spark AR Scripting - Ep 3 - Shader Programming Basics // How Shaders and the Graphics Pipeline work!
 XFDcQHhjoWc // Spark AR Scripting - Ep 4 - Box Blur // How to use loops in shaders to simplify complex effects!
+AQv9GR16xMw // Spark AR Scripting - EP 5 - Promises // How to use the new asynchronous APIs in JavaScript (v85+)
 
 # Sophia Molina
 PULxnnYyucg // I made my own Instagram filter using Picsart + Spark AR Studio (part 1) | Sophia Molina
@@ -1216,6 +1218,7 @@ ltLyDMl3FKo // Turn your Lightroom Presets into Instagram Filters!
 # TM FX
 fdWGUqezOUU // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial #cover #ad
 d6BcJUl3_X0 // Spark AR tutorial:  Face mesh, Retouching and Lighting Effect\ insta filter|india #Easy Tutorial
+4stGMrgW74A // Tars ar #world object #spark ar#kmtmfx #face filter #augmentedreality
 
 # Tone Fuentes Anaya
 TsUnA7QWW8o // How to MAKE Instagram FILTERS using Lightroom PRESETS | Spark AR Studio

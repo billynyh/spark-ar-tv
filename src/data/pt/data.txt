@@ -364,6 +364,7 @@ QAp7DPM_eSQ // Spark AR Como corrigir Riscos no Facemesh quando usar Lut ou Segm
 cpdpagxFGw8 // Spark AR Alterando o Fundo + Lut + Retouch
 YuoMsDeMD7M // Spark AR Device Motion, resolva esse problema agora!
 guhH2LOKFbE // Spark AR Texto 3D, botão de galeria e nova V91!
+Ry7tkiMHudo // Spark AR Baixando Objetos 3D Gratuitos e Chapéu 3D na cabeça!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
