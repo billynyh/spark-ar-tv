@@ -85,6 +85,7 @@ BjSTbzmBoRU // CURSO SPARK AR STUDIO | Añadir instrucciones a tu efecto #10
 bp2zGTZNBak // CURSO SPARK AR STUDIO | Añadir botones de opciones #11
 5GK331JZr3g // CURSO SPARK AR STUDIO | Fuentes de creatividad #12
 zyppPM1X-zo // CURSO SPARK AR STUDIO | Crear textura plástica #13
+Rfw4LxODVJo // CURSO SPARK AR STUDIO | Iris Tracking animados #14
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -114,6 +115,7 @@ MrxG36zOGss // Spark AR Studio - Integrando audio en nuestros efectos. Guía ini
 iBRJrS15MaY // Spark AR Studio - Switch para ocultar y mostrar elementos de nuestra escena.
 tg_h3Om14-M // Spark AR Studio - Creando un carrete de imágenes PARTE 2
 50h-hdI76yk // Spark AR Studio - Repositorios de Git, para proyectos de Spark AR Studio
+R5pMxtg9ufg // Spark AR Studio - Ligth Leak - Visual Shaders
 
 # Daim Vazquez
 n-B2B6CTNkk // CREA TUS PROPIOS FILTROS/EFECTOS PARA INSTAGRAM STORIES/Daim Vazquez/Tutorial/
@@ -189,6 +191,7 @@ gEBJhF-z9Ao // Tips sobre SPARK AR
 qRcQmuXO98U // COMO CREAR TEXTO EN SPARK AR
 vCDgE4KLXJU // HACER un Screen TAP en SPARK AR
 Q6ZLn59KpIE // CREA RUIDO en u filtro de instagram (SPARK AR)
+H3pfBr-6Avg // Filtro nubes en movimiento (Particle System) SPARK AR
 
 # Emi Castro
 rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)
@@ -404,6 +407,9 @@ hC0izIDukvw // Como Crear tus Propios Filtros de Instagram
 # Mobillers
 RMC2gR6DsBI // Taller de Spark AR en Chile
 
+# Moviendo el Mundo
+ZiJiYjq0Ysg // Crea efectos o filtros para Instagram usando tu logotipo y la función random
+
 # my name is harlem
 m9bXM67tuEw // COMO CREAR TUS PROPIOS EFECTOS PARA INSTAGRAM STORIES❤️
 HaRgdl3f-_c // CREA TUS FILTROS PARA INSTRAGRAM💞
@@ -488,6 +494,9 @@ NSGeiCcZdCE // Spark AR Tutorial 5: Crear Efecto RGB
 0NWmoofAnwU // Spark AR Tutorial 6: Crear Efecto Pixels
 gz_xW2TXuSQ // Spark AR Tutorial 7: Crear Efecto OUTLINE
 FpdUH0zGaXo // Spark AR Tutorial 8: Como crear Efecto Clones
+
+# TrapdoorMx
+R7GZpaAoXeg // Como Hacer Filtro Básico Para Instagram / Spark Ar Studio
 
 # Tutoriales Belen
 hSR-pUh79OY // CREA TUS PROPIOS FILTROS/EFECTOS PARA INSTAGRAM STORIES ❤️- Tutoriales Belen

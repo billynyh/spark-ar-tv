@@ -448,7 +448,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
       "thumbnail_url": "https://i.ytimg.com/vi/99wNU14mcKI/hqdefault.jpg",
       "title": "Channel: Tutoriais do Kewin",
-      "meta1": "Num videos: 51",
+      "meta1": "Num videos: 52",
       "meta2": null
     },
     {
@@ -748,24 +748,31 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-29.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/E2m5F0eG7jU/hqdefault.jpg",
+      "title": "Week 2020-06-29",
+      "meta1": "Num videos: 3",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-22.html",
       "thumbnail_url": "https://i.ytimg.com/vi/hJUP4yB0wuU/hqdefault.jpg",
       "title": "Week 2020-06-22",
-      "meta1": "Num videos: 87",
+      "meta1": "Num videos: 116",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-15.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wqwab_LXMFs/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/RL3d43nAhHU/hqdefault.jpg",
       "title": "Week 2020-06-15",
-      "meta1": "Num videos: 161",
+      "meta1": "Num videos: 163",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-08.html",
       "thumbnail_url": "https://i.ytimg.com/vi/jElBm93UxLk/hqdefault.jpg",
       "title": "Week 2020-06-08",
-      "meta1": "Num videos: 171",
+      "meta1": "Num videos: 172",
       "meta2": null
     },
     {
@@ -779,14 +786,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-25.html",
       "thumbnail_url": "https://i.ytimg.com/vi/TufUUsCFB2o/hqdefault.jpg",
       "title": "Week 2020-05-25",
-      "meta1": "Num videos: 169",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-05-18.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/DDES_tt_9xk/hqdefault.jpg",
-      "title": "Week 2020-05-18",
-      "meta1": "Num videos: 151",
+      "meta1": "Num videos: 170",
       "meta2": null
     }
   ]

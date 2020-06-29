@@ -321,6 +321,9 @@ Bpvyajfe6sY // Spark AR #10 Tutorial: Shaders / Filter Effects
 z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
 _aQ9N0pOI5w // Spark AR Speaker Event : Spark AR Overview + Interactive Filter Workshop
 
+# DSC KIIT
+3rvX7FsmFI4 // AR Spark | How to make Instagram/Facebook stickers | DSC KIIT
+
 # DSZ arts
 bdeCgtdYm2k // Moody Zones - Instagram Filter - Spark AR Timelapse
 
@@ -444,6 +447,13 @@ mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
 # Geotica
 uHWMv3yboeM // how to create an ar tattoo face filter / spark ar studio tutorial
+
+# GOWAAA official
+5mxg9FUODV8 // Spark Swizzle Hack #3 with Kavin
+whxtJoXlQQo // Spark Swizzle Hack #4 with Varick
+NdjgMhXTrDQ // Spark Swizzle Hack #5 with Gene
+8QfnK57o_Jw // Spark Swizzle Hack #1 with Pofu
+SJok2itT6BU // Spark Swizzle Hack #2 with Mitsuko!
 
 # Grace Petersen
 hdkVFX2qlQc // SPARK AR Tutorial Simple Filter For Beginners
@@ -577,6 +587,7 @@ qPOejL_1CgY // SparkAR World Effect - stARk reminder
 
 # Jul Nie
 Nmvfv7NLOEE // Create your own Instagram Filter || ft. Team Payaman IG Filter
+Q-fD18glQJk // Create Your Own INSTAGRAM FILTER || ft. TEAM PAYAMAN
 
 # Kapwing App
 FH_sg17pxMY // How To Make A "Which Are You" Instagram Filter - Spark AR Tutorial
@@ -1030,6 +1041,9 @@ JcqgTDPY-TI // Use your Gallery in your filters ! in Spark AR Studio
 # Rod Antunes
 DHHPMBa8B6E // Spark Ar Blink Game
 
+# Roman Pillai
+A9k_w25i-yc // Realistic Shader Creation - Spark AR + Cinema4D Tutorial
+
 # Roses are Alexia
 IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
 9otkaWCh-68 // Polaroid Pack | Spark AR | @roses_are_alexia
@@ -1046,6 +1060,9 @@ d4N9uyRBC_o // Spark AR Laucnhpad Tutorial
 # Sankalp Parab
 xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasses
 8yJtgp6GuRE // Best Spark AR Mesh Layering | Simple Two ways of layering Techniques
+
+# Sansriti Mishra
+BoajrJ_bU4Q // How To Convert Lightroom Preset To Instagram Story Filter + Basics of Spark AR | Instagram Filter
 
 # Science Museum of Virginia
 5-7ZrrigsV4 // Maker Mindset: SparkAR Tutorial
@@ -1124,6 +1141,9 @@ fstYyDxoYkA // Hand Tracking Filter Effect (3D Object, 360° Image) | Instagram 
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
+
+# Smart Aleck
+xR1HT1GSAyY // Spark AR Studio for Beginners: Create Your Own Filters
 
 # Smart Income Builders
 oq7L4oRKCm4 // How to create a Spark AR ad for Facebook

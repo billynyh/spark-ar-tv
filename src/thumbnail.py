@@ -103,7 +103,7 @@ def main_topics():
 def main():
     master = master_site(config)
     site = master.global_site
-    ids = 'OPg7U1uuYNg eA2wriO1l8k g7rW5tPet-s _tigJW8cxUM'
+    ids = 'W9MHgH7uVr8 U_ygJb2atfI A9k_w25i-yc hp2Y-HZjDtY'
     ids = ids.split()
 
     video_data = {id:site.video_data[id] for id in ids}
