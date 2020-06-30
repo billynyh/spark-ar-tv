@@ -29,6 +29,7 @@ LANG_DISPLAY_NAME = {
   'ml': 'Malayalam',
   'vi': 'Vietnamese',
   'fil': 'Filipino',
+  'te': 'Telugu',
   'global': 'All Languages',
 }
 

@@ -397,6 +397,10 @@ ZS8xSOB9Slc // Spark AR Vídeos PT - Filtro para o Instagram com borda colorida!
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR setup
 q8C0k3vTCk0 // Spark AR Adding 2D object
+kRWG_ZxAbOY // Spark-AR Tutorial #3. Creating Frankenstein character
+hm4KFzuqaIo // Spark-AR Tutorial #4 - Face Smoothing, 3D Text, Particle System
+fJZrsP81Cxs // Spark-AR Tutorial #5 - Other Resources
+eRJAm0NecwQ // Spark-AR Tutorial #6 Spark-AR Introduction of 3rd party 3D Objects through Sketchfab
 
 # FOCUS MEDIA
 62sgCzrzAPg // HOW TO MAKE YOUR OWN INSTAGRAM FILTER IN 2 MINUTES On Phone and Pc|how to Create an Instagram filter
@@ -777,6 +781,7 @@ DAs145P-usQ // Spark AR Studio V85+ | Getting Started
 VftnI9WNQbM // [Part 1] Spark AR tutorial | Happy Birthday - Interactive filter (Instagram)
 -91drFu98w8 // [Part 2] Spark AR tutorial | Happy Birthday - Interactive filter (Instagram)
 urWYuxqZHVc // Spark AR Tutorial: Create a basic filter, export and publish it
+IaIi02_aBfk // 20 Videos simulator for Makeup filter
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -875,6 +880,7 @@ g2a93PBYEJ0 // Simple Timer: Spark AR Studio v88+ Patch Asset Tutorial
 ZTn2ATGQdtI // Millisecond Timer in Spark AR Studio: Simple Timer vs. Runtime Showdown
 e7dkGIE48oE // Personality Quiz This-Or-That Filter Game with Weighted Questions: Spark AR
 jB4HIN2Btn0 // Get Day of the WEEK in Spark AR v87+ Free DATE Project Template Download
+Y4S_S_oK2YM // Draw in 2D with Finger on Screen in Spark AR Studio
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
