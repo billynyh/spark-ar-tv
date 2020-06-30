@@ -147,6 +147,11 @@
         "title": "Filipino",
         "url": "https://billynyh.github.io/spark-ar-tv/fil/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Telugu",
+        "url": "https://billynyh.github.io/spark-ar-tv/te/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -413,7 +418,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCh2gFKv1dmrTxmMRgzchmrQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/zPAEpZCu1QI/hqdefault.jpg",
       "title": "Channel: Spark AR Tutoriais em Portugu\u00eas",
-      "meta1": "Num videos: 98",
+      "meta1": "Num videos: 99",
       "meta2": null
     },
     {
@@ -720,7 +725,7 @@
     {
       "url": "https://www.youtube.com/watch?v=jut8vAy3sCs",
       "thumbnail_url": "https://i.ytimg.com/vi/jut8vAy3sCs/hqdefault.jpg",
-      "title": "Spark AR tutorial: How to control object by FaceTracker (part1)",
+      "title": "Spark AR tutorial [Updated]: How to control object by FaceTracker (part1)",
       "meta1": "Maru Studio",
       "meta2": "2019-12-21"
     },
@@ -749,9 +754,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-29.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/E2m5F0eG7jU/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/IaIi02_aBfk/hqdefault.jpg",
       "title": "Week 2020-06-29",
-      "meta1": "Num videos: 3",
+      "meta1": "Num videos: 18",
       "meta2": null
     },
     {
@@ -763,23 +768,23 @@
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-15.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/RL3d43nAhHU/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/ENG3kSXdLTY/hqdefault.jpg",
       "title": "Week 2020-06-15",
-      "meta1": "Num videos: 163",
+      "meta1": "Num videos: 160",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-08.html",
       "thumbnail_url": "https://i.ytimg.com/vi/jElBm93UxLk/hqdefault.jpg",
       "title": "Week 2020-06-08",
-      "meta1": "Num videos: 172",
+      "meta1": "Num videos: 171",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-01.html",
       "thumbnail_url": "https://i.ytimg.com/vi/R7NVMdGdy9Q/hqdefault.jpg",
       "title": "Week 2020-06-01",
-      "meta1": "Num videos: 204",
+      "meta1": "Num videos: 203",
       "meta2": null
     },
     {

@@ -262,7 +262,7 @@ ekH0gtLDZBc // Tutorial Efek Sparkle / Kira-kira PART 2 | Efek hilang saat Scree
 mybm0FRb-JQ // Tutorial filter "KIRA" paling gampang II 😱👽 🤖  --Tutorial Spark Ar Indonesia
 QkJNDavaFLY // Cara Membuat Filter Instagram Kira - Kira sparkle // simple banget cuma 3 menitan 100% BERHASIL!!!
 ZqzDe6E5rQM // Kira Kira Glitter Instagram Filter Tutorial in Spark AR Studio
-saNUNVLRHiE // CREA filtro BRILLOS sparkle para instagram | Kira Kira | SPARK AR TUTORIAL
+saNUNVLRHiE // CREA filtro KIRA KIRA sparkle para instagram | Brillos | SPARK AR TUTORIAL
 HcSArOZOoTk // Spark ar, Aprenda a fazer o efeito kira kira em 2 minutos #instagram
 TdbXOuFMPeM // Crea un filtro Kira Kira para instagram - Spark AR tutorial
 BMM0MZxNZ7o // Cara Membuat Filter Glitter/KiraKira di Instagram Free Patch, 2 Menit! | Spark AR Tutorial Indonesia
@@ -388,7 +388,7 @@ itMQB1HVfw8 // Gallery Picker | Spark AR Studio
 Am4N_Dc33Po // Spark AR Tutorial: Gallery Texture/Cвое фото или видео на заднем фоне
 7VuRK5Ii22c // Spark Ar Studio Tutorial - Activate the GALLERY TEXTURE option and insert custom images inside IRIS
 AGuP4L3Y4FA // Spark AR - Custom gallery texture on 3D model
-ua2TZ2B99eE // SPARK AR TUTORIAL | Gallery Texture + Color Lut Preset | Deutsch
+ua2TZ2B99eE // SPARK AR Tutorial | Gallery Texture + Color Lut Preset | Deutsch
 -_QFHqSY4tI // Media Gallery et Gallery Texture - Spark AR Studio Tutoriel en Français
 
 # Game
@@ -403,10 +403,10 @@ KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patc
 u-fNbpujYh4 // Inilah Cara Saya Membuat Filter Games Di Instagram ( Progress Part 2 )
 2oZG9GybZ-s // Inilah Cara Saya Membuat Filter Games Di Instagram ( Progress Part End )
 TfKPSKZKacY // Уроки Spark at Studio. Как сделать игру? Часть 1.
-jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
-0if1-iDNvBI // Spark AR tutorial: How to control object by FaceTracker (Part 2)
+jut8vAy3sCs // Spark AR tutorial [Updated]: How to control object by FaceTracker (part1)
+0if1-iDNvBI // Spark AR tutorial [Updated]: How to control object by FaceTracker (Part 2)
 z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
-O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
+O52Pz7eZwH4 // Spark AR tutorial [Updated]: How to control object by FaceTracker (Part 3)
 FmQ6YKbirmg // Уроки spark ar studio. Как сделать игру в instagram?
 dyC9XrYxLtw // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game PART 1
 6IFk0ST-AkA // Игра
@@ -448,7 +448,7 @@ RhtnsgegE1A // Sparkar Studio (V69) - Tap to Change Background and Add instructi
 FgEAV3oS_D0 // Spark AR Várias instruções. Tutorial de como adicionar Instructions ao filtro
 hwCBJKqI3rA // Adding instructions Spark AR | Добавление инструкции
 iFt9luNL-T4 // Spark AR ADD INSTRUCTIONS / TAP TO CHANGE OPEN YOUR MOUTH tutorial
-u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
+u-aADAzrNwE // Spark AR Studio - Instrucciones en los efectos usando el Patch Editor
 EPISOKf79O8 // Tutorial de como adicionar instruções ao seus filtros - Spark Ar #10
 XeTs1mJATnA // Add On Screen Instructions to Any Filter Effect | Instagram & Facebook | Spark AR Tutorial
 yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Facebook | Spark AR Tutorial
@@ -621,14 +621,14 @@ AnxjcgEa4kE // MULTIPLE OPTION PICKER FOR YOUR LUTs TOGETHER WITH AN INTENSITY S
 20SIBWFdNSU // Cara Gampang Membuat Filter Instagram Lut + UI Picker [Free LUTs] - Spark AR Tutorial
 Zd--gC3w67A // SIMPLE SOLUTION TO ALL PROBLEMS Spark Ar Studio/ Filter doesn't work, doesn't open on Instagram...
 zpIldHsYrow // Spark AR - Fluid LUTs / Smooth LUT Switch
-r-0iZz1XHBM // Spark Ar - RGB shift with LUT - BLACK AND WHITE - OUTLINES - RETOUCHING - FREE Template tutorial
+r-0iZz1XHBM // How to Combine RGB with LUT - BLACK and WHITE - OUTLINES - RETOUCH - FREE Spark Ar Template tutorial
 EfL4YUaMptk // Spark AR - Eye Colour + LUTs
 dJGXMG7YUKI // Efeito de cor direto do Spark de forma fácil + Ajuste de LUT - Spark Ar
 S3h_prLLvcc // Spark AR: How to create LUTs in Photoshop for Instagram filters(Nepali Language)
 YczeJr8-N1w // SPARK AR TUTORIAL: CARA MEMBUAT FILTER INSTAGRAM SUN BLIND + LUT + SLIDER UI (NO SCRIPT)
 2hJl-E3Jukg // Cara Membuat Filter LUT + Retouching di Instagram, Cuma 3 Menit! | Spark AR Tutorial Indonesia
 vOiHcS8cRfQ // SPARK AR - Mengatasi LUT Berminyak Dengan Lightroom PC
-cp-PMubNVbo // Cara Hilangin/ Mengatasi LUT Berminyak (Red Noise) Pada Filter Instagram di Lightroom
+cp-PMubNVbo // Cara Hilangkan/ Mengatasi LUT Berminyak (Red Noise) Pada Filter Instagram di Lightroom
 o8-wPukcHiI // TUTORIAL FILTER INSTAGRAM PALING MUDAH (FILTER LUT) #1
 
 # Laser eyes
@@ -691,7 +691,7 @@ z84-GkDyd0c // Cara Membuat Retouch Native UI Slider - Spark AR Tutorial
 tw8OqO0WU60 // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / Native UI Picker V85 Script 2020
 uyzfcOsfgP8 // NativeUI Picker: Part One Script | Spark AR Studio [Updated Script in Description]
 VlFRsE4KSJY // NativeUI Picker: Part Two Patch Editor| Spark AR Studio
-jRD2hMQpIr0 // Adding the Native UI Picker to Switch 3D Object in SPARK AR
+jRD2hMQpIr0 // Adding the Native UI Picker to Switch 3D Object in SPARK AR ⚠️ SCRIPT OUTDATED ⚠️
 jYHqZmQn78M // Retouch, picker, LUT intensity slider | SparkAR V85+ | Ретушь, кнопки, интенсивность лута слайдером
 XiMs1IBDWj4 // Spark AR Tutorial | Color Picker for 3d Object texture | Screen tap Filter
 SxLOwee49co // Como colocar um seletor no meu filtro / Native UI Picker v85 - Spark Ar #30
@@ -808,7 +808,7 @@ S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
 9xmR2FAsMvM // AR Spark | Playing with Face Mesh lighting effects and patch editor
 KdniK0Y3UOs // Learn With Me! - Building A Spark AR Game - Game Logic Using Patch Editor
 fj7U27H-B1c // Spark AR: Instagram Filters - Getting Started: Patch Editor
-u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
+u-aADAzrNwE // Spark AR Studio - Instrucciones en los efectos usando el Patch Editor
 idUij9qtHko // SPARK AR Tutorial Particle [Patch Editor: Mouth Open, Blink, Eyelid]
 EvTyGWdPr0k // Spark AR Studio Tutoriel en Français - Patch Editor  : Comment changer la voix ?
 Ayx7O3wGCgY // Spark AR Studio - Patch Editor Tutorial : How Rotate A 3D Object ?
@@ -852,7 +852,7 @@ E-VIl-w9A70 // Cara membuat filter instagram di hp dengan picsart
 YqeKWDBvbz0 // Как сохранить маску в виде png в PicsArt/Как перекинуть маску/Как добавить маску в Spark AR
 a-w03AzIaB4 // CREATE YOUR OWN FILTER EASY// BEGINNER TUTORIAL REQUIRED SPARK AR AND PICSART
 vfLPe2nGtgM // HOW I MAKE MY INSTAGRAM FILTERS ✨ || SIMPLE TUTORIAL || SPARK AR || PICSART
-qdDlEoP34EA // PAANO GUMAWA NG INSTAGRAM FILTER IN 5 MINUTES - SPARK AR & PICSART | PH |
+qdDlEoP34EA // HOW TO CREATE INSTAGRAM FILTER IN 5 MINUTES - SPARK AR & PICSART | PH
 ENG3kSXdLTY // TẠO FILTER TRÊN INSTAGRAM CỰC DỄ - Sử dụng Picsart+ Spark Ar Studio
 
 # Plane tracker / Target tracker

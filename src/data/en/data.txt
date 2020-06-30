@@ -160,7 +160,7 @@ xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutor
 7TgLHngtLDs // Best of 2019 | Motion Design, Animation & Resources - Motion Design Awards
 
 # Best Banners Ever
-RlGmAB5LxEA // Spark AR : Learning part 1: Too much, too soon
+RlGmAB5LxEA // Spark AR Learning part 1: Too much, too soon
 aD1wgKgPc5k // Spark AR Learning Part 2:  Orbiting 3D Primitive
 g7rW5tPet-s // Spark AR Learning Part 3: 3D primitive adding texture (Donut)
 qR_0kj_Q34E // Spark AR Learning Part 4: Particle Emitter & Actions
@@ -349,6 +349,11 @@ CJp5oSPZiPs // Electric Playhouse Community Session #11 - Spark Ar Instagram Fil
 # Elliott Norris
 PhpzM7EgyxI // INSTAGRAM FILTER IN 5 MINUTES SPARK AR
 
+# Ellyse Amelia Coaching
+0B7FHZ6geMQ // Download + Open Spark AR - EAZY IG Filters
+NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
+48TwgAXNr-0 // SparkAR - SIMPLE Face Mesh Tutorial for Instagram Filters
+
 # Estefannie Explains It All
 LDbmH8pyjjY // MAKE YOUR OWN INSTAGRAM FILTER IN 10 MINUTES // LEARN SOMETHING
 0sZGiUjRPdY // MAKE YOUR OWN MAKEUP INSTAGRAM FILTER // LEARN SOMETHING
@@ -395,8 +400,8 @@ Pzd4p_w8ebY // Spark AR Vídeos PT - Filtro para o Instagram LUT + Ruídos!
 ZS8xSOB9Slc // Spark AR Vídeos PT - Filtro para o Instagram com borda colorida!
 
 # Firus Hanov
-9O-GZ8wRwtI // Spark-AR setup
-q8C0k3vTCk0 // Spark AR Adding 2D object
+9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
+q8C0k3vTCk0 // Spark-AR Tutorial #2. Adding 2D object
 kRWG_ZxAbOY // Spark-AR Tutorial #3. Creating Frankenstein character
 hm4KFzuqaIo // Spark-AR Tutorial #4 - Face Smoothing, 3D Text, Particle System
 fJZrsP81Cxs // Spark-AR Tutorial #5 - Other Resources
@@ -590,7 +595,6 @@ WI-wYxCVgo4 // SPARK AR TUTORIAL // MAKE YOUR OWN ZOMBIE INSTAGRAM FILTER
 qPOejL_1CgY // SparkAR World Effect - stARk reminder
 
 # Jul Nie
-Nmvfv7NLOEE // Create your own Instagram Filter || ft. Team Payaman IG Filter
 Q-fD18glQJk // Create Your Own INSTAGRAM FILTER || ft. TEAM PAYAMAN
 
 # Kapwing App
@@ -636,9 +640,6 @@ uxgZPLa2qFc // Jumper Game Project Template Tips : disable LIVE_UPDATE before pu
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
-
-# KSAN
-T-D6zOX_pTY // How to Make AR filter for Instagram and Facebook within 10 minutes
 
 # Ksenia Tomi
 7Bfs3YfHpJU // HOW TO MAKE INSTAGRAM FILTER IN 3 MINUTES/ WORK WITH SKIN (Spark AR)
@@ -767,9 +768,9 @@ QFmarjHCojM // Spark AR: Create Instagram LUTs filter
 DM8X2a2ak30 // Spark AR: How to fix JavaScript Error: Browserslist: caniuse-lite is outdated.
 uQ0iYf3nJ2A // Spark AR tutorial: Create filter with Particle System (Emitter Frezee)
 ml7E8aFlRAc // Use Null Object to change the Object's pivot
-jut8vAy3sCs // Spark AR tutorial: How to control object by FaceTracker (part1)
-0if1-iDNvBI // Spark AR tutorial: How to control object by FaceTracker (Part 2)
-O52Pz7eZwH4 // Spark AR tutorial: How to control object by FaceTracker (Part 3)
+jut8vAy3sCs // Spark AR tutorial [Updated]: How to control object by FaceTracker (part1)
+0if1-iDNvBI // Spark AR tutorial [Updated]: How to control object by FaceTracker (Part 2)
+O52Pz7eZwH4 // Spark AR tutorial [Updated]: How to control object by FaceTracker (Part 3)
 WECBaYICiPo // Spark AR: Maru Studio 2019 Recap
 QDpAMDe4UU8 // Spark AR Tutorial: Create GLITCH TEXT with Random Patch
 Xq7b5j6QrCo // Spark AR tutorial: Create "Mood of the Day" filter with Dynamic Text & Custom Font
@@ -804,7 +805,7 @@ TjO9LKCL6GI // SOPHISTICATED SPARK SAFARI /w KYM FIALA Version 2020.8
 DYAJAjcNC5k // Creating filter by Nora Horvath
 
 # Mayeh Lorenz
-qdDlEoP34EA // PAANO GUMAWA NG INSTAGRAM FILTER IN 5 MINUTES - SPARK AR & PICSART | PH |
+qdDlEoP34EA // HOW TO CREATE INSTAGRAM FILTER IN 5 MINUTES - SPARK AR & PICSART | PH
 OPg7U1uuYNg // HOW TO UPLOAD INSTAGRAM FILTER FROM SPARK AR - EASY STEPS | PH
 
 # MD Tech
@@ -967,7 +968,7 @@ TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java S
 IAUqD_z6noQ // How to add an Alpha Mask to your Face Mesh in SPARK AR
 qvmIsLKAXiw // How to Create a Mode-of-The-Day Filter from Facial Expressions in SPARK AR
 I7uCLe1VEfg // How to Change your Eye Color in SPARK AR
-jRD2hMQpIr0 // Adding the Native UI Picker to Switch 3D Object in SPARK AR
+jRD2hMQpIr0 // Adding the Native UI Picker to Switch 3D Object in SPARK AR ⚠️ SCRIPT OUTDATED ⚠️
 9xM1rbc4y-E // SPARK AR from Lightroom Presets to LUT (Avoid these Mistakes)
 Yumu3aqeRbI // Spark AR Native UI Picker 2020 for 3D Objects (update v85+)
 8lWnWs0U6rA // How to Create a Retouching in SPARK AR combined with the Fast Color LUT Patch
@@ -978,7 +979,7 @@ dTA6LzCP7N4 // How to Create Light Setting, Light Leaks and Animation Sequence a
 WkkznIy3jI8 // How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target Disappear by Collision, Add Music]
 rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter without oily, grain and pixel]
 s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark AR
-4sfw1bYiQao // How to add the Gallery Picker in SPARK AR and customize it
+4sfw1bYiQao // Instagram Filter Tutorial | How to customize your Gallery Picker in SPARK AR
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1227,11 +1228,6 @@ scW0jmZq1cE // How to Test and Upload Your AR Filter to Instagram or Facebook?
 # The Freelance Life
 IZpe3gKlrtQ // Course Trailer: Spark AR for Surface Pattern Designers -How to Create Filters for Instastories
 
-# The World E2Z
-0B7FHZ6geMQ // Download + Open Spark AR - EAZY IG Filters
-NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
-48TwgAXNr-0 // SparkAR - SIMPLE Face Mesh Tutorial for Instagram Filters
-
 # thebandanaboi
 ryzK4DNMR-s // Spark Ar studio- Download project files and templates for Instagram/Facebook camera effects.
 ND1F4uOmCTo // Filter creation Services advertisement by Palash Prabhakar (@thebandanaboi) SparkAr Creator
@@ -1308,7 +1304,7 @@ Aj0Pqq4YJXg // How to use the Gradient Step patch - Spark AR tutorial
 u84HtaeehvU // Live recording creating an Instagram filter in Spark AR
 H1JadxN_GD0 // Visualizing audio in Spark AR - tutorial about the audio analyser patches
 ZdG9ei-B12g // How to use the Exponential Smoothing patch - Spark AR tutorial
-_tigJW8cxUM // Creating a manu using the Picker UI patch - Spark AR tutorial
+_tigJW8cxUM // Creating a menu using the Picker UI patch - Spark AR tutorial
 wEBB_cHBPbw // Using the From Range and To Range patches  to scale numbers - Spark AR tutorial
 
 # Ulka Chandini Pendit

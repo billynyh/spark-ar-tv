@@ -21,7 +21,7 @@ XKoQoNbJeq0 // Instagram AR Game: Voice Activated Instagram & Facebook AR Game o
 dtcuRHPc3z4 // GLITTER EFFECT IN SPARK AR STUDIO
 
 # Ampersanda
-AZ48zfw8r9Y // [Livestream - PART 1] Programming Logo Quiz - Spark AR
+AZ48zfw8r9Y // 🎬 [Livestream] Programming Logo Quiz - Spark AR - PART 1
 
 # andrea camarena
 WpF8p8U_OuQ // ¿Cómo hacer tu propio filtro de instagram?
@@ -99,7 +99,7 @@ zSSX3TNSkBI // Spark AR Studio - Multiplicación de Rostro - Face Extraction -
 N5I4AU6Vumo // Spark AR Studio - Efectos giratorios con elementos 3D - Eat_Pizza_V68
 m-9BdirnrK4 // Spark AR Studio - Efectos de partículas flotando alrededor
 72MpRcqf2Yc // Spark AR Studio - Efectos con deformación facial - Labios abultados.
-u-aADAzrNwE // Spark AR Studio - Efectos con instrucciones - Usando el Patch Editor
+u-aADAzrNwE // Spark AR Studio - Instrucciones en los efectos usando el Patch Editor
 dQ02U9-xoA0 // Spark AR Studio - Efecto con partes aisladas del rostro - Mesh Masking
 pyxF-lfUtrQ // Spark AR Studio - Efectos con hoyos en la malla facial -  Mesh Holes
 lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena y hueca con  gradientes
@@ -269,9 +269,6 @@ tmK9biUGo-o // Spark AR: Test and upload your filters  [ESPAÑOL/ENGLISH]
 MTIR5PqWvlA // Spark AR: Grayscale camera texture  [ESPAÑOL/ENGLISH]
 uHu7ruemwbQ // Curso de Spark AR Studio: Creación de filtros de Realidad Aumentada para Instagram y Facebook
 
-# Eric sin k
-c6ndYPE_vXk // Filtros de Instagram en corto / creo que es un tutorial.
-
 # Ester Rojo
 TQYCEqhn-AA // AÑADIR INSTRUCCIONES SPARK AR FILTROS INSTAGRAM
 tt35z5oTWTY // TOCA PARA CAMBIAR SPARK AR INSTAGRAM FILTERS
@@ -294,7 +291,7 @@ oxCjdHe50lk // Spark AR Studio | Parte 1
 # grace en internet
 U_KBtWEFuSQ // ✧ Cómo hago mis propios filtros de Instagram ✧
 
-# Helentech
+# HelenTech
 FpIApJHKDns // Cómo hacer filtros para Instagram, face mask | @helentech_
 
 # Iesther Eslla- SFY
@@ -313,7 +310,7 @@ gQLKCtZB-Fc // ➡️ Como HACER un FILTRO para INSTAGRAM en 15 MINS MUY FACIL  
 ELKbRTySeXU // Convierte tus Presets de Lightroom en filtros de Instagram
 
 # Jenny Anabell
-sijC0UXhE18 // Filtro Instagram en Español - Spark Ar Studio Filtro Instagram
+sijC0UXhE18 // Como hacer un filtro de color para Instagram en Español - Spark Ar Studio
 
 # Jesus Taquillo
 kCz7Nd5ftPI // Como hacer filtros para INSTAGRAM o FACEBOOK /Spark AR
@@ -343,10 +340,10 @@ bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
 
 # LUZIA EDITS
 66vkYMx3VPk // COMO CREAR FILTRO PARA INSTAGRAM *FÁCIL* | Spark Ar tutorial
-BoCBkM9WDLg // CREA tu filtro de BELLEZA para Instagram | Spark Ar
-saNUNVLRHiE // CREA filtro BRILLOS sparkle para instagram | Kira Kira | SPARK AR TUTORIAL
-3mRjKia7zNo // Crea tu filtro GLITTER para intagram | SPARK AR TUTORIAL
-UZ1h5IVdWD4 // Como crear un filtro de FECHA Y HORA para Instagram | Spark Ar
+BoCBkM9WDLg // Como CREA filtro de BELLEZA para Instagram | Spark Ar
+saNUNVLRHiE // CREA filtro KIRA KIRA sparkle para instagram | Brillos | SPARK AR TUTORIAL
+3mRjKia7zNo // Como hacer filtro BRILLOS GLITTER para intagram | SPARK AR TUTORIAL
+UZ1h5IVdWD4 // Como crear filtro FECHA Y HORA para Instagram | Spark Ar
 Etm7kpsvFWY // Crear un filtro con bordes POLAROID o KODAK │Spark Ar Instgram tutorial
 
 # Lytech Room
@@ -372,9 +369,6 @@ aPUHkprmG5A // CREA TU PROPIO FILTRO EN INSTAGRAM | @martamarcosr
 
 # Martina Garcia
 Xc4tBdFuYDs // Cómo hacer y publicar tu filtro en Instagram 🎭🎭🎭
-
-# Martina Tortorelli
-QUOT7DS9hE4 // Hacer filtros de colores para Instagram | Spark AR | Instagram Filters | Spark AR Principiante
 
 # martu felix
 _DsoNkQ8NWA // como hacer un filtro para instagram
@@ -409,7 +403,7 @@ hC0izIDukvw // Como Crear tus Propios Filtros de Instagram
 RMC2gR6DsBI // Taller de Spark AR en Chile
 
 # Moviendo el Mundo
-ZiJiYjq0Ysg // Crea efectos o filtros para Instagram usando tu logotipo y la función random
+ZiJiYjq0Ysg // Crea efectos o FILTROS PARA INSTAGRAM usando tu logotipo y la función random | Spark Ar Studio
 
 # my name is harlem
 m9bXM67tuEw // COMO CREAR TUS PROPIOS EFECTOS PARA INSTAGRAM STORIES❤️
@@ -452,7 +446,7 @@ sNrPvnlpOT0 // CREAR FILTROS PARA INSTAGRAM
 abWLWkf2a_c // convierte presets de lightroom en un filtro de instagram | Spark AR Studio
 
 # Raqq Studio
-qcqEBJ03eO4 // Cómo crear tu filtro de Instagram Stories
+qcqEBJ03eO4 // Cómo crear tu FILTRO de INSTAGRAM STORIES
 
 # Ricardo Urquidi
 9Xa1WJVDqNk // Realidad aumentada de tus ilustraciones con Spark AR studio
@@ -479,9 +473,6 @@ hSQsTI_69cw // Timelapse | SPARK AR STUDIO | Iron Man helmet, casco Iron Man | T
 ukSP79OclHg // Spark AR Studio IRONMAN efecto METALICO 🔥| Iris Tracking 👀  Modelado en blender ➰ Timelapse | proofs
 giJS5E7ZlyU // Tutorial Modelado 3D Simple en Español | Para Spark Ar Studio | ✍ Modela en Blender FÁCIL y Básico ✅
 I6tLLA6Ejlk // Spark AR STUDIO 🔶 Tutorial Timelapse Physics 🔗 Simulating hair | Físicas pelo AR Hair |
-
-# Susana Chueca
-cvYeCQdATGA // Introducción a Spark AR (para gente con conocimientos de 3D)
 
 # TecnologiaUncomo
 d58Z7ksFJgs // Cómo crear FILTROS para INSTAGRAM STORIES 🐼 Paso 1 - MÁSCARA
@@ -520,6 +511,6 @@ gycx9IV9r_g // Spark AR Rotating Head Crown
 mNZLkzlVSms // Creación de filtro con efecto marco en Spark AR Studio
 xxQMat_-8x0 // Simulando un GIF en Spark AR Studio
 
-# YeYo
+# Yeyo
 AbaknB4FlAM // ¡Cómo CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM! 📱
 E2qwXmS9YHg // ¡Convierte PRESETS de LIGHTROOM en un FILTRO DE INSTAGRAM!
