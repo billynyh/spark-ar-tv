@@ -293,7 +293,7 @@
       {
         "title": "Music videos",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/music-videos.html",
-        "video_count": 5
+        "video_count": 6
       },
       {
         "title": "Native UI Picker / Slider",
@@ -754,9 +754,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-29.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/IaIi02_aBfk/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/EW20JLWKszg/hqdefault.jpg",
       "title": "Week 2020-06-29",
-      "meta1": "Num videos: 18",
+      "meta1": "Num videos: 42",
       "meta2": null
     },
     {
@@ -768,9 +768,9 @@
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-15.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/ENG3kSXdLTY/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/HrKrkoA2xgE/hqdefault.jpg",
       "title": "Week 2020-06-15",
-      "meta1": "Num videos: 160",
+      "meta1": "Num videos: 161",
       "meta2": null
     },
     {

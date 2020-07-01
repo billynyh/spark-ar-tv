@@ -245,7 +245,7 @@ def gen_site(config):
     else:
         langs = config.site_config.languages
 
-    with Pool(processes=4) as pool:
+    with Pool(processes=3) as pool:
         results = []
         results += pool_gen_global_site_channels(pool, master)
         results += [
