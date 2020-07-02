@@ -261,6 +261,7 @@ itMQB1HVfw8 // Gallery Picker | Spark AR Studio
 W9EKzK0RAQM // 2D Reactive Audio Effect (V89) | Spark AR Studio
 detwgxAqnzA // 3D Reactive Audio Effect (V89) | Spark AR Studio
 JUVCqxGqsmM // Adjusting values via Slider Patch | Spark AR Studio
+UY1FKVDS6hM // Super Simple Two Light Effect (Neon Colours) | Spark AR Studio
 
 # Charm Gegato
 2NpbmRbRJhc // How to make an instagram filter? (PicsArt + SparkAR) || random vlogs
@@ -407,6 +408,8 @@ kRWG_ZxAbOY // Spark-AR Tutorial #3. Creating Frankenstein character
 hm4KFzuqaIo // Spark-AR Tutorial #4 - Face Smoothing, 3D Text, Particle System
 fJZrsP81Cxs // Spark-AR Tutorial #5 - Other Resources
 eRJAm0NecwQ // Spark-AR Tutorial #6 Spark-AR Introduction of 3rd party 3D Objects through Sketchfab
+MXeAYtmisu4 // Spark-AR Tutorial #7 - Which Marvel Character Are You? Instagram, Facebook filter game. (Project)
+EmAxF7-zfHs // Spark-AR Tutorial #8 Blobby_bird_game (Final project - Part 1, Layouts)
 
 # FOCUS MEDIA
 62sgCzrzAPg // HOW TO MAKE YOUR OWN INSTAGRAM FILTER IN 2 MINUTES On Phone and Pc|how to Create an Instagram filter
@@ -706,6 +709,7 @@ D5yo6Kq_hi4 // Instagram Filter│Camera distortion in Spark AR Studio
 OzvXhri662A // Instagram Filter│How to do random deformation in Spark AR Studio
 sZ24WSa4a1k // How to add film dust and scratches to your Instagram or Facebook filters in Spark AR Studio
 uh6vKVXs5ic // Spark AR Quick Tip - How to add movement to anything
+jrSdndiir3o // Instagram Filter│How to add custom video simulations in Spark AR Studio
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -995,6 +999,7 @@ WkkznIy3jI8 // How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target 
 rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter without oily, grain and pixel]
 s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark AR
 4sfw1bYiQao // Instagram Filter Tutorial | How to customize your Gallery Picker in SPARK AR
+dka29iT6ppE // How to control the LUT intensity with a slider UI by separating the alpha component
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1321,6 +1326,7 @@ H1JadxN_GD0 // Visualizing audio in Spark AR - tutorial about the audio analyser
 ZdG9ei-B12g // How to use the Exponential Smoothing patch - Spark AR tutorial
 _tigJW8cxUM // Creating a menu using the Picker UI patch - Spark AR tutorial
 wEBB_cHBPbw // Using the From Range and To Range patches  to scale numbers - Spark AR tutorial
+0IZ8yPWDU6o // Using the Texture Transform patch - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR

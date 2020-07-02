@@ -77,6 +77,7 @@ WkkznIy3jI8 // How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target 
 rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter without oily, grain and pixel]
 s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark AR
 4sfw1bYiQao // Instagram Filter Tutorial | How to customize your Gallery Picker in SPARK AR
+dka29iT6ppE // How to control the LUT intensity with a slider UI by separating the alpha component
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio
