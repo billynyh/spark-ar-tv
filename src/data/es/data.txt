@@ -261,6 +261,7 @@ rCyYFSEofd0 // Spark AR Tutorial - Microphone with Audio Analyzer Patch (EN Capt
 ybf4fzlMg1Q // 3D Capture buildings & virtual landscapes for Spark AR | Google Earth, Minecraft | EN Captions
 w4okUPYbn-k // Spark AR Tutorial - Instagram Music Patch - How to use it?
 OLiHAXBxSUQ // Spark AR Tutorial - Ground Hole Occlusion (EN Captions)
+sOz0Ozf06W4 // Spark AR Tutorial -  360° panoramic images with Blender | Sphere (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -268,6 +269,20 @@ qzJTeZE4Mgw // Spark AR: Adding a camera texture  [ESPAÑOL/ENGLISH]
 tmK9biUGo-o // Spark AR: Test and upload your filters  [ESPAÑOL/ENGLISH]
 MTIR5PqWvlA // Spark AR: Grayscale camera texture  [ESPAÑOL/ENGLISH]
 uHu7ruemwbQ // Curso de Spark AR Studio: Creación de filtros de Realidad Aumentada para Instagram y Facebook
+4yplU9mp7iw // Filtro: Logo animado para historias
+G1aPuqWhisI // Creación de nuestro primer filtro en Spark AR Studio
+KSr9tHfaAyU // Tips y consideraciones finales
+Fnu5H7LjpnM // Introducción a Spark AR Studio
+JDvpC8Ezha0 // Filtro: Probador de cuadros y pinturas en las paredes del usuario
+KaDXDAo-1o0 // Prueba y publicación de filtros en Spark AR Hub
+Qp_cxpJ3Heo // Filtro: Cambio de fondo y segmentación de imagen
+bMX0qQkR2OA // Filtro: Maquillador con creación de texturas
+N2Z5vUo3hvM // Configurar cuentas de Instagram y Facebook para publicar filtros en ellas
+k33HJbIARAw // Filtro: Probador de calzado utilizando seleccionadores
+Z9596xNIW4g // Filtro: Animador de planos de arquitectura
+bkGnOA0TEWg // Descarga e instalación de Spark AR Studio
+nhbLo9qrWp8 // Filtro: Decorar el entorno de usuario con un modelo 3D dinámico (traslación, rotación, escalamiento)
+svPBxx31W8A // Filtro: Animador de banners promocionales
 
 # Ester Rojo
 TQYCEqhn-AA // AÑADIR INSTRUCCIONES SPARK AR FILTROS INSTAGRAM
