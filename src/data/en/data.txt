@@ -324,6 +324,9 @@ Bpvyajfe6sY // Spark AR #10 Tutorial: Shaders / Filter Effects
 z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
 _aQ9N0pOI5w // Spark AR Speaker Event : Spark AR Overview + Interactive Filter Workshop
 
+# Dreadlabs
+H081L4FvohI // How to make a FACE TATTOO filter for INSTAGRAM in Adobe Photoshop & Spark AR Studio
+
 # DSC KIIT
 3rvX7FsmFI4 // AR Spark | How to make Instagram/Facebook stickers | DSC KIIT
 
@@ -924,6 +927,9 @@ RHOdt1zNjj8 // How to get Instagram Filters 2020 Tutorial. "Which are you?", Hid
 efru3Z0BTRM // CREATE YOUR OWN EFFECTS/FILTERS FOR INSTAGRAM & FACEBOOK STORIES | SPARK AR STUDIO TUTORIAL
 ISxF9jI3_5Q // How to Save Preset and use it as LUT in Adobe Premiere Pro
 
+# Nitish Kumar
+iaxzPJkdNIc // Create your own face Filters on Instagram or Facebook | Spark AR tutorial for Beginners
+
 # Noobie Bro
 KI6QXOiJ5ew // How to Create Instagram Filter | Designing SPARK AR   Quiz Tutorial |
 
@@ -1080,6 +1086,7 @@ DHHPMBa8B6E // Spark Ar Blink Game
 
 # Roman Pillai
 A9k_w25i-yc // Realistic Shader Creation - Spark AR + Cinema4D Tutorial
+3zm0Qavr6qc // Easy Ragdoll Motion - Spark AR + Cinema 4D
 
 # Roses are Alexia
 IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
@@ -1221,6 +1228,7 @@ D8cPaegWbB0 // Spark AR Lut + Retouch Filtros Instagram
 
 # Spark AR Tutorial
 gfi1Z6CGxJ0 // Instagram Filter With Your LUT in 2 Min With Spark AR Studio
+WCtEYaOfaao // Spark AR Face Light Filter Free Project File
 
 # Spark AR TV
 oveKr-RBuNk // FlyingTweetBird
