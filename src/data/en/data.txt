@@ -857,6 +857,7 @@ R3BFw92JsLI // Publishing your fist Spark AR project
 wWhrPFgYxiE // Easy App for Making Instagram Filter with Spark Ar | Free Download Tutorial
 oGMyXjkAUIQ // Easy Tutorial : "Color Filter" for Instagram and Facebook with LUT on SPARK AR STUDIO | 4 minutes
 hJctNqr257A // Easy Tutorial for Instagram Filter : TAP and TEXT/QUOTE/WORD | 4 minutes
+0usWWtD5rSI // Color picker sampler | Easy tutorial for Instagram filter with SPARK AR | 4 minutes tutorial
 
 # MozillaTN
 SB2ht7x1MuI // FOSSWeeks 2020 - Week 5 Webinar | Build your own Instagram AR Filters
@@ -912,7 +913,6 @@ e7dkGIE48oE // Personality Quiz This-Or-That Filter Game with Weighted Questions
 jB4HIN2Btn0 // Get Day of the WEEK in Spark AR v87+ Free DATE Project Template Download
 Y4S_S_oK2YM // Draw in 2D with Finger on Screen in Spark AR Studio
 UUkw1v5Qvb8 // Light with Touch: Free Spark AR Template
-Gqs9NonotcE // Drag 2D Update: Drag 2D Object With Finger Drag Pan Gesture: #SparkAR Tutorial
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -929,9 +929,6 @@ RHOdt1zNjj8 // How to get Instagram Filters 2020 Tutorial. "Which are you?", Hid
 # Nisha&Madhur
 efru3Z0BTRM // CREATE YOUR OWN EFFECTS/FILTERS FOR INSTAGRAM & FACEBOOK STORIES | SPARK AR STUDIO TUTORIAL
 ISxF9jI3_5Q // How to Save Preset and use it as LUT in Adobe Premiere Pro
-
-# Nitish Kumar
-iaxzPJkdNIc // Create your own face Filters on Instagram or Facebook | Spark AR tutorial for Beginners
 
 # Noobie Bro
 KI6QXOiJ5ew // How to Create Instagram Filter | Designing SPARK AR   Quiz Tutorial |
@@ -1232,6 +1229,7 @@ D8cPaegWbB0 // Spark AR Lut + Retouch Filtros Instagram
 # Spark AR Tutorial
 gfi1Z6CGxJ0 // Instagram Filter With Your LUT in 2 Min With Spark AR Studio
 WCtEYaOfaao // Spark AR Face Light Filter Free Project File
+CsA8m0t35Bo // Dark Netflix TV Series Spark AR Free Project
 
 # Spark AR TV
 oveKr-RBuNk // FlyingTweetBird

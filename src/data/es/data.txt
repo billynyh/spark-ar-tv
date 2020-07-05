@@ -86,6 +86,7 @@ bp2zGTZNBak // CURSO SPARK AR STUDIO | Añadir botones de opciones #11
 5GK331JZr3g // CURSO SPARK AR STUDIO | Fuentes de creatividad #12
 zyppPM1X-zo // CURSO SPARK AR STUDIO | Crear textura plástica #13
 Rfw4LxODVJo // CURSO SPARK AR STUDIO | Iris Tracking animados #14
+d3UpiHlMyrk // CURSO SPARK AR STUDIO | Fechas y hora en tiempo real #15
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -192,6 +193,7 @@ qRcQmuXO98U // COMO CREAR TEXTO EN SPARK AR
 vCDgE4KLXJU // HACER un Screen TAP en SPARK AR
 Q6ZLn59KpIE // CREA RUIDO en u filtro de instagram (SPARK AR)
 H3pfBr-6Avg // Filtro nubes en movimiento (Particle System) SPARK AR
+NZ2Xp26V_9I // FILTRO de DIBUJA CON LA NARIZ (Spark AR)
 
 # Emi Castro
 rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)
