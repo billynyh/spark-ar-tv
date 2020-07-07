@@ -264,6 +264,7 @@ ybf4fzlMg1Q // 3D Capture buildings & virtual landscapes for Spark AR | Google E
 w4okUPYbn-k // Spark AR Tutorial - Instagram Music Patch - How to use it?
 OLiHAXBxSUQ // Spark AR Tutorial - Ground Hole Occlusion (EN Captions)
 sOz0Ozf06W4 // Spark AR Tutorial -  360° panoramic images with Blender | Sphere (EN Captions)
+hLXxRH9LXZ4 // Spark AR Tutorial - 'Point Cloud' Effect with Blender 3D | Experiment (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]

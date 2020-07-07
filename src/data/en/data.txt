@@ -398,6 +398,7 @@ KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio 
 # FilterGrade
 woc5UtOZtfk // Intro Tutorial to Spark AR for Creating Instagram Story Filters
 eG6ncf3txSU // All About Stabilization in Premiere Pro CC
+JXW32Z2xARw // How to Start Earning Money as a Photographer
 
 # Filters & Design
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
@@ -806,6 +807,7 @@ VftnI9WNQbM // [Part 1] Spark AR tutorial | Happy Birthday - Interactive filter 
 -91drFu98w8 // [Part 2] Spark AR tutorial | Happy Birthday - Interactive filter (Instagram)
 urWYuxqZHVc // Spark AR Tutorial: Create a basic filter, export and publish it
 IaIi02_aBfk // 20 Videos simulator for Makeup filter
+Q8Kvs7Jew4c // [P1] Spark AR tutorial: How Old Do I Look?
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -1020,6 +1022,9 @@ dka29iT6ppE // How to control the LUT intensity with a slider UI by separating t
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
 
+# Ran Bensimon
+dr6xMzpGLP4 // 3D Model with Physics for Spark AR
+
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
 vfMXwODsXa0 // Spark AR - How to extract face features
@@ -1198,6 +1203,9 @@ qMaKT0HuTis // How To Make and Publish A 'Which/What Are You' Instagram Filter i
 # SmokingFox
 X5X7tLcc4Vo // Some AR Madness
 
+# sniponix
+nMADP2nuLtE // Create your own Instagram filter using Lightroom - Spark AR
+
 # Social Media Growth Hacks
 NXuWUaPF9lU // How To Create Instagram Story Filters - Spark AR Tutorial For Beginners
 
@@ -1230,6 +1238,7 @@ D8cPaegWbB0 // Spark AR Lut + Retouch Filtros Instagram
 gfi1Z6CGxJ0 // Instagram Filter With Your LUT in 2 Min With Spark AR Studio
 WCtEYaOfaao // Spark AR Face Light Filter Free Project File
 CsA8m0t35Bo // Dark Netflix TV Series Spark AR Free Project
+vKLF3rrrc-U // Floating Digital Screen Spark AR Free Project
 
 # Spark AR TV
 oveKr-RBuNk // FlyingTweetBird
@@ -1246,6 +1255,7 @@ mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 # Steven Van
 qz0cuIAHras // How to Make Instagram AR Filters!
 Ys7jtAiOy74 // FREEZE FRAME EFFECT - Premiere Pro CC 2020 Tutorial (Music Video Effects)
+9B56EIEwW0A // 3 ways to REMOVE backgrounds from an image! (photoshop cc tutorial)
 
 # Sunny Youth
 nqncXtofMa4 // How I created my very own instagram filter with picsart!(easy and simple)
