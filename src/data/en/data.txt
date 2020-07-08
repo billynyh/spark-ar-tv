@@ -698,6 +698,9 @@ S_X8_ML1e2M // SparkAR Joker mask
 42VqR4TpHVU // SparkAR face distortion effect
 CuyYy4ZmspU // SparkAR talking hamburger
 
+# Lorenzo Barretta
+gwma6QKyWBc // Spark AR Studio: How to create an Animated RGB Color Shift.
+
 # Lou Eric
 YgXaX2gbros // Whack A Mole AR (SparkAR)
 
@@ -866,6 +869,7 @@ SB2ht7x1MuI // FOSSWeeks 2020 - Week 5 Webinar | Build your own Instagram AR Fil
 
 # Mr Arun
 LKHCrMqFhq4 // HOW TO MAKE INSTAGRAM FILTERS USING LIGHTROOM PRESETS | SPARK AR STUDIO | HINDI | 2020
+Kla-mMgjrMU // HOW TO MAKE MULTIPLE INSTAGRAM FILTERS OPTIONS PICKERS | USING LIGHTROOM PRESETS | SPARK AR | 2020
 
 # Mr Nubyan
 8qmD-LPlIMw // How To Make A Corona Mask Face Filter | SPARK AR | Facebook & Instagram | Augmented Reality
@@ -1024,6 +1028,15 @@ xcXYwFP90nQ // SparkAR
 
 # Ran Bensimon
 dr6xMzpGLP4 // 3D Model with Physics for Spark AR
+-A2iek0xx1k // Volumetric Light Filter for Spark AR
+qCbnMYjB2No // Glassy Red Eyes Filter for Spark AR (with Free Makeup)
+p4IbarN0lGI // 3D Nike Logo with Gallery Texture for Spark AR
+f8W9eR4rwQU // Medusa Filter for Spark AR
+TY5PfzA73oQ // Metallic Makeup with UI Slider for Spark AR
+zy2dSiTffpE // Light Eyebrows and 3D Eyelashes for Spark AR
+J5vEvvUyzJM // Light Eyebrows + 3D Eyelashes + Makeup for Spark AR
+mVrme869cXo // 3D Golden Eyelashes for Spark AR
+Wb3Q0ABN9rA // GAGA LOVE Filter for Spark AR
 
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
