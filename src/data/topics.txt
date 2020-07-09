@@ -937,6 +937,7 @@ Sqds53SJfgg // Part 1: How to make a 'What am I?' Effect | Spark AR Studio [Prot
 oS8yQyxF4NI // Spark AR Beta Render Passes
 i2QDq347CO0 // Intro to Render Passes in Spark AR Studio
 S0hp5mF0EYY // Render Passes and what does it do ?  || Spark AR || Instargam Filter || Rbkavin
+0L2Gr-SQpCU // SparkAR v92 Render Pass Tutorial
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR

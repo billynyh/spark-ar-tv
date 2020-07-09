@@ -63,6 +63,7 @@ G7V0nOhKuAk // How to rig your own 3D model for SparkAR in Blender 2.8
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 5uPNwr5OWQo // How to Create a ShapeKey Animation in Blender 2.8 that Works in Sparkar Version 76
 3BtHGs_tp_k // SparkAR's Audio Analyzer Tutorial v89
+0L2Gr-SQpCU // SparkAR v92 Render Pass Tutorial
 
 # Amir Rasyid
 rOz4GM_8QHc // Facebook/Instagram filter using spark AR
