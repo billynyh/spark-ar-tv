@@ -933,6 +933,11 @@ M7CB98VZj3w // Spark AR Lesson 10: How to Create Randomizer Effect using Scripti
 Sqds53SJfgg // Part 1: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
 1TAv2nJFmCU // Part 2: How to make a 'What am I?' Effect | Spark AR Studio [Prototype]
 
+# Render Passes
+oS8yQyxF4NI // Spark AR Beta Render Passes
+i2QDq347CO0 // Intro to Render Passes in Spark AR Studio
+S0hp5mF0EYY // Render Passes and what does it do ?  || Spark AR || Instargam Filter || Rbkavin
+
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 lLr17eQso1k // Spark AR Studio - SDF's Texturas Procedimentales - Forma rellena y hueca con  gradientes

@@ -30,6 +30,7 @@ JQHj9mVrQzU // 3D Score Counter Spark AR | Game Score Counter
 # adryn
 a-w03AzIaB4 // CREATE YOUR OWN FILTER EASY// BEGINNER TUTORIAL REQUIRED SPARK AR AND PICSART
 SSgcyfPmme0 // Luts + Dust/Old Camera Effect + Song
+tEYL4l_EAGs // Glitter Patch// Spark ar Easy
 
 # Aecee Waje
 2hxZ3fBxvF0 // HOW TO CREATE YOUR OWN INSTAGRAM FILTER (cute and simple)
@@ -271,6 +272,9 @@ UY1FKVDS6hM // Super Simple Two Light Effect (Neon Colours) | Spark AR Studio
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
 B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER DUST EFFECT DI SPARK AR STUDIO
 8Gk515ye24I // MEMBUAT FILTER MAKE UP DENGAN SPARK AR
+
+# Chookeun Moon
+s3lfXQYWDYs // UV Coordinates for Spark AR & GLSL
 
 # Chris Joy Quiamco
 CUGP1VxmmaQ // Doodle Instagram Camera Effect SparkAR
@@ -528,6 +532,12 @@ IOLnICm1FLU // Instagram Face Filters: Creating for the Social Space
 # iria
 F7hZGCIiePc // make ig filter with me!! ; bratz theme (+ some tutorial for beginners)
 
+# It's Emma
+XaLXjR2y1gk // How to Create Your OWN Instagram Filter
+
+# Jade Reyes
+GH1AGZ90KcI // CONVIERTE PRESETS DE LIGHTROOM EN UN FILTRO DE INSTAGRAM
+
 # JassLyf
 zcKQ4FivtpM // How To Make Your Own Instagram Filters | Spark AR Filters
 
@@ -652,6 +662,7 @@ Nc6lmmg2Pjs // INSTAGRAM FILTER ICON how to create + Effect Icon Template Downlo
 Zd--gC3w67A // SIMPLE SOLUTION TO ALL PROBLEMS Spark Ar Studio/ Filter doesn't work, doesn't open on Instagram...
 1klchCCNQQM // Add LOGO to 3D Object in 5 min - SIMPLE way to apply image to 3D model
 hI3tkL6BEYE // GET SOULMATE FILTER Instagram / where is your soulmate filter instagram
+HDCfJN_o6dk // Multiple Instructions Spark AR / Add two instructions Spark AR
 
 # Kathlene Figuracion
 TufUUsCFB2o // Create Your Own Instagram Filter | Fast & Simple
@@ -700,6 +711,7 @@ CuyYy4ZmspU // SparkAR talking hamburger
 
 # Lorenzo Barretta
 gwma6QKyWBc // Spark AR Studio: How to create an Animated RGB Color Shift.
+AsipLOMlaj8 // Spark AR Studio: How to create a Glowing Face Filter.
 
 # Lou Eric
 YgXaX2gbros // Whack A Mole AR (SparkAR)
@@ -726,6 +738,7 @@ OzvXhri662A // Instagram Filter│How to do random deformation in Spark AR Studi
 sZ24WSa4a1k // How to add film dust and scratches to your Instagram or Facebook filters in Spark AR Studio
 uh6vKVXs5ic // Spark AR Quick Tip - How to add movement to anything
 jrSdndiir3o // Instagram Filter│How to add custom video simulations in Spark AR Studio
+i2QDq347CO0 // Intro to Render Passes in Spark AR Studio
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -828,6 +841,7 @@ NZbSEIKDTdQ // MESH DEFORMATIONS IN SPARK
 W7CDuMtXjnQ // TUTORIAL: SPARK AR SHADER BASICS
 zRroh6GW2z4 // SSS S01E08 SOPHISTICATED SPARK SAFARI /w KYM FIALA Version 2020.8
 TjO9LKCL6GI // SOPHISTICATED SPARK SAFARI /w KYM FIALA Version 2020.8
+oS8yQyxF4NI // Spark AR Beta Render Passes
 
 # matemesz
 DYAJAjcNC5k // Creating filter by Nora Horvath
@@ -1022,6 +1036,7 @@ rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter 
 s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark AR
 4sfw1bYiQao // Instagram Filter Tutorial | How to customize your Gallery Picker in SPARK AR
 dka29iT6ppE // How to control the LUT intensity with a slider UI by separating the alpha component
+oja2cfIWz4E // Spark AR 'True or False' Game Logic Beginner-Tutorial
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1059,6 +1074,7 @@ eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instarga
 LP-uEQ3Tlxg // Spark AR hackathon 2020: Monster Escape (AR game filter) | Maru.studio x Rbkavin
 QXT5BRtmxm4 // Native UI PICKER ON PATCH EDITOR || Spark AR || Instargam Filter || Rbkavin
 uIN-LTCYBJg // Ocean Cleaning Force || Spark AR || Instargam Filter || Rbkavin || Kym Fiala
+S0hp5mF0EYY // Render Passes and what does it do ?  || Spark AR || Instargam Filter || Rbkavin
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -1105,6 +1121,7 @@ DHHPMBa8B6E // Spark Ar Blink Game
 # Roman Pillai
 A9k_w25i-yc // Realistic Shader Creation - Spark AR + Cinema4D Tutorial
 3zm0Qavr6qc // Easy Ragdoll Motion - Spark AR + Cinema 4D
+-ukDkfo48Oc // Cone Hat With Physics - Spark AR + Cinema 4D + Houdini Timelapse
 
 # Roses are Alexia
 IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
@@ -1375,6 +1392,7 @@ ZdG9ei-B12g // How to use the Exponential Smoothing patch - Spark AR tutorial
 _tigJW8cxUM // Creating a menu using the Picker UI patch - Spark AR tutorial
 wEBB_cHBPbw // Using the From Range and To Range patches  to scale numbers - Spark AR tutorial
 0IZ8yPWDU6o // Using the Texture Transform patch - Spark AR tutorial
+heBXeDenDzA // Using the Mix patch - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
