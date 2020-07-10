@@ -740,6 +740,7 @@ sZ24WSa4a1k // How to add film dust and scratches to your Instagram or Facebook 
 uh6vKVXs5ic // Spark AR Quick Tip - How to add movement to anything
 jrSdndiir3o // Instagram Filter│How to add custom video simulations in Spark AR Studio
 i2QDq347CO0 // Intro to Render Passes in Spark AR Studio
+gza60TeaPmI // Face Swap using the Face Extraction Render Pass Patch in Spark AR Studio
 
 # Luke Hurd
 j7klMWrJFHs // Spark AR: Instagram Filters - “Hole in the head” with Occlusion
@@ -1076,6 +1077,7 @@ LP-uEQ3Tlxg // Spark AR hackathon 2020: Monster Escape (AR game filter) | Maru.s
 QXT5BRtmxm4 // Native UI PICKER ON PATCH EDITOR || Spark AR || Instargam Filter || Rbkavin
 uIN-LTCYBJg // Ocean Cleaning Force || Spark AR || Instargam Filter || Rbkavin || Kym Fiala
 S0hp5mF0EYY // Render Passes and what does it do ?  || Spark AR || Instargam Filter || Rbkavin
+MlSIa-Ady20 // Freeze Frame - how to freeze the frame ?|| Spark AR || Instargam Filter || Rbkavin
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio

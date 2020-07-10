@@ -365,6 +365,7 @@ bCwtOTjte2o // Spark AR\ Эффект призмы
 I4B3zFdSK6A // Spark AR\ LUT эффект с текстурой на лице
 RofOLZX36-U // Spark AR\ Смена линз по нажатию
 kptCfm-mSGk // Spark AR\ Как сделать хайлайтер
+oGVtn5GKz70 // Spark AR\ Как добавить маску в медиа галерею
 
 # Geya Kamskaya
 FAY05xP1Yvk // Как сделать маску для Instagram?!
@@ -1233,6 +1234,7 @@ pJPgSrwkhXU // Spark AR Puzzle Game (Instagram mask)
 ag8Yepv53oU // Spark AR Space Game (Instagram filter)
 I0MZwm7e3_k // Spark AR Game Catch face (Instagram filter)
 2mHkXNlzq1o // Spark ar, Как добавить статический текст, чтобы маска прошла модерацию? Static text
+i_pZDs27T28 // Spark AR v92, Photo booth and LUT, Render Pass
 
 # Контактный Маркетинг
 OBCkR0r3K7M // Как сделать маску в инстаграме | маски Spark AR в бизнесе
