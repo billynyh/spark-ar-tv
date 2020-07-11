@@ -474,6 +474,9 @@ BXTK8DRCnBY // Как сделать маску с очками в Инстаг�
 # Jorik Rosa
 OrD0Icsw9Jc // Spark AR Studio Hand Tracker Tutorial
 
+# Jull Ova
+Qf-U8wYjaKY // Как загрузить свою маску в Инстаграм? ИНСТРУКЦИЯ. Spark AR Hub
+
 # Justwerry
 MSdAJwPM7sA // Spark AR Туториал | Как сделать маску для Инстаграм ?
 v4-g2PWKBYs // Как сделать Очки в Spark AR? | Spark AR Туториал
@@ -1241,6 +1244,7 @@ I0MZwm7e3_k // Spark AR Game Catch face (Instagram filter)
 2mHkXNlzq1o // Spark ar, Как добавить статический текст, чтобы маска прошла модерацию? Static text
 i_pZDs27T28 // Spark AR v92, Photo booth and LUT, Render Pass
 AroJzctS8Dg // Spark AR v92, Double yourself, Render Pass
+6Wcvvaw950w // Spark AR v92, Boomerang video, Render Pass
 
 # Контактный Маркетинг
 OBCkR0r3K7M // Как сделать маску в инстаграме | маски Spark AR в бизнесе
@@ -1415,6 +1419,7 @@ _4CO2I6dhQA // УРОКИ SPARK AR. Делаем Native UI Picker NEW API v87 �
 vnZ7AyLjpzs // Уроки Spark AR Studio v 88 - Gallery Texture. Заменяем фон на видео или фото из галерее смартфона.
 6TO6HWqXe54 // SPARK AR Эффекты со ЗВУКОМ, PICKER и SLIDER UI без скрипта, ПРЕСЕТЫ + РЕТУШ. Объектов ВОКРУГ ГОЛОВЫ.
 gGdXJB1ggQk // Spark AR Криэйтор - Junior. Как создать маску в инстаграм самому. Level 1
+VhNjKX4qHPE // Уроки Spark AR v 92. Задержки, Искажение, Стоп-Кадр Фото. Логика Scene Render Pass и Delay Frame
 
 # Юлия Выборова
 Cv-bpvJ84n4 // КАК ДОБАВЛЯТЬ МАСКИ В ИНСТАГРАМ!

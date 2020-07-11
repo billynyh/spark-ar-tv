@@ -471,6 +471,7 @@ yzoJSyjBijU // Iris Animation (Eyeball Tracking Part 2) Filter Effect | Instagra
 XEYbjXe0TIE // SPARK AR - Iris Tracking & Triggered Eyes Meme Tutorial
 
 # Kid creators
+https://www.youtube.com/watch?v=Xw4CJFnVHSA
 yuYoYTO789E // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМЕ?///КАК ЗАГРУЗИТЬ МАСКУ В ИНСТАГРАМ?
 k-kIb1Rz7jU // Как сделать маску в Инстаграм?//ILONA CVETKOVA 🌿
 _y9Gf1gIIRY // Как делать свои маски в spark ar?😱Cat Alice🥰Урок 1✨
@@ -948,6 +949,12 @@ AroJzctS8Dg // Spark AR v92, Double yourself, Render Pass
 ixnWPUwbaBU // Отзеркаливание в Spark AR - render pass, library patch + slider UI
 PGkohPdCkgg // Spark AR Novo Render Pass e Delay Frame!
 J2Egalhe4ng // Spark AR Tutorial - Blur Delay with Person Segmentation | Render Passes
+-p67HyVdcPE // Spark AR - Film Stripe Project (v92)
+GGNw9P1RsWs // Render Pass and Delay Frame in Instagram Filter | V92
+0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
+VhNjKX4qHPE // Уроки Spark AR v 92. Задержки, Искажение, Стоп-Кадр Фото. Логика Scene Render Pass и Delay Frame
+QgA5q4nFT7c // Vsynth Lockdown Livestream 2 - Vsynth for Spark
+6Wcvvaw950w // Spark AR v92, Boomerang video, Render Pass
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
