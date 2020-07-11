@@ -942,6 +942,12 @@ gza60TeaPmI // Face Swap using the Face Extraction Render Pass Patch in Spark AR
 MlSIa-Ady20 // Freeze Frame - how to freeze the frame ?|| Spark AR || Instargam Filter || Rbkavin
 5z-8vd_wbWs // Basic Filter Instagram Render Passes (Effect Blur Delay) - Spark AR Tutorial
 i_pZDs27T28 // Spark AR v92, Photo booth and LUT, Render Pass
+vxjhU-4nr1k // Freeze Frame & Motionblur [Renderpass Effects] | Spark AR
+8iic5UXEhgc // Spark Ar V.92 - Shader render pass & Delay frame FREE TEMPLATE Tutorial + Blur and RGB shift Glitch
+AroJzctS8Dg // Spark AR v92, Double yourself, Render Pass
+ixnWPUwbaBU // Отзеркаливание в Spark AR - render pass, library patch + slider UI
+PGkohPdCkgg // Spark AR Novo Render Pass e Delay Frame!
+J2Egalhe4ng // Spark AR Tutorial - Blur Delay with Person Segmentation | Render Passes
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
