@@ -36,7 +36,7 @@ AohkN4ExxfM // COMO FAZER FILTRO PRO INSTAGRAM - Biel Silva
 ZTR79dOzqFo // Como publicar um filtro no INSTAGRAM e enviar para análise? Spark AR
 mSl8pYh914Q // Filtro de Pétalas de Rosas - Spark Ar Studio
 RECYcRK-hFw // Template com 20 Cílios para seu filtro no Spark AR Studio
-o0PxwBOKmtQ // TEMPLATE com 20 texturas de delineador para seu filtro do INSTAGRAM e FACEBOOK com Spark AR Studio
+o0PxwBOKmtQ // PACK COM 20 MODELOS DE DELINEADOS para seu filtro do INSTAGRAM e FACEBOOK com Spark AR Studio
 
 # Bruno Wendricky
 C050Gcnpujo // Como colocar um filtro na conta do cliente? | Spark AR
@@ -106,9 +106,6 @@ oe0cFx5Xg9M // Spark AR Studio Filtros Instagram - Como Trocar Cor dos Olhos #Sp
 YsQ-M82DUFE // Spark AR Studio Filtros Instagram - Inserir Personagem com Movimento #SparkAR #Instagram #Tutorial
 wzkwNlUKK0g // Spark AR Studio Filtros Instagram - Como inserir inseto 3d no rosto
 
-# Eu e eu mesmo
-W1OL86PQFOs // COMO FAZER SEU PRÓPRIO FILTRO NO INSTAGRAM | eu e eu mesmo
-
 # Fanboy 3D
 CyCMnx-d8Js // Filtro do Instagram - Efeito Vegeta - Spark AR
 
@@ -123,8 +120,8 @@ y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
 uRWFeTWDg6U // Spark AR Studio - Partículas Vol. I
 E0sawd2mu8s // Spark AR Studio - Volumetric Light
 
-# Gal Fotógrafo
-JkYprPrnsJI // CRIE SEU FILTRO FRASE NO INSTAGRAM (Spark + Paint.Net) Muito fácil.
+# Gal edição e foto
+JkYprPrnsJI // 😱COMO CRIAR  FILTRO NO INSTAGRAM FRASE (Spark + Paint.Net) Muito fácil.
 
 # Gamega
 Vi-Rer82NvY // SPARK AR  Filtros para Instagram - Crea un fondo fácil #Filtrosparainstagram #Background
@@ -194,6 +191,9 @@ OWJJhaMm07Q // COMO CRIAR SEU PRÓPRIO FILTRO PARA O INSTAGRAM // JÚLIA REIS
 # Karol Marques
 wkMt7KuSfoc // Makeup com o SPARK AR-Tutorial
 
+# Katy Candy
+W1OL86PQFOs // COMO FAZER SEU PRÓPRIO FILTRO NO INSTAGRAM | eu e eu mesmo
+
 # Layer Lemonade
 F8VUYnuE4ns // INTRODUÇÃO AO SPARK AR STUDIO | TUTORIAL
 
@@ -212,8 +212,8 @@ _WFzwEUrU3s // COMO ENVIAR O ARQUIVO DO SPARK AR
 qhPbvsc8tcA // COMO ADICIONAR DUST E GRÃO NO SEU FILTRO DO INSTAGRAM! (Spark AR tutorial) - @LUCASFOP
 Mbk9KoTuhTA // COMO FAZER RETOUCH COM EFEITO DE COR (LUT) - SPARK AR
 B_9BhfYCUC4 // MAIS QUALIDADE: COMO REMOVER SOMBRA VERMELHA E FAZER UM FILTRO MELHOR - SPARK AR TUTORIAL
-6YHwkFa3944 // UI PICKER + SLIDER UI - FÁCIL E SEM SCRIPTS (Spark AR tutorial)
-GkUrAl5OpzA // EFEITO PRISMA - Spark AR tutorial - @lucasfop
+6YHwkFa3944 // UI PICKER + SLIDER UI - FÁCIL E SEM SCRIPTS - Spark AR tutorial - como fazer filtro no instagram
+GkUrAl5OpzA // EFEITO PRISMA - Spark AR tutorial - @lucasfop - como fazer filtro no instagram
 stxPywpbNMk // BAIXE FILTROS PRONTOS PRO INSTAGRAM STORIES! - Pacote de filtros do Spark AR - @lucasfop
 
 # LUCIMAR ROESLER
@@ -222,17 +222,11 @@ k0xcnjCu0m0 // Spark AR e a Realidade Aumentada
 # Luísa Rickli
 6X39qZIXPS4 // como usar um face tracker no SparkAR :)
 
-# Margarida Studies
-p598n4GAgcc // COMO FAZER FILTRO PARA O INSTAGRAM : super fácil e rápido // margarida studies
-
 # Marketing Flamejante
 njmfGzdlXqc // Spark AR Studio | Tour para iniciantes na plataforma
 
 # María Humans
 AjV6IMvBPwc // COMO CREAR FILTROS PARA INSTAGRAM FACIL | Maria Little
-
-# Mateus Valerino
-YdixULkbKCk // COMO EU CRIEI MEU FILTRO NO INSTAGRAM!!!
 
 # Meiriany Rocha
 Zebvl1gILYE // Como enviar um filtro para a análise no Spark Ar Hub
@@ -295,7 +289,7 @@ BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 eUqNter3Xrk // Como criar filtro para instagram - Spark Ar Studio
 
 # Renan Ávila
-idStZg7H4n4 // Como fazer Download do Spark Ar | Tutorial
+idStZg7H4n4 // Como fazer Download do Spark Ar | Tutorial #1
 
 # Ricardo Matos de Araújo Rios
 9-7MHUFwmyc // Inteligência Digital - PP Unipac Barbacena - Aula 8 - Realidade Aumentada usando o Spark AR
@@ -438,7 +432,6 @@ oYp86s_6KiU // Efeito Noise| Granulado| Spark Ar Tutoriais
 BpAH9JxMKW0 // RGB Color Shift| Glitch| Spark Ar
 LC2vHdt5XlE // 4 Cores Gradiente + Textura 2D | Fundo (moldura) Diferente | Spark Ar
 tks8gJcSPKE // Filtro Para O Dia Dos Namorados | Partículas saindo do centro dos Olhos| Spark Ar
-L_O2n6KPPVg // Makeup| Batom + Gloss |Spark Ar
 ase3aVx0TTA // Outlines| Contorno | Spark Ar | Crie seu Filtro
 
 # Tarsila Marques
