@@ -109,6 +109,7 @@ bp2zGTZNBak // CURSO SPARK AR STUDIO | Añadir botones de opciones #11
 zyppPM1X-zo // CURSO SPARK AR STUDIO | Crear textura plástica #13
 Rfw4LxODVJo // CURSO SPARK AR STUDIO | Iris Tracking animados #14
 d3UpiHlMyrk // CURSO SPARK AR STUDIO | Fechas y hora en tiempo real #15
+ECo2AiXXDK4 // CURSO SPARK AR STUDIO | Filtros de color #16
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -216,6 +217,7 @@ vCDgE4KLXJU // HACER un Screen TAP en SPARK AR
 Q6ZLn59KpIE // CREA RUIDO en u filtro de instagram (SPARK AR)
 H3pfBr-6Avg // Filtro nubes en movimiento (Particle System) SPARK AR
 NZ2Xp26V_9I // FILTRO de DIBUJA CON LA NARIZ (Spark AR)
+AhvJ9Oh_r4o // CREAR FILTRO "Cualquier imagen de tu galeria" (Spark AR)
 
 # Emi Castro
 rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)
@@ -387,6 +389,9 @@ mzITx_I_KrE // Robie - Búscame - Filtro Tutorial 90s Cowboy Girl - Spark AR
 # Kath&Bash
 P0et94uHLoY // COMO hacer FILTROS de instagram usando Lightroom presets y que tengan Botones para elegir NATIVE UI
 
+# Laura Alvarez
+0df9COfa0mA // Instagram Filter. Spark AR - Render Pass . Segmentation
+
 # Laura Rodríguez
 bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
 
@@ -401,6 +406,9 @@ lPxzt7ALzJQ // Crea un filtro *Tocar para cambiar* | SCREEN TAP | Spark Ar Insta
 
 # Lytech Room
 hma-t4VQWwo // ¿Cómo hacer filtros para Instagram y Facebook? | Spark AR | Introducción
+
+# MAB55
+heyGpK9TDsM // ▶️ ✅ Cómo descargar e instalar Spark AR Studio de Facebook en Mac [ 𝟮𝟬𝟮𝟬 ] | Tutorial mac Mab55
 
 # mabu garduño
 y9YSoe19jr8 // ¡CREA y PUBLICA tus propios FILTROS de INSTAGRAM! ♥
@@ -472,6 +480,7 @@ riZ7RMnYzqE // Crea tus propios filtros de realidad aumentada para Instagram
 
 # Pablo Hache
 aMb0ekJ_JRQ // ¡Cómo CREAR filtros en INSTAGRAM! | Pablo Hache
+MF487Vxn2Es // ¡Cómo SUBIR los filtros a INSTAGRAM! | Pablo Hache
 
 # Pikceles
 9ihduOmBzHc // Cómo CREAR tus propios filtros para Instagram fácilmente

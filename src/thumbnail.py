@@ -103,8 +103,8 @@ def main_topics():
 def main():
     master = master_site(config)
     site = master.global_site
-    ids = 'sOz0Ozf06W4 cNG3FYXaY6g dtBf0FY2kTI UY1FKVDS6hM'
-    ids = ids.split()
+    lines = [s.strip() for s in open("_thumb.txt").readlines()]
+    ids = [util.extract_youtube_id(s) for s in lines]
 
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)

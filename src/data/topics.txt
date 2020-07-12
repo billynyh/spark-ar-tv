@@ -955,6 +955,9 @@ GGNw9P1RsWs // Render Pass and Delay Frame in Instagram Filter | V92
 VhNjKX4qHPE // Уроки Spark AR v 92. Задержки, Искажение, Стоп-Кадр Фото. Логика Scene Render Pass и Delay Frame
 QgA5q4nFT7c // Vsynth Lockdown Livestream 2 - Vsynth for Spark
 6Wcvvaw950w // Spark AR v92, Boomerang video, Render Pass
+0df9COfa0mA // Instagram Filter. Spark AR - Render Pass . Segmentation
+MrRlwZui6o0 // Tutorial Filter Instagram Polaroid Dan Menggunakan Render Pass - Spark Ar Tutorial
+Epv4wrKtVkM // Now you can clone anyone! | SPARK AR render passes tutorial 2
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
