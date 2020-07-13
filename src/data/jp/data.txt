@@ -19,6 +19,7 @@ b636Ki4Pksw // [Spark AR] 【初心者による初心者の為のSpark AR講座(
 0rommpJmP0k // 【簡単】InstagramのARフィルターを自分でつくってみよう！- Spark AR の使い方 #1
 jPnP1pi0AMo // フェイスペイント風のARエフェクトをノーコードでつくってみる - Spark ARの使い方#2
 hMDqXWBAtMY // インタラクション効果をつけるPatch Editorについて - Spark ARの使い方 #3
+D9Dw4xKQxt4 // 光の反射とshaderの関係と、レイヤー、セグメンテーション - Spark ARの使い方 #4
 
 # Takeshi Nagata
 KKZfl52txqw // Spark AR Studio 06 Upload Your Face Filter
