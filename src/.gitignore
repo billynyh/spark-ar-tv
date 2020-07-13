@@ -10,6 +10,5 @@ _out
 __pycache__
 *.swp
 input.txt
-
 data/thumbnails-topics.txt
 _thumb.txt
