@@ -109,7 +109,7 @@ def main():
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2020-06-29')
+    generate_custom_week_thumbnails(site, ids, 'week-2020-07-06')
     #generate_channel_thumbnails(site)
 
 def main_ping():
