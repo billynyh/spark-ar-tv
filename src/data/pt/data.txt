@@ -294,6 +294,9 @@ idStZg7H4n4 // Como fazer Download do Spark Ar | Tutorial #1
 # Ricardo Matos de Araújo Rios
 9-7MHUFwmyc // Inteligência Digital - PP Unipac Barbacena - Aula 8 - Realidade Aumentada usando o Spark AR
 
+# Robertabmkt
+QNNzaKn_Mew // Tutorial Spark AR - Filtro com texto na cabeça
+
 # Roger Souto
 W8InS6Ds7o8 // Como FAZER filtro PARA o INSTAGRAM? (Para iniciantes )
 
@@ -406,6 +409,7 @@ HvKt7d0T7GY // Spark AR Efeito de Borboletas 3D em volta da cabeça com Null Obj
 EIcdvAynFb4 // Spark AR Desfoque + LUT + Retouch
 lrgPOCNTSXM // Spark AR Nova v92, Cílios 3D e Cor dos olhos super fácil!
 PGkohPdCkgg // Spark AR Novo Render Pass e Delay Frame!
+UR8fziW4UoY // Spark AR Ativando e desativando pelo toque na tela!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
@@ -432,6 +436,7 @@ oYp86s_6KiU // Efeito Noise| Granulado| Spark Ar Tutoriais
 BpAH9JxMKW0 // RGB Color Shift| Glitch| Spark Ar
 LC2vHdt5XlE // 4 Cores Gradiente + Textura 2D | Fundo (moldura) Diferente | Spark Ar
 tks8gJcSPKE // Filtro Para O Dia Dos Namorados | Partículas saindo do centro dos Olhos| Spark Ar
+L_O2n6KPPVg // Makeup| Batom + Gloss |Spark Ar
 ase3aVx0TTA // Outlines| Contorno | Spark Ar | Crie seu Filtro
 
 # Tarsila Marques
@@ -494,6 +499,7 @@ O8jX7_g2SI8 // Filtro de Quiz com Resposta, Tutorial - Spark Ar
 Vd53nlTXty4 // Criando Filtro do Minecraft do Zero - Live do Kewin
 U4Ehpw3RbDM // Maquiagem Glitter e Cores no seus filtros - Spark Ar
 VZcvgduLPAs // Como postar filtro na página do cliente? - Spark Ar Studio
+nmuar2GU65k // Textura da Galeria Ajustável pelo usuário | Bug tela verde | com script
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1

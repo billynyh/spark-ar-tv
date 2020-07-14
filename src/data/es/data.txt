@@ -291,6 +291,7 @@ sOz0Ozf06W4 // Spark AR Tutorial -  360° panoramic images with Blender | Sphere
 hLXxRH9LXZ4 // Spark AR Tutorial - 'Point Cloud' Effect with Blender 3D | Experiment (EN Captions)
 o0vQRc1MeJk // Spark AR V92 -  Blender Toolkit & Environment Textures (EN Captions)
 J2Egalhe4ng // Spark AR Tutorial - Blur Delay with Person Segmentation | Render Pass (En Captions)
+W0BttZ83mdk // Spark AR Render Pass Freeze - Effect Clone - Tiktok style
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -357,6 +358,9 @@ MZOUJATcuVA // Cómo CREAR y PUBLICAR filtros en Instagram 🔥
 # JACOB DUQUE
 gQLKCtZB-Fc // ➡️ Como HACER un FILTRO para INSTAGRAM en 15 MINS MUY FACIL  ✅ JACOB DUQUE
 
+# JaviMarketer 360
+Sq-PySOE8_0 // 🧡💛💚💙¿Cómo crear mi propio filtro para Instagram? | Fácil y rápido
+
 # Jeef Photon
 GgTm9115HNI // 😱 Como HACER tus propios FILTROS para las HISTORIAS de INSTAGRAM 🚀 (FACIL 2020)
 
@@ -390,6 +394,7 @@ mzITx_I_KrE // Robie - Búscame - Filtro Tutorial 90s Cowboy Girl - Spark AR
 P0et94uHLoY // COMO hacer FILTROS de instagram usando Lightroom presets y que tengan Botones para elegir NATIVE UI
 
 # Laura Alvarez
+Al-DMSSlGY4 // Tutorial RenderPass básico. Filtro de instagram.  Full Project - Español
 0df9COfa0mA // Instagram Filter. Spark AR - Render Pass . Segmentation
 
 # Laura Rodríguez
@@ -491,6 +496,7 @@ sNrPvnlpOT0 // CREAR FILTROS PARA INSTAGRAM
 
 # psychomood
 abWLWkf2a_c // convierte presets de lightroom en un filtro de instagram | Spark AR Studio
+avuaMRfwAwg // crea tu propio FILTRO de INSTAGRAM FÁCIL | Spark AR Studio
 
 # Raqq Studio
 qcqEBJ03eO4 // Cómo crear tu FILTRO de INSTAGRAM STORIES
