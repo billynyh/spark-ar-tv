@@ -41,6 +41,9 @@ tEYL4l_EAGs // Glitter Patch// Spark ar Easy
 # Aecee Waje
 2hxZ3fBxvF0 // HOW TO CREATE YOUR OWN INSTAGRAM FILTER (cute and simple)
 
+# Afroludi
+bE3Tf1dN3ZU // Spark AR tutorial: Create a simple Orange and Teal Filter with 'Photoshop' in less than 8min
+
 # Ahad Halari
 96U-gisu6u4 // MAKE YOUR OWN INSTAGRAM FILTER IN 2 MINUTE  | SPARK AR | LIGHTROOM
 
@@ -495,6 +498,7 @@ vd5CFqPmNLM // Create an Instagram Filter
 
 # fxdojo
 ta8c_U_BjLM // Augmented Reality 101
+WJD3fyehEMo // Blender 2.8 Introduction to Mask Brush on a low polygon mushroom
 
 # Gabrisp
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
@@ -746,6 +750,7 @@ CuyYy4ZmspU // SparkAR talking hamburger
 # Lorenzo Barretta
 gwma6QKyWBc // Spark AR Studio: How to create an Animated RGB Color Shift.
 AsipLOMlaj8 // Spark AR Studio: How to create a Glowing Face Filter.
+SrRlNEdjNDs // Spark AR: How to create a Color LUTs Filter.
 
 # Lou Eric
 YgXaX2gbros // Whack A Mole AR (SparkAR)
