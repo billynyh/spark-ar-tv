@@ -86,6 +86,7 @@ kzcFrErVGcY // HOW TO MAKE AN INSTAGRAM STORY FILTER - SUPER EASY SPARK AR TUTOR
 # Andrew ARt
 0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
 Epv4wrKtVkM // Now you can clone anyone! | SPARK AR render passes tutorial 2
+TsLFtNBzRWo // Video Delay, Creating clone | Spark Ar v92 render passes
 
 # AndrewBakerVFX
 6kHrKpvpUXA // Exploring Spark AR Studio Face Filters - Intro for Beginners Tutorial: Lights Out #pge
@@ -1110,6 +1111,7 @@ zy2dSiTffpE // Light Eyebrows and 3D Eyelashes for Spark AR
 J5vEvvUyzJM // Light Eyebrows + 3D Eyelashes + Makeup for Spark AR
 mVrme869cXo // 3D Golden Eyelashes for Spark AR
 Wb3Q0ABN9rA // GAGA LOVE Filter for Spark AR
+_XNsKtStvtg // Dynamic Cloth Filter for Spark AR
 
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
@@ -1471,6 +1473,7 @@ _tigJW8cxUM // Creating a menu using the Picker UI patch - Spark AR tutorial
 wEBB_cHBPbw // Using the From Range and To Range patches  to scale numbers - Spark AR tutorial
 0IZ8yPWDU6o // Using the Texture Transform patch - Spark AR tutorial
 heBXeDenDzA // Using the Mix patch - Spark AR tutorial
+vFe3hZBiT9U // Using the SDF Rectangle patch - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
