@@ -87,6 +87,7 @@ kzcFrErVGcY // HOW TO MAKE AN INSTAGRAM STORY FILTER - SUPER EASY SPARK AR TUTOR
 0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
 Epv4wrKtVkM // Now you can clone anyone! | SPARK AR render passes tutorial 2
 TsLFtNBzRWo // Video Delay, Creating clone | Spark Ar v92 render passes
+1Ye27kfQ-uQ // Create D A R K filter! Infinite delayed recursion | Spark AR V92 Render Passes
 
 # AndrewBakerVFX
 6kHrKpvpUXA // Exploring Spark AR Studio Face Filters - Intro for Beginners Tutorial: Lights Out #pge
@@ -294,6 +295,7 @@ detwgxAqnzA // 3D Reactive Audio Effect (V89) | Spark AR Studio
 JUVCqxGqsmM // Adjusting values via Slider Patch | Spark AR Studio
 UY1FKVDS6hM // Super Simple Two Light Effect (Neon Colours) | Spark AR Studio
 vxjhU-4nr1k // Freeze Frame & Motionblur [Renderpass Effects] | Spark AR
+gb9CyckJZXo // Face Extract + Scene LUT Renderpass [Splitface Revisited] | Spark AR
 
 # Cel Rojas vlogs
 SBqctTuEO6g // How to make instagram filters|celrojas Part 1
@@ -507,6 +509,9 @@ mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 # Geotica
 uHWMv3yboeM // how to create an ar tattoo face filter / spark ar studio tutorial
 
+# Gilligan Faust
+iJe0A35Abro // Instagram Filter upload tutorial (Spark AR)
+
 # GOWAAA official
 5mxg9FUODV8 // Spark Swizzle Hack #3 with Kavin
 whxtJoXlQQo // Spark Swizzle Hack #4 with Varick
@@ -556,7 +561,14 @@ lTA7_y-dZxY // Four faces effect with Spark AR Studio
 x2qWdWF9ndo // Spark AR workshop
 
 # ildar g
+uGqusdsMlik // Spark AR: Filter "Colors" ("INFRA", "LAVANDER") for Instagram
+AfAdt0_Uoyg // Spark AR: 20 dust / scratches / film / grain textures
 P6sjYy4OlkI // Spark AR: Catch Game with precision
+Lhm9-2V6wqo // Spark AR: filter with moving text + warm preset +  sparkles
+aN19zH9FDyY // Spark AR: Glossy neon face with text
+MwEM6yk5Q1g // Spark AR: Random filter for Instagram
+SzpGSAaXvWM // Spark AR: filter with squares for Instagram
+lle6L8ncaTM // Spark AR: 10 freckles textures + warm preset (LUT)
 
 # Insomnia Studio
 mys2jGqiLfs // Cliff Jumper -  SparkAR Game Template
@@ -945,6 +957,7 @@ xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spa
 6On115zW4PE // MAKE YOUR OWN COOL INSTAGRAM FILTER // Moving Hearts From The Eyes When You Blink
 4WEHqguVJ8U // CREATE EYELASHES IN SPARK AR IN 5 MINUTES / EASY AND FAST SPARK AR TUTORIAL
 b6RxenrrS24 // How To Add Freckles To Your Instagram Filter in 5 Minutes
+ikDRP04CTgo // KiraKira + Smoothing Skin + LUT filter in Spark AR // Glitter Sparkle filter
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
