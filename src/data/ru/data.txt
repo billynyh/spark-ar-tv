@@ -131,6 +131,8 @@ l84itHhcLTc // Обзор Spark AR, Effect Creator, Lens Studio - создани
 IHp_-nJzRUU // Как сделать свой патч в Spark AR и как его продавать в массы
 yTXxsTPbaf8 // Как сделать для своей маски возможность наложения в инстаграм на готовое фото или видео - Spark AR
 ixnWPUwbaBU // Отзеркаливание в Spark AR - render pass, library patch + slider UI
+PB495SnD7HM // Как сделать маску в инстаграм со статическим текстом, чтобы её одобрили - Spark AR
+4MGr_V7KGUs // Тупит анимация картинок в Spark AR? - есть решение!
 
 # Arturka King
 KiTYX2wKcAk // 😍 КАК ПЕРЕНЕСТИ ПРЕСЕТ ИЗ LIGHTROOM В SPARK AR | Пресет без засветов для Инcтаграм + 4 пресета(FREE)
@@ -259,6 +261,25 @@ uCWV0zo-HUM // Урок 30 - Фильтры и ретушь + пыль + зер�
 
 # DEEPBACK
 un6UgFmo0a0 // КАК СОЗДАТЬ В ИНСТАГРАММЕ МАСКИ ДЛЯ ДЕБИЛОВ?
+
+# Денис Россиев
+s371-oMnhDQ // Spark AR - Color Sampler. How to get a color from camera texture.
+SNytCM8kUns // Spark AR: LUT + Retouch + Color Adjustments. 2 Native UI Pickers + Slider
+jp8N7-uYKtg // Spark AR - Fake Face Deformation v2. Change size of lips, eyes and nose
+qLFmq7MX0yQ // Spark AR - Texture Loop (UV Move)
+WKzCX09GV1g // Spark AR - Fisheye Shader
+VsrAvh6TPn4 // Spark AR - Fake Face Deformation v3. Change size of lips, eyes and nose
+zgBzAwNK38Y // Spark AR - Eye Concealer / Замазывание синяков и мешков под глазами
+JkI2aD-tyEM // How LUT works
+0AdmlS6bx2s // Spark AR: Lut + Color Adjustments + Retouch. 2 Pickers + Slider
+NZd7ZAskIk0 // Spark AR - Fake Face Deformation v4.0
+t2l6y-CutHg // Spark AR - Glitch Pack (4 patches)
+xD41JKU8gH8 // Spark AR - 3D Face Deformation / 3D деформация лица
+zpIldHsYrow // Spark AR - Fluid LUTs / Smooth LUT Switch
+M9vMhuTjn5s // Spark AR - Minesweeper Game
+YkNj0rTuNdk // Spark AR - The Piano
+RLrVRdxWk2M // Spark AR - Smooth LUT Switch
+yyWzNmTkiuI // Spark AR - Video Delay / TikTok Slow Sreens / Render Pass. Экраны замедления.
 
 # Developer Circle
 XAi_zz58vgI // Spark AR Masterclass  - How to create a first Instagram filter
@@ -1120,24 +1141,6 @@ NACChqhv47E // Я НАЧАЛ СОЗДАВАТЬ МАСКИ!КАК СОЗДАТЬ
 gWWJoiIGTaw // Создание масок в Инстаграм.Урок№1.СКАЧИВАНИЕ И УСТАНОВКА ПРОГРАММЫ Spark AR.
 OUlI_fvrOno // Урок2.Создание маски в Spark AR с ретушью,надписью на лице и макияжем.
 s16Q712yI0k // Урок8. Маска для двоих в Spark Ar.
-
-# Денис Россиев
-s371-oMnhDQ // Spark AR - Color Sampler. How to get a color from camera texture.
-SNytCM8kUns // Spark AR: LUT + Retouch + Color Adjustments. 2 Native UI Pickers + Slider
-jp8N7-uYKtg // Spark AR - Fake Face Deformation v2. Change size of lips, eyes and nose
-qLFmq7MX0yQ // Spark AR - Texture Loop (UV Move)
-WKzCX09GV1g // Spark AR - Fisheye Shader
-VsrAvh6TPn4 // Spark AR - Fake Face Deformation v3. Change size of lips, eyes and nose
-zgBzAwNK38Y // Spark AR - Eye Concealer / Замазывание синяков и мешков под глазами
-JkI2aD-tyEM // How LUT works
-0AdmlS6bx2s // Spark AR: Lut + Color Adjustments + Retouch. 2 Pickers + Slider
-NZd7ZAskIk0 // Spark AR - Fake Face Deformation v4.0
-t2l6y-CutHg // Spark AR - Glitch Pack (4 patches)
-xD41JKU8gH8 // Spark AR - 3D Face Deformation / 3D деформация лица
-zpIldHsYrow // Spark AR - Fluid LUTs / Smooth LUT Switch
-M9vMhuTjn5s // Spark AR - Minesweeper Game
-YkNj0rTuNdk // Spark AR - The Piano
-RLrVRdxWk2M // Spark AR - Smooth LUT Switch
 
 # Для тех, у кого лапки
 OgRocjLfXgU // Spark AR - Как сделать надпись на лице. Маска для Инстаграм
