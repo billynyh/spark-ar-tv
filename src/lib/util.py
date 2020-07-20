@@ -68,10 +68,12 @@ def banner_generated(out_dir, g):
     return os.path.exists(path)
 
 def get_group_banner_path(out_dir, g):
-    return "%s/assets/banner/%s.jpg" % (out_dir, g.slug)
+    slug = maybe_override(g.slug)
+    return "%s/assets/banner/%s.jpg" % (out_dir, slug)
 
 def get_group_banner_url(config, g):
-    return "%s/assets/banner/%s.jpg" % (config.site_config.url, g.slug)
+    slug = maybe_override(g.slug)
+    return "%s/assets/banner/%s.jpg" % (config.site_config.url, slug)
 
 def get_topic_banner_path(out_dir, g):
     return "%s/assets/banner/topic-%s.jpg" % (out_dir, g.slug)
@@ -120,3 +122,7 @@ def topic_page_url(site, topic):
 def channel_page_url(site, channel_id):
     return "%s/global/channels/%s.html" % (site.url, channel_id)
 
+def maybe_override(slug):
+    if slug == 'week-2020-07-13':
+        return 'week-2020-07-13b'
+    return slug
