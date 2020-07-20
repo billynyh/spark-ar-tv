@@ -501,7 +501,6 @@ vd5CFqPmNLM // Create an Instagram Filter
 
 # fxdojo
 ta8c_U_BjLM // Augmented Reality 101
-WJD3fyehEMo // Blender 2.8 Introduction to Mask Brush on a low polygon mushroom
 
 # Gabrisp
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
