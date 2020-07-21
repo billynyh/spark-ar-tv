@@ -79,6 +79,7 @@ s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark 
 4sfw1bYiQao // Instagram Filter Tutorial | How to customize your Gallery Picker in SPARK AR
 dka29iT6ppE // How to control the LUT intensity with a slider UI by separating the alpha component
 oja2cfIWz4E // Spark AR 'True or False' Game Logic Beginner-Tutorial
+i8pGctxTrh4 // Spark AR Native UI Picker for More Than Ten Picker Items (LUT+Retouching)
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio

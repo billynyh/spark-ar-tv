@@ -93,6 +93,7 @@ f_xomb7TZ5c // Spark AR: AÑADIR INSTRUCCIÓN "TOCA PARA CAMBIAR"
 
 # Color Space
 OVOZOnhxNd4 // COMO SUBIR EL ARCHIVO DE UN FILTRO A LA PLATAFORMA DE SPARK - Filtros para instagram.
+lJZUAZaXV3A // APRENDE A HACER FILTROS DE COLOR PARA INSTAGRAM FÁCIL CON LIGHTROOM
 
 # Cristian Cedena
 701ZWQYqMK4 // CURSO SPARK AR STUDIO | Interfaz #2
@@ -296,6 +297,7 @@ hLXxRH9LXZ4 // Spark AR Tutorial - 'Point Cloud' Effect with Blender 3D | Experi
 o0vQRc1MeJk // Spark AR V92 -  Blender Toolkit & Environment Textures (EN Captions)
 J2Egalhe4ng // Spark AR Tutorial - Blur Delay with Person Segmentation | Render Pass (En Captions)
 W0BttZ83mdk // Spark AR Render Pass Freeze - Effect Clone - Tiktok style
+kqVtKVaxzLk // Spark AR - Face Extraction into image sequence | With Blender (EN Tutorial)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]

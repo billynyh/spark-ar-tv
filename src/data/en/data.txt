@@ -88,6 +88,7 @@ kzcFrErVGcY // HOW TO MAKE AN INSTAGRAM STORY FILTER - SUPER EASY SPARK AR TUTOR
 Epv4wrKtVkM // Now you can clone anyone! | SPARK AR render passes tutorial 2
 TsLFtNBzRWo // Video Delay, Creating clone | Spark Ar v92 render passes
 1Ye27kfQ-uQ // Create D A R K filter! Infinite delayed recursion | Spark AR V92 Render Passes
+LoZJvd8siQ4 // Create LEGO shader! | Spark AR tutorial pixelate
 
 # AndrewBakerVFX
 6kHrKpvpUXA // Exploring Spark AR Studio Face Filters - Intro for Beginners Tutorial: Lights Out #pge
@@ -195,6 +196,7 @@ qR_0kj_Q34E // Spark AR Learning Part 4: Particle Emitter & Actions
 hp2Y-HZjDtY // Spark AR Learning Part 5: Lighting, Actions, 360 image & space helmet
 YNJAEd9leYM // Spark AR Learning Part 6: Tap to Open
 WBfWfh4X7Cc // Eyelid tracking with Spark AR a quick 5 minute (ish) tutorial
+NaChLFGwPgw // Spark AR Adding Sound a quick 5 minute (ish) guide
 
 # Black Mixture
 mIt2fdjExy0 // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial
@@ -510,6 +512,9 @@ uHWMv3yboeM // how to create an ar tattoo face filter / spark ar studio tutorial
 
 # Gilligan Faust
 iJe0A35Abro // Instagram Filter upload tutorial (Spark AR)
+
+# Girish Kario
+SsasjFJvlPo // Turn your Lightroom Presets into Instagram Filters!
 
 # GOWAAA official
 5mxg9FUODV8 // Spark Swizzle Hack #3 with Kavin
@@ -1112,6 +1117,7 @@ s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark 
 4sfw1bYiQao // Instagram Filter Tutorial | How to customize your Gallery Picker in SPARK AR
 dka29iT6ppE // How to control the LUT intensity with a slider UI by separating the alpha component
 oja2cfIWz4E // Spark AR 'True or False' Game Logic Beginner-Tutorial
+i8pGctxTrh4 // Spark AR Native UI Picker for More Than Ten Picker Items (LUT+Retouching)
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
