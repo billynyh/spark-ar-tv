@@ -90,6 +90,9 @@ TsLFtNBzRWo // Video Delay, Creating clone | Spark Ar v92 render passes
 1Ye27kfQ-uQ // Create D A R K filter! Infinite delayed recursion | Spark AR V92 Render Passes
 LoZJvd8siQ4 // Create LEGO shader! | Spark AR tutorial pixelate
 
+# Andrew Fennell
+yIHY801sNmE // How to turn your LIGHTROOM PRESETS into INSTAGRAM STORY FILTERS with Spark AR Studio | Tutorial
+
 # AndrewBakerVFX
 6kHrKpvpUXA // Exploring Spark AR Studio Face Filters - Intro for Beginners Tutorial: Lights Out #pge
 RnRiiKqNWR0 // Demo Video - Devpost Facebook AR Hackathon - Safety Net Game
@@ -772,6 +775,7 @@ CuyYy4ZmspU // SparkAR talking hamburger
 gwma6QKyWBc // Spark AR Studio: How to create an Animated RGB Color Shift.
 AsipLOMlaj8 // Spark AR Studio: How to create a Glowing Face Filter.
 SrRlNEdjNDs // Spark AR: How to create a Color LUTs Filter.
+k_pJz1bJoX4 // Spark AR: How to create a Prism Camera Filter.
 
 # Lou Eric
 YgXaX2gbros // Whack A Mole AR (SparkAR)
@@ -953,6 +957,7 @@ SB2ht7x1MuI // FOSSWeeks 2020 - Week 5 Webinar | Build your own Instagram AR Fil
 LKHCrMqFhq4 // HOW TO MAKE INSTAGRAM FILTERS USING LIGHTROOM PRESETS | SPARK AR STUDIO | HINDI | 2020
 Kla-mMgjrMU // HOW TO MAKE MULTIPLE INSTAGRAM FILTERS OPTIONS PICKERS | USING LIGHTROOM PRESETS | SPARK AR | 2020
 07mEICHSVj8 // WHY YOUR SPARK AR FILTER LOOK LIKE THIS? HOW TO FIX THIS | WHY YOUR LUTS FAILES
+o9m4wjRe4L0 // CREATE INSTAGRAM FILTER | MOOD OF THE DAY | DYNAMIC TEXT | TAP TO CHANGE | DAY OF THE WEEK | HINDI
 
 # Mr Nubyan
 8qmD-LPlIMw // How To Make A Corona Mask Face Filter | SPARK AR | Facebook & Instagram | Augmented Reality
@@ -1137,6 +1142,9 @@ J5vEvvUyzJM // Light Eyebrows + 3D Eyelashes + Makeup for Spark AR
 mVrme869cXo // 3D Golden Eyelashes for Spark AR
 Wb3Q0ABN9rA // GAGA LOVE Filter for Spark AR
 _XNsKtStvtg // Dynamic Cloth Filter for Spark AR
+
+# RasterRiya
+L5PFi2-vamc // This Was Unexpected... I Never Thought I Could Do This 😳 I Spark AR I
 
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
@@ -1502,6 +1510,7 @@ wEBB_cHBPbw // Using the From Range and To Range patches  to scale numbers - Spa
 0IZ8yPWDU6o // Using the Texture Transform patch - Spark AR tutorial
 heBXeDenDzA // Using the Mix patch - Spark AR tutorial
 vFe3hZBiT9U // Using the SDF Rectangle patch - Spark AR tutorial
+30CJQnZiop4 // Using the SDF Union, Intersect and Difference patches - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR

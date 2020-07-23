@@ -966,6 +966,9 @@ BM6XHk9lKG0 // Explorando o Spark V92 Funções Novas e Render Pass  - Live do K
 TsLFtNBzRWo // Video Delay, Creating clone | Spark Ar v92 render passes
 gb9CyckJZXo // Face Extract + Scene LUT Renderpass [Splitface Revisited] | Spark AR
 1Ye27kfQ-uQ // Create D A R K filter! Infinite delayed recursion | Spark AR V92 Render Passes
+yyWzNmTkiuI // Spark AR - Video Delay / TikTok Slow Sreens / Render Pass. Экраны замедления.
+-2iTsdXsSEc // Cara Membuat Filter Instagram Photobooth Render Pass | SPARK AR TUTORIAL INDONESIA
+qupQFYGjNOQ // Spark AR v92, invisible, Render Pass
 
 # SDF
 gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
