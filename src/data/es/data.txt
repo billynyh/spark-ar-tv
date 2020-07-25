@@ -95,6 +95,9 @@ f_xomb7TZ5c // Spark AR: AÑADIR INSTRUCCIÓN "TOCA PARA CAMBIAR"
 OVOZOnhxNd4 // COMO SUBIR EL ARCHIVO DE UN FILTRO A LA PLATAFORMA DE SPARK - Filtros para instagram.
 lJZUAZaXV3A // APRENDE A HACER FILTROS DE COLOR PARA INSTAGRAM FÁCIL CON LIGHTROOM
 
+# Colorcloud
+NwAA7D5sujY // How to submit - Spark AR Hub
+
 # Cristian Cedena
 701ZWQYqMK4 // CURSO SPARK AR STUDIO | Interfaz #2
 pEEWOdP3ohU // CURSO SPARK AR STUDIO | Cómo funciona #1
@@ -298,6 +301,7 @@ o0vQRc1MeJk // Spark AR V92 -  Blender Toolkit & Environment Textures (EN Captio
 J2Egalhe4ng // Spark AR Tutorial - Blur Delay with Person Segmentation | Render Pass (En Captions)
 W0BttZ83mdk // Spark AR Render Pass Freeze - Effect Clone - Tiktok style
 kqVtKVaxzLk // Spark AR - Face Extraction into image sequence | With Blender (EN Tutorial)
+KcwPq9cKdMY // Spark AR Tutorial - Audio Tips | Microphone and M4A file (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -399,6 +403,9 @@ mzITx_I_KrE // Robie - Búscame - Filtro Tutorial 90s Cowboy Girl - Spark AR
 # Kath&Bash
 P0et94uHLoY // COMO hacer FILTROS de instagram usando Lightroom presets y que tengan Botones para elegir NATIVE UI
 
+# Kevin Vera Kawol
+g78__x__CT0 // Cómo subir un filtro a Instagram | Spark AR
+
 # Laura Alvarez
 Al-DMSSlGY4 // Tutorial RenderPass básico. Filtro de instagram.  Full Project - Español
 0df9COfa0mA // Instagram Filter. Spark AR - Render Pass . Segmentation
@@ -471,6 +478,9 @@ dXLC2NrEeC8 // Como exportar y subir filtros para Instagram - Spark AR tutorial
 yHi6UZyTV7Y // Crea un filtro de luces para instagram - Spark AR tutorial
 TdbXOuFMPeM // Crea un filtro Kira Kira para instagram - Spark AR tutorial
 
+# Micaela Esquivel
+HFxTKnAAR5w // Como hacer filtros en instagram | Crea y publica tus propios filtros | Filtro en Spark ar studio |
+
 # Michael Hernández
 hC0izIDukvw // Como Crear tus Propios Filtros de Instagram
 
@@ -536,6 +546,9 @@ I6tLLA6Ejlk // Spark AR STUDIO 🔶 Tutorial Timelapse Physics 🔗 Simulating h
 
 # TecnologiaUncomo
 d58Z7ksFJgs // Cómo crear FILTROS para INSTAGRAM STORIES 🐼 Paso 1 - MÁSCARA
+
+# TecnoTeca
+ulzciku1OLQ // Cómo CREAR UN FILTRO PARA INSTAGRAM y SUBIRLO
 
 # theWolful
 1s8oQ7uj924 // Spark AR Tutorial 1: Crea y Sube tu propio EFECTO a INSTAGRAM FACIL

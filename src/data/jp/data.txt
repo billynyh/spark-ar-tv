@@ -28,6 +28,7 @@ pc5UpzPUtLM // Spark AR studio 03 Animation Basic 2
 Vy6u4Dmpl7g // Spark AR studio 02 Animation Basic 1
 oxjJQjYg1gc // Spark AR Studio 01 3D Bricolage
 5AchseTrsy0 // Spark AR Studio 05 Eye Ball
+_ZedgF6vrvI // [MAYA] Export multiple animations into one FBX file [SPARK AR STUDIO TIPS]
 
 # VR Creaors LABO
 i4M0fpjOZFs // 自分で作れる　インスタエフェクト作成講座＜NO.2＞SparkAR　顔面変形
@@ -53,6 +54,8 @@ OmS8L2qpLxk // 天使の輪回転方法★インスフィルター作成講座�
 ujO95U6HM7M // picker UIの使い方★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
 dtBf0FY2kTI // クローンフィルターの作り方★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
 NWIildydiHs // 画面タップとオブジェクトの切り替え★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
+t-YFdiPNPc8 // facemesh light　顔面のツヤ出し方法★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
+jS7gotL7cEg // SparkAR　Japanコミュニティ！？　日本語で学ぼうぜ
 
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】
