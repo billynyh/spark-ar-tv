@@ -1073,14 +1073,16 @@ jET-30_cNOQ // Как загрузить audio Spark AR studio #zhandosxx#sparka
 # Академия re:Store
 _agr2pD3Wmg // AR-фильтры и маски для соцсетей (Instagram, Snapchat). Вадим Кочетков (Академия re:Store)
 
-# Александр Трофимов
-S0ysxqn2HNE // Как сделать маску/присет для instagram?
-
 # Александра Сингур
 AeNX2A0cawg // Как сделать маску в Инстаграм. 1 урок
 KpzDFI05LP8 // Как сделать маску в Инстаграм. 3 урок
 ye2x7yioFuY // Как добавить маску Инстаграм. 4 урок
 m16n8aIx96o // Как сделать маску в Инстаграм. 2 урок
+
+# Алексей Сурнин
+02VqGnFla0A // Spark AR VideoTracker demo
+yXSJWyRwUNo // Sorting Game Template Demo. Spark AR, Instagram
+pAjtDB87Wmk // Collector Game Template Demo. Spark AR, Instagram
 
 # Алексисс
 6eorfw-TvRQ // Маски для ТикТока #1 — Деформация
@@ -1408,6 +1410,9 @@ ZinTlxSTh7c // 3D маска для instagram
 
 # Харчевников
 x0M2fewrWaI // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ И ЗАРАБОТАТЬ НА ЭТОМ?! Заказы за 1500 и 3000 рублей
+
+# ХАЦК - Технологии!
+E9ZFszPVsMo // Как создать свою маску/присет для instagram
 
 # Центр Цифрового образования
 7MISFBleVMw // Мастер-класс по созданию AR-маски для социальной сети инстаграм

@@ -90,6 +90,7 @@ TsLFtNBzRWo // Video Delay, Creating clone | Spark Ar v92 render passes
 1Ye27kfQ-uQ // Create D A R K filter! Infinite delayed recursion | Spark AR V92 Render Passes
 LoZJvd8siQ4 // Create LEGO shader! | Spark AR tutorial pixelate
 EWh7NmtggU4 // Apply any effect to 3D OBJECT || Spark AR + TUTORIAL
+PY-rDbl369I // Person delay, 1000 Hands Dance effect || Spark AR quick TUTORIAL
 
 # Andrew Fennell
 yIHY801sNmE // How to turn your LIGHTROOM PRESETS into INSTAGRAM STORY FILTERS with Spark AR Studio | Tutorial
@@ -189,6 +190,15 @@ t0hix1pxnXg // How to make 'Guess The Gibberish' & More Instagram Filters | EASI
 Y4I7dR9I6KM // MAKING CUSTOM INSTAGRAM EFFECT/FILTER | bts of my instagram effect
 
 # Belajar Desain
+Tf_TiD_4MDU // 100% FILTER TEXT AUTHENTIC INSTAGRAM SPARKAR GRATIS TANPA LAPTOP
+d-5FMIfHP0s // 100% FILTER LUTH INSTAGRAM SPARKAR GRATIS TANPA LAPTOP
+68eYuQTB4QM // 100% FILTER SERASA LIBURAN INSTAGRAM SPARKAR GRATIS TANPA LAPTOP
+EM-nFM9DXbY // 100% FILTER LOVE TERBANG INSTAGRAM SPARKAR GRATIS TANPA LAPTOP
+VmW2rBO0bdw // 100% FILTER INSTAGRAM LUTH and DUST SPARKAR GRATIS TANPA LAPTOP
+3HRTcvR21Vw // 100% FILTER INSTAGRAM NAEK ANGKOT SPARKAR GRATIS TANPA LAPTOP
+LgBV-ByFofo // 100% FILTER INSTAGRAM REBAHAN SPARKAR GRATIS TANPA LAPTOP
+7hU9fvDHfKs // 100% FILTER INSTAGRAM UNICORN SPARKAR GRATIS TANPA LAPTOP
+WIuPHvOtuYY // 100% FILTER INSTAGRAM SPONSBOB SPARKAR GRATIS TANPA LAPTOP
 x7HGZgJEjD0 // 100% FILTER INSTAGRAM softlens biru SPARKAR GRATIS TANPA LAPTOP
 
 # Ben Marriott
@@ -482,6 +492,7 @@ P9ROp8tGjC4 // Webinar on Spark AR Studio by Mr. Vishal Kawji | Frameboxx 2.0
 
 # Francesca Parodi
 rk-G5SmmLbM // Instagram Face Filters Tutorial
+Q6CwxmxLSWY // Instagram Efectos para la Cara Tutorial
 
 # Francesco Laterza
 0spiI5g3qsQ // Image Recognition in 2 minutes with SparkAR Studio - Augmented Reality TUTORIAL
@@ -755,6 +766,7 @@ QgA5q4nFT7c // Vsynth Lockdown Livestream 2 - Vsynth for Spark
 9RQi9PkQ5X0 // Created my own face filter | STOP!
 
 # LaraKnowsBest
+CuU3LayfzBU // 3-D CUSTOM FRESHLY MADE ORGANIC FACE MASK PRINTER MACHINE
 EFuJl_SIuGA // WHY YOU SHOULD CREATE YOUR OWN INSTAGRAM FILTER
 
 # LATE_FX
@@ -787,6 +799,9 @@ ptS-2gvdVxQ // Spark AR glasses filter demo
 S_X8_ML1e2M // SparkAR Joker mask
 42VqR4TpHVU // SparkAR face distortion effect
 CuyYy4ZmspU // SparkAR talking hamburger
+
+# Lorence Gonio
+meOSFTH-lq4 // MAKE YOUR OWN INSTAGRAM FILTER// EASY AND SIMPLE
 
 # Lorenzo Barretta
 gwma6QKyWBc // Spark AR Studio: How to create an Animated RGB Color Shift.
