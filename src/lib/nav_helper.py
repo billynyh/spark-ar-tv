@@ -30,6 +30,7 @@ LANG_DISPLAY_NAME = {
   'vi': 'Vietnamese',
   'fil': 'Filipino',
   'te': 'Telugu',
+  'ka': 'Georgian',
   'global': 'All Languages',
 }
 

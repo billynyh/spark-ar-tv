@@ -56,6 +56,8 @@ dtBf0FY2kTI // クローンフィルターの作り方★インスフィルタ�
 NWIildydiHs // 画面タップとオブジェクトの切り替え★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
 t-YFdiPNPc8 // facemesh light　顔面のツヤ出し方法★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
 jS7gotL7cEg // SparkAR　Japanコミュニティ！？　日本語で学ぼうぜ
+Tx2nxv22xVc // タッチジェスチャーとアニメーションの連動★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
+eVJt9xNrIlU // みんな間違える２空間の違いインスフィルター作成講座＜SparkAR日本語チュートリアル＞
 
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】

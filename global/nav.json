@@ -152,6 +152,11 @@
         "title": "Telugu",
         "url": "https://billynyh.github.io/spark-ar-tv/te/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Georgian",
+        "url": "https://billynyh.github.io/spark-ar-tv/ka/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -472,7 +477,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html",
       "thumbnail_url": "https://i.ytimg.com/vi/FT5D8oGnnOY/hqdefault.jpg",
       "title": "Channel: Rudy Anwar",
-      "meta1": "Num videos: 51",
+      "meta1": "Num videos: 52",
       "meta2": null
     },
     {
@@ -758,10 +763,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-07-27.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/8UR3vgvnuII/hqdefault.jpg",
+      "title": "Week 2020-07-27",
+      "meta1": "Num videos: 1",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-07-20.html",
       "thumbnail_url": "https://i.ytimg.com/vi/x0M2fewrWaI/hqdefault.jpg",
       "title": "Week 2020-07-20",
-      "meta1": "Num videos: 85",
+      "meta1": "Num videos: 97",
       "meta2": null
     },
     {
@@ -790,13 +802,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hJUP4yB0wuU/hqdefault.jpg",
       "title": "Week 2020-06-22",
       "meta1": "Num videos: 114",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-15.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/HrKrkoA2xgE/hqdefault.jpg",
-      "title": "Week 2020-06-15",
-      "meta1": "Num videos: 163",
       "meta2": null
     }
   ]
