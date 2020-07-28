@@ -304,6 +304,7 @@ J2Egalhe4ng // Spark AR Tutorial - Blur Delay with Person Segmentation | Render 
 W0BttZ83mdk // Spark AR Render Pass Freeze - Effect Clone - Tiktok style
 kqVtKVaxzLk // Spark AR - Face Extraction into image sequence | With Blender (EN Tutorial)
 KcwPq9cKdMY // Spark AR Tutorial - Audio Tips | Microphone and M4A file (EN Captions)
+EEcxAdzVo5s // Photo to 3d mesh to work with Spark AR & Blender | PIFuHD Project (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]

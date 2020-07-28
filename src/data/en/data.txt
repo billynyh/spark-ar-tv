@@ -751,6 +751,7 @@ pwLioCE3gEE // Jumper Game Project Template - Parameters demo
 X79vGPzqdB8 // Jumper Game Project Template - Replace assets Demo
 uxgZPLa2qFc // Jumper Game Project Template Tips : disable LIVE_UPDATE before publish
 -p67HyVdcPE // Spark AR - Film Stripe Project (v92)
+a8r5N8B03ww // Spark AR - MouthBlock & MouthScript
 
 # Kendra Silva
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -866,6 +867,9 @@ FbEQj1ip7_4 // Save Yourself 4 Hours - 3 Tips for Making Your First IG Face Filt
 rR_9IEvHsoY // ANIMATION CLIP MASKING TEXT IN CSS | Mahesh Parab
 NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter effect | Spark AR | Mahesh Parab
 
+# Maliner Esluzar
+tyOTirviS-M // HOW TO CREATE YOUR OWN INSTAGRAM FILTER | Spark AR Studio
+
 # Manav Sharma
 j4NEq_jGVOk // Convert Lightroom Presets to Instagram Filters | Spark AR | Instagram Filters | Spark AR Beginner
 bmNJEstv8C0 // NEON TEXT FILTER IN SPARK AR | Easiest method | Spark Ar Tutorials
@@ -928,6 +932,7 @@ IaIi02_aBfk // 20 Videos simulator for Makeup filter
 Q8Kvs7Jew4c // [P1] Spark AR tutorial: How Old Do I Look?
 kQ1zXiVZ6Jw // [P2] Spark AR tutorial: How Old Do I Look?
 q5pqzPLSxl0 // Spark AR tutorial: Blinking Game v85+  [Part 1]
+rElpDtxS9Xk // Spark AR tutorial: Blinking Game v85+ [Part 2]
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -1058,6 +1063,9 @@ UUkw1v5Qvb8 // Drag Spot Light: Free Spark AR Light At Touch Position Template
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
 
+# Nicah Magnaye
+KrucdKHNN1E // How to make IG & FB filter using Spark AR Studio v92
+
 # nice dream
 oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No coding required]
 
@@ -1098,6 +1106,9 @@ YpFfkCftF6U // Spark AR - LUTs + Segmentation
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 lIl3vZEcbxY // Spark AR - Hidden Preview Videos!
 EfL4YUaMptk // Spark AR - Eye Colour + LUTs
+
+# Onlywow
+vL591xZvb44 // Create Sunglass Filter for Instagram | Beginner Spark AR Tutorial
 
 # ozkar
 -H7uuxZuyz8 // $15 Instagram Filter Vs. $65 Instagram Filter | Is It Worth It?
@@ -1295,6 +1306,9 @@ pPCvm1dMjnU // Make your own Instagram and Facebook filters  | using spark AR st
 
 # sebpic
 j5PEMEFv3WE // Create your own Instagram filters in 5 minutes
+
+# Shaswat Singh
+bs9zJ16OcB0 // How To Start With Augment Reality Explained In 10 MINUTES!|spark ar, lens studio,& Unity|Ar Tutorial
 
 # Shuripusta ILK
 0i-6OSxfWWI // AR Filters for Instagram - Breakdown - TimeLapse

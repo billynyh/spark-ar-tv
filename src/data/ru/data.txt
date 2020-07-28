@@ -133,6 +133,7 @@ yTXxsTPbaf8 // Как сделать для своей маски возможн
 ixnWPUwbaBU // Отзеркаливание в Spark AR - render pass, library patch + slider UI
 PB495SnD7HM // Как сделать маску в инстаграм со статическим текстом, чтобы её одобрили - Spark AR
 4MGr_V7KGUs // Тупит анимация картинок в Spark AR? - есть решение!
+YLT8B5bhVEA // Как добавить подсказку / инструкцию в маску инстаграм в 1 клик - уроки Spark AR
 
 # Arturka King
 KiTYX2wKcAk // 😍 КАК ПЕРЕНЕСТИ ПРЕСЕТ ИЗ LIGHTROOM В SPARK AR | Пресет без засветов для Инcтаграм + 4 пресета(FREE)
@@ -526,6 +527,9 @@ B2z9q88x-3o // Как сделать свою маску в инстаграм?/
 
 # Kazakhstan American Corners
 SadZu-niHuI // Instagram Mask Making Workshop
+
+# KerkuoL
+_sSiR9vWV4U // Маска для instagram за 10 минут! Tutorial. Spark Ar обучение. Не кликбейт!
 
 # Kir Ensin
 wJSL0f9VUog // Как сделать маску в Инстаграм I Spark AR урок
@@ -1269,6 +1273,7 @@ i_pZDs27T28 // Spark AR v92, Photo booth and LUT, Render Pass
 AroJzctS8Dg // Spark AR v92, Double yourself, Render Pass
 6Wcvvaw950w // Spark AR v92, Boomerang video, Render Pass
 qupQFYGjNOQ // Spark AR v92, invisible, Render Pass
+X88BYy1V8SY // Spark AR, Game catch items
 
 # КРЕАТИВНЫЙ РАЗРАБОТЧИК
 5VwjThosl6I // КАК СОЗДАТЬ МАСКУ В ИНСТАГРАМ?/РАЗБОР ПРОГРАММЫ SPARK AR
