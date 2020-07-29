@@ -577,6 +577,9 @@ kC038NhhvUM // Spark AR tutorial   Face Split effect
 DDTW_JtM6S4 // Joker face using Spark AR
 1CtvUmfbtnE // Joker Face Filter Explanation📚 Video
 
+# Hojenn & Jessryll
+8JRdLJHZolA // HOW I MAKE MY OWN IG FILTER USING PICSART (PHILIPPINES) PART 1
+
 # HolyAlexx
 sRUfCf-Ksog // How to make an Instagram Filter | Spark AR
 
@@ -1227,6 +1230,7 @@ VloKY9LIAsI // Audio reactive filter using Audio analyzer V89 tutorial for begin
 S3h_prLLvcc // Spark AR: How to create LUTs in Photoshop for Instagram filters(Nepali Language)
 V9XGcRkQfGU // Upload Filter to Instagram | How to  publish Instagram effects without issues  (English)
 GGNw9P1RsWs // Render Pass and Delay Frame in Instagram Filter | V92
+0c1Ex8zpypI // Free Spark AR Project : Photo Booth Filter
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -1467,6 +1471,9 @@ FBJ_5cIZhAM // How To Make Guess the Gibberish And More Instagram Filters
 # TechMe Show
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
 fUqthvjuxH8 // Grey Beard Hero - Instagram Filter (SparkAR)
+
+# Techno Tamizha
+n7JNOy7sRDA // Multi Face Chaos | Spark AR Filter Demo | Multi Frame Video Delay
 
 # TechzClub - technology beyond Us!
 39W4lqW9L2Q // How to Create Your First AR Filter for Instagram or Facebook using Spark AR Studio?
