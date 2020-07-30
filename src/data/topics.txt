@@ -176,6 +176,12 @@ KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio Patch Asset Tutorial
 yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
 VQxcSMsvfeU // Spark Ar Tutorial - Flashy lights transition and Cinematic look using TEXTURE SAMPLER + LUT
 0usWWtD5rSI // Color picker sampler | Easy tutorial for Instagram filter with SPARK AR | 4 minutes tutorial
+ch5VpfRvrv8 // Color Palette - Instagram Filter - Spark AR Studio [ Tutorial ] | 2020-02-08
+MLmUvrcYCxA // Cara bikin Filter Instagram COLOR PALETTE seperti anime nahir.esper | SPARK AR TUTORIAL INDONESIA | 2020-03-30
+cagqH6UEh30 // МАСКА COLOR PALETTE ДЛЯ ИНСТАГРАМ | DARIA TSVET | 2020-04-14
+-0_hiARHOfs // How to Make "Color Palette" / "Anime" Instagram Filter Spark AR Tutorial | 2020-05-24
+rSFgaPk67fA // How to make an instagram Filter | Color Palette | SPARK AR | 2020-07-24
+TlpE6EKrbEA // Spark AR: How to create a Color Palette Camera Filter. | 2020-07-29
 
 # Date and time
 ZmIoWlVN_m0 // Date & Time in Spark AR
