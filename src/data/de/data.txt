@@ -73,14 +73,6 @@ rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR
 Gy2rrn2TVS4 // Change your Faceshape in Spark AR without being an 3D Expert
 HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 6g5GdU33Eyk // 3 Useful Mouth Open Patch Ideas for SPARK AR
-dTA6LzCP7N4 // How to Create Light Setting, Light Leaks and Animation Sequence as Light Effects in SPARK AR
-WkkznIy3jI8 // How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target Disappear by Collision, Add Music]
-rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter without oily, grain and pixel]
-s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark AR
-4sfw1bYiQao // Instagram Filter Tutorial | How to customize your Gallery Picker in SPARK AR
-dka29iT6ppE // How to control the LUT intensity with a slider UI by separating the alpha component
-oja2cfIWz4E // Spark AR 'True or False' Game Logic Beginner-Tutorial
-i8pGctxTrh4 // Spark AR Native UI Picker for More Than Ten Picker Items (LUT+Retouching)
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio

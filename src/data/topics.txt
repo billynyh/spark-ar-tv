@@ -125,7 +125,7 @@ C5k_kgy_n_4 // Spark AR - Audio Energy meter | V89 - New functionality
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
 udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
-6F6qqEQf2QA // Spark AR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
+6F6qqEQf2QA // Spark AR: Beginner Javascript Animations for IG Filters | Steffie Harner
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
 Hzmyt-s_bZs // Spark AR quick tip 01: scripting movement by screen tap
 eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
@@ -171,17 +171,17 @@ esGnkbpdCks // Filter makeup instagram + cara deteksi 2 wajah di spark ar | tuto
 # Color Sampler
 vPuObKf-55I // Chromakey in Spark AR
 WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Asset Tutorial
+ch5VpfRvrv8 // Color Palette - Instagram Filter - Spark AR Studio [ Tutorial ]
 A6MtXGuVTuM // Filtro com paleta de cores, tutorial - Spark Ar #23
 KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio Patch Asset Tutorial
+MLmUvrcYCxA // Cara bikin Filter Instagram COLOR PALETTE seperti anime nahir.esper | SPARK AR TUTORIAL INDONESIA
 yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
+cagqH6UEh30 // МАСКА COLOR PALETTE ДЛЯ ИНСТАГРАМ | DARIA TSVET
 VQxcSMsvfeU // Spark Ar Tutorial - Flashy lights transition and Cinematic look using TEXTURE SAMPLER + LUT
+-0_hiARHOfs // How to Make "Color Palette" / "Anime" Instagram Filter Spark AR Tutorial
 0usWWtD5rSI // Color picker sampler | Easy tutorial for Instagram filter with SPARK AR | 4 minutes tutorial
-ch5VpfRvrv8 // Color Palette - Instagram Filter - Spark AR Studio [ Tutorial ] | 2020-02-08
-MLmUvrcYCxA // Cara bikin Filter Instagram COLOR PALETTE seperti anime nahir.esper | SPARK AR TUTORIAL INDONESIA | 2020-03-30
-cagqH6UEh30 // МАСКА COLOR PALETTE ДЛЯ ИНСТАГРАМ | DARIA TSVET | 2020-04-14
--0_hiARHOfs // How to Make "Color Palette" / "Anime" Instagram Filter Spark AR Tutorial | 2020-05-24
-rSFgaPk67fA // How to make an instagram Filter | Color Palette | SPARK AR | 2020-07-24
-TlpE6EKrbEA // Spark AR: How to create a Color Palette Camera Filter. | 2020-07-29
+rSFgaPk67fA // How to make an instagram Filter | Color Palette | SPARK AR
+TlpE6EKrbEA // Spark AR: How to create a Color Palette Camera Filter.
 
 # Date and time
 ZmIoWlVN_m0 // Date & Time in Spark AR
@@ -233,7 +233,7 @@ KGWAvFbCGVo // Spark AR Studio - Glitter (Edge e Light Detection similar ao Kira
 -HYpPNldC3M // Spark AR Efeito Fake Kira Kira e brilho em qualquer tom!
 4_JUGfLLpEE // КАК СДЕЛАТЬ МАСКУ KIRA/ГЛИТТЕР/Spark AR/Маски для инстаграм.
 neI8YTcJGqI // КАК СДЕЛАТЬ МАСКУ KIRA НА БЕЛОМ+LUT/ГЛИТТЕР/SPARK AR
-a0lrNep4yQo // Spark Ar Tutorial  - Replace shadows - Mid lights and highlights with your custom sequence -Images
+a0lrNep4yQo // Spark Ar Tutorial  -Show effect only on Shadows / Midtones / Highlights + Image sequence
 n4A5nFxZWis // КАК СДЕЛАТЬ ГЛИТТЕР С ТЕКСТУРОЙ ТОЧЕК?АНИМАЦИЯ PNG.SPARK AR
 0KunK6XYzCs // Как Сделать Маску в Инстаграм за 5 минут! Анимированные Маски, блестки и в стиле kira kira
 l2SU2pCEVUY // Como Fazer O Efeito Kira Kira | Spark AR Brasil @julliana.dev #kira #kirakira #bling
@@ -268,7 +268,7 @@ ekH0gtLDZBc // Tutorial Efek Sparkle / Kira-kira PART 2 | Efek hilang saat Scree
 mybm0FRb-JQ // Tutorial filter "KIRA" paling gampang II 😱👽 🤖  --Tutorial Spark Ar Indonesia
 QkJNDavaFLY // Cara Membuat Filter Instagram Kira - Kira sparkle // simple banget cuma 3 menitan 100% BERHASIL!!!
 ZqzDe6E5rQM // Kira Kira Glitter Instagram Filter Tutorial in Spark AR Studio
-saNUNVLRHiE // CREA filtro KIRA KIRA sparkle para instagram | Brillos | SPARK AR TUTORIAL
+saNUNVLRHiE // CREA filtro KIRA KIRA sparkle para instagram | SPARK AR TUTORIAL
 HcSArOZOoTk // Spark ar, Aprenda a fazer o efeito kira kira em 2 minutos #instagram
 TdbXOuFMPeM // Crea un filtro Kira Kira para instagram - Spark AR tutorial
 BMM0MZxNZ7o // Cara Membuat Filter Glitter/KiraKira di Instagram Free Patch, 2 Menit! | Spark AR Tutorial Indonesia
@@ -280,7 +280,6 @@ Zfnu8i7VFn8 // 如何製作閃閃星光Bling bling濾鏡 | Kira Kira | IG Story 
 uwH-kcuXS0A // CARA MEMBUAT SIMPLE KIRA EFFECT✨ || Spark Ar
 WeHSoKGIfxQ // Spark ar kira kira + retouching
 Dw5zB4vXT3c // Filter instagram file arexport preset orange and teal + sparkle kira kira blink
-pjWDjvV8Lw0 // Como hacer un filtro kira kira con un filtro de color
 Xbr3WP924wQ // 100% FILTER GLITTER KIRA INTAGRAM SPARKAR GRATIS TANPA LAPTOP
 Ms_J2JSNaBQ // Фильтр Kira Kira / Глиттер в Spark AR + бесплатный патч
 ikDRP04CTgo // KiraKira + Smoothing Skin + LUT filter in Spark AR // Glitter Sparkle filter
@@ -535,7 +534,6 @@ CRzvNjnZlQ0 // Как сделать маску для Инстаграмм??
 SOqRVgLZQ2Q // Как сделать маску в Instagram ⁉️За 5 минут❓/Spark ar /Mari Sa/
 -rSdJoM4RuY // Делаем маску в Instagram ❤✨🔫/ Как сделать маску в Instagram💁‍♀🐝🍩/•Alice_Cat•\
 Cd253TiCisw // How to make instagram face filter *easy, simple* | Trixie Litan
-Xw4CJFnVHSA // A forma mais fácil de fazer um filtro para o instagram
 3O4FHb8LiEk // 🦋 Como fazer efeito para o Instagram 🦋
 
 # LUT
@@ -595,7 +593,6 @@ G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Jannis
 V8D-Vl4bpQo // How to make Instagram filter (from Lightroom!) Indonesia. | KSHARING
 opgUXotK1jk // Spark AR LUT com Chuvisco e Retouch!
 iFOHrmu90x8 // GAMPANG BANGET ! Bikin filter instagram sendiri Di Lightroom (Spark AR Studio)
-gJSLxB8E-7k // Spark AR/ как избавиться от красного в тенях (LUT)
 GohHMLmz2LE // Color Pallete - Cara Membuat Filter Instagram Seperti Filter Stories 2.0 Spark Ar Tutorial
 j4NEq_jGVOk // Convert Lightroom Presets to Instagram Filters | Spark AR | Instagram Filters | Spark AR Beginner
 v1EKUR0ajaE // How to Make an Instagram Filters with Preset Lightroom or VSCO | ENG SUB
@@ -606,7 +603,7 @@ aHJXyLVm7aE // Cara Membuat Filter Instagram 3DLuts Sendiri Dengan Spark Ar - Tu
 gVuS2NJhGdw // Spark LUT Swiper Demo
 LojGhczG8mo // Cara membuat Filter Instagram menggunakan Preset VSCO termudah | Spark AR Indonesia
 -7Bxx1oSyLU // Make Up Tutorial - Cara Membuat Filter Make Up Dan Lut Di Spark Ar
-UTuew30eeKA // SPARK AR TUTORIAL | CARA MEMBUAT FILTER INSTAGRAM STORY DARI PRESET LIGHTROOM
+UTuew30eeKA // TUTORIAL BIKIN FILTER INSTAGRAM SENDIRI | SPARK AR TUTORIAL
 y2j9n2g8bZc // Spark AR - Native UI Picker Tutorial (With LUT Switch)
 RQnPuvJb8bk // KIRA KIRA / GLITTER / SPARKEL effect SPARK AR | download link | kira kira + LUT + Slider New Update
 Y10OoaDTIiE // Spark AR Fade-in e Fade-out de forma FÁCIL no seu LUT!
@@ -629,7 +626,6 @@ UPaBDqMlDio // Adobe Lightroom Tutorial: Cara Mudah Membuat Preset Filter Instag
 OES-a_PPADc // Spark AR Tutorial: Cara Mudah Membuat Filter Instagram Menggunakan Preset Adobe Lightroom
 eMi9CPyELQc // Cara menghilangkan minyak & noise pada ( LUT ) filter instagram | Spark AR tutorial Indonesia
 CcWgEgvMeL4 // CARA BUAT FILTER WAJAH DAN WARNA INSTAGRAM - di HP Android Picsart dan Lightroom Paling Simple
-wbg4drFnP9I // CARA MEMBUAT BASE LUT SENDIRI UNTUK FILTER INSTAGRAM DI HP
 MpsSqMgcFYk // CARA MEMBUAT EFEK/FILTER INSTAGRAM MENGGUNAKAN LIGHTROOM || PART 1
 KiTYX2wKcAk // 😍 КАК ПЕРЕНЕСТИ ПРЕСЕТ ИЗ LIGHTROOM В SPARK AR | Пресет без засветов для Инcтаграм + 4 пресета(FREE)
 Ii5xM6TeVWQ // Selective Colour Video LUT (good for for Spark AR)
@@ -655,7 +651,7 @@ HnABkh9YkDU // 7 урок. Эффект шиммера + LUT в SPARK AR
 tA_S8svXwqg // Native UI picker, Botones de selección con LUT sin Script con Retouch - Spark AR
 Tv_3BLs-yFI // Фильтры, Пресеты и LUTs в Spark AR. Как сделать маски в инстаграм с фильтрами?
 fvqwMOs26eY // SPARK AR TUTORIAL: NO SCRIPT! Cara Menampilkan NATIVE UI SLIDER  + LUT Spark AR V89
-Mbk9KoTuhTA // COMO FAZER RETOUCH COM EFEITO DE COR (LUT) - SPARK AR
+Mbk9KoTuhTA // COMO FAZER RETOUCH COM EFEITO DE COR (LUT) - Spark AR PELE SUAVE - @lucasfop
 rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter without oily, grain and pixel]
 Gge36Y0mykU // Spark AR Makeup Padrão + LUT's !
 MoRrEBGY4Ew // Spark AR Tutorial | Color LUTs + Ui Picker Patch | Anfänger Tutorial Deutsch
@@ -760,7 +756,6 @@ _eF0PdZpQLE // Spark AR Criando efeito Neon!
 gtGxxAIUqyE // SPARK AR ITA - COME CREARE MASCHERE E FILTRI INSTAGRAM NEON IN SEQUENZA
 YLCrsSXrvYE // Неон, добавление неонового plane и 3D анимация
 7qb7gPW4BII // Spark Ar Tutorial - EASY EDGE DETECTION  - Neon outline effect
-dGABnufFkvs // Spark AR/ как сделать неоновую маску
 bmNJEstv8C0 // NEON TEXT FILTER IN SPARK AR | Easiest method | Spark Ar Tutorials
 Dc5A67fXQPk // Cara buat efek Face Neon story Instagram dengan SPARK AR
 mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF
@@ -1004,7 +999,7 @@ MlSIa-Ady20 // Spark AR  Freeze Frame - how to freeze the frame ? (delay frame )
 i_pZDs27T28 // Spark AR v92, Photo booth and LUT, Render Pass
 Al-DMSSlGY4 // Tutorial RenderPass básico. Filtro de instagram.  Full Project - Español
 vxjhU-4nr1k // Freeze Frame & Motionblur [Renderpass Effects] | Spark AR
-8iic5UXEhgc // Spark Ar - Shader render pass & Delay frame FREE TEMPLATE Tutorial
+8iic5UXEhgc // Spark Ar tutorial - Render pass & Delay frame FREE TEMPLATE
 AroJzctS8Dg // Spark AR v92, Double yourself, Render Pass
 ixnWPUwbaBU // Отзеркаливание в Spark AR - render pass, library patch + slider UI
 PGkohPdCkgg // Spark AR Novo Render Pass e Delay Frame!
@@ -1013,13 +1008,13 @@ J2Egalhe4ng // Spark AR Tutorial - Blur Delay with Person Segmentation | Render 
 GGNw9P1RsWs // Render Pass and Delay Frame in Instagram Filter | V92
 0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
 VhNjKX4qHPE // Уроки Spark AR v 92. Задержки, Искажение, Стоп-Кадр Фото. Логика Scene Render Pass и Delay Frame
-QgA5q4nFT7c // Vsynth Lockdown Livestream 2 - Vsynth for Spark
+QgA5q4nFT7c // Vsynth Lockdown 2 - Vsynth for Spark
 6Wcvvaw950w // Spark AR v92, Boomerang video, Render Pass
 0df9COfa0mA // Instagram Filter. Spark AR - Render Pass . Segmentation
 MrRlwZui6o0 // Tutorial Filter Instagram Polaroid Dan Menggunakan Render Pass - Spark Ar Tutorial
 Epv4wrKtVkM // Now you can clone anyone! | SPARK AR render passes tutorial 2
 oJ-be3qqkZQ // SPARK AR TUTORIAL: RENDER PASS SparkAR v92
-W0BttZ83mdk // Spark AR Render Pass Freeze - Effect Clone - Tiktok style
+W0BttZ83mdk // Spark AR Render Pass Freeze - Clone Effect - Tiktok style
 BM6XHk9lKG0 // Explorando o Spark V92 Funções Novas e Render Pass  - Live do Kewin
 TsLFtNBzRWo // Video Delay, Creating clone | Spark Ar v92 render passes
 gb9CyckJZXo // Face Extract + Scene LUT Renderpass [Splitface Revisited] | Spark AR
@@ -1046,7 +1041,7 @@ VYAJ8WKQAbo // Spark Ar Tutorial - Background Frame Animation using SDF
 jPrzLb-hx5Y // Spark Ar tutorial - Motion Pop HALFTONE effect -  Using SDF in patch editor - no script
 IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
 D0Rwb71covc // Spark ar tutorial - Audio Analyzer + RGB Shift Glitch Effect + SDF Music reactive patterns
-W9MHgH7uVr8 // Spark Ar tutorial - Spiral Gradient Lights using SDF - Instagram Filters - Tips and Tricks
+W9MHgH7uVr8 // Spark Ar tutorial - Twist Gradient Lights using SDF - Instagram Filters - color filter
 vFe3hZBiT9U // Using the SDF Rectangle patch - Spark AR tutorial
 30CJQnZiop4 // Using the SDF Union, Intersect and Difference patches - Spark AR tutorial
 

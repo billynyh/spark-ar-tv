@@ -43,7 +43,6 @@ uUruWQMUXsE // Spark AR Studio Tutoriel Video - Comment créer une Animation 2D 
 4P5dEQLZrho // Débutant sur Spark AR Studio - Tutoriel en Français : Comment publier un Filtre ?
 YEgzL8pWL5I // Comment ajouter une interaction dans un filtre Instagram ? - Spark AR Studio
 -_QFHqSY4tI // Media Gallery et Gallery Texture - Spark AR Studio Tutoriel en Français
-JcqgTDPY-TI // Use your Gallery in your filters ! in Spark AR Studio
 
 # Rémi Abbou
 y-M7prDHPjI // CRÉER UN FILTRE INSTAGRAM SIMPLE (Paris)
@@ -83,7 +82,7 @@ I09ghNLvDIE // PINK AESTHETIC - SPEED FILTER MAKING
 v6zUJJAe4kM // FILTRE INSTA PAYSAGES VIOLETS / Spark AR Tutoriel
 
 # The Sun Project
-a8wTuFOIFf8 // Initiation aux Filtres Instagram sur Spark AR Studio / Niveau Débutant / Français
+a8wTuFOIFf8 // TUTO - Initiation aux Filtres Instagram sur Spark AR Studio / Niveau Débutant / Français
 TTyqPKAXgyk // Filtre Instagram pour Clara Luciani / Réalisation The Sun Project / Spark AR Studio
 
 # Ugo N

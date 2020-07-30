@@ -41,7 +41,7 @@ bRT8kLxthN0 // [Spark AR]눈,입에서 나오는 효과/파티클(입자)효과_
 fyiEvaDCK2Q // [Spark AR]인스타그램 사진보정필터(with VSCO)/색감보정 필터만들기_튜토리얼
 UyY0isKlq_I // [Spark AR]샤넬필터 만드는 법(명품필터_LV SHINE)/ Instagtam filter tutorial/인스타그램 필터 만들기_튜토리얼
 5v_iV4-rJXg // [Spark AR]머리에 헤드폰 씌우기/쉽고 빠른 튜토리얼(quick tip with templates)
-QheCSsI6VAI // [Spark AR]Multiple Face tracking/두 명 이상 효과 적용하기
+QheCSsI6VAI // [Spark AR]Multiple Face tracking-two face/두 명 이상 효과 적용하기
 
 # 손호성
 pD7WF5BIFgM // SparkAR 간단히 만든 플라워이펙트

@@ -100,8 +100,8 @@ yIHY801sNmE // How to turn your LIGHTROOM PRESETS into INSTAGRAM STORY FILTERS w
 RnRiiKqNWR0 // Demo Video - Devpost Facebook AR Hackathon - Safety Net Game
 
 # Angel Villamil
-fRn91LlTYrA // Speedwork: Making a 3D Instagram filter with free tools. EP. 1
-0UPPiDqR_JU // Speedwork: Making a 3D Instagram filter with free tools. EP. 2
+fRn91LlTYrA // Speedwork E1: Making a 3D Instagram filter with free tools. EP. 1
+0UPPiDqR_JU // Speedwork E2: Making a Naruto sad Instagram filter with sound.
 -OTvDJ57sKY // Creá tus propios filtros de Instagram. Clase gratuita de Realidad Aumentada en Español.
 
 # Anika Kasoiz
@@ -191,18 +191,6 @@ t0hix1pxnXg // How to make 'Guess The Gibberish' & More Instagram Filters | EASI
 # Azrina Halim
 Y4I7dR9I6KM // MAKING CUSTOM INSTAGRAM EFFECT/FILTER | bts of my instagram effect
 
-# Belajar Desain
-Tf_TiD_4MDU // 100% FILTER TEXT AUTHENTIC INSTAGRAM SPARKAR GRATIS TANPA LAPTOP
-d-5FMIfHP0s // 100% FILTER LUTH INSTAGRAM SPARKAR GRATIS TANPA LAPTOP
-68eYuQTB4QM // 100% FILTER SERASA LIBURAN INSTAGRAM SPARKAR GRATIS TANPA LAPTOP
-EM-nFM9DXbY // 100% FILTER LOVE TERBANG INSTAGRAM SPARKAR GRATIS TANPA LAPTOP
-VmW2rBO0bdw // 100% FILTER INSTAGRAM LUTH and DUST SPARKAR GRATIS TANPA LAPTOP
-3HRTcvR21Vw // 100% FILTER INSTAGRAM NAEK ANGKOT SPARKAR GRATIS TANPA LAPTOP
-LgBV-ByFofo // 100% FILTER INSTAGRAM REBAHAN SPARKAR GRATIS TANPA LAPTOP
-7hU9fvDHfKs // 100% FILTER INSTAGRAM UNICORN SPARKAR GRATIS TANPA LAPTOP
-WIuPHvOtuYY // 100% FILTER INSTAGRAM SPONSBOB SPARKAR GRATIS TANPA LAPTOP
-x7HGZgJEjD0 // 100% FILTER INSTAGRAM softlens biru SPARKAR GRATIS TANPA LAPTOP
-
 # Ben Marriott
 _B0G1jIaxMA // Create an Instagram Filter | Beginner Spark AR Tutorial
 xSgRgcNqzfU // Create Your Own Instagram Filter - Spark AR Studio beginner tutorial | HUD
@@ -215,7 +203,7 @@ g7rW5tPet-s // Spark AR Learning Part 3: 3D primitive adding texture (Donut)
 qR_0kj_Q34E // Spark AR Learning Part 4: Particle Emitter & Actions
 hp2Y-HZjDtY // Spark AR Learning Part 5: Lighting, Actions, 360 image & space helmet
 YNJAEd9leYM // Spark AR Learning Part 6: Tap to Open
-WBfWfh4X7Cc // Eyelid tracking with Spark AR a quick 5 minute (ish) tutorial
+WBfWfh4X7Cc // Spark AR Eyelid tracking, quick 5 minute (ish) tutorial
 NaChLFGwPgw // Spark AR Adding Sound a quick 5 minute (ish) guide
 
 # bla tadej
@@ -348,14 +336,14 @@ GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
 # Colm Hayden
 hPV6cnZM0xw // Aesthetic Spark AR face filter speed paint
 
+# Coolartfeed
+GH1AGZ90KcI // CONVIERTE PRESETS DE LIGHTROOM EN UN FILTRO DE INSTAGRAM
+
 # Cornwall Museums Partnership
 ALvl9zECpRM // Create a Face Filter in Five Minutes
 
 # Corridor Crew
 GUNl32dzslc // How To Make a Custom Instagram Face Filter
-
-# Crazy Play
-rnPA0mnbw5o // Spark AR tutorial for beginners
 
 # Cyrix Ninja
 OYNcTojG-mQ // Sci-Fi Portal using SparkAR Studio
@@ -433,6 +421,9 @@ PhpzM7EgyxI // INSTAGRAM FILTER IN 5 MINUTES SPARK AR
 0B7FHZ6geMQ // Download + Open Spark AR - EAZY IG Filters
 NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
 48TwgAXNr-0 // SparkAR - SIMPLE Face Mesh Tutorial for Instagram Filters
+
+# Eric Lou
+YgXaX2gbros // Whack A Mole AR (SparkAR)
 
 # Estefannie Explains It All
 LDbmH8pyjjY // MAKE YOUR OWN INSTAGRAM FILTER IN 10 MINUTES // LEARN SOMETHING
@@ -550,7 +541,7 @@ uHWMv3yboeM // how to create an ar tattoo face filter / spark ar studio tutorial
 iJe0A35Abro // Instagram Filter upload tutorial (Spark AR)
 
 # Girish Kario
-SsasjFJvlPo // Turn your Lightroom Presets into Instagram Filters!
+SsasjFJvlPo // Turn your LIGHTROOM PRESETS into INSTAGRAM FILTERS in 10 minutes!
 
 # GOWAAA official
 5mxg9FUODV8 // Spark Swizzle Hack #3 with Kavin
@@ -625,9 +616,6 @@ F7hZGCIiePc // make ig filter with me!! ; bratz theme (+ some tutorial for begin
 # It's Emma
 XaLXjR2y1gk // How to Create Your OWN Instagram Filter
 
-# Jade Reyes
-GH1AGZ90KcI // CONVIERTE PRESETS DE LIGHTROOM EN UN FILTRO DE INSTAGRAM
-
 # JassLyf
 zcKQ4FivtpM // How To Make Your Own Instagram Filters | Spark AR Filters
 
@@ -648,7 +636,7 @@ BnChXa5YLO4 // Spark AR clipping issue [solution] - when background and person o
 E4BX9xK8UrA // Spark AR Tutorial
 
 # Jhon Mark Perez
-oDKdPFP2X7Y // TUTORIAL PANO GUMAWA NG FILTERS INSTAGRAM 😍❤️ |Jhon Mark Perez
+oDKdPFP2X7Y // TUTORIAL PANO GUMAWA NG FILTERS INSTAGRAM 😍❤️ || Jhon Mark Perez
 
 # Jia Chen
 Nz-kIR8RXto // CS final: Instagram 3D object Interactions via Spark AR
@@ -763,16 +751,13 @@ uxgZPLa2qFc // Jumper Game Project Template Tips : disable LIVE_UPDATE before pu
 -p67HyVdcPE // Spark AR - Film Stripe Project (v92)
 a8r5N8B03ww // Spark AR - MouthBlock & MouthScript
 
-# Kendra Silva
+# Kendra Mishell
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
 ZoXfLHDxv9U // SPARK AR TUTORIAL - Eye Contacts/Color/Instagram Filter
 
 # Kevin Kripper
-fKkFncKO8R0 // vsynth - spark ar studio 4219
-QgA5q4nFT7c // Vsynth Lockdown Livestream 2 - Vsynth for Spark
-
-# Ksenia Tomi
-7Bfs3YfHpJU // HOW TO MAKE INSTAGRAM FILTER IN 3 MINUTES/ WORK WITH SKIN (Spark AR)
+fKkFncKO8R0 // Vsynth - Spark Ar Studio - Patch Library Reel
+QgA5q4nFT7c // Vsynth Lockdown 2 - Vsynth for Spark
 
 # laily rosli
 9RQi9PkQ5X0 // Created my own face filter | STOP!
@@ -824,9 +809,6 @@ k_pJz1bJoX4 // Spark AR: How to create a Prism Camera Filter.
 TlpE6EKrbEA // Spark AR: How to create a Color Palette Camera Filter.
 pSieIb1BUWo // Spark AR: 15 LUTs for Instagram and Facebook effects.
 
-# Lou Eric
-YgXaX2gbros // Whack A Mole AR (SparkAR)
-
 # lucas klubb
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
 
@@ -877,7 +859,7 @@ efJa-kuQ72s // Graduation Hat on PIXLR | Basic Web-based "Photoshop" Tutorial
 FbEQj1ip7_4 // Save Yourself 4 Hours - 3 Tips for Making Your First IG Face Filter
 
 # Mahesh Parab
-rR_9IEvHsoY // ANIMATION CLIP MASKING TEXT IN CSS | Mahesh Parab
+rR_9IEvHsoY // Animation Clip Masking text in CSS | Mahesh Parab
 NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter effect | Spark AR | Mahesh Parab
 
 # Maliner Esluzar
@@ -1004,14 +986,14 @@ lRZdrgAg8ig // Alternative Problem Solve Policy 2.4 SPARK AR : PNG image text | 
 # MozillaTN
 SB2ht7x1MuI // FOSSWeeks 2020 - Week 5 Webinar | Build your own Instagram AR Filters
 
-# MP Mehul
+# MP Editz
 CarkmYxBj-o // How to Make Instagram Filters in spark ar software
 
 # Mr Arun
 LKHCrMqFhq4 // HOW TO MAKE INSTAGRAM FILTERS USING LIGHTROOM PRESETS | SPARK AR STUDIO | HINDI | 2020
 Kla-mMgjrMU // HOW TO MAKE MULTIPLE INSTAGRAM FILTERS OPTIONS PICKERS | USING LIGHTROOM PRESETS | SPARK AR | 2020
 07mEICHSVj8 // WHY YOUR SPARK AR FILTER LOOK LIKE THIS? HOW TO FIX THIS | WHY YOUR LUTS FAILES
-o9m4wjRe4L0 // CREATE INSTAGRAM FILTER | MOOD OF THE DAY | DYNAMIC TEXT | TAP TO CHANGE | DAY OF THE WEEK | HINDI
+o9m4wjRe4L0 // HOW TO CREATE INSTAGRAM FILTER | DYNAMIC TEXT | TAP TO CHANGE | DAY OF THE WEEK | HINDI
 
 # Mr Nubyan
 8qmD-LPlIMw // How To Make A Corona Mask Face Filter | SPARK AR | Facebook & Instagram | Augmented Reality
@@ -1043,12 +1025,6 @@ yBZAW99Bupw // Spark AR tutorial. Basic filter tutorial
 
 # Nathaniel Waite
 ndMFX7N545I // How to create your own instagram filter with spark Ar Studio
-
-# Nayla Datau•08
-guI8juIX_po // cara membuat filter instagram Dengan 100% mudahhh | PART 1
-88SQnsjPRCw // preset spark ar......4 file face mask
-YSf_3xZ39Oo // Cara Membuat Filter Instagram Dengan Menggunakan Hp Tanpa Leptop 100% | By Nayla
-qR9BWyhBLvo // Cara Membuat Font Aesthetic Di Iphone || TUTORIAL BY NAYLA
 
 # Near Future Marketing
 400EOPlMafA // Virtual Event: Instagram Augmented Reality for Beginners 📸
@@ -1104,6 +1080,9 @@ KI6QXOiJ5ew // How to Create Instagram Filter | Designing SPARK AR   Quiz Tutori
 # NovelTech Media
 1kZjkOvNa7c // Make Your Own Instagram Story Filters Using Spark AR
 
+# Oksana Korol
+7Bfs3YfHpJU // HOW TO MAKE INSTAGRAM FILTER IN 3 MINUTES/ WORK WITH SKIN (Spark AR)
+
 # Oliver Lardner
 Ii5xM6TeVWQ // Selective Colour Video LUT (good for for Spark AR)
 
@@ -1126,7 +1105,7 @@ EfL4YUaMptk // Spark AR - Eye Colour + LUTs
 vL591xZvb44 // Create Sunglass Filter for Instagram | Beginner Spark AR Tutorial
 
 # ozkar
--H7uuxZuyz8 // $15 Instagram Filter Vs. $65 Instagram Filter | Is It Worth It?
+-H7uuxZuyz8 // I Paid 3 Fiverr Designers For My Own Instagram Filter
 
 # Patricia TV
 Oiv5nhr8toQ // HOW I MAKE MY OWN IG FILTER ( PHILIPPINES ) | Patricia Teodoro
@@ -1136,13 +1115,13 @@ dRgntzWEl_o // HOW TO UPLOAD YOUR FILTER TO INSTAGRAM
 BAyPmS9e8O8 // HOW TO MAKE AR FILTERS FOR INSTAGRAM USING SPARK AR AND PHOTOSHOP [EASY TUTORIAL]
 DEYelJLSBw8 // HOW TO MAKE INSTAGRAM COLOUR FITERS USING SPARK AR AND ADOBE LIGHTROOM [EASY TUTORIAL]
 
-# Pedro Afonso Design
-90q2XDx3BaM // Prince - Clash of Royale - Spark AR Timelapse
-
 # Penguin Tech
 IVXKkBbGqpM // AR VR using Spark AR Framework  - Getting Started with AR & VR
 R6LUYbhffLs // How to start with AR VR  Framework -Develop  Project from scratch
 78pe0ugVMrI // Drone simulation in AR Spark | AR studio | AR game logic | AR VR Animation
+
+# Peter /pedroafonsodesign
+90q2XDx3BaM // Prince - Clash of Royale - Spark AR Timelapse
 
 # Pinbout
 B1ZSEVb5OIU // Spark AR with Wyatt :)
@@ -1234,12 +1213,6 @@ S0hp5mF0EYY // SparkAR Render Passes and what does it do ? ( Scene ,shader etc..
 MlSIa-Ady20 // Spark AR  Freeze Frame - how to freeze the frame ? (delay frame )|| Rbkavin
 
 # Real World Reality
-I1cKXnnCOpM // Create Face Filter | Spark AR Tutorials for beginners (Nepali Language ) [Part 2]
-TcaWld6eYoA // Create Face Filter | Spark AR Tutorials for beginners (Nepali Language ) [Part -3]
-IKszIXrPnk0 // Create Face Filter | Face Extraction in Spark AR (Nepali Language ) [Part -1]
-CwNQ6hn-zCE // Create Face Filter | Adding audio and instruction in Spark AR (Nepali Language ) [Part -2]
-VloKY9LIAsI // Audio reactive filter using Audio analyzer V89 tutorial for beginners (Nepali Language)
-S3h_prLLvcc // Spark AR: How to create LUTs in Photoshop for Instagram filters(Nepali Language)
 V9XGcRkQfGU // Upload Filter to Instagram | How to  publish Instagram effects without issues  (English)
 GGNw9P1RsWs // Render Pass and Delay Frame in Instagram Filter | V92
 0c1Ex8zpypI // Free Spark AR Project : Photo Booth Filter
@@ -1280,7 +1253,6 @@ V_mXLdkfB9I // Spark AR Studio - Normal Map Tutorial : How To Make A Normal Map 
 AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spark AR  ?
 1cEAhjxp-gI // How To Make Gold ? (UPDATE) - Spark AR Studio
 w26zn6zs_Pk // How To Add Interactions ? (Switch) - Spark AR Studio
--_QFHqSY4tI // Media Gallery et Gallery Texture - Spark AR Studio Tutoriel en Français
 JcqgTDPY-TI // Use your Gallery in your filters ! in Spark AR Studio
 
 # Rod Antunes
@@ -1314,9 +1286,6 @@ xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasse
 # Sansriti Mishra
 BoajrJ_bU4Q // How To Convert Lightroom Preset To Instagram Story Filter + Basics of Spark AR | Instagram Filter
 
-# sc infofu
-pPCvm1dMjnU // Make your own Instagram and Facebook filters  | using spark AR studio| For Beginners
-
 # Science Museum of Virginia
 5-7ZrrigsV4 // Maker Mindset: SparkAR Tutorial
 
@@ -1328,6 +1297,9 @@ bs9zJ16OcB0 // How To Start With Augment Reality Explained In 10 MINUTES!|spark 
 
 # Shuripusta ILK
 0i-6OSxfWWI // AR Filters for Instagram - Breakdown - TimeLapse
+
+# Siblings in tech
+TyCVxYqV0Xc // Create your own Instagram filter 👩‍💻
 
 # Sid Farmer
 iDQm2jA4uqE // Green Screen Filter Effect (Easy) | Instagram & Facebook | Spark AR Tutorial
@@ -1439,12 +1411,12 @@ IFs2mdyh8PE // Lesson 3  -Tap to change mask. Spark AR Tutorials. How to change 
 D8cPaegWbB0 // Spark AR Lut + Retouch Filtros Instagram
 
 # Spark AR Tutorial & Asset
-gfi1Z6CGxJ0 // Instagram Filter With Your LUT in 2 Min With Spark AR Studio
+gfi1Z6CGxJ0 // Now you can make Instagram Filter in 2 Min With Spark AR Studio
 WCtEYaOfaao // Spark AR Face Light Filter Free Project File
 CsA8m0t35Bo // Dark Netflix TV Series Spark AR Free Project
 vKLF3rrrc-U // Floating Digital Screen Spark AR Free Project
-ZWd-KXvgJF0 // Spark AR Real Time Simulation Webm Video Pack
-CKkuf2WtZ9o // Spark AR Free Project Split Face Filter
+ZWd-KXvgJF0 // Spark AR  Free Real Time Simulation Webm Video Pack
+CKkuf2WtZ9o // Free Spark AR  Project Split Face Filter
 I0-cKFiPvm0 // Spark AR Free Project Polaroid Frame Freeze Filter
 8OgwJCqZkms // Free Spark AR Studio Project : Glitch Filter
 
@@ -1461,7 +1433,7 @@ mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
 -aqf1Pto4tk // making an instagram face filter
 
 # Steffie Harner
-6F6qqEQf2QA // Spark AR: Getting Started with Scripting in Javascript - Space Donut | Steffie Harner
+6F6qqEQf2QA // Spark AR: Beginner Javascript Animations for IG Filters | Steffie Harner
 
 # Steven Van
 qz0cuIAHras // How to Make Instagram AR Filters!
@@ -1484,8 +1456,11 @@ FBJ_5cIZhAM // How To Make Guess the Gibberish And More Instagram Filters
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
 fUqthvjuxH8 // Grey Beard Hero - Instagram Filter (SparkAR)
 
+# Techno Gamerz
+pPCvm1dMjnU // Make your own Instagram and Facebook filters  | using spark AR studio| For Beginners
+
 # Techno Tamizha
-n7JNOy7sRDA // Multi Face Chaos | Spark AR Filter Demo | Multi Frame Video Delay
+n7JNOy7sRDA // Multi Face Chaos | Spark AR Filter Demo | Multi Frame Video Delay | Instagram
 
 # TechzClub - technology beyond Us!
 39W4lqW9L2Q // How to Create Your First AR Filter for Instagram or Facebook using Spark AR Studio?
@@ -1502,11 +1477,8 @@ CSL6mQz5430 // Make a Spark-AR  Instagram Filter Retro4U (ENG TUTORIAL)
 # TheCreatorToolkit
 pz7zlTipqrg // "Which Are You" Instagram Filter Tutorial IN UNDER 10 MINUTES (Easiest Method)
 
-# TheDiazSiblings
-TyCVxYqV0Xc // Create your own Instagram filter 👩‍💻
-
 # TheKrishnendu
-r1oYxAASiAU // ইনস্টাগ্রামে নিজের ফিল্টার || INSTAGRAM STORY FILTER TUTORIAL(Spark AR)|| TheKrishnendu
+r1oYxAASiAU // ইনস্টাগ্রামে নিজের ফিল্টার || Instagram Story Filter Tutorial(Spark AR)|| TheKrishnendu
 
 # Third Aurora
 Vuv6kB34t9c // Setup & Fixing Spark AR Audio | Third Aurora Augmented Reality Tech Company
@@ -1652,9 +1624,6 @@ A-eQhDMW4qg // Fire VFX for Spark AR
 # Yegor Ryabtsov
 eaoNIArRHR4 // Spark AR Tutorial - Animating Object Reveal with Transparency
 
-# yippee yap
-OudPTUngOYY // Spark AR Tutorial for Beginner - Create your own INS effect
-
 # Zafri Ahmad
 x1hNDJW-qWI // how to own instagram effect ? | PicsArt + Spark Ar 🔥
 -cZjvOmmcFk // Make Preset Instagram Effect In Easiest Way !✨ [ zafri ]
@@ -1677,6 +1646,9 @@ qL2cR_6gieE // Spark AR game tutorial - controlled by head movement PART 2
 
 # רון אבות
 FcPX2AGR7Io // Spark AR studio tutorial: Create 2D stickers
+
+# イビYippee
+OudPTUngOYY // Spark AR Tutorial for Beginner - Create your own INS effect
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74

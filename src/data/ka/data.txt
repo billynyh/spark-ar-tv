@@ -2,4 +2,4 @@
 MCXbpEfnxns // როგორ შევქმნათ ფილტრი
 
 # other duta
-QCpUXDS9Css // როგორ გავაკეთოთ ფილტრი ინსტაგრამზე
+QCpUXDS9Css // როგორ შევქმნათ ფილტრი
