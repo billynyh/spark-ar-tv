@@ -172,3 +172,12 @@ CwNQ6hn-zCE // Create Face Filter | Adding audio and instruction in Spark AR (Ne
 VloKY9LIAsI // Audio reactive filter using Audio analyzer V89 tutorial for beginners (Nepali Language)
 S3h_prLLvcc // Spark AR: How to create LUTs in Photoshop for Instagram filters(Nepali Language)
 -_QFHqSY4tI // Media Gallery et Gallery Texture - Spark AR Studio Tutoriel en Français
+8m15mT6pfrI // #4 C++ Tutorials | Conditional Statements
+K7uAFFNskvs // #5 C++ Tutorials | Loops
+B4Bhy6xprAs // #6 C++ Tutorials | Arrays
+_T8xertw_Ng // #7 C++ Tutorials | String Functions
+ZDtLkzjOArw // #8 C++ Tutorials | User Defined Functions
+qDjD6SeUr_M // #9 C++ Tutorials | Control Statements
+pnsQYukjOic // #10 C++ Tutorials | Pointers
+GZ9k8KL1iG0 // #11 C++ Tutorials | Structures
+
