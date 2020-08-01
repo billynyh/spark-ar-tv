@@ -91,6 +91,7 @@ TsLFtNBzRWo // Video Delay, Creating clone | Spark Ar v92 render passes
 LoZJvd8siQ4 // Create LEGO shader! | Spark AR tutorial pixelate
 EWh7NmtggU4 // Apply any effect to 3D OBJECT || Spark AR + TUTORIAL
 PY-rDbl369I // Person delay, 1000 Hands Dance effect || Spark AR quick TUTORIAL
+0D6SDT-wZM4 // Make realistic shadow || Spark AR tutorial render pass
 
 # Andrew Fennell
 yIHY801sNmE // How to turn your LIGHTROOM PRESETS into INSTAGRAM STORY FILTERS with Spark AR Studio | Tutorial
@@ -750,6 +751,7 @@ X79vGPzqdB8 // Jumper Game Project Template - Replace assets Demo
 uxgZPLa2qFc // Jumper Game Project Template Tips : disable LIVE_UPDATE before publish
 -p67HyVdcPE // Spark AR - Film Stripe Project (v92)
 a8r5N8B03ww // Spark AR - MouthBlock & MouthScript
+57qJAkr3uW0 // Spark AR - 6 Digits ScoreBlock
 
 # Kendra Mishell
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -769,9 +771,6 @@ EFuJl_SIuGA // WHY YOU SHOULD CREATE YOUR OWN INSTAGRAM FILTER
 
 # LATE_FX
 aiG3bCK15XY // SPARK AR DESIGN  LIVE WORKFLOW V2 : DBZ MEDICAL MACHINE
-
-# Le Xuan
-Ti79iMIsz4M // How to make an instagramm filter!
 
 # Lejla Fox
 Qaa8xhboAKo // Lightroom Presets to Instagram Story Filters|Spark AR tutorial in 10 easy steps for only 10 minutes!
@@ -812,6 +811,7 @@ k_pJz1bJoX4 // Spark AR: How to create a Prism Camera Filter.
 TlpE6EKrbEA // Spark AR: How to create a Color Palette Camera Filter.
 pSieIb1BUWo // Spark AR: 15 LUTs for Instagram and Facebook effects.
 nhPwj8gI2p4 // Spark AR: Vintage Camera Filter with 5 LUTs and Timestamp.
+kI0VeebLpRY // Spark AR: Prism Camera Filter.
 
 # lucas klubb
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
@@ -868,6 +868,9 @@ NCIGgdw5aUg // Create Facebook and Instagram Indian flag face mesh filter effect
 
 # Maliner Esluzar
 tyOTirviS-M // HOW TO CREATE YOUR OWN INSTAGRAM FILTER | Spark AR Studio
+
+# Manasi Gude
+pH8t7-20_0M // How to make your own instagram filter with Spark AR // Manasi Gude
 
 # Manav Sharma
 j4NEq_jGVOk // Convert Lightroom Presets to Instagram Filters | Spark AR | Instagram Filters | Spark AR Beginner
@@ -1014,6 +1017,7 @@ ikDRP04CTgo // KiraKira + Smoothing Skin + LUT filter in Spark AR // Glitter Spa
 HJUtSDQeoKE // HOW TO ADD DUST AND SCRATCHES TO INSTA FILTER IN SPARK AR//RETRO CAMERA EFFECT WITH CONTROL SLIDER
 BPpdqWNydIM // Realistic highlighter in Spark AR/ Easy Tutorial
 Ncl5p0wInhc // Realistic Lip Gloss/Lipstick in Spark AR
+Z-xUVrG9NpE // CREATE EYELASHES IN SPARK AR IN 1 MINUTE/ EASY AND FAST SPARK AR TUTORIAL
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT

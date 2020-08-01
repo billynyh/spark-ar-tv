@@ -37,6 +37,7 @@ ZTR79dOzqFo // Como publicar um filtro no INSTAGRAM e enviar para análise? Spar
 mSl8pYh914Q // Filtro de Pétalas de Rosas - Spark Ar Studio
 RECYcRK-hFw // Template com 20 Cílios para seu filtro no Spark AR Studio
 o0PxwBOKmtQ // PACK COM 20 MODELOS DE DELINEADOS para seu filtro do INSTAGRAM e FACEBOOK com Spark AR Studio
+QK14ylZLCfQ // TEMPLATE COM 20 DE DELINEADOS para seu filtro do INSTAGRAM e FACEBOOK com Spark AR Studio
 
 # Bruno Wendricky
 C050Gcnpujo // Como colocar um filtro na conta do cliente? | Spark AR
@@ -123,6 +124,9 @@ RLpr8VVBxRI // COMO FAZER FILTRO NO INSTAGRAM STORIES - Spark AR Studio
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
 uRWFeTWDg6U // Spark AR Studio - Partículas Vol. I
 E0sawd2mu8s // Spark AR Studio - Volumetric Light
+
+# Gabriel Santos
+jvkdJ13cW1w // Criando filtro para o Instagram com Spark AR
 
 # Gal edição e foto
 JkYprPrnsJI // 😱COMO CRIAR  FILTRO NO INSTAGRAM FRASE (Spark + Paint.Net) Muito fácil.
@@ -540,6 +544,7 @@ jc1x8thGkfE // Texturas Animadas bem fácil | Shaders - Spark Ar
 xniNtazlqbY // Filtro de Joguinho de frases ou imagem com música pra cada opção - Spark Ar
 fsn0rk0Awtg // Requisitos Mínimos para rodar o spark no seu PC/ Por que ta travando? - Spark Ar
 znG-tC01oC4 // O que é o render pass no Spark Ar? / Introdução ao render pass no Spark Ar Studio
+vKbSpgMdcjc // Distorção de texturas, tutorial completo - Spark Ar
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
