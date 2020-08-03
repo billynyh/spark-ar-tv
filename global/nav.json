@@ -470,7 +470,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCI7pSUi_CX5ElJGfOl6n4cA.html",
       "thumbnail_url": "https://i.ytimg.com/vi/Qh-Y9k8YaVw/hqdefault.jpg",
       "title": "Channel: Artem Maiko",
-      "meta1": "Num videos: 57",
+      "meta1": "Num videos: 58",
       "meta2": null
     },
     {
@@ -763,10 +763,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-03.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/ACdm82z6CH4/hqdefault.jpg",
+      "title": "Week 2020-08-03",
+      "meta1": "Num videos: 1",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-07-27.html",
       "thumbnail_url": "https://i.ytimg.com/vi/EEcxAdzVo5s/hqdefault.jpg",
       "title": "Week 2020-07-27",
-      "meta1": "Num videos: 117",
+      "meta1": "Num videos: 134",
       "meta2": null
     },
     {
@@ -795,13 +802,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/EW20JLWKszg/hqdefault.jpg",
       "title": "Week 2020-06-29",
       "meta1": "Num videos: 152",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-06-22.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/hJUP4yB0wuU/hqdefault.jpg",
-      "title": "Week 2020-06-22",
-      "meta1": "Num videos: 114",
       "meta2": null
     }
   ]

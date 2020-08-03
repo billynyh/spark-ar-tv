@@ -100,6 +100,9 @@ lJZUAZaXV3A // APRENDE A HACER FILTROS DE COLOR PARA INSTAGRAM FÁCIL CON LIGHTR
 # Colorcloud
 NwAA7D5sujY // How to submit - Spark AR Hub
 
+# Coti Pagliettini
+KQoCxal2gD8 // Los MEJORES ojos CLAROS en SPARK AR
+
 # Cristian Cedena
 701ZWQYqMK4 // CURSO SPARK AR STUDIO | Interfaz #2
 pEEWOdP3ohU // CURSO SPARK AR STUDIO | Cómo funciona #1
@@ -120,6 +123,7 @@ zyppPM1X-zo // CURSO SPARK AR STUDIO | Crear textura plástica #13
 Rfw4LxODVJo // CURSO SPARK AR STUDIO | Iris Tracking animados #14
 d3UpiHlMyrk // CURSO SPARK AR STUDIO | Fechas y hora en tiempo real #15
 ECo2AiXXDK4 // CURSO SPARK AR STUDIO | Filtros de color #16
+5hzn2z1Uw00 // CURSO SPARK AR STUDIO | Deformar rostros o caras #16
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -229,6 +233,7 @@ H3pfBr-6Avg // Filtro nubes en movimiento (Particle System) SPARK AR
 NZ2Xp26V_9I // FILTRO de DIBUJA CON LA NARIZ (Spark AR)
 AhvJ9Oh_r4o // CREAR FILTRO "Cualquier imagen de tu galeria" (Spark AR)
 EKDAbIzh1jg // FILTRO CON MARCO (Spark AR)
+9zBkJzvgQhg // FILTRO DUPLICAR CARAS (SPARK AR)
 
 # Emi Castro
 rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)
