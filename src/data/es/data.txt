@@ -88,6 +88,9 @@ g676xRcn1rU // Cómo CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM
 -SSm_JGPo3s // COMO CREAR  los mejores FILTROS O MÁSCARAS para INSTAGRAM paso a paso //SPARK AR ESPAÑOL// CELIWHAT2
 SsflPRQ2TXg // Como poner LABIOS  grandes en los FILTROS DE INSTAGRAM / Tutorial 2 SPARKAR/ Esculpir cara filtro.
 
+# Centro de Cultura Digital
+_45kisz4yKs // Rigging de objetos 3D para realidad aumentada.
+
 # cifo photo
 0a9_Tr61nXQ // SPARK AR AÑADIR ELEMENTO
 g3SJRCBRFSg // Spark AR AÑADIR SCREEN TAP
@@ -96,6 +99,7 @@ f_xomb7TZ5c // Spark AR: AÑADIR INSTRUCCIÓN "TOCA PARA CAMBIAR"
 # Color Space
 OVOZOnhxNd4 // COMO PUBLICAR FILTROS PARA INSTAGRAM EN SPARK - Filtros para instagram.
 lJZUAZaXV3A // APRENDE A HACER FILTROS DE COLOR PARA INSTAGRAM FÁCIL CON LIGHTROOM
+rM_VP1RsqAU // CÓMO PONER TEXTO EN TUS FILTROS DE INSTAGRAM - Fecha / Día / Hora
 
 # Colorcloud
 NwAA7D5sujY // How to submit - Spark AR Hub
@@ -311,6 +315,7 @@ W0BttZ83mdk // Spark AR Render Pass Freeze - Clone Effect - Tiktok style
 kqVtKVaxzLk // Spark AR - Face Extraction into image sequence | With Blender (EN Tutorial)
 KcwPq9cKdMY // Spark AR Tutorial - Audio Tips | Microphone and M4A file (EN Captions)
 EEcxAdzVo5s // Photo to 3d mesh to work with Spark AR & Blender | PIFuHD Project (EN Captions)
+rvZS3FdnMsA // Photo to animated 3d mesh |  Blender ➡️ Mixamo ➡️ Spark AR | PIFuHD 🧍 (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -420,6 +425,7 @@ DWvzN-eifw8 // ¿Cómo subir un Filtro a Instagram desde Spark AR?
 
 # La Jire
 44nMo2mxNEk // Cómo CREAR tu propio FILTRO de INSTAGRAM paso a paso || SPARK AR Tutorial || Vídeo 1
+mMo7JxIwtNg // Cómo PREVISUALIZAR tu propio EFECTO de INSTAGRAM antes de subirlo ANDROID e iOS
 
 # Laura Alvarez
 Al-DMSSlGY4 // Tutorial RenderPass básico. Filtro de instagram.  Full Project - Español
