@@ -1524,6 +1524,9 @@ hkftGfQGtLk // Spark AR cat tutorial: Interactive Portal Room
 # The Freelance Life
 IZpe3gKlrtQ // Course Trailer: Spark AR for Surface Pattern Designers -How to Create Filters for Instastories
 
+# The Kathakar
+9Zp16nENkPc // Turn your photoshop PRESETS into Instagram FILTERS | Tutorial | The Kathakar
+
 # thebandanaboi
 ryzK4DNMR-s // Spark Ar studio- Download project files and templates for Instagram/Facebook camera effects.
 ND1F4uOmCTo // Filter creation Services advertisement by Palash Prabhakar (@thebandanaboi) SparkAr Creator
@@ -1610,6 +1613,7 @@ heBXeDenDzA // Using the Mix patch - Spark AR tutorial
 vFe3hZBiT9U // Using the SDF Rectangle patch - Spark AR tutorial
 30CJQnZiop4 // Using the SDF Union, Intersect and Difference patches - Spark AR tutorial
 MXfQyHIwp38 // Mixing shapes using the SDF mix patch - Spark AR tutorial
+Mp452V1Ablo // Using the Scene Render Pass patch
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
