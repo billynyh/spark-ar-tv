@@ -621,6 +621,8 @@ MwEM6yk5Q1g // Spark AR: Random filter for Instagram
 SzpGSAaXvWM // Spark AR: filter with squares for Instagram
 lle6L8ncaTM // Spark AR: 10 freckles textures + warm preset (LUT)
 zemYG2voSGU // Spark AR: Filter "Sketches" for Instagram + b&w preset (LUT)
+pgQmeojwfTw // Spark AR: Filter with flowers and freckles + preset for Instagram
+mUGzs8jUgao // Spark AR: Palette filter for Instagram + preset (LUT)
 
 # Insomnia Studio
 mys2jGqiLfs // Cliff Jumper -  SparkAR Game Template
@@ -636,6 +638,9 @@ XaLXjR2y1gk // How to Create Your OWN Instagram Filter
 
 # JassLyf
 zcKQ4FivtpM // How To Make Your Own Instagram Filters | Spark AR Filters
+
+# Jatin Bhardwaj
+hR-HpiZzpiE // Spark AR - How to make a 360 sphere portal | Augmented Reality
 
 # Jayasurya Aasaithambi
 yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
@@ -832,6 +837,7 @@ pSieIb1BUWo // Spark AR: 15 LUTs for Instagram and Facebook effects.
 nhPwj8gI2p4 // Spark AR: Vintage Camera Filter with 5 LUTs and Timestamp.
 kI0VeebLpRY // Spark AR: Prism Camera Filter.
 4NU61sJuOvo // Spark AR: 25 LUTs for Instagram and Facebook Effects.
+_VT0io3Dq3E // Spark AR: How to use the Native UI Picker.
 
 # lucas klubb
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
@@ -1641,6 +1647,9 @@ JuIW5s1w06c // facebook ar101 final Assignment
 
 # Verizon
 Apxq1zMtl1Q // How to Create Custom Filters for Instagram | Techxperts | Verizon
+
+# Videl Salva
+2uCNDt54tF8 // CREATE YOUR OWN INSTAGRAM FILTER
 
 # Vidushi Agarwal
 kSSFQraSvSE // Create trippy and glitch filters on Instagram in 5 min(Description contains tutorials link)

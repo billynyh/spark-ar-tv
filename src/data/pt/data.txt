@@ -34,6 +34,7 @@ HoN5v-RPu9o // Criando um filtro de perguntas no instagram 📱(Spark AR Tutoria
 
 # BOZZ Company
 yauzSpTlD-g // TEMPLATE COM 20 DELINEADOS para seu filtro do INSTAGRAM e FACEBOOK com Spark AR Studio
+alapSZ-aVsA // TEMPLATE COM 10 SOMBRAS para seu filtro do INSTAGRAM e FACEBOOK com Spark AR Studio
 iaw7JFlcwRg // Como ALTERAR O TAMANHO DOS OLHOS no INSTAGRAM e FACEBOOK com Spark AR Studio
 aX5_mjtONsw // Como APROVAR TRANSFORMAÇÕES DE NARIZ no INSTAGRAM e FACEBOOK com Spark AR Studio
 B8Nvvoqp8rU // Como APROVAR TRANSFORMAÇÕES DE BOCA no INSTAGRAM e FACEBOOK com Spark AR Studio
@@ -278,6 +279,9 @@ M6uXpoiIr3c // Como fazer um filtro no Instagram (filtro LUT) - Spark Ar Tutoria
 F5Rwf1J5l84 // Como faço uma moldura simples no Spark ar
 
 # O Fábio Queiroz
+z7HaaRWmHHU // FUNDAMENTOS DO 3D PARA CRIADORES DE FILTRO - (PARTE 1)
+Tw83_riaE8s // FUNDAMENTOS DO PIERCING PARA CRIADORES DE MACACO - (PARTE 2)
+NBcBzyYHdCA // Spark Ar Criativo! - Curso Completo de Criação de Filtros para Instagram!
 AUX6K7rBTS0 // Aprenda Como Criar Um Filtro de Maquiagem Para o Seu Instagram! (MUITO FÁCIL).
 
 # Osmar Colla
@@ -300,6 +304,7 @@ LlmhD8J_aws // CRIAÇÃO DE FILTRO 3D NO INSTAGRAM | Tutorial com Spark AR
 
 # Professor Galerinha
 mqiSsexz_7M // Aula 1 do curso de Spark AR da escola Dsigner Treinamentos.
+9Nl9EnQ5FiE // Trailer do curso de Spark AR
 
 # Professor Youtuber
 9yG2mww8Vao // maquiagem CÍLIOS POSTIÇO no Spark Ar
@@ -562,6 +567,7 @@ znG-tC01oC4 // O que é o render pass no Spark Ar? / Introdução ao render pass
 vKbSpgMdcjc // Distorção de texturas, tutorial completo - Spark Ar
 ut5z8uBd1Q0 // Como resolver bug do facemesh usando occluder com retouch / facemesh mask - Spark Ar Studio
 wJ0kGijB5Go // Como por brincos no seu filtro com gambiarra - Spark Ar
+tXopPPZ7IOI // Filtros com deformação voltaram, saiba mais! - Spark Ar Studio
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
