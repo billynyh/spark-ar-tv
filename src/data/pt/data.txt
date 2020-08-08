@@ -568,6 +568,7 @@ vKbSpgMdcjc // Distorção de texturas, tutorial completo - Spark Ar
 ut5z8uBd1Q0 // Como resolver bug do facemesh usando occluder com retouch / facemesh mask - Spark Ar Studio
 wJ0kGijB5Go // Como por brincos no seu filtro com gambiarra - Spark Ar
 tXopPPZ7IOI // Filtros com deformação voltaram, saiba mais! - Spark Ar Studio
+6bE7YxYlmBc // Filtro com borboletas animadas muito fácil - Spark Ar
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
