@@ -652,6 +652,7 @@ hR-HpiZzpiE // Spark AR - How to make a 360 sphere portal | Augmented Reality
 twfpQiF0JhE // Change background Using Spark AR Tutorial | Augmented Reality | (download link in description)
 wKwvxKprXAI // Lip gloss spark ar tutorial
 PML1MbyK-GM // Eyelashes & Eyeliner Spark AR filter tutorial | Augmented Reality
+GzeZSfo23Fo // Nose Ring Nose Piercing AR Filter | Tutorial Spark AR | (Download link in description)
 
 # Jayasurya Aasaithambi
 yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
@@ -1100,6 +1101,7 @@ e7dkGIE48oE // Spark AR Personality Quiz: "This-Or-That" Filter Game with Weight
 jB4HIN2Btn0 // How to Get Day of the WEEK in Spark AR: Free Spark AR Template with Script included
 Y4S_S_oK2YM // #Drawing with Particles at Finger Position: Draw 2D in #SparkAR Studio
 UUkw1v5Qvb8 // Drag Spot Light: Free Spark AR Light At Touch Position Template
+WzvQvOiToSM // From Script To Script: Make a millisecond clock in Spark AR with script to patch bridging.
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1180,6 +1182,9 @@ B1ZSEVb5OIU // Spark AR with Wyatt :)
 IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" BY PIOTAR BOA #sparkarstudio
 0QrI5Ay7qYA // Dream Land is the new Instagram Filter created by Piotar Boa
 
+# Pooja Bera
+V4yWuTgxWLw // How to create Instagram filter in 5 minutes Step by Step Tutorial + Reviewing St botanica products
+
 # Praveen Rao
 5KiuK6LK9YU // Spark AR | Ekagr | Self Learn Skills
 
@@ -1188,6 +1193,9 @@ ccqrxvm1aL4 // Gratitude | Facebook AR Hackathon | Prem Raval | Thank You Front-
 
 # programmer me
 Qc96WHqR_Tw // LearnFromHome | Intro to Spark AR | Programmer-Me | TinkerHub CUCEK
+
+# Projekt Teal
+BgUqvQLf1AA // Create and Publish your own INSTAGRAM FILTER in 15 Minutes! | Spark AR Tutorial
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1340,6 +1348,7 @@ xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasse
 
 # Sansriti Mishra
 BoajrJ_bU4Q // How To Convert Lightroom Preset To Instagram Story Filter + Basics of Spark AR | Instagram Filter
+dbvDHxvOe3A // SPARK AR MAKEUP INSTAGRAM FILTER TUTORIAL | BLUSH + LIPSTICK + FRECKLES
 
 # Science Museum of Virginia
 5-7ZrrigsV4 // Maker Mindset: SparkAR Tutorial
@@ -1550,6 +1559,9 @@ IZpe3gKlrtQ // Course Trailer: Spark AR for Surface Pattern Designers -How to Cr
 
 # The Kathakar
 9Zp16nENkPc // Turn your photoshop PRESETS into Instagram FILTERS | Tutorial | The Kathakar
+
+# The Techover
+ze1IFcykVa4 // MAKE YOUR OWN INSTAGRAM FILTER IN 5 MINUTES | BEGINNER FRIENDLY
 
 # thebandanaboi
 ryzK4DNMR-s // Spark Ar studio- Download project files and templates for Instagram/Facebook camera effects.

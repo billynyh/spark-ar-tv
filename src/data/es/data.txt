@@ -129,6 +129,7 @@ Rfw4LxODVJo // CURSO SPARK AR STUDIO | Iris Tracking animados #14
 d3UpiHlMyrk // CURSO SPARK AR STUDIO | Fechas y hora en tiempo real #15
 ECo2AiXXDK4 // CURSO SPARK AR STUDIO | Filtros de color #16
 5hzn2z1Uw00 // CURSO SPARK AR STUDIO | Deformar rostros o caras #16
+q0RBvHVzrCk // CURSO SPARK AR STUDIO | Botones de opciones nativos #18
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -239,6 +240,7 @@ NZ2Xp26V_9I // FILTRO de DIBUJA CON LA NARIZ (Spark AR)
 AhvJ9Oh_r4o // CREAR FILTRO "Cualquier imagen de tu galeria" (Spark AR)
 EKDAbIzh1jg // FILTRO CON MARCO (Spark AR)
 9zBkJzvgQhg // FILTRO DUPLICAR CARAS (SPARK AR)
+Dfmn6VGCMgY // BAJAR EL TAMAÑO DE MI FILTRO DE INSTAGRAM (Spark Ar)
 
 # Emi Castro
 rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)

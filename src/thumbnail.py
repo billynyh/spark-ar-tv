@@ -1,3 +1,4 @@
+import sys
 import urllib.request
 import shutil
 import random
@@ -109,7 +110,12 @@ def main():
     video_data = {id:site.video_data[id] for id in ids}
     download_all(video_data)
 
-    generate_custom_week_thumbnails(site, ids, 'week-2020-07-27')
+    if (len(sys.argv) < 2):
+        print("thumbnail.py {week-yyyy-mm-dd}")
+        return
+    slug = sys.argv[1]
+
+    generate_custom_week_thumbnails(site, ids, slug)
     #generate_channel_thumbnails(site)
 
 def main_ping():
