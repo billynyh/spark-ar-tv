@@ -19,6 +19,7 @@ XKoQoNbJeq0 // Instagram AR Game: Voice Activated Instagram & Facebook AR Game o
 MHQxgNyTxho // Facebook & Instagram Spark AR filter to try different beard and mustache styles. Men's Grooming AR
 rMquEuHo2_c // AliveNow featured on Facebook & Instagram's global AR platform, Spark AR | Augmented Reality Studio
 -OSlhAcpHio // Gulaob Sitabo Instagram AR Filter | Amitabh Bachchan's character Mirza in Augmented Reality Spark AR
+JEOI1yZuyWg // Instagram AR Games: Examples of different kinds of Instagram & Facebook Spark AR Games we've built.
 
 # Amalia Dwi Ayu Sarjani
 dtcuRHPc3z4 // GLITTER EFFECT IN SPARK AR STUDIO
@@ -319,6 +320,7 @@ kqVtKVaxzLk // Spark AR - Face Extraction into image sequence | With Blender (EN
 KcwPq9cKdMY // Spark AR Tutorial - Audio Tips | Microphone and M4A file (EN Captions)
 EEcxAdzVo5s // Photo to 3d mesh to work with Spark AR & Blender | PIFuHD Project (EN Captions)
 rvZS3FdnMsA // Photo to animated 3d mesh |  Blender ➡️ Mixamo ➡️ Spark AR | PIFuHD 🧍 (EN Captions)
+YsG5cM1SUQs // Spark AR Tutorial - Make your LUTs | Option Picker & Picker UI (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -496,6 +498,7 @@ YT-y7HuEXgs // Crea tu propio filtro de colores para Instagram - Spark AR Tutori
 dXLC2NrEeC8 // Como exportar y subir filtros para Instagram - Spark AR tutorial
 yHi6UZyTV7Y // Crea un filtro de luces para instagram - Spark AR tutorial
 TdbXOuFMPeM // Crea un filtro Kira Kira para instagram - Spark AR tutorial
+RayXo1aOtSw // Crea un filtro OUTLINE para Instagram
 
 # Mica Esquivel
 HFxTKnAAR5w // Como hacer filtros para Instagram | Crea y publica tus propios filtros | Filtro en Spark ar studio |
