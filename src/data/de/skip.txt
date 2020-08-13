@@ -26,3 +26,5 @@ dTA6LzCP7N4 // How to Create Light Setting, Light Leaks and Animation Sequence a
 WkkznIy3jI8 // How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target Disappear by Collision, Add Music]
 rCnTOb87fR4 // How to Create a Pink/Purple Valley in Spark AR with LUTs [filter without oily, grain and pixel]
 s8jkwZm5UNM // 3 Smart Ways to use the Native UI Picker + Slider Patch in Spark AR
+veWmGyZwxSM // Spark AR Beauty Tutorial for Beginner (Bright Eyes, glowing Highlights, Eyelashes, Teeth Whitening)
+ngJHngyCQJg // How to Freeze a Picture by using Render Pass in Spark AR (Step-by-Step Tutorial)

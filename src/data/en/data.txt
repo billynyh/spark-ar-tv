@@ -342,6 +342,12 @@ CUGP1VxmmaQ // Doodle Instagram Camera Effect SparkAR
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
 
+# Clara Ponesto
+NYfRYn4iEoc // HOW TO MAKE YOUR OWN INSTAGRAM FILTER USING PICSART IN JUST 5 MINUTES! | FAST AND EASY!
+4zMG55U5Pqc // HOW TO MAKE SPARKLE/GLITTER EFFECT ON INSTAGRAM USING SPARK AR | FAST AND EASY |w/ eng subs! PART 1
+yVknipD3E2Q // CREATE YOUR OWN DUST/GRAIN EFFECT FILTER ON INSTAGRAM USING SPARK AR| fast&easy | PART 2
+wWNEvb-SEBA // TURN YOUR LIGHTROOM PRESETS INTO INSTAGRAM FILTER | Spark Ar fast&easy | PART 3
+
 # CodeDay
 Ts1y3owGppI // Tech Talk: SparkAR Instagram Filters - Jacqueline Yang, Bailey Hirota, Carmen Wu
 
@@ -807,6 +813,7 @@ CuU3LayfzBU // 3-D CUSTOM FRESHLY MADE ORGANIC FACE MASK PRINTER MACHINE
 EFuJl_SIuGA // WHY YOU SHOULD CREATE YOUR OWN INSTAGRAM FILTER
 2S_uJx2DLHk // CREATE GLOSSY,  METALLIC, GLITTERY LIPS FILTER WITH SPARK AR
 HsA3KygaCwY // VIRTUAL PLASTIC SURGERY FILTER EFFECT WITH SPARK AR
+ZCaTuwDMBIw // SPARKLING RAINBOW TEARS FILTER EFFECT WITH SPARK AR
 
 # LATE_FX
 aiG3bCK15XY // SPARK AR DESIGN  LIVE WORKFLOW V2 : DBZ MEDICAL MACHINE
@@ -1208,6 +1215,9 @@ V4yWuTgxWLw // How to create Instagram filter in 5 minutes Step by Step Tutorial
 
 # Prem Raval
 ccqrxvm1aL4 // Gratitude | Facebook AR Hackathon | Prem Raval | Thank You Front-Line Workers
+
+# Pritesh Chitrode
+v4hFBwq3Fz0 // How to publish a Spark AR effect on our instagram account
 
 # programmer me
 Qc96WHqR_Tw // LearnFromHome | Intro to Spark AR | Programmer-Me | TinkerHub CUCEK
@@ -1662,6 +1672,7 @@ vFe3hZBiT9U // Using the SDF Rectangle patch - Spark AR tutorial
 30CJQnZiop4 // Using the SDF Union, Intersect and Difference patches - Spark AR tutorial
 MXfQyHIwp38 // Mixing shapes using the SDF mix patch - Spark AR tutorial
 Mp452V1Ablo // Using the Scene Render Pass patch
+-Zv43Jq-tUk // Creating a photo booth using the Delay Frame patch - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
