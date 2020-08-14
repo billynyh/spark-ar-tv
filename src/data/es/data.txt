@@ -1,3 +1,6 @@
+# Abril Sepulveda urra
+I_WpqaQPlFs // Tutorial Video tracking Spark AR Face Extraction
+
 # Adriana Esquivel
 Q2kioa0ligA // Como CREAR y PUBLICAR tus propios FILTROS DE INSTAGRAM!
 
@@ -321,6 +324,7 @@ KcwPq9cKdMY // Spark AR Tutorial - Audio Tips | Microphone and M4A file (EN Capt
 EEcxAdzVo5s // Photo to 3d mesh to work with Spark AR & Blender | PIFuHD Project (EN Captions)
 rvZS3FdnMsA // Photo to animated 3d mesh |  Blender ➡️ Mixamo ➡️ Spark AR | PIFuHD 🧍 (EN Captions)
 YsG5cM1SUQs // Spark AR Tutorial - Make your LUTs | Option Picker & Picker UI (EN Captions)
+xVD5RgsgwMo // Spark AR Tutorial - Face Deformation + LUT (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -481,6 +485,7 @@ aPUHkprmG5A // CREA TU PROPIO FILTRO EN INSTAGRAM | @martamarcosr
 Xc4tBdFuYDs // Cómo hacer y publicar tu filtro en Instagram 🎭🎭🎭
 
 # martu felix
+oT1qvxInScM // Como crear un LUT con POLARR| SPARK AR
 7v2oLL5m6_o // Como crear tu filtro de Instagram| Spark ar
 
 # María Rivera Moreno

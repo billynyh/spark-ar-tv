@@ -343,6 +343,7 @@ CUGP1VxmmaQ // Doodle Instagram Camera Effect SparkAR
 GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
 
 # Clara Ponesto
+wBGp28xkDH8 // MAKE YOUR OWN INSTAGRAM & FACEBOOK FILTER! | MADALI LANG PALA! | (Filipino)
 NYfRYn4iEoc // HOW TO MAKE YOUR OWN INSTAGRAM FILTER USING PICSART IN JUST 5 MINUTES! | FAST AND EASY!
 4zMG55U5Pqc // HOW TO MAKE SPARKLE/GLITTER EFFECT ON INSTAGRAM USING SPARK AR | FAST AND EASY |w/ eng subs! PART 1
 yVknipD3E2Q // CREATE YOUR OWN DUST/GRAIN EFFECT FILTER ON INSTAGRAM USING SPARK AR| fast&easy | PART 2
@@ -384,8 +385,14 @@ Iy1nms6Nbgg // DevC Toronto 2020 March Meetup
 # Dhaiwat Pandya
 RE3PDHVDyNU // Spark AR - Which Barça player are you filter demo
 
+# Diana Nemetchek
+IOewXiLCZlg // How to create a filter for Instagram
+
 # Digital Addict Design
 SECSeUHblA0 // Up-skill Your Design Skillset in 2020
+
+# Digital Mihirr
+KW1iaFPgkhw // MAKE YOUR OWN INSTAGRAM FILTER | FACE SMOOTHING AND RETOUCHING FILTER | SPARK AR FILTER
 
 # Dirk de Jong
 HVVI3UewIL4 // Spark AR Native UI slider to patch editor
@@ -1207,6 +1214,9 @@ B1ZSEVb5OIU // Spark AR with Wyatt :)
 IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" BY PIOTAR BOA #sparkarstudio
 0QrI5Ay7qYA // Dream Land is the new Instagram Filter created by Piotar Boa
 
+# PK Creative
+VVFQfMNW-zs // How to Make INSTAGRAM Filters with Lightroom Preset | Free Project File | Spark AR Tutorial
+
 # Pooja Bera
 V4yWuTgxWLw // How to create Instagram filter in 5 minutes Step by Step Tutorial + Reviewing St botanica products
 
@@ -1458,6 +1468,7 @@ p1HF28ZkzBQ // Three Tone Filter Effect (Tritone Shader Patch) | Instagram & Fac
 VNotxYufBQE // Big Head Filter Effect (Face Tracker, Animation, Scale) | Instagram & Facebook | Spark AR Tutorial
 fstYyDxoYkA // Hand Tracking Filter Effect (3D Object, 360° Image) | Instagram & Facebook | Spark AR Tutorial
 jaNqd3LJn_k // Distort Face & Add Retouching Filter Effect (Deformation) | Spark AR Studio | Instagram & Facebook
+A7mrmDQKNRw // 2D Animation Filter Effect (Keyframe, GIMP) | Spark AR Studio | Instagram & Facebook
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)

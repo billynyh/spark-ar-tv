@@ -65,6 +65,8 @@ Mf72EE3_qtk // 目と口の連動インスフィルター作成講座＜SparkAR�
 hs2XX5kVQOc // フィルターのアップロード方法★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
 64hNHjlhoTU // テキストを空間に表示する方法★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
 VdlSM5_haEw // カラーフィルター作成方法★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
+0aRzowSsoVs // オブジェクトタップしてフィルター切り替え★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
+qw6U7yWmZhc // キラキラフィルター作成方法★インスフィルター作成講座＜SparkAR日本語チュートリアル＞
 
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】
