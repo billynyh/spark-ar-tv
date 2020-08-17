@@ -69,6 +69,7 @@ qeweWr6mRo0 // Tutorial como cambiar el fondo con imágenes y videos de la galer
 KLYQHmPR9os // Aretes hongo Mario 3d print spark Ar studio
 bRIQLIXyNfY // Diseño Aretes Manos Rock 3D Print, Realidad Aumentada con Spark AR Studio
 2jc3d5c0g0I // Curso Realidad Online Aumentada Spark Ar studio MDALatam
+hIcaJYiFKoQ // Aprende Realidad Aumentada con Spark Ar Studio (link del curso en la descripción)
 
 # BlackPeach
 1o_7orPj1KM // 💗COMO HACER FILTROS DE INSTAGRAM 💗
@@ -134,6 +135,7 @@ d3UpiHlMyrk // CURSO SPARK AR STUDIO | Fechas y hora en tiempo real #15
 ECo2AiXXDK4 // CURSO SPARK AR STUDIO | Filtros de color #16
 5hzn2z1Uw00 // CURSO SPARK AR STUDIO | Deformar rostros o caras #16
 q0RBvHVzrCk // CURSO SPARK AR STUDIO | Botones de opciones nativos #18
+kV3p73PwyL4 // CURSO SPARK AR STUDIO | Crear un fondo con una imagen #19
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -245,6 +247,7 @@ AhvJ9Oh_r4o // CREAR FILTRO "Cualquier imagen de tu galeria" (Spark AR)
 EKDAbIzh1jg // FILTRO CON MARCO (Spark AR)
 9zBkJzvgQhg // FILTRO DUPLICAR CARAS (SPARK AR)
 Dfmn6VGCMgY // BAJAR EL TAMAÑO DE MI FILTRO DE INSTAGRAM (Spark Ar)
+C-xBETy7ZSk // CREA FILTRO DE PICKER (Spark Ar)
 
 # Emi Castro
 rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)

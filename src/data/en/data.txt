@@ -395,6 +395,7 @@ SECSeUHblA0 // Up-skill Your Design Skillset in 2020
 0gI1x0M3m7E // MAKE YOUR OWN INSTAGRAM FILTER WITH EASY STEPS IN JUST 10 MINUTES | FULL BASIC  DETAIL VIDEO |
 KW1iaFPgkhw // MAKE YOUR OWN INSTAGRAM FILTER | FACE SMOOTHING AND RETOUCHING FILTER | SPARK AR FILTER
 WmxwU76mEVU // Make Your Own Instagram Filter | Add Dust Particles In Filter | Filter Tutorial
+w7RMOBj9u38 // MAKE YOUR OWN INSTAGRAM FILTER | DATE AND TIME INSTAGRAM FILTER |
 
 # Dirk de Jong
 HVVI3UewIL4 // Spark AR Native UI slider to patch editor
@@ -421,6 +422,7 @@ Z-r-jbziECs // How to upload your INSTAGRAM filter to Instagram or Facebook with
 
 # DSC KIIT
 3rvX7FsmFI4 // AR Spark | How to make Instagram/Facebook stickers | DSC KIIT
+vfWHxN4bFRY // Hands on Session with WebAR | Codelabs | Model Viewer
 
 # DSZ arts
 bdeCgtdYm2k // Moody Zones - Instagram Filter - Spark AR Timelapse
@@ -672,6 +674,7 @@ twfpQiF0JhE // Change background Using Spark AR Tutorial | Augmented Reality | (
 wKwvxKprXAI // Lip gloss spark ar tutorial
 PML1MbyK-GM // Eyelashes & Eyeliner Spark AR filter tutorial | Augmented Reality
 GzeZSfo23Fo // Nose Ring Nose Piercing AR Filter | Tutorial Spark AR | (Download link in description)
+BFB5E-v3LmE // Road fighter car racing game spark ar tutorial using head controls | Download link in description
 
 # Jayasurya Aasaithambi
 yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
@@ -843,6 +846,7 @@ A_HOfFsY-EM // CREATE A INSTAGRAM FILTER WITH SPARK AR WITH YOUR LR MOBILE PRESE
 JzY7G6zNbRE // HOW TO ADD GRAIN AND DUST TO YOUR INSTAGRAM FILTER (STATIC OR ANIMATED) WITH SPARK AR | TUTORIAL
 VuOku3pFw2A // HOW TO CREATE FANCY UNREAL EYES FOR YOUR INSTAGRAM FILTER WITH SPARK AR | TUTORIAL
 AnxjcgEa4kE // MULTIPLE OPTION PICKER FOR YOUR LUTs TOGETHER WITH AN INTENSITY SLIDER | INSTAGRAM FILTER TUTORIAL
+LtabZYahSmw // HOW TO CREATE A DYNAMIC (NOT STATIC) TEXT "DAY OF THE WEEK" INSTAGRAM FILTER WITH DECO ELEMENTS
 
 # Liucidity
 pc4isqdbmhQ // Create a face filter from doodle | Beginner Spark AR Tutorial
@@ -1096,6 +1100,7 @@ BPpdqWNydIM // Realistic highlighter in Spark AR/ Easy Tutorial
 Ncl5p0wInhc // Realistic Lip Gloss/Lipstick in Spark AR
 Z-xUVrG9NpE // CREATE EYELASHES IN SPARK AR IN 1 MINUTE/ EASY AND FAST SPARK AR TUTORIAL
 dNhnwi0AGus // Eyeliner + Eyelashes in Spark AR/ Instagram filter tutorial
+hTtmmSJyzVk // CHANGE EYES COLOR FOR INSTAGRAM FILTER/ SPARK AR TUTORIAL
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT

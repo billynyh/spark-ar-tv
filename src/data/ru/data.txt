@@ -1088,6 +1088,7 @@ m16n8aIx96o // Как сделать маску в Инстаграм. 2 уро�
 02VqGnFla0A // Spark AR VideoTracker demo
 yXSJWyRwUNo // Sorting Game Template Demo. Spark AR, Instagram
 pAjtDB87Wmk // Collector Game Template Demo. Spark AR, Instagram
+1PM21xjI76U // Flappy Bird Game Template Demo. Spark AR. Instagram
 
 # Алексисс
 6eorfw-TvRQ // Маски для ТикТока #1 — Деформация
