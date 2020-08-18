@@ -23,6 +23,7 @@ MHQxgNyTxho // Facebook & Instagram Spark AR filter to try different beard and m
 rMquEuHo2_c // AliveNow featured on Facebook & Instagram's global AR platform, Spark AR | Augmented Reality Studio
 -OSlhAcpHio // Gulaob Sitabo Instagram AR Filter | Amitabh Bachchan's character Mirza in Augmented Reality Spark AR
 JEOI1yZuyWg // Instagram AR Games: Examples of different kinds of Instagram & Facebook Spark AR Games we've built.
+0duSYpIrBoc // Anti Pollution Mask Face Mask Instagram AR filter: Try different masks with this Spark AR filter.
 
 # Amalia Dwi Ayu Sarjani
 dtcuRHPc3z4 // GLITTER EFFECT IN SPARK AR STUDIO
@@ -328,6 +329,7 @@ EEcxAdzVo5s // Photo to 3d mesh to work with Spark AR & Blender | PIFuHD Project
 rvZS3FdnMsA // Photo to animated 3d mesh |  Blender ➡️ Mixamo ➡️ Spark AR | PIFuHD 🧍 (EN Captions)
 YsG5cM1SUQs // Spark AR Tutorial - Make your LUTs | Option Picker & Picker UI (EN Captions)
 xVD5RgsgwMo // Spark AR Tutorial - Face Deformation + LUT (EN Captions)
+WhOiOkmn6lU // Spark AR Instagram Music Reactive with Face Distortion (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
