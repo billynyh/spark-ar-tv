@@ -517,6 +517,7 @@ XXrzuEqLJSs // Spark-AR Tutorial#8, Functionality Part A. The Start.
 2rPgZZW-HoA // Spark-AR Tutorial #8, Functionality Part D, Finalize and next steps.
 cNG3FYXaY6g // Spark-AR Tutorial #8, Functionality Part C, Counter and Replay.
 BWy13plOCoQ // Spark-AR Tutorial #8 Functionality Part B, Collision Detection and group smoothen up.
+1jXkZWXmBr8 // Spark AR - intro to Scripting environment.
 
 # FOCUS MEDIA
 62sgCzrzAPg // HOW TO MAKE YOUR OWN INSTAGRAM FILTER IN 2 MINUTES On Phone and Pc|how to Create an Instagram filter
@@ -830,6 +831,7 @@ EFuJl_SIuGA // WHY YOU SHOULD CREATE YOUR OWN INSTAGRAM FILTER
 2S_uJx2DLHk // CREATE GLOSSY,  METALLIC, GLITTERY LIPS FILTER WITH SPARK AR
 HsA3KygaCwY // VIRTUAL PLASTIC SURGERY FILTER EFFECT WITH SPARK AR
 ZCaTuwDMBIw // SPARKLING RAINBOW TEARS FILTER EFFECT WITH SPARK AR
+amAj-nkujNc // HOW TO ADD CUSTOM REAL TIME SIMULATOR VIDEOS IN SPARK AR
 
 # LATE_FX
 aiG3bCK15XY // SPARK AR DESIGN  LIVE WORKFLOW V2 : DBZ MEDICAL MACHINE
@@ -882,6 +884,7 @@ kI0VeebLpRY // Spark AR: Prism Camera Filter.
 4NU61sJuOvo // Spark AR: 25 LUTs for Instagram and Facebook Effects.
 _VT0io3Dq3E // Spark AR: How to use the Native UI Picker.
 lDPBRQW56HQ // Spark AR: How to create a Vintage Camera Filter.
+N5-rEoHylME // Spark AR: 30 LUTs and 20 Dust Textures for Instagram Effects.
 
 # lucas klubb
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
@@ -1328,6 +1331,9 @@ uIN-LTCYBJg // Ocean Cleaning Force || Spark AR || Instargam Filter || Rbkavin |
 S0hp5mF0EYY // SparkAR Render Passes and what does it do ? ( Scene ,shader etc...) || Rbkavin
 MlSIa-Ady20 // Spark AR  Freeze Frame - how to freeze the frame ? (delay frame )|| Rbkavin
 
+# Real Doddz
+t2CM0nTGtLA // 5 SPARK AR HACKS IN 2 MINUTES
+
 # Real World Reality
 V9XGcRkQfGU // Upload Filter to Instagram | How to  publish Instagram effects without issues  (English)
 GGNw9P1RsWs // Render Pass and Delay Frame in Instagram Filter | V92
@@ -1487,6 +1493,7 @@ VNotxYufBQE // Big Head Filter Effect (Face Tracker, Animation, Scale) | Instagr
 fstYyDxoYkA // Hand Tracking Filter Effect (3D Object, 360° Image) | Instagram & Facebook | Spark AR Tutorial
 jaNqd3LJn_k // Distort Face & Add Retouching Filter Effect (Deformation) | Spark AR Studio | Instagram & Facebook
 A7mrmDQKNRw // 2D Animation Filter Effect (Keyframe, GIMP) | Spark AR Studio | Instagram & Facebook
+PG0bDvjyyXw // Multi-Camera Filter Effect (Duotone, Tritone, Luminance) | Spark AR Studio | Instagram & Facebook
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
@@ -1594,6 +1601,9 @@ dY-1x0IEOAY // How To Add Background Music In My Instagram Filter & Change Music
 
 # Techno Gamerz
 pPCvm1dMjnU // Make your own Instagram and Facebook filters  | using spark AR studio| For Beginners
+
+# Techno ki Baatchit
+RhcaiTXg3WY // MAKE YOUR OWN INSTAGRAM FILTER IN 10 MINUTES..!!🔥🔥 FULL TUTORIAL IN HINDI😉 "WHICH INDIAN SUPERHERO?"
 
 # Techno Tamizha
 n7JNOy7sRDA // Multi Face Chaos | Spark AR Filter Demo | Multi Frame Video Delay | Instagram
