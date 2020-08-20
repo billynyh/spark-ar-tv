@@ -332,6 +332,7 @@ rvZS3FdnMsA // Photo to animated 3d mesh |  Blender ➡️ Mixamo ➡️ Spark A
 YsG5cM1SUQs // Spark AR Tutorial - Make your LUTs | Option Picker & Picker UI (EN Captions)
 xVD5RgsgwMo // Spark AR Tutorial - Face Deformation + LUT (EN Captions)
 WhOiOkmn6lU // Spark AR Instagram Music Reactive with Face Distortion (EN Captions)
+_3WRxVDS0PM // Create Buildings easily with Blender ➡️ Spark AR, ARjs, Unity (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -466,6 +467,7 @@ Etm7kpsvFWY // Crear un filtro con bordes POLAROID o KODAK │Spark Ar Instgram 
 lPxzt7ALzJQ // Crea un filtro *Tocar para cambiar* | SCREEN TAP | Spark Ar Instagram
 HPloAcz7vRo // PICKER UI & SCREEN TAP con texturas │ Spark Ar tutorial
 S3SLnEF13IY // Como crear un LUT con LIGHTROOM | SPARK AR
+BPUKzftihEg // CREA un filtro de PARTICULAS emojis | SPARK AR TUTORIAL Partycle System
 
 # MAB55
 heyGpK9TDsM // ▶️ ✅ Cómo descargar e instalar Spark AR Studio de Facebook en Mac [ 𝟮𝟬𝟮𝟬 ] | Tutorial mac Mab55

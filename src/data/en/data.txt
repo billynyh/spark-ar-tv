@@ -322,6 +322,10 @@ JUVCqxGqsmM // Adjusting values via Slider Patch | Spark AR Studio
 UY1FKVDS6hM // Super Simple Two Light Effect (Neon Colours) | Spark AR Studio
 vxjhU-4nr1k // Freeze Frame & Motionblur [Renderpass Effects] | Spark AR
 gb9CyckJZXo // Face Extract + Scene LUT Renderpass [Splitface Revisited] | Spark AR
+0QsPEDeM0So // HDR Environments | Spark AR Studio
+
+# CC in Tassie
+Zwqs8Tv54Vw // Blink of Eye Workshop - National Science Week TAS 2020
 
 # Cel Rojas vlogs
 SBqctTuEO6g // How to make instagram filters|celrojas Part 1
@@ -518,6 +522,7 @@ XXrzuEqLJSs // Spark-AR Tutorial#8, Functionality Part A. The Start.
 cNG3FYXaY6g // Spark-AR Tutorial #8, Functionality Part C, Counter and Replay.
 BWy13plOCoQ // Spark-AR Tutorial #8 Functionality Part B, Collision Detection and group smoothen up.
 1jXkZWXmBr8 // Spark AR - intro to Scripting environment.
+ci-6PzR0ed0 // Spark AR (Intro to Scripting part 2, finding objects, mouth opnness)
 
 # FOCUS MEDIA
 62sgCzrzAPg // HOW TO MAKE YOUR OWN INSTAGRAM FILTER IN 2 MINUTES On Phone and Pc|how to Create an Instagram filter
@@ -1151,6 +1156,7 @@ jB4HIN2Btn0 // How to Get Day of the WEEK in Spark AR: Free Spark AR Template wi
 Y4S_S_oK2YM // #Drawing with Particles at Finger Position: Draw 2D in #SparkAR Studio
 UUkw1v5Qvb8 // Drag Spot Light: Free Spark AR Light At Touch Position Template
 WzvQvOiToSM // From Script To Script: Make a millisecond clock in Spark AR with script to patch bridging.
+hIqlyYXpULk // WHY 2D BROKE!? Drag 2D Update! The new Spark AR v95+ 2D coordinate system #newcolor #sparkar
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1201,6 +1207,7 @@ YpFfkCftF6U // Spark AR - LUTs + Segmentation
 L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 lIl3vZEcbxY // Spark AR - Hidden Preview Videos!
 EfL4YUaMptk // Spark AR - Eye Colour + LUTs
+zGhLxH_Mpes // Spark AR Slider - 3 Easy Examples
 
 # Onlywow
 vL591xZvb44 // Create Sunglass Filter for Instagram | Beginner Spark AR Tutorial
@@ -1713,6 +1720,7 @@ vFe3hZBiT9U // Using the SDF Rectangle patch - Spark AR tutorial
 MXfQyHIwp38 // Mixing shapes using the SDF mix patch - Spark AR tutorial
 Mp452V1Ablo // Using the Scene Render Pass patch
 -Zv43Jq-tUk // Creating a photo booth using the Delay Frame patch - Spark AR tutorial
+gzBH6c_NYSA // Using Face mesh with render pass - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
