@@ -28,6 +28,7 @@ m9CND2ZYaLw // SPARK AR Tutorial | Realistischer Schattenwurf Effekt für Instag
 P8yBH2dueSY // SPARK AR Tutorial | Freeze Frame & Photo Booth Effekt für Instagram | Deutsch
 jkYVtJev4eI // SPARK AR Tutorial | Make-Up und Retouch Effekt zusammen mit einem Color LUT
 Xe5MMQ1i7k4 // SPARK AR Tutorial | Wochentag und Datum überall in eurem Filter platzieren | Deutsch
+BLTSwRZ3c94 // Touch Gesture Control für deinen Instagram Filter | SPARK AR TUTORIAL Deutsch
 
 # Jannis
 G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Jannis
@@ -74,6 +75,7 @@ rQCR7ooV_Ig // How to Add Segmentation to a Panorama Background in Spark AR
 Gy2rrn2TVS4 // Change your Faceshape in Spark AR without being an 3D Expert
 HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 6g5GdU33Eyk // 3 Useful Mouth Open Patch Ideas for SPARK AR
+ylM8OOwl0E0 // Spark AR Glitter Effect Tutorial [Add 2 eye colors, create textures with a 3D model in Photoshop]
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio
