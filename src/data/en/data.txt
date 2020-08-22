@@ -54,10 +54,7 @@ C7Jwfafs4C8 // How to make instagram filter like oliver sykes SPARK AR STUDIO
 EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
 
 # Aian Colendres
-5P92AirlCDs // 4 Easy facial mask using EGG! (DIY EGG MASK) || Aian Colendres
-kDYaimMVQf4 // MILO TRUFFLES | 2 Ingredients only! | Aian Colendres
 0Y397uD1MR0 // Make your own Instagram filter (Fast and easiest way) || Aian Colendres
-1UC0WuFLKcc // Answering questions from CURIOUS CAT || Aian Colendres
 
 # Alejandra Cerda
 Hj5Q5oikuAw // How to make your own filter for Instagram stories with presets from Lightroom | The easiest way
@@ -377,6 +374,9 @@ GUNl32dzslc // How To Make a Custom Instagram Face Filter
 # Cyrix Ninja
 OYNcTojG-mQ // Sci-Fi Portal using SparkAR Studio
 
+# D Somesh
+j0Pi5Wdft3M // Basic Insta Filter with Spark Ar Studio
+
 # DanEdits
 diNJ6DPehDE // Create an Instagram Filter using PicsArt + Spark AR Studio
 
@@ -586,6 +586,7 @@ HEPfX7nUH4Q // How to make "Which character are you?" | Instagram Filter Spark A
 u4bfiP0kjqU // How to make 24K Gold Instagram Filter | Spark AR Studio Tutorial
 JxU8q2O44eQ // How to make Neon Text Around the Head Instagram Filter | Spark AR Tutorial
 v0bw2jubLFM // How to make Instagram Mirror Filter | Spark AR Studio Tutorial
+zI9tWNWgeeo // How to make Plastic Surgery Instagram Filter | Spark AR Studio Tutorial
 
 # Gilligan Faust
 iJe0A35Abro // Instagram Filter upload tutorial (Spark AR)
@@ -1351,6 +1352,7 @@ GGNw9P1RsWs // Render Pass and Delay Frame in Instagram Filter | V92
 0c1Ex8zpypI // Free Spark AR Project : Photo Booth Filter
 CZeTR7DzPg4 // Spark AR Tutorial: Ink or Smoke Reveal Filter | Instagram
 yGBv4zTIoHY // Spark AR Tutorial  | How to Make Augmented reality Business card | [Instagram & Facebook]
+ia2mMwK1lSw // Spark AR Tutorial | Create Liquid Illusion filter(water effect)|Normal map Baking [Instagram]
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio

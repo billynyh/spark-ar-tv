@@ -105,6 +105,7 @@ a, a:hover {
 /* video */
 .vid {
   margin-bottom: 20px;
+  overflow:hidden;
 }
 
 .vid .title a {
