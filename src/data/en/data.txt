@@ -355,6 +355,7 @@ NYfRYn4iEoc // HOW TO MAKE YOUR OWN INSTAGRAM FILTER USING PICSART IN JUST 5 MIN
 4zMG55U5Pqc // HOW TO MAKE SPARKLE/GLITTER EFFECT ON INSTAGRAM USING SPARK AR | FAST AND EASY |w/ eng subs! PART 1
 yVknipD3E2Q // CREATE YOUR OWN DUST/GRAIN EFFECT FILTER ON INSTAGRAM USING SPARK AR| fast&easy | PART 2
 wWNEvb-SEBA // TURN YOUR LIGHTROOM PRESETS INTO INSTAGRAM FILTER | Spark Ar fast&easy | PART 3
+--tAv0lXasM // LEARN HOW TO PUT EYELASHES USING SPARK AR | fast&easy | Clara Ponesto
 
 # CodeDay
 Ts1y3owGppI // Tech Talk: SparkAR Instagram Filters - Jacqueline Yang, Bailey Hirota, Carmen Wu
@@ -376,6 +377,7 @@ OYNcTojG-mQ // Sci-Fi Portal using SparkAR Studio
 
 # D Somesh
 j0Pi5Wdft3M // Basic Insta Filter with Spark Ar Studio
+hCJxayfGr8U // How to upload a Filter on INSTAGRAM
 
 # DanEdits
 diNJ6DPehDE // Create an Instagram Filter using PicsArt + Spark AR Studio
@@ -587,6 +589,7 @@ u4bfiP0kjqU // How to make 24K Gold Instagram Filter | Spark AR Studio Tutorial
 JxU8q2O44eQ // How to make Neon Text Around the Head Instagram Filter | Spark AR Tutorial
 v0bw2jubLFM // How to make Instagram Mirror Filter | Spark AR Studio Tutorial
 zI9tWNWgeeo // How to make Plastic Surgery Instagram Filter | Spark AR Studio Tutorial
+Dl4KcGFSGjY // How to make a Cute Simple Instagram Filter | Spark AR Studio Tutorial
 
 # Gilligan Faust
 iJe0A35Abro // Instagram Filter upload tutorial (Spark AR)
@@ -861,6 +864,7 @@ JzY7G6zNbRE // HOW TO ADD GRAIN AND DUST TO YOUR INSTAGRAM FILTER (STATIC OR ANI
 VuOku3pFw2A // HOW TO CREATE FANCY UNREAL EYES FOR YOUR INSTAGRAM FILTER WITH SPARK AR | TUTORIAL
 AnxjcgEa4kE // MULTIPLE OPTION PICKER FOR YOUR LUTs TOGETHER WITH AN INTENSITY SLIDER | INSTAGRAM FILTER TUTORIAL
 LtabZYahSmw // HOW TO CREATE A DYNAMIC (NOT STATIC) TEXT "DAY OF THE WEEK" INSTAGRAM FILTER WITH DECO ELEMENTS
+5IBdIb-eQbA // SOLVING YOUR FILTER PROBLEMS!!! FIXING RED SHADOWS, BLACK LINE AROUND THE FACE, GLITCHY EYES & MOUTH
 
 # Liucidity
 pc4isqdbmhQ // Create a face filter from doodle | Beginner Spark AR Tutorial
@@ -1118,6 +1122,7 @@ Z-xUVrG9NpE // CREATE EYELASHES IN SPARK AR IN 1 MINUTE/ EASY AND FAST SPARK AR 
 dNhnwi0AGus // Eyeliner + Eyelashes in Spark AR/ Instagram filter tutorial
 hTtmmSJyzVk // CHANGE EYES COLOR FOR INSTAGRAM FILTER/ SPARK AR TUTORIAL
 Q6YQwhFjdrg // Bigger Fuller Lips & Smaller Sharper Nose Instagram Filter/ Face Deformation Spark Ar Tutorial.
+RMyHKGrnsJw // Big Eyes Instagram Filter/ Spark AR Deformation TuTorial
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -1218,6 +1223,10 @@ vL591xZvb44 // Create Sunglass Filter for Instagram | Beginner Spark AR Tutorial
 
 # ozkar
 -H7uuxZuyz8 // I Paid 3 Fiverr Designers For My Own Instagram Filter
+
+# Pallabi Guha
+mp34Ra5TIK4 // Make your own INSTAGRAM FILTER using PicsArt under 10 MINUTES | Spark AR Tutorial | Pallabi Guha
+KV1LtD9ta6k // How to upload Filter to Instagram 2020 | Publish Filter from Spark AR to Instagram | Pallabi Guha
 
 # Patricia TV
 Oiv5nhr8toQ // HOW I MAKE MY OWN IG FILTER ( PHILIPPINES ) | Patricia Teodoro
@@ -1367,6 +1376,9 @@ DhXpIH8dTWM // 25 number picker for Spark AR
 eTR2G82eR9w // Spark ar Butterfly asset
 oH3oS8yuSjE // Spark ar static butterfly for instagram filter
 hUsYqeewF3g // OMG SPARK AR PATCH!
+
+# Regina & Alex
+yhqZA7sCtZU // Making cute shoulder angel and devil Instagram filter
 
 # Reticent Dude
 nAU25ZP98Sc // Easy way to use your Lightroom presets as an IG filter!!!   (using Spark AR)
