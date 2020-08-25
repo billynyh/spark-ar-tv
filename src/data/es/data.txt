@@ -174,6 +174,9 @@ R5pMxtg9ufg // Spark AR Studio - Ligth Leak - Visual Shaders
 # Daim Vazquez
 n-B2B6CTNkk // CREA TUS PROPIOS FILTROS/EFECTOS PARA INSTAGRAM STORIES/Daim Vazquez/Tutorial/
 
+# Data Science Español
+TIPYzgSLiMU // Realidad Aumentada Ep2: Ejemplo de uso y código
+
 # De Cero A Ninja
 _UZAE_TwFA8 // CÓMO HACER FILTROS DE INSTAGRAM CON SPARK AR x Pablo Zárate PT 1 @ DE CERO A NINJA #SENSEIS
 LkSZFihKHGE // CÓMO HACER FILTROS DE INSTAGRAM CON SPARK AR x Pablo Zárate PT 3 @ DE CERO A NINJA #SENSEIS
@@ -335,6 +338,7 @@ YsG5cM1SUQs // Spark AR Tutorial - Make your LUTs | Option Picker & Picker UI (E
 xVD5RgsgwMo // Spark AR Tutorial - Face Deformation + LUT (EN Captions)
 WhOiOkmn6lU // Spark AR Instagram Music Reactive with Face Distortion (EN Captions)
 _3WRxVDS0PM // Create Buildings easily with Blender ➡️ Spark AR, ARjs, Unity (EN Captions)
+K1u79Ik8F60 // Spark AR - Create 3D eyes for your filters | Connect face expressions (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
