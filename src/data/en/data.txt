@@ -56,6 +56,9 @@ EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
 # Aian Colendres
 0Y397uD1MR0 // Make your own Instagram filter (Fast and easiest way) || Aian Colendres
 
+# Aishh Life
+by-nSq47Ae4 // HOW TO MAKE INSTAGRAM FILTER WITH SPARK AR APP ( what netflix character are you )
+
 # Alejandra Cerda
 Hj5Q5oikuAw // How to make your own filter for Instagram stories with presets from Lightroom | The easiest way
 
@@ -1146,6 +1149,7 @@ LxVMfSci868 // How to make #Instagram #Filter: "white teeth" │ Spark Ar Studio
 Wt29aZ1avyA // Watch me build #6 │Spark Ar
 a1PODXhevGA // #Disposable camera effect  │ How to achieve #analog #film look
 sf8CbTSM0rE // Instagram Filter Tutorial | Doll Face
+jpCwUnf56AU // White Teeth Filter (Updated) │ Spark Ar Studio
 
 # Natalia Kovalchuk
 yBZAW99Bupw // Spark AR tutorial. Basic filter tutorial
@@ -1321,6 +1325,7 @@ i8pGctxTrh4 // Spark AR Native UI Picker for More Than Ten Picker Items (LUT+Ret
 ngJHngyCQJg // How to Freeze a Picture by using Render Pass in Spark AR (Step-by-Step Tutorial)
 veWmGyZwxSM // Spark AR Beauty Tutorial for Beginner (Bright Eyes, glowing Highlights, Eyelashes, Teeth Whitening)
 ylM8OOwl0E0 // Spark AR Glitter Effect Tutorial [Add 2 eye colors, create textures with a 3D model in Photoshop]
+xx85k3KITVM // Spark AR True or False Game Part2 (Game Logic for Multiple Questions with Timer settings)
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
