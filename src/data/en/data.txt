@@ -1203,6 +1203,9 @@ RHOdt1zNjj8 // How to get Instagram Filters 2020 Tutorial. "Which are you?", Hid
 efru3Z0BTRM // CREATE YOUR OWN EFFECTS/FILTERS FOR INSTAGRAM & FACEBOOK STORIES | SPARK AR STUDIO TUTORIAL
 ISxF9jI3_5Q // How to Save Preset and use it as LUT in Adobe Premiere Pro
 
+# NMN Visuals
+gevB5znAOsw // AR Business Card | Spark AR Tutorial | Instagram/Facebook AR Effect.
+
 # Noob2Pro Edits
 CtJnmO_FGbg // Create Viral Instagram Spark AR Face Filter in 10 Minutes | Split Face 3D Effect | Tutorial Series
 knyJ7nCCZr4 // Create Viral Instagram Spark AR Face Filter in 8 Minutes | Ballroom Eye Mask Girls Makeup | Tutorial
@@ -1764,6 +1767,7 @@ MXfQyHIwp38 // Mixing shapes using the SDF mix patch - Spark AR tutorial
 Mp452V1Ablo // Using the Scene Render Pass patch
 -Zv43Jq-tUk // Creating a photo booth using the Delay Frame patch - Spark AR tutorial
 gzBH6c_NYSA // Using Face mesh with render pass - Spark AR tutorial
+uBx_Zd-bkzg // Using the Audio Player patch - Spark AR Tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
