@@ -31,6 +31,7 @@ LANG_DISPLAY_NAME = {
   'fil': 'Filipino',
   'te': 'Telugu',
   'ka': 'Georgian',
+  'hu': 'Hungarian',
   'global': 'All Languages',
 }
 
