@@ -142,6 +142,7 @@ ECo2AiXXDK4 // CURSO SPARK AR STUDIO | Filtros de color #16
 5hzn2z1Uw00 // CURSO SPARK AR STUDIO | Deformar rostros o caras #16
 q0RBvHVzrCk // CURSO SPARK AR STUDIO | Botones de opciones nativos #18
 kV3p73PwyL4 // CURSO SPARK AR STUDIO | Crear un fondo con una imagen #19
+0AsptEfZL7s // CURSO SPARK AR STUDIO | Más de dos caras en un filtro #20
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -259,6 +260,7 @@ EKDAbIzh1jg // FILTRO CON MARCO (Spark AR)
 Dfmn6VGCMgY // BAJAR EL TAMAÑO DE MI FILTRO DE INSTAGRAM (Spark Ar)
 C-xBETy7ZSk // CREA FILTRO DE PICKER (Spark Ar)
 G2BFWbVHZdE // Crear FILTRO OJO DE PEZ (Spark Ar)
+6waTndau1i0 // FILTRO SLIDER (Spark AR)
 
 # Emi Castro
 rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)
@@ -382,6 +384,7 @@ GPEworas1jE // Primer efecto y subida a Spark AR - Spark AR #2
 # galiaxy
 u4UsnVMNldE // como hacer filtros para instagram
 xhi8NJk7jYo // como hacer un filtro de color para instagram en spark ar
+8_Ttl6HPFgk // como hacer un filtro de face mesh con lut en spark ar para instagram
 
 # Gerald Bustos
 p_zLJ-tsOZE // CREA ESTOS FILTROS DE MODA PARA INSTAGRAM RÁPIDO! EXPLICADO AL DETALLE #SPARKAR

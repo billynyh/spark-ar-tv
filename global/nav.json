@@ -157,6 +157,11 @@
         "title": "Georgian",
         "url": "https://billynyh.github.io/spark-ar-tv/ka/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Hungarian",
+        "url": "https://billynyh.github.io/spark-ar-tv/hu/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -428,7 +433,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCh2gFKv1dmrTxmMRgzchmrQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/zPAEpZCu1QI/hqdefault.jpg",
       "title": "Channel: Spark AR Tutoriais em Portugu\u00eas",
-      "meta1": "Num videos: 120",
+      "meta1": "Num videos: 119",
       "meta2": null
     },
     {
@@ -453,16 +458,16 @@
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCJt1CtJlosyPZMuxBstwy4g.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/58zQ0f30xRY/hqdefault.jpg",
-      "title": "Channel: Emory Tan",
-      "meta1": "Num videos: 64",
-      "meta2": null
-    },
-    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
+      "meta1": "Num videos: 65",
+      "meta2": null
+    },
+    {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCJt1CtJlosyPZMuxBstwy4g.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/58zQ0f30xRY/hqdefault.jpg",
+      "title": "Channel: Emory Tan",
       "meta1": "Num videos: 64",
       "meta2": null
     },
@@ -763,17 +768,24 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-31.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/OxMVd0QpiaY/hqdefault.jpg",
+      "title": "Week 2020-08-31",
+      "meta1": "Num videos: 1",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-24.html",
       "thumbnail_url": "https://i.ytimg.com/vi/gevB5znAOsw/hqdefault.jpg",
       "title": "Week 2020-08-24",
-      "meta1": "Num videos: 88",
+      "meta1": "Num videos: 96",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-17.html",
       "thumbnail_url": "https://i.ytimg.com/vi/2ETyRJ_ij8o/hqdefault.jpg",
       "title": "Week 2020-08-17",
-      "meta1": "Num videos: 101",
+      "meta1": "Num videos: 102",
       "meta2": null
     },
     {
@@ -795,13 +807,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/EEcxAdzVo5s/hqdefault.jpg",
       "title": "Week 2020-07-27",
       "meta1": "Num videos: 135",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-07-20.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/x0M2fewrWaI/hqdefault.jpg",
-      "title": "Week 2020-07-20",
-      "meta1": "Num videos: 97",
       "meta2": null
     }
   ]

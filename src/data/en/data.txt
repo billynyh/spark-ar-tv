@@ -934,6 +934,7 @@ N5-rEoHylME // Spark AR: 30 LUTs and 20 Dust Textures for Instagram Effects.
 # lucas klubb
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
 v6ivp5rbBl0 // MAKE AN INSTAGRAM FILTER 2020 (Spark AR)
+OzRmUSKtcE8 // How to get Background Segmentation / Green Screen Effect on an Instagram Filter - Spark AR
 
 # Lucian Lupu
 gX8SItNwyts // HOW TO CREATE A FIGHT CLUB FILTER
@@ -1170,7 +1171,6 @@ LxVMfSci868 // How to make #Instagram #Filter: "white teeth" │ Spark Ar Studio
 Wt29aZ1avyA // Watch me build #6 │Spark Ar
 a1PODXhevGA // #Disposable camera effect  │ How to achieve #analog #film look
 sf8CbTSM0rE // Instagram Filter Tutorial | Doll Face
-jpCwUnf56AU // White Teeth Filter (Updated) │ Spark Ar Studio
 _xAAii2bCPg // White Teeth Instagram Filter Tutorial (Updated) │ Spark Ar Studio
 
 # Natalia Kovalchuk
@@ -1317,6 +1317,9 @@ Qc96WHqR_Tw // LearnFromHome | Intro to Spark AR | Programmer-Me | TinkerHub CUC
 
 # Projekt Teal
 BgUqvQLf1AA // Create and Publish your own INSTAGRAM FILTER in 15 Minutes! | Spark AR Tutorial
+
+# Projoe Photography
+OxMVd0QpiaY // SPARK AR | Bounce effect ( physics in spark ar )
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1570,6 +1573,7 @@ fstYyDxoYkA // Hand Tracking Filter Effect (3D Object, 360° Image) | Instagram 
 jaNqd3LJn_k // Distort Face & Add Retouching Filter Effect (Deformation) | Spark AR Studio | Instagram & Facebook
 A7mrmDQKNRw // 2D Animation Filter Effect (Keyframe, GIMP) | Spark AR Studio | Instagram & Facebook
 PG0bDvjyyXw // Multi-Camera Filter Effect (Duotone, Tritone, Luminance) | Spark AR Studio | Instagram & Facebook
+GVT2BqkTH2M // Reactive Face Distort Filter Effect (Deformation, IG Music) | Spark AR Studio | Instagram & Facebook
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
@@ -1865,6 +1869,7 @@ jV0iTOAL-Do // Fix Lut artifacts in Spark AR
 eaoNIArRHR4 // Spark AR Tutorial - Animating Object Reveal with Transparency
 
 # Yup Maddy
+b9RWV2ehBaQ // (AR) Indian kathakali
 J0EkFDMFXuM // SparkAR world AR effect Ocean filter.
 
 # Yvon C.
