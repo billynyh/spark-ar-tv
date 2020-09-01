@@ -595,6 +595,7 @@ XEYbjXe0TIE // SPARK AR - Iris Tracking & Triggered Eyes Meme Tutorial
 y2j9n2g8bZc // Spark AR - Native UI Picker Tutorial (With LUT Switch)
 YhfveCO0YL4 // SPARK AR - Fixed Target Tracker Tutorial (With 3D Animations)
 NudoSpzSt7Q // SPARK AR - Native UI Picker with LUT Switch (NEW)
+MSda4S6PHzE // SPARK AR - Object Placement (Piercing)
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1172,9 +1173,13 @@ Wt29aZ1avyA // Watch me build #6 │Spark Ar
 a1PODXhevGA // #Disposable camera effect  │ How to achieve #analog #film look
 sf8CbTSM0rE // Instagram Filter Tutorial | Doll Face
 _xAAii2bCPg // White Teeth Instagram Filter Tutorial (Updated) │ Spark Ar Studio
+wA8fPhIddJM // Facebook & Instagram Filter │ Spark Ar Studio
 
 # Natalia Kovalchuk
 yBZAW99Bupw // Spark AR tutorial. Basic filter tutorial
+
+# Natalya Dhawan
+G22q-w6T0jc // Spark Ar Tutorial / Make your own instafilter
 
 # Nathaniel Waite
 ndMFX7N545I // How to create your own instagram filter with spark Ar Studio
@@ -1319,6 +1324,14 @@ Qc96WHqR_Tw // LearnFromHome | Intro to Spark AR | Programmer-Me | TinkerHub CUC
 BgUqvQLf1AA // Create and Publish your own INSTAGRAM FILTER in 15 Minutes! | Spark AR Tutorial
 
 # Projoe Photography
+FW89BR2sJDg // SPARK AR | Instagram Birthday Filter "3D" (Happy Birthday Filter)
+Sqv3MEDbno0 // SPARK AR | Smooth Spin patch / wheel of fortune
+szindewGakk // SPARK AR | Smooth (random) color patch
+cf_t7eutmJw // SPARK AR | Colour transition patch (smooth)
+cLl2E3MgfnE // SPARK AR | INFRA LUT ( Rose LUT / INFRARED LUT ), VIRAL Infra Instagram filter
+oXXfrxz-DxA // SPARK AR | INFRA LUT: Viral Purple Valley LUT (Instagram filter)
+ceBbJ5GmJj8 // SPARK AR | What Disney Character | Instagram filter ( What Disney Character are you? )
+LAB8i_Gpzts // SPARK AR | PHOTOBOOTH Filter + with TIMER and FLASH ( photo booth instagram filter )
 OxMVd0QpiaY // SPARK AR | Bounce effect ( physics in spark ar )
 
 # Q_Real_Dev

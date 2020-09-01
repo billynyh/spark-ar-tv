@@ -6,7 +6,10 @@ from lib.data_loader import *
 from numpy import unique
 
 def dump_site(site):
-    groups = regroup_by_channel(site.groups, site.video_data)
+    data_dir = "data/%s" % site.lang
+    skip_ids = set(load_skip_ids(data_dir))
+
+    groups = regroup_by_channel(site.groups, site.video_data, skip_ids)
     groups = sorted(groups, key = lambda group: group.title.lower())
     fix_title = True
     return dump_groups(groups, site.video_data, fix_title)
@@ -35,13 +38,15 @@ def dump_groups(groups, video_data, fix_title):
         lines.append("")
     return lines
 
-def regroup_by_channel(groups, video_data):
+def regroup_by_channel(groups, video_data, skip_ids):
     lines = []
     ids = []
     for group in groups:
         ids += group.ids
     channels = {}
     for id in ids:
+        if id in skip_ids:
+            continue
         v = video_data[id]
         c = v.channel_id
         if not channels.get(c, None):

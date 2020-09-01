@@ -112,6 +112,7 @@ f_xomb7TZ5c // Spark AR: AÑADIR INSTRUCCIÓN "TOCA PARA CAMBIAR"
 OVOZOnhxNd4 // COMO PUBLICAR FILTROS PARA INSTAGRAM EN SPARK - Filtros para instagram.
 lJZUAZaXV3A // APRENDE A HACER FILTROS DE COLOR PARA INSTAGRAM FÁCIL CON LIGHTROOM
 rM_VP1RsqAU // CÓMO PONER TEXTO EN TUS FILTROS DE INSTAGRAM - Fecha / Día / Hora
+eliHWyS51mY // ¡FILTROS DE INSTAGRAM CON SECUENCIA DE IMÁGENES ALEATORIAS! Fácil.
 
 # Colorcloud
 NwAA7D5sujY // How to submit - Spark AR Hub
@@ -345,6 +346,7 @@ WhOiOkmn6lU // Spark AR Instagram Music Reactive with Face Distortion (EN Captio
 _3WRxVDS0PM // Create Buildings easily with Blender ➡️ Spark AR, ARjs, Unity (EN Captions)
 jPZabhjjUC4 // FaceReplaced App | Augmented Reality Filter Maker (EN Captions)
 K1u79Ik8F60 // Spark AR - Create 3D eyes for your filters | Connect face expressions (EN Captions)
+64ooXKVKxDQ // Spark AR Tutorial - Trees and Castle with Blender (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
