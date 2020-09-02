@@ -77,6 +77,7 @@ HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 6g5GdU33Eyk // 3 Useful Mouth Open Patch Ideas for SPARK AR
 ylM8OOwl0E0 // Spark AR Glitter Effect Tutorial [Add 2 eye colors, create textures with a 3D model in Photoshop]
 xx85k3KITVM // Spark AR True or False Game Part2 (Game Logic for Multiple Questions with Timer settings)
+bWDlg0Yoctg // How to create an Instagram Color Picker Filter in Spark AR
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio

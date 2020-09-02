@@ -109,6 +109,7 @@ LoZJvd8siQ4 // Create LEGO shader! | Spark AR tutorial pixelate
 EWh7NmtggU4 // Apply any effect to 3D OBJECT || Spark AR + TUTORIAL
 PY-rDbl369I // Person delay, 1000 Hands Dance effect || Spark AR quick TUTORIAL
 0D6SDT-wZM4 // Make realistic shadow || Spark AR tutorial render pass
+ESCllbFxAeI // Rigged face deformation || Spark AR Tutorial + Project
 
 # Andrew Fennell
 yIHY801sNmE // How to turn your LIGHTROOM PRESETS into INSTAGRAM STORY FILTERS with Spark AR Studio | Tutorial
@@ -866,6 +867,7 @@ QgA5q4nFT7c // Vsynth Lockdown 2 - Vsynth for Spark
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
 8dE-QYTpTQw // HOW TO ACHIEVE SLIMMING EFFECT IN SPARK AR   Deformation, Plastic Surgery Look
+YT1Bk-Fk2HM // MAKE AN INSTAGRAM FILTER/MASK 2020 - Spark AR
 
 # laily rosli
 9RQi9PkQ5X0 // Created my own face filter | STOP!
@@ -1367,6 +1369,7 @@ ngJHngyCQJg // How to Freeze a Picture by using Render Pass in Spark AR (Step-by
 veWmGyZwxSM // Spark AR Beauty Tutorial for Beginner (Bright Eyes, glowing Highlights, Eyelashes, Teeth Whitening)
 ylM8OOwl0E0 // Spark AR Glitter Effect Tutorial [Add 2 eye colors, create textures with a 3D model in Photoshop]
 xx85k3KITVM // Spark AR True or False Game Part2 (Game Logic for Multiple Questions with Timer settings)
+bWDlg0Yoctg // How to create an Instagram Color Picker Filter in Spark AR
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR

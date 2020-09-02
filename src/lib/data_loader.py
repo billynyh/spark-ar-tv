@@ -188,7 +188,7 @@ def sort_by_view_count(ids, video_data):
     return sorted(ids, key=lambda id: -int(video_data[id].view_count))
 
 def remove_invalid_ids(ids, video_data):
-    return [id for id in ids if video_data.get(id, None)]
+    return list(set([id for id in ids if video_data.get(id, None)]))
 
 def load_site_data(config, path, video_cache, merge_small_groups = True):
     api_key = config.api_key
