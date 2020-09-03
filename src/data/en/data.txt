@@ -476,6 +476,9 @@ np7oN_JKPTE // Effects Maker Filter Creator Spark AR Effect Tutorial Intro
 # Eggbadger
 0ZLihpY-Leo // VLOG • aug 2019 • Making Instagram Filter 🕊 | eggbadger
 
+# Ekanaut
+epxBb4qSIZo // Put a Bird on it!  Making an AR filter for Instagram Tutorial
+
 # EL Baakili Des
 zUehmnaTZkE // [Spark AR] How to create your own filter effect on instagram. (English & Arabic subtitle)
 
@@ -618,12 +621,16 @@ JxU8q2O44eQ // How to make Neon Text Around the Head Instagram Filter | Spark AR
 v0bw2jubLFM // How to make Instagram Mirror Filter | Spark AR Studio Tutorial
 zI9tWNWgeeo // How to make Plastic Surgery Instagram Filter | Spark AR Studio Tutorial
 Dl4KcGFSGjY // How to make a Cute Simple Instagram Filter | Spark AR Studio Tutorial
+htYbWClazFM // How to make Highlighter + Simple Filter | Spark AR Studio Tutorials
 
 # Gilligan Faust
 iJe0A35Abro // Instagram Filter upload tutorial (Spark AR)
 
 # Girish Kario
 SsasjFJvlPo // Turn your LIGHTROOM PRESETS into INSTAGRAM FILTERS in 10 minutes!
+
+# GirlScript Foundation
+5je9E2daVSs // Augmented Reality with SparkAR | GirlScript Regional Summit Bihar|  Chinmay Mokhare
 
 # GOWAAA official
 5mxg9FUODV8 // Spark Swizzle Hack #3 with Kavin
@@ -1248,6 +1255,9 @@ KI6QXOiJ5ew // How to Create Instagram Filter | Designing SPARK AR   Quiz Tutori
 # Oksana Korol
 7Bfs3YfHpJU // HOW TO MAKE INSTAGRAM FILTER IN 3 MINUTES/ WORK WITH SKIN (Spark AR)
 
+# OkStateLibrary
+J92MLTLl7Jk // Tech Tuesday @ 2 How To Make Interactive Instagram Filters
+
 # Oliver Lardner
 Ii5xM6TeVWQ // Selective Colour Video LUT (good for for Spark AR)
 
@@ -1590,6 +1600,8 @@ jaNqd3LJn_k // Distort Face & Add Retouching Filter Effect (Deformation) | Spark
 A7mrmDQKNRw // 2D Animation Filter Effect (Keyframe, GIMP) | Spark AR Studio | Instagram & Facebook
 PG0bDvjyyXw // Multi-Camera Filter Effect (Duotone, Tritone, Luminance) | Spark AR Studio | Instagram & Facebook
 GVT2BqkTH2M // Reactive Face Distort Filter Effect (Deformation, IG Music) | Spark AR Studio | Instagram & Facebook
+DAVXQQsuHhQ // Border Frame Template Package (Gumroad, Aesthetic, Scale) | Spark AR Studio | Instagram & Facebook
+3SY8tmszYr8 // Border Frame Template Package Trailer | Spark AR Studio | Instagram & Facebook
 
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
@@ -1811,6 +1823,7 @@ Mp452V1Ablo // Using the Scene Render Pass patch
 -Zv43Jq-tUk // Creating a photo booth using the Delay Frame patch - Spark AR tutorial
 gzBH6c_NYSA // Using Face mesh with render pass - Spark AR tutorial
 uBx_Zd-bkzg // Using the Audio Player patch - Spark AR Tutorial
+tHNDffnecfE // Creating a neon twin filter using the sobel patch - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
