@@ -263,9 +263,6 @@ C-xBETy7ZSk // CREA FILTRO DE PICKER (Spark Ar)
 G2BFWbVHZdE // Crear FILTRO OJO DE PEZ (Spark Ar)
 6waTndau1i0 // FILTRO SLIDER (Spark AR)
 
-# Emi Castro
-rFLTU08mZ8E // Como hacer tus propios filtros para instatram (SparkAR - Español)
-
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
 VsLjCqNBd1o // Spark AR Tutorial:  Hand Tracker en español
@@ -293,14 +290,14 @@ LHVQk-ICgMk // Spark AR - Photogrammetry + Target Tracker Instagram | Display La
 Z89FJw9ayfI // Kira Kira  Filter Instagram by Chris Price | ¿Cómo nació el filtro?
 ojIQ-i6heBg // 3D object above your head | Spark AR & Lens Studio Tutorial
 tW0PHxMX63Q // Ahhh Filter - David OReilly - Storytelling Filter
-doNaxDHp-Gc // Spark AR Tutorial - Occlusion Portal and Hole in the Floor | spark ar tutorial
+doNaxDHp-Gc // Spark AR Tutorial - Occlusion Portal and Hole in the Floor (EN Captions)
 M4QSecKIzjE // Spark AR - Random Image Sequence | Filter Parecidos Razonables
 mUvbAq9dAN4 // Spark AR v78: AR Library ¿cómo usarlo?
 5fERiVVXcyM // Spark AR - Random Image Sequence | Part II | Disney & Pokemon Character
 hNgYIAtezbo // Which Disney character are you | what Pokemon are you | Random Filters Trends
 oarBdkJtL5o // Spark AR - Random Image Sequence | Part III | Next Vacation
 eLSTvhfQUa4 // Spark AR - Face Extraction Part II | Imagen estática & objeto 3d
-hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid
+hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid (EN Captions)
 h72hzXEfjdM // Spark AR - Iris Tracking Instagram Filter
 zJAYvJbCR_k // Spark AR  - Templates: Head, Neck Decoration, World Object | Instagram
 Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
@@ -328,24 +325,24 @@ iEZV5R4jkBw // Spark AR Tutorial - Draw with Particles | Face Tracker | Gallery 
 C5k_kgy_n_4 // Spark AR - Audio Energy meter | V89 - New functionality
 rCyYFSEofd0 // Spark AR Tutorial - Microphone with Audio Analyzer Patch (EN Captions)
 7mEdCBw8Nhs // Spark AR How to upload your filter to instagram? ¿Cómo subir tu filtro? | (EN Captions)
-ybf4fzlMg1Q // 3D Capture buildings & virtual landscapes for Spark AR | Google Earth, Minecraft | EN Captions
-w4okUPYbn-k // Spark AR Tutorial - Instagram Music Patch - How to use it?
+ybf4fzlMg1Q // 3D Capture buildings & virtual landscapes | Spark AR Tutorial | Google Earth| EN Captions
+w4okUPYbn-k // Spark AR Tutorial - Instagram Music Patch - How to use it? (EN Captions)
 OLiHAXBxSUQ // Spark AR Tutorial - Ground Hole Occlusion (EN Captions)
 sOz0Ozf06W4 // Spark AR Tutorial -  360° panoramic images with Blender | Sphere (EN Captions)
 hLXxRH9LXZ4 // Spark AR Tutorial - 'Point Cloud' Effect with Blender 3D | Experiment (EN Captions)
-o0vQRc1MeJk // Spark AR V92 -  Blender Toolkit & Environment Textures (EN Captions)
+o0vQRc1MeJk // Spark AR Tutorial V92 -  Blender Toolkit & Environment Textures (EN Captions)
 J2Egalhe4ng // Spark AR Tutorial - Blur Delay with Person Segmentation | Render Pass (En Captions)
-W0BttZ83mdk // Spark AR Render Pass Freeze - Clone Effect - Tiktok style
-kqVtKVaxzLk // Spark AR - Face Extraction into image sequence | With Blender (EN Tutorial)
-KcwPq9cKdMY // Spark AR Tutorial - Audio Tips | Microphone and M4A file (EN Captions)
-EEcxAdzVo5s // Photo to 3d mesh to work with Spark AR & Blender | PIFuHD Project (EN Captions)
+W0BttZ83mdk // Spark AR Tutorial - Render Pass Freeze / Clone Effect - Tiktok style
+kqVtKVaxzLk // Spark AR Tutorial - Face Extraction into image sequence | Blender (EN Captions)
+KcwPq9cKdMY // Spark AR Tutorial - Audio Tips | Microphone & M4A (EN Captions)
+EEcxAdzVo5s // Photo to 3d mesh to work with Spark AR Tutorial & Blender | PIFuHD Project 🧍 (EN Captions)
 rvZS3FdnMsA // Photo to animated 3d mesh |  Blender ➡️ Mixamo ➡️ Spark AR | PIFuHD 🧍 (EN Captions)
 YsG5cM1SUQs // Spark AR Tutorial - Make your LUTs | Option Picker & Picker UI (EN Captions)
-xVD5RgsgwMo // Spark AR Tutorial - Face Deformation + LUT (EN Captions)
+xVD5RgsgwMo // Spark AR Tutorial - Face Deformation with Blender + LUT  (EN Captions)
 WhOiOkmn6lU // Spark AR Instagram Music Reactive with Face Distortion (EN Captions)
-_3WRxVDS0PM // Create Buildings easily with Blender ➡️ Spark AR, ARjs, Unity (EN Captions)
+_3WRxVDS0PM // Spark AR Tutorial - Create Buildings 🏬 easily with Blender addon (EN Captions)
 jPZabhjjUC4 // FaceReplaced App | Augmented Reality Filter Maker (EN Captions)
-K1u79Ik8F60 // Spark AR - Create 3D eyes for your filters | Connect face expressions (EN Captions)
+K1u79Ik8F60 // Spark AR - 👁️ Create 3D eyes for your filters | Connect face expressions (EN Captions)
 64ooXKVKxDQ // Spark AR Tutorial - Trees and Castle with Blender (EN Captions)
 
 # Entretags
@@ -403,7 +400,7 @@ U_KBtWEFuSQ // ✧ Cómo hago mis propios filtros de Instagram ✧
 FpIApJHKDns // Cómo hacer filtros para Instagram, face mask | @helentech_
 
 # Heriberthiin Carrasco
---X6veFe5bk // ¡Como crear tus propios Filtros Para Instagram super fáciles! Paso a paso y como publicarlos
+--X6veFe5bk // ¡Filtros Para Instagram Stories super fáciles! Paso a paso y como publicarlos
 
 # Iesther Eslla- SFY
 yEnYy03BUx4 // COMO CREAR FILTROS PARA INSTAGRAM || @iesthereslla
@@ -469,23 +466,20 @@ Al-DMSSlGY4 // Tutorial RenderPass básico. Filtro de instagram.  Full Project -
 # Laura Rodríguez
 bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
 
-# Lovely ely
-IyTHvOmZ5mk // Como hacer filtros para Instagram con spark ar y PicsArt 🌷✨
-
 # LUZIA EDITS
 66vkYMx3VPk // COMO CREAR FILTRO PARA INSTAGRAM *FÁCIL* | Spark Ar tutorial
-BoCBkM9WDLg // Como CREA filtro de BELLEZA para Instagram | Spark Ar
+BoCBkM9WDLg // Como CREA filtro de BELLEZA  + BIG LIPS para Instagram | Spark Ar
 saNUNVLRHiE // CREA filtro KIRA KIRA sparkle para instagram | SPARK AR TUTORIAL
 3mRjKia7zNo // Como hacer filtro BRILLOS GLITTER para intagram | SPARK AR TUTORIAL
 UZ1h5IVdWD4 // Como crear filtro FECHA Y HORA para Instagram | Spark Ar
 Etm7kpsvFWY // Crear un filtro con bordes POLAROID o KODAK │Spark Ar Instgram tutorial
 lPxzt7ALzJQ // Crea un filtro *Tocar para cambiar* | SCREEN TAP | Spark Ar Instagram
 HPloAcz7vRo // PICKER UI & SCREEN TAP con texturas │ Spark Ar tutorial
-S3SLnEF13IY // Como crear un LUT con LIGHTROOM | SPARK AR
-BPUKzftihEg // CREA un filtro de PARTICULAS emojis | SPARK AR TUTORIAL Partycle System
+S3SLnEF13IY // Como crear un LUT con LIGHTROOM *GRATIS* | SPARK AR
+BPUKzftihEg // Como CREAR un filtro de PARTÍCULAS  | Spark Ar TUTORIAL Partycle System
 
 # MAB55
-heyGpK9TDsM // ▶️ ✅ Cómo descargar e instalar Spark AR Studio de Facebook en Mac [ 𝟮𝟬𝟮𝟬 ] | Tutorial mac Mab55
+heyGpK9TDsM // ▶️ ✅ Cómo descargar e instalar Spark AR Studio de Facebook en Mac [ 𝟮𝟬𝟮𝟬 ] | Tutorial PC Mab55
 
 # mabu garduño
 y9YSoe19jr8 // ¡CREA y PUBLICA tus propios FILTROS de INSTAGRAM! ♥

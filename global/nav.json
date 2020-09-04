@@ -228,7 +228,7 @@
       {
         "title": "Face Retouching",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/face-retouching.html",
-        "video_count": 37
+        "video_count": 36
       },
       {
         "title": "Face extraction",
@@ -283,12 +283,12 @@
       {
         "title": "Kid creators",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/kid-creators.html",
-        "video_count": 24
+        "video_count": 23
       },
       {
         "title": "LUT",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/lut.html",
-        "video_count": 133
+        "video_count": 132
       },
       {
         "title": "Laser eyes",
@@ -363,7 +363,7 @@
       {
         "title": "Random image game / head quiz",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/random-image-game.html",
-        "video_count": 51
+        "video_count": 50
       },
       {
         "title": "Render Passes",
@@ -447,7 +447,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC3zmATtNhDuYOketH1zF5sw.html",
       "thumbnail_url": "https://i.ytimg.com/vi/_BHo-QcQbgU/hqdefault.jpg",
       "title": "Channel: Catalyst",
-      "meta1": "Num videos: 77",
+      "meta1": "Num videos: 78",
       "meta2": null
     },
     {
@@ -482,7 +482,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html",
       "thumbnail_url": "https://i.ytimg.com/vi/FT5D8oGnnOY/hqdefault.jpg",
       "title": "Channel: Rudy Anwar",
-      "meta1": "Num videos: 57",
+      "meta1": "Num videos: 58",
       "meta2": null
     },
     {
@@ -495,7 +495,7 @@
     {
       "url": "https://www.youtube.com/watch?v=3bJ4SVZTbvg",
       "thumbnail_url": "https://i.ytimg.com/vi/3bJ4SVZTbvg/hqdefault.jpg",
-      "title": "MoCap to SparkAR | Tutorial",
+      "title": "MoCap into SparkAR | Tutorial",
       "meta1": "Movement in Capture",
       "meta2": "2020-08-08"
     },
@@ -621,7 +621,7 @@
     {
       "url": "https://www.youtube.com/watch?v=mNojP__CrDM",
       "thumbnail_url": "https://i.ytimg.com/vi/mNojP__CrDM/hqdefault.jpg",
-      "title": "Spark Ar Tutorials - NEON OUTLINES smoothly fading into CAMERA texture using SDF",
+      "title": "Spark Ar Tutorials - NEON OUTLINES + CAMERA TEXTURE Smooth transition - using SDF + COLOR LUT",
       "meta1": "Natived Filters Laboratory",
       "meta2": "2020-04-02"
     },
@@ -771,14 +771,14 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-31.html",
       "thumbnail_url": "https://i.ytimg.com/vi/d7xo49LWidc/hqdefault.jpg",
       "title": "Week 2020-08-31",
-      "meta1": "Num videos: 45",
+      "meta1": "Num videos: 55",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-24.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/gevB5znAOsw/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/kjgJ9OOq5FU/hqdefault.jpg",
       "title": "Week 2020-08-24",
-      "meta1": "Num videos: 96",
+      "meta1": "Num videos: 95",
       "meta2": null
     },
     {
@@ -790,23 +790,23 @@
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-10.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/yPkFKVFcSHE/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/veWmGyZwxSM/hqdefault.jpg",
       "title": "Week 2020-08-10",
-      "meta1": "Num videos: 91",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-03.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/V4yWuTgxWLw/hqdefault.jpg",
-      "title": "Week 2020-08-03",
       "meta1": "Num videos: 89",
       "meta2": null
     },
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-03.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/A8-ppp9vIQk/hqdefault.jpg",
+      "title": "Week 2020-08-03",
+      "meta1": "Num videos: 88",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-07-27.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/EEcxAdzVo5s/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/rElpDtxS9Xk/hqdefault.jpg",
       "title": "Week 2020-07-27",
-      "meta1": "Num videos: 135",
+      "meta1": "Num videos: 133",
       "meta2": null
     }
   ]

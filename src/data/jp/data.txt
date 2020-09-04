@@ -23,15 +23,15 @@ D9Dw4xKQxt4 // 光の反射とshaderの関係と、レイヤー、セグメン�
 KDcRn-ItkDQ // 【ノーコード】NARUTOのカカシになれるインスタフィルターをつくる - Spark ARの使い方 #5
 
 # Takeshi Nagata
-KKZfl52txqw // Spark AR Studio 06 Upload Your Face Filter
-f5KWtn-ea5Y // Spark AR Studio 04 Face Distortion, Retouching and more.
-pc5UpzPUtLM // Spark AR studio 03 Animation Basic 2
-Vy6u4Dmpl7g // Spark AR studio 02 Animation Basic 1
-oxjJQjYg1gc // Spark AR Studio 01 3D Bricolage
-5AchseTrsy0 // Spark AR Studio 05 Eye Ball
-_ZedgF6vrvI // [MAYA] Export multiple animations into one FBX file [SPARK AR STUDIO TIPS]
+KKZfl52txqw // [Japanese] Spark AR Studio 06 Upload Your Face Filter
+f5KWtn-ea5Y // [Japanese] Spark AR Studio 04 Face Distortion, Retouching and more.
+pc5UpzPUtLM // [Japanese] Spark AR studio 03 Animation Basic 2
+Vy6u4Dmpl7g // [Japanese] Spark AR studio 02 Animation Basic 1
+oxjJQjYg1gc // [Japanese] Spark AR Studio 01 3D Bricolage 日本語
+5AchseTrsy0 // [Japanese] Spark AR Studio 05 Eye Ball
+_ZedgF6vrvI // [Japanese] Export multiple animations into one FBX file [MAYA, SPARK AR STUDIO TIPS]
 
-# VR Creaors LABO
+# VR Creators LABO
 i4M0fpjOZFs // 自分で作れる　インスタエフェクト作成講座＜NO.2＞SparkAR　顔面変形
 dxhCJlQQQpg // インスタエフェクト作成講座＜NO.１＞SparkAR　フェイスフィルターの作り方
 D34G7YlNg_E // 自分で作れる！インスタエフェクト作成講座＜NO.３＞SparkAR　背景変更方法
@@ -43,7 +43,7 @@ IBegiuipv6Q // 自分で作れる！インスタエフェクト作成講座＜NO
 AjQrfhbV6Es // １番最初に見るべき基本操作！SparkARで自分で作れるインスタエフェクト講座
 GaIzdi94Yqg // SparkARでパーティクルで桜吹雪作成自分で作れるインスタエフェクト講座
 Gy3XgAdE8Fg // SparkARでマーカーから３Dモデルを出現させよう！！ARコンテンツ作成チュートリアル
-8LipkX8Hexg // SparkARで＜複数人の顔を認識＞facetracker！！ARコンテンツ作成チュートリアル
+8LipkX8Hexg // SparkARで＜２人以上の顔を認識＞facetracker！！ARコンテンツ作成チュートリアル
 kj5HmhtA5OU // SparkARで＜美肌filiterを作成しよう！！＞ARコンテンツ作成チュートリアル
 _IPDD6LKfoU // SparkARインスタフィルター作成講座＜パッチエディター＞ARコンテンツ作成チュートリアル
 weKTyxJkZAk // SparkARインスタフィルター作成講座＜化粧AR・LIP編＞ARコンテンツ作成チュートリアル
