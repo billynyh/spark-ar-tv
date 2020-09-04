@@ -342,6 +342,7 @@ UY1FKVDS6hM // Super Simple Two Light Effect (Neon Colours) | Spark AR Studio
 vxjhU-4nr1k // Freeze Frame & Motionblur [Renderpass Effects] | Spark AR
 gb9CyckJZXo // Face Extract + Scene LUT Renderpass [Splitface Revisited] | Spark AR
 0QsPEDeM0So // HDR Environments | Spark AR Studio
+jOeOTHCUAX8 // Adjusting Opacity (The Easy Way) | Spark AR Studio
 
 # CC in Tassie
 Zwqs8Tv54Vw // Blink of Eye Workshop - National Science Week TAS 2020
