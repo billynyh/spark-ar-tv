@@ -39,6 +39,8 @@ UyY0isKlq_I // [Spark AR]샤넬필터 만드는 법(명품필터_LV SHINE)/ Inst
 5v_iV4-rJXg // [Spark AR]머리에 헤드폰 씌우기/쉽고 빠른 튜토리얼(quick tip with templates)
 QheCSsI6VAI // [Spark AR]Multiple Face tracking-two face/두 명 이상 효과 적용하기
 JcsLo3WHu9A // [Spark AR]배경과 피부보정/템플릿 활용하기_Background Template
+bdRmBwpN2GQ // [Spark AR]인물 주변에 선 만들기_how to make outline with background template
+bA_QB3AoQ_c // [Spark AR]배경과 함께 인물 주변에 선 만들기_how to make outline with background template
 
 # 손호성
 pD7WF5BIFgM // SparkAR 간단히 만든 플라워이펙트
