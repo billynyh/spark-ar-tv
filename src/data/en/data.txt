@@ -696,6 +696,7 @@ LcGQ1iS-bAk // Spark AR Studio - Scanner Face V2
 uDnUG5raBf4 // Brightness Patch Spark AR Studio
 41jIRnRgths // Spark AR - Texture Distortion Shader
 9gbp7VBDNa4 // Spark AR - Texture Distortion Shader v2.0
+8EUY7kWtNyE // Spark AR - Dissolve Shader
 
 # Ian Johnson
 lTA7_y-dZxY // Four faces effect with Spark AR Studio
@@ -740,6 +741,7 @@ wKwvxKprXAI // How to create glossy lips filter in spark AR tutorial | Augmented
 PML1MbyK-GM // Eyelashes & Eyeliner Spark AR filter tutorial | Augmented Reality | (Download link in description)
 GzeZSfo23Fo // Nose Ring Nose Piercing AR Filter | Tutorial Spark AR | (Download link in description)
 BFB5E-v3LmE // Road fighter car racing game spark ar tutorial using head controls | Download link in description
+KpmTQJeBE_M // HOW TO ANIMATE IN SPARK AR TUTORIAL | Transition Patch
 
 # Jayasurya Aasaithambi
 yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
@@ -902,6 +904,7 @@ EFuJl_SIuGA // WHY YOU SHOULD CREATE YOUR OWN INSTAGRAM FILTER
 HsA3KygaCwY // VIRTUAL PLASTIC SURGERY FILTER EFFECT WITH SPARK AR
 ZCaTuwDMBIw // SPARK AR GLITTER RAINBOW TEARS FILTER EFFECT
 amAj-nkujNc // ADD CUSTOM REAL TIME SIMULATOR VIDEOS IN SPARK AR
+3yZzjYxkRlw // MALEFICENT INSPIRED FILTER EFFECT, Spark AR tutorial
 
 # LATE_FX
 aiG3bCK15XY // SPARK AR DESIGN  LIVE WORKFLOW V2 : DBZ MEDICAL MACHINE
@@ -1440,6 +1443,7 @@ CZeTR7DzPg4 // Spark AR Tutorial: Ink or Smoke Reveal Filter | Instagram
 yGBv4zTIoHY // Spark AR Tutorial  | How to Make Augmented reality Business card | [Instagram & Facebook]
 ia2mMwK1lSw // Spark AR Tutorial | Create Liquid Illusion filter(water effect)|Normal map Baking [Instagram]
 oeINfpBf328 // Spark AR Tutorial | Face Deformation Filter In Instagram And Facebook
+Mppkv5Imd7M // Spark Ar Tutorial| Create T-shirt configurator for Instagram [Gallery Picker + Image target]
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio

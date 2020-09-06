@@ -9,3 +9,4 @@ VloKY9LIAsI // Audio reactive filter using Audio analyzer V89 tutorial for begin
 S3h_prLLvcc // Spark AR: How to create LUTs in Photoshop for Instagram filters(Nepali Language)
 ia2mMwK1lSw // Spark AR Tutorial | Create Liquid Illusion filter(water effect)|Normal map Baking [Instagram]
 oeINfpBf328 // Spark AR Tutorial | Face Deformation Filter In Instagram And Facebook
+Mppkv5Imd7M // Spark Ar Tutorial| Create T-shirt configurator for Instagram [Gallery Picker + Image target]
