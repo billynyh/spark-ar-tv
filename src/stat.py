@@ -156,7 +156,9 @@ def dump_lang_stat(master):
             dup = ids1.intersection(ids2)
             if len(dup) > 0:
                 print("%s - %s" % (k1, k2))
-                print(dup)
+                for id in dup:
+                    url = "https://www.youtube.com/watch?v=%s" % id
+                    print("%s" % url)
     return stat
 
 def dump_channel_stat(site, video_data):
