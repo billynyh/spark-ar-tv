@@ -773,6 +773,7 @@ Nz-kIR8RXto // CS final: Instagram 3D object Interactions via Spark AR
 # Jivesh Piplani
 maRyEJJICdA // Facebook Augmented Reality Hackathon 2020 Submission by Jivesh Piplani.
 W5ipARDtJHQ // How to create water in Spark AR Studio | Tutorial
+2UCSkIGQ9yQ // Hologram Projector Demo made with Spark AR Studio.
 
 # John Abreu
 bCcxHrvoz4g // My Effect went VIRAL on Instagram
@@ -1361,6 +1362,7 @@ ceBbJ5GmJj8 // SPARK AR | What Disney Character | Instagram filter ( What Disney
 LAB8i_Gpzts // SPARK AR | PHOTOBOOTH Filter + with TIMER and FLASH ( photo booth instagram filter )
 OxMVd0QpiaY // SPARK AR | Bounce effect ( physics in spark ar )
 uvXTOr8eaXI // SPARK AR | White Teeth ( teeth whitening effect for a brighter smile )
+VO7_hFTDyds // SPARK AR | Scan effect ( Copy and Paste )
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1691,6 +1693,9 @@ Xj1ha3n6LhE // Spark AR Studio
 
 # Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro
+
+# SRI RAKSHITHA A K
+kamuwiffw98 // Let's explore the Space | Facebook AR Hackathon | Augmented Reality
 
 # STEFFIE HARNER
 6F6qqEQf2QA // Spark AR: Beginner Javascript Animations for IG Filters | Steffie Harner
