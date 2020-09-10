@@ -384,6 +384,7 @@ yVknipD3E2Q // CREATE YOUR OWN DUST/GRAIN EFFECT FILTER ON INSTAGRAM USING SPARK
 wWNEvb-SEBA // TURN YOUR LIGHTROOM PRESETS INTO INSTAGRAM FILTER | Spark Ar fast&easy | PART 3
 --tAv0lXasM // LEARN HOW TO PUT EYELASHES USING SPARK AR | fast&easy | Clara Ponesto
 kvxTmJflHcA // LEARN HOW TO CUSTOMIZE EYELASHES ON SPARK AR | fast and easy | Clara Ponesto
+rCaHRpIR8t4 // HOW TO ADD CONTACT LENS IN SPARK AR | fast&easy | Clara Ponesto
 
 # CodeDay
 Ts1y3owGppI // Tech Talk: SparkAR Instagram Filters - Jacqueline Yang, Bailey Hirota, Carmen Wu
@@ -819,6 +820,7 @@ QE_4YmwNt2o // 2D Face Tracking in Spark AR
 nN3CIi17lnI // Animated Native UI Picker Icons in Spark AR
 9t3lMBq0VIk // Holographic Face Sticker for Spark AR
 6iRmdFx6CWY // Spark Color Adjustment Update
+wDQQzZ2jOwQ // PopulAR Lab: XR Forum
 
 # Josh Bedo
 zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook image filter
@@ -1131,6 +1133,9 @@ Q8JDRYiCHHg // Free Spin A Wheel Game Template : Spark AR Studio
 # MercaTecnia
 y8clNu8MEe4 // Spark AR Studio - Catrina [tutorial]
 7_LHINnVwaM // Mostacho [Spark instagram tutorial]
+
+# Michaela Manalang
+KXmFGVK3fPo // HOW TO MAKE AN INSTAGRAM FILTER TUTORIAL ( 1 FILTER AND COMBINATION OF 2 FILTERS)| MICHAELA MANALANG
 
 # Midnight Typers
 yc5ohk_Nxng // Make filter effect with SPARK AR like "The Mandela Effect" movie
@@ -1623,6 +1628,9 @@ IViXtq2G-kQ // Infinite Carousel Filter Effect (Loop Animation, Camera) | Spark 
 o54z4yTrKLs // Parallax Filter Effect (Loop Animation, Video Game, Cartoon)| Instagram Facebook | Spark AR Tutorial
 6f0rP9PX2y0 // Split Screen Filter Effect (Multi-Patch, Camera Texture) | Instagram & Facebook | Spark AR Tutorial
 
+# Silver Oak University IEEE SB
+BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
+
 # Singye Bidha Jimba
 5Q732Xp275c // Basic Instagram Filter Tutorial- Spark AR (Face Mesh)
 
@@ -1838,6 +1846,7 @@ Mp452V1Ablo // Using the Scene Render Pass patch
 gzBH6c_NYSA // Using Face mesh with render pass - Spark AR tutorial
 uBx_Zd-bkzg // Using the Audio Player patch - Spark AR Tutorial
 tHNDffnecfE // Creating a neon twin filter using the sobel patch - Spark AR tutorial
+zyMMzrcKNkc // Texture Distortion tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR

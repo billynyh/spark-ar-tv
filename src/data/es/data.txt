@@ -347,6 +347,7 @@ jPZabhjjUC4 // FaceReplaced App | Augmented Reality Filter Maker (EN Captions)
 K1u79Ik8F60 // Spark AR - 👁️ Create 3D eyes for your filters | Connect face expressions (EN Captions)
 64ooXKVKxDQ // Spark AR Tutorial - Trees and Castle with Blender (EN Captions)
 PiO18vdtTzM // Spark AR Tutorial - Clone any face with Render Pass (EN Captions)
+woubFjM3DTE // Spark AR Tutorial - Slider UI with LUTS & Face Deformation (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
