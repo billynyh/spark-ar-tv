@@ -26,6 +26,9 @@ i7tfUJKxqu8 // How to make "KIRA KIRA EFFECT" Facebook | Instagram Filter in Spa
 sL-45WLqCAo // How to make "KERA KERA EFFECT 2" Facebook | Instagram Filter in SparkAr
 mRtmdKyRFTU // How to make "Multiple Screen LUT Effect" Facebook | Instagram Filter in SparkAr
 
+# Activemotionpictures
+-SQdHehksJw // Blender NLA - ACTIONS clips DEMYSTIFIED (2020) [Export to Unity, Lens Studio, Spark AR, etc]
+
 # Aditya Agarwal
 RQnPuvJb8bk // KIRA KIRA / GLITTER / SPARKEL effect SPARK AR | download link | kira kira + LUT + Slider New Update
 aPj652PPzQE // Step Gradient Patch
@@ -560,6 +563,7 @@ ZEJ3pc7Nr64 // Spark AR Vídeos PT - Jogo Simples Usando o Patch Editor!
 NuTJ3r-iHvU // Spark AR Vídeos PT - Maquiagem Simples I Utilizando o Photoshop!
 Pzd4p_w8ebY // Spark AR Vídeos PT - Filtro para o Instagram LUT + Ruídos!
 ZS8xSOB9Slc // Spark AR Vídeos PT - Filtro para o Instagram com borda colorida!
+Ud0eQakUjJY // Spark AR Filtro Borboletas (Animações + Blush + Sardas) - parte 1
 
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
@@ -1407,6 +1411,7 @@ veWmGyZwxSM // Spark AR Beauty Tutorial for Beginner (Bright Eyes, glowing Highl
 ylM8OOwl0E0 // Spark AR Glitter Effect Tutorial [Add 2 eye colors, create textures with a 3D model in Photoshop]
 xx85k3KITVM // Spark AR True or False Game Part2 (Game Logic for Multiple Questions with Timer settings)
 bWDlg0Yoctg // How to create an Instagram Color Picker Filter in Spark AR
+4yzLNFqUOmI // How to create a Face Deformation with Color LUT and Make Up in Your Instagram Filter using Spark AR
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1916,6 +1921,7 @@ n3ZXo7GUiAo // Spark AR Toon Shader
 ZOX7L57woco // Spark AR tutorial / How to import 3D model with animation / Plane Tracker with simple controls
 A-eQhDMW4qg // Fire VFX for Spark AR
 jV0iTOAL-Do // Fix Lut artifacts in Spark AR
+j7WOHMGdoPo // Lens Flare for Spark AR
 
 # Yegor Ryabtsov
 eaoNIArRHR4 // Spark AR Tutorial - Animating Object Reveal with Transparency
