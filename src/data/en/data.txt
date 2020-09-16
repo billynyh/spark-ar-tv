@@ -109,6 +109,7 @@ xhKAunhhBWE // Filter "California" with Retouch, LUT, Eye Brightener and Noise a
 oyYTRrScFJo // Spark AR Make Up with Native UI Picker
 wP48iQaLsQw // Instagram Filter "PERFECT FACE" with White Teeth +  Eyelashes + Eye Brightener | Spark AR
 HxUYAIwM8t4 // How to create Gloss Effect at Spark AR Studio
+aLwD91a1TYw // Instagram Filter "CYBER GIRL" | Spark AR
 
 # Andrew ARt
 0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
@@ -885,6 +886,7 @@ Zd--gC3w67A // SIMPLE SOLUTION TO ALL PROBLEMS Spark Ar Studio/ Filter doesn't w
 1klchCCNQQM // Add LOGO to 3D Object in 5 min - SIMPLE way to apply image to 3D model
 hI3tkL6BEYE // GET SOULMATE FILTER Instagram / where is your soulmate filter instagram
 HDCfJN_o6dk // Multiple Instructions Spark AR / Add two instructions Spark AR
+Iy75gTywsDI // Spark AR ANIMATION
 
 # Kathlene Figuracion
 TufUUsCFB2o // Create Your Own Instagram Filter | Fast & Simple
@@ -897,6 +899,7 @@ uxgZPLa2qFc // Jumper Game Project Template Tips : disable LIVE_UPDATE before pu
 a8r5N8B03ww // Spark AR - MouthBlock & MouthScript
 57qJAkr3uW0 // Spark AR - 6 Digits ScoreBlock
 BZKyhRDAgRY // Spark AR - 10 Digits HeartBlock
+21WkzOZJ9I4 // Spark AR v97 - Stack Game
 
 # Kendra Mishell
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -923,6 +926,7 @@ HsA3KygaCwY // VIRTUAL PLASTIC SURGERY FILTER EFFECT WITH SPARK AR
 ZCaTuwDMBIw // SPARK AR GLITTER RAINBOW TEARS FILTER EFFECT
 amAj-nkujNc // ADD CUSTOM REAL TIME SIMULATOR VIDEOS IN SPARK AR
 3yZzjYxkRlw // MALEFICENT INSPIRED FILTER EFFECT, Spark AR tutorial
+A2zzV9_CNgU // CREATE PRETTY CUSTOM INTERCHANGEABLE FRAMES EFFECT WITH SPARK AR/Frame Selector
 
 # LATE_FX
 aiG3bCK15XY // SPARK AR DESIGN  LIVE WORKFLOW V2 : DBZ MEDICAL MACHINE
@@ -1250,6 +1254,7 @@ Y4S_S_oK2YM // #Drawing with Particles at Finger Position: Draw 2D in #SparkAR S
 UUkw1v5Qvb8 // Drag Spot Light: Free Spark AR Light At Touch Position Template
 WzvQvOiToSM // From Script To Script: Make a millisecond clock in Spark AR with script to patch bridging.
 hIqlyYXpULk // WHY 2D BROKE!? Drag 2D Update! The new Spark AR v95+ 2D coordinate system #newcolor #sparkar
+MKIVnh9v9Ac // How to make a phone mockup with transparent background using MetaMock
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1930,6 +1935,9 @@ nFoaquc3v8A // spark ar MXRT
 
 # Yash Vlogs
 ryTTzR3__zE // How to make an AR Effect for Instagram | Tutorial for Beginners | Spark AR Studio | Yash Vlogs|Hindi
+
+# Yasin Razack
+4XY5ZXC6c6w // Create your first Instagram filter | Convert Lightroom presets into Instagram filter | Spark AR
 
 # Yegor K
 d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR

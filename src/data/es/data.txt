@@ -27,6 +27,7 @@ JEOI1yZuyWg // Instagram AR Games: Examples of different kinds of Instagram & Fa
 ceEU1Pag4DU // Graduation Cap Instagram AR filter: Spark AR filter for graduating students.
 91v0k6AUcuk // Amazon Prime Bandish Bandits Instagram AR Filter: Spark AR Quiz | Ritwik Bhowmik | Shreya Chaudhary.
 -o_PbXTXdi8 // Instagram AR filter Bollywood Movie Quiz: Can you guess the right Bollywood Movie? Spark AR Quiz.
+MRUdLOx9XFQ // Tropicana Instagram AR Quiz: Instagram AR filter Quiz from Tropicana Pepsi! Spark AR Filter Example
 
 # Amalia Dwi Ayu Sarjani
 dtcuRHPc3z4 // GLITTER EFFECT IN SPARK AR STUDIO
@@ -581,6 +582,9 @@ MF487Vxn2Es // ¡Cómo SUBIR los filtros a INSTAGRAM! | Pablo Hache
 UxbiSlhxtTQ // Cómo diseñar filtros de Instagram - 4.1.Spark AR #cursoonline #sparkar #instagram
 9Iq6pLjDj1w // Cómo diseñar filtros de Instagram - 4.2. Face Tracker #cursoonline #facetracker #sparkar #instagram
 aLDzlHfKon4 // Cómo diseñar filtros de Instagram - 4.3. Canvas de Spark AR #cursoonline #filtrosdeinstagram #diseño
+Pz31H9THFe8 // Cómo Crear FILTROS de INSTAGRAM - 4.4. Interactividad en Spark AR #Sparkar #Instagram #cursoonline
+e7b00sHObi4 // Cómo Crear FILTROS de INSTAGRAM - 4.5. Crea un fondo animado #Sparkar #Instagram #cursoonline
+OYUSNe1aFGY // Cómo Crear FILTROS de INSTAGRAM - 4.6. Filtros de color en Spark AR #Sparkar #Instagram #cursoonline
 
 # Pikceles
 9ihduOmBzHc // Cómo CREAR tus propios filtros para Instagram fácilmente
