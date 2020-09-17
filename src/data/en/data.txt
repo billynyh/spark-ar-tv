@@ -684,6 +684,7 @@ fdDGSsakOFI // Create your new Instagram filter! - Spark AR Studio
 
 # Hector
 2uHXFmrsDoM // How to Turn 2D Images into 3D Augmented Reality EASY TUTORIAL
+qvaiCqaCplU // How to Turn a 2D Image into a 3D augmented Reality Filter (EASY)
 
 # Helen Demina
 eL9IZZTXcdI // Your first instagram face filter in spark AR
@@ -1425,6 +1426,7 @@ ylM8OOwl0E0 // Spark AR Glitter Effect Tutorial [Add 2 eye colors, create textur
 xx85k3KITVM // Spark AR True or False Game Part2 (Game Logic for Multiple Questions with Timer settings)
 bWDlg0Yoctg // How to create an Instagram Color Picker Filter in Spark AR
 4yzLNFqUOmI // How to create a Face Deformation with Color LUT and Make Up in Your Instagram Filter using Spark AR
+ONpOh6wso7A // How to Create a Projector Aesthetic in Spark AR for your Instagram Filter (Bonus Realistic Shadow)
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1480,6 +1482,7 @@ ia2mMwK1lSw // Spark AR Tutorial | Create Liquid Illusion filter(water effect)|N
 oeINfpBf328 // Spark AR Tutorial | Face Deformation Filter In Instagram And Facebook
 Mppkv5Imd7M // Spark Ar Tutorial| Create T-shirt configurator for Instagram [Gallery Picker + Image target]
 5b8tDW2mqK8 // Spark AR Tutorial : Create Face split and Flying Butterfly effect for Instagram and Facebook
+EsXxwEUes_M // Free Spark AR Project : Vintage LUTs with UI picker and PSD
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -1750,6 +1753,9 @@ a-IDt9rI1MQ // Spark AR tutorial
 # SuperHi
 E8Sf3tNvNE4 // How to make an AR fashion filter for Instagram
 
+# Tech Avni
+taWw_heiGBs // How To Make Instagram Filter Without Spark AR Studio || Make Instagram Filters Without PC For Free
+
 # Tech Dishoom
 m2s3fmF0KoA // How to Create an Instagram Filter | Spark AR Studio Tutorials 2020
 
@@ -1878,6 +1884,7 @@ gzBH6c_NYSA // Using Face mesh with render pass - Spark AR tutorial
 uBx_Zd-bkzg // Using the Audio Player patch - Spark AR Tutorial
 tHNDffnecfE // Creating a neon twin filter using the sobel patch - Spark AR tutorial
 zyMMzrcKNkc // Texture Distortion tutorial
+Gwn_JNgwEkI // Controlling with your face using the Linear Interpolation patch
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
