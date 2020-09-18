@@ -353,6 +353,7 @@ K1u79Ik8F60 // Spark AR - 👁️ Create 3D eyes for your filters | Connect face
 64ooXKVKxDQ // Spark AR Tutorial - Trees and Castle with Blender (EN Captions)
 PiO18vdtTzM // Spark AR Tutorial - Clone any face with Render Pass (EN Captions)
 woubFjM3DTE // Spark AR Tutorial - Slider UI with LUTS & Face Deformation (EN Captions)
+SA0WJAfWASw // Spark AR Tutorial - Convert your logo 2D to 3D | Blender (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
