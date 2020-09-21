@@ -423,7 +423,7 @@
       {
         "title": "Wings / Angel",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/wings-angel.html",
-        "video_count": 6
+        "video_count": 8
       }
     ],
     "other": []
@@ -482,7 +482,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html",
       "thumbnail_url": "https://i.ytimg.com/vi/FT5D8oGnnOY/hqdefault.jpg",
       "title": "Channel: Rudy Anwar",
-      "meta1": "Num videos: 62",
+      "meta1": "Num videos: 63",
       "meta2": null
     },
     {
@@ -768,10 +768,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-09-21.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/8jR_jVDaZpc/hqdefault.jpg",
+      "title": "Week 2020-09-21",
+      "meta1": "Num videos: 1",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-09-14.html",
       "thumbnail_url": "https://i.ytimg.com/vi/WTNXpeBsTZ4/hqdefault.jpg",
       "title": "Week 2020-09-14",
-      "meta1": "Num videos: 86",
+      "meta1": "Num videos: 98",
       "meta2": null
     },
     {
@@ -800,13 +807,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2ETyRJ_ij8o/hqdefault.jpg",
       "title": "Week 2020-08-17",
       "meta1": "Num videos: 104",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-10.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/veWmGyZwxSM/hqdefault.jpg",
-      "title": "Week 2020-08-10",
-      "meta1": "Num videos: 89",
       "meta2": null
     }
   ]

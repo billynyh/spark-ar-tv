@@ -466,6 +466,9 @@ w7RMOBj9u38 // MAKE YOUR OWN INSTAGRAM FILTER | DATE AND TIME INSTAGRAM FILTER |
 # Dirk de Jong
 HVVI3UewIL4 // Spark AR Native UI slider to patch editor
 
+# DJBARGE
+anDIdTry4aA // [CMKL : EIC] Building Virtual World - 19 September 2020
+
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
 SmH7igbA5-c // Spark AR Tutorial #02 : Place a 3D object on a plane
@@ -896,6 +899,7 @@ hI3tkL6BEYE // GET SOULMATE FILTER Instagram / where is your soulmate filter ins
 HDCfJN_o6dk // Multiple Instructions Spark AR / Add two instructions Spark AR
 Iy75gTywsDI // Spark AR ANIMATION
 _3cX7gb3pDw // DUST for your Instagram Filter / Spark AR Tutorial
+Mziiofsgxes // HOW TO MAKE INSTAGRAM FILTERS in 7 STEPS / create your own Instagram filter - it's simple and fun!
 
 # Kathlene Figuracion
 TufUUsCFB2o // Create Your Own Instagram Filter | Fast & Simple
@@ -955,6 +959,7 @@ VuOku3pFw2A // HOW TO CREATE FANCY UNREAL EYES FOR YOUR INSTAGRAM FILTER WITH SP
 AnxjcgEa4kE // MULTIPLE OPTION PICKER FOR YOUR LUTs TOGETHER WITH AN INTENSITY SLIDER | INSTAGRAM FILTER TUTORIAL
 LtabZYahSmw // HOW TO CREATE A DYNAMIC (NOT STATIC) TEXT "DAY OF THE WEEK" INSTAGRAM FILTER WITH DECO ELEMENTS
 5IBdIb-eQbA // SOLVING YOUR FILTER PROBLEMS!!! FIXING RED SHADOWS, BLACK LINE AROUND THE FACE, GLITCHY EYES & MOUTH
+BH5khWcVBo8 // INSTAGRAM BEAUTY FACE DEFORMATION FILTER + LUT AND RETOUCH BIGGER LIPS & SMALLER NOSE | SPARK AR
 
 # Liucid
 pc4isqdbmhQ // Create a face filter from doodle | Beginner Spark AR Tutorial
@@ -1498,6 +1503,7 @@ oeINfpBf328 // Spark AR Tutorial | Face Deformation Filter In Instagram And Face
 Mppkv5Imd7M // Spark Ar Tutorial| Create T-shirt configurator for Instagram [Gallery Picker + Image target]
 5b8tDW2mqK8 // Spark AR Tutorial : Create Face split and Flying Butterfly effect for Instagram and Facebook
 EsXxwEUes_M // Free Spark AR Project : Vintage LUTs with UI picker and PSD
+asuiE74T7LE // Spark AR tutorial : Comic magazine effect with RGB scanner for Instagram
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio

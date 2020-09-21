@@ -270,6 +270,7 @@ G2BFWbVHZdE // Crear FILTRO OJO DE PEZ (Spark Ar)
 6waTndau1i0 // FILTRO SLIDER (Spark AR)
 YaLRFI_WUdo // Crear FILTRO cambiar COLOR OJOS (Spark Ar)
 q9lKTBwGjb4 // Como combinar FACE MESH con Filtro de COLOR (Spark AR)
+lCMuJRPHTnU // OBJETOS 3D en SPARK AR
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -497,6 +498,7 @@ HPloAcz7vRo // PICKER UI & SCREEN TAP con texturas │ Spark Ar tutorial
 S3SLnEF13IY // Como crear un LUT con LIGHTROOM *GRATIS* | SPARK AR
 BPUKzftihEg // Como CREAR un filtro de PARTÍCULAS  | Spark Ar TUTORIAL Partycle System
 rIgo_fnjyHA // LUT + RETOUCH de dos formas diferentes | SPARK AR tutorial ESPAÑOL
+HWAkg7cnqks // LIP GLOSS + METALLIC FACE | Spark Ar Tutorial (Español)
 
 # MAB55
 heyGpK9TDsM // ▶️ ✅ Cómo descargar e instalar Spark AR Studio de Facebook en Mac [ 𝟮𝟬𝟮𝟬 ] | Tutorial PC Mab55
@@ -515,6 +517,9 @@ o9f_jl6WA7I // COMO CREAR FILTROS/EFECTOS PARA INSTAGRAM, en menos de cinco minu
 
 # Mario Hernandez
 DRig13cIOaA // Spark AR  video objetos 3D
+
+# mariorago
+HLv_VN_HaOc // Haciendo un Filtro Sencillo de  Objecto en Spark Ar
 
 # Martens TV
 aPUHkprmG5A // CREA TU PROPIO FILTRO EN INSTAGRAM | @martamarcosr

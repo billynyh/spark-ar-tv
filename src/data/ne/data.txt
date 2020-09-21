@@ -9,3 +9,4 @@ VloKY9LIAsI // Audio reactive filter using Audio analyzer V89 tutorial for begin
 S3h_prLLvcc // Spark AR: How to create LUTs in Photoshop for Instagram filters(Nepali Language)
 5b8tDW2mqK8 // Spark AR Tutorial : Create Face split and Flying Butterfly effect for Instagram and Facebook
 EsXxwEUes_M // Free Spark AR Project : Vintage LUTs with UI picker and PSD
+asuiE74T7LE // Spark AR tutorial : Comic magazine effect with RGB scanner for Instagram
