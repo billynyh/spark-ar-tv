@@ -356,6 +356,7 @@ K1u79Ik8F60 // Spark AR - 👁️ Create 3D eyes for your filters | Connect face
 PiO18vdtTzM // Spark AR Tutorial - Clone any face with Render Pass (EN Captions)
 woubFjM3DTE // Spark AR Tutorial - Slider UI with LUTS & Face Deformation (EN Captions)
 SA0WJAfWASw // Spark AR Tutorial - Convert your logo 2D to 3D | Blender (EN Captions)
+zOZPanWmciw // Spark AR Tutorial - Doll face or Baby face style | Face Deformation (En Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -592,6 +593,8 @@ aLDzlHfKon4 // Cómo diseñar filtros de Instagram - 4.3. Canvas de Spark AR #cu
 Pz31H9THFe8 // Cómo Crear FILTROS de INSTAGRAM - 4.4. Interactividad en Spark AR #Sparkar #Instagram #cursoonline
 e7b00sHObi4 // Cómo Crear FILTROS de INSTAGRAM - 4.5. Crea un fondo animado #Sparkar #Instagram #cursoonline
 OYUSNe1aFGY // Cómo Crear FILTROS de INSTAGRAM - 4.6. Filtros de color en Spark AR #Sparkar #Instagram #cursoonline
+f1MZE-v4hqw // Cómo Crear FILTROS de INSTAGRAM - 4.7. Maquillaje #Sparkar #Instagram #cursoonline
+em_kRymElPs // Cómo Crear FILTROS de INSTAGRAM - 5. Publica tu filtro #Sparkar #Instagram #cursoonline
 
 # Pikceles
 9ihduOmBzHc // Cómo CREAR tus propios filtros para Instagram fácilmente

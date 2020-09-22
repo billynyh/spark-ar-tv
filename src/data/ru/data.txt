@@ -142,6 +142,7 @@ ro5CVBIHG5g // Как совместить пресет (лут) и ресниц
 Z0bmqS_X1Ds // Как совместить в маске Spark AR пресет (лут) и патч Kira Kira
 sHM4R-VSPU4 // Как сжать 3D объект в Blender - Spark AR оптимизация
 Lffln_E5WY4 // Переключение по тапу в Spark AR - (screen tap / object tap), варианты: option sender , current frame
+fDiUW8B3s_Y // 500 super PNG LUTs for Spark AR, (Pack 2) 100% quality + categories + project
 
 # Arturka King
 KiTYX2wKcAk // 😍 КАК ПЕРЕНЕСТИ ПРЕСЕТ ИЗ LIGHTROOM В SPARK AR | Пресет без засветов для Инcтаграм + 4 пресета(FREE)

@@ -668,10 +668,14 @@ GjM4axoidf0 // Usando slider com LUT ou Noise/Ruído - Spark Ar
 ibLLaDIgKgA // Efeito de Brilho/Glitter | Kira Kira - Spark Ar Studio
 cx5BghzVp7A // Joguinho de Frase ou Imagens que para Sozinho ao Gravar - Spark Ar Studio
 Wx6_2ScCros // Trocando rosto de uma imagem estática - Spark Ar Studio
+N5xJly_PvuY // Filtro com adesivos no rosto, a forma mais fácil de fazer - Patch Spark Ar Studio
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
 O6iY9nbQe-0 // Como fazer filtro de cor no SPARK AR #2
+
+# UNHIDE SCHOOL
+DSv2iyUERIw // Como criar um filtro com fundo personalizado no Spark AR
 
 # VA Designer
 VjqMgbFxK5U // Filtro 3D para Instagram - Spark Ar - Facebook
