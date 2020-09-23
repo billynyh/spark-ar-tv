@@ -753,6 +753,7 @@ XaLXjR2y1gk // How to Create Your OWN Instagram Filter
 
 # JassLyf
 zcKQ4FivtpM // How To Make Your Own Instagram Filters | Spark AR Filters
+GzsZUSW11cE // GIVE AWAY ALERT 🚨 | How To Make Your Own Instagram Filters | Spark AR Filters
 
 # Jatin Bhardwaj
 OUQKlt88t-A // Friendship day spark AR effect/filter for Instagram or Facebook (Download link in description)
@@ -1499,6 +1500,7 @@ yGBv4zTIoHY // Spark AR Tutorial  | How to Make Augmented reality Business card 
 ia2mMwK1lSw // Spark AR Tutorial | Create Liquid Illusion filter(water effect)|Normal map Baking [Instagram]
 oeINfpBf328 // Spark AR Tutorial | Face Deformation Filter In Instagram And Facebook
 Mppkv5Imd7M // Spark Ar Tutorial| Create T-shirt configurator for Instagram [Gallery Picker + Image target]
+OLbActYtnUU // Yondu Face filter for Instagram [Audio analyzer + Energy Meter ]
 5b8tDW2mqK8 // Spark AR Tutorial : Create Face split and Flying Butterfly effect for Instagram and Facebook
 EsXxwEUes_M // Free Spark AR Project : Vintage LUTs with UI picker and PSD
 asuiE74T7LE // Spark AR tutorial : Comic magazine effect with RGB scanner for Instagram
@@ -1904,6 +1906,13 @@ uBx_Zd-bkzg // Using the Audio Player patch - Spark AR Tutorial
 tHNDffnecfE // Creating a neon twin filter using the sobel patch - Spark AR tutorial
 zyMMzrcKNkc // Texture Distortion tutorial
 Gwn_JNgwEkI // Controlling with your face using the Linear Interpolation patch
+98Xtuf00y4A // Complete Blinking Game tutorial for Spark AR. Part 1 Assets
+2m5Ej__3uno // Complete Blinking Game tutorial for Spark AR. Part 2 Animation
+9lEIPVmEdVQ // Complete Blinking Game tutorial for Spark AR. Part 3 Character Animation
+lVMIokCMC_c // Complete Blinking Game tutorial for Spark AR. Part 4 - script
+BBRgKLklnG8 // Complete Blinking Game tutorial for Spark AR. Part 5 Logic
+_bztD0u2RtM // Complete Blinking Game tutorial for Spark AR. Part 6 Score
+BQNrvWvF0v0 // Complete Blinking Game tutorial for Spark AR. Part 7 Faster gameplay
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR

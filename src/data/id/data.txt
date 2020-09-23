@@ -1697,6 +1697,7 @@ WXoTmNa7HJk // Membuat Karakter dengan Blender untuk Spark AR || PART 3 || Face 
 F-srtvx_vk4 // Membuat Karakter dengan Blender untuk Spark AR || PART 4 || Face Loop dan Retopo II
 7PPn9n9DUMA // Membuat Karakter dengan Blender untuk Spark AR || PART 5 || UV Mapping dan Shapekeys
 yGNQakmqtj4 // Membuat Karakter dengan Blender untuk Spark AR || PART FINAL || Texture Painting & Export Spark AR
+GFPKttnDgQU // Problem export dari Blender ke Spark AR [SOLVED]
 
 # Uni Sherina
 JTw-g-rByr4 // CARA MEMBUAT FILTER INSTAGRAM PART #1
