@@ -1275,6 +1275,7 @@ UUkw1v5Qvb8 // Drag Spot Light: Free Spark AR Light At Touch Position Template
 WzvQvOiToSM // From Script To Script: Make a millisecond clock in Spark AR with script to patch bridging.
 hIqlyYXpULk // WHY 2D BROKE!? Drag 2D Update! The new Spark AR v95+ 2D coordinate system #newcolor #sparkar
 MKIVnh9v9Ac // How to make a phone mockup with transparent background using MetaMock
+b0ZR7bplNZQ // Draw 2D: Drawing with Render Pass in Spark AR
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1773,6 +1774,7 @@ a-IDt9rI1MQ // Spark AR tutorial
 
 # SuperHi
 E8Sf3tNvNE4 // How to make an AR fashion filter for Instagram
+7t4w-0EqNno // New course coming soon! Instagram Filters + Spark AR
 
 # Tech Avni
 taWw_heiGBs // How To Make Instagram Filter Without Spark AR Studio || Make Instagram Filters Without PC For Free
@@ -1973,6 +1975,8 @@ ryTTzR3__zE // How to make an AR Effect for Instagram | Tutorial for Beginners |
 
 # Yasin Razack
 4XY5ZXC6c6w // Create your first Instagram filter | Convert Lightroom presets into Instagram filter | Spark AR
+VbvwOgaiLXE // How to create Instagram filter with dust | Spark AR
+XLBw_EPagAE // How to add Animated Dusts into Instagram filter | Create your own Instagram effect | Spark AR
 
 # Yegor K
 d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR

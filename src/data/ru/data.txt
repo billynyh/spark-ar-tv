@@ -143,6 +143,7 @@ Z0bmqS_X1Ds // Как совместить в маске Spark AR пресет (
 sHM4R-VSPU4 // Как сжать 3D объект в Blender - Spark AR оптимизация
 Lffln_E5WY4 // Переключение по тапу в Spark AR - (screen tap / object tap), варианты: option sender , current frame
 fDiUW8B3s_Y // 500 super PNG LUTs for Spark AR, (Pack 2) 100% quality + categories + project
+YIYCvw-8zVE // Анимация перемещения из точки A в точку B через патчи - Spark AR
 
 # Arturka King
 KiTYX2wKcAk // 😍 КАК ПЕРЕНЕСТИ ПРЕСЕТ ИЗ LIGHTROOM В SPARK AR | Пресет без засветов для Инcтаграм + 4 пресета(FREE)
@@ -904,6 +905,7 @@ n8l2ecJgPL8 // Маска с датой и временем.Уроки Spark ar 
 GeGPNfn6yzA // Фейк Кира Кира. Уроки spark ar studio.
 0WKXHdg-bf4 // Маска с 3д фото в spark ar. Уроки spark ar studio.
 7MPRneAc0FI // Маска фотобудка.Уроки SPark ar Studio. Фотобудка
+EEVl9c6lNw4 // Как сделать 3д обьект для маски? Уроки spark ar studio
 
 # Sultan Bazarbayev
 inHVU49wYQs // Spark Ar Installation/Download - Part 1. Скачать Спарк Ар для фильтров в инстаграм
