@@ -358,6 +358,7 @@ PiO18vdtTzM // Spark AR Tutorial - Clone any face with Render Pass (EN Captions)
 woubFjM3DTE // Spark AR Tutorial - Slider UI with LUTS & Face Deformation (EN Captions)
 SA0WJAfWASw // Spark AR Tutorial - Convert your logo 2D to 3D | Blender (EN Captions)
 zOZPanWmciw // Spark AR Tutorial - Doll face or Baby face style | Face Deformation (En Captions)
+s9DXsH6L_Hc // Spark AR Tutorial - Planes, Animations & Sprite Sheets | Scenes | Metal Slug idea (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -390,6 +391,7 @@ DlukBj9IVBw // Spark AR Studio - Aprende a crear un filtro de Instagram
 # Facebook Developer Circles: Ciudad de Mexico
 Gv5soZfhO-s // [Spark AR Studio] Curso en español - Introducción a los filtros de Instagram y Facebook.
 nXj-5uTp7r4 // [Spark AR Studio] Creación de Diseños para SparkAR - Nuestro primer filtro.
+df8q8cyV9pI // Tu Primer Filtro de Instagram y Facebook con Canva - [ SPARK AR ]
 
 # FATY MEZA
 GfUrmTWT2tA // TUTORIAL DE COMO SUBIR FILTRO A INSTAGRAM
@@ -648,6 +650,16 @@ I6tLLA6Ejlk // Spark AR STUDIO 🔶 Tutorial Timelapse Physics 🔗 Simulating h
 
 # T Q R
 XZr3K2RtKwQ // ¿Cómo HACER filtros para Instagram? l ¿Cómo SUBIR mi filtro a Instagram?
+
+# Te enseño de todo
+LVho9zWoLBM // Como crear FILTRO para INSTAGRAM 🏅 [BÁSICO 2020]
+YiQc6FjEff0 // Crear tu propio FILTRO para INSTAGRAM [Curso GRATIS desde 0] 🆓 1/7
+ljlIPk4vAB0 // Crear tu propio FILTRO para INSTAGRAM [Curso GRATIS desde 0] 🆓 2/7
+7cYjeTK65w8 // Crear tu propio FILTRO para INSTAGRAM [Curso GRATIS desde 0] 🆓 3/7
+H_wH9Rhcz7g // Crear tu propio FILTRO para INSTAGRAM [Curso GRATIS desde 0] 🆓 4/7
+o3oSPT5Mlvo // Crear tu propio FILTRO para INSTAGRAM [Curso GRATIS desde 0] 🆓 5/7
+KA6Cj5YZdcM // Crear tu propio FILTRO para INSTAGRAM [Curso GRATIS desde 0] 🆓 6/7
+H2tus7VTF1w // Crear tu propio FILTRO para INSTAGRAM [Curso GRATIS desde 0] 🆓 7/7
 
 # TecnologiaUncomo
 d58Z7ksFJgs // Cómo crear FILTROS para INSTAGRAM STORIES 🐼 Paso 1 - MÁSCARA
