@@ -11,3 +11,4 @@ OLbActYtnUU // Yondu Face filter for Instagram [Audio analyzer + Energy Meter ]
 5b8tDW2mqK8 // Spark AR Tutorial : Create Face split and Flying Butterfly effect for Instagram and Facebook
 EsXxwEUes_M // Free Spark AR Project : Vintage LUTs with UI picker and PSD
 asuiE74T7LE // Spark AR tutorial : Comic magazine effect with RGB scanner for Instagram
+ePUsKsFSP2I // Spark AR Tutorial : Dissolve shader [Lava shader ] for Instagram

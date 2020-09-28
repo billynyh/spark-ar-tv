@@ -151,6 +151,7 @@ q0RBvHVzrCk // CURSO SPARK AR STUDIO | Botones de opciones nativos #18
 kV3p73PwyL4 // CURSO SPARK AR STUDIO | Crear un fondo con una imagen #19
 0AsptEfZL7s // CURSO SPARK AR STUDIO | Más de dos caras en un filtro #20
 MfigOj-bIP4 // CURSO SPARK AR STUDIO | Elementos 3D Rotando por la cabeza #21
+oGq3d0Zp2RQ // CURSO SPARK AR STUDIO | Crear efecto Andy Warhol #22
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -272,6 +273,7 @@ G2BFWbVHZdE // Crear FILTRO OJO DE PEZ (Spark Ar)
 YaLRFI_WUdo // Crear FILTRO cambiar COLOR OJOS (Spark Ar)
 q9lKTBwGjb4 // Como combinar FACE MESH con Filtro de COLOR (Spark AR)
 lCMuJRPHTnU // OBJETOS 3D en SPARK AR
+fd7bfK4oEHE // CREA LUCES EN SPARK AR
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español

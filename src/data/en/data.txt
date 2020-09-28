@@ -469,6 +469,9 @@ KW1iaFPgkhw // MAKE YOUR OWN INSTAGRAM FILTER | FACE SMOOTHING AND RETOUCHING FI
 WmxwU76mEVU // Make Your Own Instagram Filter | Add Dust Particles In Filter | Filter Tutorial | part 3 |
 w7RMOBj9u38 // MAKE YOUR OWN INSTAGRAM FILTER | DATE AND TIME INSTAGRAM FILTER | part 4
 
+# Dinkan media
+GvZ4e-GDCYY // How to make Instagram Filter|Turn your Lightroom Presets into Instagram Filters|Spark AR Tutorial
+
 # Dirk de Jong
 HVVI3UewIL4 // Spark AR Native UI slider to patch editor
 
@@ -932,6 +935,10 @@ QgA5q4nFT7c // Vsynth Lockdown 2 - Vsynth for Spark
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
 8dE-QYTpTQw // HOW TO ACHIEVE SLIMMING EFFECT IN SPARK AR   Deformation, Plastic Surgery Look
 YT1Bk-Fk2HM // MAKE AN INSTAGRAM FILTER/MASK 2020 - Spark AR
+N2TZVqVuSAo // How to get Background Segmentation / Green Screen Effect on an Instagram Filter - Spark AR
+
+# Kyameraaa
+bUkLHlKS0zw // Create your own Instagram Filter in 5 Minutes | Lightroom Preset with Grains |Simplest Tutorial Ever
 
 # laily rosli
 9RQi9PkQ5X0 // Created my own face filter | STOP!
@@ -1173,6 +1180,9 @@ Q8JDRYiCHHg // Free Spin A Wheel Game Template : Spark AR Studio
 # MercaTecnia
 y8clNu8MEe4 // Spark AR Studio - Catrina [tutorial]
 7_LHINnVwaM // Mostacho [Spark instagram tutorial]
+
+# mershmelli
+hHfntun_KEU // How To Make Your Own Instagram Story Filter From Lightroom Preset
 
 # Michaela Manalang
 KXmFGVK3fPo // HOW TO MAKE AN INSTAGRAM FILTER TUTORIAL ( 1 FILTER AND COMBINATION OF 2 FILTERS)| MICHAELA MANALANG
@@ -1520,6 +1530,7 @@ OLbActYtnUU // Yondu Face filter for Instagram [Audio analyzer + Energy Meter ]
 5b8tDW2mqK8 // Spark AR Tutorial : Create Face split and Flying Butterfly effect for Instagram and Facebook
 EsXxwEUes_M // Free Spark AR Project : Vintage LUTs with UI picker and PSD
 asuiE74T7LE // Spark AR tutorial : Comic magazine effect with RGB scanner for Instagram
+ePUsKsFSP2I // Spark AR Tutorial : Dissolve shader [Lava shader ] for Instagram
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
