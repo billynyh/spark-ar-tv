@@ -1002,6 +1002,7 @@ a0IZEpY6aJg // ДЕФОРМАЦИЯ+ЛУТ С 06.08.20 В SPARK AR/DEFORMATION+L
 t4Zz49cCWJ0 // ПЕРЕКЛЮЧЕНИЕ 3D РЕСНИЦ ПО ТАПУ В SPARK AR/SCREEN TAP EYELASHES
 epUUQCmXAco // ДЕФОРМАЦИЯ+LUT+МАКИЯЖ+РЕСНИЦЫ/SPARK AR
 uq9SGl655Sc // СОЗДАЕМ КРАСИВЫЕ ТЕНИ С БЛЕСКОМ В SPARK AR!
+UIogFa0OjRg // КАК СДЕЛАТЬ ЗАДЕРЖКУ(DELAY) ОБЪЕКТОВ/SPARK AR
 
 # TANYA MIX
 EjUWzN_yG0w // SPARK AR/КАК СДЕЛАТЬ МАСКУ ПРЕСЕТ ДЛЯ ИНСТАГРАМ
