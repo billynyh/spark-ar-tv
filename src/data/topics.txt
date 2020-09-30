@@ -457,6 +457,18 @@ qpmMZoQcWg8 // v83 Blink Counting Game: Spark AR Studio - Link to v85+ Example P
 DHHPMBa8B6E // Spark Ar Blink Game
 vomFaTbQSOY // 03 Spark AR tutorial: how to scripting object animation
 
+# Hair Segmentation
+59Frl0KGV2k // Spark AR v98 - Hair Segmentation Showreel
+Md2SwaDX7E4 // Spark AR Alterando cor do cabelo (v98)!
+_F-X20pyd0M // Mudando a cor do cabelo em filtros / cabelos escuros com lut - Spark Ar Tutorial v98
+25zaZiOi4TM // Spark AR - Hair Segmentation (neon hair tutorial)
+ilcC8gBnqh0 // Hair Segmentation in Spark AR | Spark AR New update | How to create filters with Hair segmentation
+s_0znzLX8OY // Spark AR Tutorial - Hair Segmentation  | New Feature v98 (EN Captions)
+bo7facU4HTg // Change hair color with Quick hair - Spark AR tutorial
+zhI2-sCq8DQ // FILTRO INSTAGRAM  - COMO TROCAR COR CABELO [ SPARK AR TUTORIAL ]
+j5c_33Td154 // V98 - Hair Segmentation Overview | Spark AR Studio
+XsYNvuGukTs // Сегментация волос, раскрашиваем волосы в spark ar/Hair Segmentation
+
 # Halloween / Joker
 S_X8_ML1e2M // SparkAR Joker mask
 AQyLm4d91Yo // Spark AR Studio Halloween-Tutorial [Face Tracker & Material Options]

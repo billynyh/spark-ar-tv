@@ -1,5 +1,5 @@
-# Render Passes
-oS8yQyxF4NI // Spark AR Beta Render Passes
-i2QDq347CO0 // Intro to Render Passes in Spark AR Studio
-S0hp5mF0EYY // Render Passes and what does it do ?  || Spark AR || Instargam Filter || Rbkavin
-0L2Gr-SQpCU // SparkAR v92 Render Pass Tutorial
+# Hair Segmentation
+https://www.youtube.com/watch?v=_F-X20pyd0M
+https://www.youtube.com/watch?v=s_0znzLX8OY
+https://www.youtube.com/watch?v=zhI2-sCq8DQ
+https://www.youtube.com/watch?v=j5c_33Td154

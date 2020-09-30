@@ -136,7 +136,7 @@ def main_day():
 if __name__ == "__main__":
     config = config_factory.load()
     #main_ping()
-    #main_topics()
+    main_topics()
     
-    main()
+    #main()
     #main_day()

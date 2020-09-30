@@ -357,6 +357,7 @@ gb9CyckJZXo // Face Extract + Scene LUT Renderpass [Splitface Revisited] | Spark
 jOeOTHCUAX8 // Adjusting Opacity (The Easy Way) | Spark AR Studio
 PaxpPrStAdQ // Creating Difficulty / Options - Random Filter | Spark AR Studio
 tesc-ZaypiY // Preparing Audio for Spark AR - Formatting .m4a audio
+j5c_33Td154 // V98 - Hair Segmentation Overview | Spark AR Studio
 
 # CC in Tassie
 Zwqs8Tv54Vw // Blink of Eye Filter | Spark AR Beginner Tutorial
@@ -437,6 +438,7 @@ x2LSjztdzOQ // How to create dust effect on any insta filter using spark Ar Stud
 M9jbsxVRk9o // Easy way to add dust effect on insta filter with Spark Ar Studio 👨🏻‍💻😁
 cAS0ROYoFHA // Slider options on any insta filter ( Spark Ar Studio) 🤷🏻‍♂️
 PsW6tJ-R8yY // Add blurred frame to any insta filter (Spark Ar Studio)
+DweGgmQKyB0 // Add day or time on any insta filter ( Spark Ar Studio)
 
 # Danielll King
 diNJ6DPehDE // How to Create an Instagram Filter using PicsArt + Spark AR Studio
@@ -1367,6 +1369,7 @@ L8OmA51h0P4 // Spark AR - Add 3D eyelashes to any project (Blocks Tutorial)
 lIl3vZEcbxY // Spark AR - Hidden Preview Videos!
 EfL4YUaMptk // Spark AR - Eye Colour + LUTs
 zGhLxH_Mpes // Spark AR Slider - 3 Easy Examples
+25zaZiOi4TM // Spark AR - Hair Segmentation (neon hair tutorial)
 
 # Onlywow
 vL591xZvb44 // Create Sunglass Filter for Instagram | Beginner Spark AR Tutorial
@@ -1955,6 +1958,7 @@ lVMIokCMC_c // Complete Blinking Game tutorial for Spark AR. Part 4 - script
 BBRgKLklnG8 // Complete Blinking Game tutorial for Spark AR. Part 5 Logic
 _bztD0u2RtM // Complete Blinking Game tutorial for Spark AR. Part 6 Score
 BQNrvWvF0v0 // Complete Blinking Game tutorial for Spark AR. Part 7 Faster gameplay
+bo7facU4HTg // Change hair color with Quick hair - Spark AR tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
@@ -2018,6 +2022,7 @@ ryTTzR3__zE // How to make an AR Effect for Instagram | Tutorial for Beginners |
 VbvwOgaiLXE // How to create Instagram filter with dust | Spark AR
 XLBw_EPagAE // How to add Animated Dusts into Instagram filter | Create your own Instagram effect | Spark AR
 8qvXkKQsKJs // How to add Multiple instructions in Spark AR | Instagram Filters | Spark AR
+ilcC8gBnqh0 // Hair Segmentation in Spark AR | Spark AR New update | How to create filters with Hair segmentation
 
 # Yegor K
 d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR
