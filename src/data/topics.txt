@@ -468,6 +468,8 @@ bo7facU4HTg // Change hair color with Quick hair - Spark AR tutorial
 zhI2-sCq8DQ // FILTRO INSTAGRAM  - COMO TROCAR COR CABELO [ SPARK AR TUTORIAL ]
 j5c_33Td154 // V98 - Hair Segmentation Overview | Spark AR Studio
 XsYNvuGukTs // Сегментация волос, раскрашиваем волосы в spark ar/Hair Segmentation
+Gsg2g4jhgqI // HAIR SEGMENTATION - NEW FEATURE IN SPARK AR V98
+lc7ygDi9olE // 👩‍🦰 МЕНЯЕМ ЦВЕТ ВОЛОС В МАСКЕ  👩‍🦰 - УРОК 8 ; Spark Ar Studio
 
 # Halloween / Joker
 S_X8_ML1e2M // SparkAR Joker mask

@@ -539,6 +539,9 @@ NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
 # Engage VR Youtube Channel
 s0nhZMHXTWs // Spark AR Filter Hackathon - Early 90's Printer Spark AR Filter
 
+# EngineersMY
+iJ9_vtW0ouI // JuniorDev MY Online Edition - Intro to Spark AR by Qamra Khan
+
 # Eric Lou
 YgXaX2gbros // Whack A Mole AR (SparkAR)
 
@@ -1168,6 +1171,9 @@ DYAJAjcNC5k // Creating filter by Nora Horvath
 qdDlEoP34EA // HOW TO CREATE INSTAGRAM FILTER IN 5 MINUTES - SPARK AR & PICSART | PH
 OPg7U1uuYNg // HOW TO UPLOAD INSTAGRAM FILTER FROM SPARK AR - EASY STEPS | PH
 
+# Mayne Tutorials
+nWBh09pPafA // HOW TO MAKE: beauty filter mask | SPARK AR TUTORIAL (super easy)
+
 # MD Tech
 Tptb-uIroEA // Using Gallery Texture feature in eyes | SPARK AR TUTORIAL [english+hindi]
 
@@ -1626,6 +1632,7 @@ xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasse
 # Sansriti Mishra
 BoajrJ_bU4Q // How To Convert Lightroom Preset To Instagram Story Filter + Basics of Spark AR | Instagram Filter
 dbvDHxvOe3A // SPARK AR MAKEUP INSTAGRAM FILTER TUTORIAL | BLUSH + LIPSTICK + FRECKLES
+YsPMjUpW3mk // SPARKLE / GLITTER / KIRA KIRA + Colour Luts and Retouching Filter in Spark Ar Studio
 
 # Science Museum of Virginia
 5-7ZrrigsV4 // Maker Mindset: SparkAR Tutorial

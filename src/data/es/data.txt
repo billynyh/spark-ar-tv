@@ -649,6 +649,7 @@ BcVTAF9vyrk // Crea tu propio filtro para Instagram usando Spark AR!
 
 # Streamelopers
 uOlZZEFFOcQ // Introducción a Spark AR para desarrolladores
+FugW6N6gHso // Taller Virtual: Creando un Filtro para Instagram y Facebook con Spark AR
 
 # Sur.command
 vqxL8RNtCIg // Tutorial Spark Ar Studio en español【 3 PASOS CLAVE para filtros 👀】DESDE CERO | PARA EMPEZAR 🎭
