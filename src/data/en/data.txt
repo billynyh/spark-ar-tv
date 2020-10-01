@@ -358,6 +358,7 @@ jOeOTHCUAX8 // Adjusting Opacity (The Easy Way) | Spark AR Studio
 PaxpPrStAdQ // Creating Difficulty / Options - Random Filter | Spark AR Studio
 tesc-ZaypiY // Preparing Audio for Spark AR - Formatting .m4a audio
 j5c_33Td154 // V98 - Hair Segmentation Overview | Spark AR Studio
+Yvll4lRMpFE // Hair Segmentation - Controlling Colours & Textures | Spark AR Studio
 
 # CC in Tassie
 Zwqs8Tv54Vw // Blink of Eye Filter | Spark AR Beginner Tutorial
@@ -439,6 +440,7 @@ M9jbsxVRk9o // Easy way to add dust effect on insta filter with Spark Ar Studio 
 cAS0ROYoFHA // Slider options on any insta filter ( Spark Ar Studio) 🤷🏻‍♂️
 PsW6tJ-R8yY // Add blurred frame to any insta filter (Spark Ar Studio)
 DweGgmQKyB0 // Add day or time on any insta filter ( Spark Ar Studio)
+AUHlGM6zt6s // Screen tap + slider + text + blurred frame + Lr preset in one insta filter ( Spark Ar Studio)
 
 # Danielll King
 diNJ6DPehDE // How to Create an Instagram Filter using PicsArt + Spark AR Studio
@@ -540,6 +542,7 @@ NlCl6K6b8-4 // Find Face Assets FAST - Spark AR
 s0nhZMHXTWs // Spark AR Filter Hackathon - Early 90's Printer Spark AR Filter
 
 # EngineersMY
+oT8f4k-YlJg // Cloud Native Malaysia #2 | Aug 2020 Edition
 iJ9_vtW0ouI // JuniorDev MY Online Edition - Intro to Spark AR by Qamra Khan
 
 # Eric Lou
@@ -1173,6 +1176,7 @@ OPg7U1uuYNg // HOW TO UPLOAD INSTAGRAM FILTER FROM SPARK AR - EASY STEPS | PH
 
 # Mayne Tutorials
 nWBh09pPafA // HOW TO MAKE: beauty filter mask | SPARK AR TUTORIAL (super easy)
+gknpNoCIf-k // ¡cómo crear filtros! /// INSTAGRAM | SPARK AR
 
 # MD Tech
 Tptb-uIroEA // Using Gallery Texture feature in eyes | SPARK AR TUTORIAL [english+hindi]
@@ -1242,6 +1246,9 @@ i8_hOEuexlM // HOW TO RETOUCH & SKIN SMOOTH FACE IN SPARK AR STUDIO | SKIN SMOOT
 # Mr Nubyan
 8qmD-LPlIMw // How To Make A Corona Mask Face Filter | SPARK AR | Facebook & Instagram | Augmented Reality
 
+# Mr valay
+g3JgJtYmDTU // create your own instagram filter in 5 minutes
+
 # Musiclick
 xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spark AR Studio
 
@@ -1264,6 +1271,7 @@ ZDvI0UXU0WY // Slider UI to control Deformation/Distortion in Spark AR
 DBo7UHJr_jA // BABY FACE Instagram/ Facebook filter in Spark AR
 mpXLk2Koy40 // Spark AR 3D Wing Filter with animation/ Butterfly Wings Instagram Filter
 WNoc6WoLzF8 // Eyeshadow for Instagram/ Facebook Filter in Spark Ar
+362VCjBDd8U // Change Hair Color Instagram Filter in Spark AR
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT

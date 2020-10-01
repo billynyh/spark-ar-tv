@@ -263,7 +263,7 @@
       {
         "title": "Hair Segmentation",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/hair-segmentation.html",
-        "video_count": 12
+        "video_count": 18
       },
       {
         "title": "Halloween / Joker",
@@ -452,7 +452,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC3zmATtNhDuYOketH1zF5sw.html",
       "thumbnail_url": "https://i.ytimg.com/vi/_BHo-QcQbgU/hqdefault.jpg",
       "title": "Channel: Catalyst",
-      "meta1": "Num videos: 81",
+      "meta1": "Num videos: 82",
       "meta2": null
     },
     {
@@ -487,7 +487,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html",
       "thumbnail_url": "https://i.ytimg.com/vi/FT5D8oGnnOY/hqdefault.jpg",
       "title": "Channel: Rudy Anwar",
-      "meta1": "Num videos: 65",
+      "meta1": "Num videos: 66",
       "meta2": null
     },
     {
@@ -774,9 +774,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-09-28.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/_F-X20pyd0M/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/jZCR6Q86fis/hqdefault.jpg",
       "title": "Week 2020-09-28",
-      "meta1": "Num videos: 42",
+      "meta1": "Num videos: 60",
       "meta2": null
     },
     {
@@ -811,7 +811,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-24.html",
       "thumbnail_url": "https://i.ytimg.com/vi/kjgJ9OOq5FU/hqdefault.jpg",
       "title": "Week 2020-08-24",
-      "meta1": "Num videos: 95",
+      "meta1": "Num videos: 96",
       "meta2": null
     }
   ]
