@@ -53,10 +53,12 @@ Q816Yj2GzoA // Facebook Connect: Extending Reality with Spark AR
 qliFEdfYwVw // Facebook Connect | Keynote - Responsible Innovation at Facebook Reality Labs
 P9gQRy5AqLk // Facebook Connect | Keynote - AR and New Dimensions for Human Connection
 IyDiJ8aZOS0 // #SparkARQuickTips v97
+qEbLXl9MEJk // #SparkARQuickTips v98
 
 # Facebook Developers
 dm64Zm4TcVA // Developer Circles Skills Connection | Building Engaging Experiences on Spark AR
 Sa8BiSdt1b4 // Facebook Connect 2020 | Extending Reality with Spark AR
+SUGrb6Wtdqo // Realidad Aumentada para las plataformas de Facebook con Spark AR / Víctor “Vari” Valentinuzzi Núñez
 
 # Spark AR Inspiration
 IO6xbZzDC9Q // Superfan.Ai uses Spark AR Studio to help fans experience Bollywood films in new ways
