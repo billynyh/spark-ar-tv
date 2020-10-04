@@ -62,6 +62,7 @@ EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
 
 # Aian Colendres
 0Y397uD1MR0 // Make your own Instagram filter (Fast and easiest way) || Aian Colendres
+xlEoYE9WD8I // Unboxing + Best IG filters || Aian Colendres
 
 # Aishh Life
 by-nSq47Ae4 // HOW TO MAKE INSTAGRAM FILTER WITH SPARK AR APP ( what netflix character are you )
@@ -924,6 +925,7 @@ Iy75gTywsDI // Spark AR ANIMATION
 _3cX7gb3pDw // DUST for your Instagram Filter / Spark AR Tutorial
 Mziiofsgxes // HOW TO MAKE INSTAGRAM FILTERS in 7 STEPS / create your own Instagram filter - it's simple and fun!
 XHsexoWtcTE // Aesthetic Instagram Filter / Create filter with Lightroom preset, sparkles and tap to change
+CTFRbHKnsjc // Change Hair Color for Instagram Filter / Spark AR Tutorials
 
 # Kathlene Figuracion
 TufUUsCFB2o // Create Your Own Instagram Filter | Fast & Simple
@@ -943,6 +945,9 @@ BZKyhRDAgRY // Spark AR - 10 Digits HeartBlock
 ZoXfLHDxv9U // SPARK AR TUTORIAL - Eye Contacts/Color/Instagram Filter
 v6oLcdI19QM // SPARK AR TUTORIAL - Tan Lut + Grain + Retouch + Deform + Tap to Change - Instagram Filter
 AEXC7gbNNwk // SPARK AR TUTORIAL - Cute Face Filter/Kira Kira/ UI Slider for Deformation
+
+# Kevandram
+MTLXyZLf6eA // Creating a Spark AR Instagram Filter - "2020 is fine."
 
 # Kevin Kripper
 fKkFncKO8R0 // Vsynth - Spark Ar Studio - Patch Library Reel
@@ -1916,6 +1921,7 @@ CxCkJmxohzA // 【SparkAR】Distortion World (Gumroad)
 
 # Tone Fuentes
 TsUnA7QWW8o // How to MAKE Instagram FILTERS using Lightroom PRESETS | Spark AR Studio
+vhBobYNEb2U // Cómo crear FILTROS de INSTAGRAM en LIGHTROOM | Spark AR
 
 # Trionn Tech N' Stuff
 uGDmTE4VoA8 // Install Spark AR Studio - Getting Started with Spark AR - Episode 01
@@ -2035,6 +2041,9 @@ MHF__3g4HIM // Crybaby  inspired wet skin set for Spark AR
 
 # xochiworld
 HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation
+
+# Xtreme Graphic
+Q5i9ewU4y1k // MULTIPLE OPTION PICKER FOR YOUR LUTs TOGETHER WITH AN INTENSITY SLIDER | INSTAGRAM FILTER TUTORIAL
 
 # yan pengcheng
 nFoaquc3v8A // spark ar MXRT
