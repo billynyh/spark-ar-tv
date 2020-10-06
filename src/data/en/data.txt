@@ -33,6 +33,9 @@ xYUopOiCcnQ // Anime mecha modeling (Blender 2.79 - 2.83.5)
 # Adi Satrio
 8Ig6brsSE-M // BPM Tools for Spark AR
 
+# Aditi Parekar
+8xhkUAXfSTQ // How To Make Your Own Instagram Filter Free! Create An Instagram Filter Beginner Tutorial!
+
 # Aditya Agarwal
 RQnPuvJb8bk // KIRA KIRA / GLITTER / SPARKEL effect SPARK AR | download link | kira kira + LUT + Slider New Update
 aPj652PPzQE // Step Gradient Patch
@@ -198,6 +201,9 @@ XfZEE-WioDU // Spark AR Studio BLOCKS Feature: How to Use It and Why?
 gxQiOwRVjJ8 // Due to COVID-19 (Coronavirus) Spark AR Effect Reviews and Publishing Suspended
 P85XSs8IQn8 // How to use Promise.all API In Spark AR? - JavaScript Scripting
 
+# Arrow Community
+lP9xhejN_B8 // Fitting rectangles to Screen (Spark AR tutorial)
+
 # Arti Creator
 PvNPegxSRQM // Make Your Own Instagram Filter in Spark AR Studio. Fast Tutorial
 9ROo-kS24Kw // Face Distortion, Deformation Filter for Your Instagram in Spark AR Studio
@@ -269,6 +275,11 @@ mIt2fdjExy0 // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial
 
 # Bryan Daugherty
 LKd9xs3QhRk // Make your own Instagram story filter in less than 10 minutes!!
+
+# Lightroom Burner
+5EuniTurIuI // How To Make Instagram Filter In 5 Minutes  😎
+0KaByplidaM // HOW TO MAKE IG 𝗚𝗟𝗜𝗧𝗘𝗥 FILTER ✨
+kMcEaa1y3yA // HOW TO MAKE IG 𝗗𝗨𝗦𝗧 FILTER
 
 # Car.Tunist
 0IYiGS8XRJU // Create an AR Selfie Filter Using VR: Gravity Sketch and Spark AR Tutorial
@@ -996,10 +1007,6 @@ Qaa8xhboAKo // Lightroom Presets to Instagram Story Filters|Spark AR tutorial in
 
 # Liad Ben - Zur
 4p3DWPEc7rk // Preparing a filter in the spark ar
-
-# Lightroom Burner
-5EuniTurIuI // How To Make Instagram Filter In 5 Minutes  😎
-0KaByplidaM // HOW TO MAKE IG 𝗚𝗟𝗜𝗧𝗘𝗥 FILTER ✨
 
 # LionKloud
 TSsNcLFmLw0 // HOW TO CREATE A INSTAGRAM FILTER WITH SPARK AR WITH YOUR LIGHTROOM PRESETS MOBILE/NORMAL | TUTORIAL

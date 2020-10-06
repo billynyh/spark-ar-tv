@@ -438,14 +438,14 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCh2gFKv1dmrTxmMRgzchmrQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/zPAEpZCu1QI/hqdefault.jpg",
       "title": "Channel: Spark AR Tutoriais em Portugu\u00eas",
-      "meta1": "Num videos: 132",
+      "meta1": "Num videos: 133",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
       "thumbnail_url": "https://i.ytimg.com/vi/M4QSecKIzjE/hqdefault.jpg",
       "title": "Channel: Emiliusvgs",
-      "meta1": "Num videos: 87",
+      "meta1": "Num videos: 88",
       "meta2": null
     },
     {
@@ -773,10 +773,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-10-05.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/pojFUj1NdkE/hqdefault.jpg",
+      "title": "Week 2020-10-05",
+      "meta1": "Num videos: 9",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-09-28.html",
       "thumbnail_url": "https://i.ytimg.com/vi/jZCR6Q86fis/hqdefault.jpg",
       "title": "Week 2020-09-28",
-      "meta1": "Num videos: 102",
+      "meta1": "Num videos: 101",
       "meta2": null
     },
     {
@@ -805,13 +812,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ljRdsv0KD_4/hqdefault.jpg",
       "title": "Week 2020-08-31",
       "meta1": "Num videos: 93",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-24.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/kjgJ9OOq5FU/hqdefault.jpg",
-      "title": "Week 2020-08-24",
-      "meta1": "Num videos: 96",
       "meta2": null
     }
   ]
