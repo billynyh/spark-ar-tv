@@ -966,6 +966,7 @@ BZKyhRDAgRY // Spark AR - 10 Digits HeartBlock
 ZoXfLHDxv9U // SPARK AR TUTORIAL - Eye Contacts/Color/Instagram Filter
 v6oLcdI19QM // SPARK AR TUTORIAL - Tan Lut + Grain + Retouch + Deform + Tap to Change - Instagram Filter
 AEXC7gbNNwk // SPARK AR TUTORIAL - Cute Face Filter/Kira Kira/ UI Slider for Deformation
+r2agV_rE8Rg // SPARK AR TUTORIAL - Tap to Change/Picker UI for multiple eye colored contacts
 
 # Kevandram
 MTLXyZLf6eA // Creating a Spark AR Instagram Filter - "2020 is fine."
@@ -1787,6 +1788,9 @@ X5X7tLcc4Vo // Some AR Madness
 
 # sniponix
 nMADP2nuLtE // Create your own Instagram filter using Lightroom - Spark AR
+
+# social mafia
+nS-xpmuAcpw // Create Instagram Story Filter with Spark AR (Easy step-by-step tutorial)
 
 # Social Media Growth Hacks
 NXuWUaPF9lU // How To Create Instagram Story Filters - Spark AR Tutorial For Beginners
