@@ -121,6 +121,7 @@ oyYTRrScFJo // Spark AR Make Up with Native UI Picker
 wP48iQaLsQw // Instagram Filter "PERFECT FACE" with White Teeth +  Eyelashes + Eye Brightener | Spark AR
 HxUYAIwM8t4 // How to create Gloss Effect at Spark AR Studio
 aLwD91a1TYw // Instagram Filter "CYBER GIRL" | Spark AR
+OCJx33UufrA // Spark AR Filter "Color Hair" with Lenses, Teeth Whitening and MakeUp
 
 # Andrew ARt
 0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
@@ -411,6 +412,9 @@ R5I98cCH1DY // Trashbag Ghost Gets Some Shocking Results on His First Spark AR S
 wOtxInU5VNA // Trashbag Ghost Paints His Face in AR!?
 PrkUjRWs3M0 // Highlight: Trashbag Ghost Reviews a Can of Seltzer with a Cursed Chewbacca Instagram Face Filter
 sKZ3L88r7sE // Trashbag Ghost Taking Your Requests Painting Instagram Face Filters Live!
+
+# Christopher Tharp
+qSpkEQq12Io // Make your own instagram filter
 
 # Cindy Gozali
 GhWTMCBA7AY // Spark AR - Convert Audio to M4A using Online Converter
@@ -1318,6 +1322,7 @@ a1PODXhevGA // #Disposable camera effect  │ How to achieve #analog #film look
 sf8CbTSM0rE // Instagram Filter Tutorial | Doll Face
 _xAAii2bCPg // White Teeth Instagram Filter Tutorial (Updated) │ Spark Ar Studio
 wA8fPhIddJM // Facebook & Instagram Filter │ Spark Ar Studio
+3E06Y6CCOBE // Spark Ar: "Segmentation" - Facebook & Instagram Filter
 
 # Natalia Kovalchuk
 yBZAW99Bupw // Spark AR tutorial. Basic filter tutorial
@@ -1874,6 +1879,7 @@ a-IDt9rI1MQ // Spark AR tutorial
 # SuperHi
 E8Sf3tNvNE4 // How to make an AR fashion filter for Instagram
 7t4w-0EqNno // New course coming soon! Instagram Filters + Spark AR
+bUCG5l_RNQE // How to make a Hall of Mirrors-style Instagram Filter using Spark AR and a displacement texture
 
 # Tech Avni
 taWw_heiGBs // How To Make Instagram Filter Without Spark AR Studio || Make Instagram Filters Without PC For Free
