@@ -60,11 +60,13 @@ lA7LPLhlXnk // Filtri Instagram, Spark AR, Realtá aumentata: moda o rivoluzione
 BXV1LpuXhWo // Filtro Make-Up per Instagram con SPARK AR STUDIO
 _Rv5Vb6fgO8 // Filtro colore con effetto vintage in movimento con SPARK AR STUDIO
 
-# Francesco Ruotolo
-cdmANkKSb6E // #FiltriInstagram #SparkARStudioItaliano Tutorial - Come Creare Filtri Instagram (ANCHE ANIMATI!)
-
 # Fucsia Braids
 nyo3l9Y-8eU // CREIAMO IL NOSTRO FILTRO INSTAGRAM! 💯
+
+# GaNe
+FUyrljCJ-4M // Come creare filtri Instagram sul viso. FACILE E VELOCE
+Sb_hXO6uoms // Come fare filtri con immagini al di fuori del viso. #TUTORIAL #SPARKAR
+SIsC-Q4g74g // COME CAMBIARE IL NASO E ALTRE PARTI DELLA FACCIA SU SPARK AR
 
 # Giacomo Lucarini
 kwDh-ILHW2U // Come Creare Filtri Instagram e Facebook 2D in 10 Minuti | Tutorial Passo Passo Spark AR Studio
@@ -153,7 +155,7 @@ LerynHPdjaA // Spark Ar Tutorials: How to fake synch Music to your instagram fil
 R1nBVAUbEM0 // Spark Ar Tutorial - Multiple user segmentation - Replace background
 a20kSlcWJYE // Make your first Instagram filter EASY - Lights on face + glossy - Spark Ar tutorial FULL PROCESS
 o1Gcw_bfEpI // Spark Ar tutorial - Pixelate every image! Custom Pixels
-ggaYc20k1O4 // Spark Ar tutorial - Add Sound effects / music to your filters - Tap to activate
+ggaYc20k1O4 // Spark ar studio tutorial - Add Sounds and Music - Tap to activate!
 _7rqH3dxYQ0 // Spark Ar Tutorial - texture distortion with custom image textures - Camera distortion - Deformation
 ZmY3cB2uuk4 // Spark Ar Tutorial - OUTLINE EFFECT - EDGE DETECTOR
 -5W-v5RpaIs // Spark ar tutorials - Add multiple Instructions [FREE TEMPLATE]
@@ -162,37 +164,32 @@ JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala
 6s1hK1yqsFk // Spark AR Tutorial - Outline Body Segmentation Animation using SDF / No textures
 Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
 C_DgUv4d3hY // Spark Ar Tutorial beginners - Fill EYES and MOUTH in Spark AR studio - No photoshop
-mNojP__CrDM // Spark Ar Tutorials - NEON OUTLINES + CAMERA TEXTURE Smooth transition - using SDF + COLOR LUT
+mNojP__CrDM // Spark ar studio - Smooth transitions using SDF's tutorial
 4Ri0VIQ2B1c // Spark ar Studio Tutorial - Comics / Cartoon effect with Sobel Filter + SDF Animations
-J9HjQUJQljs // Spark Ar tutorial GLITCH effect - CHROMATIC ABERRATION - Opening RGB Shift Shader patch
-VYAJ8WKQAbo // Spark Ar Tutorial - Background Frame Animation using SDF
-3SrGP8s1AHk // Spark Ar tutorials - Huji camera style - Moving Light leaks
-VQxcSMsvfeU // Spark Ar Tutorial - Flashy lights transition TEXTURE SAMPLER + LUT
-jPrzLb-hx5Y // Spark Ar tutorial - Pop HALFTONE effect using SDF
-lY92ACD5_2Y // Spark Ar tutorial - Add Music - How to make the audio start when pressing record button
+J9HjQUJQljs // Spark Ar Studio - Easy Glitch Effect Tutorial
+VYAJ8WKQAbo // Spark ar studio - Background Frame Animation using SDF tutorial
+3SrGP8s1AHk // Spark ar studio - Huji camera style Light leaks tutorial
+VQxcSMsvfeU // Spark ar studio - Flashy lights tutorial
+jPrzLb-hx5Y // Spark ar studio - Pop halftone using SDF's - tutorial
+lY92ACD5_2Y // Spark ar studio - How to Audio start when pressing record button - Add music
 7VuRK5Ii22c // Spark Ar Studio Tutorial - GALLERY TEXTURE INSIDE EYES / IRIS
-AlJTHssJpVA // Spark Ar tutorial - Gallery texture - Creative use of Gallery picker
-D0Rwb71covc // Spark ar tutorial - Make music reactive filters - Audio Analyzer + RGB Glitch + SDF [FREE DOWNLOAD]
-r-0iZz1XHBM // Spark ar tutorial - Glitch effect on everything [FREE DOWNLOAD]
-wq2cyTdudDM // Spark ar tutorial - Plastic face + Make up 3D Eyelashes template - Easy beginners
-W9MHgH7uVr8 // Spark Ar tutorial - Twist Gradient Lights using SDF - Instagram Filters - color filter
-vRChcqiRk_4 // Spark Ar tutorial - How to make RAINBOW
-yFrkCfeE7fM // Spark Ar tutorial - Vaporwave Scan Lines - VHS  [FREE DOWNLOAD]
-8iic5UXEhgc // Spark Ar tutorial - Render pass & Delay frame [FREE DOWNLOAD]
-jdgM2_QyDjY // Spark Ar - Motion Blur Outlines - Ink Shower effect breakdown tutorial
-x318bkZf3Fc // Spark Ar - Create your own patch asset [FREE DOWNLOAD]
-bBPJpDfmxOw // Spark Ar Studio Tutorial - Face Distortion Pack [FREE TEMPLATE]
-pXxkyjxYVJ0 // Spark ar studio tutorial - Creative use of the MIX patch
+AlJTHssJpVA // Spark ar studio - Gallery texture tutorial
+D0Rwb71covc // Spark ar studio - Audio Analyzer + RGB + SDF - Music reactive filter  [FREE DOWNLOAD]
+r-0iZz1XHBM // Spark ar studio - RGB shift on everything you want [FREE DOWNLOAD]
+wq2cyTdudDM // Spark ar studio - Plastic face on Make up tutorial
+W9MHgH7uVr8 // Spark ar studio - Twisting lights - SDF - Tutorial
+vRChcqiRk_4 // Spark ar studio - Make Rainbow!
+yFrkCfeE7fM // Spark ar studio - Vaporwave Scan Lines tutorial [FREE DOWNLOAD]
+8iic5UXEhgc // Spark ar studio - Render pass & Delay frame tutorial [FREE DOWNLOAD]
+jdgM2_QyDjY // Spark ar studio - Motion Blur Outlines - Full effect breakdown tutorial
+x318bkZf3Fc // Spark ar studio - Make your custom patch asset [FREE TEMPLATE]
+bBPJpDfmxOw // Spark Ar Studio - Face Distortion Pack [FREE TEMPLATE]
+pXxkyjxYVJ0 // Spark ar studio - Mix patch Tutorial
 Hqy_E5KYg7k // Spark Ar Studio - Dynamic Glitch Tutorial
 gkZuvxNbCdw // Spark Ar studio - Hair segmentation tutorial [FREE TEMPLATE]
 
 # Nicolò Fava - Channel
 TXtV8VaLFpg // Come ho creato 5(+1) FILTRI INSTAGRAM in 5 giorni
-
-# ObbiettivaMente
-FUyrljCJ-4M // Come creare filtri Instagram sul viso. FACILE E VELOCE
-Sb_hXO6uoms // Come fare filtri con immagini al di fuori del viso. #TUTORIAL #SPARKAR
-SIsC-Q4g74g // COME CAMBIARE IL NASO E ALTRE PARTI DELLA FACCIA SU SPARK AR
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla

@@ -178,12 +178,12 @@
       {
         "title": "Animation / Gif",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/animation-gif.html",
-        "video_count": 45
+        "video_count": 44
       },
       {
         "title": "Audio",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/audio.html",
-        "video_count": 39
+        "video_count": 38
       },
       {
         "title": "Audio Analyzer / Energy Meter",
@@ -193,7 +193,7 @@
       {
         "title": "Basic JS script",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/basic-js-script.html",
-        "video_count": 13
+        "video_count": 12
       },
       {
         "title": "Beauty / Makeup / Lipstick",
@@ -228,7 +228,7 @@
       {
         "title": "Face Retouching",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/face-retouching.html",
-        "video_count": 36
+        "video_count": 35
       },
       {
         "title": "Face extraction",
@@ -313,7 +313,7 @@
       {
         "title": "Native UI Picker / Slider",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/native-ui.html",
-        "video_count": 53
+        "video_count": 51
       },
       {
         "title": "Neon light",
@@ -436,9 +436,9 @@
   "featured_contents": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCh2gFKv1dmrTxmMRgzchmrQ.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/zPAEpZCu1QI/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/U-sDe67gyNI/hqdefault.jpg",
       "title": "Channel: Spark AR Tutoriais em Portugu\u00eas",
-      "meta1": "Num videos: 134",
+      "meta1": "Num videos: 132",
       "meta2": null
     },
     {
@@ -591,8 +591,8 @@
     {
       "url": "https://www.youtube.com/watch?v=0jhKLocFEP4",
       "thumbnail_url": "https://i.ytimg.com/vi/0jhKLocFEP4/hqdefault.jpg",
-      "title": "Instagramdaki Kimsin Sen Tarz\u0131ndaki Filtreler Nas\u0131l Yap\u0131l\u0131r?",
-      "meta1": "Lute'nin Kanvas\u0131",
+      "title": "Instagramdaki Kimsin Sen Tarz\u0131ndaki Filtreler Nas\u0131l Yap\u0131l\u0131r? //Spark Ar - 1",
+      "meta1": "Luteus Poeta",
       "meta2": "2020-04-01"
     },
     {
@@ -626,7 +626,7 @@
     {
       "url": "https://www.youtube.com/watch?v=mNojP__CrDM",
       "thumbnail_url": "https://i.ytimg.com/vi/mNojP__CrDM/hqdefault.jpg",
-      "title": "Spark Ar Tutorials - NEON OUTLINES + CAMERA TEXTURE Smooth transition - using SDF + COLOR LUT",
+      "title": "Spark ar studio - Smooth transitions using SDF's tutorial",
       "meta1": "Natived Filters Laboratory",
       "meta2": "2020-04-02"
     },
@@ -774,44 +774,44 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-10-05.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/U_wMjLJBdMY/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/SJ7bCXeV-qQ/hqdefault.jpg",
       "title": "Week 2020-10-05",
       "meta1": "Num videos: 59",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-09-28.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/jZCR6Q86fis/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/zhI2-sCq8DQ/hqdefault.jpg",
       "title": "Week 2020-09-28",
-      "meta1": "Num videos: 102",
+      "meta1": "Num videos: 101",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-09-21.html",
       "thumbnail_url": "https://i.ytimg.com/vi/GvZ4e-GDCYY/hqdefault.jpg",
       "title": "Week 2020-09-21",
-      "meta1": "Num videos: 87",
+      "meta1": "Num videos: 86",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-09-14.html",
       "thumbnail_url": "https://i.ytimg.com/vi/WTNXpeBsTZ4/hqdefault.jpg",
       "title": "Week 2020-09-14",
-      "meta1": "Num videos: 98",
+      "meta1": "Num videos: 95",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-09-07.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/ahueSpXvlEU/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/ibLLaDIgKgA/hqdefault.jpg",
       "title": "Week 2020-09-07",
-      "meta1": "Num videos: 90",
+      "meta1": "Num videos: 88",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-31.html",
       "thumbnail_url": "https://i.ytimg.com/vi/ljRdsv0KD_4/hqdefault.jpg",
       "title": "Week 2020-08-31",
-      "meta1": "Num videos: 93",
+      "meta1": "Num videos: 91",
       "meta2": null
     }
   ]
