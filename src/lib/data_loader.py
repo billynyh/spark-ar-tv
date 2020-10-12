@@ -244,8 +244,9 @@ def load_global_groups(config, video_cache):
     return groups
 
 def load_skip_ids(data_dir):
-    ph = PathHelper(data_dir)
-    return parse_skip_file(ph.get_skip_file())
+    ph0 = PathHelper("data")
+    ph1 = PathHelper(data_dir)
+    return parse_skip_file(ph0.get_skip_file()) + parse_skip_file(ph1.get_skip_file())
 
 def sort_videos(video_data):
     ids = video_data.keys()

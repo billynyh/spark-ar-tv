@@ -671,6 +671,7 @@ MSda4S6PHzE // SPARK AR - Object Placement (Piercing)
 X-CdC6peEN8 // SPARK AR - Spinning Wheel / Wheel of Fortune Tutorial
 e1bxWwZnIyY // SPARK AR - Hair Segmentation
 o0LM3UW2M_A // SPARK AR TIPS - 3D Model Outlines
+s7fCOo7jpb0 // SPARK AR - Plane Tracker
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1308,6 +1309,7 @@ WNoc6WoLzF8 // Eyeshadow for Instagram/ Facebook Filter in Spark Ar
 362VCjBDd8U // Change Hair Color Instagram Filter in Spark AR
 _hoG39Ii_kc // White teeth + LUT + Skin Smoothing Instagram Filter in Spark AR
 A2mcErMBQv0 // Eye Lenses Instagram/Facebook Filter in Spark Ar
+ppfNW0i0P6M // How to add 3D glasses for Instagram Filter in Spark Ar
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -1356,6 +1358,7 @@ UUkw1v5Qvb8 // Drag Spot Light: Free Spark AR Light At Touch Position Template
 hIqlyYXpULk // WHY 2D BROKE!? Drag 2D Update! The new Spark AR v95+ 2D coordinate system #newcolor #sparkar
 MKIVnh9v9Ac // How to make a phone mockup with transparent background using MetaMock
 b0ZR7bplNZQ // Draw 2D: Drawing with Render Pass in Spark AR
+btf16fI-osY // How Spark AR Hub Analytics Works: Instagram Filter Analytics Revealed
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
