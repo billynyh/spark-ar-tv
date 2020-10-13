@@ -445,14 +445,14 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
       "thumbnail_url": "https://i.ytimg.com/vi/M4QSecKIzjE/hqdefault.jpg",
       "title": "Channel: Emiliusvgs",
-      "meta1": "Num videos: 89",
+      "meta1": "Num videos: 90",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
       "thumbnail_url": "https://i.ytimg.com/vi/99wNU14mcKI/hqdefault.jpg",
       "title": "Channel: Tutoriais do Kewin",
-      "meta1": "Num videos: 83",
+      "meta1": "Num videos: 84",
       "meta2": null
     },
     {
@@ -773,6 +773,13 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-10-12.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/VbK-bhAYXQ8/hqdefault.jpg",
+      "title": "Week 2020-10-12",
+      "meta1": "Num videos: 15",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-10-05.html",
       "thumbnail_url": "https://i.ytimg.com/vi/YbnJtWZ85zs/hqdefault.jpg",
       "title": "Week 2020-10-05",
@@ -805,13 +812,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ibLLaDIgKgA/hqdefault.jpg",
       "title": "Week 2020-09-07",
       "meta1": "Num videos: 88",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-08-31.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/ljRdsv0KD_4/hqdefault.jpg",
-      "title": "Week 2020-08-31",
-      "meta1": "Num videos: 91",
       "meta2": null
     }
   ]

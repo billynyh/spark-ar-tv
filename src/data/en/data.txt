@@ -744,6 +744,7 @@ UeET9A5Dq3w // Make an AR Vending Machine in 2 Minutes
 # Hey Shaswat
 bs9zJ16OcB0 // How To Start With Augment Reality Explained In 10 MINUTES!|spark ar, lens studio,& Unity|Ar Tutorial
 S3IuWonWZ0E // 5 ways to make your Sparkar filter reach more people.| How Upload filter to Instagram & Facebook.
+ayGwQmyZFoI // Using the Spark AR Studio Face Reference Assets| Figure out Facemesh texture| Sparkar tutorial
 
 # Highzenbug
 kC038NhhvUM // Spark AR tutorial   Face Split effect
@@ -1249,6 +1250,7 @@ R3BFw92JsLI // Publishing your fist Spark AR project
 
 # Models by Mike
 P46w_nIg7OE // Easy Freckles in Spark AR!
+u31vRoG3uns // Adding Grain with Spark AR
 
 # Momo Studio
 pCP99V_FvW8 // Instagram Music filter | Spark AR studio | Different types of audio reactive spectrum -Tutorial easy
@@ -1324,6 +1326,7 @@ sf8CbTSM0rE // Instagram Filter Tutorial | Doll Face
 _xAAii2bCPg // White Teeth Instagram Filter Tutorial (Updated) │ Spark Ar Studio
 wA8fPhIddJM // Facebook & Instagram Filter │ Spark Ar Studio
 3E06Y6CCOBE // Spark Ar: "Segmentation" - Facebook & Instagram Filter
+9J41kU9iL7s // "Indie Neon Kid" Instagram Filter │ Spark Ar Studio
 
 # Natalia Kovalchuk
 yBZAW99Bupw // Spark AR tutorial. Basic filter tutorial
@@ -1816,6 +1819,7 @@ lqHOq4gf3cc // How to make Instagram filter | Spark Ar Tutorial (Lightroom prese
 # Spark Ar 3D
 90q2XDx3BaM // Prince - Clash of Royale - Spark AR Timelapse
 gl4DR4mTfqk // Criando Piercing 3D para seus filtros do zero   Blender e Spark Ar Tutorial
+BD5Fkwoo4fQ // Filtro com óculos 3D usando Blender - Tutorial Spark AR 3D
 
 # Spark AR Academy Eng
 y3JLWRdNGPQ // Lesson 1 - How to install Spark AR, Spark AR Tutorial
@@ -1890,6 +1894,7 @@ fUqthvjuxH8 // Grey Beard Hero - Instagram Filter (SparkAR)
 YHC1xmy3jk8 // How To Make My Own Instagram Filter | Independence Day Special Filter | Spark AR Studio Tutorial
 UAS2DheeJak // How To Add Animation Butterfly In Instagram Filter - Spark AR Studio Tutorial
 dY-1x0IEOAY // How To Add Background Music In My Instagram Filter & Change Music On Tapping Screen In Instagram
+xKNtLn6pqCU // गूगल ड्राइव में फोटो सेव कैसे करें | Google drive kaise use kare | How to use Google Drive in Mobile
 
 # Techno Gamerz 007
 pPCvm1dMjnU // Make your own Instagram and Facebook filters  | using spark AR studio| For Beginners
@@ -1899,6 +1904,9 @@ RhcaiTXg3WY // MAKE YOUR OWN INSTAGRAM FILTER IN 10 MINUTES..!!🔥🔥 FULL TUT
 
 # Techno Tamizha
 n7JNOy7sRDA // Multi Face Chaos | Spark AR Filter Demo | Multi Frame Video Delay | Instagram
+
+# Techy Tamizhan
+H8-rvdnrJTU // Augmented Arathu - 01 (Introduction to Spark AR)
 
 # TechzClub - Everything Tech & Design!
 39W4lqW9L2Q // How to Create Your First AR Filter for Instagram or Facebook using Spark AR Studio?
