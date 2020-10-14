@@ -204,6 +204,7 @@ P85XSs8IQn8 // How to use Promise.all API In Spark AR? - JavaScript Scripting
 
 # Arrow Community
 lP9xhejN_B8 // Fitting rectangles to Resizable Window (Spark AR tutorial)
+qaXA1L22UEw // Fixing Rectangles to ANY Screen Size (SPARK AR Tutorial)
 
 # Arti Creator
 PvNPegxSRQM // Make Your Own Instagram Filter in Spark AR Studio. Fast Tutorial
