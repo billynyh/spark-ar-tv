@@ -80,6 +80,7 @@ HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 4yzLNFqUOmI // How to create a Face Deformation with Color LUT and Make Up in Your Instagram Filter using Spark AR
 ONpOh6wso7A // How to Create a Projector Aesthetic in Spark AR for your Instagram Filter (Bonus Realistic Shadow)
 owRrVlZ1Ds0 // How to Color Your Hair for your Instagram Filter [free hair segmentation template in Spark AR]
+xdLIF7XACL4 // How to create a green screen effect in Spark AR adding gallery texture
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio
