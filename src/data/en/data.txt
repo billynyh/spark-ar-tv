@@ -287,6 +287,7 @@ LKd9xs3QhRk // Make your own Instagram story filter in less than 10 minutes!!
 kMcEaa1y3yA // HOW TO MAKE IG 𝗗𝗨𝗦𝗧 FILTER
 edpTmpEta_Q // How To Create 𝗡𝗘𝗢𝗡 𝗟𝗜𝗚𝗛𝗧 Instagram Filter ✨
 cfuXVTQra2o // How To Make IG 𝗕𝗟𝗨𝗦𝗛 😊 Filter In 3 Minutes
+Vt9Ejml5D-I // HOW TO MAKE 𝗠𝗔𝗞𝗘𝗨𝗣 💄 FILTER FOR INSTAGRAM
 
 # Car.Tunist
 0IYiGS8XRJU // Create an AR Selfie Filter Using VR: Gravity Sketch and Spark AR Tutorial
@@ -678,6 +679,7 @@ X-CdC6peEN8 // SPARK AR - Spinning Wheel / Wheel of Fortune Tutorial
 e1bxWwZnIyY // SPARK AR - Hair Segmentation
 o0LM3UW2M_A // SPARK AR TIPS - 3D Model Outlines
 s7fCOo7jpb0 // SPARK AR - Plane Tracker
+DX8OA5Hz2wc // SPARK AR - Native UI Slider (With Zoom Example)
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1290,6 +1292,7 @@ i8_hOEuexlM // HOW TO RETOUCH & SKIN SMOOTH FACE IN SPARK AR STUDIO | SKIN SMOOT
 # Mr valay
 g3JgJtYmDTU // create your own instagram filter in 5 minutes
 E8RTK7iAvf4 // multiple text filter for Instagram
+fpjKXYQPwks // make Instagram sparkle filter
 
 # Musiclick
 xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spark AR Studio
@@ -1367,6 +1370,8 @@ hIqlyYXpULk // WHY 2D BROKE!? Drag 2D Update! The new Spark AR v95+ 2D coordinat
 MKIVnh9v9Ac // How to make a phone mockup with transparent background using MetaMock
 b0ZR7bplNZQ // Draw 2D: Drawing with Render Pass in Spark AR
 btf16fI-osY // How Spark AR Hub Analytics Works: Instagram Filter Analytics Revealed
+kQYVlZCq6Vg // Spark AR Eye Tracking Game - Rotating World Instagram Filter Game: Newcolor Live Stream 😁
+uHerjygkWhs // Spark AR Eye Tracking Game - Free Template
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1674,6 +1679,9 @@ IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
 
+# Sajjad Jairaj
+TAsrM_QE-xs // How to Create your Own Instagram Filters in 5 Mins | Spark AR Studio Tutorial
+
 # Sameer Mahan
 eGRw0NUQfIw // How to Make an Instagram Filter using VSCO and Spark AR | Tutorial
 
@@ -1913,6 +1921,7 @@ n7JNOy7sRDA // Multi Face Chaos | Spark AR Filter Demo | Multi Frame Video Delay
 
 # Techy Tamizhan
 H8-rvdnrJTU // Augmented Arathu - 01 (Introduction to Spark AR)
+jbR1Ftvwh_Y // Augmented Arathu - 02 (Creating a face tracking effect)
 
 # TechzClub - Everything Tech & Design!
 39W4lqW9L2Q // How to Create Your First AR Filter for Instagram or Facebook using Spark AR Studio?

@@ -5,6 +5,7 @@
 # Delaram Sedaghat
 PwoYBeVfGv4 // spark ar studio آموزش ساخت افکت یا فیلتر اینستاگرام مبتدی - قسمت اول
 3HgsKGLKUhA // آموزش آپلود فیلتر اینستاگرام-upload an instagram filter in spark ar
+txhJnldSZow // ساخت فيلتر برق لب برای اینستاگرام - lip gloss filter spark ar
 
 # Hosein E
 Izl98mCs8bY // ساخت افکت اینستاگرام : صفرتاصد: ساخت فیلتر اینستاگرام با Spark Ar Studio
