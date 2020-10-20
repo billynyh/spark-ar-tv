@@ -13,3 +13,4 @@ EsXxwEUes_M // Free Spark AR Project : Vintage LUTs with UI picker and PSD
 asuiE74T7LE // Spark AR tutorial : Comic magazine effect with RGB scanner for Instagram
 ePUsKsFSP2I // Spark AR Tutorial : Dissolve shader [Lava shader ] for Instagram
 5P1vScGMsUY // Spark AR Tutorial : Change Hair Color in Instagram [Hair Segmentation| UI Picker + Slider]
+zQ5BWmLjMNE // Spark AR Tutorial: Creating Glow Effect With Render Pass [Instagram]

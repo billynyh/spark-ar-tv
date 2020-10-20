@@ -472,6 +472,9 @@ DweGgmQKyB0 // Add day or time on any insta filter ( Spark Ar Studio)
 AUHlGM6zt6s // Screen tap + slider + text + blurred frame + Lr preset in one insta filter ( Spark Ar Studio)
 aWmQkd-4Grg // How to add picker ui / select option on insta filter with Spark Ar studio 🤔😊
 
+# Damso Visuals
+FTlnTRRwoSs // How to turn you Lightroom Presets into Instagram Story Filters | Spark AR Tutorial
+
 # Danielll King
 diNJ6DPehDE // How to Create an Instagram Filter using PicsArt + Spark AR Studio
 
@@ -1510,6 +1513,7 @@ LAB8i_Gpzts // SPARK AR | PHOTOBOOTH Filter + with TIMER and FLASH ( photo booth
 OxMVd0QpiaY // SPARK AR | Bounce effect ( physics in spark ar )
 uvXTOr8eaXI // SPARK AR | White Teeth ( teeth whitening effect for a brighter smile )
 VO7_hFTDyds // SPARK AR | Scan effect ( Copy and Paste )
+AI23XrgCm_I // SPARK AR | Realistic Clock
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1608,6 +1612,7 @@ EsXxwEUes_M // Free Spark AR Project : Vintage LUTs with UI picker and PSD
 asuiE74T7LE // Spark AR tutorial : Comic magazine effect with RGB scanner for Instagram
 ePUsKsFSP2I // Spark AR Tutorial : Dissolve shader [Lava shader ] for Instagram
 5P1vScGMsUY // Spark AR Tutorial : Change Hair Color in Instagram [Hair Segmentation| UI Picker + Slider]
+zQ5BWmLjMNE // Spark AR Tutorial: Creating Glow Effect With Render Pass [Instagram]
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -1890,6 +1895,7 @@ a-IDt9rI1MQ // Spark AR tutorial
 E8Sf3tNvNE4 // How to make an AR fashion filter for Instagram
 7t4w-0EqNno // New course coming soon! Instagram Filters + Spark AR
 bUCG5l_RNQE // How to make a Hall of Mirrors-style Instagram Filter using Spark AR and a displacement texture
+vSorw4_jLZk // How to create an animated face mask effect with Spark AR and SDFs – Instagram filter tutorial
 
 # Tech Avni
 taWw_heiGBs // How To Make Instagram Filter Without Spark AR Studio || Make Instagram Filters Without PC For Free
@@ -1956,6 +1962,7 @@ r1oYxAASiAU // ইনস্টাগ্রামে নিজের ফিল্
 # Third Aurora
 Vuv6kB34t9c // Setup & Fixing Spark AR Audio | Third Aurora Augmented Reality Tech Company
 eeq0WlQ-Lkk // How I Got 500k Impressions In 30 Hours With ONE Instagram Filter!
+cYm13jwnUZs // Building Mario Kart Live Augmented Reality w/Spark AR  | Third Aurora Augmented Reality Tech Company
 
 # Till Daling
 ltLyDMl3FKo // Turn your Lightroom Presets into Instagram Filters!
