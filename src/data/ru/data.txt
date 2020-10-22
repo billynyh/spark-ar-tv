@@ -360,6 +360,9 @@ d_qOBJw09dE // Spark Ar Studio / Маска с бабочками / Бабочк
 HWitZ_7zerM // Spark Ar Studio / Создаем маску с эффектом Zoom (приближения)
 sbCxXXjwhaw // SPARK AR STUDIO / Взаимодействие с экраном, tap на экран, нажатие на обьект, долгое нажатие и тд
 
+# Elisa's estilo
+n_Nln0Nj4Kw // Слайдер для деформации в Spark AR | Slider UI for distortion in Spark AR
+
 # Elli Fm
 0nodxcDu8YY // СОЗДАЁМ МАСКУ ДЛЯ ИНСТАГРАМ В SPARK AR STUDIO / НАДПИСЬ НА ЛИЦЕ
 GpyTSIZ_ynA // Урок 2, стикеры на лице, Создание маски в инстаграм в прогарме SPARK AR, Windows 10, стикер на лице
@@ -1358,6 +1361,7 @@ J2491lRszQw // ФОНОВАЯ СЕГМЕНТАЦИЯ В SPARK AR STUDIO
 H6hJ_z1OGkQ // FACE ZOOM В SPARK AR STUDIO
 YyejMVhjiN0 // SPARK AR STUDIO ГУБНАЯ ПОМАДА СМЕНА ПО ТАПУ
 tYAOD0sn0mU // SPARK AR STUDIO БЛИКИ
+0t-bK8mGzkI // КАК СОЗДАТЬ МАСКУ "РАНДОМАЙЗЕР" В SPARK AR STUDIO
 
 # Ирина Хантимирова
 Au5FRuvPCD4 // Маски. Как сделать маски для Instagram с нуля. Урок 1 Скачивание необходимых файлов
