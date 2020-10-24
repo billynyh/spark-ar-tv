@@ -1334,6 +1334,7 @@ _hoG39Ii_kc // White teeth + LUT + Skin Smoothing Instagram Filter in Spark AR
 A2mcErMBQv0 // Eye Lenses Instagram/Facebook Filter in Spark Ar
 ppfNW0i0P6M // How to add 3D glasses for Instagram Filter in Spark Ar
 yrycH2vdBgU // Glitter for Instagram/Facebook Filter in Spark AR
+iJaKM3ausdI // Glitter, Sparkles, Kira Kira on Hair Instagram Filter in Spark AR
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -1386,6 +1387,7 @@ b0ZR7bplNZQ // Draw 2D: Drawing with Render Pass in Spark AR
 btf16fI-osY // How Spark AR Hub Analytics Works: Instagram Filter Analytics Revealed
 kQYVlZCq6Vg // Spark AR Eye Tracking Game - Rotating World Instagram Filter Game: Newcolor Live Stream 😁
 uHerjygkWhs // Spark AR Eye Tracking Game - Free Template
+FeXO3lIQOL0 // Spark AR Eye Tracking Game - Free Rotating World Instagram Filter Game: Newcolor Live Stream 😁
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1529,6 +1531,8 @@ uvXTOr8eaXI // SPARK AR | White Teeth ( teeth whitening effect for a brighter sm
 VO7_hFTDyds // SPARK AR | Scan effect ( Copy and Paste )
 AI23XrgCm_I // SPARK AR | Realistic Clock
 0Ul2oyjMu8c // SPARK AR | Strobe Effect patch
+1UgzOvzUpCs // SPARK AR | Doll Eyes (Cartoon Princess)
+VTsRmqrjm4w // SPARK AR | CONCEALER ( Olheiras )
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1912,6 +1916,7 @@ E8Sf3tNvNE4 // How to make an AR fashion filter for Instagram
 bUCG5l_RNQE // How to make a Hall of Mirrors-style Instagram Filter using Spark AR and a displacement texture
 vSorw4_jLZk // How to create an animated face mask effect with Spark AR and SDFs – Instagram filter tutorial
 jCPu7OtGvpc // How to make a freeze frame Instagram filter from scratch using Spark AR
+xFMzxAF8kks // How to make a trippy, effed-up feedback filter for Instagram in Spark AR
 
 # Tech Avni
 taWw_heiGBs // How To Make Instagram Filter Without Spark AR Studio || Make Instagram Filters Without PC For Free
