@@ -606,6 +606,10 @@ bsKS4Mp02og // 03 Spark AR workflow
 -xdeNrClC3Y // Spark AR Mask
 1WQOckuupYs // Spark AR Export Mask
 
+# Expanded Media
+0sa_tfD1boI // Krita: Creating a 2d Texture using Spark AR Face Reference Assets
+X2tICSo0Fxo // Spark AR Studio: Send to Instagram and generate a Test link to Share
+
 # Farah Bros
 q7juW5Woxv8 // Who are you / Questions AR Filter tutorial for Instagram and Facebook [2020]
 
@@ -1533,6 +1537,7 @@ AI23XrgCm_I // SPARK AR | Realistic Clock
 0Ul2oyjMu8c // SPARK AR | Strobe Effect patch
 1UgzOvzUpCs // SPARK AR | Doll Eyes (Cartoon Princess)
 VTsRmqrjm4w // SPARK AR | CONCEALER ( Olheiras )
+oe0ILa7nRcU // SPARK AR | Make-Up Basics ( makeup )
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
