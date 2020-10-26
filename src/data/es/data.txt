@@ -160,6 +160,7 @@ kV3p73PwyL4 // CURSO SPARK AR STUDIO | Crear un fondo con una imagen #19
 MfigOj-bIP4 // CURSO SPARK AR STUDIO | Elementos 3D Rotando por la cabeza #21
 oGq3d0Zp2RQ // CURSO SPARK AR STUDIO | Crear efecto Andy Warhol #22
 ujAchVcM-L8 // CURSO SPARK AR STUDIO | Elementos 3D en el espacio #23
+Ef3i_-Q40Zs // CURSO SPARK AR STUDIO | Animar elementos 3D #24
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -300,6 +301,7 @@ fd7bfK4oEHE // CREA LUCES EN SPARK AR
 nC6uu8-VXkI // Cambia el COLOR de tu PELO (Spark AR Hair Segmentation)
 yIjPkYNQEt0 // Editar, eliminar, estadísticas de tu FILTRO (SPARK HUB)
 OxlR5gTB-Ow // Crear un filtro con El contorno marcadas (Spark Ar)
+f-2_twf6hkQ // Filtro de Espejo (Spark AR)
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -429,6 +431,7 @@ DlukBj9IVBw // Spark AR Studio - Aprende a crear un filtro de Instagram
 Gv5soZfhO-s // [Spark AR Studio] Curso en español - Introducción a los filtros de Instagram y Facebook.
 nXj-5uTp7r4 // [Spark AR Studio] Creación de Diseños para SparkAR - Nuestro primer filtro.
 df8q8cyV9pI // Tu Primer Filtro de Instagram y Facebook con Canva - [ SPARK AR ]
+_U9IIzxb0ss // Filtros Artisticos para Facebook e Instagram
 
 # FATY MEZA
 GfUrmTWT2tA // TUTORIAL DE COMO SUBIR FILTRO A INSTAGRAM

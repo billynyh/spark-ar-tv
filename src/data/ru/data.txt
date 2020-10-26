@@ -639,6 +639,7 @@ euQIUTOgU9I // МАСКА-ИГРА, ЧАСТЬ 2 : ДОБАВЛЕНИЕ ТЕКС
 GghtdXvGLIY // МАСКА ИГРА, ЧАСТЬ  3 : ДОБАВЛЕНИЕ АНИМАЦИИ И СЧЁТА ОЧКОВ - УРОК 16 ; Spark Ar Studio
 4F0GRPdonjA // 🌠 SLIDER UI : РЕГУЛИРОВКА ЭФФЕКТОВ 🌠 - УРОК 17 ; Spark Ar Studio
 xvrEHzSlUsw // 💯 ГЛИТЧ ЭФФЕКТ В МАСКЕ 💯 - УРОК 18 ; Spark Ar Studio
+iQ1D9-0UDMc // 😈 МАСКА-ДЕМОН В ИНСТАГРАМ 😈 - УРОК 19 ; Spark Ar Studio
 
 # Masha Semenova
 8GImdQ6WfJQ // 🎭КАК СДЕЛАТЬ ИНСТА-МАСКУ без макбука?? ТЫ будешь зарабатывать💸
@@ -1445,6 +1446,7 @@ qupQFYGjNOQ // Spark AR v92, invisible, Render Pass
 X88BYy1V8SY // Spark AR, Game catch items
 OqVfalLTiSE // Spark AR, score-to-text converter patch
 RAmNYFLntqY // Spark AR, Antiloop Block, without scripting
+UkJIFAPhhYU // Spark AR, Demo Game eater (Instagram filter)
 
 # Константин Сковоронский
 EFX7oitoGJc // Быстро набрать активность в  Instagram. Маски  (Spark AR studio)
