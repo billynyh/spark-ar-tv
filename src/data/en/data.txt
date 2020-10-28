@@ -280,6 +280,7 @@ mIt2fdjExy0 // Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial
 
 # Boris Josz
 tLcIxXuLImY // Demo Video for "How to make Smoke in Spark AR"
+S2RJUyCS2vk // Comment créer de la fumée sur Spark AR
 
 # Britney Ngaw
 2FZcjlCEzrk // How i create Instagram's "What Pokemon Are You" Filter
@@ -816,6 +817,9 @@ zemYG2voSGU // Spark AR: Filter "Sketches" for Instagram + b&w preset (LUT)
 pgQmeojwfTw // Spark AR: Filter with flowers and freckles + preset for Instagram
 mUGzs8jUgao // Spark AR: Palette filter for Instagram + preset (LUT)
 
+# Immersive Studios
+nid-pSriuUk // Making an Instagram Filter with Spark AR (the spooky special)
+
 # Insomnia Studio
 mys2jGqiLfs // Cliff Jumper -  SparkAR Game Template
 
@@ -943,6 +947,9 @@ Q-fD18glQJk // Create Your Own INSTAGRAM FILTER || ft. TEAM PAYAMAN
 # k3na
 vfLPe2nGtgM // HOW I MAKE MY INSTAGRAM FILTERS ✨ || SIMPLE TUTORIAL
 
+# Kaitlyn Berry
+a0KfwroCbqk // An Introduction to Spark AR
+
 # Kapwing App
 FH_sg17pxMY // How To Make A "Which Are You" Instagram Filter - Spark AR Tutorial
 
@@ -1016,6 +1023,7 @@ YT1Bk-Fk2HM // MAKE AN INSTAGRAM FILTER/MASK 2020 - Spark AR
 N2TZVqVuSAo // How to get Background Segmentation / Green Screen Effect on an Instagram Filter - Spark AR
 
 # Kouam Destin
+Zztlu6QD33s // Learn the basics of Spark AR by creating your FanMask filter
 4B734TqyX6k // Learn the basics of Spark AR by creating your FanMask filter
 
 # Krunal Patel
@@ -1180,6 +1188,7 @@ junpsc_ydLg // Sparks AR Tratamiento Proyecto
 # Marius Eder
 4ggS6G9HIh8 // How to create 3D Volumes & Depth Fog in SparkAR
 UEjPkrSRi0w // How to get shadows and GI in SparkAR
+EWh087wKYV4 // Create a rounded edges shader in SparkAR
 
 # Marty Markenson
 3HnONkme0QE // Image Flip Flop Spark Studio Patch Editor
@@ -1406,6 +1415,8 @@ btf16fI-osY // How Spark AR Hub Analytics Works: Instagram Filter Analytics Reve
 kQYVlZCq6Vg // Spark AR Eye Tracking Game - Rotating World Instagram Filter Game: Newcolor Live Stream 😁
 uHerjygkWhs // Spark AR Eye Tracking Game - Free Template
 FeXO3lIQOL0 // Spark AR Eye Tracking Game - Free Rotating World Instagram Filter Game: Newcolor Live Stream 😁
+XUCKYUae0m0 // Spark AR: 3D to 2D Position Conversion - Free Template
+5QIXl7WbeU8 // Spark AR Permission Groups: Add an AR Manager with Spark AR Hub
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1710,6 +1721,7 @@ sxBEDzUjd34 // How to Make a Neon Filter in Spark AR?
 u0ufCSywtDM // MAKE YOUR OWN INSTAGRAM FILTER WITH SPARK AR HUB & LIGHTROOM PRESETS in 4 minutes //  ROHIIIITSINGH
 
 # Rokko Effe
+R5YnquTy5Wc // Doodle Jump Game Template. Spark AR, Instagram
 P12jfVloF5Y // Creating colliders with Scripting - Spark AR
 
 # Roman Pillai

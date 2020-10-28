@@ -57,11 +57,13 @@ def fetch_all(config, master, lang, new_only = True, max_result=10, single_chann
     channel_data = api.fetch_channels(list(channel_ids))
     for c in channel_data:
         print("Fetching %s(%s)..." % (c.title, c.playlist))
-        items = api.fetch_playlist(c.playlist, max_result=max_result)
-        items = filter_videos(items, all_ids.union(skip_ids), keywords=['spark', 'mask', 'sparkar'])
-        if len(items) > 0:
-            result.append((c.title, items, c.id))
-    
+        try:
+            items = api.fetch_playlist(c.playlist, max_result=max_result)
+            items = filter_videos(items, all_ids.union(skip_ids), keywords=['spark', 'mask', 'sparkar'])
+            if len(items) > 0:
+                result.append((c.title, items, c.id))
+        except:
+            print("Error fetching %s" % c.playlist)
     if len(result) == 0:
         print("No new data")
         return master
