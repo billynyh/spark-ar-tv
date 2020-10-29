@@ -73,6 +73,9 @@ EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
 0Y397uD1MR0 // Make your own Instagram filter (Fast and easiest way) || Aian Colendres
 xlEoYE9WD8I // Unboxing + Best IG filters || Aian Colendres
 
+# Aircastle
+Z__toxZ2dlA // HOW TO MAKE INSTAGRAM FILTER //SPARK AR TUTORIAL //face retouching
+
 # Aishh Life
 by-nSq47Ae4 // HOW TO MAKE INSTAGRAM FILTER WITH SPARK AR APP ( what netflix character are you )
 
@@ -297,6 +300,7 @@ cfuXVTQra2o // How To Make IG 𝗕𝗟𝗨𝗦𝗛 😊 Filter In 3 Minutes
 Vt9Ejml5D-I // HOW TO MAKE 𝗠𝗔𝗞𝗘𝗨𝗣 💄 FILTER FOR INSTAGRAM
 g6ZymN2hXlI // HOW TO MAKE 𝗚𝗟𝗜𝗧𝗖𝗛 𝗘𝗖𝗛𝗢 | SPARK-AR EFFECT
 VFf3M4C8iE8 // HOW TO MAKE 𝗡𝗘𝗢𝗡 𝗣𝗢𝗣 FILTER FOR INSTAGRAM |
+snHLXEfOjcs // HOW TO MAKE 𝗗𝗨𝗔𝗟 𝗧𝗢𝗡𝗘 IG FILTER | SPARK AR
 
 # Car.Tunist
 0IYiGS8XRJU // Create an AR Selfie Filter Using VR: Gravity Sketch and Spark AR Tutorial
@@ -1038,6 +1042,9 @@ bUkLHlKS0zw // Create your own Instagram Filter in 5 Minutes | Lightroom Preset 
 # laily rosli
 9RQi9PkQ5X0 // Created my own face filter | STOP!
 
+# Lara Geadah
+1FtWZcvcRL8 // How to Create Your Own IG Filter
+
 # LaraKnowsBest
 CuU3LayfzBU // 3-D CUSTOM FRESHLY MADE ORGANIC FACE MASK PRINTER MACHINE
 EFuJl_SIuGA // WHY YOU SHOULD CREATE YOUR OWN INSTAGRAM FILTER
@@ -1189,6 +1196,7 @@ junpsc_ydLg // Sparks AR Tratamiento Proyecto
 4ggS6G9HIh8 // How to create 3D Volumes & Depth Fog in SparkAR
 UEjPkrSRi0w // How to get shadows and GI in SparkAR
 EWh087wKYV4 // Create a rounded edges shader in SparkAR
+zDEjBKl5yVs // Houdini Fluid Simulation to SparkAR
 
 # Marty Markenson
 3HnONkme0QE // Image Flip Flop Spark Studio Patch Editor
@@ -1228,6 +1236,9 @@ Q8Kvs7Jew4c // [P1] Spark AR tutorial: How Old Do I Look?
 kQ1zXiVZ6Jw // [P2] Spark AR tutorial: How Old Do I Look?
 q5pqzPLSxl0 // Spark AR tutorial: Blinking Game v85+  [Part 1]
 rElpDtxS9Xk // Spark AR tutorial: Blinking Game v85+ [Part 2]
+
+# Masketing Design
+K8S2ng3VX-I // 2020 10 29 11 18 06 1
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -1953,6 +1964,7 @@ bUCG5l_RNQE // How to make a Hall of Mirrors-style Instagram Filter using Spark 
 vSorw4_jLZk // How to create an animated face mask effect with Spark AR and SDFs – Instagram filter tutorial
 jCPu7OtGvpc // How to make a freeze frame Instagram filter from scratch using Spark AR
 xFMzxAF8kks // How to make a trippy, effed-up feedback filter for Instagram in Spark AR
+ND0vbQ-3nSI // How to match skin tone in Instagram filters using Spark AR's texture sampling
 
 # Tech Avni
 taWw_heiGBs // How To Make Instagram Filter Without Spark AR Studio || Make Instagram Filters Without PC For Free
@@ -2155,6 +2167,9 @@ YG2YckIazWY // I built an Instagram filter for #teamtrees from scratch : 1 hour 
 t2CM0nTGtLA // 5 SPARK AR HACKS IN 2 MINUTES
 fSo_o5D-1cU // UNBOXING MY SPARK AR CHAMPIONSHIP RING
 
+# VNTANA
+0OsFFEBnJh0 // How Can 3D Create More Engaging Digital Experiences - VNTANA's Ashley Crowder at VR/AR Global Summit
+
 # Vrushali Mulay
 ON9Wq7HAS0w // I made Instagram filter using PicsArt + Spark AR Studio | Easiest way to create IG filter |
 
@@ -2194,6 +2209,7 @@ j7WOHMGdoPo // Lens Flare for Spark AR
 
 # Yegor Ryabtsov
 eaoNIArRHR4 // Spark AR Tutorial - Animating Object Reveal with Transparency
+fQ3M9AYEdIU // Particle Modifiers - Spark AR Tutorial Series
 
 # yi z
 60tn_T7_y-w // Spark AR illustration instagram filter
