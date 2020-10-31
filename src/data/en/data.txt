@@ -316,6 +316,7 @@ FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark A
 T1dFtHmRIlI // How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
 -8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
 AFvSWNaOabw // Caroline LIVE: New Project Ideas with Raspberry Pi and Alexa: Episode 21
+DjX4KwrZWBo // Face Mask Detection | iPhone12 | Sharing Alexa Routines | CarolineLIVE Ep 30
 
 # Casie Millhouse
 rGuK5DdBBIk // How AR on Social Media Changes Everything - Filters, Filters, Filters Everywhere!
@@ -625,6 +626,9 @@ bsKS4Mp02og // 03 Spark AR workflow
 0sa_tfD1boI // Krita: Creating a 2d Texture using Spark AR Face Reference Assets
 X2tICSo0Fxo // Spark AR Studio: Send to Instagram and generate a Test link to Share
 
+# FACTLiverpool
+K_-zNcTjZh0 // How to Make an Instagram Filter with Keiken | Artist Tutorial
+
 # Farah Bros
 q7juW5Woxv8 // Who are you / Questions AR Filter tutorial for Instagram and Facebook [2020]
 
@@ -820,6 +824,8 @@ lle6L8ncaTM // Spark AR: 10 freckles textures + warm preset (LUT)
 zemYG2voSGU // Spark AR: Filter "Sketches" for Instagram + b&w preset (LUT)
 pgQmeojwfTw // Spark AR: Filter with flowers and freckles + preset for Instagram
 mUGzs8jUgao // Spark AR: Palette filter for Instagram + preset (LUT)
+EzkAqVP7F-k // Spark AR: VSCO filter for Instagram
+ZbeeUGIsLDc // Spark AR: film filter for Instagram
 
 # Immersive Studios
 nid-pSriuUk // Making an Instagram Filter with Spark AR (the spooky special)
@@ -1113,6 +1119,7 @@ _VT0io3Dq3E // Spark AR: How to use the Native UI Picker.
 lDPBRQW56HQ // Spark AR: How to create a Vintage Camera Filter.
 N5-rEoHylME // Spark AR: 30 LUTs and 20 Dust Textures for Instagram Effects.
 EE2_PqYNqWM // Spark AR: Sunset Effect for Instagram and Facebook.
+mm-5lFERdkQ // Spark AR: Black and Color Effect for Instagram and Facebook.
 
 # lucas klubb
 BEO0v4DK7hU // HOW TO MAKE INSTAGRAM FILTERS (Spark AR)
@@ -1238,6 +1245,10 @@ q5pqzPLSxl0 // Spark AR tutorial: Blinking Game v85+  [Part 1]
 rElpDtxS9Xk // Spark AR tutorial: Blinking Game v85+ [Part 2]
 
 # Masketing Design
+_JPCNaELw-I // Spark AR "Adaptive Light pack for makeup"
+gOqeGuFRAFQ // Spark AR "Smart PBR 1.0"
+K-M55FqwVQM // Spark AR "Smart PBR" v1.1 performance test
+uaPMSCl8-ao // Spark AR "Advanced Glass"
 K8S2ng3VX-I // 2020 10 29 11 18 06 1
 
 # Mate Steinforth
@@ -1573,6 +1584,7 @@ AI23XrgCm_I // SPARK AR | Realistic Clock
 0Ul2oyjMu8c // SPARK AR | Strobe Effect patch
 VTsRmqrjm4w // SPARK AR | CONCEALER ( Olheiras )
 tOgi-SMicls // SPARK AR | LUT + PICKER UI ( script and /or patch version )
+3Vjc3q0WSM0 // SPARK AR | Guess the Gibberish , Quiz game
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
