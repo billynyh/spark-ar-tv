@@ -128,6 +128,7 @@ wP48iQaLsQw // Instagram Filter "PERFECT FACE" with White Teeth +  Eyelashes + E
 HxUYAIwM8t4 // How to create Gloss Effect at Spark AR Studio
 aLwD91a1TYw // Instagram Filter "CYBER GIRL" | Spark AR
 OCJx33UufrA // Spark AR Filter "Color Hair" with Lenses, Teeth Whitening and MakeUp
+JbsKPd7l1R0 // Instagram Filter BEAUTIFUL FACE with Eyelash, MakeUp | Spark AR
 
 # Andrew ARt
 0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
@@ -316,7 +317,6 @@ FUS-XR8YVr4 // How to Create Facebook Effects and Instagram Filters with Spark A
 T1dFtHmRIlI // How to Create Facebook Effects or Instagram Filters with Spark AR Part 2: Replace Background
 -8Exwb-pvxQ // How to Create Facebook Effects or Instagram Filters with Spark AR Part 3: Plane Tracker
 AFvSWNaOabw // Caroline LIVE: New Project Ideas with Raspberry Pi and Alexa: Episode 21
-DjX4KwrZWBo // Face Mask Detection | iPhone12 | Sharing Alexa Routines | CarolineLIVE Ep 30
 
 # Casie Millhouse
 rGuK5DdBBIk // How AR on Social Media Changes Everything - Filters, Filters, Filters Everywhere!
@@ -734,6 +734,7 @@ Dl4KcGFSGjY // How to make a Cute Simple Instagram Filter | Spark AR Studio Tuto
 htYbWClazFM // How to make Highlighter + Simple Filter | Spark AR Studio Tutorials
 HMam1vRnvVs // How to make a Simple Caramel Tone Filter + Dust and Scratches | Spark AR Studio Tutorial
 QQFkaskTvvs // Lip Gloss .arexport for SALE | LINK IN DESCRIPTION
+VNs2XYv9aXs // "Kinky Sky" / Pink Sky | Spark AR Studio | Instagram Filter
 
 # Gilligan Faust
 iJe0A35Abro // Instagram Filter upload tutorial (Spark AR)
@@ -2148,6 +2149,7 @@ obqbx4mdze4 // How to Make "Guess the Gibberish" Instagram Filter Spark AR Tutor
 CbqAzct2L-Y // How to Make "This or That" Quiz Instagram Filter Spark AR Tutorial
 -0_hiARHOfs // How to Make "Color Palette" / "Anime" Instagram Filter Spark AR Tutorial
 H6Y03bm2Xww // How to Make Gibberish Filter without Spark AR Coding in minutes on Effects Maker
+o4btJiiqhdw // How to Make "Fire Glasses" Fire Shader Instagram Filter Spark AR Tutorial
 
 # Vector Enfield
 LrVf7ULpbMU // AR 101 ASSIGNMENT - FACEBOOK SUV
