@@ -480,7 +480,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html",
       "thumbnail_url": "https://i.ytimg.com/vi/FT5D8oGnnOY/hqdefault.jpg",
       "title": "Channel: Rudy Anwar",
-      "meta1": "Num videos: 72",
+      "meta1": "Num videos: 73",
       "meta2": null
     },
     {
@@ -773,10 +773,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-11-02.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/g5FDqYMBNQo/hqdefault.jpg",
+      "title": "Week 2020-11-02",
+      "meta1": "Num videos: 1",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-10-26.html",
       "thumbnail_url": "https://i.ytimg.com/vi/FMdWw0lD_Yc/hqdefault.jpg",
       "title": "Week 2020-10-26",
-      "meta1": "Num videos: 85",
+      "meta1": "Num videos: 92",
       "meta2": null
     },
     {
@@ -805,13 +812,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zhI2-sCq8DQ/hqdefault.jpg",
       "title": "Week 2020-09-28",
       "meta1": "Num videos: 103",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-09-21.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/GvZ4e-GDCYY/hqdefault.jpg",
-      "title": "Week 2020-09-21",
-      "meta1": "Num videos: 88",
       "meta2": null
     }
   ]
