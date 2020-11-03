@@ -302,6 +302,7 @@ Vt9Ejml5D-I // HOW TO MAKE 𝗠𝗔𝗞𝗘𝗨𝗣 💄 FILTER FOR INSTAGRAM
 g6ZymN2hXlI // HOW TO MAKE 𝗚𝗟𝗜𝗧𝗖𝗛 𝗘𝗖𝗛𝗢 | SPARK-AR EFFECT
 VFf3M4C8iE8 // HOW TO MAKE 𝗡𝗘𝗢𝗡 𝗣𝗢𝗣 FILTER FOR INSTAGRAM |
 snHLXEfOjcs // HOW TO MAKE 𝗗𝗨𝗔𝗟 𝗧𝗢𝗡𝗘 IG FILTER | SPARK AR
+wBvX9sh2d6g // HOW TO MAKE 𝗡𝗘𝗢𝗡 𝗛𝗔𝗜𝗥 INSTAGRAM FILTER | SPARK AR
 
 # Car.Tunist
 0IYiGS8XRJU // Create an AR Selfie Filter Using VR: Gravity Sketch and Spark AR Tutorial
@@ -1441,6 +1442,7 @@ uHerjygkWhs // Spark AR Eye Tracking Game - Free Template
 FeXO3lIQOL0 // Spark AR Eye Tracking Game - Free Rotating World Instagram Filter Game: Newcolor Live Stream 😁
 XUCKYUae0m0 // Spark AR: 3D to 2D Position Conversion - Free Template
 5QIXl7WbeU8 // Spark AR Permission Groups: Add an AR Manager with Spark AR Hub
+0qFkTkg4oxg // Spark AR Aspect Ratio 3D: Scaling Image Textures on 3D Planes
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1590,6 +1592,7 @@ AI23XrgCm_I // SPARK AR | Realistic Clock
 VTsRmqrjm4w // SPARK AR | CONCEALER ( Olheiras )
 tOgi-SMicls // SPARK AR | LUT + PICKER UI ( script and /or patch version )
 3Vjc3q0WSM0 // SPARK AR | Guess the Gibberish , Quiz game
+BltB099Rn_o // SPARK AR GAME | TRUE OR FALSE quiz game template
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1756,6 +1759,7 @@ P12jfVloF5Y // Creating colliders with Scripting - Spark AR
 A9k_w25i-yc // Realistic Shader Creation - Spark AR + Cinema4D Tutorial
 3zm0Qavr6qc // Easy Physics Motion - Spark AR + Cinema 4D
 -ukDkfo48Oc // Cone Hat With Physics - Spark AR + Cinema 4D + Houdini Timelapse
+tYDCLyKneqc // Halloween Filter Walkthrough - Spark AR + Cinema4D
 
 # Roses are Alexia
 IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
