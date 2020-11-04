@@ -129,6 +129,7 @@ HxUYAIwM8t4 // How to create Gloss Effect at Spark AR Studio
 aLwD91a1TYw // Instagram Filter "CYBER GIRL" | Spark AR
 OCJx33UufrA // Spark AR Filter "Color Hair" with Lenses, Teeth Whitening and MakeUp
 JbsKPd7l1R0 // Instagram Filter BEAUTIFUL FACE with Eyelash, MakeUp | Spark AR
+OajyhF_yQoc // Spark AR Instagram Filter "CLOUDS" with Eyelash, MakeUp and Lut
 
 # Andrew ARt
 0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
@@ -711,6 +712,7 @@ o0LM3UW2M_A // SPARK AR TIPS - 3D Model Outlines
 s7fCOo7jpb0 // SPARK AR - Plane Tracker
 DX8OA5Hz2wc // SPARK AR - Native UI Slider (With Zoom Example)
 XwB4i-zZn18 // SPARK AR - Person Segmentation (With Some Nice Effects)
+uW3HqVnJwac // SPARK AR TIPS - Responsive Designing
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -828,6 +830,7 @@ pgQmeojwfTw // Spark AR: Filter with flowers and freckles + preset for Instagram
 mUGzs8jUgao // Spark AR: Palette filter for Instagram + preset (LUT)
 EzkAqVP7F-k // Spark AR: VSCO filter for Instagram
 ZbeeUGIsLDc // Spark AR: film filter for Instagram
+5BUCQkJZTvE // Spark AR: Filter "Concert" with music for Instagram
 
 # Immersive Studios
 nid-pSriuUk // Making an Instagram Filter with Spark AR (the spooky special)
@@ -1648,9 +1651,13 @@ mVrme869cXo // 3D Golden Eyelashes for Spark AR
 Wb3Q0ABN9rA // GAGA LOVE Filter for Spark AR
 _XNsKtStvtg // Dynamic Cloth Filter for Spark AR
 8Ad-OTMqSGU // Better physics for Spark AR
+fvzBujLW1_w // Spark AR - Halloween Filter Overview
 
 # RasterRiya
 L5PFi2-vamc // This Was Unexpected... I Never Thought I Could Do This 😳 I Spark AR I
+
+# Raw1ey
+JjRofnEAtnQ // How To Loop An Animation In Blender and Make It Play In Spark AR With No Errors As A World AR Effect
 
 # Ray Leung
 P6kZl8-QzUU // Spark AR - How to rotate an object around your head
@@ -2158,6 +2165,7 @@ CbqAzct2L-Y // How to Make "This or That" Quiz Instagram Filter Spark AR Tutoria
 -0_hiARHOfs // How to Make "Color Palette" / "Anime" Instagram Filter Spark AR Tutorial
 H6Y03bm2Xww // How to Make Gibberish Filter without Spark AR Coding in minutes on Effects Maker
 o4btJiiqhdw // How to Make "Fire Glasses" Fire Shader Instagram Filter Spark AR Tutorial
+NROX_WKTFsg // 7 Days Live Workshop to Become an AR Filter Creator
 
 # Vector Enfield
 LrVf7ULpbMU // AR 101 ASSIGNMENT - FACEBOOK SUV

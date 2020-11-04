@@ -711,6 +711,7 @@ Gl7mAFAajv0 // Маскопад Инстаграм и Фейсбук. Урок 3
 00sRJr3lP_Q // Маскопад Инстаграм и Фейсбук. Урок 37
 LEDFtdzspu4 // Как наложить рисунок (текстуру) на волосы пользователя? Сегментация волос. Уроки в Spark AR Studio.
 P0gEWdGrVIs // Как сделать волнистые (кудрявые) волосы в Spark AR? Готовый проект. Сurly hair - Spark AR project.
+pPPClGCh4dY // Создание окклюдера с помощью сегментации волос в Spark AR Studio. Hair occluder (hair segmentation).
 
 # MediaBrick
 uNZGjmMgY8Q // Создай свою маску! Мастер-класс от MediaBrick
@@ -1398,6 +1399,7 @@ H6hJ_z1OGkQ // FACE ZOOM В SPARK AR STUDIO
 YyejMVhjiN0 // SPARK AR STUDIO ГУБНАЯ ПОМАДА СМЕНА ПО ТАПУ
 tYAOD0sn0mU // SPARK AR STUDIO БЛИКИ
 0t-bK8mGzkI // КАК СОЗДАТЬ МАСКУ "РАНДОМАЙЗЕР" В SPARK AR STUDIO
+q2ofEnUkLbU // КАК ДОБАВИТЬ GIF-АНИМАЦИЮ В МАСКУ В SPARK AR
 
 # Ирина Хантимирова
 Au5FRuvPCD4 // Маски. Как сделать маски для Instagram с нуля. Урок 1 Скачивание необходимых файлов
