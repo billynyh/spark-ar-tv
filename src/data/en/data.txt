@@ -1446,6 +1446,7 @@ FeXO3lIQOL0 // Spark AR Eye Tracking Game - Free Rotating World Instagram Filter
 XUCKYUae0m0 // Spark AR: 3D to 2D Position Conversion - Free Template
 5QIXl7WbeU8 // Spark AR Permission Groups: Add an AR Manager with Spark AR Hub
 0qFkTkg4oxg // Spark AR Aspect Ratio 3D: Scaling Image Textures on 3D Planes
+uqSRIZ_pONg // Spark AR Color Picker: Newcolor Live Stream
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1596,6 +1597,7 @@ VTsRmqrjm4w // SPARK AR | CONCEALER ( Olheiras )
 tOgi-SMicls // SPARK AR | LUT + PICKER UI ( script and /or patch version )
 3Vjc3q0WSM0 // SPARK AR | Guess the Gibberish , Quiz game
 BltB099Rn_o // SPARK AR GAME | TRUE OR FALSE quiz game template
+S85MdXMS6I4 // SPARK AR GAME | TRY NOT TO BLINK game template
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
