@@ -7,10 +7,3 @@ CwNQ6hn-zCE // Create Face Filter | Adding audio and instruction in Spark AR (Ne
 otvUOQmlBQg // How to make "Guess The Riddles " Instagram Filter(Nepali Language)
 VloKY9LIAsI // Audio reactive filter using Audio analyzer V89 tutorial for beginners (Nepali Language)
 S3h_prLLvcc // Spark AR: How to create LUTs in Photoshop for Instagram filters(Nepali Language)
-OLbActYtnUU // Yondu Face filter for Instagram [Audio analyzer + Energy Meter ]
-5b8tDW2mqK8 // Spark AR Tutorial : Create Face split and Flying Butterfly effect for Instagram and Facebook
-EsXxwEUes_M // Free Spark AR Project : Vintage LUTs with UI picker and PSD
-asuiE74T7LE // Spark AR tutorial : Comic magazine effect with RGB scanner for Instagram
-ePUsKsFSP2I // Spark AR Tutorial : Dissolve shader [Lava shader ] for Instagram
-5P1vScGMsUY // Spark AR Tutorial : Change Hair Color in Instagram [Hair Segmentation| UI Picker + Slider]
-zQ5BWmLjMNE // Spark AR Tutorial: Creating Glow Effect With Render Pass [Instagram]

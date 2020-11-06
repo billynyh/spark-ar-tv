@@ -158,7 +158,8 @@ def dump_lang_stat(master):
                 print("%s - %s" % (k1, k2))
                 for id in dup:
                     url = "https://www.youtube.com/watch?v=%s" % id
-                    print("%s" % url)
+                    title = video_data[id].title
+                    print("%s // %s" % (url, title))
     return stat
 
 def dump_channel_stat(site, video_data):

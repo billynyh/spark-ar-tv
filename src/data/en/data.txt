@@ -645,11 +645,6 @@ woc5UtOZtfk // Intro Tutorial to Spark AR for Creating Instagram Story Filters
 
 # Filters & Design
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
-ZEJ3pc7Nr64 // Spark AR Vídeos PT - Jogo Simples Usando o Patch Editor!
-NuTJ3r-iHvU // Spark AR Vídeos PT - Maquiagem Simples I Utilizando o Photoshop!
-Pzd4p_w8ebY // Spark AR Vídeos PT - Filtro para o Instagram LUT + Ruídos!
-ZS8xSOB9Slc // Spark AR Vídeos PT - Filtro para o Instagram com borda colorida!
-Ud0eQakUjJY // Spark AR Filtro Borboletas (Animações + Blush + Sardas) - parte 1
 
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
@@ -1637,6 +1632,7 @@ bWDlg0Yoctg // How to create an Instagram Color Picker Filter in Spark AR
 ONpOh6wso7A // How to Create a Projector Aesthetic in Spark AR for your Instagram Filter (Bonus Realistic Shadow)
 owRrVlZ1Ds0 // How to Color Your Hair for your Instagram Filter [free hair segmentation template in Spark AR]
 xdLIF7XACL4 // How to create a green screen effect in Spark AR adding gallery texture
+Fi7F9O1G3s4 // Spark AR Basic Tutorial: Person Segmentation plus Retouching
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1995,6 +1991,7 @@ vSorw4_jLZk // How to create an animated face mask effect with Spark AR and SDFs
 jCPu7OtGvpc // How to make a freeze frame Instagram filter from scratch using Spark AR
 xFMzxAF8kks // How to make a trippy, effed-up feedback filter for Instagram in Spark AR
 ND0vbQ-3nSI // How to match skin tone in Instagram filters using Spark AR's texture sampling
+u-rkKH0aJTw // How to make an iridescent, holographic Instagram filter with Spark AR
 
 # Tech Avni
 taWw_heiGBs // How To Make Instagram Filter Without Spark AR Studio || Make Instagram Filters Without PC For Free
