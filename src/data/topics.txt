@@ -117,7 +117,6 @@ MrxG36zOGss // Spark AR Studio - Integrando audio en nuestros efectos. Guía ini
 AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
 qjCEAtC0Egs // Filter Tebak Tebakan dan Audio m4a di Spark Ar
 MalxFo1vEVY // Cara Menambahkan Lagu/Audio ke Spark AR | Tanpa Aplikasi Eksternal!
-X0gxSZFw968 // Tutorial Spark AR Studio n.9 - Audio
 lY92ACD5_2Y // Spark ar studio - How to Audio start when pressing record button - Add music
 jtqldgvWI9A // TUTORIAL SPARK AR 3D, PARTICLE, AUDIO CUMA 5 MENIT!!!
 3K9f1od2h5E // Import failed Spark ar.  Spark ar Audio #spark ar audio format#m4Amono#import#failed#
@@ -141,7 +140,7 @@ Hzmyt-s_bZs // Spark AR quick tip 01: scripting movement by screen tap
 eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 K1psMf3q3v0 // Spark AR Scripting Bahasa Indonesia | LookAt Function | Spark AR Programming.
 4jyiJwNtBGY // how to make KeyFrame based animation || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
-qpmMZoQcWg8 // v83 Blink Counting Game: Spark AR Studio - Link to v85+ Example Project in Description
+qpmMZoQcWg8 // Spark AR v83 Blink Counting Game - Link to v85+ Example Project in Description
 TDaj9jjx2fM // How to Fade Out Particle Before They Die (learn how to use Java Script in SPARK AR)
 WqkkR9368r0 // Countdown SparkAR Tutorial
 
@@ -179,10 +178,10 @@ esGnkbpdCks // Filter makeup instagram + cara deteksi 2 wajah di spark ar | tuto
 
 # Color Sampler
 vPuObKf-55I // Chromakey in Spark AR
-WSg5ndH-ljg // Color Sampler: Spark AR Studio Patch Asset Tutorial
+WSg5ndH-ljg // Spark AR Color Picker - Free Multipoint Color Sample Template Download
 ch5VpfRvrv8 // Color Palette - Instagram Filter - Spark AR Studio [ Tutorial ]
 A6MtXGuVTuM // Filtro com paleta de cores, tutorial - Spark Ar #23
-KJx0EgFVYqU // Color Sampler Swatch: Spark AR Studio Patch Asset Tutorial
+KJx0EgFVYqU // Spark AR Color Picker Swatch: Free Patch Asset Tutorial
 MLmUvrcYCxA // Cara bikin Filter Instagram COLOR PALETTE seperti anime nahir.esper | SPARK AR TUTORIAL INDONESIA
 yfLoYOUu0RA // How to use the texture sampler patch - Spark AR tutorial
 cagqH6UEh30 // МАСКА COLOR PALETTE ДЛЯ ИНСТАГРАМ | DARIA TSVET
@@ -347,7 +346,6 @@ jYHqZmQn78M // Retouch, picker, LUT intensity slider | SparkAR V85+ | Ретуш
 8lWnWs0U6rA // How to Create a Retouching in SPARK AR combined with the Fast Color LUT Patch
 Zm-MbHiy1dg // Como usar limpeza de pele junto com preset de cor nos filtros - LUT + Retouch - Spark Ar #34
 U-sDe67gyNI // Spark AR Lut + Make + Noise + Retouch
-d6BcJUl3_X0 // Spark AR tutorial:  Face mesh, Retouching and Lighting Effect\ insta filter|india #Easy Tutorial
 _erJ2qrDsx8 // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / 3 LUTs + Retouch + Screen Tap 2020
 1RcsZBiNIF0 // Tutorial Retouching con LUT para Spark AR versión v87
 knM1zI7VaC0 // Spark AR Template: LUTs + Retouching + Native UI  (All-in-one for Instagram filter)
@@ -461,7 +459,7 @@ aT8a78Kbbn8 // Dokumentasi Proses Pembuatan Filter Game Pesawat 3D | Plane Game 
 8IfQUmlICCI // 01 Spark AR tutorial: how to prepare textures
 heMa3fGj0Jc // 02 Spark AR tutorial: how to locate objects on the scene
 QRXWuAXwqkQ // Spark AR Sistem Score Game Bahasa Indonesia
-qpmMZoQcWg8 // v83 Blink Counting Game: Spark AR Studio - Link to v85+ Example Project in Description
+qpmMZoQcWg8 // Spark AR v83 Blink Counting Game - Link to v85+ Example Project in Description
 DHHPMBa8B6E // Spark Ar Blink Game
 vomFaTbQSOY // 03 Spark AR tutorial: how to scripting object animation
 
@@ -542,10 +540,8 @@ Rfw4LxODVJo // CURSO SPARK AR STUDIO | Iris Tracking animados #14
 yuYoYTO789E // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМЕ?///КАК ЗАГРУЗИТЬ МАСКУ В ИНСТАГРАМ?
 k-kIb1Rz7jU // Как сделать маску в Инстаграм?//ILONA CVETKOVA 🌿
 _y9Gf1gIIRY // Как делать свои маски в spark ar?😱Cat Alice🥰Урок 1✨
-cn6cSQvt_oM // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ ЗА 5 МИНУТ???? || Инстаграм маски
 diFBG1yhxM8 // Как сделать маску в инстаграм быстро и просто.
 dq6La-Gms8c // Как сделать маску в инстаграм 2 часть
-GEb7UcB3r00 // МАСКА С ОБЪЕКТАМИ ЗА 2 МИНУТЫ???? МАСКИ В ИНСТАГРАМ! Endryu
 91ilKNYAFoU // Как загрузить маску из Spark AR в инстаграм.
 OGzufM-j3zw // MAKING MY OWN INSTAGRAM FILTERS | SPARK AR TUTORIAL | HOW TO MAKE INSTAGRAM FILTERS
 -3bWkrG4-_A // Spark AR for Beginner
@@ -561,7 +557,6 @@ CRzvNjnZlQ0 // Как сделать маску для Инстаграмм??
 -rSdJoM4RuY // Делаем маску в Instagram ❤✨🔫/ Как сделать маску в Instagram💁‍♀🐝🍩/•Alice_Cat•\
 Cd253TiCisw // How to make instagram face filter *easy, simple* | Trixie Litan
 3O4FHb8LiEk // 🦋 Como fazer efeito para o Instagram 🦋
--M-KepRNGog // Cara Download Spark AR, Mudah Banget!!!!
 
 # LUT
 lxF-ecbkbr4 // Color LUTs in Spark AR
@@ -745,7 +740,7 @@ BugWiovmxlQ // CARA MENAMPILKAN NATIVE UI PICKER , OPSI PILIHAN FILTER INSTAGRAM
 y2j9n2g8bZc // Spark AR - Native UI Picker Tutorial (With LUT Switch)
 vpbZI1DD8aI // Cara Menampilkan NATIVE UI SLIDER BRIGHTNESS DI SPARK AR GAMPANG!! | SPARK AR TUTORIAL INDONESIA
 RQnPuvJb8bk // KIRA KIRA / GLITTER / SPARKEL effect SPARK AR | download link | kira kira + LUT + Slider New Update
-pD3vHi4Nnsk // Emoji Face Slider: Spark AR Studio Project Structure Example
+pD3vHi4Nnsk // Spark AR Emoji Face Slider: Spark AR Studio Project Template
 SNytCM8kUns // Spark AR: LUT + Retouch + Color Adjustments. 2 Native UI Pickers + Slider
 6MzPAp1HJEQ // Spark ar Native Ui Picker and Slider | Spark AR tutorial
 FOuUOugJ-o4 // Cara buat Natuive UI Picker SPARK AR. Menampilkan Native UI Picker SPARK AR
@@ -1192,8 +1187,8 @@ CbqAzct2L-Y // How to Make "This or That" Quiz Instagram Filter Spark AR Tutoria
 # Timer
 uR-JQUQGsak // Create a timer for Spark AR Studio - download project and full tutorial
 J_0rOSWVul0 // Target Shooter Planetracking Part 1 Countdown Timer | Spark AR Studio
-g2a93PBYEJ0 // Simple Timer: Spark AR Studio v88+ Patch Asset Tutorial
-ZTn2ATGQdtI // Millisecond Timer in Spark AR Studio: Simple Timer vs. Runtime Showdown
+g2a93PBYEJ0 // Spark AR Timer: Simple Timer - Free Download
+ZTn2ATGQdtI // Spark AR Timer: Millisecond Timer Tutorial
 
 # Tooling
 ooLAg3QhYdU // Spark AR Como adicionar seu próprio vídeo de Testes!
@@ -1203,7 +1198,7 @@ vJo1HaYGd8c // Spark AR - how to change the video preview | cómo cambiar el vid
 
 # Touch Gesture
 qS4ol__w2Ig // Gesture Touch Controls | Spark AR Studio
-6stXwBt87Dg // Drag 2D Object on Canvas: Spark AR Studio Pan Gesture to Move Object Tutorial
+6stXwBt87Dg // Spark AR Drag 2D: Dragging Objects with Pan Gesture - Free Download
 
 # Typography
 Vs9FiGNUAwQ // Cara membuat filter instagram typography , aesthetic | spark ar tutorial

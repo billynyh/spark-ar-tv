@@ -124,17 +124,6 @@ uBKURaxGeAU // EMITTER OCCHI + Come Utilizzare MUSICA nei Filtri Instagram (SPAR
 # Lucrezia Paolini
 2Uz6dwaFV6I // Come creare un filtro instagram e come si chiama lo strumento?
 
-# Marco Pucci
-mr0ntxwYqx0 // Tutorial Spark AR Studio n.1 - Eye color
-q_apvP9pUTU // Tutorial Spark AR Studio n.2 - Background
-X-JCcMIYiWI // Tutorial Spark AR Studio n.3 - 3D Animated Poster - Marker
-nnNsSzBkn80 // Tutorial Spark AR Studio n.4 - World Object - riconoscimento del piano
-oDSoaSofA_8 // Tutorial Spark AR Studio n.5 - Face Tracker
-MT5E_q0XZ9I // Tutorial Spark AR Studio n.6 - Face Tracker 2 - Creazione di una maschera
-j8ct5edfaNA // Tutorial Spark AR Studio n.7 - T-shirt in Realtà Aumentata - video (sequenza png) in SparkAr
-fi0ydrtmtv8 // Tutorial Spark AR Studio n.8 - Realizziamo un bottone
-X0gxSZFw968 // Tutorial Spark AR Studio n.9 - Audio
-
 # Maria Fraternali
 zC4mo8ahrmM // TUTORIAL COME CREARE FILTRI INSTAGRAM e FACEBOOK //spark ar
 
@@ -156,7 +145,7 @@ WKkoCfQbhmA // Spark Ar Tutorial - GLITCH and CLONE effect using Patch editor
 7qb7gPW4BII // Spark Ar Tutorial - Easy Neon edge detection [FREE DOWNLOAD]
 LerynHPdjaA // Spark Ar Tutorials: How to fake synch Music to your instagram filters - Natived Filters Laboratory
 R1nBVAUbEM0 // Spark Ar Tutorial - Multiple user segmentation - Replace background
-a20kSlcWJYE // Make your first Instagram filter EASY - Lights on face + glossy - Spark Ar tutorial FULL PROCESS
+a20kSlcWJYE // Spark ar studio - Your first filter! FULL PROCESS tutorial
 o1Gcw_bfEpI // Spark Ar tutorial - Pixelate every image! Custom Pixels
 ggaYc20k1O4 // Spark ar studio tutorial - Add Sounds and Music - Tap to activate!
 _7rqH3dxYQ0 // Spark Ar Tutorial - texture distortion with custom image textures - Camera distortion - Deformation
@@ -187,7 +176,7 @@ yFrkCfeE7fM // Spark ar studio - Vaporwave Scan Lines tutorial [FREE DOWNLOAD]
 jdgM2_QyDjY // Spark ar studio - Motion Blur Outlines - Full effect breakdown tutorial
 x318bkZf3Fc // Spark ar studio - Make your custom patch asset [FREE TEMPLATE]
 bBPJpDfmxOw // Spark Ar Studio - Face Distortion Pack [FREE TEMPLATE]
-pXxkyjxYVJ0 // Spark ar studio - Mix patch Tutorial
+pXxkyjxYVJ0 // Spark ar studio - Mix patch - Color Filter Tutorial
 Hqy_E5KYg7k // Spark Ar Studio - Dynamic Glitch Tutorial
 gkZuvxNbCdw // Spark Ar studio - Hair segmentation tutorial [FREE TEMPLATE]
 M6H5qn8qzJU // Spark Ar Studio | Easy Fish Eye Tutorial | FREE TEMPLATE
@@ -260,4 +249,4 @@ D6B76qCiMtc // COME AVERE LA PELLE PERFETTA IN UN FILTRO INSTAGRAM
 3z62loKtGQM // CREARE UN FILTRO INSTAGRAM COLORATO CON SPARK AR STUDIO
 
 # WEE_TECH
-7P_9TKOCt2o // Come CREARE FILTRI INSTAGRAM + DOWNLOAD TEMPLATE
+7P_9TKOCt2o // COME CREARE FILTRI INSTAGRAM + DOWNLOAD TEMPLATE - (ITA)
