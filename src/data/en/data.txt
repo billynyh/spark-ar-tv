@@ -1315,6 +1315,7 @@ R3BFw92JsLI // Publishing your fist Spark AR project
 # Models by Mike
 P46w_nIg7OE // Easy Freckles in Spark AR!
 u31vRoG3uns // Adding Grain with Spark AR
+-p0q9Gk-jpc // Simulate reduced framerates in Spark AR with render passes
 
 # Momo Studio
 pCP99V_FvW8 // Instagram Music filter | Spark AR studio | Different types of audio reactive spectrum -Tutorial easy
@@ -1436,6 +1437,7 @@ XUCKYUae0m0 // Spark AR: 3D to 2D Position Conversion - Free Template
 5QIXl7WbeU8 // Spark AR Permission Groups: Add an AR Manager with Spark AR Hub
 0qFkTkg4oxg // Spark AR Aspect Ratio 3D: Scaling Image Textures on 3D Planes
 uqSRIZ_pONg // Spark AR Color Picker: Newcolor Live Stream
+Yk7ALdEUdP0 // Spark AR Skin Color Sample: Color Picker + Face Tracker Texture
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
