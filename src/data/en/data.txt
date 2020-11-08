@@ -708,6 +708,7 @@ s7fCOo7jpb0 // SPARK AR - Plane Tracker
 DX8OA5Hz2wc // SPARK AR - Native UI Slider (With Zoom Example)
 XwB4i-zZn18 // SPARK AR - Person Segmentation (With Some Nice Effects)
 uW3HqVnJwac // SPARK AR TIPS - Responsive Designing
+1RvnhJBryTU // SPARK AR - Delay Frame (Photo Booth)
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1317,6 +1318,9 @@ P46w_nIg7OE // Easy Freckles in Spark AR!
 u31vRoG3uns // Adding Grain with Spark AR
 -p0q9Gk-jpc // Simulate reduced framerates in Spark AR with render passes
 
+# Mohit
+R5EGaX7JJDw // How to make your own instagram filter!
+
 # Momo Studio
 pCP99V_FvW8 // Instagram Music filter | Spark AR studio | Different types of audio reactive spectrum -Tutorial easy
 tuzwNP4G9HE // Instagram filter | Spark AR Tutorial - Easy | 'WHICH KPOP IDOL ARE YOU ?' Filter in under 5 mins !
@@ -1381,6 +1385,7 @@ ppfNW0i0P6M // How to add 3D glasses for Instagram Filter in Spark Ar
 yrycH2vdBgU // Glitter for Instagram/Facebook Filter in Spark AR
 iJaKM3ausdI // Glitter, Sparkles, Kira Kira on Hair Instagram Filter in Spark AR
 Ry35jX0-qmM // Add Time and Date to your Instagram/Facebook Filter in Spark AR
+vZ9jz2yKB38 // INSTAGRAM CHRISTMAS FILTER WITH SNOW AND SANTA HAT in SPARK AR
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
