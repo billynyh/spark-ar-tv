@@ -305,6 +305,7 @@ yIjPkYNQEt0 // Editar, eliminar, estadísticas de tu FILTRO (SPARK HUB)
 OxlR5gTB-Ow // Crear un filtro con El contorno marcadas (Spark Ar)
 f-2_twf6hkQ // Filtro de Espejo (Spark AR)
 8TNdEUqXINA // MODIFICAR VOZ EN SPARK AR
+svVx0sREzyI // PIXELIZAR Filtro de Spark Ar
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español

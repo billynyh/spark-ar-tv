@@ -423,6 +423,7 @@ B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER DUST EFFECT DI SPARK AR STUDIO
 
 # Chookeun Moon
 s3lfXQYWDYs // UV Coordinates for Spark AR & GLSL
+NmbkPm5bqWc // Pulse & Switch Patches in Spark AR Studio
 
 # Chris Joy Quiamco
 CUGP1VxmmaQ // Doodle Instagram Camera Effect SparkAR
@@ -1591,6 +1592,7 @@ tOgi-SMicls // SPARK AR | LUT + PICKER UI ( script and /or patch version )
 3Vjc3q0WSM0 // SPARK AR GAME | Guess the Gibberish challenge game template
 BltB099Rn_o // SPARK AR GAME | TRUE OR FALSE quiz game template
 S85MdXMS6I4 // SPARK AR GAME | TRY NOT TO BLINK game template
+Pc3MvsYO_Z4 // SPARK AR GAME | TRUE OR FALSE quiz game template
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
