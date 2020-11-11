@@ -157,6 +157,7 @@ zwtI7nh20DY // Как сделать маску в инстаграм с кра�
 jLsheweYqC8 // Как сделать приближение экрана в Spark AR
 11jVZbdue7Y // Создание инстаграм масок для новичков  Полный обзор Spark AR Studio
 57ell4q7Yjg // Как экспортировать маску в Spark AR
+ZxbQmaRo3xM // КАК ЗАГРУЗИТЬ МАСКУ В ИНСТАГРАМ (конец 2020 года, новый интерфейс) | Spark AR Studio | Майко Артём
 
 # Artyom Shahnazaryan
 L1T-M94eulY // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАММ (ЗА 10 МИНУТ)
@@ -315,6 +316,7 @@ RLrVRdxWk2M // Spark AR - Smooth LUT Switch
 yyWzNmTkiuI // Spark AR - Video Delay / TikTok Slow Sreens / Render Pass. Экраны замедления.
 59Frl0KGV2k // Spark AR v98 - Hair Segmentation Showreel
 QDSVmjia4U0 // Spark AR - Smart Random Script. Мини-обзор.
+o2HtbfRjsg4 // Stereollax Effect / Spark AR & Lens Studio
 
 # Developer Circle
 XAi_zz58vgI // Spark AR Masterclass  - How to create a first Instagram filter
@@ -672,6 +674,7 @@ G8yMHZgvIow // 💁 ОБВОДКА ЧЕЛОВЕКА + АНИМАЦИЯ 💁 - У
 -sBX_Nf5g0A // 💌 ЖИВАЯ 3Д ОТКРЫТКА ДЛЯ ИНСТАГРАМ 💌 - УРОК 22 ; Spark Ar Studio
 vSrYSDf_Vcw // 🎨 КАК РИСОВАТЬ В ИНСТАГРАМ-МАСКЕ? 🎨 - УРОК 23 ; Spark Ar Studio
 YjcxLUZ_j60 // 🔘 МАСКА ПАЛИТРА (PALETTE) 🔘 - УРОК 23 ; Spark Ar Studio
+dRfCpuKtUKo // 😇 МАСКА С ФАКТАМИ "ПРАВДА ИЛИ ЛОЖЬ" (TRUE OR FALSE) 😈 - УРОК 24 ; Spark Ar Studio
 
 # Masha Semenova
 8GImdQ6WfJQ // 🎭КАК СДЕЛАТЬ ИНСТА-МАСКУ без макбука?? ТЫ будешь зарабатывать💸
