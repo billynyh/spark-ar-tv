@@ -550,6 +550,10 @@ Bpvyajfe6sY // Spark AR #10 Tutorial: Shaders / Filter Effects
 z-1cC2j0_Yw // Spark AR Tutorial #11: Shark Mini-Game Walkthrough
 _aQ9N0pOI5w // Spark AR Speaker Event : Spark AR Overview + Interactive Filter Workshop
 
+# Dope Lad
+m8nEscVFU2c // Create Your Own Instagram Filters [ Lesson 1 ]
+MD1SJFULu0c // Change Eye Color in Spark AR | Instagram Filter [ Lesson 2 ]
+
 # Dreadlabs
 H081L4FvohI // How to make a FACE TATTOO filter for INSTAGRAM in Adobe Photoshop & Spark AR Studio
 Z-r-jbziECs // How to upload your INSTAGRAM filter to Instagram or Facebook with Spark AR Studio
@@ -1025,6 +1029,8 @@ BZKyhRDAgRY // Spark AR - 10 Digits HeartBlock
 21WkzOZJ9I4 // Spark AR v97 - Stack Game
 BKjJWDk_uo0 // Making Spark AR Game Part 1
 Y3b_nhv8boE // Making Spark AR Game Part 2
+leTp66H3IVk // Motorcycles - Making Spark AR Game part 3/4
+PkJ2-wnSz00 // Motorcycles - Making Spark AR Game part 4/4
 
 # Kendra Mishell
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -1606,6 +1612,7 @@ BltB099Rn_o // SPARK AR GAME | TRUE OR FALSE quiz game template
 S85MdXMS6I4 // SPARK AR GAME | TRY NOT TO BLINK game template
 Pc3MvsYO_Z4 // SPARK AR GAME | TRUE OR FALSE quiz game template
 wTEgJz7UuEI // SPARK AR GAME | WHO IS MORE LIKELY quiz game with friends | Who is most likely template
+lEvCRhEf8L4 // SPARK AR GAME | Catch Falling Item game template
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1777,6 +1784,7 @@ u0ufCSywtDM // MAKE YOUR OWN INSTAGRAM FILTER WITH SPARK AR HUB & LIGHTROOM PRES
 # Rokko Effe
 R5YnquTy5Wc // Doodle Jump Game Template. Spark AR, Instagram
 P12jfVloF5Y // Creating colliders with Scripting - Spark AR
+5Zy7AeaD99I // 2D Platformer Game Template. Spark AR, Instagram
 
 # Roman Pillai
 A9k_w25i-yc // Realistic Shader Creation - Spark AR + Cinema4D Tutorial
