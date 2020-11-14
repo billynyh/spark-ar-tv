@@ -57,6 +57,7 @@ hk2ZPpO9i2g // tentativo FALLIMENTARE di creare un FILTRO INSTAGRAM
 RnIi1lfmWyc // [Spark AR Studio per principianti] 1. Template project 3D Animated Poster (Image Tracking)
 5owxuoIMr0g // [Spark AR Studio per principianti] 2. Template Background (segmentazione)
 2AapcUGsZQ0 // [Spark AR Studio per principianti] 3. World Object (Plane Tracking)
+y4T7kiB3hZw // [Spark AR Studio per principianti] 4. 2D Sticker Spark AR
 
 # Filtri Instagram Italia
 WSLWOzbDOyA // Spark Ar come aggiungere istruzioni sul tuo filtro Instagram

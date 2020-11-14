@@ -717,6 +717,7 @@ DX8OA5Hz2wc // SPARK AR - Native UI Slider (With Zoom Example)
 XwB4i-zZn18 // SPARK AR - Person Segmentation (With Some Nice Effects)
 uW3HqVnJwac // SPARK AR TIPS - Responsive Designing
 1RvnhJBryTU // SPARK AR - Delay Frame (Photo Booth)
+NUNmbTh9qzc // SPARK AR - Voice Changer (All In One Effect)
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1653,6 +1654,7 @@ ONpOh6wso7A // How to Create a Projector Aesthetic in Spark AR for your Instagra
 owRrVlZ1Ds0 // How to Color Your Hair for your Instagram Filter [free hair segmentation template in Spark AR]
 xdLIF7XACL4 // How to create a green screen effect in Spark AR adding gallery texture
 Fi7F9O1G3s4 // Spark AR Basic Tutorial: Person Segmentation plus Retouching
+i0cDDphSYvE // Spark AR Tutorial: Control you're Retouching with a Slider on Instagram with this simple Script
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1795,6 +1797,9 @@ tYDCLyKneqc // Halloween Filter Walkthrough - Spark AR + Cinema4D
 # Roses are Alexia
 IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
 9otkaWCh-68 // Polaroid Pack | Spark AR | @roses_are_alexia
+
+# RUSHABHUIX
+W49wnkqUOJ8 // How to make an easy Instagram filter in just 5 minutes for beginners | Insta Filter Tutorial | Gift
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
