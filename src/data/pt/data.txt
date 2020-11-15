@@ -193,6 +193,9 @@ Pzd4p_w8ebY // Spark AR Vídeos PT - Filtro para o Instagram LUT + Ruídos!
 ZS8xSOB9Slc // Spark AR Vídeos PT - Filtro para o Instagram com borda colorida!
 Ud0eQakUjJY // Spark AR Filtro Borboletas (Animações + Blush + Sardas) - parte 1
 
+# Filtersland
+DOSvkA6AyuI // Reconhecimento de mão (Hand tracking) - Tutorial Spark AR
+
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
 uRWFeTWDg6U // Spark AR Studio - Partículas Vol. I
