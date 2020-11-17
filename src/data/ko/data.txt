@@ -49,6 +49,7 @@ bdRmBwpN2GQ // [Spark AR]인물 주변에 선 만들기_how to make outline with
 bA_QB3AoQ_c // [Spark AR]배경과 함께 인물 주변에 선 만들기_how to make outline with background template
 KRKbx7o18lE // [Spark AR]LUT+Retouch/색감보정과 피부보정 동시 적용하기_background template
 kUF7RDZ12NQ // [Spark AR]인스타 스티커필터 만들기 총정리편/얼굴보정+피부보정+스티커/Everything about making IG Beauty Filter
+wkNZfQX6Hds // [Spark AR]PAPARAZZI_파파라치 필터/AR Library/IG Filter
 
 # 손호성
 pD7WF5BIFgM // SparkAR 간단히 만든 플라워이펙트
