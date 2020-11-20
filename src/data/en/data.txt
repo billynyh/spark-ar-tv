@@ -738,6 +738,9 @@ ta8c_U_BjLM // Augmented Reality 101
 # Gabrisp
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 
+# Gamefromscratch
+4aNzkxQs-K4 // Facebook Joins Blender ... please... tell me how I should feel right now!
+
 # Geotica
 uHWMv3yboeM // how to create an ar tattoo face filter / spark ar studio tutorial
 
@@ -982,6 +985,7 @@ a0KfwroCbqk // An Introduction to Spark AR
 
 # Kapwing App
 FH_sg17pxMY // How To Make A "Which Are You" Instagram Filter - Spark AR Tutorial
+GrP3u7LLaBM // How to Add Bling Effect to Videos and Images (on iOS, Android, and Computers)
 
 # KATE, CREATE!
 A-EtXzBzfwQ // MAKE YOUR OWN INSTAGRAM FACE FILTER / INSTAGRAM MASK
@@ -1111,6 +1115,7 @@ LtabZYahSmw // HOW TO CREATE A DYNAMIC (NOT STATIC) TEXT "DAY OF THE WEEK" INSTA
 5IBdIb-eQbA // SOLVING YOUR FILTER PROBLEMS!!! FIXING RED SHADOWS, BLACK LINE AROUND THE FACE, GLITCHY EYES & MOUTH
 BH5khWcVBo8 // INSTAGRAM BEAUTY FACE DEFORMATION FILTER + LUT AND RETOUCH BIGGER LIPS & SMALLER NOSE | SPARK AR
 7dsRIxD2gwA // INSTAGRAM COLOR HAIR FILTER WITH COLOR LUT FACE RETOUCH & MULTIPLE OPTION PICKER | SPARK AR TUTORIAL
+q0aF2Xm_Gl0 // INSTAGRAM EASY MULTIPLE COLOR FILTER WITH FACE RETOUCH & OPTION PICKER | SPARK AR TUTORIAL
 
 # Liucid
 pc4isqdbmhQ // Create a face filter from doodle | Beginner Spark AR Tutorial
