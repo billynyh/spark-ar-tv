@@ -142,6 +142,7 @@ zhI2-sCq8DQ // FILTRO INSTAGRAM  - COMO TROCAR COR CABELO [ SPARK AR TUTORIAL ]
 OIJP82e9ekk // LATEX MASK CREATION PROCESS [SPEED ART]
 eWdUaWIJyI0 // Curso de Criação de Filtros Profissionais para Instagram [ SPARK AR ]
 6BTyOiwNWhY // FILTRO INSTAGRAM  - COMO TROCAR A COR DOS OLHOS [ SPARK AR TUTORIAL ]
+eG9VL3Z6KTM // COMO TER O FILTRO APROVADO - REGRAS DO SPARK AR
 
 # Elis Costa
 vMala2BYtps // ensinando a fazer efeito pro instagram
@@ -200,6 +201,7 @@ uLL2Tnx8XGc // Alterar Background Do Zero - Filtros para Facebook e Instagram
 I8reXVGWfN4 // Tutorial medidor de energia e frequência do áudio no Spark AR
 DOSvkA6AyuI // Reconhecimento de mão (Hand tracking) - Tutorial Spark AR
 4tZAryJDwIs // Tutorial coelho 3D (parte I) - Filtros para Instagram e Facebook
+w4b2mDLUtUo // Alterar fundo da imagem usando template do Spark AR - Filtros para Instagram e Facebook
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -637,11 +639,13 @@ fDS1ZozIf0o // Spark AR Native UI: Criando menus com screen tap!
 ND4nNSdb1r4 // Spark AR Dica incrível para usar adesivos no rosto!
 dnarshs2Ees // Spark AR V101 e Template de mudança de voz
 7TXJighxiok // Spark AR Efeito Glow nos olhos e Vinheta!
+S2pdT_Inqzc // Spark AR Várias formas de testar ou enviar um link do seu Filtro!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
 
 # Studio Crow
+SqZHQLcCPG8 // Como colocar barra de progresso pelo Adobe Premiere Pro 2020.
 1rBy8AISuGk // Como criar um filtro básico com Imagem ou Texto no Instagram
 
 # Studio Haus
