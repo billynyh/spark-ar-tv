@@ -202,6 +202,7 @@ I8reXVGWfN4 // Tutorial medidor de energia e frequência do áudio no Spark AR
 DOSvkA6AyuI // Reconhecimento de mão (Hand tracking) - Tutorial Spark AR
 4tZAryJDwIs // Tutorial coelho 3D (parte I) - Filtros para Instagram e Facebook
 w4b2mDLUtUo // Alterar fundo da imagem usando template do Spark AR - Filtros para Instagram e Facebook
+G24Eo2WiIZI // Convert any audio to the format Spark AR uses
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
