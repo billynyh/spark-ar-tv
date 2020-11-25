@@ -1435,6 +1435,7 @@ Ry35jX0-qmM // Add Time and Date to your Instagram/Facebook Filter in Spark AR
 vZ9jz2yKB38 // INSTAGRAM CHRISTMAS FILTER WITH SNOW AND SANTA HAT in SPARK AR
 _VkArhlE5pA // How to REMOVE DARK CIRCLES for Instagram/Facebook Filter in Spark AR
 6EySw4tI_ps // Voice Changer in Spark AR / New Way
+uBBxG9eX4-M // How to ADD SNOW to INSTAGRAM/FACEBOOK FILTER in SPARK AR
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -1686,6 +1687,7 @@ owRrVlZ1Ds0 // How to Color Your Hair for your Instagram Filter [free hair segme
 xdLIF7XACL4 // How to create a green screen effect in Spark AR adding gallery texture
 Fi7F9O1G3s4 // Spark AR Basic Tutorial: Person Segmentation plus Retouching
 i0cDDphSYvE // Spark AR Tutorial: Control you're Retouching with a Slider on Instagram with this simple Script
+JUPsPMMhPgU // How to create multiple UI Pickers in Spark AR
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -1733,6 +1735,7 @@ QXT5BRtmxm4 // Native UI PICKER ON PATCH EDITOR  More then 10 Pickers || Spark A
 uIN-LTCYBJg // Ocean Cleaning Force || Spark AR || Instargam Filter || Rbkavin || Kym Fiala
 S0hp5mF0EYY // SparkAR Render Passes and what does it do ? ( Scene ,shader etc...) || Rbkavin
 MlSIa-Ady20 // Spark AR  Freeze Frame - how to freeze the frame ? (delay frame )|| Rbkavin
+xzWR1O2nmbk // Dynamic instance/spawn in Spark AR v102+ With Full Explanation for the Code||Spawn objects|| Rbkavin
 
 # Real World Reality
 V9XGcRkQfGU // Upload Filter to Instagram | How to  publish Instagram effects without issues  (English)
@@ -1858,6 +1861,9 @@ j5PEMEFv3WE // Create your own Instagram filters in 5 minutes
 
 # see it's fel
 kSlJaE273Vs // Diary 1: How to make Butterfly IG filter| How to add blush, lipstick & lipgloss on Spark AR
+
+# Shahrul Estar
+4OD1VKPKw0w // Spark AR : The Making Of "S5 Filter" On My Instagram
 
 # Shubham Jain
 sgsVlzviJNg // Of Course I Love Mars Filter using Spark AR (360 degree experience)
