@@ -730,6 +730,7 @@ XwB4i-zZn18 // SPARK AR - Person Segmentation (With Some Nice Effects)
 uW3HqVnJwac // SPARK AR TIPS - Responsive Designing
 1RvnhJBryTU // SPARK AR - Delay Frame (Photo Booth)
 NUNmbTh9qzc // SPARK AR - Voice Changer (All In One Effect)
+fjRd32KkZHQ // SparkSL Shader Tutorials - Part 1 - Introduction
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -767,6 +768,7 @@ VNs2XYv9aXs // "Kinky Sky" / Pink Sky | Spark AR Studio | Instagram Filter
 8Ex5wq85WWk // How to make a "Weed" Instagram Filter? | Spark AR Studio
 ChunXA4S04c // Two Jeffree Star's Mirrors Instagram Filter | Spark AR Studio
 C4g88DbLtvo // How to make Mickey & Minnie Instagram Filter? | Spark AR Studio Tutorial
+VX8lQrVMbL8 // How to make two mix up Skin Smooth + LUT Instagram Filter? | Spark AR Studio Tutorial
 
 # Gilligan Faust
 iJe0A35Abro // Instagram Filter upload tutorial (Spark AR)
@@ -1947,6 +1949,7 @@ DAVXQQsuHhQ // Border Frame Template Package (Gumroad, Aesthetic, Scale) | Insta
 IViXtq2G-kQ // Infinite Carousel Filter Effect (Loop Animation, Camera) | Instagram & Facebook | Spark AR Tutorial
 o54z4yTrKLs // Parallax Filter Effect (Loop Animation, Video Game, Cartoon)| Instagram Facebook | Spark AR Tutorial
 6f0rP9PX2y0 // Split Screen Filter Effect (Multi-Patch, Camera Texture) | Instagram & Facebook | Spark AR Tutorial
+HRw-GCQonkk // Favourite Filters #1 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
