@@ -737,6 +737,7 @@ uW3HqVnJwac // SPARK AR TIPS - Responsive Designing
 1RvnhJBryTU // SPARK AR - Delay Frame (Photo Booth)
 NUNmbTh9qzc // SPARK AR - Voice Changer (All In One Effect)
 fjRd32KkZHQ // SparkSL Shader Tutorials - Part 1 - Introduction
+1w_S8OWta_s // SparkSL Shader Tutorials - Part 2 - Basics of a Shader
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1502,6 +1503,7 @@ XUCKYUae0m0 // Spark AR: 3D to 2D Position Conversion - Free Template
 uqSRIZ_pONg // Spark AR Color Picker: Newcolor Live Stream
 Yk7ALdEUdP0 // Spark AR Skin Color Sample: Color Picker + Face Tracker Texture
 R5Hq-6JZxh0 // Spark AR 2D Size Constraints: Notification Effect
+MKo4EC8fsYI // Spark AR Gradient Transform: Animate Your Gradients with Texture Transform
 
 # Nia Kurniati Mansyur
 ORpSAUzmAyY // How to make filter Instagram with spark AR
@@ -1956,6 +1958,7 @@ IViXtq2G-kQ // Infinite Carousel Filter Effect (Loop Animation, Camera) | Instag
 o54z4yTrKLs // Parallax Filter Effect (Loop Animation, Video Game, Cartoon)| Instagram Facebook | Spark AR Tutorial
 6f0rP9PX2y0 // Split Screen Filter Effect (Multi-Patch, Camera Texture) | Instagram & Facebook | Spark AR Tutorial
 HRw-GCQonkk // Favourite Filters #1 | Instagram & Facebook | Spark AR Studio #shorts
+czcGdhoeoNk // Favourite Filters #2 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
