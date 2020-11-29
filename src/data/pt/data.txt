@@ -209,6 +209,7 @@ DOSvkA6AyuI // Reconhecimento de mão (Hand tracking) - Tutorial Spark AR
 w4b2mDLUtUo // Alterar fundo da imagem usando template do Spark AR - Filtros para Instagram e Facebook
 G24Eo2WiIZI // Convert any audio to the format Spark AR uses
 cGBLSqYuXZA // Como adicionar óculos 3d ao seu filtro - tutorial Spark AR
+OPgPIK3upZc // Question game filter for Instagram - Spark AR Tutorials
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -655,6 +656,7 @@ dnarshs2Ees // Spark AR V101 e Template de mudança de voz
 S2pdT_Inqzc // Spark AR Várias formas de testar ou enviar um link do seu Filtro!
 ToDKuK0nvhE // Spark AR Capacete 3D com movimentação e brilho!
 -1UOH_G-8QI // Spark AR Criando e animando olhos e boca!
+TpQEpC-oOS4 // Mentoria grátis + Black Friday
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›

@@ -1656,6 +1656,7 @@ Pc3MvsYO_Z4 // SPARK AR GAME | TRUE OR FALSE quiz game template
 wTEgJz7UuEI // SPARK AR GAME | WHO IS MORE LIKELY quiz game with friends | Who is most likely template
 lEvCRhEf8L4 // SPARK AR GAME | Catch Falling Item game template
 ---j_zn04mU // SPARK AR BEAUTY | Candy Hair Color w/ HAIR SEGMENTATION | Pink Hair
+qIsR0XXhUzQ // SPARK AR BEAUTY | Kira Kira Hair glitter and sparkle on hair
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1763,6 +1764,7 @@ asuiE74T7LE // Spark AR tutorial : Comic magazine effect with RGB scanner for In
 ePUsKsFSP2I // Spark AR Tutorial : Dissolve shader [Lava shader ] for Instagram
 5P1vScGMsUY // Spark AR Tutorial : Change Hair Color in Instagram [Hair Segmentation| UI Picker + Slider]
 zQ5BWmLjMNE // Spark AR Tutorial: Creating Glow Effect With Render Pass [Instagram]
+3CNEKx_N6zM // Spark AR Tutorial : Creating Virtual Social Distancing Face Filter  [Facebook & Instagram]
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
