@@ -322,6 +322,7 @@ f-2_twf6hkQ // Filtro de Espejo (Spark AR)
 svVx0sREzyI // PIXELIZAR Filtro de Spark Ar
 12JHmDdRcYs // Face Extraction (Spark Ar)
 qawB8FDEE78 // Filtro de DESENFOCAR FONDO o PERSONA en Spark Ar
+zdWoHiWmfdE // Crea tu filtro POLAROID Spark AR
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español

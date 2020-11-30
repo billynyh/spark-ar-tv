@@ -547,6 +547,7 @@ GvZ4e-GDCYY // How to make Instagram Filter|Turn your Lightroom Presets into Ins
 
 # DJS CREATES
 efSFCqKhg48 // Background Replacement in Spark AR Studio | Create your own Instagram Filter
+wANpNbM8eUY // Blurry Background in Spark AR for Instagram Storie Filters.
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -738,6 +739,8 @@ uW3HqVnJwac // SPARK AR TIPS - Responsive Designing
 NUNmbTh9qzc // SPARK AR - Voice Changer (All In One Effect)
 fjRd32KkZHQ // SparkSL Shader Tutorials - Part 1 - Introduction
 1w_S8OWta_s // SparkSL Shader Tutorials - Part 2 - Basics of a Shader
+lkyehlC_ekE // SPARK AR TIPS - Shader Editing with Syntax Highlighting
+27TetpJAvco // SparkSL Shader Tutorials - Part 3 - Variables & Data Types (const, #define, vec2, float etc.)
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
