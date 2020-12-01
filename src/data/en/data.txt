@@ -741,6 +741,7 @@ fjRd32KkZHQ // SparkSL Shader Tutorials - Part 1 - Introduction
 1w_S8OWta_s // SparkSL Shader Tutorials - Part 2 - Basics of a Shader
 lkyehlC_ekE // SPARK AR TIPS - Shader Editing with Syntax Highlighting
 27TetpJAvco // SparkSL Shader Tutorials - Part 3 - Variables & Data Types (const, #define, vec2, float etc.)
+YNYaypPKuWw // SparkSL Shader Tutorials - Part 4 - Swizzling
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -842,6 +843,9 @@ DDTW_JtM6S4 // Joker face using Spark AR
 
 # HolyAlexx
 sRUfCf-Ksog // How to make an Instagram Filter | Spark AR
+
+# HOWTECH
+AC1gHazgvKk // How to Make Your Own Instagram AR Filters | Get Started in Spark AR Studio
 
 # iampimposo
 pRIH_NL-WEM // Spark AR Studio - Scanner Face
@@ -1615,6 +1619,9 @@ IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" 
 0QrI5Ay7qYA // Dream Land is the new Instagram Filter created by Piotar Boa #Shorts
 8LWQhGOwWbc // Piotar Boa #Snapchat Body Tracking #lenses #Shorts
 
+# Pond Skater Studio
+aJggm9Dad2A // Full Spark AR Workflow - From Ideation to Publishing
+
 # Pooja Bera
 V4yWuTgxWLw // How to create Instagram filter in 5 minutes Step by Step Tutorial + Reviewing St botanica products
 
@@ -1660,6 +1667,7 @@ wTEgJz7UuEI // SPARK AR GAME | WHO IS MORE LIKELY quiz game with friends | Who i
 lEvCRhEf8L4 // SPARK AR GAME | Catch Falling Item game template
 ---j_zn04mU // SPARK AR BEAUTY | Candy Hair Color w/ HAIR SEGMENTATION | Pink Hair
 qIsR0XXhUzQ // SPARK AR BEAUTY | Kira Kira Hair glitter and sparkle on hair
+Q_fqnjKp4QE // SPARK AR BEAUTY | Kira Kira glitter sparkle on hair template
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1820,6 +1828,8 @@ AmJcs_W-Hek // Spark AR Studio - Animation Tutorial : How To Make A Video in Spa
 1cEAhjxp-gI // How To Make Gold ? (UPDATE) - Spark AR Studio
 w26zn6zs_Pk // How To Add Interactions ? (Switch) - Spark AR Studio
 JcqgTDPY-TI // Use your Gallery in your filters ! in Spark AR Studio
+1BcGiDr2FO4 // Spark AR - Audio Visualizer Tutorial
+1JrhmM9n-BU // Spark AR - Walkthrough - Audio Visualizer Tutorial
 
 # Rod Antunes
 DHHPMBa8B6E // Spark Ar Blink Game
@@ -1964,6 +1974,7 @@ o54z4yTrKLs // Parallax Filter Effect (Loop Animation, Video Game, Cartoon)| Ins
 6f0rP9PX2y0 // Split Screen Filter Effect (Multi-Patch, Camera Texture) | Instagram & Facebook | Spark AR Tutorial
 HRw-GCQonkk // Favourite Filters #1 | Instagram & Facebook | Spark AR Studio #shorts
 czcGdhoeoNk // Favourite Filters #2 | Instagram & Facebook | Spark AR Studio #shorts
+2eB6W1CWIjg // Favourite Filters #3 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -2156,6 +2167,7 @@ CxCkJmxohzA // 【SparkAR】Distortion World (Gumroad)
 
 # Tomas Pietravallo
 52ZmqwMUThU // Manipulating Multiple Scene Objects with Scripts in Spark AR - FbDevCircles Community Challenge
+OEZxLtC7bXU // Creating and Manipulating Objects with Scripts in Spark AR
 
 # Tone Fuentes
 TsUnA7QWW8o // How to MAKE Instagram FILTERS using Lightroom PRESETS | Spark AR Studio
