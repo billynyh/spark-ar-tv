@@ -548,6 +548,7 @@ GvZ4e-GDCYY // How to make Instagram Filter|Turn your Lightroom Presets into Ins
 # DJS CREATES
 efSFCqKhg48 // Background Replacement in Spark AR Studio | Create your own Instagram Filter
 wANpNbM8eUY // Blurry Background in Spark AR for Instagram Storie Filters.
+e_AS7XjjaCI // LR Preset to Instagram Story Filter using Spark AR
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1452,6 +1453,7 @@ vZ9jz2yKB38 // INSTAGRAM CHRISTMAS FILTER WITH SNOW AND SANTA HAT in SPARK AR
 _VkArhlE5pA // How to REMOVE DARK CIRCLES for Instagram/Facebook Filter in Spark AR
 6EySw4tI_ps // Voice Changer in Spark AR / New Way
 uBBxG9eX4-M // How to ADD SNOW to INSTAGRAM/FACEBOOK FILTER in SPARK AR
+Jpk_lyOk1Gg // SNOWMAN FACE FILTER IN SPARK AR
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -1877,6 +1879,9 @@ xXB9qbDKhpI // Best and Simple Spark AR Tutorial | Making of steampunk sunglasse
 BoajrJ_bU4Q // How To Convert Lightroom Preset To Instagram Story Filter + Basics of Spark AR | Instagram Filter
 dbvDHxvOe3A // SPARK AR MAKEUP INSTAGRAM FILTER TUTORIAL | BLUSH + LIPSTICK + FRECKLES
 YsPMjUpW3mk // SPARKLE / GLITTER / KIRA KIRA + Colour Luts and Retouching Filter in Spark Ar Studio
+
+# SantoDoniaPhotography
+jxtJUwOQbk8 // How to Make Your Own AR Filter for Instagram (100 Gecs)!
 
 # Science Museum of Virginia
 5-7ZrrigsV4 // Maker Mindset: SparkAR Tutorial
