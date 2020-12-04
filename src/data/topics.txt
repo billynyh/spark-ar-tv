@@ -134,7 +134,7 @@ C5k_kgy_n_4 // Spark AR - Audio Energy meter | V89 - New functionality
 omqEo6A1bLg // object with multiple material and change between them based on tap  || rbkavin || spark ar
 udG3s3dNuAc // Score++ ||Update Score from patch || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
 _aZNnWxYxS0 // Spark AR #06: Scripting-Nutcracker Facetracker
-6F6qqEQf2QA // Spark AR: Beginner Javascript Animations for IG | #SteffieInJapan
+6F6qqEQf2QA // SPARK AR: BEGINNER ANIMATIONS | #SteffieInJapan
 bdU1fVNrE-M // Collision detection 2d with patch editor || Spark AR || Instargam Filter || Rbkavin
 Hzmyt-s_bZs // Spark AR quick tip 01: scripting movement by screen tap
 eEMgHXzSFB0 // Generate color in code || Spark AR || Facebook Filter || Instargam Filter || Rbkavin
@@ -507,7 +507,7 @@ DIJViPfRDzk // SPARK AR TUTORIAL | Hair segmentation - cara bikin filter gonta g
 c-cFacCpEjM // Урок 4-Как изменить цвет волос в маске инстаграм Spark AR.How to change hair color in Instagram v.98
 _slYBi8dUG4 // Aesthetic ll Tutorial Filter Instagram Hair Color , Makeup  (part 3)
 RuXuqjfYeIA // Cara Membuat Filter Instagram Hair Color Kekinian (part 4)
--5RO-fxBuKg // SPARK AR Tutorial | Hair Segmentation Effekt für Deinen Instagram Filter + Glitzer Effekt
+-5RO-fxBuKg // SPARK AR Tutorial | Haarfarbe ändern in Deinen Instagram Filter + Glitzer Effekt
 P0gEWdGrVIs // Как сделать волнистые (кудрявые) волосы в Spark AR? Готовый проект. Сurly hair - Spark AR project.
 iJaKM3ausdI // Glitter, Sparkles, Kira Kira on Hair Instagram Filter in Spark AR
 _Ie1G8kQKqc // Hair Color Segmentation Filter Instagram | SPARK AR TUTORIAL INDONESIA
@@ -656,7 +656,6 @@ gVuS2NJhGdw // Spark LUT Swiper Demo
 LojGhczG8mo // Cara membuat Filter Instagram menggunakan Preset VSCO termudah | Spark AR Indonesia
 -7Bxx1oSyLU // Make Up Tutorial - Cara Membuat Filter Make Up Dan Lut Di Spark Ar
 UTuew30eeKA // TUTORIAL BIKIN FILTER INSTAGRAM SENDIRI | SPARK AR TUTORIAL
-y2j9n2g8bZc // Spark AR - Native UI Picker Tutorial (With LUT Switch)
 RQnPuvJb8bk // KIRA KIRA / GLITTER / SPARKEL effect SPARK AR | download link | kira kira + LUT + Slider New Update
 Y10OoaDTIiE // Spark AR Fade-in e Fade-out de forma FÁCIL no seu LUT!
 SNytCM8kUns // Spark AR: LUT + Retouch + Color Adjustments. 2 Native UI Pickers + Slider
@@ -767,7 +766,6 @@ hO8crccERcE // สอนทำฟิลเตอร์ IG EP10: Native UI picker
 rqNRxreiY6o // Native UI Picker | Cara Membuat Option Di Filter Spark Ar Indonesia
 BugWiovmxlQ // CARA MENAMPILKAN NATIVE UI PICKER , OPSI PILIHAN FILTER INSTAGRAM | SPARK AR TUTORIAL INDONESIA
 13bXUghu39E // SPARK AR TIPS - Changing Text with Scripting (Random Date Picker) Tutorial
-y2j9n2g8bZc // Spark AR - Native UI Picker Tutorial (With LUT Switch)
 vpbZI1DD8aI // Cara Menampilkan NATIVE UI SLIDER BRIGHTNESS DI SPARK AR GAMPANG!! | SPARK AR TUTORIAL INDONESIA
 RQnPuvJb8bk // KIRA KIRA / GLITTER / SPARKEL effect SPARK AR | download link | kira kira + LUT + Slider New Update
 pD3vHi4Nnsk // Spark AR Emoji Face Slider: Spark AR Studio Project Template

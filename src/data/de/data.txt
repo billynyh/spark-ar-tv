@@ -18,7 +18,7 @@ zA0IR9shD8k // Make-Up Instagram Story Filter mit Spark AR | Tutorial Deutsch
 P34z1lNnOB8 // Spark AR Instagram Story Filter Tutorial Deutsch | Zufalls Effekt Filter +  Challenge Ideen
 NdduZXyVQ8Q // Mach dein LIGHTROOM PRESET zu einem Instagram Story Filter | Spark AR Anfänger Tutorial Deutsch
 jpTkJCjNBo0 // SPARK AR  Anfänger Tutorial Deutsch | THIS OR THAT Filter für Instagram
-4yTa1RYtu80 // SPARK AR Tutorial Deutsch | 3D-Modelle für Instagram Filter
+4yTa1RYtu80 // 3D-Weihnachtsmütze für Instagram Filter | SPARK AR Tutorial Deutsch
 ua2TZ2B99eE // SPARK AR Tutorial | Gallery Texture + Color Lut Preset | Deutsch
 DtFKFHB-_VU // Vintage Staub Animation + Screen Tap | SPARK AR TUTORIAL DEUTSCH
 V_ANdJmBwnk // SPARK AR Instagram | Picker Ui + Slider Ui im PATCH EDITOR mit Option Icons | Tutorial DEUTSCH
@@ -31,7 +31,7 @@ Xe5MMQ1i7k4 // SPARK AR Tutorial | Wochentag und Datum überall in eurem INSTAGR
 BLTSwRZ3c94 // Touch Gesture Control für deinen Instagram Filter | SPARK AR TUTORIAL Deutsch
 Rsb1qwv6XnM // SPARK AR Tutorial | Scan Effekt Filter für Instagram | Deutsch
 gUYcnVXPPcE // Eigene Filter "offline" nutzen | Instagram Media Library SPARK AR TUTORIAL
--5RO-fxBuKg // SPARK AR Tutorial | Hair Segmentation Effekt für Deinen Instagram Filter + Glitzer Effekt
+-5RO-fxBuKg // SPARK AR Tutorial | Haarfarbe ändern in Deinen Instagram Filter + Glitzer Effekt
 
 # Jannis
 G8BQW5zmLZ0 // Eigenen Instagramfilter erstellen - Tutorial | Jannis
@@ -56,7 +56,6 @@ xsggxFK0IUg // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / Split Screen 2020
 _erJ2qrDsx8 // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / 3 LUTs + Retouch + Screen Tap 2020
 xDSEmyCM8eE // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / LUTs + Gallery Texture 2020
 RtprQizwWRs // Instagramfilter mit Datum und Uhrzeit erstellen / Spark Ar Tutorial 2020
-aIQCDbYD6jk // COLLECTIVE SUMMER TRY-ON HAUL 2020 / H&M, For Love & Lemons etc.
 645i39ssshQ // Spark Ar Anfänger Tutorial / Datum, Uhrzeit durch Screen Tap ändern
 nAVSFh1aDBw // Kostenlose 3D Schmetterlinge Face Filter Spark Ar / Anfänger Tutorial 2020
 
@@ -78,7 +77,6 @@ rQCR7ooV_Ig // How to Add Segmentation to a 3D Panorama Background in Spark AR [
 Gy2rrn2TVS4 // Change your Faceshape in Spark AR
 HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 6g5GdU33Eyk // 3 Useful Mouth Open Patch Ideas for SPARK AR
-JUPsPMMhPgU // How to create multiple UI Pickers in Spark AR
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio

@@ -1,40 +1,4 @@
-# bit X Channel
-kW9mwfouUtc // 【Spark AR】インスタで使えるARフィルターを作ろう！
-
-# Ezumi_DIY
-_PutM2xEvVA // 1.ARエフェクトを作ろう！【Spark AR Studio_概要とインストール】
-g3sann0qJIg // 2.家族とペットのARエフェクトを作ろう！【前半】＜無料ソフトで素材作り＞
-f4yUT9ftZk0 // 3.家族やペットのARエフェクトを作ろう【後半】初めてのSpark AR Studio
-kALCzTrw-wE // TIME-LAPSE "Avatar"AR Effect---映画「アバター」をARエフェクトで再現した
-
-# Junji Suzuki
-Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを付ける方法@Spark AR Studio
-wTlfj4W8uAc // ZoomでSnapCameraのようにSpark ARを使う方法
-XtqeNPjl82g // Spark AR Texture Transform Touch Gestures
-
-# Marin Park
-b636Ki4Pksw // [Spark AR] 【初心者による初心者の為のSpark AR講座(1)】ソフトをダウンロードして簡単に触ってみよう！
-
-# NoCode School - ノーコードスクール -
-0rommpJmP0k // 【簡単】InstagramのARフィルターを自分でつくってみよう！- Spark AR の使い方 #1
-jPnP1pi0AMo // フェイスペイント風のARエフェクトをノーコードでつくってみる - Spark ARの使い方#2
-hMDqXWBAtMY // インタラクション効果をつけるPatch Editorについて - Spark ARの使い方 #3
-D9Dw4xKQxt4 // 光の反射とshaderの関係と、レイヤー、セグメンテーション - Spark ARの使い方 #4
-KDcRn-ItkDQ // 【ノーコード】NARUTOのカカシになれるインスタフィルターをつくる - Spark ARの使い方 #5
-
-# SUNABACO
-jE42a-uh-CI // FbやInstagramのカメラ機能をカスタムしよう！【Spark AR】
-
-# Takeshi Nagata
-KKZfl52txqw // [Japanese] Spark AR Studio 06 Upload Your Face Filter
-f5KWtn-ea5Y // [Japanese] Spark AR Studio 04 Face Distortion, Retouching and more.
-pc5UpzPUtLM // [Japanese] Spark AR studio 03 Animation Basic 2
-Vy6u4Dmpl7g // [Japanese] Spark AR studio 02 Animation Basic 1
-oxjJQjYg1gc // [Japanese] Spark AR Studio 01 3D Bricolage 日本語
-5AchseTrsy0 // [Japanese] Spark AR Studio 05 Eye Ball
-_ZedgF6vrvI // [Japanese] Export multiple animations into one FBX file [MAYA, SPARK AR STUDIO TIPS]
-
-# VR Creators LABO
+# AR channel
 i4M0fpjOZFs // 自分で作れる　インスタエフェクト作成講座＜NO.2＞SparkAR　顔面変形
 dxhCJlQQQpg // インスタエフェクト作成講座＜NO.１＞SparkAR　フェイスフィルターの作り方
 D34G7YlNg_E // 自分で作れる！インスタエフェクト作成講座＜NO.３＞SparkAR　背景変更方法
@@ -76,6 +40,42 @@ gdzCcDQxpK0 // インスタ小顔フィルター作成方法★＜SparkAR初心�
 5LcSZkQCzuE // 自分の画像を使って開発もできます。SparkAR日本語チュートリアル
 Tonyyg-NaJI // ARフィルター作成方法キャラクター★＜SparkAR初心者向け日本語チュートリアル＞
 
+# bit X Channel
+kW9mwfouUtc // 【Spark AR】インスタで使えるARフィルターを作ろう！
+
+# Ezumi_DIY
+_PutM2xEvVA // 1.ARエフェクトを作ろう！【Spark AR Studio_概要とインストール】
+g3sann0qJIg // 2.家族とペットのARエフェクトを作ろう！【前半】＜無料ソフトで素材作り＞
+f4yUT9ftZk0 // 3.家族やペットのARエフェクトを作ろう【後半】初めてのSpark AR Studio
+kALCzTrw-wE // TIME-LAPSE "Avatar"AR Effect---映画「アバター」をARエフェクトで再現した
+
+# Junji Suzuki
+Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを付ける方法@Spark AR Studio
+wTlfj4W8uAc // ZoomでSnapCameraのようにSpark ARを使う方法
+XtqeNPjl82g // Spark AR Texture Transform Touch Gestures
+
+# Marin Park
+b636Ki4Pksw // [Spark AR] 【初心者による初心者の為のSpark AR講座(1)】ソフトをダウンロードして簡単に触ってみよう！
+
+# NoCode School - ノーコードスクール -
+0rommpJmP0k // 【簡単】InstagramのARフィルターを自分でつくってみよう！- Spark AR の使い方 #1
+jPnP1pi0AMo // フェイスペイント風のARエフェクトをノーコードでつくってみる - Spark ARの使い方#2
+hMDqXWBAtMY // インタラクション効果をつけるPatch Editorについて - Spark ARの使い方 #3
+D9Dw4xKQxt4 // 光の反射とshaderの関係と、レイヤー、セグメンテーション - Spark ARの使い方 #4
+KDcRn-ItkDQ // 【ノーコード】NARUTOのカカシになれるインスタフィルターをつくる - Spark ARの使い方 #5
+
+# SUNABACO
+jE42a-uh-CI // FbやInstagramのカメラ機能をカスタムしよう！【Spark AR】
+
+# Takeshi Nagata
+KKZfl52txqw // [Japanese] Spark AR Studio 06 Upload Your Face Filter
+f5KWtn-ea5Y // [Japanese] Spark AR Studio 04 Face Distortion, Retouching and more.
+pc5UpzPUtLM // [Japanese] Spark AR studio 03 Animation Basic 2
+Vy6u4Dmpl7g // [Japanese] Spark AR studio 02 Animation Basic 1
+oxjJQjYg1gc // [Japanese] Spark AR Studio 01 3D Bricolage 日本語
+5AchseTrsy0 // [Japanese] Spark AR Studio 05 Eye Ball
+_ZedgF6vrvI // [Japanese] Export multiple animations into one FBX file [MAYA, SPARK AR STUDIO TIPS]
+
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】
 41sr4gBOBnk // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 1】
@@ -86,18 +86,20 @@ xRfFBkHRvpQ // Spark AR でゆるゆる何か作るライブ #まいにちAR
 XhQreMFX_Sg // お話ししながらインスタのエフェクトの作り方を教えよう。【SparkAR】
 
 # エルピンの部屋
-UxlnkCPV5Yo // 【インスタ】ストーリーエフェクトの作り方を面白く！わかり易く！  SparkAR一連の流れを観察してみよ
+UxlnkCPV5Yo // 【クリスマス溺愛系女子】インスタエフェクトの作り方！SparkAR 美肌効果 顔追跡
 
 # ヨーグルトキャップ
 8pNmVDmhFBk // 【超簡単】インスタエフェクトの作り方【初心者向けダウンロード編】
 ZSsLGGcrFDE // エフェクトを非公開や削除する方法【エフェクト/SparkAR】
 pnM4t6k9afE // 【インスタエフェクト】美肌フィルターの作り方【SparkAR】
-WXI8-eJnmCI // 【パッと確認】作ったエフェクトを携帯する方法【エフェクト/SparkAR】
+WXI8-eJnmCI // 【パッと確認】作ったエフェクトを携帯で確認【エフェクト/SparkAR/テスト】
 O8-9rpzGpCI // 【時間表記】リアルタイムのエフェクトを作る方法【フィルター/SparkAR】
 330w5Ksy5Do // 【複数人】二人目以降にも反応させていく方法【エフェクト/SparkAR】
 L9R4DF_tYeM // ざらざらした感じのノイズエフェクトを解説【エフェクト/SparkAR】
 vnf7udvk0dw // 【申請】普段通りアップロードできない時に見る動画【エフェクト/SparkAR】
 AV469ZFj684 // 【10分でわかる！】手書きエフェクトの作り方【エフェクト/SparkAR】
+UHNFvUMZvQ4 // 【写ルンです風】カメラの色合いを変える方法【エフェクト/SparkAR】
+23AHQAjPQLk // 【】【エフェクト/SparkAR】
 
 # 幸せ家族計画
 s0U6sMa6XCk // 【淡路一人】SPARK ARできつねインスタフィルターつくってみる
