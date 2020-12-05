@@ -665,6 +665,9 @@ AgbkQsbnByU // Xopher's Lab, Day 1 - Part 2
 # Farah Bros
 q7juW5Woxv8 // Who are you / Questions AR Filter tutorial for Instagram and Facebook [2020]
 
+# Fatihah Ayu ACI
+hQEs-oCewWo // JujutsuKaisen Filter in Adobe Spark AR
+
 # Feelters Spark AR
 HpatUjqDYIc // Tutorial - Spark AR - Gallery Image Picker
 
@@ -745,6 +748,7 @@ fjRd32KkZHQ // SparkSL Shader Tutorials - Part 1 - Introduction
 lkyehlC_ekE // SPARK AR TIPS - Shader Editing with Syntax Highlighting
 27TetpJAvco // SparkSL Shader Tutorials - Part 3 - Variables & Data Types (const, #define, vec2, float etc.)
 YNYaypPKuWw // SparkSL Shader Tutorials - Part 4 - Swizzling
+j6Pa2vd8IsI // SparkSL Shader Tutorials - Part 5 - Functions
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1455,6 +1459,7 @@ uBBxG9eX4-M // How to ADD SNOW to INSTAGRAM/FACEBOOK FILTER in SPARK AR
 Jpk_lyOk1Gg // SNOWMAN FACE FILTER IN SPARK AR
 6_ia26zMg_A // Ariel Disney Princess Instagram Filter in Spark AR
 fM6D1hXPdMc // Christmas Deer Ear Headband Instagram/Facebook Filter in Spark AR
+pkw23g1YsbM // HOW to ADD MUSIC and SOUND in SPARK AR
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -1470,6 +1475,7 @@ _xAAii2bCPg // White Teeth Instagram Filter Tutorial (Updated) │ Spark Ar Stud
 wA8fPhIddJM // Facebook & Instagram Filter │ Spark Ar Studio
 3E06Y6CCOBE // Spark Ar: "Segmentation" - Facebook & Instagram Filter
 9J41kU9iL7s // "Indie Neon Kid" Instagram Filter │ Spark Ar Studio
+Qq0xaYnoGe8 // "Music Player" Instagram Filter │ Spark Ar Studio
 
 # Natalia Kovalchuk
 yBZAW99Bupw // Spark AR tutorial. Basic filter tutorial
@@ -1894,6 +1900,10 @@ kSlJaE273Vs // Diary 1: How to make Butterfly IG filter| How to add blush, lipst
 
 # Shahrul Estar
 4OD1VKPKw0w // Spark AR : The Making Of "S5 Filter" On My Instagram
+
+# Shruti Sunil
+41XYnwP57Cc // AR Business Card  Shruti Sunil
+rUgnPEfNhRA // Doom Filter  Shruti Sunil
 
 # Shubham Jain
 sgsVlzviJNg // Of Course I Love Mars Filter using Spark AR (360 degree experience)
