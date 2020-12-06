@@ -749,6 +749,7 @@ lkyehlC_ekE // SPARK AR TIPS - Shader Editing with Syntax Highlighting
 27TetpJAvco // SparkSL Shader Tutorials - Part 3 - Variables & Data Types (const, #define, vec2, float etc.)
 YNYaypPKuWw // SparkSL Shader Tutorials - Part 4 - Swizzling
 j6Pa2vd8IsI // SparkSL Shader Tutorials - Part 5 - Functions
+PclV-tl0FwY // SparkSL Shader Tutorials - Part 6 - Namespaces
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1476,6 +1477,7 @@ wA8fPhIddJM // Facebook & Instagram Filter │ Spark Ar Studio
 3E06Y6CCOBE // Spark Ar: "Segmentation" - Facebook & Instagram Filter
 9J41kU9iL7s // "Indie Neon Kid" Instagram Filter │ Spark Ar Studio
 Qq0xaYnoGe8 // "Music Player" Instagram Filter │ Spark Ar Studio
+_so254l8yiA // "GRL PWR" Facebook & Instagram Filter │ Spark Ar Studio
 
 # Natalia Kovalchuk
 yBZAW99Bupw // Spark AR tutorial. Basic filter tutorial
