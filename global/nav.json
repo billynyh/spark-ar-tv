@@ -487,7 +487,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
-      "meta1": "Num videos: 74",
+      "meta1": "Num videos: 75",
       "meta2": null
     },
     {
@@ -773,10 +773,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-12-07.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/aek_bojo6rw/hqdefault.jpg",
+      "title": "Week 2020-12-07",
+      "meta1": "Num videos: 1",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-11-30.html",
       "thumbnail_url": "https://i.ytimg.com/vi/9WZNEkga70c/hqdefault.jpg",
       "title": "Week 2020-11-30",
-      "meta1": "Num videos: 63",
+      "meta1": "Num videos: 75",
       "meta2": null
     },
     {
@@ -805,13 +812,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tYDCLyKneqc/hqdefault.jpg",
       "title": "Week 2020-11-02",
       "meta1": "Num videos: 66",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-10-26.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/j2BlsxYYQsQ/hqdefault.jpg",
-      "title": "Week 2020-10-26",
-      "meta1": "Num videos: 94",
       "meta2": null
     }
   ]

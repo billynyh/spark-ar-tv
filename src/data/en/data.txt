@@ -1307,6 +1307,7 @@ Q8Kvs7Jew4c // [P1] Spark AR tutorial: How Old Do I Look?
 kQ1zXiVZ6Jw // [P2] Spark AR tutorial: How Old Do I Look?
 q5pqzPLSxl0 // Spark AR tutorial: Blinking Game v85+  [Part 1]
 rElpDtxS9Xk // Spark AR tutorial: Blinking Game v85+ [Part 2]
+ukpK-Lg0tNo // Spark AR Studio: Create Christmas Filter in 10 minutes
 
 # Masketing Design
 _JPCNaELw-I // Spark AR "Adaptive Light pack for makeup"
@@ -1426,6 +1427,7 @@ xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spa
 
 # Nadia Hope Wilson
 3A_Yol78b5s // How to Create a 2D Game in SPARK AR | Nadia Wilson
+0fDqjzSxjrA // Realistic Eye Contacts For Instagram Filter | Spark AR | Nadia Wilson
 
 # Nadiia Moore
 6On115zW4PE // MAKE YOUR OWN COOL INSTAGRAM FILTER // Moving Hearts From The Eyes When You Blink
@@ -1679,6 +1681,7 @@ lEvCRhEf8L4 // SPARK AR GAME | Catch Falling Item game template
 ---j_zn04mU // SPARK AR BEAUTY | Best Hair Color with HAIR SEGMENTATION | Pink Hair
 qIsR0XXhUzQ // SPARK AR BEAUTY | Glitter sparkle hair template
 Q_fqnjKp4QE // SPARK AR BEAUTY | Kira Kira glitter sparkle on hair template
+iUhV_Qi24UI // SPARK AR | PHOTOBOOTH Filter v2 | Infinite scroll effect ( photo booth Instagram filter )
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1993,6 +1996,7 @@ HRw-GCQonkk // Favourite Filters #1 | Instagram & Facebook | Spark AR Studio #sh
 czcGdhoeoNk // Favourite Filters #2 | Instagram & Facebook | Spark AR Studio #shorts
 2eB6W1CWIjg // Favourite Filters #3 | Instagram & Facebook | Spark AR Studio #shorts
 j_27YeTMSKA // Favourite Filters #4 | Instagram & Facebook | Spark AR Studio #shorts
+ORRXdoqww9s // Favourite Filters #5 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

@@ -214,6 +214,8 @@ cGBLSqYuXZA // Como adicionar óculos 3d ao seu filtro - tutorial Spark AR
 OPgPIK3upZc // Question game filter for Instagram - Spark AR Tutorials
 VUGgZbhMv9M // 50 Tons de batom - tutorial filtro para instagram com Spark AR usando script
 Ln7oSTTyI5I // Rosto corado e blush para seu filtro do Instagram e Facebook - Tutoriais Spark AR
+kLRLlA3_bQg // Aula 01 - Instalação e introdução ao Spark AR
+wrmEukxJT2I // How To Install and Use Spark AR Toolkit For Blender
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -521,6 +523,9 @@ oQfdGRm9hl8 // REGISTRANDO SEU FILTRO!
 
 # Sheila Gajadhar
 wEhjHBUTtQw // CRIANDO FILTRO PARA INSTAGRAM EM 5 MINUTOS!!!! SUPER FÁCIL
+
+# Sol Fernandes
+fTKSg2kxfy8 // Como fazer seu próprio filtro  para o Instagran?
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
