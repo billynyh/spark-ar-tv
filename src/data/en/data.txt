@@ -221,6 +221,9 @@ XfZEE-WioDU // Spark AR Studio BLOCKS Feature: How to Use It and Why?
 gxQiOwRVjJ8 // Due to COVID-19 (Coronavirus) Spark AR Effect Reviews and Publishing Suspended
 P85XSs8IQn8 // How to use Promise.all API In Spark AR? - JavaScript Scripting
 
+# AR MR XR
+BL9pMXZmem8 // Pikachu Augmented Reality Card
+
 # Arditya Dhian M
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
 B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER DUST EFFECT DI SPARK AR STUDIO
@@ -576,6 +579,9 @@ _aQ9N0pOI5w // Spark AR Speaker Event : Spark AR Overview + Interactive Filter W
 # Dope Lad
 m8nEscVFU2c // Create Your Own Instagram Filters [ Lesson 1 ]
 MD1SJFULu0c // Change Eye Color in Spark AR | Instagram Filter [ Lesson 2 ]
+
+# DrChichoTech
+XFMXEEAY658 // 📱🤳How To Create Simple Instagram Filter 📸🖼️ Easy and Fast
 
 # Dreadlabs
 H081L4FvohI // How to make a FACE TATTOO filter for INSTAGRAM in Adobe Photoshop & Spark AR Studio
@@ -2001,6 +2007,7 @@ czcGdhoeoNk // Favourite Filters #2 | Instagram & Facebook | Spark AR Studio #sh
 2eB6W1CWIjg // Favourite Filters #3 | Instagram & Facebook | Spark AR Studio #shorts
 j_27YeTMSKA // Favourite Filters #4 | Instagram & Facebook | Spark AR Studio #shorts
 ORRXdoqww9s // Favourite Filters #5 | Instagram & Facebook | Spark AR Studio #shorts
+k8j2oLtgJIE // Favourite Filters #6 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
