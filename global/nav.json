@@ -201,6 +201,11 @@
         "video_count": 30
       },
       {
+        "title": "Christmas",
+        "url": "https://billynyh.github.io/spark-ar-tv/global/topics/christmas.html",
+        "video_count": 11
+      },
+      {
         "title": "Color Sampler",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/color-sampler.html",
         "video_count": 13
@@ -473,7 +478,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html",
       "thumbnail_url": "https://i.ytimg.com/vi/FT5D8oGnnOY/hqdefault.jpg",
       "title": "Channel: Rudy Anwar",
-      "meta1": "Num videos: 77",
+      "meta1": "Num videos: 78",
       "meta2": null
     },
     {
@@ -776,7 +781,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2020-12-07.html",
       "thumbnail_url": "https://i.ytimg.com/vi/S9EZnVTN-e8/hqdefault.jpg",
       "title": "Week 2020-12-07",
-      "meta1": "Num videos: 17",
+      "meta1": "Num videos: 26",
       "meta2": null
     },
     {

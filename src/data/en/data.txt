@@ -73,6 +73,9 @@ C7Jwfafs4C8 // How to make instagram filter like oliver sykes SPARK AR STUDIO
 # Ahmed Hassanein
 EEyB3Mc1UY4 // how to fix the findFirst API is deprecated error in spark-ar
 
+# Ahmed Mahdi
+pJclp16WwjQ // the workflow to make an instagram filter
+
 # Aian Colendres
 0Y397uD1MR0 // Make your own Instagram filter (Fast and easiest way) || Aian Colendres
 xlEoYE9WD8I // Unboxing + Best IG filters || Aian Colendres
@@ -559,6 +562,7 @@ GvZ4e-GDCYY // How to make Instagram Filter|Turn your Lightroom Presets into Ins
 efSFCqKhg48 // Background Replacement in Spark AR Studio | Create your own Instagram Filter
 wANpNbM8eUY // Blurry Background in Spark AR for Instagram Storie Filters.
 e_AS7XjjaCI // LR Preset to Instagram Story Filter using Spark AR
+f6urHpYklfY // Snow Effect in Spark AR Studio for your Instagram Filter! | Tutorial
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1083,6 +1087,7 @@ ZoXfLHDxv9U // SPARK AR TUTORIAL - Eye Contacts/Color/Instagram Filter
 v6oLcdI19QM // SPARK AR TUTORIAL - Tan Lut + Grain + Retouch + Deform + Tap to Change - Instagram Filter
 AEXC7gbNNwk // SPARK AR TUTORIAL - Cute Face Filter/Kira Kira/ UI Slider for Deformation
 r2agV_rE8Rg // SPARK AR TUTORIAL - Tap to Change/Picker UI for multiple eye colored contacts
+xszbS4SXJ2c // SPARK AR TUTORIAL - 3D Block Eyelashes + Basic Makeup
 
 # Kevandram
 MTLXyZLf6eA // Spark AR & Blender - Creating an Instagram Filter
@@ -1169,7 +1174,6 @@ S_X8_ML1e2M // SparkAR Joker mask
 CuyYy4ZmspU // SparkAR talking hamburger
 
 # Lorence Gonio
-qt_RVJ3h0ug // Merry Christmas!
 meOSFTH-lq4 // MAKE YOUR OWN INSTAGRAM FILTER// EASY AND SIMPLE
 
 # Lorenzo Barretta
@@ -1435,6 +1439,7 @@ xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spa
 # Nadia Hope Wilson
 3A_Yol78b5s // How to Create a 2D Game in SPARK AR | Nadia Wilson
 0fDqjzSxjrA // Realistic Eye Contacts For Instagram Filter | Spark AR | Nadia Wilson
+GLCMykyX2Iw // True or False Game Spark AR | Nadia Wilson
 
 # Nadiia Moore
 6On115zW4PE // MAKE YOUR OWN COOL INSTAGRAM FILTER // Moving Hearts From The Eyes When You Blink
@@ -1731,6 +1736,7 @@ xdLIF7XACL4 // How to create a green screen effect in Spark AR adding gallery te
 Fi7F9O1G3s4 // Spark AR Basic Tutorial: Person Segmentation plus Retouching
 i0cDDphSYvE // Spark AR Tutorial: Control you're Retouching with a Slider on Instagram with this simple Script
 JUPsPMMhPgU // How to create multiple UI Pickers in Spark AR
+wJ0ziZG5Be8 // How to Create Particle Fade Out Animation (Script v85+)
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
