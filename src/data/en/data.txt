@@ -761,6 +761,7 @@ lkyehlC_ekE // SPARK AR TIPS - Shader Editing with Syntax Highlighting
 YNYaypPKuWw // SparkSL Shader Tutorials - Part 4 - Swizzling
 j6Pa2vd8IsI // SparkSL Shader Tutorials - Part 5 - Functions
 PclV-tl0FwY // SparkSL Shader Tutorials - Part 6 - Namespaces
+ldyWhuiZVx0 // SparkSL Shader Tutorials - Part 7 - Arrays
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1549,6 +1550,9 @@ oVJHordzMXo // Tutorial | Creating a layered tunnel effect in SPARK AR [No codin
 
 # Nikka Pesudas
 aT9MzK3WOh4 // how to create your own Instagram filters ~
+
+# Nikola-Denis The Best
+Mqqlgu0SGPk // Spark Ar : Mask-маска
 
 # Nina Judy
 RHOdt1zNjj8 // How to get Instagram Filters 2020 Tutorial. "Which are you?", HiddenIGFilters & More.
