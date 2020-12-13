@@ -1807,6 +1807,7 @@ ePUsKsFSP2I // Spark AR Tutorial : Dissolve shader [Lava shader ] for Instagram
 5P1vScGMsUY // Spark AR Tutorial : Change Hair Color in Instagram [Hair Segmentation| UI Picker + Slider]
 zQ5BWmLjMNE // Spark AR Tutorial: Creating Glow Effect With Render Pass [Instagram]
 3CNEKx_N6zM // Spark AR Tutorial : Creating Virtual Social Distancing Face Filter  [Facebook & Instagram]
+Cv4FvGpokuc // Free Spark AR Project : Christmas Filter
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio

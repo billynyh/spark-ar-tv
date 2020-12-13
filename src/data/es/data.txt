@@ -323,6 +323,7 @@ svVx0sREzyI // PIXELIZAR Filtro de Spark Ar
 12JHmDdRcYs // Face Extraction (Spark Ar)
 qawB8FDEE78 // Filtro de DESENFOCAR FONDO o PERSONA en Spark Ar
 zdWoHiWmfdE // Crea tu filtro POLAROID Spark AR
+iTxFZ8X6HE0 // Filtro de Deformar la cara con Spark Ar
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -700,6 +701,9 @@ riZ7RMnYzqE // Crea tus propios filtros de realidad aumentada para Instagram
 # Pablo Hache
 aMb0ekJ_JRQ // ¡Cómo CREAR filtros en INSTAGRAM! | Pablo Hache
 MF487Vxn2Es // ¡Cómo SUBIR los filtros a INSTAGRAM! | Pablo Hache
+
+# Paola De Arco
+gipKgSJJPr0 // CÓMO CREAR UN FILTRO PARA INSTAGRAM | @pao_dearco
 
 # Paula Soret
 UxbiSlhxtTQ // Cómo diseñar filtros de Instagram - 4.1.Spark AR #cursoonline #sparkar #instagram
