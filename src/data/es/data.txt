@@ -173,6 +173,7 @@ oGq3d0Zp2RQ // CURSO SPARK AR STUDIO | Crear efecto Andy Warhol #22
 ujAchVcM-L8 // CURSO SPARK AR STUDIO | Elementos 3D en el espacio #23
 Ef3i_-Q40Zs // CURSO SPARK AR STUDIO | Animar elementos 3D #24
 GKrHYLEvzcE // CURSO SPARK AR STUDIO | Efecto Doble Luz #25
+UnmUZUL81Jg // EFECTO OJOS EYEBALL SHADERS | Crear efectos en los ojos #26
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -704,6 +705,7 @@ MF487Vxn2Es // ¡Cómo SUBIR los filtros a INSTAGRAM! | Pablo Hache
 
 # Paola De Arco
 gipKgSJJPr0 // CÓMO CREAR UN FILTRO PARA INSTAGRAM | @pao_dearco
+KL5nq1YnjbY // cómo crear un filtro de instagram parte 1
 
 # Paula Soret
 UxbiSlhxtTQ // Cómo diseñar filtros de Instagram - 4.1.Spark AR #cursoonline #sparkar #instagram
