@@ -37,7 +37,6 @@ v7S9lDahfAc // Reebok ZigKinetica Instagram Spark AR Game | Sneakers AR Game | R
 hgFEyjNJAA8 // Audi Q2 City Run Instagram Story AR Game: Luxury Car Brand Audi's Augmented Reality Game in Spark AR
 OiO0wqQeFfU // How to add an Instagram Filter Swipe Up Link to an IG Story if the filter approved on my IG account.
 em7mtLNennY // ICICI Bank Festive Bonanza Instagram Marketing Campaign: Instagram AR Filter to Discover Offers!
-ZxCTENZ7YDQ // 2020 in One Word Instagram Spark AR filter! Bye Bye 2020. Fun AR filter to say BYE to 2020! #AR
 
 # Amalia Dwi Ayu Sarjani
 dtcuRHPc3z4 // GLITTER EFFECT IN SPARK AR STUDIO
@@ -428,6 +427,7 @@ pZeEXISuH1o // Spark AR Mouth Patch - Dracula Teeth Example | eye color block (E
 w_1DjddP9D4 // Spark AR - How to use Custom Shader? Beginner Tutorial GLSL ➡️ SparkSL (EN Captions)
 KeKokfzRNnY // Storytelling with Instagram Filters | Spark AR Filters (EN Captions)
 kQW9gAq5L1E // Spark AR - Face Tracker and Plane tracker in one filter | Christmas (EN Captions)
+okCXySMuDK0 // Spark AR v 103 - Create your Portfolio | New Color Lut, Shader Preview and more (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -572,6 +572,9 @@ O7_vrZ3XOKg // ¿Cómo hacer filtros para INSTAGRAM con PROCREATE (o cualquier s
 # Laura Rodríguez
 bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
 
+# Lorraine Pinheiro Lopes
+0xRPI022yJE // Delineado no CANVA - Filtro de maquiagem - SPARK AR
+
 # Lucero corti
 xd5zTAvOm_U // FILTROS PARA INSTAGRAM 📱- Crealos y publicalos
 
@@ -660,6 +663,7 @@ TdbXOuFMPeM // Crea un filtro Kira Kira para instagram - Spark AR tutorial
 RayXo1aOtSw // Crea un filtro OUTLINE para Instagram
 _DvuMwTKJd4 // COMO HACER UN FILTRO CON IMAGENES GIRANDO ALREDEDOR DE LA CABEZA
 sJlsiVAPY04 // spark ar: WATCH ME WORK #1 poster edition
+NIh7cUPEYpY // Como crear un filtro multicolor
 
 # Mica Esquivel
 HFxTKnAAR5w // Como hacer filtros para Instagram | Crea y publica tus propios filtros | Filtro en Spark ar studio |
