@@ -387,6 +387,7 @@ dvijBshqbBo // Как создать простую маску для инста
 
 # effect.creator
 R7pW3wW8T_4 // Урок Spark AR Studio как сделать эффект M to the B для Instagram
+dscR5c3Lb4M // Time Warp Scan или Фильтр сканирования, искажения времени для Instagram. Урок Spark AR Studio.
 
 # Egor Novoseltsev
 qPhSSdYZW5Q // Как Создать Маску Для Instagram С Рандомной Музыкой В Spark AR и PhotoShop?
@@ -644,6 +645,9 @@ KN_30qKR6Uw // Как да си направим Instagram филтър | KRIS 2
 # Kristina Bekker
 3VcmT8AVvt8 // Augmented reality masks with trash
 _bm6wUqctkM // monster mask
+
+# Kuandyk Nuraiym
+sGcWhciaEwg // Как сделать фильтр Kira Kira в Spark AR/инста маска
 
 # LeraCatBlog
 9D5l0PV86Zs // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ / РАБОТА С SPARK AR / Делаем маску с рисунком и веснушками / УРОК 1
