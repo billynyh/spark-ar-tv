@@ -565,6 +565,7 @@ e_AS7XjjaCI // LR Preset to Instagram Story Filter using Spark AR
 f6urHpYklfY // Snow Effect in Spark AR Studio for your Instagram Filter! | Tutorial
 WM2nYGd_b0o // Outline Effect in Spark AR Studio for your Instagram Filter! | Tutorial
 6pMhDt2ePJ4 // New way to add LUTs in Spark AR Studio! | Create Instagram Filter
+-pIct71tU_M // Brighten up Eyes in Spark AR Studio! 👁  | Create your Instagram Filter
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1446,6 +1447,7 @@ xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spa
 3A_Yol78b5s // How to Create a 2D Game in SPARK AR | Nadia Wilson
 0fDqjzSxjrA // Realistic Eye Contacts For Instagram Filter | Spark AR | Nadia Wilson
 GLCMykyX2Iw // True or False Game Spark AR | Nadia Wilson
+HXFLLLCRN9s // Luts in Lightroom for Spark AR | Nadia Wilson
 
 # Nadiia Moore
 6On115zW4PE // MAKE YOUR OWN COOL INSTAGRAM FILTER // Moving Hearts From The Eyes When You Blink
@@ -1704,6 +1706,8 @@ lEvCRhEf8L4 // SPARK AR GAME | Catch Falling Item game template
 qIsR0XXhUzQ // SPARK AR BEAUTY | Glitter sparkle hair template
 Q_fqnjKp4QE // SPARK AR BEAUTY | Kira Kira glitter sparkle on hair template
 iUhV_Qi24UI // SPARK AR | PHOTOBOOTH Filter v2 | Infinite scroll effect ( photo booth Instagram filter )
+r2tZsO7Wn1o // SPARK AR | Faceless PATCH
+BHY6ojeWFQw // FIND MY FACE
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
