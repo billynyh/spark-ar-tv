@@ -174,6 +174,7 @@ ujAchVcM-L8 // CURSO SPARK AR STUDIO | Elementos 3D en el espacio #23
 Ef3i_-Q40Zs // CURSO SPARK AR STUDIO | Animar elementos 3D #24
 GKrHYLEvzcE // CURSO SPARK AR STUDIO | Efecto Doble Luz #25
 UnmUZUL81Jg // EFECTO OJOS EYEBALL SHADERS | Crear efectos en los ojos #26
+WaktVijc1u8 // CAMBIAR COLOR DEL PELO | Hair Segmentation #26
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -326,6 +327,7 @@ svVx0sREzyI // PIXELIZAR Filtro de Spark Ar
 qawB8FDEE78 // Filtro de DESENFOCAR FONDO o PERSONA en Spark Ar
 zdWoHiWmfdE // Crea tu filtro POLAROID Spark AR
 iTxFZ8X6HE0 // Filtro de Deformar la cara con Spark Ar
+1kjw0swb_ec // COMBINAR Face deform + Face mesh (Spark Ar)
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -430,6 +432,7 @@ w_1DjddP9D4 // Spark AR - How to use Custom Shader? Beginner Tutorial GLSL ➡�
 KeKokfzRNnY // Storytelling with Instagram Filters | Spark AR Filters (EN Captions)
 kQW9gAq5L1E // Spark AR - Face Tracker and Plane tracker in one filter | Christmas (EN Captions)
 okCXySMuDK0 // Spark AR v 103 - Create your Portfolio | New Color Lut, Shader Preview and more (EN Captions)
+EV4IFlySwf8 // Spark AR tutorial - Keyframe Patch & Spark AR Player Desktop (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
