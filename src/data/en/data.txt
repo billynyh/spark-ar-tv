@@ -431,6 +431,7 @@ PaxpPrStAdQ // Creating Difficulty / Options - Random Filter | Spark AR Studio
 tesc-ZaypiY // Preparing Audio for Spark AR - Formatting .m4a audio
 j5c_33Td154 // V98 - Hair Segmentation Overview | Spark AR Studio
 Yvll4lRMpFE // Hair Segmentation - Controlling Colours & Textures | Spark AR Studio
+LE1Fh7curaA // Spark AR Player Feature Spotlight | Spark AR Studio
 
 # CC in Tassie
 Zwqs8Tv54Vw // Blink of Eye Filter | Spark AR Beginner Tutorial
@@ -568,6 +569,7 @@ WM2nYGd_b0o // Outline Effect in Spark AR Studio for your Instagram Filter! | Tu
 -pIct71tU_M // Brighten up Eyes in Spark AR Studio! 👁  | Create your Instagram Filter
 Vr1AT4J0_go // Realistic Glitter Confetti in Spark AR Studio! | Create a Instagram Filter Tutorial
 xsXTMNhh-3g // Animated Fireworks Background in Spark AR Studio (Tutorial) | Instagram Filter creation!
+4xBnl8rNp5Q // Random Selector - "Which Are You" Filter in Spark AR Studio Tutorial | Create Instagram Filter
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -595,6 +597,7 @@ XFMXEEAY658 // 📱🤳How To Create Simple Instagram Filter 📸🖼️ Easy an
 # Dreadlabs
 H081L4FvohI // How to make a FACE TATTOO filter for INSTAGRAM in Adobe Photoshop & Spark AR Studio
 Z-r-jbziECs // How to upload your INSTAGRAM filter to Instagram or Facebook with Spark AR Studio
+XTyX3NbAsS4 // Creating a CHROME CHAIN Instagram Filter [Part 1]
 
 # DSC KIIT
 3rvX7FsmFI4 // AR Spark | How to make Instagram/Facebook stickers | DSC KIIT
@@ -1674,6 +1677,9 @@ ccqrxvm1aL4 // Gratitude | Facebook AR Hackathon | Prem Raval | Thank You Front-
 # primi
 u9wG1qnKEng // How to Create an Instagram Filter with Spark AR | Tutorial
 
+# Printful Custom Printing
+k-OidZdLQOQ // Marketing With AR Instagram Filters: Printful 2020
+
 # Pritesh Chitrode
 v4hFBwq3Fz0 // How to publish a Spark AR effect on our instagram account
 
@@ -2036,6 +2042,8 @@ k8j2oLtgJIE // Favourite Filters #6 | Instagram & Facebook | Spark AR Studio #sh
 KuQ1wR1w1xs // Favourite Filters #7 | Instagram & Facebook | Spark AR Studio #shorts
 Jj2OSCnf5JA // Static Text Approved for Filters | Instagram & Facebook | Spark AR Tutorial
 q5P1-CZceKg // Outline Segmentation Filter Effect (Colour Cycles Patch) | Instagram & Facebook | Spark AR Tutorial
+RZokQ72bi2Q // Thug Life Meme Filter Effect (Snoop Dogg, Null Object) | Instagram & Facebook | Spark AR Tutorial
+qPnzQQHIvrU // Favourite Filters #8 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
