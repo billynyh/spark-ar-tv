@@ -1678,6 +1678,8 @@ ccqrxvm1aL4 // Gratitude | Facebook AR Hackathon | Prem Raval | Thank You Front-
 u9wG1qnKEng // How to Create an Instagram Filter with Spark AR | Tutorial
 
 # Printful Custom Printing
+TH-TQxmx7sg // Custom All-Over Print Face Masks: Printful Showcase
+UoSivpTyGdE // Trending Print on Demand Products 2021
 k-OidZdLQOQ // Marketing With AR Instagram Filters: Printful 2020
 
 # Pritesh Chitrode
@@ -1761,6 +1763,7 @@ Fi7F9O1G3s4 // Spark AR Basic Tutorial: Person Segmentation plus Retouching
 i0cDDphSYvE // Spark AR Tutorial: Control you're Retouching with a Slider on Instagram with this simple Script
 JUPsPMMhPgU // How to create multiple UI Pickers in Spark AR
 wJ0ziZG5Be8 // How to Create Particle Fade Out Animation (Script v85+)
+SZca8QQRe_M // How to create an interactive animation in Spark AR
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
