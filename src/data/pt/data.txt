@@ -83,6 +83,7 @@ m4mArwylSZ0 // COMO FAZER FILTROS AESTHETIC PARA OS STORIES DO INSTAGRAM
 yfzWT-xNoNY // COMO CRIAR FILTROS QUE MUDAM A COR DO CABELO NOS STORIES DO INSTAGRAM
 _X6d76I0jVA // COMO CRIAR FILTROS DE BRILHO PARA OS STORIES INSTAGRAM
 aJhOEJEgZ3o // COMO FAZER UM FILTRO PRETO E BRANCO PARA OS STORIES DO INSTAGRAM + EFEITO POEIRA COM REGULADOR
+up9RPedRGds // COMO CRIAR FILTROS PARA O INSTAGRAM STORIES TEMÁTICO DE VERÃO
 
 # Catarina Unicórnio
 yJ7w569iSm4 // COMO CRIAR FILTROS PARA O INSTAGRAM
@@ -179,6 +180,9 @@ yFASe6zOpyY // Aprenda a fazer um efeito para o Instagram de forma prática util
 # Enrico Gamer
 dx_alS4lbOI // Como criar filtros e postar no Instagram!
 
+# Fabricio Info
+xt6kneElW7k // LUT (Presets) no SparkAr Juntamento com facemash
+
 # Fafa Morando Na Italia
 jp58u_rB59s // COMO CRIAR FILTRO NO INSTAGRAM
 IThxXh9jPMU // COMO SUAVIZAR A PELE NO SPARK AR
@@ -224,6 +228,8 @@ NEab7igea20 // Como mudar cor do cabelo do seu filtro do Instagram - Tutorial in
 cfKozPotnQY // Faça filtro de maquiagem para seu Instagram em 2 minutos - tutorial Spark AR
 nLb-6CeZ_o8 // How to use function patch to create a pixelated image. Spark AR Tutorial.
 uUXwARIkhOo // Como alterar cor dos olhos do filtro no Instagram (com template) - Tutorial Spark AR
+EC7j7LvwzP4 // Como criar filtros de realidade aumentada apontando para um alvo com target tracker - Spark AR
+nlYbLe31K0o // Using function patch to create copies of texture - Spark AR tutorials (English playlist)
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
