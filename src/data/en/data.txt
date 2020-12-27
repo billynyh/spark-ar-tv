@@ -773,6 +773,7 @@ YNYaypPKuWw // SparkSL Shader Tutorials - Part 4 - Swizzling
 j6Pa2vd8IsI // SparkSL Shader Tutorials - Part 5 - Functions
 PclV-tl0FwY // SparkSL Shader Tutorials - Part 6 - Namespaces
 ldyWhuiZVx0 // SparkSL Shader Tutorials - Part 7 - Arrays
+8-MYmmOVG2M // SparkSL Shader Tutorials - Part 8 - Sending Values to Shaders
 
 # Frédéric B.
 vd5CFqPmNLM // Create an Instagram Filter
@@ -1447,9 +1448,6 @@ SukmHPxR9GI // HOW TO CREATE DISCO LIGHT FILTER IN SPARK AR STUDIO | INSTAGRAM F
 g3JgJtYmDTU // Make Your Own Instagram Filter
 E8RTK7iAvf4 // multiple text filter for Instagram
 fpjKXYQPwks // make Instagram sparkle filter
-
-# MUDASSAR BRUH
-YDnSWFLzKjo // Publish Ur Instgram Filter Without Pc 😍🌏
 
 # Musiclick
 xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spark AR Studio
