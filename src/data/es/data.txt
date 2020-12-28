@@ -175,6 +175,7 @@ Ef3i_-Q40Zs // CURSO SPARK AR STUDIO | Animar elementos 3D #24
 GKrHYLEvzcE // CURSO SPARK AR STUDIO | Efecto Doble Luz #25
 UnmUZUL81Jg // EFECTO OJOS EYEBALL SHADERS | Crear efectos en los ojos #26
 WaktVijc1u8 // CAMBIAR COLOR DEL PELO | Hair Segmentation #26
+GtEYq6tdFrg // BLENDER & SPARK AR STUDIO | Trabajar con elementos 3D #28
 
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
@@ -328,6 +329,7 @@ qawB8FDEE78 // Filtro de DESENFOCAR FONDO o PERSONA en Spark Ar
 zdWoHiWmfdE // Crea tu filtro POLAROID Spark AR
 iTxFZ8X6HE0 // Filtro de Deformar la cara con Spark Ar
 1kjw0swb_ec // COMBINAR Face deform + Face mesh (Spark Ar)
+gBAEi5w28Wo // Combinar LUT + Face mesh + Retouch (Spark AR)
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -809,6 +811,9 @@ NSGeiCcZdCE // Spark AR Tutorial 5: Crear Efecto RGB
 0NWmoofAnwU // Spark AR Tutorial 6: Crear Efecto Pixels
 gz_xW2TXuSQ // Spark AR Tutorial 7: Crear Efecto OUTLINE
 FpdUH0zGaXo // Spark AR Tutorial 8: Como crear Efecto Clones
+
+# TranceCortz
+BcwkmkxRuDE // COMO crear FILTRO DE INSTAGRAM con PRESET de LightRoom
 
 # TrapdoorMx
 R7GZpaAoXeg // Como Hacer Filtro Básico Para Instagram / Spark Ar Studio
