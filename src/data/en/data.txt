@@ -295,6 +295,7 @@ NaChLFGwPgw // Spark AR Tutorial -  how to play sound on mouth open, a quick 5 m
 DfwNpWOCiTY // Spark AR Tutorial - How to add a Microphone with Audio Analyzer #bestbannersever
 qvkIt3RUR0c // Spark AR Tutorial - Particles from the open mouth (Vomit effect)  #bestbannersever
 EldRHWwtQMM // Spark AR Tutorial -  Zombie eyes aka Eyeball Shader or Texture  #bestbannersever
+sYxyUFENEbM // Spark AR Tutorial - Snowman Face with SnowFlakes using a block #bestbannersever
 
 # Bhabna Das
 cDwyq_HIQAo // How to make an Instagran Filter | Spark AR tutorial | Bhabna Das
@@ -571,6 +572,7 @@ WM2nYGd_b0o // Outline Effect in Spark AR Studio for your Instagram Filter! | Tu
 Vr1AT4J0_go // Realistic Glitter Confetti in Spark AR Studio! | Create a Instagram Filter Tutorial
 xsXTMNhh-3g // Animated Fireworks Background in Spark AR Studio (Tutorial) | Instagram Filter creation!
 4xBnl8rNp5Q // Random Selector - "Which Are You" Filter in Spark AR Studio Tutorial | Create Instagram Filter
+VucDJ5FOlkc // Face Tattoo + Face Mesh Assets | Spark AR Studio Tutorial - Create your own Instagram Filter
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)

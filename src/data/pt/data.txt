@@ -858,6 +858,7 @@ mdvp61MLUXg // Criando um filtro efeito VHS / Fita Cassete com LUT - Spark Ar St
 TvoQupr5cmg // Como criar seu portfólio de filtros - Spark Ar Studio Tutorial
 IVd3Q_XClu0 // Filtro Gorro de Natal e Neve Caindo - Spark Ar Studio Tutorial
 pAl8aHnXPEI // Textura / Logo / Imagem que distorce com o fundo - Spark Ar Studio
+dRARdSeDiWU // Usando duas imagens como alpha de uma textura - Spark Ar Studio
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
