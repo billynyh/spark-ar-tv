@@ -65,6 +65,9 @@ hMDqXWBAtMY // インタラクション効果をつけるPatch Editorについ�
 D9Dw4xKQxt4 // 光の反射とshaderの関係と、レイヤー、セグメンテーション - Spark ARの使い方 #4
 KDcRn-ItkDQ // 【ノーコード】NARUTOのカカシになれるインスタフィルターをつくる - Spark ARの使い方 #5
 
+# nocode Tノスケ
+o1MOSygGiIo // 誰でも10分でできる！インスタフィルターの作り方(Instagramエフェクト)
+
 # SUNABACO
 jE42a-uh-CI // FbやInstagramのカメラ機能をカスタムしよう！【Spark AR】
 

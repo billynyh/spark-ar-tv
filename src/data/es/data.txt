@@ -180,6 +180,9 @@ UnmUZUL81Jg // EFECTO OJOS EYEBALL SHADERS | Crear efectos en los ojos #26
 WaktVijc1u8 // CAMBIAR COLOR DEL PELO | Hair Segmentation #26
 GtEYq6tdFrg // BLENDER & SPARK AR STUDIO | Trabajar con elementos 3D #28
 
+# Cruzelvro
+dbWH7KsHL8k // COMO CREAR FILTROS FILTROS || FILTROS PARA INSTAGRAM || [Filtro De Color Y Face Mask] [Spark Ar]
+
 # Cybertutoriales
 -VLqitb7WRQ // Spark AR Studio - Iniciando - Interfaz de usuario + trayendo elementos a escena
 iv9kZ_0rTX0 // Spark AR Studio. Interacción con gestos del usuario y cambio entre efectos

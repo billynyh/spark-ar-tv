@@ -434,6 +434,7 @@ j5c_33Td154 // V98 - Hair Segmentation Overview | Spark AR Studio
 Yvll4lRMpFE // Hair Segmentation - Controlling Colours & Textures | Spark AR Studio
 LE1Fh7curaA // Spark AR Player Feature Spotlight | Spark AR Studio
 K_YPH6CT-SI // Working with Keyframe Patch | Spark AR Studio
+aQrxZaWECjg // Renderpass Splitscreen | Spark AR Studio
 
 # CC in Tassie
 Zwqs8Tv54Vw // Blink of Eye Filter | Spark AR Beginner Tutorial
@@ -472,6 +473,9 @@ rCaHRpIR8t4 // HOW TO ADD CONTACT LENS IN SPARK AR | fast&easy | Clara Ponesto
 LMYKGl98RHM // ✨ AQUARIUS INSTAGRAM FILTER ✨ + INTERESTING FACTS! | Clara Ponesto
 k19LOokJYm8 // FOXY EYE LOOK IG FILTER USING SPARK AR | Face Distortion "PLASTIC SURGERY" using SCULPTGL | EASY
 qkFd8Iq8zTM // HOW TO ADD LUT/PRESET + RETOUCH WITH SCULPTGL (DEFORMATION) EASILY!  on SPARK AR| Clara Ponesto
+
+# Clarry Matel
+iuZKeTGSbHw // How to Make Instagram Filter | Spark Ar Studio
 
 # CodeDay
 Ts1y3owGppI // Tech Talk: SparkAR Instagram Filters - Jacqueline Yang, Bailey Hirota, Carmen Wu
@@ -1943,6 +1947,9 @@ YsPMjUpW3mk // SPARKLE / GLITTER / KIRA KIRA + Colour Luts and Retouching Filter
 
 # SantoDoniaPhotography
 jxtJUwOQbk8 // How to Make Your Own AR Filter for Instagram (100 Gecs)!
+
+# Sarveer Sandhu
+I_11eIqmOdQ // how to use 3d animation objects for spark ar studio and for uploading on instagram, facebook
 
 # Science Museum of Virginia
 5-7ZrrigsV4 // Maker Mindset: SparkAR Tutorial
