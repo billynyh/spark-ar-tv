@@ -1776,6 +1776,7 @@ i0cDDphSYvE // Spark AR Tutorial: Control you're Retouching with a Slider on Ins
 JUPsPMMhPgU // How to create multiple UI Pickers in Spark AR
 wJ0ziZG5Be8 // How to Create Particle Fade Out Animation (Script v85+)
 SZca8QQRe_M // How to create an interactive animation in Spark AR
+sUdy6JoOfq0 // Spark AR Render Pass Scan Effect with Color Sampler
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -2370,6 +2371,7 @@ YG2YckIazWY // I built an Instagram filter for #teamtrees from scratch : 1 hour 
 # Virtual Art Space
 t2CM0nTGtLA // 5 SPARK AR HACKS IN 2 MINUTES
 fSo_o5D-1cU // UNBOXING MY SPARK AR CHAMPIONSHIP RING
+AibIMylQaBU // GET TRAVIS SCOTT IN YOUR HOME WITH THIS INSTAGRAM FILTER
 
 # Visual Content Creator
 lKPXSqz-at0 // Spark AR filters for Instagram Stories {Visual Content Creator Series} feat. Piotar Boa {Episode 2}

@@ -410,6 +410,7 @@ sV7XbDyr170 // How To Create Freeze Frame in Spark AR | Tutorial | Part 2
 498DBLgZnHs // How To Create Split Torn Paper with 2 Tone Color in Spark AR | Tutorial
 7w-b-_7B8Os // How To Create Photoboth/Polaroids Rectangle Fit All Device in Spark AR | Tutorial
 re3BJPgpQc8 // How to Create Paparazi Filter in Spark AR | Tutorial #1
+37FK6b2XZEA // How To Create Face Mesh (.obj) File for your Spark AR Filter
 
 # DEWA KAWE
 iNWbJ_ajjQA // Cara buat filter instagram sendiri,box logo diwajah | SPARK AR STUDIO
@@ -1610,6 +1611,7 @@ YWTpjY6GGZ8 // Freeze Line - Spark AR Studio - [ Tutorial ]
 kOPOAp0eqrI // Spotify Music Player - Spark AR Studio - [ Tutorial ]
 uLnSDFZw46A // Review Spark AR Versi 103 - [ review ]
 2CqR8OCZJpM // Projector Distortion - Spark AR Studio - [ Tutorial ]
+dckCCENQ7cU // Cara membuat filter "FLASH WARNING" Spark AR Studio - [ Tutorial ]
 
 # Ryansyafad
 KczIPuIQKtE // Cara membuat filter Instagram | Pakai HP | SPARK AR | GAMPANG BGT!!!
@@ -1841,6 +1843,7 @@ V0kV8F6Vp6A // PART II. CARA MENGUPLOAD FILTER KE INSTAGRAM. MUDAH!!!!!
 
 # Trik Media Hack
 R78_AfjTdFE // Cara Buat Filter instagram TERBARU!!!!  2020 - Spark Ar Tutorial Indonesia
+_r-xwS0Wj_w // Cara Buat Filter Instagram Musik Ter-Simple ~ Tutorial Spark Ar Indonesia
 
 # TuPAY by BISA AI
 -8zujSSsiEc // Tutorial Membuat Filter Instagram  (Ichsan Eka Pratama  Video Editor BISA AI )
@@ -1897,6 +1900,7 @@ oTEM9rs9NlE // CARA SIMPEL CUT MUSIK, CONVERT DAN MASUKIN KE SPARK AR STUDIO
 S9K60OLD8YI // 44 MENIT - FULL VIDEO BIKIN FILTER INSTAGRAM.
 BK93MCoZ2sA // HOW TO DELAY IN SPARK AR STUDIO
 KE1swjhNXjc // HOW TO MAKE INFINITY FRAME IN SPARK AR STUDIO
+GNeKBzBHFBg // CARA BIKIN FILTER ANIMATION SEQUENCE DI SPARK AR STUDIO
 
 # Wiwin Tri sofi
 GT4wKmfNZJg // Tutorial membuat filter Instagram pakai HP dengan mudah
@@ -1946,6 +1950,7 @@ koPB4L8MKIQ // CARA MENAMBAHKAN FILTER TERBARU DORAEMON DI INSTAGRAM
 
 # Yoga Dimas Pamungkas
 bRSmW1Fge7c // Cara Buat Filter Instagram Fisheye [Spark Ar]
+tM2bfvASna8 // Cara Buat Filter Instagram Noise / Grain [ Spark Ar ]
 
 # YOLA AGUSTIANA
 jyeUtf_s_U4 // BUAT FILTER DI INSTAGRAM! MUDAH BANGET
