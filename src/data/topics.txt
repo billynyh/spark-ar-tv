@@ -29,8 +29,8 @@ zG5PA3lODsU // AR Spark | Playing with some 3d models in AR Spark for a Facebook
 5PE97tjLqh4 // How To Rig Your Own 3D Model For SparkAR using Cinema4D
 G7V0nOhKuAk // How to rig your own 3D model for SparkAR in Blender 2.8
 YsBTcn36a1A // Cómo hacer filtros en instagram Tutorial Spark AR | Objetos 3D
-z-30w6mVaA8 // [ 3D SCULPTING IN FORGER APP (iPad) ] Dr. Stone Suika mask modeling. PART 2 (NOT TUTORIAL)
-U5m2_3SX0zE // [ NOOB UV MAPPING TUTORIAL - BLENDER 2.8 ] adding Color to 3D models
+z-30w6mVaA8 // 3D SCULPTING IN FORGER APP (iPad)- Dr. Stone Suika mask modeling. PART 2 (NOT TUTORIAL)
+U5m2_3SX0zE // HOW TO UV MAP - BLENDER 2.8- adding Color to 3D models, for SparkAR
 _7grT2XOlcc // Spark AR Neck Bending | Bones & Rigging Blender
 qzv3U4fcSjo // КАК СДЕЛАТЬ МАСКУ С 3D МОДЕЛЬЮ  В ИНСТАГРАМ | 3D МОДЕЛИ в SPARK AR | Daria Tsvet
 rkGyndJiR4s // Crea Filtros Para Instagram Con Modelos 3D (Daft Punk)
@@ -149,7 +149,7 @@ RapfrXtyliU // Spark AR tutorial: Create filter effect with Face mesh,  Retouchi
 d1_IFyIKy-w // Realistic glitter makeup mask in Spark AR
 d789vqCo_-A // Johanna Jaskowska uses Spark AR Studio to re-imagine beauty
 5iBG-RVwDEc // Spark AR Studio - Gold Tutorial : How To Make Gold ?
-y_-NUYh00I8 // #4 Tutorial Como criar filtros de maquiagem? Makeup Instagram Filters | Spark AR Brasil
+y_-NUYh00I8 // COMO CRIAR FILTROS DE MAQUIAGEM | POR JULLIANA.DEV
 MX-0FdVgEtw // Spark AR Studio Filtros Instagram - Como Trocar Cor de Batom #SparkAR #Instagram #Tutorial
 dPCpUNwDqcY // SPARK AR LIPSTICK FACE FILTER
 0sZGiUjRPdY // MAKE YOUR OWN MAKEUP INSTAGRAM FILTER // LEARN SOMETHING
@@ -258,7 +258,7 @@ neI8YTcJGqI // КАК СДЕЛАТЬ МАСКУ KIRA НА БЕЛОМ+LUT/ГЛИ�
 a0lrNep4yQo // Spark Ar Tutorial  -Show effect only on Shadows / Midtones / Highlights + Image sequence
 n4A5nFxZWis // КАК СДЕЛАТЬ ГЛИТТЕР С ТЕКСТУРОЙ ТОЧЕК?АНИМАЦИЯ PNG.SPARK AR
 0KunK6XYzCs // Как Сделать Маску в Инстаграм за 5 минут! Анимированные Маски, блестки и в стиле kira kira
-l2SU2pCEVUY // Como Fazer O Efeito Kira Kira | Spark AR Brasil @julliana.dev #kira #kirakira #bling
+l2SU2pCEVUY // COMO FAZER P EFEITO KIRA KIRA | POR: JULLIANA.DEV
 OLPJ3UNH-rE // spark ar / how to make kira-kira / как сделать киру киру
 nK1I-HutyFg // КАК СДЕЛАТЬ RETOUCH+Глиттер, KIRA/Spark AR
 -_6t80zdEE0 // 18 урок Spark AR Studio. Маска-эффект Кира-Кира
@@ -361,7 +361,7 @@ qoMGTHiZnc0 // Spark AR Lut Retouch Dust | Spark AR tutorial
 DSw6ck06_2k // Spark AR studio  урок ПРЕСЕТ РЕТУШЬ и МАКИЯЖ/ tutorials filter retouch makeup
 Qol4ZNbOvYw // Tutorial - Retoque na pele do Rosto "Retouching" no Spark Ar
 fRbtF4hZhOE // THUTORIAL #001 - FaceMesh / Retouch / LightLeak [Spark AR Filter] (German Tutorial)
-wEhVNlvDiVE // Пластика лица. Face Distortion and Retouching. Создание маски для Instagram с помощью Spark AR
+wEhVNlvDiVE // Пластика лица. Face Distortion & Retouching. Создание маски Instagram с помощью Spark AR. ENG SUB.
 SNytCM8kUns // Spark AR: LUT + Retouch + Color Adjustments. 2 Native UI Pickers + Slider
 eEDFWawsb_Y // Bikin Filter Instagram Lut + Retouching bisa?! | spark ar tutorial indonesia
 oHikGjGZmCo // Spark AR Tutorial: LUT + ретушь/LUT + retouch
@@ -521,7 +521,7 @@ DIJViPfRDzk // SPARK AR TUTORIAL | Hair segmentation - cara bikin filter gonta g
 c-cFacCpEjM // Урок 4-Как изменить цвет волос в маске инстаграм Spark AR.How to change hair color in Instagram v.98
 _slYBi8dUG4 // Aesthetic ll Tutorial Filter Instagram Hair Color , Makeup  (part 3)
 RuXuqjfYeIA // Cara Membuat Filter Instagram Hair Color Kekinian (part 4)
--5RO-fxBuKg // SPARK AR Tutorial | Haarfarbe ändern in Deinen Instagram Filter + Glitzer Effekt
+-5RO-fxBuKg // SPARK AR Tutorial | Haarfarbe ändern mit einem Instagram Filter + Glitzer Effekt
 P0gEWdGrVIs // Как сделать волнистые (кудрявые) волосы в Spark AR? Готовый проект. Сurly hair - Spark AR project.
 iJaKM3ausdI // Glitter, Sparkles, Kira Kira on Hair Instagram Filter in Spark AR
 _Ie1G8kQKqc // Hair Color Segmentation Filter Instagram | SPARK AR TUTORIAL INDONESIA
@@ -535,7 +535,6 @@ d-h3YkNdGDE // KENDİ INSTAGRAM FİLTRENİ YAP ! | Spark AR ile Joker Filtresi
 FYOOmpRtpfs // Spark AR Face Deformation & 3D Face Mesh | Especial de Halloween
 xwrf8Z4S0xo // КАК СДЕЛАТЬ МАСКУ ДЖОКЕРА В Spark ar| Joker spark ar studio|HALLOWEEN MASK
 9aRAW83k0Pk // 10 Filtros de Halloween que debes probar 2019 - Spark AR
-btiferIzGiU // İnstagram Filtresi Nasıl Mı Yapılır ? (JOKER FİLTRESİ YAPTIM) #İNSTAGRAM #JOKER
 YblocgdB7w8 // Face Mask Halloween - Spark AR Studio - [ Tutorial ]
 xTlEWNqF-B4 // "Birds of Prey" fan-art filter for Instagram, Harley Quinn style. Speed-paint in Spark AR.
 kHdFvwnB_iY // Make filter Instagram Harley Quinn | Spark AR
@@ -592,7 +591,6 @@ OGzufM-j3zw // MAKING MY OWN INSTAGRAM FILTERS | SPARK AR TUTORIAL | HOW TO MAKE
 dlKdDYiodC8 // Review filter Instagram terbaru! Cobain 35+ filter instagram terbaru ku
 RMmKFpIbsgc // Funny Face! Bagi bagi filter Instagram gratis! - Spark AR Project
 BjhPW9QnNhA // Cara upload filter buatan kita ke Instagram sendiri - Spark AR Project
-qGTQkoDL-DM // как сделать маску и пресет в spark ar hub🖇️/cinnthux
 xfdYw83YOXU // COMO FAZER FILTRO PRO INSTAGRAM E FACEBOOK
 SBNRA-2F_qM // как сделать маску в инстаграм за 15 минут | #zzzeka
 zfvmn6Iz4C8 // COMO FAZER FILTROS PARA O INSTAGRAM!
@@ -963,7 +961,6 @@ eysrVgdPFD0 // Tutorial - Spark Ar - How to use Persistence module ? - Flamingo 
 -NcY9njbivw // CARA MEMBUAT FILTER INSTAGRAM | Di HP Android dengan Picsart Efek Filter Wajah Part 2
 3CzKJxsnjj8 // Cara bikin instagram filter BT21 di Picsart | modal HP aja ! #Part1
 nqncXtofMa4 // How I created my very own instagram filter with picsart!(easy and simple)
-x1hNDJW-qWI // how to own instagram effect ? | PicsArt + Spark Ar 🔥
 Hb1LDhDyZTM // Cara membuat filter instagram TERGAMPANG! Pakai HP! (Make up - SparkAr & PicsArt) #Part1
 CcWgEgvMeL4 // CARA BUAT FILTER WAJAH DAN WARNA INSTAGRAM - di HP Android Picsart dan Lightroom Paling Simple
 St7ond-pW7M // Cara Buat Filter Tatto Instagram Cuma Dari Picsart Part 1 ( About Picsart)
@@ -1201,7 +1198,7 @@ tcMQa3TEYmQ // Vertex Displacement Spark AR | Custom Shader
 eDLvXDEK7us // Уроки Spark AR Studio. Смена эффекта по Тапу (Screen Tap).  Цвет губ. Маски в Инстаграм
 0bO1zazFUsM // Spark AR Studio. Смена объектов по Тапу (Screen Tap). Маски в Инстаграм. Маска на два лица!
 e6QdecFqUCA // Spark AR Tap to Change
-O3-c0c8XJWQ // #3 Tutorial Filtros com Toque para Alterar - Tap to Change | Spark AR Brasil
+O3-c0c8XJWQ // TUTORIAL TOQUE PARA ALTERAR - PARTE 1 | POR: JULLIANA.DEV
 G38CHTTKUxA // Spark AR Tutorial: Screen Tap experiencia
 JahuumWeWbI // Tap to change / Add instructions - Spark AR beginner tutorial
 yn3tzPMo0OY // Spark AR Studio Filtros Instagram - Trocando óculos com tap na tela #SparkAR #Instagram #Tutorial

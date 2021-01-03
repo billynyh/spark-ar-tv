@@ -218,11 +218,7 @@ cGBLSqYuXZA // Como adicionar óculos 3d ao seu filtro - tutorial Spark AR
 OPgPIK3upZc // Question game filter for Instagram - Spark AR Tutorials
 VUGgZbhMv9M // 50 Tons de batom - tutorial filtro para instagram com Spark AR usando script
 Ln7oSTTyI5I // Rosto corado e blush para seu filtro do Instagram e Facebook - Tutoriais Spark AR
-kLRLlA3_bQg // Aula 01 - Instalação e introdução ao Spark AR
 wrmEukxJT2I // How To Install and Use Spark AR Toolkit For Blender
-aIu2wnseNlY // Aula 02 - Minicurso Meu Primeiro Filtro - Filtro de cor vintage
-327DrOHKEqM // Aula 04 - Finalizando o filtro do IT
-nQHeZox2hKU // Inscrições aberta para o curso de produção de filtros
 NEab7igea20 // Como mudar cor do cabelo do seu filtro do Instagram - Tutorial iniciante Spark AR
 3OUF-0wjMno // Inserindo e manipulando objeto 3D com plane tracker  - Tutorial Spark AR
 cfKozPotnQY // Faça filtro de maquiagem para seu Instagram em 2 minutos - tutorial Spark AR
@@ -232,6 +228,7 @@ EC7j7LvwzP4 // Como criar filtros de realidade aumentada apontando para um alvo 
 nlYbLe31K0o // Using function patch to create copies of texture - Spark AR tutorials (English playlist)
 oH_yb_uohJo // Como fazer objetos responderem ao toque no seu filtro (object tap) - tutorial Spark AR
 twfyEYncZOg // Fogos de artifício (filtro especial de fim de ano)- Tutorial Spark AR
+iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorials (English Tutorial)
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -249,9 +246,6 @@ JkYprPrnsJI // 😱COMO CRIAR  FILTRO NO INSTAGRAM FRASE (Spark + Paint.Net) Mui
 Vi-Rer82NvY // SPARK AR  Filtros para Instagram - Crea un fondo fácil #Filtrosparainstagram #Background
 IDfr_LL6u94 // Filtro Instagram Blink Emojis, When Open the Mouth and #Blinks
 
-# gcguui
-_mBtVNfg21k // Criando Filtro-Spark Ar
-
 # Gean cg
 AGuP4L3Y4FA // Spark AR - Custom gallery texture on 3D model
 
@@ -264,7 +258,7 @@ zfvmn6Iz4C8 // COMO FAZER FILTROS PARA O INSTAGRAM!
 # HenriqueTutoriais
 f2E8cUmYigA // Como criar FILTROS para INSTAGRAM, de um Jeito bem FÁCIL!
 
-# idel Sparkar
+# Idel Filho
 UcSRFvTmLHU // COMO AFINAR O NARIZ SEM DEFORMAÇÃO SPARK AR PORTUGUÊS
 
 # Isabella Antônia
@@ -396,9 +390,6 @@ k0xcnjCu0m0 // Spark AR e a Realidade Aumentada
 # Luli Sams
 AcTTesPnvuQ // COMO CRIAR FILTROS PARA O INSTAGRAM | FAÇA SEU PRÓPRIO FILTRO
 
-# Luísa Rickli
-6X39qZIXPS4 // como usar um face tracker no SparkAR :)
-
 # Marketing Flamejante
 njmfGzdlXqc // Spark AR Studio | Tour para iniciantes na plataforma
 
@@ -524,7 +515,7 @@ H6hrRwNpsBk // Tutorial Spark AR - Aplicando Óculos com Head Occluder
 # Roger Souto
 W8InS6Ds7o8 // Como FAZER filtro PARA o INSTAGRAM? (Para iniciantes )
 
-# rvmusicom
+# Rubens Lyra
 FMYx5f7iYOI // Como Remover Meus Filtros do Instagram
 
 # Samuel Brasileiro
@@ -543,18 +534,19 @@ wEhjHBUTtQw // CRIANDO FILTRO PARA INSTAGRAM EM 5 MINUTOS!!!! SUPER FÁCIL
 # Sol Fernandes
 fTKSg2kxfy8 // Como fazer seu próprio filtro  para o Instagran?
 
-# Julliana Spark AR Brasil
-7-czdbwKNqk // #1 Tutorial Filtro de Luzes Coloridas | Spark AR Brasil
-gJ_gu-4QqAg // #2 Tutorial Fixar Objeto na Cabeça + Publicando seu Filtro no Facebook | Spark AR Brasil
-7HgY3wrwK24 // #1 Dúvidas Como criar / publicar filtros no Instagram? LEIA A DESCRIÇÃO | Spark AR Brasil
-O3-c0c8XJWQ // #3 Tutorial Filtros com Toque para Alterar - Tap to Change | Spark AR Brasil
-y_-NUYh00I8 // #4 Tutorial Como criar filtros de maquiagem? Makeup Instagram Filters | Spark AR Brasil
-LrxVSeed7lA // #2 Dúvidas Como publicar filtros no Instagram? VERSÃO SEM ÁUDIO | Spark AR Brasil
+# Spark AR Brasil
+7-czdbwKNqk // TUTORIAL LUZES COLORIDAS NO ROSTO | POR JULLIANA.DEV
+gJ_gu-4QqAg // COMO FIXAR OBJETOS NA CABEÇA + PUBLICAR NO FACEBOOK | POR JULLIANA.DEV
+7HgY3wrwK24 // COMO CRIAR FILTROS PARA O INSTAGRAM | POR JULLIANA.DEV
+O3-c0c8XJWQ // TUTORIAL TOQUE PARA ALTERAR - PARTE 1 | POR: JULLIANA.DEV
+y_-NUYh00I8 // COMO CRIAR FILTROS DE MAQUIAGEM | POR JULLIANA.DEV
+LrxVSeed7lA // COMO PUBLICAR SEUS FILTROS NO INSTAGRAM | VERSÃO SEM ÁUDIO | POR JULLIANA.DEV
 KGWAvFbCGVo // Spark AR Studio - Glitter (Edge e Light Detection similar ao KiraKira+) - Por @julliana.dev
-l2SU2pCEVUY // Como Fazer O Efeito Kira Kira | Spark AR Brasil @julliana.dev #kira #kirakira #bling
+l2SU2pCEVUY // COMO FAZER P EFEITO KIRA KIRA | POR: JULLIANA.DEV
 P3pg_rfHjMM // O QUE EU PRECISO PARA CRIAR FILTROS PARA O INSTAGRAM? | POR: JULLIANA.DEV
 V0hl2jUMHeQ // PARTÍCULAS QUANDO ABRE A BOCA E PISCA OS OLHOS | POR JULLIANA.DEV
 S3SxNorpMFs // COLOCANDO VÍDEOS NA PREVIEW (DEMONSTRAÇÃO) DO SPARK | POR JULLIANA.DEV #1
+H2m_KSE88vE // FILTROS DE CHROMA KEY + PATCH GRATUITO | POR JULLIANA.DEV #2
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!

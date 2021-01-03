@@ -31,10 +31,8 @@ F_l77kq9ois // Come ho Creato il filtro instagram a Valentina Vignali
 tkH8n0Y5ECE // COME CREARE E PUBBLICARE UN FILTRO INSTAGRAM TUTORIAL GUIDA SPARK AR ITALIANO
 hgU9orx2kZw // COME CREARE UN FILTRO SNAPCHAT TUTORIAL GUIDA LENS STUDIO ITALIANO
 SigHL7GwDCI // COME CREARE UN FILTRO TIK TOK TUTORIAL GUIDA ITALIANO
-iWD7JA8vg3g // COME PUBBLICARE  O CREARE UNA GIF PER  STORIES INSTAGRAM IN MENO DI 3 MN TUTORIAL ITALIANO GUIDA
 4Nq9ByiEoUs // COME CREARE O USARE UN FILTRO PINTEREST
 zLRm0mjKE5k // TRAILER SPARK AR
-EkKTXuqtyTs // COME CREARE GLI OCCHI DA DEMONE PER FILTRI INSTAGRAM SPARK AR TUTORIAL GUIDA ITALIANO
 wxwOjzbYQIM // Come Creare Filtri TIK TOK su INSTAGRAM
 KqvfiGmTR5M // COME INSERIRE UN ADMIN PER UN FILTRO INSTAGRAM
 
@@ -117,7 +115,6 @@ ViDXHCFYUVw // How to Make Superhero MASK for Cosplay - VERY EASY AND CHEAP
 -J4y0M_pUEU // Come Realizzare Filtri Personalizzati per Instagram (PARTE 1/2)
 8j_eUBtkmzc // Come Realizzare Filtri Personalizzati per Instagram (PARTE 2/2)
 _br6AZpCHAw // Come Realizzare Filtri “QUALE PERSONAGGIO SEI?”/DOMANDE Immagini Casuali Instagram
-uBKURaxGeAU // EMITTER OCCHI + Come Utilizzare MUSICA nei Filtri Instagram (SPARK AR STUDIO)
 
 # LUCA
 7ITAKZuELAU // Come Creare Filtri Per Instagram e Facebook In 3 Minuti Filtro Per Instagram
@@ -150,7 +147,7 @@ WKkoCfQbhmA // Spark Ar Tutorial - GLITCH and CLONE effect using Patch editor
 LerynHPdjaA // Spark Ar Tutorials: How to fake synch Music to your instagram filters - Natived Filters Laboratory
 R1nBVAUbEM0 // Spark Ar Tutorial - Multiple user segmentation - Replace background
 a20kSlcWJYE // Spark ar studio - Your first filter! FULL PROCESS tutorial
-o1Gcw_bfEpI // Spark Ar tutorial - Pixelate every image! Custom Pixels
+o1Gcw_bfEpI // Spark Ar tutorial - Pixelate shader patch
 ggaYc20k1O4 // Spark ar studio tutorial - Add Sounds and Music - Tap to activate!
 _7rqH3dxYQ0 // Spark Ar Tutorial - texture distortion with custom image textures - Camera distortion - Deformation
 ZmY3cB2uuk4 // Spark Ar Tutorial - OUTLINE EFFECT - EDGE DETECTOR
@@ -183,7 +180,7 @@ bBPJpDfmxOw // Spark Ar Studio - Face Distortion Pack [FREE TEMPLATE]
 pXxkyjxYVJ0 // Spark ar studio - Mix patch - Color Filter Tutorial
 Hqy_E5KYg7k // Spark Ar Studio - Dynamic Glitch Tutorial
 gkZuvxNbCdw // Spark Ar studio - Hair segmentation tutorial [FREE TEMPLATE]
-M6H5qn8qzJU // Spark Ar Studio | Easy Fish Eye Tutorial | FREE TEMPLATE
+M6H5qn8qzJU // Spark Ar Studio | Easy Fish Eye Fisheye Tutorial | FREE TEMPLATE
 NYTGehvt-Zg // Spark Ar - Random color filter tutorial
 T9dDX-LcM0M // Spark Ar - Multiple effect on/off tutorial | FREE TEMPLATE
 6cUJYsZlwQ4 // Spark Ar Studio - SDF's Psychedelic pattern | Free Download
@@ -197,9 +194,6 @@ TXtV8VaLFpg // Come ho creato 5(+1) FILTRI INSTAGRAM in 5 giorni
 
 # Pentaprisma
 s54d-zZ6hoA // Spark AR Tutorial - Come creare domanda con risposta multipla
-
-# ProgrammerLife
-98TzgX_mSLo // Come creare filtri INSTAGRAM in pochi minuti (metodo facile e veloce)
 
 # Rachele Stevanato
 4Ve7-4q35Pg // Come creare FILTRI INSTAGRAM personalizzati
@@ -231,6 +225,9 @@ Qfk8eqJ9aos // COME CREARE UN FILTRO BASE PER INSTAGRAM - how to create a basic 
 
 # SPSDesign
 6MbqtHRpv2g // SparkAr - VinRuscDay Filter
+
+# tecnomatto
+98TzgX_mSLo // Come creare filtri INSTAGRAM in pochi minuti (metodo facile e veloce)
 
 # The Puggers
 MAffIl3LEuE // Primi Passi con Spark AR: Creiamo un filtro Instagram (Parte 1)
