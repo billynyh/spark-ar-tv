@@ -21,3 +21,6 @@ KH_GOa8ymy4
 NP-I1joAD1M
 l7o7ZP9Nhew
 https://www.youtube.com/watch?v=UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
+https://www.youtube.com/watch?v=nLb-6CeZ_o8 // How to use function patch to create a pixelated image. Spark AR Tutorial.
+https://www.youtube.com/watch?v=iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorials (English Tutorial)
+https://www.youtube.com/watch?v=nlYbLe31K0o // Using function patch to create copies of texture - Spark AR tutorials (English playlist)

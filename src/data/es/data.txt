@@ -336,6 +336,7 @@ zdWoHiWmfdE // Crea tu filtro POLAROID Spark AR
 iTxFZ8X6HE0 // Filtro de Deformar la cara con Spark Ar
 1kjw0swb_ec // COMBINAR Face deform + Face mesh (Spark Ar)
 gBAEi5w28Wo // Combinar LUT + Face mesh + Retouch (Spark AR)
+eijoHm44LEs // Animación de Mariposas en Spark Ar - Añadir vídeo mp4
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español

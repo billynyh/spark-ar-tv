@@ -710,15 +710,8 @@ woc5UtOZtfk // Intro Tutorial to Spark AR for Creating Instagram Story Filters
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
 
 # Filtersland
-NEab7igea20 // Como mudar cor do cabelo do seu filtro do Instagram - Tutorial iniciante Spark AR
-3OUF-0wjMno // Inserindo e manipulando objeto 3D com plane tracker  - Tutorial Spark AR
-cfKozPotnQY // Faça filtro de maquiagem para seu Instagram em 2 minutos - tutorial Spark AR
 nLb-6CeZ_o8 // How to use function patch to create a pixelated image. Spark AR Tutorial.
-uUXwARIkhOo // Como alterar cor dos olhos do filtro no Instagram (com template) - Tutorial Spark AR
-EC7j7LvwzP4 // Como criar filtros de realidade aumentada apontando para um alvo com target tracker - Spark AR
 nlYbLe31K0o // Using function patch to create copies of texture - Spark AR tutorials (English playlist)
-oH_yb_uohJo // Como fazer objetos responderem ao toque no seu filtro (object tap) - tutorial Spark AR
-twfyEYncZOg // Fogos de artifício (filtro especial de fim de ano)- Tutorial Spark AR
 iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorials (English Tutorial)
 
 # Firus Hanov
@@ -2079,6 +2072,7 @@ q5P1-CZceKg // Outline Segmentation Filter Effect (Colour Cycles Patch) | Instag
 RZokQ72bi2Q // Thug Life Meme Filter Effect (Snoop Dogg, Null Object) | Instagram & Facebook | Spark AR Tutorial
 qPnzQQHIvrU // Favourite Filters #8 | Instagram & Facebook | Spark AR Studio #shorts
 IS3o1EHezCE // Convert Audio to M4A for Filter Effects | Instagram & Facebook | Spark AR Tutorial
+ntIXsHtHA0I // They Ask How You Are Meme Filter (Katy Perry, Luminance) | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

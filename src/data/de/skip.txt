@@ -43,3 +43,6 @@ https://www.youtube.com/watch?v=xdLIF7XACL4 // How to create a green screen effe
 i0cDDphSYvE
 JUPsPMMhPgU
 wJ0ziZG5Be8
+https://www.youtube.com/watch?v=sUdy6JoOfq0 // Spark AR Render Pass Scan Effect with Color Sampler
+https://www.youtube.com/watch?v=SZca8QQRe_M // How to create an interactive animation in Spark AR
+

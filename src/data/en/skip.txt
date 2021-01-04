@@ -235,3 +235,11 @@ https://www.youtube.com/watch?v=NuTJ3r-iHvU // Spark AR Vídeos PT - Maquiagem S
 https://www.youtube.com/watch?v=ZEJ3pc7Nr64 // Spark AR Vídeos PT - Jogo Simples Usando o Patch Editor!
 https://www.youtube.com/watch?v=Ud0eQakUjJY // Spark AR Filtro Borboletas (Animações + Blush + Sardas) - parte 1
 https://www.youtube.com/watch?v=ZS8xSOB9Slc // Spark AR Vídeos PT - Filtro para o Instagram com borda colorida!
+https://www.youtube.com/watch?v=3OUF-0wjMno // Inserindo e manipulando objeto 3D com plane tracker  - Tutorial Spark AR
+https://www.youtube.com/watch?v=NEab7igea20 // Como mudar cor do cabelo do seu filtro do Instagram - Tutorial iniciante Spark AR
+https://www.youtube.com/watch?v=cfKozPotnQY // Faça filtro de maquiagem para seu Instagram em 2 minutos - tutorial Spark AR
+https://www.youtube.com/watch?v=EC7j7LvwzP4 // Como criar filtros de realidade aumentada apontando para um alvo com target tracker - Spark AR
+https://www.youtube.com/watch?v=twfyEYncZOg // Fogos de artifício (filtro especial de fim de ano)- Tutorial Spark AR
+https://www.youtube.com/watch?v=uUXwARIkhOo // Como alterar cor dos olhos do filtro no Instagram (com template) - Tutorial Spark AR
+https://www.youtube.com/watch?v=oH_yb_uohJo // Como fazer objetos responderem ao toque no seu filtro (object tap) - tutorial Spark AR
+
