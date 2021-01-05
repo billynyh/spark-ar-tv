@@ -226,6 +226,7 @@ uUXwARIkhOo // Como alterar cor dos olhos do filtro no Instagram (com template) 
 EC7j7LvwzP4 // Como criar filtros de realidade aumentada apontando para um alvo com target tracker - Spark AR
 oH_yb_uohJo // Como fazer objetos responderem ao toque no seu filtro (object tap) - tutorial Spark AR
 twfyEYncZOg // Fogos de artifício (filtro especial de fim de ano)- Tutorial Spark AR
+4FbpUU_b22U // Como utilizar o sistema de partículas (emissor) no seu filtro do Instagram - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -544,6 +545,8 @@ P3pg_rfHjMM // O QUE EU PRECISO PARA CRIAR FILTROS PARA O INSTAGRAM? | POR: JULL
 V0hl2jUMHeQ // PARTÍCULAS QUANDO ABRE A BOCA E PISCA OS OLHOS | POR JULLIANA.DEV
 S3SxNorpMFs // COLOCANDO VÍDEOS NA PREVIEW (DEMONSTRAÇÃO) DO SPARK | POR JULLIANA.DEV #1
 H2m_KSE88vE // FILTROS DE CHROMA KEY + PATCH GRATUITO | POR JULLIANA.DEV #2
+IaP88ZO3Tng // FILTRO DE LUT (PRESET) e KIRA KIRA (SPARKLES) | POR JULLIANA.DEV
+kw2Z283YEf4 // TEXTO NEON NO PHOTOSHOP PARA USAR EM FILTRO NO SPARK AR | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
