@@ -889,6 +889,7 @@ AKS6m_uxgFI // Создание масок инстаграм. Урок 7 - па
 vEINzZNT0QY // Создание масок инстаграм. Урок 8 - деформация. Как сделать маску с увеличением губ и глаз
 WJ7nR4Du_yQ // Как сделать 3д модель для маски инстаграм. How to make a 3d model for Spark AR
 joQLhfiuFik // Создаю 3Д логотип в Maya для Spark AR. Create a 3D logo in Maya for Spark ar
+H91N5fEYjV8 // Создаем 3D стразы в Maya для Spark AR
 
 # ondrey
 NFgBgj_aTcc // SPARK AR для любознательных птенцов(Создание маски для инсты).
@@ -1200,6 +1201,7 @@ QIpWDcWXlGM // РИСУЕМ ИДЕАЛЬНЫЕ СТРЕЛКИ+ РАБОТАЕМ 
 ezIxwjRIyyM // БЛЕСТЯЩАЯ АНИМАЦИЯ НА ВОЛОСАХ/SPARK AR
 kY0FFGffiA0 // КАК СДЕЛАТЬ ЗАДЕРЖКУ КАДРА/SPARK AR/RENDER PASS/DELAY
 R3uwPYhKtB0 // GLITTER on HAIR/ ГЛИТТЕР на ВОЛОСАХ. SPARK AR
+wTC8jf-3ETA // ПЕРЕКЛЮЧЕНИЕ ЛИНЗ ПРИ МОРГАНИИ/BLINK/SPARK AR
 
 # TANYA MIX
 EjUWzN_yG0w // SPARK AR/КАК СДЕЛАТЬ МАСКУ ПРЕСЕТ ДЛЯ ИНСТАГРАМ
@@ -1586,6 +1588,7 @@ X88BYy1V8SY // Spark AR, Game catch items
 OqVfalLTiSE // Spark AR, score-to-text converter patch
 RAmNYFLntqY // Spark AR, Antiloop Block, without scripting
 UkJIFAPhhYU // Spark AR, Demo Game eater (Instagram filter)
+UNCDHwzwylI // Spark AR Game. Catch the object Tutorial (for instagram)
 
 # Константин Сковоронский
 EFX7oitoGJc // Быстро набрать активность в  Instagram. Маски  (Spark AR studio)
