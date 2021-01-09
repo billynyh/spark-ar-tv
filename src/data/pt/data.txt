@@ -228,6 +228,7 @@ EC7j7LvwzP4 // Como criar filtros de realidade aumentada apontando para um alvo 
 oH_yb_uohJo // Como fazer objetos responderem ao toque no seu filtro (object tap) - tutorial Spark AR
 twfyEYncZOg // Fogos de artifício (filtro especial de fim de ano)- Tutorial Spark AR
 4FbpUU_b22U // Como utilizar o sistema de partículas (emissor) no seu filtro do Instagram - Tutorial Spark AR
+fSa4jyVT8RM // Produzindo filtro imersivo com particulas - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -553,6 +554,7 @@ kw2Z283YEf4 // TEXTO NEON NO PHOTOSHOP PARA USAR EM FILTRO NO SPARK AR | POR JUL
 Kt4wL7i1YpQ // FILTROS DE TATUAGEM PARA INSTAGRAM | POR JULLIANA.DEV
 r0FCfZbMz5E // TROCANDO O FUNDO DE FILTROS PARA INSTAGRAM | POR JULLIANA.DEV
 D6dPY_xx0xU // TROCANDO A COR DOS CABELOS PARA FILTROS NO INSTAGRAM COM SPARK AR STUDIO | POR JULLIANA.DEV #7
+Asf11XSdtU4 // COMO CRIAR TEXTO EM 3D NO BLENDER | POR JULLIANA.DEV #8
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
