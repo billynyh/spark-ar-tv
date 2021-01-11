@@ -230,6 +230,7 @@ twfyEYncZOg // Fogos de artifício (filtro especial de fim de ano)- Tutorial Spa
 4FbpUU_b22U // Como utilizar o sistema de partículas (emissor) no seu filtro do Instagram - Tutorial Spark AR
 fSa4jyVT8RM // Produzindo filtro imersivo com particulas - Tutorial Spark AR
 hHVol5ewM90 // Learn how to make a kira kira effect from scratch - Spark AR tutorials
+Ztyl1ny7HAE // Controlando objetos com expressões e movimentos faciais - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -557,6 +558,7 @@ r0FCfZbMz5E // TROCANDO O FUNDO DE FILTROS PARA INSTAGRAM | POR JULLIANA.DEV
 D6dPY_xx0xU // TROCANDO A COR DOS CABELOS PARA FILTROS NO INSTAGRAM COM SPARK AR STUDIO | POR JULLIANA.DEV #7
 Asf11XSdtU4 // COMO CRIAR TEXTO EM 3D NO BLENDER | POR JULLIANA.DEV #8
 F533_otYNjI // TEXTO 3D NO PLANE TRACKER - OPÇÃO PRA NÃO PRECISAR DO "TEXTO ESTÁTICO" | POR JULLIANA.DEV #9
+F42Jx06IuDc // COMO CRIAR FILTROS DE MOLDURA DESENHADA OU COM STICKERS (ADESIVOS) | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!

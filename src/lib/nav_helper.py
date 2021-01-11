@@ -32,6 +32,7 @@ LANG_DISPLAY_NAME = {
   'te': 'Telugu',
   'ka': 'Georgian',
   'hu': 'Hungarian',
+  'mn': 'Mongolian',
   'global': 'All Languages',
 }
 

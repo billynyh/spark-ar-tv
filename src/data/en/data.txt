@@ -1688,6 +1688,9 @@ IVXKkBbGqpM // AR VR using Spark AR Framework  - Getting Started with AR & VR
 R6LUYbhffLs // How to start with AR VR  Framework -Develop  Project from scratch
 78pe0ugVMrI // Drone simulation in AR Spark | AR studio | AR game logic | AR VR Animation
 
+# photography and editing
+uAS4RWjJNwg // how to create instagram filter in 1 min on spark ar
+
 # Pico Vlogs
 Hf4Y1HQQd2A // SPARK AR BEGINNER'S TUTORIAL | BASICS -1 | TAMIL | PICO VLOGS
 kg3SIGkcFzU // HOW I MADE MY FIRST IG FILTER | TAMIL | SPARK AR | PICO VLOGS | SECRET REVEALED |
@@ -1855,6 +1858,7 @@ S0hp5mF0EYY // SparkAR Render Passes and what does it do ? ( Scene ,shader etc..
 MlSIa-Ady20 // Spark AR  Freeze Frame - how to freeze the frame ? (delay frame )|| Rbkavin
 xzWR1O2nmbk // Dynamic instance/spawn in Spark AR v102+ With Full Explanation for the Code||Spawn objects|| Rbkavin
 _NylYYVpJyI // Save Previous Value in SparkAR Patch ( promo for my product  ) || Rbkavin
+PDTt8D2MD5Y // Making a Audio Reactive With Saved Preview Patch (walkthrough video for my product) || Rbkavin
 
 # Real World Reality
 V9XGcRkQfGU // Upload Filter to Instagram | How to  publish Instagram effects without issues  (English)
