@@ -559,6 +559,7 @@ D6dPY_xx0xU // TROCANDO A COR DOS CABELOS PARA FILTROS NO INSTAGRAM COM SPARK AR
 Asf11XSdtU4 // COMO CRIAR TEXTO EM 3D NO BLENDER | POR JULLIANA.DEV #8
 F533_otYNjI // TEXTO 3D NO PLANE TRACKER - OPÇÃO PRA NÃO PRECISAR DO "TEXTO ESTÁTICO" | POR JULLIANA.DEV #9
 F42Jx06IuDc // COMO CRIAR FILTROS DE MOLDURA DESENHADA OU COM STICKERS (ADESIVOS) | POR JULLIANA.DEV
+tcNeTydyHiE // CRIANDO FILTROS DE PERSONAGENS 2D | POR JULLIANA.DEV #11
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
@@ -718,6 +719,7 @@ MR57FlV1Vxw // Spark AR Dica rápida sobre BUG e alterar posição ao toque!
 -cmfCGxsJfw // Spark AR Player PC e macOS - Testes seus efeitos em tela cheia diretamente pelo PC!
 gZ5EsGAevq0 // Spark AR ARRASTE Texto e Imagens na tela!
 _TWZp2ZeJRA // Spark AR WEBCAM usando seus filtros!
+VlB2rhU8SnU // Spark AR Scanner facial + Resultado!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
