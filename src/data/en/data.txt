@@ -1293,6 +1293,9 @@ FbEQj1ip7_4 // Save Yourself 4 Hours - 3 Tips for Making Your First IG Face Filt
 # Major League Hacking
 907cIfYf9KY // YOU GET AN INSTAGRAM FILTER - Local Hack Day: Learn 2020
 
+# Malcolm Walker
+bnkDeYrasBA // Making a filter
+
 # Maliner Esluzar
 tyOTirviS-M // HOW TO CREATE YOUR OWN INSTAGRAM FILTER | Spark AR Studio
 
@@ -1398,6 +1401,9 @@ DYAJAjcNC5k // Creating filter by Nora Horvath
 # Max Novak
 S29mnaQfSaY // 5 Unique CLONE DISTORT Effects ! ZAYNE - PILLOWTALK Music Vid TUTORIAL (Adobe Ae / Pr)
 QkMD56ntqzc // Create AUGMENTED REALITY Masks & Helmets + Export as INSTAGRAM FILTERS | After Effects + Spark AR
+
+# Maxim Velichkin
+L7x_ZZcanjk // Chritmas Hat / VR to AR
 
 # Mayeh Lorenz
 qdDlEoP34EA // HOW TO CREATE INSTAGRAM FILTER IN 5 MINUTES - SPARK AR & PICSART | PH
@@ -1814,6 +1820,7 @@ JUPsPMMhPgU // How to create multiple UI Pickers in Spark AR
 wJ0ziZG5Be8 // How to Create Particle Fade Out Animation (Script v85+)
 SZca8QQRe_M // How to create an interactive animation in Spark AR
 sUdy6JoOfq0 // Spark AR Render Pass Scan Effect with Color Sampler
+-PkQS0wYgmg // 3 Ways to modify Animation in Spark AR with the Keyframe Patch  [Beginner Tutorial]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
