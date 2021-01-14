@@ -892,6 +892,7 @@ vEINzZNT0QY // Создание масок инстаграм. Урок 8 - де
 WJ7nR4Du_yQ // Как сделать 3д модель для маски инстаграм. How to make a 3d model for Spark AR
 joQLhfiuFik // Создаю 3Д логотип в Maya для Spark AR. Create a 3D logo in Maya for Spark ar
 H91N5fEYjV8 // Создаем 3D стразы в Maya для Spark AR
+sd5msGMhaDo // Как создать HDR в фотошопе для Spark AR
 
 # ondrey
 NFgBgj_aTcc // SPARK AR для любознательных птенцов(Создание маски для инсты).
@@ -1232,6 +1233,7 @@ z9LOB3KBDAg // ✅КАК ДОБАВИТЬ МУЗЫКУ В SPARK AR STUDIO
 FBEo9_tnoag // ✅SPARK AR уроки - Эффекты при улыбке
 AbWrk9V8Rkw // ✅КАК ПОМЕНЯТЬ ГЛАЗА В SPARK AR STUDIO / SPARK AR уроки
 lJMuZnnmYYM // SPARK AR - Рандомайзер. Как сделать случайные ответы?
+pgNj2CXiCns // 3 музыки в одной маске - Spark ar уроки
 
 # Tooligram Academy
 6iR_aaSVheA // [INSTANEWS #2] Каждому по СОБСТВЕННОЙ маске!

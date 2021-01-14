@@ -365,6 +365,7 @@ QUuq4mNQ3ww // Foxy Eyes - Eyeliner - SPARK AR + Fire Alpaca - Speed art
 0xRPI022yJE // Delineado no CANVA - Filtro de maquiagem - SPARK AR
 O2VHi0TGhUM // Delineado para filtro de maquiagem - Fire Alpaca - SPARK AR
 WLkHV9OQn5k // Como usar Screen tap com Option Picker - SPARK AR
+LVcLltutywY // Filtro de maquiagem - textura do picsart - Canva - Filtros Spark AR
 
 # Luan Coutinho
 JK-8tY4UCWs // COMO CRIAR FILTROS PARA O INSTAGRAM!  ( Sem Photoshop),(BEM EXPLICADO!!)
@@ -560,6 +561,8 @@ Asf11XSdtU4 // COMO CRIAR TEXTO EM 3D NO BLENDER | POR JULLIANA.DEV #8
 F533_otYNjI // TEXTO 3D NO PLANE TRACKER - OPÇÃO PRA NÃO PRECISAR DO "TEXTO ESTÁTICO" | POR JULLIANA.DEV #9
 F42Jx06IuDc // COMO CRIAR FILTROS DE MOLDURA DESENHADA OU COM STICKERS (ADESIVOS) | POR JULLIANA.DEV
 tcNeTydyHiE // CRIANDO FILTROS DE PERSONAGENS 2D | POR JULLIANA.DEV #11
+EMro8ur0lzk // COMO FAZER FILTROS DE BORDAS COLORIDAS | POR JULLIANA.DEV #12
+LfxdIcQUEeM // COMO FAZER EFEITO DE CHAMAS DO INSTAGRAM USANDO SPARK AR STUDIO | POR JULLIANA.DEV #13
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
@@ -720,6 +723,7 @@ MR57FlV1Vxw // Spark AR Dica rápida sobre BUG e alterar posição ao toque!
 gZ5EsGAevq0 // Spark AR ARRASTE Texto e Imagens na tela!
 _TWZp2ZeJRA // Spark AR WEBCAM usando seus filtros!
 VlB2rhU8SnU // Spark AR Scanner facial + Resultado!
+flsyvT7POCI // Spark AR Nova forma mais simples para criar LUTS!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
