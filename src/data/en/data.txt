@@ -599,6 +599,7 @@ xsXTMNhh-3g // Animated Fireworks Background in Spark AR Studio (Tutorial) | Ins
 4xBnl8rNp5Q // Random Selector - "Which Are You" Filter in Spark AR Studio Tutorial | Create Instagram Filter
 VucDJ5FOlkc // Face Tattoo + Face Mesh Assets | Spark AR Studio Tutorial - Create your own Instagram Filter
 buazD5vfqLE // LUT + Face Retouching | How to add a smooth effect to a LUT in Spark AR Studio + Problem solving.
+0ZlOQ2U579I // LUT + Slider, No Coding! Spark AR Studio UI Tutorial! | Create your own Instagram Filter!
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -2216,6 +2217,7 @@ z53bUZYZbZE // SPARK AR: 3D Obj Interaction + Animation (Beginner-friendly)
 
 # Steven Van
 qz0cuIAHras // How to Make Instagram AR Filters!
+YQlxyusKJio // How to Make an Instagram Filter with Presets! (Spark AR Tutorial)
 
 # Subaramaniyam Thangasamy
 _OoPHeuytHw // Spark Ar - Smiley Frame Project || FREE TEMPLATE
