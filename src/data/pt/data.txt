@@ -564,6 +564,7 @@ tcNeTydyHiE // CRIANDO FILTROS DE PERSONAGENS 2D | POR JULLIANA.DEV #11
 EMro8ur0lzk // COMO FAZER FILTROS DE BORDAS COLORIDAS | POR JULLIANA.DEV #12
 LfxdIcQUEeM // COMO FAZER EFEITO DE CHAMAS DO INSTAGRAM USANDO SPARK AR STUDIO | POR JULLIANA.DEV #13
 3Ma8KMTAxHU // COMO CRIAR FILTRO DE BORDAS NEON + PATCH GRÁTIS | POR JULLIANA.DEV #14
+UwXSh4PhPdQ // COMO CRIAR FILTRO DE ÓCULOS + USANDO OCCLUDER | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
@@ -725,6 +726,7 @@ gZ5EsGAevq0 // Spark AR ARRASTE Texto e Imagens na tela!
 _TWZp2ZeJRA // Spark AR WEBCAM usando seus filtros!
 VlB2rhU8SnU // Spark AR Scanner facial + Resultado!
 flsyvT7POCI // Spark AR Nova forma mais simples para criar LUTS!
+X7R95_eIQX4 // Spark AR Novo Removedor de olheiras agora funciona com franja!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›

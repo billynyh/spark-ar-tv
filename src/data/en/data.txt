@@ -600,6 +600,7 @@ xsXTMNhh-3g // Animated Fireworks Background in Spark AR Studio (Tutorial) | Ins
 VucDJ5FOlkc // Face Tattoo + Face Mesh Assets | Spark AR Studio Tutorial - Create your own Instagram Filter
 buazD5vfqLE // LUT + Face Retouching | How to add a smooth effect to a LUT in Spark AR Studio + Problem solving.
 0ZlOQ2U579I // LUT + Slider, No Coding! Spark AR Studio UI Tutorial! | Create your own Instagram Filter!
+J4QAnxS1m8g // Face Split Effect in Spark AR Studio for Instagram Filter | Tutorial with Alpha Mask + Asset
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -972,6 +973,7 @@ rJgGSLmqomE // HOW TO USE EYE BLINK GESTURE SPARK AR TUTORIAL | (FILE DOWNLOAD L
 YzbO8bXA4dc // Easy Audio Analyzer Patch with Spark AR Tutorial
 Mg30ITq9bUc // Head Rotation Patch Spark AR Tutorial | Instagram & Facebook Filter |  Download link in description
 J0OtAplEeYg // Spark AR Christmas tree AR filter  #merrychristmas #christmasarfilter #sparkarchristmas
+AJQnFD5A0Wg // Catch the candy head controlled game created by Spark AR
 
 # Jeetesh Singh
 x6It2JoPjdw // Ben 10 AR Omnitrix |
@@ -1546,6 +1548,7 @@ PUBXZY7anTE // HOW to FIX OVER EXPOSURE PROBLEM/RED SPOTS with LUT in SPARK AR.
 GHeaZGCczm4 // Eyebrows Textures Instagram/Facebook Filter in Spark AR
 sI4vhyR2jow // CREATE YOUR OWN LUT in SPARK AR
 b-7E-M-Otx4 // How to Remove Eyebrows Spark AR
+XOGOxBGYtCY // Spark Ar Contour Instagram/Facebook Filter
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -2418,6 +2421,8 @@ PGE9k1xOT7I // Boost your Instagram with AR Filter | How to Create Instagram AR 
 
 # Vikings Devlogs
 1bbk98MGA14 // IPL Filter | SparkAR Tutorial Walkthrough for Beginners
+-58MihBGZa4 // How to install Spark AR on Mac
+lGhxGy0ZLbA // How to install Spark AR on Windows
 
 # Viktoria Babayeva
 4wdPtswTkl8 // how to make an instagram filter fast
