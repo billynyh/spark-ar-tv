@@ -741,6 +741,7 @@ iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorial
 fSa4jyVT8RM // Produzindo filtro imersivo com particulas - Tutorial Spark AR
 hHVol5ewM90 // Learn how to make a kira kira effect from scratch - Spark AR tutorials
 Ztyl1ny7HAE // Controlando objetos com expressões e movimentos faciais - Tutorial Spark AR
+UU5txBnBYRs // Adding shift to our Kira Kira effect - Spark AR tutorial
 
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
@@ -1779,6 +1780,7 @@ iUhV_Qi24UI // SPARK AR | PHOTOBOOTH Filter v2 | Infinite scroll effect ( photo 
 r2tZsO7Wn1o // SPARK AR | Faceless PATCH, no face, blank face for spark ar studio
 BHY6ojeWFQw // SPARK AR GAME | CATCH MY FACE, face segmentation
 7XlIF2q5Zh0 // SPARK AR | Anime Face, cartoon face
+u0jNNxh0DUE // SPARK AR | PHOTOBOOTH SCROLL Filter | kodak filmstrip effect ( photo booth Instagram filter )
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8

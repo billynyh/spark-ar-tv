@@ -231,6 +231,7 @@ twfyEYncZOg // Fogos de artifício (filtro especial de fim de ano)- Tutorial Spa
 fSa4jyVT8RM // Produzindo filtro imersivo com particulas - Tutorial Spark AR
 hHVol5ewM90 // Learn how to make a kira kira effect from scratch - Spark AR tutorials
 Ztyl1ny7HAE // Controlando objetos com expressões e movimentos faciais - Tutorial Spark AR
+UU5txBnBYRs // Adding shift to our Kira Kira effect - Spark AR tutorial
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -565,6 +566,7 @@ EMro8ur0lzk // COMO FAZER FILTROS DE BORDAS COLORIDAS | POR JULLIANA.DEV #12
 LfxdIcQUEeM // COMO FAZER EFEITO DE CHAMAS DO INSTAGRAM USANDO SPARK AR STUDIO | POR JULLIANA.DEV #13
 3Ma8KMTAxHU // COMO CRIAR FILTRO DE BORDAS NEON + PATCH GRÁTIS | POR JULLIANA.DEV #14
 UwXSh4PhPdQ // COMO CRIAR FILTRO DE ÓCULOS + USANDO OCCLUDER | POR JULLIANA.DEV
+S3_Y4S0PTfI // EFEITO DE LUZES DE BALADA PISCANDO + EFEITO FLASH DE CÂMERA | POR JULLIANA.DEV #16
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
