@@ -1193,6 +1193,15 @@ WKkoCfQbhmA // Spark Ar Tutorial - GLITCH and CLONE effect using Patch editor
 Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers
 8iGdg0CloUE // Advanced Blur Demo
 tcMQa3TEYmQ // Vertex Displacement Spark AR | Custom Shader
+fjRd32KkZHQ // SparkSL Shader Tutorials - Part 1 - Introduction
+1w_S8OWta_s // SparkSL Shader Tutorials - Part 2 - Basics of a Shader
+27TetpJAvco // SparkSL Shader Tutorials - Part 3 - Variables & Data Types (const, #define, vec2, float etc.)
+YNYaypPKuWw // SparkSL Shader Tutorials - Part 4 - Swizzling
+w_1DjddP9D4 // Spark AR - How to use Custom Shader? Beginner Tutorial GLSL ➡️ SparkSL (EN Captions)
+j6Pa2vd8IsI // SparkSL Shader Tutorials - Part 5 - Functions
+PclV-tl0FwY // SparkSL Shader Tutorials - Part 6 - Namespaces
+ldyWhuiZVx0 // SparkSL Shader Tutorials - Part 7 - Arrays
+8-MYmmOVG2M // SparkSL Shader Tutorials - Part 8 - Sending Values to Shaders
 
 # Tap to change
 eDLvXDEK7us // Уроки Spark AR Studio. Смена эффекта по Тапу (Screen Tap).  Цвет губ. Маски в Инстаграм
