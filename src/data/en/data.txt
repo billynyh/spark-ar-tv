@@ -147,6 +147,7 @@ OCJx33UufrA // Spark AR Filter "Color Hair" with Lenses, Teeth Whitening and Mak
 JbsKPd7l1R0 // Instagram Filter BEAUTIFUL FACE with Eyelash, MakeUp | Spark AR
 OajyhF_yQoc // Spark AR Instagram Filter "CLOUDS" with Eyelash, MakeUp and Lut
 ThJ9jE8jF_0 // Spark AR Instagram Filter "BRILLIANT" with MakeUp + Preset and KiraKira
+h3bE19nCu-k // Instagram Filter "Galaxy Makeup" for Spark AR
 
 # Andrew ARt
 0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
@@ -743,6 +744,7 @@ fSa4jyVT8RM // Produzindo filtro imersivo com particulas - Tutorial Spark AR
 hHVol5ewM90 // Learn how to make a kira kira effect from scratch - Spark AR tutorials
 Ztyl1ny7HAE // Controlando objetos com expressões e movimentos faciais - Tutorial Spark AR
 UU5txBnBYRs // Adding shift to our Kira Kira effect - Spark AR tutorial
+4JXHliUqRpc // Animando esqueleto e articulações de objeto 3d no seu filtro - Tutorial Spark AR
 
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
@@ -1551,6 +1553,7 @@ GHeaZGCczm4 // Eyebrows Textures Instagram/Facebook Filter in Spark AR
 sI4vhyR2jow // CREATE YOUR OWN LUT in SPARK AR
 b-7E-M-Otx4 // How to Remove Eyebrows Spark AR
 XOGOxBGYtCY // Spark Ar Contour Instagram/Facebook Filter
+RDJ4-G424qU // How to See Who Used Your Filter on Instagram
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
