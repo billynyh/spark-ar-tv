@@ -920,6 +920,7 @@ uDnUG5raBf4 // Brightness Patch Spark AR Studio
 41jIRnRgths // Spark AR - Texture Distortion Shader
 9gbp7VBDNa4 // Spark AR - Texture Distortion Shader v2.0
 8EUY7kWtNyE // Spark AR - Dissolve Shader
+pjtj7jUtujY // Spark AR - True Kira Kira
 
 # Ian Johnson
 lTA7_y-dZxY // Four faces effect with Spark AR Studio
@@ -1831,6 +1832,7 @@ wJ0ziZG5Be8 // How to Create Particle Fade Out Animation (Script v85+)
 SZca8QQRe_M // How to create an interactive animation in Spark AR
 sUdy6JoOfq0 // Spark AR Render Pass Scan Effect with Color Sampler
 -PkQS0wYgmg // 3 Ways to modify Animation in Spark AR with the Keyframe Patch  [Beginner Tutorial]
+v7vP3PoL4yQ // How to Create a Time Wrap Scan Effect for Instagram [Spark AR Basic Tutorial for Beginner]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -2465,6 +2467,9 @@ MHF__3g4HIM // Crybaby  inspired wet skin set for Spark AR
 
 # xochiworld
 HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation
+
+# XUuii
+AxepZB47QIQ // Free .arexport file || Make free instagram filter on mobile without spark ar studio/pc step by step
 
 # yan pengcheng
 nFoaquc3v8A // spark ar MXRT
