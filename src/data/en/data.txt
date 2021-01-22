@@ -603,6 +603,8 @@ VucDJ5FOlkc // Face Tattoo + Face Mesh Assets | Spark AR Studio Tutorial - Creat
 buazD5vfqLE // LUT + Face Retouching | How to add a smooth effect to a LUT in Spark AR Studio + Problem solving.
 0ZlOQ2U579I // LUT + Slider, No Coding! Spark AR Studio UI Tutorial! | Create your own Instagram Filter!
 J4QAnxS1m8g // Face Split Effect in Spark AR Studio for Instagram Filter | Tutorial with Alpha Mask + Asset
+qz3NfooYxJ4 // UI Picker for Multiple LUTs | Spark AR Tutorial - Changing Color Grading with Buttons for Instagram
+JYgaYlu_iKE // UI Picker + Background Replacement | Spark AR Studio Tutorial
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1147,6 +1149,9 @@ MTLXyZLf6eA // Spark AR & Blender - Creating an Instagram Filter
 # Kevin Kripper
 fKkFncKO8R0 // Vsynth - Spark Ar Studio - Patch Library Reel
 QgA5q4nFT7c // Vsynth Lockdown 2 - Vsynth for Spark
+
+# Keyta
+V0WsBpLB72k // Spark AR Tutorial: Neon Edge Detection Outline Using Sobel Filter + Picker UI
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -2129,6 +2134,8 @@ RZokQ72bi2Q // Thug Life Meme Filter Effect (Snoop Dogg, Null Object) | Instagra
 qPnzQQHIvrU // Favourite Filters #8 | Instagram & Facebook | Spark AR Studio #shorts
 IS3o1EHezCE // Convert Audio to M4A for Filter Effects | Instagram & Facebook | Spark AR Tutorial
 ntIXsHtHA0I // They Ask How You Are Meme Filter (Katy Perry, Luminance) | Instagram & Facebook | Spark AR Tutorial
+llERzgTrRzg // Undock the Simulator (Update v105, LUTs, Distortion) | Instagram & Facebook | Spark AR Tutorial
+gUEpJYeTv98 // Eye Colour Template Breakdown (Eyeball Shader, Blocks) | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -2225,6 +2232,7 @@ kamuwiffw98 // Let's explore the Space | Facebook AR Hackathon | Augmented Reali
 # STEFFIE HARNER
 6F6qqEQf2QA // SPARK AR: BEGINNER ANIMATIONS | #SteffieInJapan
 z53bUZYZbZE // SPARK AR: 3D Obj Interaction + Animation (Beginner-friendly)
+2Tuq4dlRPMc // Best Cyberpunk Instagram Filters of the Month | January 2021
 
 # Steven Van
 qz0cuIAHras // How to Make Instagram AR Filters!
@@ -2469,7 +2477,11 @@ MHF__3g4HIM // Crybaby  inspired wet skin set for Spark AR
 HCRHSDM_7m0 // Spark AR Tutorial | Face Deformation
 
 # XUuii
+eMTAKzX15xA // How to make Instagram Filter without Spark AR Studio|| Make Instagram Filters without PC for free
+i97_CCjv1yE // How to make instagram filters without pc for free || free arexport instagram filter
+bDW_Aa8e61Q // How to make free snapchat filter without lens studio (without pc) on mobile | snap filter 2021
 AxepZB47QIQ // Free .arexport file || Make free instagram filter on mobile without spark ar studio/pc step by step
+VpXldDfVEro // Free instagram filter || make instagram filter on mobile without pc || free arexport file
 
 # yan pengcheng
 nFoaquc3v8A // spark ar MXRT
