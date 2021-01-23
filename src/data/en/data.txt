@@ -1389,6 +1389,7 @@ gOqeGuFRAFQ // Spark AR "Smart PBR 1.0"
 K-M55FqwVQM // Spark AR "Smart PBR" v1.1 performance test
 uaPMSCl8-ao // Spark AR "Advanced Glass"
 K8S2ng3VX-I // Spark AR Smart PBR update v1.4
+aEC5OmCnTUU // Simple Fur Lens Studio
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -2136,6 +2137,8 @@ IS3o1EHezCE // Convert Audio to M4A for Filter Effects | Instagram & Facebook | 
 ntIXsHtHA0I // They Ask How You Are Meme Filter (Katy Perry, Luminance) | Instagram & Facebook | Spark AR Tutorial
 llERzgTrRzg // Undock the Simulator (Update v105, LUTs, Distortion) | Instagram & Facebook | Spark AR Tutorial
 gUEpJYeTv98 // Eye Colour Template Breakdown (Eyeball Shader, Blocks) | Instagram & Facebook | Spark AR Tutorial
+EooA1CMcovw // Rainbow Eyes + Background Tutorial (Eyeball Template) | Instagram & Facebook | Spark AR Tutorial
+YEvR6QxBR4I // Random Colour Filter Effect (Duotone, Hue, Loop Animation | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
