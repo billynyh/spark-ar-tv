@@ -661,6 +661,7 @@ _sSiR9vWV4U // Маска для instagram за 10 минут! Tutorial. Spark A
 4is8PswzAaU // Как создать маску фильтр в Инстаграм | Модные переключатели, сглаживание лица, наложение пылинок
 SlLkTmO_BlA // Multiple Filters With Face Retouch  & Option Picker In One Instagram Filter / Spark AR Tutorial
 V0WsBpLB72k // Spark AR Tutorial: Neon Edge Detection Outline Using Sobel Filter + Picker UI
+HuqlMe83CSg // Spark AR Tutorial: Cute Face Filter + Kira Kira For Hair + Deformation + White teeth + No Eye Bags
 
 # Kir Ensin
 wJSL0f9VUog // Как сделать маску в Инстаграм за 5 минут I Spark AR урок
@@ -1685,6 +1686,8 @@ eApWEdr2-i4 // Урок 5_Загрузка маски в Instagram
 KNG84AGTpIo // КАК СДЕЛАТЬ МАСКУ В ИНСТАГРАМ С ФИЛЬТРОМ/ПРЕСЕТОМ + ПЫЛИНИКИ/ПЕРЕКЛЮЧЕНИЕ ПЫЛИНОК ПО ТАПУ SPARK AR
 4Jw8lZ9SByE // КАК СОЗДАТЬ СВОЮ ТРЕНДОВУЮ МАСКУ В ИНСТАГРАМ/SPARK AR БЛЕСТКИ НА ЛИЦЕ+ПРЕСЕТ+МАКИЯЖ+БЛЕСК ЛИЦА+РЕТУШ
 rPOOmqw8Agw // КАК СОВМЕСТИТЬ 3Д ОБЪЕКТ ПРЕСЕТ/ФИЛЬТР/ЛУТ И МАКИЯЖ. СОЗДАТЬ СВОЮ МАСКУ В ИНСТАГРАМ SPARK AR
+ZOhH7AT-htA // КАК СОЗДАТЬ СВОЮ ТРЕНДОВУЮ МАСКУ В ИНСТАГРАМ КИРА-КИРА+ПРЕСЕТ/ФИЛЬТ(LUT)+МАКИЯЖ KIRA-KIRA SPARK AR
+jGlwcYpBjxc // КАК СКАЧАТЬ БЕСПЛАТНЫЕ МАСКИ В ИНСТАГРАМ SPARK AR КАК ЗАГРУЗИТЬ СВОЮ МАСКУ КАК ПРОТЕСТИРОВАТЬ
 
 # ОВЕРЛАК
 A8iek7fm_aE // КАК СДЕЛАТЬ МАСКУ ДЛЯ ИНСТАГРАМ? // SPARK AR ДЛЯ НОВИЧКОВ

@@ -1152,6 +1152,7 @@ QgA5q4nFT7c // Vsynth Lockdown 2 - Vsynth for Spark
 
 # Keyta
 V0WsBpLB72k // Spark AR Tutorial: Neon Edge Detection Outline Using Sobel Filter + Picker UI
+HuqlMe83CSg // Spark AR Tutorial: Cute Face Filter + Kira Kira For Hair + Deformation + White teeth + No Eye Bags
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -1390,6 +1391,7 @@ K-M55FqwVQM // Spark AR "Smart PBR" v1.1 performance test
 uaPMSCl8-ao // Spark AR "Advanced Glass"
 K8S2ng3VX-I // Spark AR Smart PBR update v1.4
 aEC5OmCnTUU // Simple Fur Lens Studio
+kO5Vveu6Ppk // Spark AR Facing color mix
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
