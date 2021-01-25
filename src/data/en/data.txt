@@ -1391,7 +1391,6 @@ gOqeGuFRAFQ // Spark AR "Smart PBR 1.0"
 K-M55FqwVQM // Spark AR "Smart PBR" v1.1 performance test
 uaPMSCl8-ao // Spark AR "Advanced Glass"
 K8S2ng3VX-I // Spark AR Smart PBR update v1.4
-aEC5OmCnTUU // Simple Fur Lens Studio
 kO5Vveu6Ppk // Spark AR Facing color mix
 
 # Mate Steinforth
