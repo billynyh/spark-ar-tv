@@ -923,6 +923,7 @@ uDnUG5raBf4 // Brightness Patch Spark AR Studio
 9gbp7VBDNa4 // Spark AR - Texture Distortion Shader v2.0
 8EUY7kWtNyE // Spark AR - Dissolve Shader
 pjtj7jUtujY // Spark AR - True Kira Kira
+OWX6BJjZbhU // Spark AR - Como fazer downgrade de um projeto
 
 # Ian Johnson
 lTA7_y-dZxY // Four faces effect with Spark AR Studio
@@ -2141,6 +2142,7 @@ llERzgTrRzg // Undock the Simulator (Update v105, LUTs, Distortion) | Instagram 
 gUEpJYeTv98 // Eye Colour Template Breakdown (Eyeball Shader, Blocks) | Instagram & Facebook | Spark AR Tutorial
 EooA1CMcovw // Rainbow Eyes + Background Tutorial (Eyeball Template) | Instagram & Facebook | Spark AR Tutorial
 YEvR6QxBR4I // Random Colour Filter Effect (Duotone, Hue, Loop Animation | Instagram & Facebook | Spark AR Tutorial
+TQq4I37rE5A // Hair Colour + Kira Sparkles (Segmentation, Color Cycle) | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

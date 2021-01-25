@@ -20,6 +20,7 @@ vb32LRmyobc // Create your own Instagram Filter ( Lightroom + Spark AR) Part 2
 
 # 개발자 옆 디자이너
 f5JiBlGh1AY // Spark AR로 콘텐츠 만들기 1 : Introduce Spark AR
+EnyRCMVB5oA // Spark AR로 콘텐츠 만들기 (2) : Patch Editor를 활용한 Eye Tracking과 Screen Tap
 
 # 김어진
 raL9TyX5IEs // 간단하게 인스타 필터 만들기💖                                          인스타필터만드는법/spark ar/픽스아트/인스타필터/06년생/인스타스티커

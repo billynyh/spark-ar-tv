@@ -191,6 +191,7 @@ WaktVijc1u8 // CAMBIAR COLOR DEL PELO | Hair Segmentation #26
 GtEYq6tdFrg // BLENDER & SPARK AR STUDIO | Trabajar con elementos 3D #28
 8IlRg_xf-qk // EXTRAER OJOS | Usar parte de la cara sobre un objeto #30
 2Xw5MJDa4bc // USA LOS SHADERS | AR Library - Shader Patches #31
+jdNvF1jtEmQ // CÓMO CREAR LUZ VOLUMÉTRICA - Efecto en Instagram #32
 
 # Cruzelvro
 dbWH7KsHL8k // COMO CREAR FILTROS FILTROS || FILTROS PARA INSTAGRAM || [Filtro De Color Y Face Mask] [Spark Ar]
