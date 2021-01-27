@@ -950,6 +950,9 @@ ZbeeUGIsLDc // Spark AR: film filter for Instagram
 # Immersive Studios
 nid-pSriuUk // Making an Instagram Filter with Spark AR (the spooky special)
 
+# imran othman
+EjfcZ_fltbA // spark ar 2d stickers
+
 # Insomnia Studio
 mys2jGqiLfs // Cliff Jumper -  SparkAR Game Template
 
@@ -1154,6 +1157,7 @@ QgA5q4nFT7c // Vsynth Lockdown 2 - Vsynth for Spark
 # Keyta
 V0WsBpLB72k // Spark AR Tutorial: Neon Edge Detection Outline Using Sobel Filter + Picker UI
 HuqlMe83CSg // Spark AR Tutorial: Cute Face Filter + Kira Kira For Hair + Deformation + White teeth + No Eye Bags
+Y1xnX7cttnM // Change Hair Color In Spark AR Studio In 3 Ways + Kira Kira + Blush + LUT Filter + Materials
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -1564,6 +1568,7 @@ b-7E-M-Otx4 // How to Remove Eyebrows Spark AR
 XOGOxBGYtCY // Spark Ar Contour Instagram/Facebook Filter
 RDJ4-G424qU // How to See Who Used Your Filter on Instagram
 FHOSznaU0ak // TikTok lights for Instagram Filter in Spark AR
+F8J9xbpysLI // Hand Swipe Feature for Instagram Filter in Spark AR
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -1842,6 +1847,7 @@ SZca8QQRe_M // How to create an interactive animation in Spark AR
 sUdy6JoOfq0 // Spark AR Render Pass Scan Effect with Color Sampler
 -PkQS0wYgmg // 3 Ways to modify Animation in Spark AR with the Keyframe Patch  [Beginner Tutorial]
 v7vP3PoL4yQ // How to Create a Time Wrap Scan Effect for Instagram [Spark AR Basic Tutorial for Beginner]
+zvp2xS21pT4 // How to Create a Game-Score by Collisions [Spark AR Beginner Script/Patch Tutorial]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -2147,6 +2153,8 @@ vsmKo4U4QQY // Motion Blur + RGB Shift (Shader Render Pass, Delay Frame) | Insta
 hmz5MpAdM0Y // Editing Patches Results In Weird! (RGB, Motion Blur :P) | Instagram & Facebook | Spark AR Tutorial
 -jaFyguvhKA // Human Paint Brush Filter Effect (Motion Blur, RGB) | Instagram & Facebook | Spark AR Studio #shorts
 JXJY7E7WNa4 // Zoom Filter Effect (Face Tracker, Transform, Mouth Open) | Instagram & Facebook | Spark AR Tutorial
+ZYa0qkVAKm0 // 2 Minute Zoom Effect (Face Tracker, Transform, Mouth Open)  Instagram & Facebook | Spark AR Tutorial
+BBIXp1ZV9jY // Screen Tap Controls Opacity (Loop Animation, Swizzle) | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
