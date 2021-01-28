@@ -748,6 +748,9 @@ Ztyl1ny7HAE // Controlando objetos com expressões e movimentos faciais - Tutori
 UU5txBnBYRs // Adding shift to our Kira Kira effect - Spark AR tutorial
 4JXHliUqRpc // Animando esqueleto e articulações de objeto 3d no seu filtro - Tutorial Spark AR
 
+# Fiona Viaje
+uHRfuGRA9ik // HOW TO MAKE YOUR FIRST INSTAGRAM FILTER: Spark AR Beginner Tutorial
+
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
 q8C0k3vTCk0 // Spark-AR Tutorial #2. Adding 2D object
@@ -952,6 +955,7 @@ nid-pSriuUk // Making an Instagram Filter with Spark AR (the spooky special)
 
 # imran othman
 EjfcZ_fltbA // spark ar 2d stickers
+mqF-zUQHNk0 // spark 3d stickers
 
 # Insomnia Studio
 mys2jGqiLfs // Cliff Jumper -  SparkAR Game Template
@@ -1146,6 +1150,7 @@ v6oLcdI19QM // SPARK AR TUTORIAL - Tan Lut + Grain + Retouch + Deform + Tap to C
 AEXC7gbNNwk // SPARK AR TUTORIAL - Cute Face Filter/Kira Kira/ UI Slider for Deformation
 r2agV_rE8Rg // SPARK AR TUTORIAL - Tap to Change/Picker UI for multiple eye colored contacts
 xszbS4SXJ2c // SPARK AR TUTORIAL - 3D Block Eyelashes + Basic Makeup
+bTG6TYMCmbo // SPARK AR TUTORIAL - Quick & Easy Makeup Without Using Photoshop
 
 # Kevandram
 MTLXyZLf6eA // Spark AR & Blender - Creating an Instagram Filter
