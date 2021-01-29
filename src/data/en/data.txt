@@ -498,6 +498,9 @@ iuZKeTGSbHw // How to Make Instagram Filter | Spark Ar Studio
 # CodeDay
 Ts1y3owGppI // Tech Talk: SparkAR Instagram Filters - Jacqueline Yang, Bailey Hirota, Carmen Wu
 
+# Collin Sanders
+8gtItEJhS0A // JTC 374: Spark AR Face Tracking Filter
+
 # Colm Hayden
 hPV6cnZM0xw // Aesthetic Spark AR face filter speed paint
 
@@ -1671,6 +1674,9 @@ knyJ7nCCZr4 // Create Viral Instagram Spark AR Face Filter in 8 Minutes | Ballro
 # NovelTech Media
 1kZjkOvNa7c // Make Your Own Instagram Story Filters Using Spark AR
 
+# Nur Amira Asyahira
+R502__2N56w // INSTAGRAM FILTER SPARK AR
+
 # Oksana Korol
 7Bfs3YfHpJU // HOW TO MAKE INSTAGRAM FILTER IN 3 MINUTES/ WORK WITH SKIN (Spark AR)
 
@@ -2160,6 +2166,7 @@ hmz5MpAdM0Y // Editing Patches Results In Weird! (RGB, Motion Blur :P) | Instagr
 JXJY7E7WNa4 // Zoom Filter Effect (Face Tracker, Transform, Mouth Open) | Instagram & Facebook | Spark AR Tutorial
 ZYa0qkVAKm0 // 2 Minute Zoom Effect (Face Tracker, Transform, Mouth Open)  Instagram & Facebook | Spark AR Tutorial
 BBIXp1ZV9jY // Screen Tap Controls Opacity (Loop Animation, Swizzle) | Instagram & Facebook | Spark AR Tutorial
+rqWUgosgalo // Neon Glow Effect (Opacity, Duotone, Pulse, Radioactive) | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

@@ -466,6 +466,7 @@ NvquPGr0Zg0 // Spark AR - Face count interaction to change objects | Game Dynami
 DWGMOPvzrhE // Spark AR Tutorial | T-shirt target tracker experiments (2d, 3d & keyframe) | EN Captions
 fcNgMrs2REg // Spark AR - Create your own 3d avatar instagram filter (EN Captions)
 106-busSONU // Spark AR - Face Tracking Recording | Agregar rostro en video  Tutorial (EN Captions)
+_iG2bULV0f4 // Spark AR Tutorial - Hot spot annotations into 3d object (EN captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -759,6 +760,7 @@ e7b00sHObi4 // Cómo Crear FILTROS de INSTAGRAM - 4.5. Crea un fondo animado #Sp
 OYUSNe1aFGY // Cómo Crear FILTROS de INSTAGRAM - 4.6. Filtros de color en Spark AR #Sparkar #Instagram #cursoonline
 f1MZE-v4hqw // Cómo Crear FILTROS de INSTAGRAM - 4.7. Maquillaje #Sparkar #Instagram #cursoonline
 em_kRymElPs // Cómo Crear FILTROS de INSTAGRAM - 5. Publica tu filtro #Sparkar #Instagram #cursoonline
+hUOygGBdeLY // Crea tus filtros de Instagram con un menú intuitivo en Spark AR 🌟
 
 # Pikceles
 9ihduOmBzHc // Cómo CREAR tus propios filtros para Instagram fácilmente
