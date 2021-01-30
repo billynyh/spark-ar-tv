@@ -750,6 +750,7 @@ hHVol5ewM90 // Learn how to make a kira kira effect from scratch - Spark AR tuto
 Ztyl1ny7HAE // Controlando objetos com expressões e movimentos faciais - Tutorial Spark AR
 UU5txBnBYRs // Adding shift to our Kira Kira effect - Spark AR tutorial
 4JXHliUqRpc // Animando esqueleto e articulações de objeto 3d no seu filtro - Tutorial Spark AR
+UuNuES-V6L8 // Utilizando os elementos de iluminação do spark AR para criar efeito de lanterna
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR FIRST INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1811,6 +1812,7 @@ r2tZsO7Wn1o // SPARK AR | Faceless PATCH, no face, blank face for spark ar studi
 BHY6ojeWFQw // SPARK AR GAME | CATCH MY FACE, face segmentation
 7XlIF2q5Zh0 // SPARK AR | Anime Face, cartoon face
 u0jNNxh0DUE // SPARK AR | PHOTOBOOTH SCROLL Filter | kodak filmstrip effect ( photo booth Instagram filter )
+jWR9211oI3U // SPARK AR GAME | PERSONALITY QUIZ FILTER, THIS OR THAT type filter FLOWCHART, WEIGHTED QUESTIONS
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -2167,6 +2169,7 @@ JXJY7E7WNa4 // Zoom Filter Effect (Face Tracker, Transform, Mouth Open) | Instag
 ZYa0qkVAKm0 // 2 Minute Zoom Effect (Face Tracker, Transform, Mouth Open)  Instagram & Facebook | Spark AR Tutorial
 BBIXp1ZV9jY // Screen Tap Controls Opacity (Loop Animation, Swizzle) | Instagram & Facebook | Spark AR Tutorial
 rqWUgosgalo // Neon Glow Effect (Opacity, Duotone, Pulse, Radioactive) | Instagram & Facebook | Spark AR Tutorial
+rdavd624xLw // Outline Segmentation (Image Texture, Animation Sequence) | Instagram & Facebook | Spark AR Studio
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
