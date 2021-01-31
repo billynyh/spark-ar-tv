@@ -438,6 +438,7 @@ sV7XbDyr170 // How To Create Freeze Frame in Spark AR | Tutorial | Part 2
 re3BJPgpQc8 // How to Create Paparazi Filter in Spark AR | Tutorial #1
 37FK6b2XZEA // How To Create Face Mesh (.obj) File for your Spark AR Filter
 UObWRiLxQwo // How to Create Demon Filter in Spark AR for Your Instagram | Tutorial
+2H-reUI21Uw // How to Create Face Swap Instruction in Spark AR | Tutorial
 
 # DEWA KAWE
 iNWbJ_ajjQA // Cara buat filter instagram sendiri,box logo diwajah | SPARK AR STUDIO
