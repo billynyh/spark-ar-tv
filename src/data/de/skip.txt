@@ -45,4 +45,7 @@ JUPsPMMhPgU
 wJ0ziZG5Be8
 https://www.youtube.com/watch?v=sUdy6JoOfq0 // Spark AR Render Pass Scan Effect with Color Sampler
 https://www.youtube.com/watch?v=SZca8QQRe_M // How to create an interactive animation in Spark AR
+https://www.youtube.com/watch?v=zvp2xS21pT4 // How to Create a Game-Score by Collisions [Spark AR Beginner Script/Patch Tutorial]
+https://www.youtube.com/watch?v=v7vP3PoL4yQ // How to Create a Time Wrap Scan Effect for Instagram [Spark AR Basic Tutorial for Beginner]
+https://www.youtube.com/watch?v=-PkQS0wYgmg // 3 Ways to modify Animation in Spark AR with the Keyframe Patch  [Beginner Tutorial]
 

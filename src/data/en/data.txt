@@ -744,13 +744,6 @@ UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
 nLb-6CeZ_o8 // How to use function patch to create a pixelated image. Spark AR Tutorial.
 nlYbLe31K0o // Using function patch to create copies of texture - Spark AR tutorials (English playlist)
 iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorials (English Tutorial)
-4FbpUU_b22U // Como utilizar o sistema de partículas (emissor) no seu filtro do Instagram - Tutorial Spark AR
-fSa4jyVT8RM // Produzindo filtro imersivo com particulas - Tutorial Spark AR
-hHVol5ewM90 // Learn how to make a kira kira effect from scratch - Spark AR tutorials
-Ztyl1ny7HAE // Controlando objetos com expressões e movimentos faciais - Tutorial Spark AR
-UU5txBnBYRs // Adding shift to our Kira Kira effect - Spark AR tutorial
-4JXHliUqRpc // Animando esqueleto e articulações de objeto 3d no seu filtro - Tutorial Spark AR
-UuNuES-V6L8 // Utilizando os elementos de iluminação do spark AR para criar efeito de lanterna
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR FIRST INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1164,6 +1157,7 @@ fKkFncKO8R0 // Vsynth - Spark Ar Studio - Patch Library Reel
 QgA5q4nFT7c // Vsynth Lockdown 2 - Vsynth for Spark
 
 # Keyta
+SlLkTmO_BlA // Multiple Filters With Face Retouch  & Option Picker In One Instagram Filter / Spark AR Tutorial
 V0WsBpLB72k // Spark AR Tutorial: Neon Edge Detection Outline Using Sobel Filter + Picker UI
 HuqlMe83CSg // Spark AR Tutorial: Cute Face Filter + Kira Kira For Hair + Deformation + White teeth + No Eye Bags
 Y1xnX7cttnM // Change Hair Color In Spark AR Studio In 3 Ways + Kira Kira + Blush + LUT Filter + Materials
@@ -2180,6 +2174,9 @@ BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
 # Siva Ganesh
 3jAeaSukd_E // Penguin's World
 
+# Sky 3Design Göktuğ Yağmur Gök
+ShDhsQm1e44 // Face Mask for Instagram Filter
+
 # Smart Income Builders
 oq7L4oRKCm4 // How to create a Spark AR ad for Facebook
 
@@ -2191,6 +2188,9 @@ X5X7tLcc4Vo // Some AR Madness
 
 # sniponix
 nMADP2nuLtE // Create your own Instagram filter using Lightroom - Spark AR
+
+# Soapbox Online
+BmUMO8TuxEs // How to create a Face Filter with PHOTOSHOP & SPARK AR
 
 # social mafia
 nS-xpmuAcpw // Create Instagram Story Filter with Spark AR (Easy step-by-step tutorial)

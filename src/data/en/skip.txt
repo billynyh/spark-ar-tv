@@ -242,4 +242,10 @@ https://www.youtube.com/watch?v=EC7j7LvwzP4 // Como criar filtros de realidade a
 https://www.youtube.com/watch?v=twfyEYncZOg // Fogos de artifício (filtro especial de fim de ano)- Tutorial Spark AR
 https://www.youtube.com/watch?v=uUXwARIkhOo // Como alterar cor dos olhos do filtro no Instagram (com template) - Tutorial Spark AR
 https://www.youtube.com/watch?v=oH_yb_uohJo // Como fazer objetos responderem ao toque no seu filtro (object tap) - tutorial Spark AR
-
+https://www.youtube.com/watch?v=fSa4jyVT8RM // Produzindo filtro imersivo com particulas - Tutorial Spark AR
+https://www.youtube.com/watch?v=4JXHliUqRpc // Animando esqueleto e articulações de objeto 3d no seu filtro - Tutorial Spark AR
+https://www.youtube.com/watch?v=UU5txBnBYRs // Adding shift to our Kira Kira effect - Spark AR tutorial
+https://www.youtube.com/watch?v=4FbpUU_b22U // Como utilizar o sistema de partículas (emissor) no seu filtro do Instagram - Tutorial Spark AR
+https://www.youtube.com/watch?v=Ztyl1ny7HAE // Controlando objetos com expressões e movimentos faciais - Tutorial Spark AR
+https://www.youtube.com/watch?v=UuNuES-V6L8 // Utilizando os elementos de iluminação do spark AR para criar efeito de lanterna
+https://www.youtube.com/watch?v=hHVol5ewM90 // Learn how to make a kira kira effect from scratch - Spark AR tutorials
