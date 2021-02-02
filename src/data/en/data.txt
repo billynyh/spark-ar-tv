@@ -608,6 +608,7 @@ buazD5vfqLE // LUT + Face Retouching | How to add a smooth effect to a LUT in Sp
 J4QAnxS1m8g // Face Split Effect in Spark AR Studio for Instagram Filter | Tutorial with Alpha Mask + Asset
 qz3NfooYxJ4 // UI Picker for Multiple LUTs | Spark AR Tutorial - Changing Color Grading with Buttons for Instagram
 JYgaYlu_iKE // UI Picker + Background Replacement | Spark AR Studio Tutorial
+3ng_u4Ynikw // Image Compression done right for Spark AR Studio! How to reduce filter size! | File too big Error!
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1427,6 +1428,7 @@ QkMD56ntqzc // Create AUGMENTED REALITY Masks & Helmets + Export as INSTAGRAM FI
 
 # Maxim Velichkin
 L7x_ZZcanjk // Chritmas Hat / VR to AR
+BmwUiZpOhbc // Pierrot AR Effect / VR to AR
 
 # Mayeh Lorenz
 qdDlEoP34EA // HOW TO CREATE INSTAGRAM FILTER IN 5 MINUTES - SPARK AR & PICSART | PH
@@ -1527,6 +1529,7 @@ xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spa
 0fDqjzSxjrA // Realistic Eye Contacts For Instagram Filter | Spark AR | Nadia Wilson
 GLCMykyX2Iw // True or False Game Spark AR | Nadia Wilson
 HXFLLLCRN9s // Luts in Lightroom for Spark AR | Nadia Wilson
+KBnB6idzOBQ // 5 Questions Spark AR | Nadia Wilson
 
 # Nadiia Moore
 6On115zW4PE // MAKE YOUR OWN COOL INSTAGRAM FILTER // Moving Hearts From The Eyes When You Blink
@@ -1572,6 +1575,7 @@ XOGOxBGYtCY // Spark Ar Contour Instagram/Facebook Filter
 RDJ4-G424qU // How to See Who Used Your Filter on Instagram
 FHOSznaU0ak // TikTok lights for Instagram Filter in Spark AR
 F8J9xbpysLI // Hand Swipe Feature for Instagram Filter in Spark AR
+q53BcnmaMys // Fire Flames Shader Filter in Spark AR
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -2164,6 +2168,7 @@ ZYa0qkVAKm0 // 2 Minute Zoom Effect (Face Tracker, Transform, Mouth Open)  Insta
 BBIXp1ZV9jY // Screen Tap Controls Opacity (Loop Animation, Swizzle) | Instagram & Facebook | Spark AR Tutorial
 rqWUgosgalo // Neon Glow Effect (Opacity, Duotone, Pulse, Radioactive) | Instagram & Facebook | Spark AR Tutorial
 rdavd624xLw // Outline Segmentation (Image Texture, Animation Sequence) | Instagram & Facebook | Spark AR Studio
+Wsoach5uGK0 // Screen Tap & Hold (Rainbow, Earth, Visibility, Logic) | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
