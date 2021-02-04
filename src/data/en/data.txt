@@ -237,6 +237,9 @@ P85XSs8IQn8 // How to use Promise.all API In Spark AR? - JavaScript Scripting
 # AR MR XR
 BL9pMXZmem8 // Pikachu Augmented Reality Card
 
+# AR Tutorials
+4S8yz6grwlA // HOW TO MAKE AN INSTAGRAM FILTER W TRANSPARENT BACKGROUND & TEXT - EASY SPARK AR & PHOTOSHOP TUTORIAL
+
 # Arditya Dhian M
 RvP0n9Nmd4U // MEMBUAT FILTER INSTAGRAM HANYA 3 MENIT. SPARK AR TUTORIAL INDONESIA
 B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER DUST EFFECT DI SPARK AR STUDIO
@@ -309,6 +312,7 @@ DfwNpWOCiTY // Spark AR Tutorial - How to add a Microphone with Audio Analyzer #
 qvkIt3RUR0c // Spark AR Tutorial - Particles from the open mouth (Vomit effect)  #bestbannersever
 EldRHWwtQMM // Spark AR Tutorial -  Zombie eyes aka Eyeball Shader or Texture  #bestbannersever
 sYxyUFENEbM // Spark AR Tutorial - Snowman Face with SnowFlakes using a block #bestbannersever
+RhqqF0TSWng // The plan for 2021 ish... #bestbannersever
 
 # Bhabna Das
 cDwyq_HIQAo // How to make an Instagran Filter | Spark AR tutorial | Bhabna Das
@@ -1531,6 +1535,7 @@ GLCMykyX2Iw // True or False Game Spark AR | Nadia Wilson
 HXFLLLCRN9s // Luts in Lightroom for Spark AR | Nadia Wilson
 KBnB6idzOBQ // 5 Questions Spark AR | Nadia Wilson
 WC0msZe-Opg // SnowFall Filter Spark AR | Nadia Wilson
+OGMOpB3WFEs // Inspo for IG filter Spark AR | Nadia Wilson
 
 # Nadiia Moore
 6On115zW4PE // MAKE YOUR OWN COOL INSTAGRAM FILTER // Moving Hearts From The Eyes When You Blink
@@ -1603,6 +1608,9 @@ G22q-w6T0jc // Spark Ar Tutorial / Make your own instafilter
 
 # Near Future Marketing
 400EOPlMafA // AR Today!: 📱 Instagram Augmented Reality for Beginners 📸
+
+# Neha Chaudhary
+yrP7SFQCzF8 // RANDOM SELECTOR FILTER | WHICH/WHO ARE YOU FILTER | SPARK AR | BEGINNER TUTORIAL
 
 # Newcolor
 6stXwBt87Dg // Spark AR Drag 2D: Dragging Objects with Pan Gesture - Free Download

@@ -1225,6 +1225,7 @@ kY0FFGffiA0 // КАК СДЕЛАТЬ ЗАДЕРЖКУ КАДРА/SPARK AR/RENDER
 R3uwPYhKtB0 // GLITTER on HAIR/ ГЛИТТЕР на ВОЛОСАХ. SPARK AR
 wTC8jf-3ETA // ПЕРЕКЛЮЧЕНИЕ ЛИНЗ ПРИ МОРГАНИИ/BLINK/SPARK AR
 3eunSYN-R8E // ПЕРЕКЛЮЧЕНИЕ ТЕКСТУР ВЗМАХОМ РУКИ/SPARK AR/WAVE OF THE HAND
+YBfH_o2Lhmw // РАЗМЫТЫЙ ЗАДНИЙ ПЛАН(BLUR)+ ЗАГОРЕЛАЯ КОЖА/SPARK AR
 
 # TANYA MIX
 EjUWzN_yG0w // SPARK AR/КАК СДЕЛАТЬ МАСКУ ПРЕСЕТ ДЛЯ ИНСТАГРАМ
