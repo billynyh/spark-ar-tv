@@ -9,17 +9,17 @@ y2gqMSh5kXU // #1 인스타 스티커 만들기 / spark ar 까는법
 ahueSpXvlEU // #인스타그램 #AR #GIF스티커 제작 꿀팁 대공개 #언텍트 시대에 #브랜드 경험
 
 # Nuri_누리로그
-Cy6gW_dMqpg // [Spark AR] 💜디자이너가 만드는 인스타 필터💛/소스제작부터+얼굴보정+모션적용 따라하기
+Cy6gW_dMqpg // [Spark AR] 💜디자이너가 만드는 인스타 필터💛 / 소스제작부터+얼굴보정+모션적용 따라하기
 
 # WE-AR
 rJA9-457duY // [Spark AR] 팔로워 높여주는 인스타그램 스티커 필터 만들기!
 
-# wing lee 윙 리
-BKb29K0evzo // Make your own Instagram Filter (Picsart + Spark Ar) | easy tutorial 인스 타 그램필터
+# Wing lee 날개
+BKb29K0evzo // Make your own Instagram Filter (Picsart + Spark Ar) | easy tutorial part 1
 vb32LRmyobc // Create your own Instagram Filter ( Lightroom + Spark AR) Part 2
 
 # 개발자 옆 디자이너
-f5JiBlGh1AY // Spark AR로 콘텐츠 만들기 1 : Introduce Spark AR
+f5JiBlGh1AY // Spark AR로 콘텐츠 만들기 (1) : Introduce Spark AR
 EnyRCMVB5oA // Spark AR로 콘텐츠 만들기 (2) : Patch Editor를 활용한 Eye Tracking과 Screen Tap
 HTZiO5A2yKs // Spark AR_Quick Tips : Actions 사용하기
 
@@ -35,8 +35,9 @@ cvZ5XNMisUw // 스냅챗 강아지 인스타필터 만들기/ How to make a Snap
 # 로투스lotus
 HzChUDy-rWU // My Night Rountine in Quarantine 나이트 루틴 - 바쁜 저녁 일상🌟|Lotus
 
-# 로틴
-ZDFd5iamRlw // [Spark AR] 인스타그램 필터 만들기 / 인스타그램 스티커 / 인스타 스티커 튜토리얼
+# 리꿍요
+qwibKama_pM // 인스타 스티커 만들기 / spark ar 다운방법
+mV0LbtYgLBU // Spark ar 다운로드 방법 / 자세히 알려드려용
 
 # 린Lynn
 5O0hwGr27mU // Spark AR과  3D그림판으로 간단하게 인스타 스티커 만들기 /인스타 face스티커 /spark AR/댓글참고
@@ -77,13 +78,9 @@ v-2MzcxLCYg // [Spark AR]와앙포카/인스타 필터 포카 만들기_Korean w
 # 손호성
 pD7WF5BIFgM // SparkAR 간단히 만든 플라워이펙트
 
-# 승연쉽
-qwibKama_pM // 인스타 스티커 만들기 / spark ar 다운방법
-mV0LbtYgLBU // Spark ar 다운로드 방법 / 자세히 알려드려용
-
 # 와글와글팩토리TV
-A0mOPlXw_4k // [ARMaker]증강현실 만들기 Intro
-b0ojMJ7AEiw // [AR Maker] Spark AR로 만드는 증강현실 첫걸음
+A0mOPlXw_4k // [AR Maker] 증강현실 만들기 Intro
+b0ojMJ7AEiw // [AR Maker] #1 Spark AR로 만드는 증강현실 첫걸음
 vo6LPf8CEqI // [AR Maker] #2 입을 열면 골드코인 뿜뿜!!!
 IL5x1LOVOUA // [AR Maker] #3 원하는 배경 넣기!!!
 ISPuXwGjx6s // [AR Maker] #4 눈 내리기로 시작하는 Blocks 기초

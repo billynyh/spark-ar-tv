@@ -4,6 +4,11 @@ DIgSuvqJyis // Tutorial Spark AR: vi racconto il mio filtro Spring
 # Alice Cerea
 lBx8fFK7Fz8 // CREARE FILTRI INSTAGRAM: il mio TUTORIAL FILTRI INSTAGRAM semplicissimo! 😎⏱️
 
+# andrea
+FUyrljCJ-4M // Come creare filtri Instagram sul viso. FACILE E VELOCE
+Sb_hXO6uoms // Come fare filtri con immagini al di fuori del viso. #TUTORIAL #SPARKAR
+SIsC-Q4g74g // COME CAMBIARE IL NASO E ALTRE PARTI DELLA FACCIA SU SPARK AR
+
 # Ar Hub
 YWD7XNna0Gk // Caffeuccio - il filtro di Barbara D'urso  // Spark ar tutorial - ITA
 
@@ -64,11 +69,6 @@ _Rv5Vb6fgO8 // Filtro colore con effetto vintage in movimento con SPARK AR STUDI
 
 # Fucsia Braids
 nyo3l9Y-8eU // CREIAMO IL NOSTRO FILTRO INSTAGRAM! 💯
-
-# GaNe
-FUyrljCJ-4M // Come creare filtri Instagram sul viso. FACILE E VELOCE
-Sb_hXO6uoms // Come fare filtri con immagini al di fuori del viso. #TUTORIAL #SPARKAR
-SIsC-Q4g74g // COME CAMBIARE IL NASO E ALTRE PARTI DELLA FACCIA SU SPARK AR
 
 # Giacomo Lucarini
 kwDh-ILHW2U // Come Creare Filtri Instagram e Facebook 2D in 10 Minuti | Tutorial Passo Passo Spark AR Studio
@@ -135,60 +135,60 @@ zC4mo8ahrmM // TUTORIAL COME CREARE FILTRI INSTAGRAM e FACEBOOK //spark ar
 F3LiVnDWWaE // CREO PER LA PRIMA VOLTA UN FILTRO INSTAGRAM | Christmas Edition #1 | mos
 
 # Natived Filters Laboratory
-gtGxxAIUqyE // Spark Ar tutorial ITA - Maschere e Filtro neon in sequenza animata
-sAHkUlUAT-E // Spark Ar tutorial Italiano - Estrarre la texture facciale e utilizzarla a nostro piacimento
-1r7nagauHnU // Spark ar studio tutorial - DUOTONE & TRITONE PATCH  + HUE SATURATION SWITCH
-a0lrNep4yQo // Spark Ar Tutorial  -Show effect only on Shadows / Midtones / Highlights + Image sequence
-h6208mfKuoA // Spark Ar Studio Tutorial - Texture Distortion + Glitch effect with RGB Shift
-MwxctcV2kc4 // Spark Ar Tutorial - Easy iris tracking - Change eyes color + Extra [FREE DOWNLOAD]
+gtGxxAIUqyE // Spark ar studio -  neon light + sequenza animata | tutorial ITA
+sAHkUlUAT-E // Come creare filtri per il viso per instagram - Spark ar studio ita
+1r7nagauHnU // Spark ar tutorial - Tritone and duotone shader patch
+a0lrNep4yQo // Spark Ar studio replace Shadow / Midtones / Highlights tutorial
+h6208mfKuoA // How to  make glitch effect in spark ar studio | distorting the camera
+MwxctcV2kc4 // Spark Ar filter color eyes tutorial - Easy iris tracking [FREE]
 TGwbZf6xnR4 // Spark Ar Tutorial - Split screen camera + glitch - Easy Mirror effect - Free download
 Or_d5ulXPXI // Spark Ar Studio tutorial beginners - Download free Spark Ar templates on Filtroo.com
-CphBxu6XlYg // Spark Ar Tutorial - Aesthetic Frame filter + Dynamic text date time + grainy texture - Free download
-VHuRAwHxMxM // Spark Ar tutorial - Who / Which are you? filter [FREE TEMPLATE]
-WKkoCfQbhmA // Spark Ar Tutorial - GLITCH and CLONE effect using Patch editor
+CphBxu6XlYg // Spark Ar Studio | Aesthetic Frame filter tutorial + Date and time
+VHuRAwHxMxM // Spark ar which are you template tutorial [FREE]
+WKkoCfQbhmA // Spark Ar Tutorial - CLONE shader Glitch effect in Patch editor
 7qb7gPW4BII // Spark Ar Tutorial - Easy Neon edge detection [FREE DOWNLOAD]
 LerynHPdjaA // Spark Ar Tutorials: How to fake synch Music to your instagram filters - Natived Filters Laboratory
-R1nBVAUbEM0 // Spark Ar Tutorial - Multiple user segmentation - Replace background
-a20kSlcWJYE // Spark ar studio - Your first filter! FULL PROCESS tutorial
+R1nBVAUbEM0 // Spark ar person segmentation tutorial - Replace user/background
+a20kSlcWJYE // How to upload filter to instagram | Beginner Spark ar studio tutorial
 o1Gcw_bfEpI // Spark Ar tutorial - Pixelate shader patch
-ggaYc20k1O4 // Spark ar studio tutorial - Add Sounds and Music - Tap to activate!
-_7rqH3dxYQ0 // Spark Ar Tutorial - texture distortion with custom image textures - Camera distortion - Deformation
-ZmY3cB2uuk4 // Spark Ar Tutorial - OUTLINE EFFECT - EDGE DETECTOR
--5W-v5RpaIs // Spark ar tutorials - Add multiple Instructions [FREE TEMPLATE]
-JnuIPqnbkU4 // Spark AR tutorial - Camera Texture DISTORTION using SDF - Mandala effect + Gradient - inspiration
-9svDksa80uQ // Spark AR Tutorial - Import custom FONT on 2D Dynamic text [MOOD OF THE DAY]
-6s1hK1yqsFk // Spark AR Tutorial - Outline Body Segmentation Animation using SDF / No textures
-Vz08tzffzjY // Spark Ar Studio - Tutorial - SDF Smooth patterns and Colors animations in patch editor -
-C_DgUv4d3hY // Spark Ar Tutorial beginners - Fill EYES and MOUTH in Spark AR studio - No photoshop
-mNojP__CrDM // Spark ar studio - Smooth transitions using SDF's tutorial
+ggaYc20k1O4 // Spark ar studio | Music filter tutorial - Screen tap
+_7rqH3dxYQ0 // Spark ar studio beginner tutorial - texture distortion with custom image textures
+ZmY3cB2uuk4 // Spark ar studio tutorial - Outline filter tutorial | Sobel filter patch
+-5W-v5RpaIs // Spark ar studio multiple Instructions tutorial [FREE TEMPLATE]
+JnuIPqnbkU4 // Camera Texture DISTORTION Spark AR tutorial - using SDF - Mandala
+9svDksa80uQ // How to add dynamic text in spark ar studio - Import custom FONT
+6s1hK1yqsFk // Spark AR Tutorial - SDF Outline Body Segmentation Animation
+Vz08tzffzjY // Spark Ar Studio - SDF tutorial Smooth generative patterns
+C_DgUv4d3hY // Spark Ar studio Tutorial for beginners - Fill EYES and MOUTH
+mNojP__CrDM // Spark ar studio neon outline smooth transitions using SDF tutorial
 4Ri0VIQ2B1c // Spark ar Studio Tutorial - Comics / Cartoon effect with Sobel Filter + SDF Animations
-J9HjQUJQljs // Spark Ar Studio - Easy Glitch Effect Tutorial
+J9HjQUJQljs // Spark Ar Studio - Easy Glitch filter tutorial
 VYAJ8WKQAbo // Spark ar studio - Background Frame Animation using SDF tutorial
-3SrGP8s1AHk // Spark ar studio - Huji camera style Light leaks tutorial
-VQxcSMsvfeU // Spark ar studio - Flashy lights tutorial
-jPrzLb-hx5Y // Spark ar studio - Pop halftone using SDF's - tutorial
-lY92ACD5_2Y // Spark ar studio - How to Audio start when pressing record button - Add music
+3SrGP8s1AHk // Spark ar Huji camera style | Light leaks tutorial
+VQxcSMsvfeU // Spark ar cinematic lighting - Flash lights tutorial
+jPrzLb-hx5Y // Spark ar beginner tutorial - Pop halftone filter using SDF
+lY92ACD5_2Y // Spark ar studio - Start music pressing record button - Add music on filters
 7VuRK5Ii22c // Spark Ar Studio Tutorial - GALLERY TEXTURE INSIDE EYES / IRIS
-AlJTHssJpVA // Spark ar studio - Gallery texture tutorial
-D0Rwb71covc // Spark ar studio - Audio Analyzer + RGB + SDF - Music reactive filter  [FREE DOWNLOAD]
-r-0iZz1XHBM // Spark ar studio - RGB shift on everything you want [FREE DOWNLOAD]
-wq2cyTdudDM // Spark ar studio - Plastic face on Make up tutorial
-W9MHgH7uVr8 // Spark ar studio - Twisting lights - SDF - Tutorial
+AlJTHssJpVA // Gallery picker texture | Spark ar studio tutorial
+D0Rwb71covc // Spark ar studio tutorial - how to add music to filter | Audio reactive
+r-0iZz1XHBM // Spark ar studio tutorial - Glitch effect on everything you want
+wq2cyTdudDM // Spark ar studio tutorial ita- Plastic face + Make up
+W9MHgH7uVr8 // Spark ar studio - SDF Tutorial | Twisting lights
 vRChcqiRk_4 // Spark ar studio - Make Rainbow!
-yFrkCfeE7fM // Spark ar studio - Vaporwave Scan Lines tutorial [FREE DOWNLOAD]
-8iic5UXEhgc // Spark ar studio - Render pass & Delay frame tutorial [FREE DOWNLOAD]
-jdgM2_QyDjY // Spark ar studio - Motion Blur Outlines - Full effect breakdown tutorial
-x318bkZf3Fc // Spark ar studio - Make your custom patch asset [FREE TEMPLATE]
-bBPJpDfmxOw // Spark Ar Studio - Face Distortion Pack [FREE TEMPLATE]
-pXxkyjxYVJ0 // Spark ar studio - Mix patch - Color Filter Tutorial
-Hqy_E5KYg7k // Spark Ar Studio - Dynamic Glitch Tutorial
+yFrkCfeE7fM // Spark ar alien vhs tutorial - Vaporwave vhs tutorial [FREE DOWNLOAD]
+8iic5UXEhgc // Spark ar studio - Render passes & Delay frame tutorial
+jdgM2_QyDjY // Shader render pass spark ar tutorial - Neon Blur Outlines - breakdown
+x318bkZf3Fc // Spark ar studio | Custom patch assets using SDF - Tutorial [FREE]
+bBPJpDfmxOw // Spark ar face deformation tutorial | Face distortion Pack [FREE]
+pXxkyjxYVJ0 // Color filter spark ar tutorial beginners | Mix patch explained
+Hqy_E5KYg7k // Spark Ar Studio - Dynamic glitch filter tutorial
 gkZuvxNbCdw // Spark Ar studio - Hair segmentation tutorial [FREE TEMPLATE]
-M6H5qn8qzJU // Spark Ar Studio | Easy Fish Eye Fisheye Tutorial | FREE TEMPLATE
-NYTGehvt-Zg // Spark Ar - Random color filter tutorial
-T9dDX-LcM0M // Spark Ar - Multiple effect on/off tutorial | FREE TEMPLATE
-6cUJYsZlwQ4 // Spark Ar Studio - SDF's Psychedelic pattern | Free Download
-J9FovnJ5_f4 // Motion color filter | Spark ar studio effect breakdown
-mCjnaU3e7r0 // Lights and colors reacting to music - sound | Spark Ar Studio tutorial
+M6H5qn8qzJU // Create an instagram filter Spark Ar tutorial beginner | Fisheye
+NYTGehvt-Zg // Spark Ar studio color filter - Random color tutorial for beginners
+T9dDX-LcM0M // Spark ar studio tutorial for beginners - Multiple effect on/off
+6cUJYsZlwQ4 // Spark ar tutorial -Sdf psychedelic pattern | FREE
+J9FovnJ5_f4 // Spark ar studio motion color filter | filter breakdown tutorial
+mCjnaU3e7r0 // Lights and colors reacting to audio | Spark Ar Studio tutorial
 Be82CwhLdlI // Spark ar face deformation | Pizza face filter tutorial
 xpFI82NiPsY // Spark ar studio glitch effect tutorial | No external textures
 
