@@ -1160,6 +1160,7 @@ SlLkTmO_BlA // Multiple Filters With Face Retouch  & Option Picker In One Instag
 V0WsBpLB72k // Spark AR Tutorial: Neon Edge Detection Outline Using Sobel Filter + Picker UI
 HuqlMe83CSg // Spark AR Tutorial: Cute Face Filter + Kira Kira For Hair + Deformation + White teeth + No Eye Bags
 Y1xnX7cttnM // Change Hair Color In Spark AR Studio In 3 Ways + Kira Kira + Blush + LUT Filter + Materials
+4PI3GweZuk4 // Spark AR Tutorial: Beauty Face Filter + 3D Eyelashes + Kira Kira + Deformation + Make Up + Materials
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -1528,6 +1529,7 @@ KBnB6idzOBQ // 5 Questions Spark AR | Nadia Wilson
 WC0msZe-Opg // SnowFall Filter Spark AR | Nadia Wilson
 OGMOpB3WFEs // Inspo for IG filter Spark AR | Nadia Wilson
 oD12Rn2mC6Q // FACE DEFORMATION FILTER Spark AR | Nadia Wilson
+u2GWxUEFhtQ // Person Segmentation Animated Background Spark AR | Nadia Wilson
 
 # Nadiia Moore
 6On115zW4PE // MAKE YOUR OWN COOL INSTAGRAM FILTER // Moving Hearts From The Eyes When You Blink
