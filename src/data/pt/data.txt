@@ -250,6 +250,7 @@ UU5txBnBYRs // Adding shift to our Kira Kira effect - Spark AR tutorial
 g50P_EbaS7I // Como fazer efeito gradiente no seu filtro do Instagram e Facebook
 UuNuES-V6L8 // Utilizando os elementos de iluminação do spark AR para criar efeito de lanterna
 60hybXjj-ls // Aula 02 - Produzindo filtro de maquiagem
+caAb25wOQTY // Aula 04 - Finalizando filtro de aniversário e publicando no Instagram
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -612,6 +613,8 @@ cIuIvi3f-yY // COMO FAZER EFEITO BOLA DE CHICLETE | POR JULLIANA.DEV
 8AazYC5H31k // ARCO ÍRIS NA TELA USANDO VOLUMETRIC PLANES | POR JULLIANA.DEV
 HBbO8XcGMfo // FILTRO DE ARCO-ÍRIS SAINDO DA BOCA | ANIMAÇÃO NA DEFORMAÇÃO E NOS FRAMES | POR JULLIANA.DEV
 Ns5qgmRRFps // COMO CRIAR FILTROS DE GRÃOS NO INSTAGRAM | POR JULLIANA.DEV
+Iw8tBgvoRsk // VÁRIAS OPÇÕES DE FILTROS DE LUT (PRESET) + SEGMENTATION + RETOUCH | POR JULLIANA.DEV
+xVOR0VJSo1w // COMO CRIAR EFEITOS DE "ADICIONAR MÍDIA" DA GALERIA DO USUÁRIO | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!

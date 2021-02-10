@@ -450,6 +450,7 @@ Yvll4lRMpFE // Hair Segmentation - Controlling Colours & Textures | Spark AR Stu
 LE1Fh7curaA // Spark AR Player Feature Spotlight | Spark AR Studio
 K_YPH6CT-SI // Working with Keyframe Patch | Spark AR Studio
 aQrxZaWECjg // Renderpass Splitscreen | Spark AR Studio
+PcY6kwNB4FQ // Spark AR ToolKit [Blender] | Spark AR Studio
 
 # CC in Tassie
 Zwqs8Tv54Vw // Blink of Eye Filter | Spark AR Beginner Tutorial
@@ -602,6 +603,7 @@ J4QAnxS1m8g // Face Split Effect in Spark AR Studio for Instagram Filter | Tutor
 qz3NfooYxJ4 // UI Picker for Multiple LUTs | Spark AR Tutorial - Changing Color Grading with Buttons for Instagram
 JYgaYlu_iKE // UI Picker + Background Replacement | Spark AR Studio Tutorial
 3ng_u4Ynikw // Image Compression done right for Spark AR Studio! How to reduce filter size! | File too big Error!
+La0FjMnJP0U // Glowing Face Effect in Spark AR Studio | Glowy Skin Filter for Instagram - Tutorial
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1162,6 +1164,7 @@ V0WsBpLB72k // Spark AR Tutorial: Neon Edge Detection Outline Using Sobel Filter
 HuqlMe83CSg // Spark AR Tutorial: Cute Face Filter + Kira Kira For Hair + Deformation + White teeth + No Eye Bags
 Y1xnX7cttnM // Change Hair Color In Spark AR Studio In 3 Ways + Kira Kira + Blush + LUT Filter + Materials
 4PI3GweZuk4 // Spark AR Tutorial: Beauty Face Filter + 3D Eyelashes + Kira Kira + Deformation + Make Up + Materials
+goIZSuw-nH8 // Spark AR Tutorial: How To Make Pink Sky Filter + How To Change Colors And Apply It In Spark AR
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -1579,6 +1582,7 @@ RDJ4-G424qU // How to See Who Used Your Filter on Instagram
 FHOSznaU0ak // TikTok lights for Instagram Filter in Spark AR
 F8J9xbpysLI // Hand Swipe Feature for Instagram Filter in Spark AR
 q53BcnmaMys // Fire Flames Shader Filter in Spark AR
+WXDhPdfLoZw // Butterfly on Face Instagram/Facebook Filter in Spark Ar
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -1596,6 +1600,7 @@ wA8fPhIddJM // Facebook & Instagram Filter │ Spark Ar Studio
 9J41kU9iL7s // "Indie Neon Kid" Instagram Filter │ Spark Ar Studio
 Qq0xaYnoGe8 // "Music Player" Instagram Filter │ Spark Ar Studio
 _so254l8yiA // "GRL PWR" Facebook & Instagram Filter │ Spark Ar Studio
+bK8vDt4F6Jk // "VALENTINE'S DAY" Instagram Filter │ Spark Ar Studio
 
 # Natalia Kovalchuk
 yBZAW99Bupw // Spark AR tutorial. Basic filter tutorial
@@ -1866,6 +1871,7 @@ sUdy6JoOfq0 // Spark AR Render Pass Scan Effect with Color Sampler
 v7vP3PoL4yQ // How to Create a Time Wrap Scan Effect for Instagram [Spark AR Basic Tutorial for Beginner]
 zvp2xS21pT4 // How to Create a Game-Score by Collisions [Spark AR Beginner Script/Patch Tutorial]
 4Z12NlTmCt8 // How to create a "Draw with Nose" Game (Spark AR Tutorial)
+YRkJWCPob64 // How to Make a Realistic VHS Aesthetic [Glitch and Color Grading]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
