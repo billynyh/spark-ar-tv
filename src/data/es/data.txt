@@ -471,6 +471,7 @@ fcNgMrs2REg // Spark AR - Create your own 3d avatar instagram filter (EN Caption
 _iG2bULV0f4 // Spark AR Tutorial - Hot spot annotations into 3d object (EN captions)
 8mUmuc9tskA // Spark AR Tutorial - 3D Scanner LiDAR | AR Filter (EN Captions)
 q4GyX2nIb20 // Spark AR Player to Oculus Quest | Testing on Virtual Reality
+VB3sJuBup4A // Tutorial Spark AR - Time Warp Efecto de Tiktok (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -774,6 +775,7 @@ OYUSNe1aFGY // Cómo Crear FILTROS de INSTAGRAM - 4.6. Filtros de color en Spark
 f1MZE-v4hqw // Cómo Crear FILTROS de INSTAGRAM - 4.7. Maquillaje #Sparkar #Instagram #cursoonline
 em_kRymElPs // Cómo Crear FILTROS de INSTAGRAM - 5. Publica tu filtro #Sparkar #Instagram #cursoonline
 hUOygGBdeLY // Crea tus filtros de Instagram con un menú intuitivo en Spark AR 🌟
+j1-eTsCDA-8 // Diseña tu filtro de Instagram quiz o de respuesta aleatoria 📲😱
 
 # Pikceles
 9ihduOmBzHc // Cómo CREAR tus propios filtros para Instagram fácilmente
