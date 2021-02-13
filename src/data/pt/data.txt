@@ -253,6 +253,7 @@ UuNuES-V6L8 // Utilizando os elementos de iluminação do spark AR para criar ef
 60hybXjj-ls // Aula 02 - Produzindo filtro de maquiagem
 caAb25wOQTY // Aula 04 - Finalizando filtro de aniversário e publicando no Instagram
 X6tc3bLcypQ // Curso Spark AR completo - Vagas abertas!!
+OS1Y0Iknku4 // Manipulando articulação de objeto 3D com movimentos do rosto
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -625,6 +626,7 @@ Iw8tBgvoRsk // VÁRIAS OPÇÕES DE FILTROS DE LUT (PRESET) + SEGMENTATION + RETO
 xVOR0VJSo1w // COMO CRIAR EFEITOS DE "ADICIONAR MÍDIA" DA GALERIA DO USUÁRIO | POR JULLIANA.DEV
 Df-yqbC0cLA // COMO CRIAR EFEITOS COM ASAS ANIMADAS SIMPLES | POR JULLIANA.DEV
 WwbSb76XsNw // COMO CRIAR O SEU EFEITO DE NEVE PARA O INSTAGRAM | POR JULLIANA.DEV
+tMgf5ivHGPQ // CRIANDO EFEITO DE ESTRELAS VIAJANDO NO ESPAÇO | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!

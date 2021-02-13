@@ -13,6 +13,9 @@ rt9dTo961co // How to make an 'Animated Birds' Instagram filter in 5 minutes | S
 # 7th Era
 ljRdsv0KD_4 // How To Turn Your Lightroom Presets Into Instagram Story Filters.
 
+# A CoLab
+OU-ja131-2I // #Charcha on #AugmentedReality
+
 # Aan Kurniawan
 uuIuoKz2I3U // Paint face
 6XwLwj8R87g // Spark AR : Instagram Filter - Bugis 3D
@@ -1169,6 +1172,7 @@ Y1xnX7cttnM // Change Hair Color In Spark AR Studio In 3 Ways + Kira Kira + Blus
 4PI3GweZuk4 // Spark AR Tutorial: Beauty Face Filter + 3D Eyelashes + Kira Kira + Deformation + Make Up + Materials
 goIZSuw-nH8 // Spark AR Tutorial: How To Make Pink Sky Filter + How To Change Colors And Apply It In Spark AR
 DwESLPA9XOI // Spark AR Studio Tutorial: Sensitive Content Instagram Filter (Blur) + Slider UI + Materials
+cdg4TXawP18 // Aesthetic Filter + Glitter + Music in Spark AR Studio | Easy Tutorial With Materials Provided
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -2321,6 +2325,9 @@ jCPu7OtGvpc // How to make a freeze frame Instagram filter from scratch using Sp
 xFMzxAF8kks // How to make a trippy, effed-up feedback filter for Instagram in Spark AR
 ND0vbQ-3nSI // How to match skin tone in Instagram filters using Spark AR's texture sampling
 u-rkKH0aJTw // How to make an iridescent, holographic Instagram filter with Spark AR
+
+# syntax shaburux
+Si3mAwoXu0g // SparkAR Filter|How i made the viral Cat Filter | What Cat Are You Instagram Filter Tutorial Shaburux
 
 # Tech Avni
 taWw_heiGBs // How To Make Instagram Filter Without Spark AR Studio || Make Instagram Filters Without PC For Free
