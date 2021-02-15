@@ -747,6 +747,7 @@ nlYbLe31K0o // Using function patch to create copies of texture - Spark AR tutor
 iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorials (English Tutorial)
 60hybXjj-ls // Aula 02 - Produzindo filtro de maquiagem
 X6tc3bLcypQ // Curso Spark AR completo - Vagas abertas!!
+6bK9Iigk77c // Aula do curso grátis - Kira Kira no seu filtro
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR FIRST INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1176,6 +1177,7 @@ Y1xnX7cttnM // Change Hair Color In Spark AR Studio In 3 Ways + Kira Kira + Blus
 goIZSuw-nH8 // Spark AR Tutorial: How To Make Pink Sky Filter + How To Change Colors And Apply It In Spark AR
 DwESLPA9XOI // Spark AR Studio Tutorial: Sensitive Content Instagram Filter (Blur) + Slider UI + Materials
 cdg4TXawP18 // Aesthetic Filter + Glitter + Music in Spark AR Studio | Easy Tutorial With Materials Provided
+oEqd0NDrwyo // Animated Dust + Changed Eye Color + Filter | Spark AR Tutorial: How To Make Instagram Filters
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -1835,6 +1837,7 @@ BHY6ojeWFQw // SPARK AR GAME | CATCH MY FACE, face segmentation
 u0jNNxh0DUE // SPARK AR | PHOTOBOOTH SCROLL Filter | kodak filmstrip effect ( photo booth Instagram filter )
 jWR9211oI3U // SPARK AR GAME | PERSONALITY QUIZ FILTER, THIS OR THAT type filter FLOWCHART, WEIGHTED QUESTIONS
 g1rGBkv0vZI // SPARK AR | POLAROID CAMERA WITH GALLERY TEXTURE
+9Sq25b9BCtU // SPARK AR GAME | WHAT ARE YOU QUIZ PATCH, RANDOM IMAGE QUIZ, WHICH CHARACTER ARE YOU
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8

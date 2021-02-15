@@ -202,6 +202,7 @@ sLMp5sUwjHk // Зависает Spark AR при загрузке изображ�
 r1Bj3kGZEqU // Как размыть фон и сделать чётким человека и нанести на это всё пресет / лут? - Spark AR, инста маски
 EucARBMC8cE // Как сжать PNG текстуры в Photoshop для Spark AR
 AAlymxQB3z0 // Как вставить музыку в Spark AR: выбираем припев, конвертируем, делаем малый размер файла. + Fade IN
+MoWaEaHLwcs // Рандомайзер 360 в Spark AR - рандом вокруг головы
 
 # Arturka King
 KiTYX2wKcAk // 😍 КАК ПЕРЕНЕСТИ ПРЕСЕТ ИЗ LIGHTROOM В SPARK AR | Пресет без засветов для Инcтаграм + 4 пресета(FREE)
@@ -663,6 +664,7 @@ _sSiR9vWV4U // Маска для instagram за 10 минут! Tutorial. Spark A
 goIZSuw-nH8 // Spark AR Tutorial: How To Make Pink Sky Filter + How To Change Colors And Apply It In Spark AR
 DwESLPA9XOI // Spark AR Studio Tutorial: Sensitive Content Instagram Filter (Blur) + Slider UI + Materials
 cdg4TXawP18 // Aesthetic Filter + Glitter + Music in Spark AR Studio | Easy Tutorial With Materials Provided
+oEqd0NDrwyo // Animated Dust + Changed Eye Color + Filter | Spark AR Tutorial: How To Make Instagram Filters
 
 # Kir Ensin
 wJSL0f9VUog // Как сделать маску в Инстаграм за 5 минут I Spark AR урок
