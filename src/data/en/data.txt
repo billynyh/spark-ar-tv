@@ -609,6 +609,7 @@ JYgaYlu_iKE // UI Picker + Background Replacement | Spark AR Studio Tutorial
 3ng_u4Ynikw // Image Compression done right for Spark AR Studio! How to reduce filter size! | File too big Error!
 La0FjMnJP0U // Glowing Face Effect in Spark AR Studio | Glowy Skin Filter for Instagram - Tutorial
 a7Rt2p29EnY // Day of the Week + Timestamp with Custom Font | Spark AR Studio Tutorial for Instagram Filter
+qe8_YGyQc0c // Polaroid Filter in Spark AR Studio + Assets + Vintage LUT Download! | Instagram Filter Tutorial
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1596,6 +1597,7 @@ FHOSznaU0ak // TikTok lights for Instagram Filter in Spark AR
 F8J9xbpysLI // Hand Swipe Feature for Instagram Filter in Spark AR
 q53BcnmaMys // Fire Flames Shader Filter in Spark AR
 WXDhPdfLoZw // Butterfly on Face Instagram/Facebook Filter in Spark Ar
+JwuKDpjbzxU // Freeze Frame & Photo Booth Effect for Instagram Filter/ Render Pass Spark AR Tutorial
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
