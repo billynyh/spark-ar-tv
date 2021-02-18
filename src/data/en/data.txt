@@ -610,6 +610,7 @@ JYgaYlu_iKE // UI Picker + Background Replacement | Spark AR Studio Tutorial
 La0FjMnJP0U // Glowing Face Effect in Spark AR Studio | Glowy Skin Filter for Instagram - Tutorial
 a7Rt2p29EnY // Day of the Week + Timestamp with Custom Font | Spark AR Studio Tutorial for Instagram Filter
 qe8_YGyQc0c // Polaroid Filter in Spark AR Studio + Assets + Vintage LUT Download! | Instagram Filter Tutorial
+Hk1i0tg0d2o // Drawing Filter in Spark AR Studio | Draw Something Effect for Instagram Stories - Tutorial
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -642,6 +643,9 @@ XTyX3NbAsS4 // Creating a CHROME CHAIN Instagram Filter [Part 1]
 
 # DSC KIIT
 3rvX7FsmFI4 // AR Spark | How to make Instagram/Facebook stickers | DSC KIIT
+
+# DSC Medipol University
+QreuJATjHI4 // Create An Instagram Filter | Spark AR | Javad Khalilov
 
 # DSZ arts
 bdeCgtdYm2k // Moody Zones - Instagram Filter - Spark AR Timelapse
@@ -1179,6 +1183,7 @@ goIZSuw-nH8 // Spark AR Tutorial: How To Make Pink Sky Filter + How To Change Co
 DwESLPA9XOI // Spark AR Studio Tutorial: Sensitive Content Instagram Filter (Blur) + Slider UI + Materials
 cdg4TXawP18 // Aesthetic Filter + Glitter + Music in Spark AR Studio | Easy Tutorial With Materials Provided
 oEqd0NDrwyo // Animated Dust + Changed Eye Color + Filter | Spark AR Tutorial: How To Make Instagram Filters
+26fw72oNN-c // How To Fix Instagram Filters Not Working (As a User & As a Creator In Spark AR Studio)
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -1890,6 +1895,7 @@ v7vP3PoL4yQ // How to Create a Time Wrap Scan Effect for Instagram [Spark AR Bas
 zvp2xS21pT4 // How to Create a Game-Score by Collisions [Spark AR Beginner Script/Patch Tutorial]
 4Z12NlTmCt8 // How to create a "Draw with Nose" Game (Spark AR Tutorial)
 YRkJWCPob64 // How to Make a Realistic VHS Aesthetic [Glitch and Color Grading]
+eDaiDmy7gPc // How to create a 2D Responsive & Dynamic Text in Spark AR [PART 2 of the VHS Aesthetic Filter Series]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -2204,6 +2210,8 @@ BBIXp1ZV9jY // Screen Tap Controls Opacity (Loop Animation, Swizzle) | Instagram
 rqWUgosgalo // Neon Glow Effect (Opacity, Duotone, Pulse, Radioactive) | Instagram & Facebook | Spark AR Tutorial
 rdavd624xLw // Outline Segmentation (Image Texture, Animation Sequence) | Instagram & Facebook | Spark AR Studio
 Wsoach5uGK0 // Screen Tap & Hold (Rainbow, Earth, Visibility, Logic) | Instagram & Facebook | Spark AR Tutorial
+Cohoj5QpzB0 // Teal & Orange Filter Effect (LUT, Patch, Texture, Basic) | Instagram & Facebook | Spark AR Tutorial
+ooSFCgpxGwY // Teal & Orange Filter Effect (Sobel, 3x3 Opacity, LUTs) | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
