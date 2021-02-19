@@ -245,6 +245,7 @@ B7OSqcCxCjE // TUTORIAL MEMBUAT FILTER DUST EFFECT DI SPARK AR STUDIO
 # Arrow Community
 lP9xhejN_B8 // Fitting rectangles to Resizable Window (Spark AR tutorial)
 qaXA1L22UEw // Fixing Rectangles to ANY Screen Size (Spark AR Tutorial)
+7wRXVfZPRU4 // Portrait orientation video from iMovie: Tutorial
 
 # Arti Creator
 PvNPegxSRQM // Make Your Own Instagram Filter in Spark AR Studio. Fast Tutorial
@@ -756,6 +757,7 @@ X6tc3bLcypQ // Curso Spark AR completo - Vagas abertas!!
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR FIRST INSTAGRAM FILTER: Spark AR Beginner Tutorial
+QpylaiZysBc // MY SPARK AR FILTER COMPILATION (PT.1)
 
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
@@ -1184,6 +1186,7 @@ DwESLPA9XOI // Spark AR Studio Tutorial: Sensitive Content Instagram Filter (Blu
 cdg4TXawP18 // Aesthetic Filter + Glitter + Music in Spark AR Studio | Easy Tutorial With Materials Provided
 oEqd0NDrwyo // Animated Dust + Changed Eye Color + Filter | Spark AR Tutorial: How To Make Instagram Filters
 26fw72oNN-c // How To Fix Instagram Filters Not Working (As a User & As a Creator In Spark AR Studio)
+ChENaBHfapQ // Fisheye Lens Filter in Spark AR + Picker UI | Easy Tutorial + Materials Provided
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -1968,6 +1971,12 @@ Cv4FvGpokuc // Free Spark AR Project : Christmas Filter
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
 
+# RealityHouse
+GMlMWUkcgbc // Speedy Spark // Tutorial 4
+5I6jAu33U2w // Speedy Spark // Tutorial 3
+xCBF7UB1Czg // Speedy Spark // Tutorial 2
+gWJfuBR2hfI // Speedy Spark // Tutorial 1
+
 # Rebekah Read
 rcqHiR0ULx8 // How To Create a Spark AR "What Are You" Instagram Filter
 
@@ -2212,6 +2221,7 @@ rdavd624xLw // Outline Segmentation (Image Texture, Animation Sequence) | Instag
 Wsoach5uGK0 // Screen Tap & Hold (Rainbow, Earth, Visibility, Logic) | Instagram & Facebook | Spark AR Tutorial
 Cohoj5QpzB0 // Teal & Orange Filter Effect (LUT, Patch, Texture, Basic) | Instagram & Facebook | Spark AR Tutorial
 ooSFCgpxGwY // Teal & Orange Filter Effect (Sobel, 3x3 Opacity, LUTs) | Instagram & Facebook | Spark AR Tutorial
+GtYe57TM7lE // Mirror Filter Effect (Tap to Change, Patch, Add, Basic) | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

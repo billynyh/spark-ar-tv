@@ -61,6 +61,7 @@ LO4EZJidk_w // #SparkARQuickTips v102
 HV9j8VfMG54 // Building the bridge between mobile and the future with Mike Schroepfer and Sue Young
 FBsKGX4E3UI // #SparkARQuickTips v105
 OxdPs0-dRTE // #SparkARQuickTips v106
+KdMZr_I4bdE // #SparkARQuickTips v107
 
 # Facebook Developers
 dm64Zm4TcVA // Developer Circles Skills Connection | Building Engaging Experiences on Spark AR

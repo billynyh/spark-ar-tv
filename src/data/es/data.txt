@@ -104,6 +104,9 @@ _45kisz4yKs // Rigging de objetos 3D para realidad aumentada.
 g3SJRCBRFSg // Spark AR AÑADIR SCREEN TAP
 f_xomb7TZ5c // Spark AR: AÑADIR INSTRUCCIÓN "TOCA PARA CAMBIAR"
 
+# Click Media Agencia
+jpKw198lp0g // CURSO SPARK AR STUDIO | Instalación y primeros pasos | Tutorial #1
+
 # Color Space
 OVOZOnhxNd4 // COMO PUBLICAR FILTROS PARA INSTAGRAM EN SPARK - Filtros para instagram.
 lJZUAZaXV3A // APRENDE A HACER FILTROS DE COLOR PARA INSTAGRAM FÁCIL CON LIGHTROOM
@@ -443,6 +446,7 @@ _iG2bULV0f4 // Spark AR Tutorial - Hot spot annotations into 3d object (EN capti
 8mUmuc9tskA // Spark AR Tutorial - 3D Scanner LiDAR | AR Filter (EN Captions)
 q4GyX2nIb20 // Spark AR Player to Oculus Quest | Testing on Virtual Reality
 VB3sJuBup4A // Tutorial Spark AR - Time Warp Efecto de Tiktok (EN Captions)
+FzyXArvAuQw // Spark AR - Neck bending occlusion - Hole in the heart Prototype (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
