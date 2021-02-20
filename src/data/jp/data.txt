@@ -75,6 +75,7 @@ gfmoJhL5uMY // 【エヴァンゲリオン風】インスタフィルターを�
 qlQDzSgox6E // 【複数人対応】キャラクターを使ったインスターフィルターをつくってみた
 peJBn-jSCvA // 【バレンタイン用】Spark AR Studioでインスタフィルターをつくってみた
 BhqSw3mpOAo // 【Spark AR Studio】 ハートのエフェクトを自作してみた！！　インスタフィルター
+v9dQ47_g_9c // 【Patch Assets】SparkAR公式のPatchを使って簡単にインスタエフェクトを作ろう！
 
 # SUNABACO
 jE42a-uh-CI // FbやInstagramのカメラ機能をカスタムしよう！【Spark AR】

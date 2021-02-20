@@ -257,6 +257,7 @@ caAb25wOQTY // Aula 04 - Finalizando filtro de aniversário e publicando no Inst
 X6tc3bLcypQ // Curso Spark AR completo - Vagas abertas!!
 OS1Y0Iknku4 // Manipulando articulação de objeto 3D com movimentos do rosto
 6bK9Iigk77c // Aula do curso grátis - Kira Kira no seu filtro
+Y9psTZ6LUX4 // Frame de foto e texto dinâmico no seu filtro - tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -450,6 +451,9 @@ Ns-J-nIOF2o // 🔴  Como fazer filtro 3D para instagram stories spark ar🔴
 xXFXwyUYezw // GAME DE PALAVRAS FILTROS PARA INSTAGRAM 2021 PT 4
 6PY060wWnHs // GAME DE PALAVRAS FILTROS PARA INSTAGRAM 2021 PT 6
 MRXZeCcUr94 // GAME DE PALAVRAS FILTROS PARA INSTAGRAM 2021 PT 7
+1eI4hjtfwJo // GAME DE PALAVRAS FILTROS PARA INSTAGRAM 2021 PT 8
+1HWtUwCsZME // GAME DE PALAVRAS FILTROS PARA INSTAGRAM 2021 PT 5
+YM1gIKnfew4 // COMO FAZER FILTRO DE MAQUIAGEM NO INSTAGRAM 2021 | ATUALIZADO
 
 # María Humans
 AjV6IMvBPwc // COMO CREAR FILTROS PARA INSTAGRAM FACIL | Maria Little
@@ -650,6 +654,7 @@ _N6PgeiJdzk // COMO CRIAR EFEITO HUJI NO INSTAGRAM (LIGHT LEAK) | POR JULLIANA.D
 7Fhzgc7wJBc // COMO ATIVAR PARTÍCULAS ESTILO CONFETES COM O "TOQUE E SEGURE" | POR JULLIANA.DEV
 vyhu74uzMcA // COMO PUBLICAR O SEU EFEITO NO INSTAGRAM + ANÚNCIO NO FINAL | POR JULLIANA.DEV
 s-RJv8EZrTM // COMO CRIAR EFEITOS DE MOLDURAS ANIMADAS PARA O INSTAGRAM | POR JULLIANA.DEV
+J5qdEhAqodg // COMO COLOCAR MÚSICA OU EFEITOS SONOROS ESPECIAIS NO FILTRO DO INSTAGRAM | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!

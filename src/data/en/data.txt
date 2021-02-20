@@ -345,6 +345,7 @@ g6ZymN2hXlI // HOW TO MAKE GLITCH ECHO | SPARK-AR EFFECT
 VFf3M4C8iE8 // HOW TO MAKE NEON POP FILTER FOR INSTAGRAM |
 snHLXEfOjcs // HOW TO MAKE DUAL TONE IG FILTER | SPARK AR
 wBvX9sh2d6g // HOW TO MAKE NEON HAIR INSTAGRAM FILTER | SPARK AR
+FjemwsK-v08 // HOW TO MAKE YOUR OWN SCI-FI INSTAGRAM FILTER !
 
 # Car.Tunist
 0IYiGS8XRJU // Create an AR Selfie Filter Using VR: Gravity Sketch and Spark AR Tutorial
@@ -744,6 +745,13 @@ KOXKdmYcL5k // How I create my Instagram Face Filter | Beginner Spark AR Studio 
 # FilterGrade
 woc5UtOZtfk // Intro Tutorial to Spark AR for Creating Instagram Story Filters
 
+# Filtermi
+6g6qIwiq5po // Spark Ar Studio tutorial managing 2D&3D objects ( text, rectangle, face tracker)
+dsxk2fBpV3M // Face tracker Spark Ar Studio Tutorial
+OkMvSjiiVaU // Face  Deformation Tutorial Spark Ar Studio
+J_FQgrgnHxw // Interface and plane tracker Tutorial Spark Ar Studio
+mpKtHiLTlAo // Fixed Target Tracker Tutorial Spark Ar Studio
+
 # Filters & Design
 UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
 
@@ -754,6 +762,7 @@ iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorial
 60hybXjj-ls // Aula 02 - Produzindo filtro de maquiagem
 X6tc3bLcypQ // Curso Spark AR completo - Vagas abertas!!
 6bK9Iigk77c // Aula do curso grátis - Kira Kira no seu filtro
+Y9psTZ6LUX4 // Frame de foto e texto dinâmico no seu filtro - tutorial Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR FIRST INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -2222,6 +2231,7 @@ Wsoach5uGK0 // Screen Tap & Hold (Rainbow, Earth, Visibility, Logic) | Instagram
 Cohoj5QpzB0 // Teal & Orange Filter Effect (LUT, Patch, Texture, Basic) | Instagram & Facebook | Spark AR Tutorial
 ooSFCgpxGwY // Teal & Orange Filter Effect (Sobel, 3x3 Opacity, LUTs) | Instagram & Facebook | Spark AR Tutorial
 GtYe57TM7lE // Mirror Filter Effect (Tap to Change, Patch, Add, Basic) | Instagram & Facebook | Spark AR Tutorial
+2_XnvO4JtVc // Camera Zoom Filter Effect (Loop Animation, Transition) | Instagram & Facebook | Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
