@@ -192,6 +192,7 @@ mCjnaU3e7r0 // Lights and colors reacting to audio | Spark Ar Studio tutorial
 Be82CwhLdlI // Spark ar face deformation | Pizza face filter tutorial
 xpFI82NiPsY // Spark ar studio glitch effect tutorial | No external textures
 bg31T2FAu28 // Spark ar studio | Color filter - Thermo camera tutorial
+yWmkvXR558M // how to create an instagram story filter | True Detective/double exposure effect in spark ar studio
 
 # Nicolò Fava - Channel
 TXtV8VaLFpg // Come ho creato 5(+1) FILTRI INSTAGRAM in 5 giorni
