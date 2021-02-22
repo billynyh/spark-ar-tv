@@ -332,6 +332,7 @@ iTxFZ8X6HE0 // Filtro de Deformar la cara con Spark Ar
 gBAEi5w28Wo // Combinar LUT + Face mesh + Retouch (Spark AR)
 eijoHm44LEs // Animación de Mariposas en Spark Ar - Añadir vídeo mp4
 9xaW22IdI_I // Filtro FLASH WARNING (Spark AR)
+Av35h-ROoTE // SOLUCIÓN SI Spark Ar No te deja subir tu filtro
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -570,6 +571,9 @@ W08tfNQj7TI // ❗❗❗¿CÓMO CREAR TU PROPIO FILTRO DE INSTAGRAM? , 💻 FÁC
 
 # Juan Romero
 LUaY_-sV324 // Making of: Filtro básico para Instagram y Facebook
+
+# JuanPedro
+AQHAON5C3jU // Spark AR - Como hacer una mascara de vos mismo
 
 # JULIETA WIBEL
 NrrKn-v8a7E // La VERDAD sobre los FILTROS de INSTAGRAM

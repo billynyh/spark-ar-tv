@@ -1504,6 +1504,7 @@ y8clNu8MEe4 // Spark AR Studio - Catrina [tutorial]
 # mershmelli
 hHfntun_KEU // How To Make Your Own Instagram Story Filter | Easiest way
 35zY7lICubA // How To Make Kira Sparkle Instagram Story Filter ✨ | With Color Filter
+TZEmIDTl2T0 // How To Make Wedding Frame Instagram Story Filter 🤵👰 | With Color Filter
 
 # Michaela Manalang
 KXmFGVK3fPo // HOW TO MAKE AN INSTAGRAM FILTER TUTORIAL ( 1 FILTER AND COMBINATION OF 2 FILTERS)| MICHAELA MANALANG
@@ -1519,6 +1520,7 @@ R3BFw92JsLI // Publishing your fist Spark AR project
 P46w_nIg7OE // Easy Freckles in Spark AR!
 u31vRoG3uns // Adding Grain with Spark AR
 -p0q9Gk-jpc // Simulate reduced framerates in Spark AR with render passes
+U60CECzzneE // Spark AR Stencil Effect
 
 # Mohit
 R5EGaX7JJDw // How to make your own instagram filter!
