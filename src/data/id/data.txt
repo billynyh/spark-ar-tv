@@ -452,6 +452,7 @@ re3BJPgpQc8 // How to Create Paparazi Filter in Spark AR | Tutorial #1
 37FK6b2XZEA // How To Create Face Mesh (.obj) File for your Spark AR Filter
 UObWRiLxQwo // How to Create Demon Filter in Spark AR for Your Instagram | Tutorial
 2H-reUI21Uw // How to Create Face Swap Instruction in Spark AR | Tutorial
+AZ2Fe2e8rD8 // Create Plastic Filter In Spark AR | Tutorial
 
 # DEWA KAWE
 iNWbJ_ajjQA // Cara buat filter instagram sendiri,box logo diwajah | SPARK AR STUDIO
@@ -1674,6 +1675,7 @@ NAaGQfSllyg // Motion Blur Sparkle - Spark AR Studio - [ Tutorial ]
 rNM5RFSqUo0 // Sobel filter RGB - Spark AR Studio - [ Tutorial ]
 eT3rQQBVLDY // Mengubah warna tumbuhan - Spark AR Studio - [ Tutorial ]
 sirN8fSHAtg // Aesthetic pastel purple - Spark AR Studio - [ Tutorial ]
+AJNp8Yg-q3s // Border - Instagram Filter - Spark AR Studio - [ Tutorial ]
 
 # Ryansyafad
 KczIPuIQKtE // Cara membuat filter Instagram | Pakai HP | SPARK AR | GAMPANG BGT!!!

@@ -766,6 +766,7 @@ iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorial
 X6tc3bLcypQ // Curso Spark AR completo - Vagas abertas!!
 6bK9Iigk77c // Aula do curso grátis - Kira Kira no seu filtro
 Y9psTZ6LUX4 // Frame de foto e texto dinâmico no seu filtro - tutorial Spark AR
+z6SRqguJlyk // Como publicar filtro no Instagram pelo celular
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR FIRST INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1621,6 +1622,7 @@ F8J9xbpysLI // Hand Swipe Feature for Instagram Filter in Spark AR
 q53BcnmaMys // Fire Flames Shader Filter in Spark AR
 WXDhPdfLoZw // Butterfly on Face Instagram/Facebook Filter in Spark Ar
 JwuKDpjbzxU // Freeze Frame & Photo Booth Effect for Instagram Filter/ Render Pass Spark AR Tutorial
+CQ5rwjzZayU // Spark AR: Angel wings with LUT and Retouch
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
