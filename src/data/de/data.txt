@@ -81,6 +81,7 @@ HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 4Z12NlTmCt8 // How to create a "Draw with Nose" Game (Spark AR Tutorial)
 YRkJWCPob64 // How to Make a Realistic VHS Aesthetic [Glitch and Color Grading]
 eDaiDmy7gPc // How to create a 2D Responsive & Dynamic Text in Spark AR [PART 2 of the VHS Aesthetic Filter Series]
+-f1ZKsDgnvE // How to create a Timer in Spark AR [PART 3 of the VHS Aesthetic Filter Series]
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio
