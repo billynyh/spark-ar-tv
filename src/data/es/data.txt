@@ -857,6 +857,9 @@ NSGeiCcZdCE // Spark AR Tutorial 5: Crear Efecto RGB
 gz_xW2TXuSQ // Spark AR Tutorial 7: Crear Efecto OUTLINE
 FpdUH0zGaXo // Spark AR Tutorial 8: Como crear Efecto Clones
 
+# Tips e ideas
+0MTMC0tsm60 // Como hacer tus propios filtros de Instagram -Spark AR para principiantes.
+
 # TranceCortz
 BcwkmkxRuDE // COMO crear FILTRO DE INSTAGRAM con PRESET de LightRoom
 
@@ -889,6 +892,9 @@ gycx9IV9r_g // Spark AR Rotating Head Crown
 # William AR Lab
 mNZLkzlVSms // Creación de filtro con efecto marco en Spark AR Studio
 xxQMat_-8x0 // Simulando un GIF en Spark AR Studio
+
+# Wirdymgar
+y50Km3XK7l4 // Termina tu filtro de Objeto 3D (Cabeza de Minecraft) | Filtro IG de Cabeza de MC #2 Spark AR
 
 # Yeyo
 AbaknB4FlAM // ¡Cómo CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM! 📱
