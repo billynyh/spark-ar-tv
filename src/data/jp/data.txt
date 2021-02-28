@@ -79,6 +79,7 @@ v9dQ47_g_9c // 【Patch Assets】SparkAR公式のPatchを使って簡単にイ�
 v10bsWIxvzw // 【チュートリアル】SparkARでのフィルターの作成・申請・実際に使ってみるところまで紹介します！
 hNwAdseQxhk // 【Wing Filter】SparkARで翼のエフェクトを作ってみました
 ypUArQ3oYdg // 【SparkAR】AR Libraryを使って手軽にキラキラエフェクトを作ろう
+ysBzjlxK1Ns // 【Spark AR】zoomのようなバーチャル背景を作ってみた
 
 # SUNABACO
 jE42a-uh-CI // FbやInstagramのカメラ機能をカスタムしよう！【Spark AR】
