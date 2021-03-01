@@ -298,7 +298,7 @@
       {
         "title": "Kid creators",
         "url": "https://billynyh.github.io/spark-ar-tv/global/topics/kid-creators.html",
-        "video_count": 21
+        "video_count": 22
       },
       {
         "title": "LUT",
@@ -469,7 +469,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
-      "meta1": "Num videos: 101",
+      "meta1": "Num videos: 102",
       "meta2": null
     },
     {
@@ -783,10 +783,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-03-01.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/w8kFcAG8bE8/hqdefault.jpg",
+      "title": "Week 2021-03-01",
+      "meta1": "Num videos: 2",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-02-22.html",
       "thumbnail_url": "https://i.ytimg.com/vi/oaAazSS7g20/hqdefault.jpg",
       "title": "Week 2021-02-22",
-      "meta1": "Num videos: 61",
+      "meta1": "Num videos: 66",
       "meta2": null
     },
     {
@@ -815,13 +822,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/c-RV3Tv3LVQ/hqdefault.jpg",
       "title": "Week 2021-01-25",
       "meta1": "Num videos: 77",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-01-18.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/qNCSA_pez1g/hqdefault.jpg",
-      "title": "Week 2021-01-18",
-      "meta1": "Num videos: 72",
       "meta2": null
     }
   ]

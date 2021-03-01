@@ -1530,6 +1530,9 @@ fdDGSsakOFI // Create your new Instagram filter! - Spark AR Studio
 -3bWkrG4-_A // Spark AR for Beginner
 R3BFw92JsLI // Publishing your fist Spark AR project
 
+# MOBITRON
+xknGL4T6dCo // How To Create Your Own INSTA FILTER In 10 Mins // Instagram Tutorial // MOBITRON
+
 # Models by Mike
 P46w_nIg7OE // Easy Freckles in Spark AR!
 u31vRoG3uns // Adding Grain with Spark AR
@@ -2260,6 +2263,7 @@ Cohoj5QpzB0 // Teal & Orange Filter Effect (LUT, Patch, Texture, Basic) | Instag
 ooSFCgpxGwY // Teal & Orange Filter Effect (Sobel, 3x3 Opacity, LUTs) | Instagram & Facebook | Spark AR Tutorial
 GtYe57TM7lE // Mirror Filter Effect (Tap to Change, Patch, Add, Basic) | Instagram & Facebook | Spark AR Tutorial
 2_XnvO4JtVc // Camera Zoom Filter Effect (Loop Animation, Transition) | Instagram & Facebook | Spark AR Tutorial
+w8kFcAG8bE8 // Texture Occlusion Filter Effect (Alpha, Color Cycle, GIMP) | Instagram & Facebook Spark AR Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
