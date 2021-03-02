@@ -621,6 +621,7 @@ La0FjMnJP0U // Glowing Face Effect in Spark AR Studio | Glowy Skin Filter for In
 a7Rt2p29EnY // Day of the Week + Timestamp with Custom Font | Spark AR Studio Tutorial for Instagram Filter
 qe8_YGyQc0c // Polaroid Filter in Spark AR Studio + Assets + Vintage LUT Download! | Instagram Filter Tutorial
 Hk1i0tg0d2o // Drawing Filter in Spark AR Studio | Draw Something Effect for Instagram Stories - Tutorial
+U9mSPOpfYy0 // Sunglasses Filter in Spark AR! | Free 3D Assets | Instagram Filter Tutorial
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1639,6 +1640,7 @@ q53BcnmaMys // Fire Flames Shader Filter in Spark AR
 WXDhPdfLoZw // Butterfly on Face Instagram/Facebook Filter in Spark Ar
 JwuKDpjbzxU // Freeze Frame & Photo Booth Effect for Instagram Filter/ Render Pass Spark AR Tutorial
 CQ5rwjzZayU // Spark AR: Angel wings with LUT and Retouch
+Q_9HEWdMFwI // Spark AR Tutorial: Glow Effect on Flying Butterflies for Instagram
 
 # Nahir Esper
 Ml8lIsEZCBo // Watch me build #1 │Spark Ar + GIFT
@@ -1824,6 +1826,7 @@ IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" 
 0QrI5Ay7qYA // Dream Land is the new Instagram Filter created by Piotar Boa #Shorts
 8LWQhGOwWbc // Piotar Boa #Snapchat Body Tracking #lenses #Shorts
 U-KwBuTwlFc // How to create realistic 3D hair in #SparkAR to use on Instagram and Facebook by #PiotarBoa
+b9oqcSB-y9c // How to create realistic hair in Blender to use on Spark AR Studio and building an Instagram filter
 
 # Pond Skater Studio
 aJggm9Dad2A // Full Spark AR Workflow - From Ideation to Publishing
@@ -2264,6 +2267,7 @@ ooSFCgpxGwY // Teal & Orange Filter Effect (Sobel, 3x3 Opacity, LUTs) | Instagra
 GtYe57TM7lE // Mirror Filter Effect (Tap to Change, Patch, Add, Basic) | Instagram & Facebook | Spark AR Tutorial
 2_XnvO4JtVc // Camera Zoom Filter Effect (Loop Animation, Transition) | Instagram & Facebook | Spark AR Tutorial
 w8kFcAG8bE8 // Texture Occlusion Filter Effect (Alpha, Color Cycle, GIMP) | Instagram & Facebook Spark AR Tutorial
+y4ZdPDA-wOQ // Favourite Filters #9 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

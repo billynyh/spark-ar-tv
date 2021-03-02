@@ -450,6 +450,7 @@ _iG2bULV0f4 // Spark AR Tutorial - Hot spot annotations into 3d object (EN capti
 q4GyX2nIb20 // Spark AR Player to Oculus Quest | Testing on Virtual Reality
 VB3sJuBup4A // Tutorial Spark AR - Time Warp Efecto de Tiktok (EN Captions)
 FzyXArvAuQw // Spark AR - Neck bending occlusion - Hole in the heart Prototype (EN Captions)
+faMFhgAMxFw // Spark AR - Crear un portal con LiDAR 3D Scan (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
