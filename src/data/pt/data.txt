@@ -676,6 +676,7 @@ r49Iz2D_9Rw // COMO CRIAR FILTRO COM NOISE COLORIDO | POR JULLIANA.DEV
 WJCzIRHazU4 // COMO CRIAR EFEITO COM POST DO TWITTER | POR JULLIANA.DEV
 1dTlbGRTPic // COMO CRIAR EFEITO DE PARTÍCULAS QUE NASCEM QUANDO SACODE A CABEÇA | POR JULLIANA.DEV
 iQBWhYZx2Fw // COMO ALTERAR FONTE DO TEXTO DINÂMICO NO SPARK AR STUDIO | POR JULLIANA.DEV
+pj1dEoLrC24 // COMO CRIAR EFEITO QUE ALTERA A VOZ NO INSTAGRAM | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
@@ -1005,6 +1006,7 @@ rY8DNgo0-Yk // Liptint ou batom básico nos seus filtros - Spark Ar Studio
 WZtw-Gjz_Jk // Tutorial Completo Cílios 3d em filtros - Spark Ar Studio
 oaAazSS7g20 // Forma mais fácil de trocar cor dos olhos em filtros/Block - Spark Ar Studio Block
 DQvdlv5Bhp0 // Vários LUTs em um filtro a forma mais fácil, tocando na tela ou com botões - Spark Ar Studio
+2WG2k58CPbA // 5 sites para baixar Objetos 3d de graça - Spark Ar Studio Tutorial
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1

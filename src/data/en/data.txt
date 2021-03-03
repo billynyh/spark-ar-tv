@@ -1392,6 +1392,7 @@ DHk8dRXiV_M // How to make "Who are you" filter + audio effect -  Spark AR TUTOR
 
 # Maria Nova
 oSp_CgomdzA // 4 awesome AR creators I met at AWE 2019 in Munich.
+SiOnQDqpKds // SparkAR portfolio
 
 # Maria Saavedra
 A14Z4AaZCX4 // How to create a custom Instagram filter in Spark AR Studio
@@ -1890,6 +1891,7 @@ jWR9211oI3U // SPARK AR GAME | PERSONALITY QUIZ FILTER, THIS OR THAT type filter
 g1rGBkv0vZI // SPARK AR | POLAROID CAMERA WITH GALLERY TEXTURE
 9Sq25b9BCtU // SPARK AR GAME | WHAT ARE YOU QUIZ PATCH, RANDOM IMAGE QUIZ, WHICH CHARACTER ARE YOU
 iHxP2iH3ye0 // SPARK AR GAME | TRUE OR FALSE quiz game template
+nleFX1rB11M // PARK AR GAME | EATING game template ( patches only )
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -1942,6 +1944,7 @@ zvp2xS21pT4 // How to Create a Game-Score by Collisions [Spark AR Beginner Scrip
 YRkJWCPob64 // How to Make a Realistic VHS Aesthetic [Glitch and Color Grading]
 eDaiDmy7gPc // How to create a 2D Responsive & Dynamic Text in Spark AR [PART 2 of the VHS Aesthetic Filter Series]
 -f1ZKsDgnvE // How to create a Timer in Spark AR [PART 3 of the VHS Aesthetic Filter Series]
+KJ3GP242yOc // Photo Booth Filter Tutorial [How to Freeze a Frame by using Render Pass in Spark AR]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -2268,6 +2271,8 @@ GtYe57TM7lE // Mirror Filter Effect (Tap to Change, Patch, Add, Basic) | Instagr
 2_XnvO4JtVc // Camera Zoom Filter Effect (Loop Animation, Transition) | Instagram & Facebook | Spark AR Tutorial
 w8kFcAG8bE8 // Texture Occlusion Filter Effect (Alpha, Color Cycle, GIMP) | Instagram & Facebook Spark AR Tutorial
 y4ZdPDA-wOQ // Favourite Filters #9 | Instagram & Facebook | Spark AR Studio #shorts
+AGdVqdt6hoI // 3D Primitive Shapes (Superman Icon, 2D, Loop Animation) | Instagram & Facebook Spark AR Tutorial
+zV2dKCpJnaY // Favourite Filters #10 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
