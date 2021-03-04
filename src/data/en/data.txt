@@ -651,6 +651,7 @@ H081L4FvohI // How to make a FACE TATTOO filter for INSTAGRAM in Adobe Photoshop
 Z-r-jbziECs // How to upload your INSTAGRAM filter to Instagram or Facebook with Spark AR Studio
 XTyX3NbAsS4 // Creating a CHROME CHAIN Instagram Filter [Part 1]
 0DFZq7jXDO0 // Creating a CHROME CHAIN Instagram Filter [Part 2]
+o9IUpEs4HG4 // Creating a CHROME CHAIN Instagram Filter [Part 3] - Rotating it around my head
 
 # DSC KIIT
 3rvX7FsmFI4 // AR Spark | How to make Instagram/Facebook stickers | DSC KIIT
@@ -1161,6 +1162,7 @@ Mziiofsgxes // HOW TO MAKE INSTAGRAM FILTERS in 7 STEPS / create your own Instag
 XHsexoWtcTE // Aesthetic Instagram Filter / Create filter with Lightroom preset, sparkles and tap to change
 CTFRbHKnsjc // Change Hair Color for Instagram Filter / Spark AR Tutorials
 gmUVWXSsRdI // 10K FOLLOWERS WITH 1 INSTAGRAM FILTER!
+cF_SnAUt-Z0 // BLUSH - BEAUTY INSTAGRAM FILTER (Spark AR Tutorial)
 
 # Kathlene Figuracion
 TufUUsCFB2o // Create Your Own Instagram Filter | Fast & Simple
@@ -1209,6 +1211,7 @@ oEqd0NDrwyo // Animated Dust + Changed Eye Color + Filter | Spark AR Tutorial: H
 ChENaBHfapQ // Fisheye Lens Filter in Spark AR + Picker UI | Easy Tutorial + Materials Provided
 AGRNczkrJ-c // How To Create Day & Time Instagram FILTER + Interactions | Spark AR Studio Tutorial + Materials
 sMsjSi1LHTM // Welcome To My Channel KEYTA. Spark AR Tutorials, Social Media & Tech Reviews ❤ (channel trailer)
+ljOYJ-YPEtY // Cartoonish Big Eyes Instagram Filter | Spark AR Studio (Instagram Filter) Tutorial + Materials
 
 # Klubb Visuals
 R6-yNW4yCc4 // HOW TO MAKE INSTAGRAM FILTERS for Spark AR
@@ -2273,6 +2276,8 @@ w8kFcAG8bE8 // Texture Occlusion Filter Effect (Alpha, Color Cycle, GIMP) | Inst
 y4ZdPDA-wOQ // Favourite Filters #9 | Instagram & Facebook | Spark AR Studio #shorts
 AGdVqdt6hoI // 3D Primitive Shapes (Superman Icon, 2D, Loop Animation) | Instagram & Facebook Spark AR Tutorial
 zV2dKCpJnaY // Favourite Filters #10 | Instagram & Facebook | Spark AR Studio #shorts
+Ncg7Qgqrsyg // Basic Horns on Head Filter Effect (Deformation, Tap Change) | Instagram & Facebook Spark AR Tutorial
+OmYfRU3olDk // Favourite Filters #1 - #10 (Compilation) | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -2559,6 +2564,7 @@ KNhJFuiPLfw // GUMAWA AKO NG IG FILTER NI MISS KATHRYN BERNARDO | NAGCHAT SI KAT
 
 # UX Martina
 _tuU8o4PGGw // CREATE your FIRST Instagram FILTER // 10 min tutorial with SPARK AR
+IBHFg4eNCZ0 // HOW TO CREATE YOUR OWN INSTAGRAM FILTER IN 5 MIN | LUT + GRAIN
 
 # Varun Raikar
 o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
@@ -2653,6 +2659,9 @@ nFoaquc3v8A // spark ar MXRT
 
 # Yash Vlogs
 ryTTzR3__zE // How to make an AR Effect for Instagram | Tutorial for Beginners | Spark AR Studio | Yash Vlogs|Hindi
+
+# Yasin Cereza
+yVAQdds__3w // How to add an AR manager to your Instagram filters
 
 # Yasin Razack
 4XY5ZXC6c6w // How to create Instagram filter | Convert Lightroom presets into Instagram filter | Spark AR
