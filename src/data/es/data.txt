@@ -75,6 +75,7 @@ BcAUG4Myi04 // Effect neon Spark ar studio tutorial
 XtS6ivBWB6s // Tutorial Juego + Score Spark Ar Studio, Filtro Instagram (juego con puntaje)
 pb7mnPuUDlM // game add and subtract points when eating, Spark ar studio
 dCK11pKtMZM // AR IN VR??? test game on oculus spark ar studio
+PGx3kPyFJ8k // Tutorial action triggers with spark ar studio traces. (Spanish) activar acciones con rastreos
 
 # BlackPeach
 1o_7orPj1KM // 💗COMO HACER FILTROS DE INSTAGRAM 💗
@@ -499,6 +500,9 @@ NHFZuWuuQlQ // como crear un filtro  para Instagram
 v1NNwTJvQ_o // Dia 1: Como hacer un LUT + RETOQUE FACIAL
 T5BmF64qxAo // Dia 2 : Como agregarle cosas a un lut
 
+# filtros.instagram
+e8TuM0Lb6c8 // COMO CREAR UN FILTRO PARA INSTAGRAM EN 5 MINUTOS[SPARK AR TUTORIAL]
+
 # Futuro Aumentado
 Lznl2tG1vfc // SPARK AR Tutorial: Rastreo de Objetivos en Realidad Aumentada(Target Tracker)
 
@@ -643,6 +647,7 @@ mRdh-2-_yuM // Filtro GREEN SCREEN + Añadir Imagen Galería (TikTok inspired) |
 UhNlRdDZaRk // 💗FILTRO LOVE SAN VALENTIN AESTHETIC💗 | Spark Ar Tutorial
 o705su3crQg // MULTIPLE RETOUCH + MULTIPLE COLOR LUTS  | Spark Ar Tutorial
 BFN8Rpwv6aU // COMO APLICAR UN FILTRO EN 2 CARAS / Two face tracking | Spark Ar
+h9FUnEDbKQE // Filtro efecto CRYSTAL PRISMA | Spark Ar Tutorial
 
 # MAB55
 heyGpK9TDsM // ▶️ ✅ Cómo descargar e instalar Spark AR Studio de Facebook en Mac [ 2021 ] | Tutorial PC Mab55
