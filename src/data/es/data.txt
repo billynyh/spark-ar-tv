@@ -71,9 +71,9 @@ MV3pYycumpo // Food hamburguesa en realidad aumentada con spark ar studio filtro
 ztxVl7jSdc0 // Tutorial Filtro tiktok para instagram con Spark AR studio Gratis
 INCtdvb0xG0 // El mejor regalo filtro Instagram spark Ar studio
 dgFImdRIPXc // Testing “gravity sketch” Oculus  Spark Ar studio
-BcAUG4Myi04 // Effect neon Spark ar studio tutorial
+BcAUG4Myi04 // Tutorial Effect neon Spark ar studio tutorial
 XtS6ivBWB6s // Tutorial Juego + Score Spark Ar Studio, Filtro Instagram (juego con puntaje)
-pb7mnPuUDlM // game add and subtract points when eating, Spark ar studio
+pb7mnPuUDlM // Tutorial game add and subtract points when eating, Spark ar studio Juego sumar y restar puntos
 dCK11pKtMZM // AR IN VR??? test game on oculus spark ar studio
 PGx3kPyFJ8k // Tutorial action triggers with spark ar studio traces. (Spanish) activar acciones con rastreos
 
@@ -106,8 +106,9 @@ g3SJRCBRFSg // Spark AR AÑADIR SCREEN TAP
 f_xomb7TZ5c // Spark AR: AÑADIR INSTRUCCIÓN "TOCA PARA CAMBIAR"
 
 # Click Media Agencia
-jpKw198lp0g // CURSO SPARK AR STUDIO | Instalación y primeros pasos | Tutorial #1
-kvICqAYhB7g // CURSO SPARK AR STUDIO | Tutorial filtro de color | Cómo SUBIR un filtro a INSTAGRAM
+jpKw198lp0g // CURSO GRATIS SPARK AR STUDIO | Instalación y primeros pasos | Tutorial #1
+kvICqAYhB7g // Cómo SUBIR un filtro a INSTAGRAM | CURSO GRATIS SPARK AR STUDIO
+rOSe3X-6GQk // Convierte tus PRESETS de LIGHTROOM en FILTROS de INSTAGRAM | CURSO GRATIS SPARK AR STUDIO
 
 # Color Space
 OVOZOnhxNd4 // COMO PUBLICAR FILTROS PARA INSTAGRAM EN SPARK - Filtros para instagram.
@@ -449,7 +450,7 @@ fcNgMrs2REg // Spark AR - Create your own 3d avatar instagram filter (EN Caption
 106-busSONU // Spark AR - Face Tracking Recording | Agregar rostro en video  Tutorial (EN Captions)
 _iG2bULV0f4 // Spark AR Tutorial - Hot spot annotations into 3d object (EN captions)
 8mUmuc9tskA // Spark AR Tutorial - 3D Scanner LiDAR | AR Filter (EN Captions)
-q4GyX2nIb20 // Spark AR Player to Oculus Quest | Testing on Virtual Reality
+q4GyX2nIb20 // Spark AR Player to Oculus Quest | Testing on Virtual Reality (EN Captions)
 VB3sJuBup4A // Tutorial Spark AR - Time Warp Efecto de Tiktok (EN Captions)
 FzyXArvAuQw // Spark AR - Neck bending occlusion - Hole in the heart Prototype (EN Captions)
 faMFhgAMxFw // Spark AR - Crear un portal con LiDAR 3D Scan (EN Captions)
@@ -492,9 +493,9 @@ df8q8cyV9pI // Tu Primer Filtro de Instagram y Facebook con Canva - [ SPARK AR ]
 _U9IIzxb0ss // Filtros Artisticos para Facebook e Instagram
 YBHKxi5KBvY // ¿COMO hacer FILTROS de INSTAGRAM y FACEBOOK🤯 !!!?
 
-# FATY MEZA
+# FATY MEZA SEGUNDA
 GfUrmTWT2tA // TUTORIAL DE COMO SUBIR FILTRO A INSTAGRAM
-NHFZuWuuQlQ // como crear un filtro  para Instagram
+NHFZuWuuQlQ // crea tu filtro para Instagram
 
 # Filtros Spark Ar
 v1NNwTJvQ_o // Dia 1: Como hacer un LUT + RETOQUE FACIAL
@@ -519,7 +520,7 @@ zG3CtZx6PCA // como hacer un filtro de face extraction para instagram en spark a
 # Gerald Bustos
 p_zLJ-tsOZE // CREA ESTOS FILTROS DE MODA PARA INSTAGRAM RÁPIDO! EXPLICADO AL DETALLE #SPARKAR
 
-# Gexe - Youtuber en Andorra
+# Gexe
 6MvMnOj9PwI // Guinxu + Alva Majo (Creando Filtros de Instagram)
 
 # HelenTech
@@ -544,14 +545,18 @@ MZOUJATcuVA // Cómo CREAR y PUBLICAR filtros en Instagram 🔥
 # InvadeLab
 S01_JUnpzxc // Reconocimiento y cambio de color de pelo - SparkAR - Filtro Instagram
 
+# Irene de la Calle
+Z2AzD8EOvP4 // Como crear un Gif con Procreate 2021
+f_FFVbZFV14 // Crear un filtro en Procreate para SPark AR (2021)
+
 # IxD Bahia
 WQGGGa095F8 // ¡Crea filtros para Instagram en 3 minutos! TUTORIAL - SPARK AR
 
-# jackyyj
-AVGur-kOArg // (Spark AR Template) Niki: Tattoo + piercing + Luts
-
 # JACOB DUQUE
 gQLKCtZB-Fc // ➡️ Como HACER un FILTRO para INSTAGRAM en 15 MINS MUY FACIL  ✅ JACOB DUQUE
+
+# Jacopo Luca Maria Latrofa - jackyyj
+AVGur-kOArg // (Spark AR Template) Niki: Tattoo + piercing + Luts
 
 # Jael Hernandez
 aLjTrhT1TAQ // Como crear tu filtro de instagram fácil | Jael Hernandez
@@ -644,9 +649,9 @@ K1U9_VPEgyk // Filtro 3D EYELASHES  | Spark Ar Tutorial Pestañas 3D
 EQycl00SZrg // COMO HACER FILTRO OUTLINE |  SPARK AR Tutorial
 vXr83Q-vOT0 // SLIDER UI COLOR LUT + DEFORMATION + TEXTURA | Spark Ar Tutorial
 mRdh-2-_yuM // Filtro GREEN SCREEN + Añadir Imagen Galería (TikTok inspired) | Spark Ar Tutorial
-UhNlRdDZaRk // 💗FILTRO LOVE SAN VALENTIN AESTHETIC💗 | Spark Ar Tutorial
+UhNlRdDZaRk // COMO HACER UN FILTRO PARA INSTAGRAM AESTHETIC💗 | Spark Ar Tutorial
 o705su3crQg // MULTIPLE RETOUCH + MULTIPLE COLOR LUTS  | Spark Ar Tutorial
-BFN8Rpwv6aU // COMO APLICAR UN FILTRO EN 2 CARAS / Two face tracking | Spark Ar
+BFN8Rpwv6aU // APLICAR FILTRO EN 2 CARAS / Two face tracking | Spark Ar
 h9FUnEDbKQE // Filtro efecto CRYSTAL PRISMA | Spark Ar Tutorial
 
 # MAB55

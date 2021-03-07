@@ -39,17 +39,14 @@ H4JIKO6kexc // Instagram Filter Neon Mask (Basic) - Instagram Filtresi Nasıl Ya
 # Facebook Developer Circle İstanbul
 57jz6uyhy-s // Spark AR Workshop - Facebook Developer Circle: Istanbul
 
-# Luteus Poeta
-0jhKLocFEP4 // Instagramdaki Kimsin Sen Tarzındaki Filtreler Nasıl Yapılır? //Spark Ar - 1
-rWHA79C73Gg // Göz Rengi Değiştiren Instagram Filtresi Nasıl Yapılır? //Spark Ar - 2
-
 # lykia
 2uKewReFiBY // SPARK AR RENK EFEKTİ NASIL YAPILIR ? / İNSTAGRAM FİLTRESİ /SPARK AR
 
 # Mehmet Akif Üzülgü
 h_d8fj72DCI // spark ar Bulanıklaştırma Gecikmesi
+rBBF1z5nEpQ // SPARK AR
 
-# muffinman.sparkar
+# Muffin Man
 b942sAkqXzo // Blender ile 3D Instagram filtresi nasıl yapılır - Tavşan Maskesi
 c8wvm2c3TkE // Advanced Blur Patches - Spark AR
 RmELRkOID14 // God Rays Tutorial - Spark AR
@@ -93,6 +90,10 @@ InlYnDfHEPE // Spark AR Studio: Kaplan Maske Efekti Yapımı
 KcnrQG62du8 // Sevgiliye Verilecek En Güzel Hediye | Make Valentine's Day Gift with Spark AR Studio
 SY2fy_7ifes // Spark AR Import Failed | Failed to Import Audio
 RXjpLSh4TK4 // Spark AR Studio ses çalışmıyor, müzik çalmıyor | Spark AR audio not working
+
+# vin
+0jhKLocFEP4 // Instagramdaki Kimsin Sen Tarzındaki Filtreler Nasıl Yapılır? //Spark Ar - 1
+rWHA79C73Gg // Göz Rengi Değiştiren Instagram Filtresi Nasıl Yapılır? //Spark Ar - 2
 
 # yasin turhan
 TQ1jMUAEN2A // Roto Brush Kullanımı / After Effects

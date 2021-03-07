@@ -34,7 +34,6 @@ U5m2_3SX0zE // HOW TO UV MAP - BLENDER 2.8- adding Color to 3D models, for Spark
 _7grT2XOlcc // Spark AR Neck Bending | Bones & Rigging Blender
 qzv3U4fcSjo // КАК СДЕЛАТЬ МАСКУ С 3D МОДЕЛЬЮ  В ИНСТАГРАМ | 3D МОДЕЛИ в SPARK AR | Daria Tsvet
 rkGyndJiR4s // Crea Filtros Para Instagram Con Modelos 3D (Daft Punk)
-mbwEeVqAOho // Как сделать маску в инстаграм Где брать 3D объекты Spark AR. Как сделать маску в инстаграм
 HLzHrm50Guc // урок 3: Миллион 3д моделей для новых масок в инстаграм
 0i-6OSxfWWI // AR Filters for Instagram - Breakdown - TimeLapse
 
@@ -117,7 +116,7 @@ MrxG36zOGss // Spark AR Studio - Integrando audio en nuestros efectos. Guía ini
 AE5EfsRqQTM // Spark AR Music / How to add audio to Spark AR Studio
 qjCEAtC0Egs // Filter Tebak Tebakan dan Audio m4a di Spark Ar
 MalxFo1vEVY // Cara Menambahkan Lagu/Audio ke Spark AR | Tanpa Aplikasi Eksternal!
-lY92ACD5_2Y // Spark ar studio - Start music pressing record button - Add music on filters
+lY92ACD5_2Y // Spark ar studio - Start music pressing record button - Add audio on filters
 jtqldgvWI9A // TUTORIAL SPARK AR 3D, PARTICLE, AUDIO CUMA 5 MENIT!!!
 3K9f1od2h5E // Import failed Spark ar.  Spark ar Audio #spark ar audio format#m4Amono#import#failed#
 jET-30_cNOQ // Как загрузить audio Spark AR studio #zhandosxx#sparkar#audio#
@@ -305,7 +304,7 @@ Xbr3WP924wQ // 100% FILTER GLITTER KIRA INTAGRAM SPARKAR GRATIS TANPA LAPTOP
 Ms_J2JSNaBQ // Фильтр Kira Kira / Глиттер в Spark AR + бесплатный патч
 ikDRP04CTgo // KiraKira + Smoothing Skin + LUT filter in Spark AR // Glitter Sparkle filter
 2sPXKuHLz_Y // Filter instagram file arexport preset peach + sparkle kira
-ySswb2qse2c // Cara Punya Filter Instagram 100% TANPA LAPTOP, GRATIS! | Free File .arexport 3 Filter Sparkle Kira
+ySswb2qse2c // 3 Filter Glitter/Kira/Sparkle - Cara Punya Filter Instagram, 100% PAKE HP! | Free File .arexport
 DaPsIvfR0ig // Spark AR kira kira + lut + retouching + cilios em um unico projeto(tirando duvidas)
 Z0bmqS_X1Ds // Как совместить в маске Spark AR пресет (лут) и патч Kira Kira
 w6qmZie8m3E // Tutorial Spark AR - Efeito Kira Kira
@@ -505,7 +504,7 @@ lc7ygDi9olE // 👩‍🦰 МЕНЯЕМ ЦВЕТ ВОЛОС В МАСКЕ  👩�
 fhsISJw5tto // Cara Mengatasi Render Pass, hair segmentation yang tidak ada di spark ar studio
 362VCjBDd8U // Change Hair Color Instagram Filter in Spark AR
 FTyXp2tXS6E // Changer la couleur des cheveux / SPARK AR
-gkZuvxNbCdw // Spark Ar studio - Hair segmentation tutorial [FREE TEMPLATE]
+gkZuvxNbCdw // Spark Ar studio - Hair color segmentation tutorial
 Yvll4lRMpFE // Hair Segmentation - Controlling Colours & Textures | Spark AR Studio
 tk0J8mUGutU // Как изменить цвет волос в Spark AR/Спарк ар/hair color change Spark Ar tutorial
 CTFRbHKnsjc // Change Hair Color for Instagram Filter / Spark AR Tutorials
@@ -558,14 +557,14 @@ yjqP_c-mfC0 // Add On Screen Instructions (60 Second Version) | Instagram & Face
 5eJgNBxUlaE // Spark AR Tutorial - HOW: Add instruction about "how your filter works" on screen.
 YZJO0XFjXlk // LUTS lightroom photoshop, Screen Tap, Instruction
 yuYqagBMhmY // SPARK AR TIPS - How to add Custom Instructions
--5W-v5RpaIs // Spark ar studio multiple Instructions tutorial [FREE TEMPLATE]
+-5W-v5RpaIs // Spark ar studio multiple Instructions tutorial
 Rbtps0OWo_U // Multiple custom instructions in Spark Ar - Part 9. Пользовательские инструкции
 kz0pZdvj6sk // SPARK AR ANFÄNGER TUTORIAL DEUTSCH / ADD INSTRUCTIONS 2020
 XYrFHHnly1k // Spark AR Studio: Poser des instructions dans un filtre en réalité augmentée sur Facebook / Instagram
 
 # Iris tracking
 hDTkgxqqTgI // Spark AR Face Tracker Movements - Eyeballs, mouth, eyelid (EN Captions)
-MwxctcV2kc4 // Spark Ar filter color eyes tutorial - Easy iris tracking [FREE]
+MwxctcV2kc4 // Create an instagram story filter - [FREE] Change eyes color EASY in Spark Ar studio
 h72hzXEfjdM // Spark AR - Iris Tracking Instagram Filter
 36kJ6iNKu6I // Spark AR Iris Tracking e trocar cor de olho!
 l5a5fHZIGzM // Eyeball Tracking (Patch Editor) Snake Eye Filter Effect | Instagram & Facebook | Spark AR Tutorial
@@ -1107,7 +1106,7 @@ VYAJ8WKQAbo // Spark ar studio - Background Frame Animation using SDF tutorial
 jPrzLb-hx5Y // Spark ar beginner tutorial - Pop halftone filter using SDF
 IXHCy1_Z9JQ // Spark AR | SDF Frames by @Roses_are_alexia
 D0Rwb71covc // Spark ar studio tutorial - how to add music to filter | Audio reactive
-W9MHgH7uVr8 // Spark ar studio - SDF Tutorial | Twisting lights
+W9MHgH7uVr8 // Spark ar studio gradients tutorial | HACK using SDF'S - MUST KNOW for INSTANT FUN!
 vFe3hZBiT9U // Using the SDF Rectangle patch - Spark AR tutorial
 30CJQnZiop4 // Using the SDF Union, Intersect and Difference patches - Spark AR tutorial
 MXfQyHIwp38 // Mixing shapes using the SDF mix patch - Spark AR tutorial
@@ -1153,7 +1152,7 @@ rQCR7ooV_Ig // How to Add Segmentation to a 3D Panorama Background in Spark AR [
 YpFfkCftF6U // Spark AR - LUTs + Segmentation
 59QbC76ThB4 // Spark AR - Outline Segmentation (Energy Field Tutorial)
 9P2NbVhqj9Y // Change Background Colour (Patch Editor) Filter Effect | Instagram & Facebook | Spark AR Tutorial
-MwxctcV2kc4 // Spark Ar filter color eyes tutorial - Easy iris tracking [FREE]
+MwxctcV2kc4 // Create an instagram story filter - [FREE] Change eyes color EASY in Spark Ar studio
 8U5A9VvlqlE // КАК ПОМЕНЯТЬ ФОН МАСКИ ДЛЯ ИНСТАГРАММ | Маска для Инстаграмм за 5 минут | Маска с анимацией |SonLife
 3g7cG0AN-fM // Spark AR Partículas atrás da pessoa!
 Ep5bzLvWp6w // Spark AR Tutorial - Person Segmentation | Shaders & triggers

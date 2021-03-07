@@ -55,7 +55,7 @@ Z30AdTTCjVk // 3Dオブジェクトにアニメのようなアウトラインを
 wTlfj4W8uAc // ZoomでSnapCameraのようにSpark ARを使う方法
 XtqeNPjl82g // Spark AR Texture Transform Touch Gestures
 
-# Marin Park
+# Marin Ogasawara
 b636Ki4Pksw // [Spark AR] 【初心者による初心者の為のSpark AR講座(1)】ソフトをダウンロードして簡単に触ってみよう！
 
 # NoCode School - ノーコードスクール -
@@ -80,6 +80,8 @@ v10bsWIxvzw // 【チュートリアル】SparkARでのフィルターの作�
 hNwAdseQxhk // 【Wing Filter】SparkARで翼のエフェクトを作ってみました
 ypUArQ3oYdg // 【SparkAR】AR Libraryを使って手軽にキラキラエフェクトを作ろう
 ysBzjlxK1Ns // 【Spark AR】zoomのようなバーチャル背景を作ってみた
+hgUJrzBrakg // 【カラーフィルター】SparkARを使って夜に駆ける風のエフェクトをつくってみた
+1_2AY2qXtPU // 【SparkAR】インスタフィルターで日本語テキストを利用するには〇〇しよう
 
 # SUNABACO
 jE42a-uh-CI // FbやInstagramのカメラ機能をカスタムしよう！【Spark AR】
@@ -104,8 +106,8 @@ XhQreMFX_Sg // お話ししながらインスタのエフェクトの作り方�
 
 # エルピンの部屋
 UxlnkCPV5Yo // 【初心者向け一連の流れ】インスタエフェクトの作り方！SparkAR 美肌効果 顔追跡
-_d5-VDztx8w // 【リクエスト動画】2021のエルピンと盛れるエフェクト作らん？SparkAR ハイライト キラキラ リップ  複数人
-_mEcvIB9PmM // 【ARで整形!?】巷で流行りのインスタ小顔フィルター初挑戦で大惨事💦  SparkAR 小顔 デカ目 SNOW風
+_d5-VDztx8w // 【ハイライト＆リップ】2021のエルピンと艶エフェクト作らん？SparkAR 複数人 キラキラ
+_mEcvIB9PmM // 【エフェクトで整形!?】巷で流行りのインスタ小顔フィルター初挑戦で大惨事💦  SparkAR 小顔 デカ目 SNOW風
 rZGr6DCjTAs // 【タップで変更】あーら不思議🌝画面タップしたらエフェクト変わるフィルター作ってみる？？
 
 # ヨーグルトキャップ
@@ -124,5 +126,5 @@ UHNFvUMZvQ4 // 【写ルンです風】カメラの色合いを変える方法�
 # 幸せ家族計画
 s0U6sMa6XCk // 【淡路一人】SPARK ARできつねインスタフィルターつくってみる
 
-# 直也テック【実写】
+# 直也テック サブチャンネル
 jt1Cmk9txeY // インスタエフェクトは無料で作れてプログラミングいらん【SparkAR】
