@@ -33,6 +33,7 @@ LANG_DISPLAY_NAME = {
   'ka': 'Georgian',
   'hu': 'Hungarian',
   'mn': 'Mongolian',
+  'km': 'Khmer',
   'global': 'All Languages',
 }
 

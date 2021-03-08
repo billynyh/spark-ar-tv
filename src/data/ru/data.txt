@@ -77,6 +77,7 @@ vWZ5DTkOdXY // Маски Инстаграм: Как сделать маску �
 OtVEICbxNa4 // Самый полный обзор программы для создания масок Spark Ar Studio. Простым языком!
 NPJuT0rMC20 // Маски Инстаграм: Как добавить переключение элементов по тапу (нажатию) на экран?
 09n7VE341YM // Маска в Инстаграм со статичной картинкой/ элементом на экране за 5 минут. 2 способа.
+KswYanb7vi4 // Маски Инстаграм: Ретушь, рисунок, надпись на лице
 
 # ANASTASIA VON TRI
 mBYotFzZiG0 // Как создать маску в Spark AR | Бесплатные подписчики в Instagram
@@ -212,6 +213,7 @@ nzO9xzRH8Ng // LiDAR and Spark AR: сканирование объекта, ис
 1XK-hfZN9Ws // Как сделать маску в инстаграм на Windows 7 или с телефона. Без Spark AR, без поддержки SSE4.1 (Ч2)
 qEtmaXweYig // Как создать маску в Инстаграм менее чем за 1 минуту
 rlsuWvj4NlI // Как загрузить маску в Инстаграм менее чем за 1 минуту с телефона
+9MNTPpDzD-s // Пресеты/луты и ретушь в Spark AR: Screen tap, Picker UI (кружочки), скрипты (более 10 вариантов)
 
 # Arturka King
 KiTYX2wKcAk // 😍 КАК ПЕРЕНЕСТИ ПРЕСЕТ ИЗ LIGHTROOM В SPARK AR | Пресет без засветов для Инcтаграм + 4 пресета(FREE)
@@ -674,16 +676,6 @@ _sSiR9vWV4U // Маска для instagram за 10 минут! Tutorial. Spark A
 
 # Keyta
 4is8PswzAaU // Как создать маску фильтр в Инстаграм | Модные переключатели, сглаживание лица, наложение пылинок
-4PI3GweZuk4 // Spark AR Tutorial: Beauty Face Filter + 3D Eyelashes + Kira Kira + Deformation + Make Up + Materials
-goIZSuw-nH8 // Spark AR Tutorial: How To Make Pink Sky Filter + How To Change Colors And Apply It In Spark AR
-DwESLPA9XOI // Spark AR Studio Tutorial: Sensitive Content Instagram Filter (Blur) + Slider UI + Materials
-cdg4TXawP18 // Aesthetic Filter + Glitter + Music in Spark AR Studio | How To Make Instagram Filters + Materials
-oEqd0NDrwyo // Animated Dust + Changed Eye Color + Filter | Spark AR Tutorial: How To Make Instagram Filters
-26fw72oNN-c // How To Fix Instagram Filters Not Working (As a User & As a Creator In Spark AR Studio)
-ChENaBHfapQ // Fisheye Lens Filter in Spark AR + Picker UI | Easy Tutorial + Materials Provided
-AGRNczkrJ-c // How To Create Day & Time Instagram FILTER + Interactions | Spark AR Studio Tutorial + Materials
-sMsjSi1LHTM // Welcome To My Channel KEYTA. Spark AR Tutorials, Social Media & Tech Reviews ❤ (channel trailer)
-ljOYJ-YPEtY // Cartoonish Big Eyes Instagram Filter | Spark AR Studio (Instagram Filter) Tutorial + Materials
 
 # Kir Ensin
 wJSL0f9VUog // Как сделать маску в Инстаграм за 5 минут I Spark AR урок
@@ -1276,6 +1268,7 @@ AbWrk9V8Rkw // ✅КАК ПОМЕНЯТЬ ГЛАЗА В SPARK AR STUDIO / SPARK 
 lJMuZnnmYYM // ❇️ Рандомайзер в Spark ar. Как сделать случайные ответы?
 pgNj2CXiCns // ✅ 3 музыки в одной маске - Spark ar уроки
 fvyqx664GXw // ✅Переключение объектов по тапу - Spark ar studio уроки
+8h-oRb4Ujq8 // ✅Как маски продвигают твой инстаграм?
 tYY2O5uvQ2g // Как добавить более 5 песен в SPARK AR?
 y-be-EC_dGY // Как создать кнопки меню в SPARK AR?
 
