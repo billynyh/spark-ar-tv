@@ -262,6 +262,7 @@ Y9psTZ6LUX4 // Frame de foto e texto dinâmico no seu filtro - tutorial Spark AR
 z6SRqguJlyk // Como publicar filtro no Instagram pelo celular
 0E7JWbV-tcY // Óculos, gradiente e som no seu filtro - tutorial completo
 OQ-VDEG-p98 // Efeito de fogo, água ou vento no seu filtro - Tutorial Spark AR
+FwmpNJb53bU // Efeito de TV antiga, glitch, granulado muito fácil com nova atualização - tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -411,6 +412,7 @@ Mh2JhPLxW60 // Como adicionar fotos da galeria em filtro
 5uHoqeTiYCs // Tutorial Iluminador no Nariz - SPARK AR - filtros Instagram
 5Ho9CDZupuI // Como fazer filtro com lentes de contato - SPARK AR
 mo5OKEYnAVE // Como fazer filtro de deformação - Aumentar boca/nariz/olhos - SPARK AR - Efeitos do instagram
+PXg4McOdlrU // Como fazer deformação com LUT - Tutorial - SPARK AR
 
 # Luan Coutinho
 JK-8tY4UCWs // COMO CRIAR FILTROS PARA O INSTAGRAM!  ( Sem Photoshop),(BEM EXPLICADO!!)
@@ -678,6 +680,7 @@ Nv7DGuflJOw // COMO CRIAR O EFEITO PANTONE PARA INSTAGRAM | COM PALETAS DE CORES
 v1gowH9XUws // COMO FAZER FILTRO DO INSTAGRAM QUE REAGE COM MÚSICA/ÁUDIO USANDO AUDIO ANALYZER | POR JULLIANA.DEV
 ZMouFxnIIIo // COMO FAZER CABELO ANIMADO NO INSTAGRAM | POR JULLIANA.DEV
 sn3E602-9PA // COMO EU CRIO MEUS LUTs | POR JULLIANA.DEV
+J258Kx_49eU // COMO CRIAR EFEITO DE BRILHO NO CABELO PARA O INSTAGRAM | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
@@ -851,6 +854,7 @@ AXi5tuo_9Xk // 15 filtros vendidos no primeiro dia que ela tentou vender -Spark 
 qKxXorqI0Kc // Spark AR Efeito INVERTIDO com OUTLINE
 p2uO3cszjiY // Filtro com TEXTO não aprovado? Você precisa ver esse vídeo!
 4rxjbInZvLA // Filtros de Fogo, Água e ar! SPARK AR NEW V108
+RLJVm7O4sIE // Spark AR Crie Deformações muito melhores!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
@@ -1012,6 +1016,7 @@ oaAazSS7g20 // Forma mais fácil de trocar cor dos olhos em filtros/Block - Spar
 DQvdlv5Bhp0 // Vários LUTs em um filtro a forma mais fácil, tocando na tela ou com botões - Spark Ar Studio
 2WG2k58CPbA // 5 sites para baixar Objetos 3d de graça - Spark Ar Studio Tutorial
 JafoX-EtIJI // Baixar Filtros/Efeitos já postados - Spark Ar Studio Tutorial
+mvdk5bTjy5k // Advanced Render Options - Spark Ar Studio Tutorial
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1

@@ -34,6 +34,7 @@ LANG_DISPLAY_NAME = {
   'hu': 'Hungarian',
   'mn': 'Mongolian',
   'km': 'Khmer',
+  'uz': 'Uzbek',
   'global': 'All Languages',
 }
 
