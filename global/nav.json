@@ -32,17 +32,17 @@
         "video_count": 0
       },
       {
+        "title": "Japanese",
+        "url": "https://billynyh.github.io/spark-ar-tv/jp/index.html",
+        "video_count": 0
+      },
+      {
         "title": "Indonesian",
         "url": "https://billynyh.github.io/spark-ar-tv/id/index.html",
         "video_count": 0
       }
     ],
     "secondary_langs": [
-      {
-        "title": "Japanese",
-        "url": "https://billynyh.github.io/spark-ar-tv/jp/index.html",
-        "video_count": 0
-      },
       {
         "title": "Dutch",
         "url": "https://billynyh.github.io/spark-ar-tv/nl/index.html",
@@ -486,7 +486,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCI7pSUi_CX5ElJGfOl6n4cA.html",
       "thumbnail_url": "https://i.ytimg.com/vi/Qh-Y9k8YaVw/hqdefault.jpg",
       "title": "Channel: Artem Maiko",
-      "meta1": "Num videos: 105",
+      "meta1": "Num videos: 106",
       "meta2": null
     },
     {
@@ -796,35 +796,35 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-03-08.html",
       "thumbnail_url": "https://i.ytimg.com/vi/iSO_i7UjizU/hqdefault.jpg",
       "title": "Week 2021-03-08",
-      "meta1": "Num videos: 16",
+      "meta1": "Num videos: 32",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-03-01.html",
       "thumbnail_url": "https://i.ytimg.com/vi/p2uO3cszjiY/hqdefault.jpg",
       "title": "Week 2021-03-01",
-      "meta1": "Num videos: 80",
+      "meta1": "Num videos: 81",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-02-22.html",
       "thumbnail_url": "https://i.ytimg.com/vi/bbRt0mgYDcU/hqdefault.jpg",
       "title": "Week 2021-02-22",
-      "meta1": "Num videos: 65",
+      "meta1": "Num videos: 66",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-02-15.html",
       "thumbnail_url": "https://i.ytimg.com/vi/vA8eDcbpoaA/hqdefault.jpg",
       "title": "Week 2021-02-15",
-      "meta1": "Num videos: 91",
+      "meta1": "Num videos: 93",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-02-08.html",
       "thumbnail_url": "https://i.ytimg.com/vi/J6kUPK5_z6A/hqdefault.jpg",
       "title": "Week 2021-02-08",
-      "meta1": "Num videos: 72",
+      "meta1": "Num videos: 74",
       "meta2": null
     },
     {

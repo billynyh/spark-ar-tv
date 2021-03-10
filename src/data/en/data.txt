@@ -624,6 +624,7 @@ a7Rt2p29EnY // Day of the Week + Timestamp with Custom Font | Spark AR Studio Tu
 qe8_YGyQc0c // Polaroid Filter in Spark AR Studio + Assets + Vintage LUT Download! | Instagram Filter Tutorial
 Hk1i0tg0d2o // Drawing Filter in Spark AR Studio | Draw Something Effect for Instagram Stories - Tutorial
 U9mSPOpfYy0 // Sunglasses Filter in Spark AR! | Free 3D Assets | Instagram Filter Tutorial
+hzkJMhQ043g // Dust Effect - Vintage Filter Spark AR Studio Tutorial + Free Assets | For Instagram Stories
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1001,6 +1002,9 @@ XaLXjR2y1gk // How to Create Your OWN Instagram Filter
 3Zk5AMbhkxI // Creating & Publishing Instagram AR Filters (Ad)
 dL6vbOcB3bU // Creating & Publishing Instagram AR Filters
 
+# Jain Inurture
+mNrs8GaDcjQ // Facebook Gaming Development by Siddharth Saxena
+
 # JassLyf
 zcKQ4FivtpM // How To Make Your Own Instagram Filters | Spark AR Filters
 GzsZUSW11cE // GIVE AWAY ALERT 🚨 | How To Make Your Own Instagram Filters | Spark AR Filters
@@ -1046,7 +1050,10 @@ W5ipARDtJHQ // How to create water in Spark AR Studio | Tutorial
 2UCSkIGQ9yQ // Hologram Projector Demo made with Spark AR Studio.
 
 # JMU X-Labs
+ldTDRVzpRqI // WELCOME. TO JMU X-LABS.
+aLCGU6-Urt0 // GALENTINE'S POP UP VLOG
 YeWx3v8ncKg // AR Social Media Filter Pop Up: Episode 1
+RrvOh10ZEtk // AR Social Media Filter Pop Up: Episode 2
 
 # John Abreu
 bCcxHrvoz4g // My Effect went VIRAL on Instagram
@@ -1953,6 +1960,7 @@ YRkJWCPob64 // How to Make a Realistic VHS Aesthetic [Glitch and Color Grading]
 eDaiDmy7gPc // How to create a 2D Responsive & Dynamic Text in Spark AR [PART 2 of the VHS Aesthetic Filter Series]
 -f1ZKsDgnvE // How to create a Timer in Spark AR [PART 3 of the VHS Aesthetic Filter Series]
 KJ3GP242yOc // Photo Booth Filter Tutorial [How to Freeze a Frame by using Render Pass in Spark AR]
+uMyNUUmMfDM // How to Create a LUT + Retouching in SPARK AR with the ColorLUTShader (2021 Update)
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -2118,6 +2126,9 @@ W49wnkqUOJ8 // How to make an easy Instagram filter in just 5 minutes for beginn
 
 # Ruya Baraz
 aLUdSpQamcI // Things Spinning Around the Head // Spark AR
+
+# Ryerson University Library
+EfzizaWtHC8 // Introduction to Facebook's Spark AR
 
 # Sajjad Jairaj
 TAsrM_QE-xs // How to Create your Own Instagram Filters in 5 Mins | Spark AR Studio Tutorial
@@ -2390,6 +2401,7 @@ kamuwiffw98 // Let's explore the Space | Facebook AR Hackathon | Augmented Reali
 z53bUZYZbZE // SPARK AR: 3D Obj Interaction + Animation (Beginner-friendly)
 2Tuq4dlRPMc // Best Cyberpunk Instagram Filters of the Month | January 2021
 0Me1JBpNUSI // Best Love Themed Instagram Filters Review
+qSn8Rk2vYcE // 5 Badass Female AR Creators | Instagram Filters Review | #IWD
 
 # Steven Van
 qz0cuIAHras // How to Make Instagram AR Filters!
