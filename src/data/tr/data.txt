@@ -51,6 +51,7 @@ b942sAkqXzo // Blender ile 3D Instagram filtresi nasıl yapılır - Tavşan Mask
 c8wvm2c3TkE // Advanced Blur Patches - Spark AR
 RmELRkOID14 // God Rays Tutorial - Spark AR
 LHBQtgvqbK8 // Bokeh Lights Shader - Spark AR
+7XAsh9FUNPc // Face Mesh Ripple Vertex Displacement - Spark AR
 
 # MUHAMMEDALY AGAYEV
 FUJTAw4JO0s // Instagram ve Facebook Hikayeleri İçin Efekt Yapma - SPARK AR Studio!

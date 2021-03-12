@@ -334,6 +334,9 @@ WckuENqvKLs // Damara Inglês. Spark AR workshop: No Face Filter.
 tLcIxXuLImY // Demo Video for "How to make Smoke in Spark AR"
 S2RJUyCS2vk // Comment créer de la fumée sur Spark AR
 
+# Box Bits
+WXkmp_odtRo // SparkAr : Object overlap interaction in plane tracking using scripts
+
 # Britney Ngaw
 2FZcjlCEzrk // How I Create Instagram's "What Pokemon Are You" Filter
 
@@ -625,6 +628,14 @@ qe8_YGyQc0c // Polaroid Filter in Spark AR Studio + Assets + Vintage LUT Downloa
 Hk1i0tg0d2o // Drawing Filter in Spark AR Studio | Draw Something Effect for Instagram Stories - Tutorial
 U9mSPOpfYy0 // Sunglasses Filter in Spark AR! | Free 3D Assets | Instagram Filter Tutorial
 hzkJMhQ043g // Dust Effect - Vintage Filter Spark AR Studio Tutorial + Free Assets | For Instagram Stories
+GCvFAn8w4Q8 // Grain Effect - Spark AR Tutorial + Free Assets! Add Vintage & Nostalgic look to Instagram Filter!
+
+# Virtual Art Space
+t2CM0nTGtLA // 5 SPARK AR HACKS IN 2 MINUTES
+fSo_o5D-1cU // UNBOXING MY SPARK AR CHAMPIONSHIP RING
+AibIMylQaBU // GET TRAVIS SCOTT IN YOUR HOME WITH THIS INSTAGRAM FILTER
+8RVJmQPgyU4 // INSTAGRAM FILTER - LOUIS VUITTON STORE *SPARK AR TUTORIAL*
+JSFWHuuan-w // FREE BEGINNERS GUIDE TO INSTAGRAM FILTERS / 5 MIN TUTORIAL
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1558,6 +1569,7 @@ U60CECzzneE // Spark AR Stencil Effect
 
 # Mohit
 R5EGaX7JJDw // How to make your own instagram filter!
+JO81Sgnc_nU // Turn your Lightroom Preset into Instagram Filter | Spark AR Studio
 
 # Momo Studio
 pCP99V_FvW8 // Instagram Music filter | Spark AR studio | Different types of audio reactive spectrum -Tutorial easy
@@ -1678,6 +1690,7 @@ _so254l8yiA // "GRL PWR" Facebook & Instagram Filter │ Spark Ar Studio
 bK8vDt4F6Jk // "VALENTINE'S DAY" Instagram Filter │ Spark Ar Studio
 _2Kzc2zn48A // "I HEART YOU" Facebook & Instagram Filter │ Spark Ar Studio
 bbRt0mgYDcU // SPARK AR: “ALBUM COVER” – INSTAGRAM FILTER
+_P7eDJ4x1N0 // Watch me build #6 │Spark Ar Instagram Filter
 
 # Natalya Dhawan
 G22q-w6T0jc // Spark Ar Tutorial / Make your own instafilter
@@ -2300,6 +2313,10 @@ pzsaWi8ZR-s // Favourite Filters #12 | Instagram & Facebook | Spark AR Studio #s
 yb3SajK5Y2s // Border Frame Filter Effect (UI Shader Code Asset) | Instagram & Facebook | Spark AR Studio Tutorial
 0EHu1gFay1s // Spark AR TV | Instagram & Facebook Filters
 DZe5K-Q-5mE // Favourite Filters #13 | Instagram & Facebook | Spark AR Studio #shorts
+mXuHMlDagNg // Favourite Filters #14 | Instagram & Facebook | Spark AR Studio #shorts
+JmarvnetALU // Mirror with Opacity Tutorial
+uu64plEehUY // Favourite Filters #15 | Instagram & Facebook | Spark AR Studio #shorts
+aFh4JDl8cJg // Favourite Filters #16 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -2443,6 +2460,9 @@ m2s3fmF0KoA // How to Create an Instagram Filter | Spark AR Studio Tutorials 202
 
 # Tech Raikar
 FBJ_5cIZhAM // How To Make Guess the Gibberish And More Instagram Filters
+
+# TECHKNOW
+I3lumOrvUn0 // Emma Twersky - Spark(AR)ing a New Career Path
 
 # TechMe Show
 j4ockitGy-I // Make Interactive Instagram/Facebook Filter with Particle System in SECONDS!
@@ -2628,12 +2648,6 @@ lGhxGy0ZLbA // How to install Spark AR on Windows
 
 # Vinay Phadnis
 YG2YckIazWY // I built an Instagram filter for #teamtrees from scratch : 1 hour coding challenge
-
-# Virtual Art Space
-t2CM0nTGtLA // 5 SPARK AR HACKS IN 2 MINUTES
-fSo_o5D-1cU // UNBOXING MY SPARK AR CHAMPIONSHIP RING
-AibIMylQaBU // GET TRAVIS SCOTT IN YOUR HOME WITH THIS INSTAGRAM FILTER
-8RVJmQPgyU4 // INSTAGRAM FILTER - LOUIS VUITTON STORE *SPARK AR TUTORIAL*
 
 # Virtually There Studio
 kPDnMVUM-DY // Spark AR background face filter

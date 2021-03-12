@@ -94,7 +94,9 @@ class ApiDataLoader:
                 id=','.join(batch),
             )
             response = request.execute()
-            results += [Channel(item) for item in response.get('items')]
+            items = response.get('items')
+            if items:
+                results += [Channel(item) for item in items]
         return results
 
     def fetch_playlist(self, id, max_result):

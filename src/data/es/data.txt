@@ -32,6 +32,7 @@ wXx7kYp6V9E // ¿Cómo crear filtros de Instagram? - PARTE 3
 0Asf1E4MYls // ¿Cómo crear filtros de Instagram? - PARTE 2
 
 # Andreu Ibáñez
+qU00EXjycSQ // Promo taller filtros AR #InternationalWomenDay 2021 de la @icynthiaxr #IWD21 #Couragetocreate
 1PDt-oVmZAo // Crea tus propios filtros de Realidad Aumentada para usar en Instagram, MEET y otras #Couragetocreate
 
 # Anibal Caballero
@@ -464,6 +465,7 @@ q4GyX2nIb20 // Spark AR Player to Oculus Quest | Testing on Virtual Reality (EN 
 VB3sJuBup4A // Tutorial Spark AR - Time Warp Efecto de Tiktok (EN Captions)
 FzyXArvAuQw // Spark AR - Neck bending occlusion - Hole in the heart Prototype (EN Captions)
 faMFhgAMxFw // Spark AR - Crear un portal con LiDAR 3D Scan (EN Captions)
+va-TUyQZOiA // Spark AR Tutorial -  3d glasses with 2d gallery texture Only with Spark AR (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -625,6 +627,12 @@ O7_vrZ3XOKg // ¿Cómo hacer filtros para INSTAGRAM con PROCREATE (o cualquier s
 # Laura Rodríguez
 bMy2kLx-tXo // Tutorial - Filtro para Instagram (con Spark AR)
 
+# Leonardo Vargas Rojas
+SPtIhBHIthM // 11. Test con Celular - Spark AR
+0t657ByKhvA // 12. Publicación del Proyecto - Spark AR
+JMX__MvLWcA // 9. Textos 3D - Spark AR
+nzbomYkxfjU // 7. Filtro de ojos - Spark AR
+
 # Lucero corti
 xd5zTAvOm_U // FILTROS PARA INSTAGRAM 📱- Crealos y publicalos
 
@@ -765,6 +773,9 @@ H1Oo7xz77-I // Cómo hacer FILTROS para INSTAGRAM con CANVA
 
 # Natalia Ramirez Pachon
 afjrItN_8f8 // Cómo descargar SparkAR
+3WLhb9lzPwg // 2. Tipos de tracking - Spark AR
+E_RzwAE1EwY // 3. Interfaz - Spark AR
+6Xg0-fYxJn8 // 10. Patch editor -  Spark AR
 
 # Nayelli Pérez Pardiño
 EvAiT5kA4zE // Filtro en Spark AR - Parte1
