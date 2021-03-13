@@ -82,6 +82,7 @@ ypUArQ3oYdg // 【SparkAR】AR Libraryを使って手軽にキラキラエフェ
 ysBzjlxK1Ns // 【Spark AR】zoomのようなバーチャル背景を作ってみた
 hgUJrzBrakg // 【カラーフィルター】SparkARを使って夜に駆ける風のエフェクトをつくってみた
 1_2AY2qXtPU // 【SparkAR】インスタフィルターで日本語テキストを利用するには〇〇しよう
+Hfd0AmExPCI // SparkARで美肌フィルターを作ってみよう！
 
 # SS PARK スケサンパーク
 hLKOQb_I1AI // Eng Sub | インスタARコミュニティ 運営メンバー入荷しました

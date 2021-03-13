@@ -77,6 +77,9 @@ v-2MzcxLCYg // [Spark AR]와앙포카/인스타 필터 포카 만들기_Korean w
 # 손호성
 pD7WF5BIFgM // SparkAR 간단히 만든 플라워이펙트
 
+# 수민
+MiTT3BJiMgE // 인스타그램 글리터 필터 만들기
+
 # 와글와글팩토리TV
 A0mOPlXw_4k // [AR Maker] 증강현실 만들기 Intro
 b0ojMJ7AEiw // [AR Maker] #1 Spark AR로 만드는 증강현실 첫걸음
