@@ -35,6 +35,9 @@ i7tfUJKxqu8 // How to make "KIRA KIRA EFFECT" Facebook | Instagram Filter in Spa
 sL-45WLqCAo // How to make "KERA KERA EFFECT 2" Facebook | Instagram Filter in SparkAr
 mRtmdKyRFTU // How to make "Multiple Screen LUT Effect" Facebook | Instagram Filter in SparkAr
 
+# abm pr
+E5qq3__mtzI // How to publish your instagram effect on Spark AR Hub.
+
 # Activemotionpictures
 xYUopOiCcnQ // Anime mecha modeling (Blender 2.79 - 2.83.5)
 -SQdHehksJw // Blender NLA - ACTIONS clips DEMYSTIFIED (2020) [Export to Unity, Lens Studio, Spark AR, etc]
@@ -122,6 +125,9 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 5uPNwr5OWQo // How to Create a ShapeKey Animation in Blender 2.8 that Works in Sparkar Version 76
 3BtHGs_tp_k // SparkAR's Audio Analyzer Tutorial v89
 0L2Gr-SQpCU // SparkAR v92 Render Pass Tutorial
+
+# aMedia
+L-6CSX1CkaQ // How to create an Instagram Filter | Beginner Spark AR Tutorial
 
 # Amir Rasyid
 rOz4GM_8QHc // Facebook/Instagram filter using spark AR
