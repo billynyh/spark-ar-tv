@@ -889,6 +889,9 @@ mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
 # Gamefromscratch
 4aNzkxQs-K4 // Facebook Joins Blender ... please... tell me how I should feel right now!
 
+# Genius Ventures Inc
+8MAWU2vpNvk // Luxury Handbags AR Commerce by Genius Ventures Inc | Spark AR | Augmented Reality for Fashion Brands
+
 # Geri Cani
 HEPfX7nUH4Q // How to make "Which character are you?" | Instagram Filter Spark Ar Tutorial
 7-Z45bqnqLc // How to make 3 Option Filter or more with UI Picker Buttons | Instagram Filter Spark AR Tutorial
@@ -2338,6 +2341,7 @@ myYJ8AEbks4 // Favourite Filters #17 | Instagram & Facebook | Spark AR Studio #s
 3QvO6rKugXI // Favourite Filters #18 | Instagram & Facebook | Spark AR Studio #shorts
 RfKYK46cVIc // Water Ripples Tutorial (Texture Distortion) | Instagram & Facebook | Spark AR Studio Tutorial
 vf1m8Ex6FMQ // Favourite Filters #19 | Instagram & Facebook | Spark AR Studio #shorts
+4Win8ly9RCs // Favourite Filters #20 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -2389,6 +2393,9 @@ egX1UTRKzx0 // Spark AR Scripting - Ep 2 - Reactive Programming // How to conver
 ZUTxeQcaZ-I // Spark AR Scripting - Ep 3 - Shader Programming Basics // How Shaders and the Graphics Pipeline work!
 XFDcQHhjoWc // Spark AR Scripting - Ep 4 - Box Blur // How to use loops in shaders to simplify complex effects!
 AQv9GR16xMw // Spark AR Scripting - EP 5 - Promises // How to use the new asynchronous APIs in JavaScript (v85+)
+
+# Soho Editors Training
+M59d7ChYT1A // Art of the Visual Webinar
 
 # Sophia Molina
 PULxnnYyucg // I made my own Instagram filter | Sophia Molina
@@ -2557,6 +2564,9 @@ OEZxLtC7bXU // Creating and Manipulating Objects with Scripts in Spark AR
 TsUnA7QWW8o // How to MAKE Instagram FILTERS using Lightroom PRESETS | Spark AR Studio
 vhBobYNEb2U // Cómo crear FILTROS de Instagram en Lightroom | Spark AR
 
+# Trapeze Media
+8A7w90Ua1I0 // Augmented reality designer Jerzy Pilch (Kitty Chats #2)
+
 # Trixie Litan
 Cd253TiCisw // How to make instagram face filter *easy, simple* | Trixie Litan
 
@@ -2616,6 +2626,7 @@ BBRgKLklnG8 // Complete Blinking Game tutorial for Spark AR. Part 5 Logic
 _bztD0u2RtM // Complete Blinking Game tutorial for Spark AR. Part 6 Score
 BQNrvWvF0v0 // Complete Blinking Game tutorial for Spark AR. Part 7 Faster gameplay
 bo7facU4HTg // Change hair color with Quick hair - Spark AR tutorial
+KCe3IfaRd1w // Sunny sky and clouds shader tutorial
 
 # Ulka Chandini Pendit
 3PJEwMaXcPI // How to make Instagram Filter for promoting your brand using SparkAR
