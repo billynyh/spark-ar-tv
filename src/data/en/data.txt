@@ -796,6 +796,7 @@ iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorial
 FwmpNJb53bU // Efeito de TV antiga, glitch, granulado muito fácil com nova atualização - tutorial Spark AR
 VpqwmJPPbNs // Como deformar o rosto no Spark AR - filtros para Facebook e Instagram
 -G42WMRtDSk // Criando clones com delay frame - Tutorial Spark AR
+650EX7tbyh8 // Borboleta emitindo brilhos com partículas - tutorial Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -2353,6 +2354,9 @@ vf1m8Ex6FMQ // Favourite Filters #19 | Instagram & Facebook | Spark AR Studio #s
 4Win8ly9RCs // Favourite Filters #20 | Instagram & Facebook | Spark AR Studio #shorts
 hbc0EJU51Fg // Favourite Filters #11 - #20 | Instagram & Facebook | Spark AR Studio
 e9I1rbl1FGc // Resizable Frames (Scale To Any Size Device)  | Instagram & Facebook | Spark AR Studio Tutorial
+NIZn09FptFw // Favourite Filters #21 | Instagram & Facebook | Spark AR Studio #shorts
+97Qdqnqh6Tc // 2D Animated Background (Scale, Rotation, Loop) | Instagram & Facebook | Spark AR Studio Tutorial
+HEmJwIWsEhE // Disco Lights (Color Cycle, Duotone, IG Music) | Instagram & Facebook | Spark AR Studio Tutorial
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

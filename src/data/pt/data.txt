@@ -269,6 +269,7 @@ OQ-VDEG-p98 // Efeito de fogo, água ou vento no seu filtro - Tutorial Spark AR
 FwmpNJb53bU // Efeito de TV antiga, glitch, granulado muito fácil com nova atualização - tutorial Spark AR
 VpqwmJPPbNs // Como deformar o rosto no Spark AR - filtros para Facebook e Instagram
 -G42WMRtDSk // Criando clones com delay frame - Tutorial Spark AR
+650EX7tbyh8 // Borboleta emitindo brilhos com partículas - tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -371,6 +372,9 @@ wkMt7KuSfoc // Makeup com o SPARK AR-Tutorial
 
 # Katy Candy
 W1OL86PQFOs // COMO FAZER SEU PRÓPRIO FILTRO NO INSTAGRAM | eu e eu mesmo
+
+# Kelvyn Vlogs
+P077HDZd8yI // Como fazer filtros do Instagram em 3 minutos!
 
 # Lara Januário
 6jBB2deTUwY // COMO FAZER FILTRO PARA O INSTAGRAM (simples e fácil) APROVADO NO MESMO DIA!!!
@@ -614,6 +618,9 @@ oQfdGRm9hl8 // REGISTRANDO SEU FILTRO!
 # Sheila Gajadhar
 wEhjHBUTtQw // CRIANDO FILTRO PARA INSTAGRAM EM 5 MINUTOS!!!! SUPER FÁCIL
 
+# Silviane Rocha
+cD_4ZfOzmuU // #2 Filtro Spark AR - LUT + Dentes brancos + Retouch
+
 # Sol Fernandes
 fTKSg2kxfy8 // Como fazer seu próprio filtro  para o Instagran?
 
@@ -705,6 +712,7 @@ dViey-BE9fo // COMO CRIAR FILTRO COM AURÉOLA DE ANJO + ARQUIVO 3D GRÁTIS | POR
 s-5Oca7Q_bU // COMO CRIAR EFEITO QUE TIRA A BARBA PARA O INSTAGRAM + PATCH GRÁTIS | POR JULLIANA.DEV
 QXC6y7F5TOE // COMO CRIAR EFEITO DE MOLDURA COM COLAGEM DE FOTOS | POR JULLIANA.DEV
 E2iiUrD8f_s // COMO CRIAR FILTRO DE PERSONAGEM NA FACEMESH | POR JULLIANA.DEV
+TzxDZ5kCjRg // COMO CRIAR EFEITO DE FLORZINHAS ACOMPANHANDO O ROSTO | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
