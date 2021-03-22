@@ -176,6 +176,7 @@ gC21l1hmJbw // LIBRERÍA DE COLOR LUTs | Nueva funcionalidad en AR Library #34
 w2hp7oTX4tQ // EFECTO INFERNO | Cómo crear un efecto a base de fuego
 dUbO3_AJEgw // CREAR UN FILTRO DE TIKTOK | Recreando el filtro de Aleagullosm
 pIeBg1oO-14 // CREAR UN VÓRTICE ANIMADO | Efectos 3D en tu filtro
+UeKJizVUm-Q // CÓMO CREAR UN EFECTO DE INSTAGRAM | Efecto completo de Spark AR Studio
 
 # Cruzelvro
 dbWH7KsHL8k // CREAR FILTROS || FILTROS PARA INSTAGRAM || [Filtro De Color Y Face Mask] [Spark Ar]
@@ -349,6 +350,7 @@ gBAEi5w28Wo // Combinar LUT + Face mesh + Retouch (Spark AR)
 eijoHm44LEs // Animación de Mariposas en Spark Ar - Añadir vídeo mp4
 9xaW22IdI_I // Filtro FLASH WARNING (Spark AR)
 Av35h-ROoTE // SOLUCIÓN SI Spark Ar No te deja subir tu filtro
+2rk4TGp_x14 // Spark AR Crea TEXTURE DISROSION
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
