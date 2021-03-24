@@ -2004,6 +2004,7 @@ eDaiDmy7gPc // How to create a 2D Responsive & Dynamic Text in Spark AR [PART 2 
 -f1ZKsDgnvE // How to create a Timer in Spark AR [PART 3 of the VHS Aesthetic Filter Series]
 KJ3GP242yOc // Photo Booth Filter Tutorial [How to Freeze a Frame by using Render Pass in Spark AR]
 uMyNUUmMfDM // How to Create a LUT + Retouching in SPARK AR with the ColorLUTShader (2021 Update)
+TI9r4P0MCxM // Spark AR: Upload your own Real-Time Simulation/Video Previews [Beginner Tutorial]
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -2365,6 +2366,8 @@ jZc4gaYlqek // Magic 8 Ball (Random Image, Animation, Photoshop) | Instagram & F
 A7-7LlGD8xs // See Who's Using Your IG Filters | Instagram & Facebook | Spark AR Tutorial
 p3AEmgxNhdw // Slit Scan (Freeze, Render Pass, Delay Frame) | Instagram & Facebook | Spark AR Studio Tutorial
 YKAjUWEBR2c // Favourite Filters #22 | Instagram & Facebook | Spark AR Studio #shorts
+IIRW9oH-1IU // Add Swipe Up Link/Call To Action In IG Stories | Instagram & Facebook | Spark AR Tutorial
+u2RD_BmHl0s // Favourite Filters #23 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -2808,6 +2811,7 @@ eR6vwvg21oY // who make a "beauty" filter  in spark ar
 
 # רון אבות
 FcPX2AGR7Io // Spark AR studio tutorial: Create 2D stickers
+f9EGnfD3RT8 // Spark AR studio advanced tutorial: Create addition option to 2D stickers
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74
