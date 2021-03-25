@@ -683,6 +683,38 @@ QreuJATjHI4 // Create An Instagram Filter | Spark AR | Javad Khalilov
 # DSZ arts
 bdeCgtdYm2k // Moody Zones - Instagram Filter - Spark AR Timelapse
 
+# Eddy Adams
+0SjRbVcMwXY // Spark AR - Navigation (Masterclass Chapter 1)
+PVQJQiekEYY // Spark AR - Keyboard Shortcuts (Masterclass Chapter 1)
+KsxyEFW-TBk // Spark AR - Face Tracker and Face Mesh (Masterclass Chapter 1)
+_YCzmDyPga8 // Spark AR - Face Reference Assets (Masterclass Chapter 1)
+a13rmBBLec0 // Spark AR - Edge Smoothing (Masterclass Chapter 1)
+7l8HjLYOeyQ // Spark AR - Action: Use As A Face Mask (Masterclass Chapter 1)
+IUHr-JSDKF0 // Spark AR - Automatic Folders (Masterclass Chapter 1)
+Jv5i7U8hWF8 // Spark AR - Testing (Masterclass Chapter 1)
+pcEQTYHcOT0 // Spark AR - 3D Shapes and Plane Tracker (Masterclass Chapter 1)
+BW4IsbArP6k // Spark AR - Object Manipulation (Masterclass Chapter 1)
+5oWPSe9PbKc // Spark AR - Loop Animation (Masterclass Chapter 1)
+Cb2BWiK3b_w // Spark AR - Action: Add Simple Shadow (Masterclass Chapter 1)
+_GeIqahB3DY // Spark AR - Null Object and Pivot vs Center(Masterclass Chapter 1)
+pAkWDMAJ4YI // Spark AR - Runtime (Masterclass Chapter 1)
+HcUy9PkeonE // Spark AR - Housekeeping (Masterclass Chapter 1)
+yq3VwPFX7S0 // Spark AR - Screen Tap and Offset (Masterclass Chapter 1)
+CkDJudoHajs // Spark AR - Data Types (Masterclass Chapter 1)
+L52UUyogmz0 // Spark AR - Comments (Masterclass Chapter 1)
+Z6fUDbvyb3M // Spark AR - Patch Group and Patch Asset(Masterclass Chapter 1)
+g25g_MhlJKM // Spark AR - Device, Camera, and Focal Distance(Masterclass Chapter 1)
+GPzRyEc8zfc // Spark AR - Scene Hierarchy (Masterclass Chapter 1)
+tpULl8AVbag // Spark AR - Layers (Masterclass Chapter 1)
+auKgCAXoMMI // Spark AR - Fixing Alpha Issues (Masterclass Chapter 1)
+vKCAQmB3n3o // Spark AR - Texture Extraction and Canvas(Masterclass Chapter 1)
+jYcHPzjRaCI // Spark AR - Manipulating Color (Masterclass Chapter 1)
+tmC5aQ0TyJI // Spark AR - LUTs (Masterclass Chapter 1)
+T6xVFR9JkjM // Spark AR - Mixing (Masterclass Chapter 1)
+1qeybEr9HO4 // Spark AR - Head Rotation (Masterclass Chapter 1)
+mB04wwOHREg // Spark AR - Instructions (Masterclass Chapter 1)
+96eokGqClW0 // Spark AR - Preview Videos (Masterclass Chapter 1)
+
 # Edinburgh Hoppers
 hGyr73u_puI // Spark workshop - HUB Chiclayo Valley
 
@@ -818,6 +850,9 @@ cNG3FYXaY6g // Spark-AR Tutorial #8, Functionality Part C, Counter and Replay.
 BWy13plOCoQ // Spark-AR Tutorial #8 Functionality Part B, Collision Detection and group smoothen up.
 1jXkZWXmBr8 // Spark AR - intro to Scripting environment.
 ci-6PzR0ed0 // Spark AR (Intro to Scripting part 2, finding objects, mouth opnness)
+
+# Fluffytriforce
+EwTICmChN-k // HOW TO MAKE AN INSTAGRAM FILTER IN LESS THAN 10 MINUTES (SPARK AR)
 
 # FOCUS MEDIA
 62sgCzrzAPg // HOW TO MAKE YOUR OWN INSTAGRAM FILTER IN 2 MINUTES On Phone and Pc|how to Create an Instagram filter
@@ -2368,6 +2403,8 @@ p3AEmgxNhdw // Slit Scan (Freeze, Render Pass, Delay Frame) | Instagram & Facebo
 YKAjUWEBR2c // Favourite Filters #22 | Instagram & Facebook | Spark AR Studio #shorts
 IIRW9oH-1IU // Add Swipe Up Link/Call To Action In IG Stories | Instagram & Facebook | Spark AR Tutorial
 u2RD_BmHl0s // Favourite Filters #23 | Instagram & Facebook | Spark AR Studio #shorts
+MRIyLNJLcE4 // Keyframe Patch Tutorial | Instagram & Facebook | Spark AR Tutorial
+xYIs3rFeKZM // Favourite Filters #24 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
