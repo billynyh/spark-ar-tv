@@ -1686,6 +1686,7 @@ HoLLBZrUv4M // 1 день. 2 видео.Обзор программы Spark AR S
 U1oEI7PZHGk // 1 день. 3 видео. Создание маски Инстаграм в Spark AR Studio с использованием панели Actions
 6qQnznsW__E // Маска в инстаграм Рандомайзер | Уроки Spark AR | Шаблон для маски
 MEQe7oNEucM // Spark AR Studio. Как протестировать маску в Инстаграм.
+IoiIoLwOjvQ // Spark AR. Созвон в ZOOM. Как Убрать баги в пресете  и добавление ползунка в проект
 
 # МАНДАРИН
 gdPIhAcULIY // Делаю маску для InStAgRam

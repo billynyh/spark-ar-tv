@@ -727,6 +727,7 @@ UBxAmiNhIPE // COMO CRIAR EFEITO FUTURISTA | POR JULLIANA.DEV
 opl4Djg0DQY // TEMPLATE DE ASAS FÁCIL COM BLOCO NA NOVA VERSÃO DO SPARK AR STUDIO | POR JULLIANA.DEV
 GvejxWz9sYY // COMO CRIAR EFEITO DE CÉU COLORIDO E ANIMADO COM GIFS | POR JULLIANA.DEV
 3QvEuH77-wM // COMO CRIAR EFEITO DE ADESIVOS NO ROSTO E LUZES BRILHANTES | POR JULLIANA.DEV
+VO0vUYBaDBw // COMO CRIAR EFEITO DE LUTS PSICODÉLICOS PARA INSTAGRAM | POR JULLIANA.DEV
 
 # Spark AR Tutoriais em Português
 s2h3E4IFy2g // Instagram Spark AR Do 0 ao primeiro filtro!
@@ -1067,6 +1068,7 @@ mvdk5bTjy5k // Advanced Render Options - Spark Ar Studio Tutorial
 PsnPGowyQkQ // Plataforma para vender seus Assets/LUTS/Patchs 🤑 - Spark Ar Studio Tutorial / Kiwify
 649cE77PoFk // Tatuagem no Pescoço e no rosto Efeito/Filtro Instagram - Spark Ar Studio Tutorial
 al4y2TIRRrA // "Seu Efeito deixará de ser Aceito em 30 dias" o que fazer? - Spark Ar Studio Tutorial
+31erTfemPrY // Explorando os novos templates da V109 (Elements/Post-Processing) - Spark Ar Studio
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1

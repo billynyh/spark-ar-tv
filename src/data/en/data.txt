@@ -714,6 +714,7 @@ T6xVFR9JkjM // Spark AR - Mixing (Masterclass Chapter 1)
 1qeybEr9HO4 // Spark AR - Head Rotation (Masterclass Chapter 1)
 mB04wwOHREg // Spark AR - Instructions (Masterclass Chapter 1)
 96eokGqClW0 // Spark AR - Preview Videos (Masterclass Chapter 1)
+ZkjyV7s8jIA // Spark AR - Platforms (Masterclass Chapter 1)
 
 # Edinburgh Hoppers
 hGyr73u_puI // Spark workshop - HUB Chiclayo Valley
@@ -1628,6 +1629,7 @@ P46w_nIg7OE // Easy Freckles in Spark AR!
 u31vRoG3uns // Adding Grain with Spark AR
 -p0q9Gk-jpc // Simulate reduced framerates in Spark AR with render passes
 U60CECzzneE // Spark AR Stencil Effect
+8Ezbm9mjAuk // Quickly and easily make objects rotate around the head in Spark AR
 
 # Mohit
 R5EGaX7JJDw // How to make your own instagram filter!
@@ -2405,6 +2407,7 @@ IIRW9oH-1IU // Add Swipe Up Link/Call To Action In IG Stories | Instagram & Face
 u2RD_BmHl0s // Favourite Filters #23 | Instagram & Facebook | Spark AR Studio #shorts
 MRIyLNJLcE4 // Keyframe Patch Tutorial | Instagram & Facebook | Spark AR Tutorial
 xYIs3rFeKZM // Favourite Filters #24 | Instagram & Facebook | Spark AR Studio #shorts
+jgWaZWKrvjk // Favourite Filters #25 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

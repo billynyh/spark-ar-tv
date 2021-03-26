@@ -80,6 +80,7 @@ XtS6ivBWB6s // Tutorial Juego + Score Spark Ar Studio, Filtro Instagram (juego c
 pb7mnPuUDlM // Tutorial game add and subtract points when eating, Spark ar studio Juego sumar y restar puntos
 dCK11pKtMZM // AR IN VR??? test game on oculus spark ar studio
 PGx3kPyFJ8k // Tutorial action triggers with spark ar studio traces. (Spanish) activar acciones con rastreos
+qEklAc_ljBU // Tutorial Water Effect using Normal Map Spark AR Studio (Spanish) efecto agua
 
 # BlackPeach
 1o_7orPj1KM // 💗COMO HACER FILTROS DE INSTAGRAM 💗
@@ -113,6 +114,7 @@ f_xomb7TZ5c // Spark AR: AÑADIR INSTRUCCIÓN "TOCA PARA CAMBIAR"
 jpKw198lp0g // CURSO GRATIS SPARK AR STUDIO | Instalación y primeros pasos | Tutorial #1
 kvICqAYhB7g // Cómo SUBIR un filtro a INSTAGRAM | CURSO GRATIS SPARK AR STUDIO
 rOSe3X-6GQk // Convierte tus PRESETS de LIGHTROOM en FILTROS de INSTAGRAM | CURSO GRATIS SPARK AR STUDIO
+dY99qn8k-cA // Filtro CAMBIAR el COLOR del CABELLO | Hair Segmentation | CURSO SPARK AR STUDIO
 
 # Color Space
 OVOZOnhxNd4 // COMO PUBLICAR FILTROS PARA INSTAGRAM EN SPARK - Filtros para instagram.
@@ -469,6 +471,7 @@ FzyXArvAuQw // Spark AR - Neck bending occlusion - Hole in the heart Prototype (
 faMFhgAMxFw // Spark AR - Crear un portal con LiDAR 3D Scan (EN Captions)
 va-TUyQZOiA // Spark AR Tutorial -  3d glasses with 2d gallery texture Only with Spark AR (EN Captions)
 rQk7i04tPxQ // Spark AR - Split Face Effect (Transition & Rotation) - Instagram Filter | EN Captions
+m7M3AlJHsM0 // Spark AR Tutorial - No Blink to win -  Game 👀👀 (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -532,6 +535,7 @@ xhi8NJk7jYo // como hacer un filtro de color para instagram en spark ar
 8_Ttl6HPFgk // como hacer un filtro de face mesh con lut en spark ar para instagram
 zG3CtZx6PCA // como hacer un filtro de face extraction para instagram en spark ar
 aMblwxjMa8U // watch me work #1 | collage filter with paper overlay | spark ar
+tvajGfrjWEU // sharpening effect | efecto de nitidez | spark ar tutorial
 
 # Gerald Bustos
 p_zLJ-tsOZE // CREA ESTOS FILTROS DE MODA PARA INSTAGRAM RÁPIDO! EXPLICADO AL DETALLE #SPARKAR
