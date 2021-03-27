@@ -529,6 +529,7 @@ hPV6cnZM0xw // Aesthetic Spark AR face filter speed paint
 
 # Comida For Familias, Inc.
 wnWTzd0L5MU // Start Making AR Filters | How to Create a Mask
+8jr2eS7_auM // Figma Fundamentals: Masking
 
 # Cornwall Museums Partnership
 ALvl9zECpRM // AR Face Filters Part 2: Create a Face Filter in Five Minutes
@@ -715,6 +716,20 @@ T6xVFR9JkjM // Spark AR - Mixing (Masterclass Chapter 1)
 mB04wwOHREg // Spark AR - Instructions (Masterclass Chapter 1)
 96eokGqClW0 // Spark AR - Preview Videos (Masterclass Chapter 1)
 ZkjyV7s8jIA // Spark AR - Platforms (Masterclass Chapter 1)
+mtqyDK5yBBU // Spark AR - Mood Board (Masterclass Chapter 2)
+jblxvI9ayDU // Spark AR - 3D Modeling (Masterclass Chapter 2)
+ojJDK9ZpoK8 // Spark AR - Importing 3D Objects (Masterclass Chapter 2)
+hTT-3_clCLM // Spark AR - Materials (Masterclass Chapter 2)
+MWuYKFz79cA // Spark AR - Lights (Masterclass Chapter 2)
+k_eW9UspuAY // Spark AR - Particles and Scripting (Masterclass Chapter 2)
+cm5BlFiaRzI // Spark AR - Dynamic Text (Masterclass Chapter 2)
+Q6GPb0MT_Lo // Spark AR - Exponential Smoothing (Masterclass Chapter 2)
+KIpB97DcsFc // Spark AR - Slider UI (Masterclass Chapter 2)
+jEsr5HucKqw // Spark AR - Transitions (Masterclass Chapter 3)
+Voj6H1fY8VE // Spark AR - 3D Animated Poster (Masterclass Chapter 3)
+pQVUSkgiJv8 // Spark AR - Background (Masterclass Chapter 3)
+yNguBD0qquI // Spark AR - World Object (Masterclass Chapter 3)
+x1_HxTdHVCE // Spark AR - Face Decoration (Masterclass Chapter 3)
 
 # Edinburgh Hoppers
 hGyr73u_puI // Spark workshop - HUB Chiclayo Valley
@@ -831,6 +846,7 @@ VpqwmJPPbNs // Como deformar o rosto no Spark AR - filtros para Facebook e Insta
 -G42WMRtDSk // Criando clones com delay frame - Tutorial Spark AR
 650EX7tbyh8 // Borboleta emitindo brilhos com partículas - tutorial Spark AR
 4T_fk4wwTss // Cirurgia plástica no seu efeito - tutorial Spark AR
+f6n_VoXzhVw // Adicione chapéu ao seu filtro - Tutorial Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1668,6 +1684,9 @@ g3JgJtYmDTU // Make Your Own Instagram Filter
 E8RTK7iAvf4 // multiple text filter for Instagram
 fpjKXYQPwks // make Instagram sparkle filter
 
+# Muhammad Faizal
+fxjkqCLRVG4 // How To Make Instagram Filter - Faizal XII TKJ 1
+
 # Musiclick
 xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spark AR Studio
 
@@ -2408,6 +2427,7 @@ u2RD_BmHl0s // Favourite Filters #23 | Instagram & Facebook | Spark AR Studio #s
 MRIyLNJLcE4 // Keyframe Patch Tutorial | Instagram & Facebook | Spark AR Tutorial
 xYIs3rFeKZM // Favourite Filters #24 | Instagram & Facebook | Spark AR Studio #shorts
 jgWaZWKrvjk // Favourite Filters #25 | Instagram & Facebook | Spark AR Studio #shorts
+LrJbge_cCuI // Favourite Filters #26 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
