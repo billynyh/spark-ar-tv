@@ -35,6 +35,7 @@ LANG_DISPLAY_NAME = {
   'mn': 'Mongolian',
   'km': 'Khmer',
   'uz': 'Uzbek',
+  'si': 'Sinhala',
   'global': 'All Languages',
 }
 

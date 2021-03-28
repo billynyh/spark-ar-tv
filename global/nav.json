@@ -177,6 +177,11 @@
         "title": "Uzbek",
         "url": "https://billynyh.github.io/spark-ar-tv/uz/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Sinhala",
+        "url": "https://billynyh.github.io/spark-ar-tv/si/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -462,6 +467,13 @@
       "meta2": null
     },
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCja03qAtD1GgPtrOaz2tnjQ.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/kiTuzJ7CXVY/hqdefault.jpg",
+      "title": "Channel: Eddy Adams",
+      "meta1": "Num videos: 142",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
@@ -493,7 +505,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2XaydnYGIp3VLgu9zqg3NQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/O3-c0c8XJWQ/hqdefault.jpg",
       "title": "Channel: Spark AR Brasil",
-      "meta1": "Num videos: 95",
+      "meta1": "Num videos: 96",
       "meta2": null
     },
     {
@@ -501,13 +513,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FT5D8oGnnOY/hqdefault.jpg",
       "title": "Channel: Rudy Anwar",
       "meta1": "Num videos: 92",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC3zmATtNhDuYOketH1zF5sw.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/_BHo-QcQbgU/hqdefault.jpg",
-      "title": "Channel: Catalyst",
-      "meta1": "Num videos: 87",
       "meta2": null
     },
     {
@@ -796,7 +801,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-03-22.html",
       "thumbnail_url": "https://i.ytimg.com/vi/al4y2TIRRrA/hqdefault.jpg",
       "title": "Week 2021-03-22",
-      "meta1": "Num videos: 97",
+      "meta1": "Num videos: 200",
       "meta2": null
     },
     {
