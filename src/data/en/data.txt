@@ -126,6 +126,9 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 3BtHGs_tp_k // SparkAR's Audio Analyzer Tutorial v89
 0L2Gr-SQpCU // SparkAR v92 Render Pass Tutorial
 
+# amateur footballer
+hYK0yDMJwgY // IG FILTERS HOW TO USE | SPORTS CONTENT| 2021 AND BEYOND
+
 # aMedia
 L-6CSX1CkaQ // How to create an Instagram Filter | Beginner Spark AR Tutorial
 
@@ -323,6 +326,9 @@ DF3MZkVzWyA // Spark AR Tutorial: Segmentation, its game time #bestbannersever
 
 # Bhabna Das
 cDwyq_HIQAo // How to make an Instagran Filter | Spark AR tutorial | Bhabna Das
+
+# BitHead
+Gmp5R5RVW_o // Create a funny Instagram filter using spark ar | Spark AR | funny |
 
 # Bitsbyteweb
 1cd4HKohrYo // How To make Random Answer Filter- Spark AR
@@ -2103,6 +2109,7 @@ g1rGBkv0vZI // SPARK AR | POLAROID CAMERA WITH GALLERY TEXTURE
 9Sq25b9BCtU // SPARK AR GAME | WHAT ARE YOU QUIZ PATCH, RANDOM IMAGE QUIZ, WHICH CHARACTER ARE YOU
 iHxP2iH3ye0 // SPARK AR GAME | TRUE OR FALSE - 1 - quiz game template
 nleFX1rB11M // SPARK AR GAME | EATER GAME / Spark AR Eating game template ( patches only )
+t7giplgfxxo // SPARK AR GAME | THIS OR THAT - quiz with results score and audio
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
