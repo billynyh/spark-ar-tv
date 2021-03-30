@@ -182,6 +182,11 @@
         "title": "Sinhala",
         "url": "https://billynyh.github.io/spark-ar-tv/si/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Azerbaijani",
+        "url": "https://billynyh.github.io/spark-ar-tv/az/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -477,7 +482,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
-      "meta1": "Num videos: 138",
+      "meta1": "Num videos: 139",
       "meta2": null
     },
     {
@@ -505,7 +510,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2XaydnYGIp3VLgu9zqg3NQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/O3-c0c8XJWQ/hqdefault.jpg",
       "title": "Channel: Spark AR Brasil",
-      "meta1": "Num videos: 97",
+      "meta1": "Num videos: 98",
       "meta2": null
     },
     {
@@ -799,9 +804,9 @@
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-03-29.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z0I_2FMSxkA/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/z05TRmH21a0/hqdefault.jpg",
       "title": "Week 2021-03-29",
-      "meta1": "Num videos: 2",
+      "meta1": "Num videos: 13",
       "meta2": null
     },
     {

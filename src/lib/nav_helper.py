@@ -36,6 +36,7 @@ LANG_DISPLAY_NAME = {
   'km': 'Khmer',
   'uz': 'Uzbek',
   'si': 'Sinhala',
+  'az': 'Azerbaijani',
   'global': 'All Languages',
 }
 

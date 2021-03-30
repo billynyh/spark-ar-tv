@@ -858,6 +858,9 @@ zUehmnaTZkE // [Spark AR] How to create your own filter effect on instagram. (En
 xUJhMwCUBV8 // Electric Playhouse Community Session #6 - Painting for Funsies
 CJp5oSPZiPs // Electric Playhouse Community Session #11 - Spark Ar Instagram Filter - Make Your Own
 
+# Elina Akselrud
+naqg7bsNFUc // SOCIAL MEDIA FOR ARTISTS: PLATFORMS, FEATURES, SCHEDULE, TRENDS - Interview with ANASTASIA PANOVA
+
 # Elis3d
 oAl25uw6z6U // Snow Effect in Spark AR  for your Instagram Filter!
 
@@ -949,6 +952,7 @@ VpqwmJPPbNs // Como deformar o rosto no Spark AR - filtros para Facebook e Insta
 650EX7tbyh8 // Borboleta emitindo brilhos com partículas - tutorial Spark AR
 4T_fk4wwTss // Cirurgia plástica no seu efeito - tutorial Spark AR
 f6n_VoXzhVw // Adicione chapéu ao seu filtro - Tutorial Spark AR
+-XuohdZCWT8 // Como adicionar botões ao seu filtro - Tutorial Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1657,6 +1661,7 @@ K-M55FqwVQM // Spark AR "Smart PBR" v1.1 performance test
 uaPMSCl8-ao // Spark AR "Advanced Glass"
 K8S2ng3VX-I // Spark AR Smart PBR update v1.4
 kO5Vveu6Ppk // Spark AR Facing color mix
+jj8GdVt9NYk // Spark AR Simple FUR 1.1
 
 # Mate Steinforth
 hImMgRb6TEk // Facebook Spark AR HDRI Environment / Glass Shader Tutorial
@@ -2162,6 +2167,9 @@ KJ3GP242yOc // Photo Booth Filter Tutorial [How to Freeze a Frame by using Rende
 uMyNUUmMfDM // How to Create a LUT + Retouching in SPARK AR with the ColorLUTShader (2021 Update)
 TI9r4P0MCxM // Spark AR: Upload your own Real-Time Simulation/Video Previews [Beginner Tutorial]
 
+# Quickly Designing
+Vvpri3emTxY // Random Quiz Filter - Creating your INSTAGRAM Filter & Adding Random Questions & Answers in Loop
+
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
 
@@ -2528,6 +2536,7 @@ MRIyLNJLcE4 // Keyframe Patch Tutorial | Instagram & Facebook | Spark AR Tutoria
 xYIs3rFeKZM // Favourite Filters #24 | Instagram & Facebook | Spark AR Studio #shorts
 jgWaZWKrvjk // Favourite Filters #25 | Instagram & Facebook | Spark AR Studio #shorts
 LrJbge_cCuI // Favourite Filters #26 | Instagram & Facebook | Spark AR Studio #shorts
+c6i8aQC1NGw // Favourite Filters #27 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -2827,6 +2836,7 @@ KNhJFuiPLfw // GUMAWA AKO NG IG FILTER NI MISS KATHRYN BERNARDO | NAGCHAT SI KAT
 # UX Martina
 _tuU8o4PGGw // CREATE YOUR FIRST INSTAGRAM FILTER  | 10 min tutorial with SPARK AR
 IBHFg4eNCZ0 // HOW TO CREATE YOUR OWN INSTAGRAM FILTER IN 5 MIN | LUT + GRAIN
+pXzNtQX8pBM // MAKE YOUR OWN INSTAGRAM FILTERS // Change your background stories in 2 minutes
 
 # Varun Raikar
 o5YCrMRT_7o // How to Make "Which are You" Instgram Filter Spark AR Tutorial
