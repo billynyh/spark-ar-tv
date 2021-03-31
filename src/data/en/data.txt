@@ -1890,6 +1890,7 @@ G22q-w6T0jc // Spark Ar Tutorial / Make your own instafilter
 # Neha Chaudhary
 yrP7SFQCzF8 // RANDOM SELECTOR FILTER | WHICH/WHO ARE YOU FILTER | SPARK AR | BEGINNER TUTORIAL
 ndn-55M6pH0 // Changing the background using segmentation Tutorial || Spark AR
+fSa8tEubdPE // How to Make the Freeze/Slit Screen Filter Using Spark Ar || Spark Ar tutorial
 
 # New Future Creative
 FWBaMz50b3Q // How To Upload an Augmented Reality (AR) Effect to Facebook Ads Manager
@@ -2166,6 +2167,7 @@ eDaiDmy7gPc // How to create a 2D Responsive & Dynamic Text in Spark AR [PART 2 
 KJ3GP242yOc // Photo Booth Filter Tutorial [How to Freeze a Frame by using Render Pass in Spark AR]
 uMyNUUmMfDM // How to Create a LUT + Retouching in SPARK AR with the ColorLUTShader (2021 Update)
 TI9r4P0MCxM // Spark AR: Upload your own Real-Time Simulation/Video Previews [Beginner Tutorial]
+hae8-mx6S44 // Spark AR Tutorial |Quiz/True or False Game [Random Multiple Questions 2021 Redesign]
 
 # Quickly Designing
 Vvpri3emTxY // Random Quiz Filter - Creating your INSTAGRAM Filter & Adding Random Questions & Answers in Loop
@@ -2537,6 +2539,7 @@ xYIs3rFeKZM // Favourite Filters #24 | Instagram & Facebook | Spark AR Studio #s
 jgWaZWKrvjk // Favourite Filters #25 | Instagram & Facebook | Spark AR Studio #shorts
 LrJbge_cCuI // Favourite Filters #26 | Instagram & Facebook | Spark AR Studio #shorts
 c6i8aQC1NGw // Favourite Filters #27 | Instagram & Facebook | Spark AR Studio #shorts
+ZJA8Xc5U4BQ // Favourite Filters #28 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
