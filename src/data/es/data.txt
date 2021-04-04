@@ -82,6 +82,9 @@ dCK11pKtMZM // AR IN VR??? test game on oculus spark ar studio
 PGx3kPyFJ8k // Tutorial action triggers with spark ar studio traces. (Spanish) activar acciones con rastreos
 qEklAc_ljBU // Tutorial Water Effect using Normal Map Spark AR Studio (Spanish) efecto agua
 
+# bibliofilica
+0ctGmfFNrwc // Hagamos filtros con Spark #abrilvideosamil. Partículas y filtro de luz
+
 # BlackPeach
 1o_7orPj1KM // 💗COMO HACER FILTROS DE INSTAGRAM 💗
 
@@ -682,6 +685,7 @@ o705su3crQg // MULTIPLE RETOUCH + MULTIPLE COLOR LUTS  | Spark Ar Tutorial
 BFN8Rpwv6aU // APLICAR FILTRO EN 2 CARAS / Two face tracking | Spark Ar
 h9FUnEDbKQE // Filtro efecto CRYSTAL PRISMA | Spark Ar Tutorial
 MklYdDIjkWM // TEXT + PICKER UI FILTER | Spark Ar by LUZIA
+Oqz2MI9twZw // Como hacer Filtro viral PAPERLIKE   | Spark Ar Tutorial | Person Segmentation
 
 # MAB55
 heyGpK9TDsM // ▶️ ✅ Cómo descargar e instalar Spark AR Studio de Facebook en Mac [ 2021 ] | Tutorial PC Mab55
