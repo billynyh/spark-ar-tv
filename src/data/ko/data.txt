@@ -23,6 +23,7 @@ f5JiBlGh1AY // Spark AR로 콘텐츠 만들기 (1) : Introduce Spark AR
 EnyRCMVB5oA // Spark AR로 콘텐츠 만들기 (2) : Patch Editor를 활용한 Eye Tracking과 Screen Tap
 HTZiO5A2yKs // Spark AR_Quick Tips : Actions 사용하기
 VKbSi4qHN0w // Spark AR로 콘텐츠 만들기 (3) : Camera Texture를 활용한 VHS and Pixel 스타일 효과
+C35IS4JROU0 // Spark AR로 콘텐츠 만들기 (4) : 화면4분할 (모든 모바일 비율에 적용 가능)
 
 # 김어진
 raL9TyX5IEs // 간단하게 인스타 필터 만들기💖                                          인스타필터만드는법/spark ar/픽스아트/인스타필터/06년생/인스타스티커
