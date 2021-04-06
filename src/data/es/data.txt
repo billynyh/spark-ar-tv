@@ -217,6 +217,7 @@ iBRJrS15MaY // Spark AR Studio - Switch para ocultar y mostrar elementos de nues
 tg_h3Om14-M // Spark AR Studio - Creando un carrete de imágenes PARTE 2
 50h-hdI76yk // Spark AR Studio - Repositorios de Git, para proyectos de Spark AR Studio
 R5pMxtg9ufg // Spark AR Studio - Ligth Leak - Visual Shaders
+klgFE5Dug-4 // Edición de texto en los filtros para la cámara de Facebook
 
 # Daim Vazquez
 n-B2B6CTNkk // CREA TUS PROPIOS FILTROS/EFECTOS PARA INSTAGRAM STORIES/Daim Vazquez/Tutorial/
@@ -956,3 +957,6 @@ y50Km3XK7l4 // Termina tu filtro de Objeto 3D (Cabeza de Minecraft) | Filtro IG 
 # Yeyo
 AbaknB4FlAM // ¡Cómo CREAR y PUBLICAR tus propios FILTROS de INSTAGRAM! 📱
 E2qwXmS9YHg // ¡Convierte PRESETS de LIGHTROOM en un FILTRO DE INSTAGRAM!
+
+# yois
+GrRmTt-LKyY // Cómo hacer filtros de instagram... 😗✌️
