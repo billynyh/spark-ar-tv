@@ -184,6 +184,7 @@ kp9V3MTihVY // CARA MENAMPILKAN ADD GALLERY/ADD MEDIA ( tutorial part 8 )
 NS3O5pDvQEA // CARA MEMBUAT EFFECT SMOOTH ZOOM TRANSTITION ( tutorial part 9 )
 Jd31BXND3i8 // CARA MEMBUAT EFFECT VERTIGO/REVERSE ( tutorial part 10 )
 sy0Gq8aHqS8 // CARA MEMBUAT EFFECT SMOOTH ZOOM IN & OUT ( tutorial part 11 )
+Ufk-6WFJ7kY // CARA UPDATE FILE EFFECT TERBARU ( Tutorial part 12 )
 
 # Arjun Technology
 KZKygnZl91g // MUDAH!!! Cara Membuat Filter Instagram foto 360 menggunakan Spark AR(Hanya 10 menit)
@@ -772,6 +773,13 @@ P-2DQYabQJI // IMPORT FAILED SPARK AR | CARA MUDAH DOWNLOAD MUSIC UNTUK FILTER I
 GDKPOvgSCzQ // [ SPARK AR TUTORIAL ] CARA BUAT FILTER INSTAGRAM AESTHETIC COOL VIBE |  MUSIC + GRAIN + SMOOTH + LUT
 tBeRxHpBx_U // [ SPARK AR TUTORIAL ] CARA MENGHILANGKAN MINYAK DI COLOR LUT SPARK AR | SPARK AR REMOVE OIL FILTER
 
+# Fian Jven
+L4Q7EuW7Wuk // Cara Upload filter instagram ke spark AR Publish l Fian Jven
+r4FptYOsxEM // Cara Ganti Video Demo di Spark AR dari Format MP4 KE WEBM l Fian Jven
+yOGSwT31WFg // Cara Simpan Filter Instagram di Spark AR l Fian Jven
+gReo1qbOPRA // Cara Memasukan Preset Lightroom Format XMP ke Spark AR dengan Phoptoshop l Fian Jven
+KsOE5RRQkHU // Cara Memasukan Preset Lightroom Format XMP ke Spark AR dengan Phoptoshop
+
 # Fikran JabbArt
 SyAp3fPTGZ0 // FULL - CARA BUAT FILTER INSTAGRAM SAMPE DI APPROVED !! (PEMULA JUGA BISA)
 y8UgrvcU6bA // BARU !!! Cara Buat NativeUI Picker Tanpa Script di SparkAR V.89
@@ -1199,6 +1207,7 @@ MNM2j5qeDVc // AUGMENTED REALITY - MEMBUAT FILTER INSTAGRAM SEDERHANA DENGAN SPA
 ydmuwpsjNw0 // HOW TO MAKE SUPERMAN LASER-BEAM FILTER USING SPARK AR IN JUST 10 MINUTES !!!
 
 # Meirani Siti fatimah
+uaWK-zkLl2o // Filter instagram gratis || ✨ ngevlog filter gratis sambil nemenin doi ✨
 XYX6Ypn-U2g // Tutorial membuat video runaway aurora versi Princess di capcut & gratis filter ig runaway aurora
 
 # Mellany Rose
@@ -1564,6 +1573,7 @@ f7bSDVYk71Y // MEMBUAT FILTER INSTAGRAM BLUR KE GLOW UP | TERBARU FREE AREXPORT!
 8GYglKWLPuM // Cara membuat filter instagram yang mudah dan gak ribet
 jXRUj8a7Aco // Cara Membuat Filter Emot dikepala dengan mudah dan simple
 c1euFIicqy0 // Filter Instagram Devil Screen Tap (Free File Arexport)
+RJkeAS2ryCg // Filter Picker UI Mudah Dan Simple ( FREE FILE AREXPORT)
 
 # Roni Studio
 wTNJJkYzjJg // Update Terbaru Spark AR Studio v78 1 Bahasa Indonesia
@@ -1831,6 +1841,7 @@ KXpruY_k_TM // FILTER INSTAGRAM UNFOLD FRAME RGB (FREE FILE EXPORT SPARK AR)
 hcuJxqnX3pc // CARA UPDATE FILE FILTER INSTAGRAM  (FREE FILE EXPORT SPARK AR)
 8rikV8_FHbY // FILTER INSTAGRAM ARIGATO NYANG VERSI PRANK (FREE FILE EXPORT SPARK AR)
 z0d4VFtXBeE // FILTER INSTAGRAM RAMADHAN-SHALAWAT (FREE FILE EXPORT SPARK AR)
+IRXnxNcFJs8 // FILTER INSTAGRAM RAMADHAN TIBA (FREE FILE EXPORT SPARK AR)
 
 # Siteguh - Teguh Dwi Prayogo
 M0zEYWJtbO0 // MENCOBA HASIL FILTER TANPA KABEL DATA SPARK AR 1
