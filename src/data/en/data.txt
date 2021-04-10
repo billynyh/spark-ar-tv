@@ -83,6 +83,7 @@ pJclp16WwjQ // the workflow to make an instagram filter
 xlEoYE9WD8I // Unboxing + Best IG filters || Aian Colendres
 
 # AICVS Cummins
+-OBF5WKN_lg // AICVS 2.0 | Affan Shaikh | Off Campus Placements
 4pBMV3UOYps // AICVS 2.0 | Rutuja Kolhe | Spark AR!
 
 # Aircastle
@@ -484,6 +485,7 @@ K_YPH6CT-SI // Working with Keyframe Patch | Spark AR Studio
 aQrxZaWECjg // Renderpass Splitscreen | Spark AR Studio
 PcY6kwNB4FQ // Spark AR ToolKit [Blender] | Spark AR Studio
 EXeU34P_OBM // Animated Splitscreen | Spark AR Studio
+95qTpWWip-4 // Bones and Rigging for Spark AR | Blender Basics
 
 # CC in Tassie
 Zwqs8Tv54Vw // Blink of Eye Filter | Spark AR Beginner Tutorial
@@ -1148,6 +1150,7 @@ AC1gHazgvKk // How to Make Your Own Instagram AR Filters | Get Started in Spark 
 
 # HuGraphicDesign
 GKtG2zjS12Q // Christy Hu | Communication Design 2 Final Presentation | Random Theory | ArtCenter | Graphic Design
+gdoGm2mQRlk // Christy Hu | Communication Design 2 Final Presentation | ArtCenter | Graphic Design
 
 # iampimposo
 pRIH_NL-WEM // Spark AR Studio - Scanner Face
@@ -2185,6 +2188,7 @@ hae8-mx6S44 // Spark AR Tutorial |Quiz/True or False Game [Random Multiple Quest
 
 # Quickly Designing
 Vvpri3emTxY // Random Quiz Filter - Creating your INSTAGRAM Filter & Adding Random Questions & Answers in Loop
+ivD8JIvVkvo // Random Quiz Filter - How to link patchese together to complete your INSTAGRAM Loop Filter
 
 # Radssoon AR
 xcXYwFP90nQ // SparkAR
@@ -2693,6 +2697,7 @@ jCPu7OtGvpc // How to make a freeze frame Instagram filter from scratch using Sp
 xFMzxAF8kks // How to make a trippy, effed-up feedback filter for Instagram in Spark AR
 ND0vbQ-3nSI // How to match skin tone in Instagram filters using Spark AR's texture sampling
 u-rkKH0aJTw // How to make an iridescent, holographic Instagram filter with Spark AR
+lx-XFbzFpgI // How to make an animated clown mask Instagram filter with Spark AR
 
 # syntax shaburu
 Si3mAwoXu0g // SparkAR Filter|How i made the viral Cat Filter | What Cat Are You Instagram Filter Tutorial Shaburux
