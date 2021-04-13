@@ -496,7 +496,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
       "thumbnail_url": "https://i.ytimg.com/vi/99wNU14mcKI/hqdefault.jpg",
       "title": "Channel: Tutoriais do Kewin",
-      "meta1": "Num videos: 115",
+      "meta1": "Num videos: 116",
       "meta2": null
     },
     {
@@ -517,7 +517,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCgluiH_ayEPx4mor_08nkGw.html",
       "thumbnail_url": "https://i.ytimg.com/vi/FT5D8oGnnOY/hqdefault.jpg",
       "title": "Channel: Rudy Anwar",
-      "meta1": "Num videos: 93",
+      "meta1": "Num videos: 94",
       "meta2": null
     },
     {
@@ -803,6 +803,13 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-04-12.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/KSfZic3r47Q/hqdefault.jpg",
+      "title": "Week 2021-04-12",
+      "meta1": "Num videos: 9",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-04-05.html",
       "thumbnail_url": "https://i.ytimg.com/vi/R5n0Hal_Egg/hqdefault.jpg",
       "title": "Week 2021-04-05",
@@ -835,13 +842,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/K95c93KeKrQ/hqdefault.jpg",
       "title": "Week 2021-03-08",
       "meta1": "Num videos: 89",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-03-01.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/p2uO3cszjiY/hqdefault.jpg",
-      "title": "Week 2021-03-01",
-      "meta1": "Num videos: 85",
       "meta2": null
     }
   ]
