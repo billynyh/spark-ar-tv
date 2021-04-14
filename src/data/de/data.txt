@@ -86,6 +86,7 @@ HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 uMyNUUmMfDM // How to Create a LUT + Retouching in SPARK AR with the ColorLUTShader (2021 Update)
 TI9r4P0MCxM // Spark AR: Upload your own Real-Time Simulation/Video Previews [Beginner Tutorial]
 hae8-mx6S44 // Spark AR Tutorial |Quiz/True or False Game [Random Multiple Questions 2021 Redesign]
+jDy-QIJ9PgE // Spark AR Tutorial | Quiz/True or False Game [Score Counter & Game Over Logic]
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio
