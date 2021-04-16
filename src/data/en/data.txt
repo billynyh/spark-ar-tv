@@ -846,6 +846,7 @@ k5_HJX93vEg // Spark AR - Texture Distortion Shockwave
 z-i7aJmNV04 // Spark AR - Plane Tracker Particle Scale Fix
 vXTDmFgTM5A // Spark AR - Fur Demonstration
 HBVJYS-NH5Y // Spark AR - Asleep at Party - Timelapse
+VqVpTfMcSaI // Spark AR - Balanced Diet - Timelapse
 
 # Edinburgh Hoppers
 hGyr73u_puI // Spark workshop - HUB Chiclayo Valley
@@ -972,6 +973,7 @@ obay0GelVUg // Aprenda a fazer um filtro de tatuagem no rosto - Tutorial spark A
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
 QpylaiZysBc // MY SPARK AR FILTER COMPILATION (PT.1)
+t1Fe3eGS8K0 // Retouch (Smooth Skin) for Instagram Filters for Spark AR (with and without LUT)
 
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
@@ -1063,6 +1065,9 @@ ta8c_U_BjLM // Augmented Reality 101
 
 # Gabrisp
 mKgo-gMEp3g // Spark AR Native UI Picker ( just for instagram )
+
+# Galileo
+3YuVnFUmMxs // Spark Augmented Reality Bootcamp - May 2021
 
 # Gamefromscratch
 4aNzkxQs-K4 // Facebook Joins Blender ... please... tell me how I should feel right now!
@@ -2137,6 +2142,7 @@ g1rGBkv0vZI // SPARK AR | POLAROID CAMERA WITH GALLERY TEXTURE
 iHxP2iH3ye0 // SPARK AR GAME | TRUE OR FALSE - 1 - quiz game template
 nleFX1rB11M // SPARK AR GAME | EATER GAME / Spark AR Eating game template ( patches only )
 t7giplgfxxo // SPARK AR GAME | THIS OR THAT - quiz with results score and audio
+jLi__NKgfWg // SPARK AR AESTHETIC - PAPERLIKE FILTER
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -2891,6 +2897,9 @@ NROX_WKTFsg // 7 Days Live Workshop to Become an AR Filter Creator
 # Vector Enfield
 LrVf7ULpbMU // AR 101 ASSIGNMENT - FACEBOOK SUV
 JuIW5s1w06c // facebook ar101 final Assignment
+
+# VeerBaaghi
+QwZN5w32HDs // Create your own Instagram filter in 2 min | Instagram Filter/Effect kese banaye | in Hindi
 
 # Verizon
 Apxq1zMtl1Q // How to Create Custom Filters for Instagram | Techxperts | Verizon
