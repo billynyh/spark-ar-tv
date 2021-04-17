@@ -847,6 +847,10 @@ z-i7aJmNV04 // Spark AR - Plane Tracker Particle Scale Fix
 vXTDmFgTM5A // Spark AR - Fur Demonstration
 HBVJYS-NH5Y // Spark AR - Asleep at Party - Timelapse
 VqVpTfMcSaI // Spark AR - Balanced Diet - Timelapse
+sRJa4rFIx-s // Spark AR - Bananas - Timelapse (No Audio)
+-r4VIQD1q6I // Spark AR - The Weeknd - Timelapse (No Audio)
+_XdaErFlmzU // Spark AR - Frost Zombie (No Audio)
+0WLkyd2KyTg // Spark AR - Fixing Alpha Issues (No Audio)
 
 # Edinburgh Hoppers
 hGyr73u_puI // Spark workshop - HUB Chiclayo Valley
@@ -969,6 +973,7 @@ VpqwmJPPbNs // Como deformar o rosto no Spark AR - filtros para Facebook e Insta
 f6n_VoXzhVw // Adicione chapéu ao seu filtro - Tutorial Spark AR
 -XuohdZCWT8 // Como adicionar botões ao seu filtro - Tutorial Spark AR
 obay0GelVUg // Aprenda a fazer um filtro de tatuagem no rosto - Tutorial spark AR
+-qNsUlRrRIo // Aprimorando nosso filtro de tatuagens no rosto - tutorial Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1492,6 +1497,9 @@ TJsANUSqWfc // How to apply for Spark AR Creator Collab Program | 25th Oct Last 
 
 # Lejla Fox
 Qaa8xhboAKo // Lightroom Presets to Instagram Story Filters|Spark AR tutorial in 10 easy steps for only 10 minutes!
+
+# Lenses Studio
+xM27be_APAI // [Spark AR] How to create an Instagram Filter using  VSCO/Lightroom + Date and Time
 
 # Liad Ben - Zur
 4p3DWPEc7rk // Preparing a filter in the spark ar
