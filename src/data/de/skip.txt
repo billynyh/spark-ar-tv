@@ -53,4 +53,8 @@ https://www.youtube.com/watch?v=KJ3GP242yOc // Photo Booth Filter Tutorial [How 
 https://www.youtube.com/watch?v=-f1ZKsDgnvE // How to create a Timer in Spark AR [PART 3 of the VHS Aesthetic Filter Series]
 https://www.youtube.com/watch?v=eDaiDmy7gPc // How to create a 2D Responsive & Dynamic Text in Spark AR [PART 2 of the VHS Aesthetic Filter Series]
 https://www.youtube.com/watch?v=YRkJWCPob64 // How to Make a Realistic VHS Aesthetic [Glitch and Color Grading]
+https://www.youtube.com/watch?v=TI9r4P0MCxM // Spark AR: Upload your own Real-Time Simulation/Video Previews [Beginner Tutorial]
+https://www.youtube.com/watch?v=uMyNUUmMfDM // How to Create a LUT + Retouching in SPARK AR with the ColorLUTShader (2021 Update)
+https://www.youtube.com/watch?v=hae8-mx6S44 // Spark AR Tutorial |Quiz/True or False Game [Random Multiple Questions 2021 Redesign]
+https://www.youtube.com/watch?v=jDy-QIJ9PgE // Spark AR Tutorial | Quiz/True or False Game [Score Counter & Game Over Logic]
 
