@@ -851,6 +851,7 @@ sRJa4rFIx-s // Spark AR - Bananas - Timelapse (No Audio)
 -r4VIQD1q6I // Spark AR - The Weeknd - Timelapse (No Audio)
 _XdaErFlmzU // Spark AR - Frost Zombie (No Audio)
 0WLkyd2KyTg // Spark AR - Fixing Alpha Issues (No Audio)
+h3JvCWbqEto // Spark AR - Which Top Artist Are You? - Timelapse with Commentary
 
 # Edinburgh Hoppers
 hGyr73u_puI // Spark workshop - HUB Chiclayo Valley
@@ -968,6 +969,7 @@ UJMN0aqcOKM // Spark AR Videos EN - Simple Game Filter Using Patch Editor!
 nLb-6CeZ_o8 // How to use function patch to create a pixelated image. Spark AR Tutorial.
 nlYbLe31K0o // Using function patch to create copies of texture - Spark AR tutorials (English playlist)
 iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorials (English Tutorial)
+tgtmfFpcna0 // Filtro de piercing no nariz - tutorial Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1495,6 +1497,7 @@ Qaa8xhboAKo // Lightroom Presets to Instagram Story Filters|Spark AR tutorial in
 # Lenses Studio
 xM27be_APAI // [Spark AR] How to create an Instagram Filter using  VSCO/Lightroom + Date and Time
 cJap5-1vWmg // [Spark AR] How to create 3D Wings Filter
+YZ3jwfuxDM0 // [Spark AR] Photo Booth + Screen Tap + Crown Effect
 
 # Liad Ben - Zur
 4p3DWPEc7rk // Preparing a filter in the spark ar
@@ -2147,6 +2150,7 @@ nleFX1rB11M // SPARK AR GAME | EATER GAME / Spark AR Eating game template ( patc
 t7giplgfxxo // SPARK AR GAME | THIS OR THAT - quiz with results score and audio
 jLi__NKgfWg // SPARK AR AESTHETIC - PAPERLIKE FILTER
 t0m2cHnPr-Y // SPARK AR GAME | WHAT DO YOU MEME quiz filter template
+fWYSCpCGoxc // SPARK AR GAME | COLLECTOR GAME 2 , CATCH FALLING item template ( patches only )
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8

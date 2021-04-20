@@ -263,9 +263,6 @@ cP3M4pAfkTI // 6.Importar modelos 3D - Spark AR
 FHsKrWstzkU // 5.Traer imágenes - Spark AR
 EOEowPjSL80 // 8.Deformar el rostro - Spark AR
 
-# Diego Medina
-nFfEomjiVfY // CÓMO CREAR FILTROS PARA INSTAGRAM| SUPER FÁCIL
-
 # diver tiguay
 VkkoxG2MCWg // como hacer filtros en spark / how to make filters in spark
 
@@ -484,6 +481,7 @@ rQk7i04tPxQ // Spark AR - Split Face Effect (Transition & Rotation) - Instagram 
 m7M3AlJHsM0 // Spark AR Tutorial - No Blink to win -  Game 👀👀 (EN Captions)
 RfHKE1iEY7o // Spark AR Tutorial - Laser Eyes Instagram Filter
 fJD1BcrQx7c // Spark AR Tutorial - Racing Game filter Prototype | Random Patch (EN Captions)
+0jhw3Eox-fY // Spark AR Tutorial - Generate many eyes to your filter | Face extraction (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
