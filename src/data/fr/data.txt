@@ -15,6 +15,8 @@ _BmkMCUzMG4 // [Episode 2] Tutorial Star Wars Instagram filter game - Shoot laze
 7KlA4j1bULs // [Episode 3] Tutorial Star Wars Instagram filter game - Spawn Enemies
 vqjEekSI7jQ // [Episode 4] Tutorial Star Wars Instagram filter game - Game Manager
 PmLSu7QY9No // [Episode 5] Tutorial Star Wars Instagram filter game - Collider
+it88eWkEHDE // How to update Instagram Facebook Filters with Spark AR
+IcMMMv8NEv8 // Spark AR how to use Render Pass ?
 
 # LenFX
 nMeBop3VAVQ // Créer un filtre 3D Stickers Spark AR ( nouvelle fonctionalité ) FRENCH TUTO

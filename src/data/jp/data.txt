@@ -114,6 +114,7 @@ Vy6u4Dmpl7g // [Japanese] Spark AR studio 02 Animation Basic 1
 oxjJQjYg1gc // [Japanese] Spark AR Studio 01 3D Bricolage 日本語
 5AchseTrsy0 // [Japanese] Spark AR Studio 05 Eye Ball
 _ZedgF6vrvI // [Japanese] Export multiple animations into one FBX file [MAYA, SPARK AR STUDIO TIPS]
+i_qko5WLZzc // [Japanese] Spark AR studio 07 Add World Object
 
 # Yuka Ohishi
 5c7WUiL-ULI // SNOW風カメラエフェクトを作ってみよう！Spark AR 超入門編【STEP 2】
