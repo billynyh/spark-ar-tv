@@ -164,6 +164,7 @@ OajyhF_yQoc // Spark AR Instagram Filter "CLOUDS" with Eyelash, MakeUp and Lut
 ThJ9jE8jF_0 // Spark AR Instagram Filter "BRILLIANT" with MakeUp + Preset and KiraKira
 h3bE19nCu-k // Instagram Filter "Galaxy Makeup" for Spark AR
 Yghv288l6b0 // Spark AR Instagram Filter "Neon Outline" with LUT and Outline
+kBgZ86YVhrQ // Spark AR Instagram Filter "Mandala" with MakeUp + Blur + Frame
 
 # Andrew ARt
 0t7SqGQ_FtY // Invisibility & Frame freeze | SPARK AR v92 render pass
@@ -501,6 +502,9 @@ SBqctTuEO6g // How to make instagram filters|celrojas Part 1
 # Charm Gegato
 2NpbmRbRJhc // How to make an instagram filter? (PicsArt + SparkAR) || random vlogs
 
+# Charrise
+OKqplFqwscU // Easiest way to create your own Instagram filter using phone app PicsArt SparkAr AnimeFilter Tutorial
+
 # Chookeun Moon
 s3lfXQYWDYs // UV Coordinates for Spark AR & GLSL
 NmbkPm5bqWc // Pulse & Switch Patches in Spark AR Studio
@@ -545,7 +549,6 @@ hPV6cnZM0xw // Aesthetic Spark AR face filter speed paint
 
 # Comida For Familias, Inc.
 wnWTzd0L5MU // Start Making AR Filters | How to Create a Mask
-5rRVuHh_Rxg // Figma Fundamentals: 6 Features You Should Know
 
 # Cornwall Museums Partnership
 ALvl9zECpRM // AR Face Filters Part 2: Create a Face Filter in Five Minutes
@@ -855,6 +858,7 @@ _XdaErFlmzU // Spark AR - Frost Zombie (No Audio)
 0WLkyd2KyTg // Spark AR - Fixing Alpha Issues (No Audio)
 h3JvCWbqEto // Spark AR - Which Top Artist Are You? - Timelapse with Commentary
 naoc6pDo61c // Spark AR - Realistic Smoke (No Audio)
+-WwfngHQKto // Spark AR - Object Shine (No Audio)
 
 # Edinburgh Hoppers
 hGyr73u_puI // Spark workshop - HUB Chiclayo Valley
@@ -1343,6 +1347,9 @@ qPOejL_1CgY // SparkAR World Effect - stARk reminder
 
 # Jul Nie
 Q-fD18glQJk // Create Your Own INSTAGRAM FILTER || ft. TEAM PAYAMAN
+
+# JUST NOW
+HQbAREtXILk // How to Make Your Own Instagram Filter |Tutorial Create an Instagram Filter |Beginner|just now
 
 # Justin Melillo
 ota8EOGyC_Y // Creating a Face Blur Effect in Spark AR Studio - TIMELAPSE
@@ -1920,6 +1927,9 @@ _P7eDJ4x1N0 // Watch me build #6 │Spark Ar Instagram Filter
 
 # Natalya Dhawan
 G22q-w6T0jc // Spark Ar Tutorial / Make your own instafilter
+
+# Naveen Upadhyay
+HIdyUSSnP-Y // How to make an instagram filter tutorial | Runaway Aurora | Spark AR | 30 mins | Beginner | Easy
 
 # Near Future Marketing
 400EOPlMafA // AR Today! - 📱 Instagram Augmented Reality for Beginners 📸
