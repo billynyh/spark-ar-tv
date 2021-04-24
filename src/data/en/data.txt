@@ -504,6 +504,7 @@ SBqctTuEO6g // How to make instagram filters|celrojas Part 1
 
 # Charrise
 OKqplFqwscU // Easiest way to create your own Instagram filter using phone app PicsArt SparkAr AnimeFilter Tutorial
+rj3bZH8U7TQ // How to easily upload your first filter to Instagram from SparkAr in 3 minutes|Tutorial for beginners
 
 # Chookeun Moon
 s3lfXQYWDYs // UV Coordinates for Spark AR & GLSL
@@ -860,6 +861,7 @@ h3JvCWbqEto // Spark AR - Which Top Artist Are You? - Timelapse with Commentary
 naoc6pDo61c // Spark AR - Realistic Smoke (No Audio)
 -WwfngHQKto // Spark AR - Object Shine (No Audio)
 J2p0GQscL7c // Spark AR - Transitions (No Audio)
+H9P85sotNZk // Spark AR - Smoother Tracking (No Audio)
 
 # Edinburgh Hoppers
 hGyr73u_puI // Spark workshop - HUB Chiclayo Valley
@@ -978,6 +980,7 @@ nLb-6CeZ_o8 // How to use function patch to create a pixelated image. Spark AR T
 nlYbLe31K0o // Using function patch to create copies of texture - Spark AR tutorials (English playlist)
 iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorials (English Tutorial)
 tgtmfFpcna0 // Filtro de piercing no nariz - tutorial Spark AR
+LzSFL8tDBKc // Criando óculos do jogo Pokémon sword no Blender e aplicando em um filtro de realidade aumentada.
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1788,6 +1791,9 @@ fdDGSsakOFI // Create your new Instagram filter! - Spark AR Studio
 # Mimx
 -3bWkrG4-_A // Spark AR for Beginner
 R3BFw92JsLI // Publishing your fist Spark AR project
+
+# Minsar Studio
+C91x9YZizUs // How to export your experience to SparkAR
 
 # MOBITRON
 xknGL4T6dCo // How To Create Your Own INSTA FILTER In 10 Mins // Instagram Tutorial // MOBITRON
