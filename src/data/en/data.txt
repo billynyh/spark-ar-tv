@@ -1141,6 +1141,9 @@ C0jnUp6ONoI // Particle Systems.(Life of SparkAr)
 # gurmeetweb.com
 bj5p1xXdGOc // How to create Instagram Augmented Reality Filter or Photography Frame for Models only in one minute
 
+# Harry Fisher
+nMkjI177L2o // Time laps of the visual shaders coding to create draped fabric in Spark AR
+
 # Hawke Media
 hfVPYeFRKp4 // How to Apply 3D and AR to Your Marketing Mix to Stand Out -- eCom Week LA
 
@@ -1937,6 +1940,7 @@ G22q-w6T0jc // Spark Ar Tutorial / Make your own instafilter
 
 # Naveen Upadhyay
 HIdyUSSnP-Y // How to make an instagram filter tutorial | Runaway Aurora | Spark AR | 30 mins | Beginner | Easy
+_mnfEkvpuAQ // Spark AR | Animated Eye Mask | Third Eye | Pure SDF | Tutorial | Easy | Instagram filter | 30 Mins
 
 # Near Future Marketing
 400EOPlMafA // AR Today! - 📱 Instagram Augmented Reality for Beginners 📸
@@ -2979,6 +2983,9 @@ ON9Wq7HAS0w // I made Instagram filter using PicsArt + Spark AR Studio | Easiest
 
 # weareEDT
 r_nEYBQ-tGc // Gardens SparkAR - Augmented Reality Art Gallery
+
+# WeDeyCode
+ONdrAZf-6Vc // Building Augmented Reality for Africa | Derrick Ikenga
 
 # Wirdymgar
 Egr7-Ip8xHo // Add a 3D Object on Top of your Head with Spark AR | MC Head IG Filter #2 Spark AR
