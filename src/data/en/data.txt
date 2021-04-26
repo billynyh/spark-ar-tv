@@ -1142,7 +1142,9 @@ C0jnUp6ONoI // Particle Systems.(Life of SparkAr)
 bj5p1xXdGOc // How to create Instagram Augmented Reality Filter or Photography Frame for Models only in one minute
 
 # Harry Fisher
+Y7GsDZQ500s // Adding physics to objects in a filter
 nMkjI177L2o // Time laps of the visual shaders coding to create draped fabric in Spark AR
+6Q--hfas2oc // Attempting to 'wear' digital fashion, through different applications. Spark AR.
 
 # Hawke Media
 hfVPYeFRKp4 // How to Apply 3D and AR to Your Marketing Mix to Stand Out -- eCom Week LA
@@ -3075,3 +3077,6 @@ f9EGnfD3RT8 // Spark AR studio advanced tutorial: Create addition option to 2D s
 
 # 呂柏甫
 QDGsYRNc7p4 // How to fix FaceTexture glitch error in Spark AR v74
+
+# 天王寺maro
+qkzIiIjcwVs // tutorial sparkAR collage/3D collage
