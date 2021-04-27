@@ -84,6 +84,7 @@ pb7mnPuUDlM // Tutorial game add and subtract points when eating, Spark ar studi
 dCK11pKtMZM // AR IN VR??? test game on oculus spark ar studio
 PGx3kPyFJ8k // Tutorial action triggers with spark ar studio traces. (Spanish) activar acciones con rastreos
 qEklAc_ljBU // Tutorial Water Effect using Normal Map Spark AR Studio (Spanish) efecto agua
+QVSpFW_AU08 // Tutorial sculpting submarine Cinema 4D and Spark Ar studio (spanish)
 
 # bibliofilica
 0ctGmfFNrwc // Hagamos filtros con Spark #abrilvideosamil. Partículas y filtro de luz
@@ -488,6 +489,7 @@ RfHKE1iEY7o // Spark AR Tutorial - Laser Eyes Instagram Filter
 fJD1BcrQx7c // Spark AR Tutorial - Racing Game filter Prototype | Random Patch (EN Captions)
 0jhw3Eox-fY // Spark AR Tutorial - Generate many eyes to your filter | Face extraction (EN Captions)
 LeoAFvDZVCs // Spark AR -  3 new and cool templates that you need to try! (EN Captions)
+QUgIuUo5KZI // Spark AR - Crea un tunel para explorar el mundo | Occlusion + 2D images (EN CAPTIONS)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
