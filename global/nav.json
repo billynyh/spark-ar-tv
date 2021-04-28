@@ -473,16 +473,16 @@
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCja03qAtD1GgPtrOaz2tnjQ.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/-WwfngHQKto/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/m2VI5B8Ma_0/hqdefault.jpg",
       "title": "Channel: Eddy Adams",
-      "meta1": "Num videos: 154",
+      "meta1": "Num videos: 155",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
-      "meta1": "Num videos: 144",
+      "meta1": "Num videos: 145",
       "meta2": null
     },
     {
@@ -745,13 +745,6 @@
       "meta2": "2020-01-08"
     },
     {
-      "url": "https://www.youtube.com/watch?v=NhD2RlV8CLw",
-      "thumbnail_url": "https://i.ytimg.com/vi/NhD2RlV8CLw/hqdefault.jpg",
-      "title": "Cara membuat filter Instagram | Tutorial Spark AR ter-gampang di YouTube",
-      "meta1": "Jasson Powell",
-      "meta2": "2020-01-08"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=FTCHx4QrqPQ",
       "thumbnail_url": "https://i.ytimg.com/vi/FTCHx4QrqPQ/hqdefault.jpg",
       "title": "Spark AR: Instagram Filters - Smooth Head Tracking",
@@ -799,14 +792,21 @@
       "title": "Spark AR - Random Image Sequence | Filter Parecidos Razonables",
       "meta1": "Emiliusvgs",
       "meta2": "2019-12-22"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-HYpPNldC3M",
+      "thumbnail_url": "https://i.ytimg.com/vi/-HYpPNldC3M/hqdefault.jpg",
+      "title": "Spark AR Efeito Fake Kira Kira e brilho em qualquer tom!",
+      "meta1": "Spark AR Tutoriais em Portugu\u00eas",
+      "meta2": "2019-12-20"
     }
   ],
   "recent_weeks": [
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-04-26.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/QUgIuUo5KZI/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/BUhEugRpp6s/hqdefault.jpg",
       "title": "Week 2021-04-26",
-      "meta1": "Num videos: 9",
+      "meta1": "Num videos: 16",
       "meta2": null
     },
     {
@@ -841,7 +841,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-03-22.html",
       "thumbnail_url": "https://i.ytimg.com/vi/al4y2TIRRrA/hqdefault.jpg",
       "title": "Week 2021-03-22",
-      "meta1": "Num videos: 206",
+      "meta1": "Num videos: 207",
       "meta2": null
     }
   ]
