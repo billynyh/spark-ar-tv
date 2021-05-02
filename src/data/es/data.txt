@@ -85,6 +85,7 @@ dCK11pKtMZM // AR IN VR??? test game on oculus spark ar studio
 PGx3kPyFJ8k // Tutorial action triggers with spark ar studio traces. (Spanish) activar acciones con rastreos
 qEklAc_ljBU // Tutorial Water Effect using Normal Map Spark AR Studio (Spanish) efecto agua
 QVSpFW_AU08 // Tutorial sculpting submarine Cinema 4D and Spark Ar studio (spanish)
+52ko1IlXiFk // Tutorial Interactions Spark Ar studio submarine (interacción con parches)
 
 # bibliofilica
 0ctGmfFNrwc // Hagamos filtros con Spark #abrilvideosamil. Partículas y filtro de luz
@@ -898,6 +899,9 @@ BcVTAF9vyrk // Crea tu propio filtro para Instagram usando Spark AR!
 
 # SOYNATALYCM
 UAloKPJchIg // COMO CREAR FILTROS DE COLOR PARA INSTAGRAM l TUTORIAL SPARK AR l SOYNATALYCM
+
+# SoyOlguin
+7Ob4Jm2h7R8 // Curso de spark ar #2 l Vamos a subir nuestro filtro
 
 # Streamelopers
 uOlZZEFFOcQ // Introducción a Spark AR para desarrolladores
