@@ -57,4 +57,5 @@ https://www.youtube.com/watch?v=TI9r4P0MCxM // Spark AR: Upload your own Real-Ti
 https://www.youtube.com/watch?v=uMyNUUmMfDM // How to Create a LUT + Retouching in SPARK AR with the ColorLUTShader (2021 Update)
 https://www.youtube.com/watch?v=hae8-mx6S44 // Spark AR Tutorial |Quiz/True or False Game [Random Multiple Questions 2021 Redesign]
 https://www.youtube.com/watch?v=jDy-QIJ9PgE // Spark AR Tutorial | Quiz/True or False Game [Score Counter & Game Over Logic]
+https://www.youtube.com/watch?v=bZyzDKlNuv8 // Spark AR Split Screen Tutorial [Instagram Real vs. Filter]
 
