@@ -475,21 +475,21 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCja03qAtD1GgPtrOaz2tnjQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/m2VI5B8Ma_0/hqdefault.jpg",
       "title": "Channel: Eddy Adams",
-      "meta1": "Num videos: 159",
+      "meta1": "Num videos: 160",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
-      "meta1": "Num videos: 147",
+      "meta1": "Num videos: 148",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
       "thumbnail_url": "https://i.ytimg.com/vi/M4QSecKIzjE/hqdefault.jpg",
       "title": "Channel: Emiliusvgs",
-      "meta1": "Num videos: 122",
+      "meta1": "Num videos: 123",
       "meta2": null
     },
     {
@@ -803,10 +803,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-05-03.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/OTeffHwA57M/hqdefault.jpg",
+      "title": "Week 2021-05-03",
+      "meta1": "Num videos: 12",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-04-26.html",
       "thumbnail_url": "https://i.ytimg.com/vi/TDCHpNsCizg/hqdefault.jpg",
       "title": "Week 2021-04-26",
-      "meta1": "Num videos: 69",
+      "meta1": "Num videos: 70",
       "meta2": null
     },
     {
@@ -835,13 +842,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/n3Kmbpuug3Y/hqdefault.jpg",
       "title": "Week 2021-03-29",
       "meta1": "Num videos: 60",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-03-22.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/al4y2TIRRrA/hqdefault.jpg",
-      "title": "Week 2021-03-22",
-      "meta1": "Num videos: 207",
       "meta2": null
     }
   ]

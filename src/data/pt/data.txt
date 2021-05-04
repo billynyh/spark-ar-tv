@@ -97,6 +97,7 @@ _X6d76I0jVA // COMO CRIAR FILTROS DE BRILHO PARA OS STORIES INSTAGRAM
 aJhOEJEgZ3o // COMO FAZER UM FILTRO PRETO E BRANCO PARA OS STORIES DO INSTAGRAM + EFEITO POEIRA COM REGULADOR
 up9RPedRGds // COMO CRIAR FILTROS PARA O INSTAGRAM STORIES TEMÁTICO DE VERÃO
 376CJW2Lx8A // COMO CRIAR FILTROS DE FRASES OU PALAVRAS PARA O INSTAGRAM STORIES
+iAB4lOGujfc // COMO CRIAR FILTROS QUE MUDAM A COR DO OLHOS
 
 # Catarina Unicórnio
 yJ7w569iSm4 // COMO CRIAR FILTROS PARA O INSTAGRAM
@@ -282,6 +283,7 @@ obay0GelVUg // Aprenda a fazer um filtro de tatuagem no rosto - Tutorial spark A
 tgtmfFpcna0 // Filtro de piercing no nariz - tutorial Spark AR
 LzSFL8tDBKc // Criando óculos do jogo Pokémon sword no Blender e aplicando em um filtro de realidade aumentada.
 tAamImVgtFo // Como criar pelos realista no seu filtro - Tutorial Spark AR
+t8DysKs7gpE // Texto girando em volta da cabeça - tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -326,6 +328,7 @@ _tJYmX8jEI8 // COMO FAZER FILTROS PARA GANHAR DINHEIRO (PRESET)
 
 # Insta Xperience
 bj65VtCNwhU // Workshop InstaFiltros - 29/04
+YqY6bJHUab4 // Workshop InstaFiltros - dia 30/04
 
 # Isabella Antônia
 Am8Y6AnvF2A // COMO FAZER SEU FILTRO PELO SPARK AR?? (vídeo completo ) | ISABELLA ANTONIA
@@ -644,6 +647,9 @@ SOtsCvHzhJQ // Usando Script do SparkAR
 
 # Samuel Paulo
 QpSL3la2teI // COMO FAZER FILTROS PARA O INSTAGRAM! (SPARK AR STUDIO) SAMUEL PAULO
+
+# Samuel Pereira
+OTeffHwA57M // Como Criar Filtro no Instagram | Passo a Passo SIMPLES e FÁCIL
 
 # Samuel Sanches
 sDReRucSsCQ // COMO CRIAR FILTROS PRO INSTAGRAM ~LIGHTROOM~
