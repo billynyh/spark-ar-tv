@@ -669,6 +669,7 @@ hVC3o71wz6A // Tap To Change function - Switch through different options in Inst
 n_PdR_YgoXA // VHS Filter - Spark AR Studio Tutorial! | VCR Instagram Effect for Retro & Vintage Vibes
 GhY7l3LT2k4 // Quiz Filter (Guess the ???) - Spark AR Tutorial | Create your own Instagram Filter
 JP7vS5slaWU // How to use any sound file in Spark AR Studio 🔊 | Import MP3 or WAV files for your Instagram Filter
+PzdR12qmBtE // Blank Face Filter Tutorial - Spark AR Studio | Create a clean Face Effect for Instagram!
 
 # Virtual Art Space
 t2CM0nTGtLA // 5 SPARK AR HACKS IN 2 MINUTES
@@ -1273,6 +1274,7 @@ YzbO8bXA4dc // Easy Audio Analyzer Patch with Spark AR Tutorial
 Mg30ITq9bUc // Head Rotation Patch Spark AR Tutorial | Instagram & Facebook Filter |  Download link in description
 J0OtAplEeYg // Spark AR Christmas tree AR filter  #merrychristmas #christmasarfilter #sparkarchristmas
 AJQnFD5A0Wg // Catch the candy head controlled game created by Spark AR
+_qe-tdhDi8w // Lipstick color change using Picker UI Filter Effect created using Spark AR
 
 # Jayasurya Aasaithambi
 yrfk1DsJKyA // Creating a Simple Face Filter using Spark AR Studio
@@ -2099,6 +2101,9 @@ KV1LtD9ta6k // How to upload Filter to Instagram 2020 | Publish Filter from Spar
 Oiv5nhr8toQ // HOW I MAKE MY OWN IG FILTER ( PHILIPPINES ) | Patricia Teodoro
 dRgntzWEl_o // HOW TO UPLOAD YOUR FILTER TO INSTAGRAM
 
+# pau's stream archive
+0YSQTHfvxLg // 📺 stream 000: making an IG filter (210312)
+
 # PAULitUP
 BAyPmS9e8O8 // HOW TO MAKE AR FILTERS FOR INSTAGRAM USING SPARK AR AND PHOTOSHOP [EASY TUTORIAL]
 DEYelJLSBw8 // HOW TO MAKE INSTAGRAM COLOUR FITERS USING SPARK AR AND ADOBE LIGHTROOM [EASY TUTORIAL]
@@ -2138,6 +2143,7 @@ IDU3gzzWwaI // HOW TO CREATE THE #INSTAGRAMFILTER "EDGES DETECTION MULTICOLORS" 
 8LWQhGOwWbc // Piotar Boa #Snapchat Body Tracking #lenses #Shorts
 U-KwBuTwlFc // How to create realistic 3D hair in #SparkAR to use on Instagram and Facebook by #PiotarBoa
 b9oqcSB-y9c // How to create realistic hair in Blender to use on Spark AR Studio and building an Instagram filter
+aNwbHQArc7Y // Campioni d’Italia - Instagram and Facebook filter by Piotar Boa
 
 # PIXEL - Techwarts PESU ECC
 UVYfjwlBfT8 // Making Augmented Reality Filters using SparkAR
@@ -2650,6 +2656,7 @@ gx8VSjtf574 // Favourite Filters #31 | Instagram & Facebook | Spark AR Studio #s
 oaRuZsUvNb8 // Favourite Filters #33 | Instagram & Facebook | Spark AR Studio #shorts
 74N5JyyklAI // Favourite Filters #34 | Instagram & Facebook | Spark AR Studio #shorts
 qI4uA5QK-HE // Favourite Filters #35 | Instagram & Facebook | Spark AR Studio #shorts
+I9EzVZX0AnQ // Favourite Filters #36 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -2793,6 +2800,9 @@ lx-XFbzFpgI // How to make an animated clown mask Instagram filter with Spark AR
 
 # syntax shaburu
 Si3mAwoXu0g // SparkAR Filter|How i made the viral Cat Filter | What Cat Are You Instagram Filter Tutorial Shaburux
+
+# Tasha Penwell
+6KhuIJfSMhg // Creating a SparkAR  Filter for COSI Science Festival
 
 # Tatiana Kuzakova
 nS-xpmuAcpw // Create Instagram Story Filter with Spark AR (Easy step-by-step tutorial)
