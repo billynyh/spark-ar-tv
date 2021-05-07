@@ -129,6 +129,7 @@ gdC_IwBuCow // Quick Demo Of Making A SDF Circle In SparkAR
 5uPNwr5OWQo // How to Create a ShapeKey Animation in Blender 2.8 that Works in Sparkar Version 76
 3BtHGs_tp_k // SparkAR's Audio Analyzer Tutorial v89
 0L2Gr-SQpCU // SparkAR v92 Render Pass Tutorial
+uJ5S18mFnyI // F8 Refresh Hackathon: Lightning Talk
 
 # amateur footballer
 hYK0yDMJwgY // IG FILTERS HOW TO USE | SPORTS CONTENT| 2021 AND BEYOND
@@ -1877,11 +1878,15 @@ g3JgJtYmDTU // Make Your Own Instagram Filter
 E8RTK7iAvf4 // multiple text filter for Instagram
 fpjKXYQPwks // make Instagram sparkle filter
 
+# Mr.Genius MB
+gQ1JB3JjtXQ // How To Make Your Own Instagram Filter | Step By Step | Instagram Story Filter Tutorial
+
 # Musiclick
 xrkg9vrNFhc // How to Turn Your Lightroom Preset Into Instagram Filter Using Spark AR Studio
 
 # Mônica Seiva
 YY1N5AZg_oE // How to create a make up filter for Instagram and Facebook
+ZMjI4McdvRw // How to create a makeup filter for Instagram and Facebook
 
 # Nadia Hope Wilson
 3A_Yol78b5s // How to Create a 2D Game in SPARK AR | Nadia Wilson
@@ -2666,6 +2671,7 @@ oaRuZsUvNb8 // Favourite Filters #33 | Instagram & Facebook | Spark AR Studio #s
 qI4uA5QK-HE // Favourite Filters #35 | Instagram & Facebook | Spark AR Studio #shorts
 I9EzVZX0AnQ // Favourite Filters #36 | Instagram & Facebook | Spark AR Studio #shorts
 JhihfIwi3Ug // Favourite Filters #37 | Instagram & Facebook | Spark AR Studio #shorts
+N3vtlcaVDSU // Favourite Filters #38 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
