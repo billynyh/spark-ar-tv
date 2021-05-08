@@ -284,6 +284,7 @@ tgtmfFpcna0 // Filtro de piercing no nariz - tutorial Spark AR
 LzSFL8tDBKc // Criando óculos do jogo Pokémon sword no Blender e aplicando em um filtro de realidade aumentada.
 tAamImVgtFo // Como criar pelos realista no seu filtro - Tutorial Spark AR
 t8DysKs7gpE // Texto girando em volta da cabeça - tutorial Spark AR
+KqyzdrTEyGA // Seja profissional e mantenha sua textura proporcional em tela de qualquer tamanho - Tutorial SparkAR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
