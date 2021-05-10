@@ -367,6 +367,7 @@ xu0PEUYj_Rc // 3 СПОСОБА ДОБАВИТЬ СНЕЖИНКИ В МАСКУ 
 pPzQe-iv10s // СМЕНА ОБЪЕКТА ПРИ ВЗМАХЕ РУКИ В МАСКЕ ИНСТАГРАМ | HAND SWIPE SPARK AR | DARIA TSVET
 ahBSHa-ndEM // ГДЕ МОЯ МАСКА  | КАК ВОССТАНОВИТЬ МАСКУ | DARIA TSVET
 _pdyuMfNHM0 // КАК СЖИМАТЬ 3D МОДЕЛИ И ТЕКСТУРЫ ДЛЯ SPARK AR | DARIA TSVET
+3o3XaTK6FZA // КАК ЗАГРУЗИТЬ СВОЕ ВИДЕО В SPARK AR | КАК ТЕСТИРОВАТЬ МАСКИ НА СВОЕМ ВИДЕО В SPARK AR | DARIA TSVET
 
 # Darya Lam
 FdYgRSSyqQw // Урок 1 - Интерфейс Spark AR. Как сделать маску в инстаграм
@@ -664,6 +665,7 @@ BXTK8DRCnBY // Как сделать маску с очками в Инстаг�
 # Jorik Rosa
 OrD0Icsw9Jc // Spark AR Studio Hand Tracker Tutorial
 I1SIw9Mu76I // Instagram Crying Face Filter Tutorial Spark AR
+H6wVgRekMcU // Soft Body Simulation Tutorial
 
 # Ju Voolshebnaya
 m0EQaMWV9L4 // Как загрузить маску в Инстаграм ? Программа SPARK AR STUDIO
@@ -1528,6 +1530,7 @@ JCGSiw7knE0 // МАСКА В ИНСТАГРАМ ЗА 5 МИНУТ!ПРОЩЕ П�
 # Анастасия Марченко
 G2LD094Y3P8 // Уроки SPARK AR. Как создать маску с пластикой, ретушью, текстурой лица и отражением в текстуре
 4DKvRKaJgxc // How to made 3D model of Bow and rig it in Blender  for Spark AR Studio
+QITjj-ZwdsU // Spark AR hackathon 2021: REAL SUPERWOMAN (AR FILTER)
 
 # Анатолий Пилипчук
 98Kz9ZUDdXQ // Как сделать маску ИНСТАГРАМ  в Spark AR Studio | Instagram
@@ -1906,6 +1909,7 @@ gGdXJB1ggQk // Фундаментальный курс 🔥 по Spark AR Studio
 VhNjKX4qHPE // Уроки Spark AR v 92. Задержки, Искажение, Стоп-Кадр Фото. Логика Scene Render Pass и Delay Frame
 4SIjYHBN1pM // iMac 2020 vs 2019. Тесты: Photoshop, AE, Final Cut, Motion, Blender, Spark AR
 FMdWw0lD_Yc // Уроки Spark AR Studio v 100. Основы Визуальных SHADERS, SDF Анимация. Делаем фильтр для Инстаграм
+p4zcK2ZcC1M // NINJA SCROLL. SPARK AR. f82021. «Манускрипт ниндзя».
 
 # эльвира жунусова
 XUXuGIpy5B0 // Урок 1- Ретушь лица в Spark AR. Retouch Spark AR
