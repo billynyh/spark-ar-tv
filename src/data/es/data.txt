@@ -910,6 +910,7 @@ PGYSp_fuiaA // Curso de spark ar #1 l Nuestro primer filtro
 hrMOD0_S9wU // Curso de spark ar #3 l Nuestro filtro de letras
 Iy2HlaowaJY // Curso de spark ar #4 l STICKERS CARA 1.0
 bWr2hYgx7fU // Curso de spark ar #5 l Poner un fondo
+apff0yOFpDQ // Curso de spark ar #6 l FILTRO 2D STICKER
 
 # Streamelopers
 uOlZZEFFOcQ // Introducción a Spark AR para desarrolladores
@@ -959,9 +960,6 @@ FpdUH0zGaXo // Spark AR Tutorial 8: Como crear Efecto Clones
 
 # Tips e ideas
 0MTMC0tsm60 // Como hacer tus propios filtros de Instagram -Spark AR para principiantes.
-
-# Tomás Luna
-i3lseur0ZJE // COMO HACER UN FILTRO DE INSTAGRAM DE COLOR CON RETOQUE
 
 # TranceCortz
 BcwkmkxRuDE // COMO crear FILTRO DE INSTAGRAM con PRESET de LightRoom

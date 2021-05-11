@@ -57,6 +57,7 @@ Y5FUFY6RyQE // How to get Average Face Tone Spark AR
 kYyHxMFV7ko // How to add Shadow Frame in Spark AR | Spark AR tutorial
 tcMQa3TEYmQ // Vertex Displacement Spark AR | Custom Shader
 JQHj9mVrQzU // 3D Score Counter Spark AR | Game Score Counter
+jFg1_NsgOes // Virtual Shopping — F8 Hackathon - Track 2 made on Spark AR
 
 # adryn
 a-w03AzIaB4 // CREATE YOUR OWN FILTER EASY// BEGINNER TUTORIAL REQUIRED SPARK AR AND PICSART
@@ -1000,6 +1001,7 @@ nlYbLe31K0o // Using function patch to create copies of texture - Spark AR tutor
 iIHBK4rW-E0 // Edge Detection Using Convolution Matrix Patch - Spark AR Tutorials (English Tutorial)
 t8DysKs7gpE // Texto girando em volta da cabeça - tutorial Spark AR
 KqyzdrTEyGA // Seja profissional e mantenha sua textura proporcional em tela de qualquer tamanho - Tutorial SparkAR
+kSf4E6u6QSY // Como Criar Uma Textura De Espiral Usando Apenas SDFs - Tutorial Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1440,6 +1442,7 @@ CTFRbHKnsjc // Change Hair Color for Instagram Filter / Spark AR Tutorials
 gmUVWXSsRdI // 10K FOLLOWERS WITH 1 INSTAGRAM FILTER!
 cF_SnAUt-Z0 // BLUSH - BEAUTY INSTAGRAM FILTER (Spark AR Tutorial)
 Dym9DPU6xLo // HIGHLIGHTER - BEAUTY INSTAGRAM FILTER (Spark AR Tutorial)
+TOqR0ktNeSI // HOW TO PUT INSTAGRAM FILTERs ON EXISTING PHOTOS or IG TV? Media Library / Spark AR Studio Tutorial
 
 # Kathlene Figuracion
 TufUUsCFB2o // Create Your Own Instagram Filter | Fast & Simple
@@ -1810,6 +1813,7 @@ IEwuTmwkPwo // Blinking Game Template Spark AR Studio : Instagram Game
 pUy1QXImh4s // Viral Instagram Torn Paper Grunge Filter Free Spark AR Studio Template
 Q8JDRYiCHHg // Free Spin A Wheel Game Template : Spark AR Studio
 BCpO4afyCNQ // "Never Have I Ever" Spark AR Studio Instagram Game Filter Template
+_wc4VCK_CCM // Free Blush Pack | Spark AR Studio | Instagram Filter Essential
 
 # MercaTecnia
 y8clNu8MEe4 // Spark AR Studio - Catrina [tutorial]
@@ -2380,6 +2384,10 @@ GMlMWUkcgbc // Speedy Spark // Tutorial 4
 5I6jAu33U2w // Speedy Spark // Tutorial 3
 xCBF7UB1Czg // Speedy Spark // Tutorial 2
 gWJfuBR2hfI // Speedy Spark // Tutorial 1
+5Kdz6FTUo9c // Speedy Spark // Tutorial 5
+N6tt_1n3Us4 // Speedy Spark // Tutorial 6
+qzsg3xWdcDo // Speedy Spark // Tutorial 7
+Ksjq9WRFNuo // Speedy Spark // Tutorial 8
 
 # Rebekah Read
 rcqHiR0ULx8 // How To Create a Spark AR "What Are You" Instagram Filter
@@ -2681,6 +2689,7 @@ I9EzVZX0AnQ // Favourite Filters #36 | Instagram & Facebook | Spark AR Studio #s
 JhihfIwi3Ug // Favourite Filters #37 | Instagram & Facebook | Spark AR Studio #shorts
 N3vtlcaVDSU // Favourite Filters #38 | Instagram & Facebook | Spark AR Studio #shorts
 MWtOttO7Bx0 // Favourite Filters #39 | Instagram & Facebook | Spark AR Studio #shorts
+Gysjv6KdUdU // Favourite Filters #40 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -3020,6 +3029,15 @@ gkavLl7sIUc // My 8 Predictions For Facebook Ads In 2021
 2uCNDt54tF8 // How to create your own filter on Instagram Easily
 
 # VideOrbit Studio
+wC66stU9EXU // Sevdaliza Live Stream Concert - Gole Bi Goldoon
+vjpGhLtYsY8 // VOGUE
+KaUZdRGNF9M // GLAM ✨✨
+adQjS3PaWDI // VIRTUAL KISSES 💋
+4tfkSBeYkk8 // CATWOMAN x PAIGEPISKIN
+u40HyagrOPo // BIMBA Y LOVE U! 💋
+UlaX-mBueRs // JARDIN DIGITAL 💠 - DIGITAL VILLAGE x ALLAN GREGORIO
+butjtWU3fSg // HAPPINESS CROWN 🌸🌸🌸
+YrNkdPZ8xZg // MILKYWAY 💫
 Bq983zgLVdQ // SPARK AR Studio Organic Movement Block
 
 # Vidhya Nidhi Tutorial
@@ -3124,7 +3142,7 @@ fQ3M9AYEdIU // Particle Modifiers - Spark AR Tutorial Series
 b9RWV2ehBaQ // (AR) Indian kathakali
 J0EkFDMFXuM // SparkAR world AR effect Ocean filter.
 WjqG1NlgpaI // SparkAR (Picker-UI and Slider-UI).
-GoW0Nu_c2hk // SparkAR Cricket filter
+xJyydCtlmCA // SparkAR Lord Krishna filter.
 
 # Yvon C.
 XmXCPieFLm4 // How to make your own IG Filter || Yvon C.
