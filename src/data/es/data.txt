@@ -492,6 +492,7 @@ fJD1BcrQx7c // Spark AR Tutorial - Racing Game filter Prototype | Random Patch (
 LeoAFvDZVCs // Spark AR -  3 new and cool templates that you need to try! (EN Captions)
 QUgIuUo5KZI // Spark AR - Crea un tunel para explorar el mundo | Occlusion + 2D images (EN CAPTIONS)
 mMbodRvPxJY // Spark AR -Tus fotos tendrán vida propia | Efecto Parallax & Instagram Filter (EN Captions)
+1_iQ5EqUpOQ // Add real-world color to your objects with Spark AR | Color Picker (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -541,6 +542,7 @@ T5BmF64qxAo // Dia 2 : Como agregarle cosas a un lut
 F1oVvENIztc // Como hacer el filtro "Paper Like"
 ALkEhjYl8d8 // how to create the filter "Kira Ar"?
 e4ITP5d0D4s // Como hacer el filtro de tiktok "VHS RETRO"
+_ODmHwiOVGY // ¿How Make filter "Eyes Colors"?
 
 # filtros.instagram
 e8TuM0Lb6c8 // COMO CREAR UN FILTRO PARA INSTAGRAM EN 5 MINUTOS[SPARK AR TUTORIAL]
