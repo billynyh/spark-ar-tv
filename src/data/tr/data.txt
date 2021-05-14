@@ -36,6 +36,7 @@ EZqCXZXqBGU // Deformation | yüze şekil verme
 UmhLSfemh8E // Birden fazla filtre ekleme spark ar  | lut + picker ul
 rA2AyRiBErQ // Botox filter spark AR | deformation + lut + make up
 wGcksiBKao4 // 1) Retouching , yüzü pürüzsüz yapma
+85wPRri8NqE // 2) Kirpik yapma ve ekleme
 
 # Bi Tık Büyütelim
 1bN3THUHzvo // Instagram Filtresi Nasıl Yapılır? - Spark Ar
