@@ -1307,6 +1307,7 @@ wTC8jf-3ETA // ПЕРЕКЛЮЧЕНИЕ ЛИНЗ ПРИ МОРГАНИИ/BLINK/S
 3eunSYN-R8E // ПЕРЕКЛЮЧЕНИЕ ТЕКСТУР ВЗМАХОМ РУКИ/SPARK AR/WAVE OF THE HAND
 YBfH_o2Lhmw // РАЗМЫТЫЙ ЗАДНИЙ ПЛАН(BLUR)+ ЗАГОРЕЛАЯ КОЖА/SPARK AR
 zPlJhEMu1us // КАК СДЕЛАТЬ РАЗМЫТИЕ(BLUR)+ДЕФОРМАЦИЯ В SPARK AR
+W0aHRmcUDCQ // КАК СДЕЛАТЬ АНИМАЦИЮ НА ГЛАЗАХ. МАСКА SPARK AR
 
 # TANYA MIX
 EjUWzN_yG0w // SPARK AR/КАК СДЕЛАТЬ МАСКУ ПРЕСЕТ ДЛЯ ИНСТАГРАМ

@@ -286,6 +286,7 @@ tAamImVgtFo // Como criar pelos realista no seu filtro - Tutorial Spark AR
 t8DysKs7gpE // Texto girando em volta da cabeça - tutorial Spark AR
 KqyzdrTEyGA // Seja profissional e mantenha sua textura proporcional em tela de qualquer tamanho - Tutorial SparkAR
 kSf4E6u6QSY // Como Criar Uma Textura De Espiral Usando Apenas SDFs - Tutorial Spark AR
+ozgcbA1KRRI // Crie Textura De Raios Solares Usando SDF - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -962,6 +963,7 @@ RLJVm7O4sIE // Spark AR Crie Deformações muito melhores!
 7ZS51Mzo24w // Criando seu filtro de INDIE KID para Instagram
 2N1Iaw7Qlgk // Spark AR 41% de economia na compressão dos seus arquivos! Nova v112!
 46P2wHOJl0E // Spark AR Use GIFs nos seus Filtros!
+m7NxGF_nkuc // Spark AR Partículas atrás da pessoa ( segmentação )
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
@@ -1006,11 +1008,6 @@ M1De7W0_AXE // COMO CRIAR SEU PRÓPIO FILTRO PARA O INSTAGRAM~~ TAINÁ PEPE
 
 # Taís Torbes - TUTORIAIS
 ZwSObx4i8K4 // COMO FAZER FILTRO DE QUIZ PARA O INSTAGRAM NO SPARK AR | TUTORIAL
-xy3C-b0dP5s // COMO FAZER CAIXINHA DE PERGUNTA NO CANVA | TUTORIAL
-63gjhyTZjfc // COMO EXPORTAR E ENVIAR FILTRO PARA O INSTAGRAM | TUTORIAL
-l6_kaueHBlY // COMO FAZER SOMBRA LONGA OU LONG SHADOW NO FIGMA | TUTORIAL
-M93hy8T3hOg // COMO FAZER POST CARROSSEL NO PHOTOSHOP | TUTORIAL #Shorts
-HhPh2u4rOMM // COMO FAZER TEXTO COM ILUSÃO NO PHOTOSHOP | TUTORIAL #Shorts
 
 # TecMax
 8Bq9gqCe9YQ // Spark AR Efeito Makeup Sem Photoshop Maquiagem sem usar photoshop LEIA DESCRIÇÃO
@@ -1145,6 +1142,7 @@ TDCHpNsCizg // Delineado fácil - Spark Ar Studio
 4NfrMGVYPwg // Hand Tracking vem aí? - Spark Ar Studio
 462_id2aIho // Filtro de legenda que aprova / Exponential Smoothing - Spark Ar Studio
 sc6PV7h4BDQ // Resultado Desafio de Carnaval
+68Cozjf2_XY // Ativar e desativar elementos com toque na tela / Screen Tap - Spark Ar Studio
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
