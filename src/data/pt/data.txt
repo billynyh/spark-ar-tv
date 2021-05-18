@@ -287,6 +287,7 @@ t8DysKs7gpE // Texto girando em volta da cabeça - tutorial Spark AR
 KqyzdrTEyGA // Seja profissional e mantenha sua textura proporcional em tela de qualquer tamanho - Tutorial SparkAR
 kSf4E6u6QSY // Como Criar Uma Textura De Espiral Usando Apenas SDFs - Tutorial Spark AR
 ozgcbA1KRRI // Crie Textura De Raios Solares Usando SDF - Tutorial Spark AR
+rnpIamPyzIE // Como Criar Textura Granulada Para Seu Filtro - Dica de Photoshop
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
