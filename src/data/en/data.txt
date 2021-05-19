@@ -2322,6 +2322,7 @@ hae8-mx6S44 // Spark AR Tutorial |Quiz/True or False Game [Random Multiple Quest
 jDy-QIJ9PgE // Spark AR Tutorial | Quiz/True or False Game [Score Counter & Game Over Logic]
 bZyzDKlNuv8 // Spark AR Split Screen Tutorial [Instagram Real vs. Filter]
 78qNu6y_HfQ // Y2K Instagram Filter [Spark AR Tutorial]
+pKC6K-V-qxE // Spark AR Tutorial Prism Aesthetic with RGB Shift, LUT and Sparkle Effect
 
 # Quickly Designing
 Vvpri3emTxY // Random Quiz Filter - Creating your INSTAGRAM Filter & Adding Random Questions & Answers in Loop
@@ -2719,6 +2720,7 @@ WdTojdiO_ss // Favourite Filters #41 | Instagram & Facebook | Spark AR Studio #s
 IjSoGATKVGQ // Favourite Filters #42 | Instagram & Facebook | Spark AR Studio #shorts
 59gTTm5GQuc // Favourite Filters #43 | Instagram & Facebook | Spark AR Studio #shorts
 q3c_--FDpgU // Favourite Filters #44 | Instagram & Facebook | Spark AR Studio #shorts
+O4DHTnfNRME // Favourite Filters #45 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -3113,6 +3115,9 @@ x_sYsFQHfpo // VRARGS 2020: Keynote - How to stand out in digital media during C
 
 # Vrushali Mulay
 ON9Wq7HAS0w // I made Instagram filter using PicsArt + Spark AR Studio | Easiest way to create IG filter |
+
+# WeAR Studio
+Vqp9qbWg8LE // Do you need to be a millionaire to afford AR/VR technologies?
 
 # weareEDT
 r_nEYBQ-tGc // Gardens SparkAR - Augmented Reality Art Gallery
