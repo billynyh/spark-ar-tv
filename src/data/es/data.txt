@@ -500,6 +500,7 @@ LeoAFvDZVCs // Spark AR -  3 new and cool templates that you need to try! (EN Ca
 QUgIuUo5KZI // Spark AR - Crea un tunel para explorar el mundo | Occlusion + 2D images (EN CAPTIONS)
 mMbodRvPxJY // Spark AR -Tus fotos tendrán vida propia | Efecto Parallax & Instagram Filter (EN Captions)
 1_iQ5EqUpOQ // Add real-world color to your objects with Spark AR | Color Picker (EN Captions)
+Kyv5RWUPdgY // Spark AR Tutorial - Virtual Skin color tone effect (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]

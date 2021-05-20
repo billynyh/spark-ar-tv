@@ -40,17 +40,17 @@
         "title": "Indonesian",
         "url": "https://billynyh.github.io/spark-ar-tv/id/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Turkish",
+        "url": "https://billynyh.github.io/spark-ar-tv/tr/index.html",
+        "video_count": 0
       }
     ],
     "secondary_langs": [
       {
         "title": "Dutch",
         "url": "https://billynyh.github.io/spark-ar-tv/nl/index.html",
-        "video_count": 0
-      },
-      {
-        "title": "Turkish",
-        "url": "https://billynyh.github.io/spark-ar-tv/tr/index.html",
         "video_count": 0
       },
       {
@@ -482,14 +482,14 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
-      "meta1": "Num videos: 159",
+      "meta1": "Num videos: 160",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
       "thumbnail_url": "https://i.ytimg.com/vi/M4QSecKIzjE/hqdefault.jpg",
       "title": "Channel: Emiliusvgs",
-      "meta1": "Num videos: 124",
+      "meta1": "Num videos: 125",
       "meta2": null
     },
     {
@@ -503,7 +503,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCI7pSUi_CX5ElJGfOl6n4cA.html",
       "thumbnail_url": "https://i.ytimg.com/vi/Qh-Y9k8YaVw/hqdefault.jpg",
       "title": "Channel: Artem Maiko",
-      "meta1": "Num videos: 119",
+      "meta1": "Num videos: 120",
       "meta2": null
     },
     {
@@ -806,7 +806,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-05-17.html",
       "thumbnail_url": "https://i.ytimg.com/vi/pKC6K-V-qxE/hqdefault.jpg",
       "title": "Week 2021-05-17",
-      "meta1": "Num videos: 21",
+      "meta1": "Num videos: 34",
       "meta2": null
     },
     {
