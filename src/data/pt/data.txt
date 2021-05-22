@@ -289,6 +289,7 @@ kSf4E6u6QSY // Como Criar Uma Textura De Espiral Usando Apenas SDFs - Tutorial S
 ozgcbA1KRRI // Crie Textura De Raios Solares Usando SDF - Tutorial Spark AR
 rnpIamPyzIE // Como Criar Textura Granulada Para Seu Filtro - Dica de Photoshop
 Oc7e92XulPk // MakeUp + LUT + Noise on same filter - Spark AR tutorial in English
+Reh0tpbuezM // Como Criar Luts Sem Photoshop - Tutoriais Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
