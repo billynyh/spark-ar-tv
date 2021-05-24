@@ -1495,6 +1495,7 @@ leTp66H3IVk // Motorcycles - Making Spark AR Game part 3/4
 PkJ2-wnSz00 // Motorcycles - Making Spark AR Game part 4/4
 h5i-a_g49ag // SDF RingProgress - Patch Asset for Spark AR
 me2nBVgUEUk // Spark AR - Falling patch asset
+-25MYOb5Emk // Spark AR - Flapping patch asset
 
 # Kendra Mishell
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -1852,6 +1853,7 @@ z8eZske4kIA // Free Motion Blur Instagram Filter Essential Template | Spark Ar S
 Kdf_LiOuINY // Vintage Instagram Filter & Facebook Filter | Spark AR Studio
 GpZ0uCSk4fo // Tilt Shift Blur Instagram & Facebook Filter | Spark AR Studio | Arexport
 VPbmxMxpJRg // Old Photo Instagram & Facebook Filter Template | Spark AR Studio, Arexport
+oRDL8iRPPkU // Premium PNG LUT Pack 2.0 | Spark AR Studio Instagram Filter Essential |
 
 # MercaTecnia
 y8clNu8MEe4 // Spark AR Studio - Catrina [tutorial]
@@ -2415,6 +2417,7 @@ zQ5BWmLjMNE // Spark AR Tutorial: Creating Glow Effect With Render Pass [Instagr
 3CNEKx_N6zM // Spark AR Tutorial : Creating Virtual Social Distancing Face Filter  [Fighting Corona]
 Cv4FvGpokuc // Free Spark AR Project : Christmas Filter
 ZVQZnpE7w08 // Outline Effect In Spark AR Using Key-frame [Instagram/Facebook]
+27tS6Ma2QiI // Spark AR : How To Create Tiktok Zoom Effect Filter +UI picker + LUTs [Instagram/Facebook]
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -3110,6 +3113,7 @@ PGE9k1xOT7I // Boost your Instagram with AR Filter | How to Create Instagram AR 
 1bbk98MGA14 // IPL Filter | SparkAR Tutorial Walkthrough for Beginners
 -58MihBGZa4 // How to install Spark AR on Mac
 lGhxGy0ZLbA // How to install Spark AR on Windows
+XHGgsbVQ5Hg // ONLY 4% of students from INDIA got selected for this AR PROGRAM...
 
 # Viktoria Babayeva
 4wdPtswTkl8 // how to make an instagram filter fast
