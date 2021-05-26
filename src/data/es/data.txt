@@ -87,6 +87,7 @@ qEklAc_ljBU // Tutorial Water Effect using Normal Map Spark AR Studio (Spanish) 
 QVSpFW_AU08 // Tutorial sculpting submarine Cinema 4D and Spark Ar studio (spanish)
 52ko1IlXiFk // Tutorial Interactions Spark Ar studio submarine (interacción con parches)
 S9jliHWo_Po // Spark AR tutorial How to create scenes (crear escenas) in Spanish
+hxdlQpwEk4M // Tutorial Spark Ar studio tracking multiple images (multiple rastreo imagenes) In spanish
 
 # bibliofilica
 0ctGmfFNrwc // Hagamos filtros con Spark #abrilvideosamil. Partículas y filtro de luz
