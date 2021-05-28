@@ -134,6 +134,7 @@ kvICqAYhB7g // Cómo SUBIR un filtro a INSTAGRAM | CURSO GRATIS SPARK AR STUDIO
 rOSe3X-6GQk // Convierte tus PRESETS de LIGHTROOM en FILTROS de INSTAGRAM | CURSO GRATIS SPARK AR STUDIO
 dY99qn8k-cA // Filtro CAMBIAR el COLOR del CABELLO | Hair Segmentation | CURSO SPARK AR STUDIO
 TjVrvdSUHr0 // Crea tu propio FILTRO de TATUAJES para INSTAGRAM | CURSO SPARK AR STUDIO
+gWr-8BoMu48 // Como cambiar el FONDO en SPARK AR STUDIO | PERSON SEGMENTATION | CURSO SPARK AR STUDIO
 
 # Color Space
 OVOZOnhxNd4 // COMO PUBLICAR FILTROS PARA INSTAGRAM EN SPARK - Filtros para instagram.
@@ -504,6 +505,8 @@ QUgIuUo5KZI // Spark AR - Crea un tunel para explorar el mundo | Occlusion + 2D 
 mMbodRvPxJY // Spark AR -Tus fotos tendrán vida propia | Efecto Parallax & Instagram Filter (EN Captions)
 1_iQ5EqUpOQ // Add real-world color to your objects with Spark AR | Color Picker (EN Captions)
 Kyv5RWUPdgY // Spark AR Tutorial - Virtual Skin color tone effect (EN Captions)
+yBb5UhZpLuU // Spark AR Tutorial - Skin color tone + Cartoon face (EN Captions)
+VVWAFQLICwA // Spark AR - Cómo crear 'multi target tracker' | EN Captions
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]

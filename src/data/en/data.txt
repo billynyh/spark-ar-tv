@@ -1021,6 +1021,8 @@ ozgcbA1KRRI // Crie Textura De Raios Solares Usando SDF - Tutorial Spark AR
 rnpIamPyzIE // Como Criar Textura Granulada Para Seu Filtro - Dica de Photoshop
 Oc7e92XulPk // MakeUp + LUT + Noise on same filter - Spark AR tutorial in English
 Reh0tpbuezM // Como Criar Luts Sem Photoshop - Tutoriais Spark AR
+hK2bU3XZUSM // Aula 00  Introdução - Tutorial de script para Spark AR
+-hwW29jZdGo // Aula 01 - Criando o primeiro projeto usando patches
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -2365,9 +2367,6 @@ xcXYwFP90nQ // SparkAR
 # Raghul Vlogs
 Ywkn-tRBDaI // Create your own INSTAGRAM FILTER!!! in 3 MINS from LIGHTROOM PRESET | Raghul Vlogs
 
-# Rajinder Singh
-ExOdXGA6Q0M // How to upload instagram filter in android| instagram smile features |spark ar filter |instagram
-
 # Ran Bensimon
 dr6xMzpGLP4 // 3D Model with Physics for Spark AR
 qCbnMYjB2No // Glassy Red Eyes Filter for Spark AR (with Free Makeup)
@@ -2761,6 +2760,7 @@ LH8ziKqs42Y // Favourite Filters #47 | Instagram & Facebook | Spark AR Studio #s
 1mfKLkt47hk // Favourite Filters #48 | Instagram & Facebook | Spark AR Studio #shorts
 jCHLgpQlqeg // Favourite Filters #49 | Instagram & Facebook | Spark AR Studio #shorts
 S6w1p4onuHg // Favourite Filters #50 | Instagram & Facebook | Spark AR Studio #shorts
+T8oc4T0SBEg // Favourite Filters #41 - #50 | Instagram & Facebook | Spark AR Studio
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -3096,6 +3096,7 @@ JuIW5s1w06c // facebook ar101 final Assignment
 # VeerBaaghi
 QwZN5w32HDs // Create your own Instagram filter in 2 min | Instagram Filter/Effect kese banaye | in Hindi
 bHP0OCV_1P8 // CREATE OWN INSTAGRAM FILTER IN 10 MINUTES HINDI // EASILY INSTAGRAM FILTER CREATE IN HINDI
+0hM9_gLNAj4 // New Instagram Glow & Hair Filter Create in Hindi | Create Own Instagram Glow Filter Easily 2021
 
 # Verizon
 Apxq1zMtl1Q // How to Create Custom Filters for Instagram | Techxperts | Verizon
