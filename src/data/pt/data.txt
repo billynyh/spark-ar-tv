@@ -292,6 +292,7 @@ Oc7e92XulPk // MakeUp + LUT + Noise on same filter - Spark AR tutorial in Englis
 Reh0tpbuezM // Como Criar Luts Sem Photoshop - Tutoriais Spark AR
 hK2bU3XZUSM // Aula 00  Introdução - Tutorial de script para Spark AR
 -hwW29jZdGo // Aula 01 - Criando o primeiro projeto usando patches
+nwbS4HivhUg // Filtro de bronzeado com a nova segmentação de pele - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -975,6 +976,7 @@ RLJVm7O4sIE // Spark AR Crie Deformações muito melhores!
 46P2wHOJl0E // Spark AR Use GIFs nos seus Filtros!
 m7NxGF_nkuc // Spark AR Partículas atrás da pessoa ( segmentação )
 uJqiJqZC6PA // Spark AR Barba nos seus filtros!
+kwiY7ugbqIM // Spark AR Tatuagem no pescoço e rosto com filtro de cor!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›

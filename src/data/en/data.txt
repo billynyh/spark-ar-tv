@@ -522,6 +522,7 @@ OKqplFqwscU // Easiest way to create your own Instagram filter using phone app P
 rj3bZH8U7TQ // How to easily upload your first filter to Instagram from SparkAr in 3 minutes|Tutorial for beginners
 YGoixBid25E // Make your own beauty makeup filter easily using PicsArt with 2 Method/SparkAr Tutorial for beginners
 TvGpKlyaeFA // Create aesthetic headdress (head object) filter + action animate #SparkAr
+EgHTvWLXWHQ // Glow + Glowing Face Filter | How to make an Instagram filter  | #SparkAr #Tutorial
 
 # Chookeun Moon
 s3lfXQYWDYs // UV Coordinates for Spark AR & GLSL
@@ -617,6 +618,18 @@ TImSPtV1HY0 // Create an Instagram Filter | Beginner Spark AR Tutorial | stayhom
 
 # Davidd That's Me
 aeGMoyGdD8k // Create an Instagram Filter | Beginner Spark AR Tutorial | Guess My Age
+
+# iampimposo
+pRIH_NL-WEM // Spark AR Studio - Scanner Face
+LcGQ1iS-bAk // Spark AR Studio - Scanner Face V2
+uDnUG5raBf4 // Brightness Patch Spark AR Studio
+41jIRnRgths // Spark AR - Texture Distortion Shader
+9gbp7VBDNa4 // Spark AR - Texture Distortion Shader v2.0
+8EUY7kWtNyE // Spark AR - Dissolve Shader
+pjtj7jUtujY // Spark AR - True Kira Kira
+OWX6BJjZbhU // Spark AR - Como fazer downgrade de um projeto
+kJL7QHlNB_M // Spark AR - Iridescent Shader
+nzl0ODk4TqQ // Spark AR - SDF Star #1
 
 # deanoDaDino1
 ZtgskqQTuu0 // I made an IG filter for a clothing company (HYPER BASIK)
@@ -981,6 +994,9 @@ X2tICSo0Fxo // Spark AR Studio: Send to Instagram and generate a Test link to Sh
 # FACTLiverpool
 K_-zNcTjZh0 // How to Make an Instagram Filter with Keiken | Artist Tutorial
 
+# Faith Nepomuceno
+ADNEESrZqXo // MAKE YOUR OWN INSTAGRAM FILTER | FAST & EASY
+
 # Fakugesi African Digital Innovation
 -82cPA_tCV4 // Xopher's Lab, Day 1 - Part 1
 AgbkQsbnByU // Xopher's Lab, Day 1 - Part 2
@@ -1023,6 +1039,7 @@ Oc7e92XulPk // MakeUp + LUT + Noise on same filter - Spark AR tutorial in Englis
 Reh0tpbuezM // Como Criar Luts Sem Photoshop - Tutoriais Spark AR
 hK2bU3XZUSM // Aula 00  Introdução - Tutorial de script para Spark AR
 -hwW29jZdGo // Aula 01 - Criando o primeiro projeto usando patches
+nwbS4HivhUg // Filtro de bronzeado com a nova segmentação de pele - Tutorial Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1234,17 +1251,6 @@ gdoGm2mQRlk // Christy Hu | Communication Design 2 Final Presentation | ArtCente
 # Huy Vu
 YvnoHjo2Fxk // "The Empire invades my bedroom" AR Experience, built with Spark AR
 nzO9tnHqkmA // "New York City pamphlet" Augmented Reality Experience, built with Spark AR
-
-# iampimposo
-pRIH_NL-WEM // Spark AR Studio - Scanner Face
-LcGQ1iS-bAk // Spark AR Studio - Scanner Face V2
-uDnUG5raBf4 // Brightness Patch Spark AR Studio
-41jIRnRgths // Spark AR - Texture Distortion Shader
-9gbp7VBDNa4 // Spark AR - Texture Distortion Shader v2.0
-8EUY7kWtNyE // Spark AR - Dissolve Shader
-pjtj7jUtujY // Spark AR - True Kira Kira
-OWX6BJjZbhU // Spark AR - Como fazer downgrade de um projeto
-kJL7QHlNB_M // Spark AR - Iridescent Shader
 
 # Ian Johnson
 lTA7_y-dZxY // Four faces effect with Spark AR Studio
@@ -2169,6 +2175,9 @@ vL591xZvb44 // Create Sunglass Filter for Instagram | Beginner Spark AR Tutorial
 # Pallabi Guha
 mp34Ra5TIK4 // Make your own INSTAGRAM FILTER using PicsArt under 10 MINUTES | Spark AR Tutorial | Pallabi Guha
 KV1LtD9ta6k // How to upload Filter to Instagram 2020 | Publish Filter from Spark AR to Instagram | Pallabi Guha
+
+# Parth Anand
+PO69dwpkhSk // Create an Instagram filter in 5 minutes | Spark AR tutorial | Augmented Reality
 
 # Patricia TV
 Oiv5nhr8toQ // HOW I MAKE MY OWN IG FILTER ( PHILIPPINES ) | Patricia Teodoro
