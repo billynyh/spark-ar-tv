@@ -739,6 +739,12 @@ ydmuwpsjNw0 // HOW TO MAKE SUPERMAN LASER-BEAM FILTER USING SPARK AR IN JUST 10 
 -Fbrakomo-4 // 自分で作れる！インスタエフェクト作成講座＜NO.４　前編＞SparkAR　目からビームを出す方法。
 IBegiuipv6Q // 自分で作れる！インスタエフェクト作成講座＜NO.4　後篇＞SparkAR　目からビーム！！！
 
+# Multiple Target Tracking
+e1ffvx4GdQ4 // Multi Target Tracking Images with Spark AR Studio
+-XpHb0HOliQ // Segmentação de pele / Multi Target - Atualização Spark Ar v114
+VVWAFQLICwA // Spark AR - Cómo crear 'multi target tracker' | EN Captions
+6PlbHc-OGGk // Spark AR Tutorial: Multiple Target Tracking
+
 # Multiple faces
 BYjxsecEbiI // Spark AR - Track Multiple Faces
 iRH_VQ_OTEA // TRACK TWO FACES SPARK AR / TRACK MULTIPLE FACES

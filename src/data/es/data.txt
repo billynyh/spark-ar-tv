@@ -507,6 +507,7 @@ mMbodRvPxJY // Spark AR -Tus fotos tendrán vida propia | Efecto Parallax & Inst
 Kyv5RWUPdgY // Spark AR Tutorial - Virtual Skin color tone effect (EN Captions)
 yBb5UhZpLuU // Spark AR Tutorial - Skin color tone + Cartoon face (EN Captions)
 VVWAFQLICwA // Spark AR - Cómo crear 'multi target tracker' | EN Captions
+0PKUnitK9-E // Spark AR Tutorial - Skin segmentation and paint clothes (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -821,6 +822,9 @@ HFxTKnAAR5w // Como hacer filtros para Instagram | Crea y publica tus propios fi
 
 # Michael Hernández
 hC0izIDukvw // Como Crear tus Propios Filtros de Instagram
+
+# Mishel Gonzalesss
+GBYVa4dnHpM // Filtro Basico (Lut) para instagram / Descarga Gratis Spark Ar #Filtros #Instagram
 
 # Mobillers
 RMC2gR6DsBI // Taller de Spark AR en Chile

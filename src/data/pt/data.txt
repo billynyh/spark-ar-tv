@@ -293,6 +293,7 @@ Reh0tpbuezM // Como Criar Luts Sem Photoshop - Tutoriais Spark AR
 hK2bU3XZUSM // Aula 00  Introdução - Tutorial de script para Spark AR
 -hwW29jZdGo // Aula 01 - Criando o primeiro projeto usando patches
 nwbS4HivhUg // Filtro de bronzeado com a nova segmentação de pele - Tutorial Spark AR
+DBZvXNreKpw // Como fazer borda usando apenas SDFs - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -538,6 +539,7 @@ MRXZeCcUr94 // GAME DE PALAVRAS FILTROS PARA INSTAGRAM 2021 PT 7
 YM1gIKnfew4 // COMO FAZER FILTRO DE MAQUIAGEM NO INSTAGRAM 2021 | ATUALIZADO
 MR5Lv6TFOzE // Curso de filtros para Instagram Passo a Passo 2021
 vsYKUAQzxow // Como Fazer Filtro para Instagram Passo a Passo 2021| Spark Ar
+ODB_gamyiyI // COMO FAZER FILTRO PARA INSTAGRAM  3D  PT 1
 
 # María Humans
 AjV6IMvBPwc // COMO CREAR FILTROS PARA INSTAGRAM FACIL | Maria Little
@@ -980,6 +982,7 @@ RLJVm7O4sIE // Spark AR Crie Deformações muito melhores!
 m7NxGF_nkuc // Spark AR Partículas atrás da pessoa ( segmentação )
 uJqiJqZC6PA // Spark AR Barba nos seus filtros!
 kwiY7ugbqIM // Spark AR Tatuagem no pescoço e rosto com filtro de cor!
+P-yfpwTrmso // Spark AR Zoom com Óculos!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
