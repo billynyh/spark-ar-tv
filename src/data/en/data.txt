@@ -398,6 +398,7 @@ HkQztRh39Ck // AESTHETIC INSTAGRAM 90's GLAM FILTER | FREE PROJECT FILE
 lwXSJpUmoPE // HOW TO MAKE FUNNY FACE INSTAGRAM FILTER IN JUST 2 MINUTES
 hhI6ea4VAE8 // SPARK AR NEW COOL WING FILTER !! SPARK AR TUTORIAL
 96MEQ9xgk7c // Spark AR 3 Cool New AR Effect Filter | Spark AR Tutorial
+bSgiZCYY2vo // INSTAGRAM NEW HULK SKIN AR FILTER | SPARK AR TUTORIAL
 
 # Car.Tunist
 0IYiGS8XRJU // Create an AR Selfie Filter Using VR: Gravity Sketch and Spark AR Tutorial
@@ -1050,6 +1051,7 @@ hK2bU3XZUSM // Aula 00  Introdução - Tutorial de script para Spark AR
 -hwW29jZdGo // Aula 01 - Criando o primeiro projeto usando patches
 nwbS4HivhUg // Filtro de bronzeado com a nova segmentação de pele - Tutorial Spark AR
 DBZvXNreKpw // Como fazer borda usando apenas SDFs - Tutorial Spark AR
+CCQ2n3JWHTI // Aula 02 - Animation Module (parte 1) - Tutorial de Script para Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -2453,6 +2455,7 @@ zQ5BWmLjMNE // Spark AR Tutorial: Creating Glow Effect With Render Pass [Instagr
 Cv4FvGpokuc // Free Spark AR Project : Christmas Filter
 ZVQZnpE7w08 // Outline Effect In Spark AR Using Key-frame [Instagram/Facebook]
 27tS6Ma2QiI // Spark AR : How To Create Tiktok Zoom Effect Filter +UI picker + LUTs [Instagram/Facebook]
+I3C7sUFXj6U // How To Create Multiple Image Target Tracking In Spark AR :[Instagram/Facebook]
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
