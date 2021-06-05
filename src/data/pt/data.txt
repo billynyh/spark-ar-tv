@@ -296,6 +296,7 @@ nwbS4HivhUg // Filtro de bronzeado com a nova segmentação de pele - Tutorial S
 DBZvXNreKpw // Como fazer borda usando apenas SDFs - Tutorial Spark AR
 CCQ2n3JWHTI // Aula 02 - Animation Module (parte 1) - Tutorial de Script para Spark AR
 ui6kIEzZNZU // Aula 03 - Módulo de animação (parte 2) - Tutorial de script para Spark AR
+e0O8w1VZRiM // Como Ficar Invisível Com Segmentação De Pele - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -443,6 +444,9 @@ HwzYJcYCqsY // 📱 Crea filtros para instagram facilmente [ Spark Ar ] ✅ | Le
 
 # Lina Camillo LC
 LmybbSO7w3E // COMO CRIAR FILTRO DE SITCKER DO INSTAGRAM - Lina Camillo LC
+
+# Lizzy Trevisan
+UNO-WFlFf6k // Crei seu filtro de makeup no Spark Ar Studio - Edição Batom e Retoque de pele.
 
 # Lorena Paschoal
 gn1tIipfHuY // COMO FAZER FILTROS PARA O INSTAGRAM

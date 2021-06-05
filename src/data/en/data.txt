@@ -5,6 +5,10 @@ sW4RETvSTbA // How To Create  Instagram Face Filters And AR Effect
 jpiAyrhCnvU // Instagram Filter Tutorial - Mask Effect Tap to change - Spark AR for Beginners
 
 # 25games
+sfVFdQC9_O4 // How to LEARN Rigging, Animation & Export optimization - INTRO #01 | Blender 2.9 | Personal Summary
+04QLvST3NGA // How to LEARN Rigging with RIGIFY + Weaponslot #02 | Blender 2.9 | Personal Summary
+1ajn_vBelgQ // What is the difference between METARIG / CONTROL-RIG / GAME-RIG? #03 | Blender 2.9 | Tutorial
+TDY9Tdf0H78 // My Animation Work Space & Workflow? #04 | Blender 2.9 | Tutorial / Guide
 H5obo7DYK_U // File Size Optimization & FBX Export? #05 | Blender 2.9 | Tutorial / Guide
 
 # 2OOTHDUST
@@ -530,6 +534,7 @@ rj3bZH8U7TQ // How to easily upload your first filter to Instagram from SparkAr 
 YGoixBid25E // Make your own beauty makeup filter easily using PicsArt with 2 Method/SparkAr Tutorial for beginners
 TvGpKlyaeFA // Create aesthetic headdress (head object) filter + action animate #SparkAr
 EgHTvWLXWHQ // Glow + Glowing Face Filter | How to make an Instagram filter  | #SparkAr #Tutorial
+qcOlDLqWgwM // KiraKira Effect | Sparkle | BlingBling | How to make an Instagram Filter | #SparkAr #Tutorial
 
 # Chia May
 iw2XgvGgCxk // How To Make Butter Particles And Quick LUT Background -  Make a filter with SparkAR under 5 minutes!
@@ -1060,6 +1065,7 @@ nwbS4HivhUg // Filtro de bronzeado com a nova segmentação de pele - Tutorial S
 DBZvXNreKpw // Como fazer borda usando apenas SDFs - Tutorial Spark AR
 CCQ2n3JWHTI // Aula 02 - Animation Module (parte 1) - Tutorial de Script para Spark AR
 ui6kIEzZNZU // Aula 03 - Módulo de animação (parte 2) - Tutorial de script para Spark AR
+e0O8w1VZRiM // Como Ficar Invisível Com Segmentação De Pele - Tutorial Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
