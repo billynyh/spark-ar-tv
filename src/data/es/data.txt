@@ -385,6 +385,7 @@ eijoHm44LEs // Animación de Mariposas en Spark Ar - Añadir vídeo mp4
 9xaW22IdI_I // Filtro FLASH WARNING (Spark AR)
 Av35h-ROoTE // SOLUCIÓN SI Spark Ar No te deja subir tu filtro
 2rk4TGp_x14 // Spark AR Crea TEXTURE DISROSION
+UJuaIknCx-g // Crea tu filtro con FACE DISTORSION + LUT + FACE MESH (Spark AR)
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -946,6 +947,7 @@ hrMOD0_S9wU // Curso de spark ar #3 l Nuestro filtro de letras
 Iy2HlaowaJY // Curso de spark ar #4 l STICKERS CARA 1.0
 bWr2hYgx7fU // Curso de spark ar #5 l Poner un fondo
 apff0yOFpDQ // Curso de spark ar #6 l FILTRO 2D STICKER
+XINvz7kQiwk // Curso de spark ar #7 l FILTRO 2D STICKER
 
 # Streamelopers
 uOlZZEFFOcQ // Introducción a Spark AR para desarrolladores

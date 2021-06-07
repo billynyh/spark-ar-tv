@@ -10,3 +10,4 @@ S3h_prLLvcc // Spark AR: How to create LUTs in Photoshop for Instagram filters(N
 ZVQZnpE7w08 // Outline Effect In Spark AR Using Key-frame [Instagram/Facebook]
 27tS6Ma2QiI // Spark AR : How To Create Tiktok Zoom Effect Filter +UI picker + LUTs [Instagram/Facebook]
 I3C7sUFXj6U // How To Create Multiple Image Target Tracking In Spark AR :[Instagram/Facebook]
+NDA05J8LBNM // Spark AR Tutorial: How To Use Skin Segmentation With Gallery Texture [Instagram]
