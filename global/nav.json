@@ -480,7 +480,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
-      "meta1": "Num videos: 165",
+      "meta1": "Num videos: 166",
       "meta2": null
     },
     {
@@ -491,16 +491,16 @@
       "meta2": null
     },
     {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/M4QSecKIzjE/hqdefault.jpg",
-      "title": "Channel: Emiliusvgs",
-      "meta1": "Num videos: 128",
-      "meta2": null
-    },
-    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
       "thumbnail_url": "https://i.ytimg.com/vi/99wNU14mcKI/hqdefault.jpg",
       "title": "Channel: Tutoriais do Kewin",
+      "meta1": "Num videos: 129",
+      "meta2": null
+    },
+    {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UC2Cixv8Y6__g2tO8_AlJD0A.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/M4QSecKIzjE/hqdefault.jpg",
+      "title": "Channel: Emiliusvgs",
       "meta1": "Num videos: 128",
       "meta2": null
     },
@@ -808,6 +808,13 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-06-07.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/ecr0m2COAoM/hqdefault.jpg",
+      "title": "Week 2021-06-07",
+      "meta1": "Num videos: 11",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-05-31.html",
       "thumbnail_url": "https://i.ytimg.com/vi/6PlbHc-OGGk/hqdefault.jpg",
       "title": "Week 2021-05-31",
@@ -840,13 +847,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OTeffHwA57M/hqdefault.jpg",
       "title": "Week 2021-05-03",
       "meta1": "Num videos: 66",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-04-26.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/1ajn_vBelgQ/hqdefault.jpg",
-      "title": "Week 2021-04-26",
-      "meta1": "Num videos: 71",
       "meta2": null
     }
   ]

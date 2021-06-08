@@ -297,6 +297,7 @@ DBZvXNreKpw // Como fazer borda usando apenas SDFs - Tutorial Spark AR
 CCQ2n3JWHTI // Aula 02 - Animation Module (parte 1) - Tutorial de Script para Spark AR
 ui6kIEzZNZU // Aula 03 - Módulo de animação (parte 2) - Tutorial de script para Spark AR
 e0O8w1VZRiM // Como Ficar Invisível Com Segmentação De Pele - Tutorial Spark AR
+aUeP6roYKfg // Tatue todo seu corpo com essa nova técnica de segmentação de pele - Tutoriais Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -1179,6 +1180,7 @@ OAZbFd90H7w // Sardas Realistas nos seus filtros, tutorial - Spark Ar
 oPXJOclOMKU // Aplicar filtros em vídeos gravados - Spark Ar Studio Tutorial
 -XpHb0HOliQ // Segmentação de pele / Multi Target - Atualização Spark Ar v114
 MbINhuQXgwk // Ativar e desativar elementos de modo avançado com toque na tela - Spark Ar Studio
+cKzjZSjU3YI // Arrumar bug das texturas sumindo nos cilios / filtros - Spark Ar Studio Tutorial
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
