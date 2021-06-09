@@ -1319,6 +1319,9 @@ VXF3G3IK35E // spark AR - patch editor 3d
 Fy0I52qnEo0 // spark ar patch editor - play audio
 mrNApPHhOBU // spark ar - patch editor - tap
 
+# IncubateIND
+WaZ8RDjd6Gs // Hands-On Bootcamp - "How AR Will Transform The World?"
+
 # Interactive Initiative
 IOLnICm1FLU // Instagram Face Filters: Creating for the Social Space
 
@@ -2807,6 +2810,7 @@ jCHLgpQlqeg // Favourite Filters #49 | Instagram & Facebook | Spark AR Studio #s
 S6w1p4onuHg // Favourite Filters #50 | Instagram & Facebook | Spark AR Studio #shorts
 T8oc4T0SBEg // Favourite Filters #41 - #50 | Instagram & Facebook | Spark AR Studio
 8y35R_J6p2w // Favourite Filters #51 | Instagram & Facebook | Spark AR Studio #shorts
+MIl4FZqevao // Favourite Filters #52 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

@@ -94,6 +94,7 @@ QVSpFW_AU08 // Tutorial sculpting submarine Cinema 4D and Spark Ar studio (spani
 S9jliHWo_Po // Spark AR tutorial How to create scenes (crear escenas) in Spanish
 hxdlQpwEk4M // Tutorial Spark Ar studio tracking multiple images (multiple rastreo imagenes) In spanish
 UbP2fYRkAlM // Pride filter Instagram spark Ar studio
+-W9OLREDkdI // Advanced ui piker tutorial Spark Ar studio - Ui Piker Avanzado
 
 # bibliofilica
 0ctGmfFNrwc // Hagamos filtros con Spark #abrilvideosamil. Partículas y filtro de luz

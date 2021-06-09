@@ -254,6 +254,7 @@ Qfk8eqJ9aos // COME CREARE UN FILTRO BASE PER INSTAGRAM - how to create a basic 
 # The Communities Bay
 GyGcktVTFHI // Data science in linguaggi funzionali, come perché ◆ Meetup #TheCmmBay​​​​ di Code Garden Roma
 LACblbA56O8 // Creare un filtro per i Social con Spark AR Creator ◆ Meetup #TheCmmBay​ di DevC Roma
+HAIiXrJitk8 // Creare un filtro Instagram con Spark AR Creator ◆ Meetup #TheCmmBay​ del Developer Circles: Rome
 
 # The Puggers
 MAffIl3LEuE // Primi Passi con Spark AR: Creiamo un filtro Instagram (Parte 1)
