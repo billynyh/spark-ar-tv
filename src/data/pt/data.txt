@@ -298,6 +298,7 @@ CCQ2n3JWHTI // Aula 02 - Animation Module (parte 1) - Tutorial de Script para Sp
 ui6kIEzZNZU // Aula 03 - Módulo de animação (parte 2) - Tutorial de script para Spark AR
 e0O8w1VZRiM // Como Ficar Invisível Com Segmentação De Pele - Tutorial Spark AR
 aUeP6roYKfg // Tatue todo seu corpo com essa nova técnica de segmentação de pele - Tutoriais Spark AR
+vXOMj3mlqWE // Aula 04 - Módulo de gestos faciais - Tutorial de script para Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"

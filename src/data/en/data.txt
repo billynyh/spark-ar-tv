@@ -1071,6 +1071,7 @@ CCQ2n3JWHTI // Aula 02 - Animation Module (parte 1) - Tutorial de Script para Sp
 ui6kIEzZNZU // Aula 03 - Módulo de animação (parte 2) - Tutorial de script para Spark AR
 e0O8w1VZRiM // Como Ficar Invisível Com Segmentação De Pele - Tutorial Spark AR
 aUeP6roYKfg // Tatue todo seu corpo com essa nova técnica de segmentação de pele - Tutoriais Spark AR
+vXOMj3mlqWE // Aula 04 - Módulo de gestos faciais - Tutorial de script para Spark AR
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1321,6 +1322,7 @@ mrNApPHhOBU // spark ar - patch editor - tap
 
 # IncubateIND
 WaZ8RDjd6Gs // Hands-On Bootcamp - "How AR Will Transform The World?"
+CA71H-u1qDQ // Hands-On Bootcamp - "How AR Will Change the Future of Communication"
 
 # Interactive Initiative
 IOLnICm1FLU // Instagram Face Filters: Creating for the Social Space
@@ -2401,6 +2403,7 @@ jDy-QIJ9PgE // Spark AR Tutorial | Quiz/True or False Game [Score Counter & Game
 bZyzDKlNuv8 // Spark AR Split Screen Tutorial [Instagram Real vs. Filter]
 78qNu6y_HfQ // Y2K Instagram Filter [Spark AR Tutorial]
 pKC6K-V-qxE // Spark AR Tutorial Prism Aesthetic with RGB Shift, LUT and Sparkle Effect
+dCPyG8Bvmm0 // Remove Eyebrows with Spark AR [Beginner Tutorial]
 
 # Quickly Designing
 Vvpri3emTxY // Random Quiz Filter - Creating your INSTAGRAM Filter & Adding Random Questions & Answers in Loop
@@ -2811,6 +2814,7 @@ S6w1p4onuHg // Favourite Filters #50 | Instagram & Facebook | Spark AR Studio #s
 T8oc4T0SBEg // Favourite Filters #41 - #50 | Instagram & Facebook | Spark AR Studio
 8y35R_J6p2w // Favourite Filters #51 | Instagram & Facebook | Spark AR Studio #shorts
 MIl4FZqevao // Favourite Filters #52 | Instagram & Facebook | Spark AR Studio #shorts
+FpDvfiwaDvU // Favourite Filters #53 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -3239,6 +3243,7 @@ VpXldDfVEro // Free instagram filter || make instagram filter on mobile without 
 MQe62QOk5ho // Free .arexport file || How to Make free instagram filter on mobile without spark ar studio/pc
 l0Mt4nauajA // How to make Instagram Filter on Mobile without PC or Laptop || Make Instagram filter arexport
 rgOsK9MqKiM // How to make a beautiful instagram filter in 5 minutes for free | instagram filter arexport tutorial
+ZaIjVgqmmck // Free Indie filter .arexport file || How to get instagram filter on my account on mobile without pc
 
 # yan pengcheng
 nFoaquc3v8A // spark ar MXRT
