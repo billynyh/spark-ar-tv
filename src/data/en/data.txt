@@ -723,6 +723,7 @@ GhY7l3LT2k4 // Quiz Filter (Guess the ???) - Spark AR Tutorial | Create your own
 JP7vS5slaWU // How to use any sound file in Spark AR Studio 🔊 | Import MP3 or WAV files for your Instagram Filter
 PzdR12qmBtE // Blank Face Filter Tutorial - Spark AR Studio | Create a clean Face Effect for Instagram!
 KktdgINgf7M // Rotating Halo Text Filter - Spark AR Tutorial | How to create your own Instagram Filter.
+5wZIbqQZfeM // Start filter Automatically! ✨ By pressing the record button!  | Spark AR Tutorial
 
 # Virtual Art Space
 t2CM0nTGtLA // 5 SPARK AR HACKS IN 2 MINUTES
@@ -1951,6 +1952,7 @@ u31vRoG3uns // Adding Grain with Spark AR
 -p0q9Gk-jpc // Simulate reduced framerates in Spark AR with render passes
 U60CECzzneE // Spark AR Stencil Effect
 8Ezbm9mjAuk // Quickly and easily make objects rotate around the head in Spark AR
+QYJBNaKZQCg // Background Segmentation the Easy Way in Spark AR
 
 # Mohit
 R5EGaX7JJDw // How to make your own instagram filter!
@@ -2815,6 +2817,7 @@ T8oc4T0SBEg // Favourite Filters #41 - #50 | Instagram & Facebook | Spark AR Stu
 8y35R_J6p2w // Favourite Filters #51 | Instagram & Facebook | Spark AR Studio #shorts
 MIl4FZqevao // Favourite Filters #52 | Instagram & Facebook | Spark AR Studio #shorts
 FpDvfiwaDvU // Favourite Filters #53 | Instagram & Facebook | Spark AR Studio #shorts
+XRD03QDtP-k // Favourite Filters #54 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -2912,6 +2915,7 @@ tJ7Xsm0kQyA // Making Face Mask Using Spark AR
 v5YhiHs5FUQ // Interactive Joker Filter Using Spark AR
 s7mTRJFM0mI // Augmented Reality Intro
 Xj1ha3n6LhE // Spark AR Studio
+rDNnhT-4Teg // Tech Talks Episode 1 ft. Shaunak Dixit | Spark Techies
 
 # Spinning Rock
 mNH8PGu4fc8 // 1.1 The Complete Spark AR Course - Intro

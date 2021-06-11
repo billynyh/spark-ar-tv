@@ -95,6 +95,7 @@ S9jliHWo_Po // Spark AR tutorial How to create scenes (crear escenas) in Spanish
 hxdlQpwEk4M // Tutorial Spark Ar studio tracking multiple images (multiple rastreo imagenes) In spanish
 UbP2fYRkAlM // Pride filter Instagram spark Ar studio
 -W9OLREDkdI // Advanced ui piker tutorial Spark Ar studio - Ui Piker Avanzado
+w4a3oBShtkA // Tutorial pase morph Spar Ar Studio ( poses modelados) free, in spanish
 
 # bibliofilica
 0ctGmfFNrwc // Hagamos filtros con Spark #abrilvideosamil. Partículas y filtro de luz
@@ -143,6 +144,7 @@ dY99qn8k-cA // Filtro CAMBIAR el COLOR del CABELLO | Hair Segmentation | CURSO S
 TjVrvdSUHr0 // Crea tu propio FILTRO de TATUAJES para INSTAGRAM | CURSO SPARK AR STUDIO
 gWr-8BoMu48 // Como cambiar el FONDO en SPARK AR STUDIO | PERSON SEGMENTATION | CURSO SPARK AR STUDIO
 qGGQd4UTdWc // Crea tu propio FILTRO de MAQUILLAJE + LUT en SPARK AR STUDIO | CURSO SPARK AR STUDIO
+a4EN6M66n_E // Tutorial de INTERACCIÓN con GESTOS | PATCH EDITOR FACE GESTURES | CURSO SPARK AR STUDIO
 
 # Color Space
 OVOZOnhxNd4 // COMO PUBLICAR FILTROS PARA INSTAGRAM EN SPARK - Filtros para instagram.
@@ -517,6 +519,7 @@ Kyv5RWUPdgY // Spark AR Tutorial - Virtual Skin color tone effect (EN Captions)
 yBb5UhZpLuU // Spark AR Tutorial - Skin color tone + Cartoon face (EN Captions)
 VVWAFQLICwA // Spark AR - Cómo crear 'multi target tracker' | EN Captions
 0PKUnitK9-E // Spark AR Tutorial - Skin segmentation and paint clothes (EN Captions)
+eAnQZEUCKFk // Spark AR Tutorial - 4 multi target tracker to create 1 animate scene
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
