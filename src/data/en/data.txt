@@ -1073,6 +1073,7 @@ ui6kIEzZNZU // Aula 03 - Módulo de animação (parte 2) - Tutorial de script pa
 e0O8w1VZRiM // Como Ficar Invisível Com Segmentação De Pele - Tutorial Spark AR
 aUeP6roYKfg // Tatue todo seu corpo com essa nova técnica de segmentação de pele - Tutoriais Spark AR
 vXOMj3mlqWE // Aula 04 - Módulo de gestos faciais - Tutorial de script para Spark AR
+NzdaqLLtHe8 // Aprenda a fazer o filtro do meme invertido - Super fácil (tutorial Spark AR)
 
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
@@ -1338,6 +1339,7 @@ lLZ6aYDOjOQ // Spark AR facial expressions with shapekeys for Instagram filter |
 -B-0tV4cfOk // Cristiano Ronaldo | spark AR | instagram filter | Irfan Lesnar
 lEWT9EJdo84 // Gp muthu instagram filter | Irfan lesnar | Spark AR
 TUtbLI8aPCs // Creating Hair for a 3D face in easy way using blender | SparkAR studio | Irfan Lesnar | Trump part 2
+cscO0VdaxAQ // How to create Shapekeys for facial expressions using Blender | SparkAR | Irfan Lesnar
 
 # It's Emma
 XaLXjR2y1gk // How to Create Your OWN Instagram Filter
@@ -2485,6 +2487,7 @@ ZVQZnpE7w08 // Outline Effect In Spark AR Using Key-frame [Instagram/Facebook]
 27tS6Ma2QiI // Spark AR : How To Create Tiktok Zoom Effect Filter +UI picker + LUTs [Instagram/Facebook]
 I3C7sUFXj6U // How To Create Multiple Image Target Tracking In Spark AR :[Instagram/Facebook]
 NDA05J8LBNM // Spark AR Tutorial: How To Use Skin Segmentation With Gallery Texture [Instagram]
+MUqgQ5TanMs // Spark AR Tutorial : How To Create Invisible Effect In Spark AR Using Skin Segmentation [Instagram]
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -2818,6 +2821,7 @@ T8oc4T0SBEg // Favourite Filters #41 - #50 | Instagram & Facebook | Spark AR Stu
 MIl4FZqevao // Favourite Filters #52 | Instagram & Facebook | Spark AR Studio #shorts
 FpDvfiwaDvU // Favourite Filters #53 | Instagram & Facebook | Spark AR Studio #shorts
 XRD03QDtP-k // Favourite Filters #54 | Instagram & Facebook | Spark AR Studio #shorts
+LcJnQzTezds // Favourite Filters #55 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
