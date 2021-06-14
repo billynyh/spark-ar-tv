@@ -390,6 +390,7 @@ eijoHm44LEs // Animación de Mariposas en Spark Ar - Añadir vídeo mp4
 Av35h-ROoTE // SOLUCIÓN SI Spark Ar No te deja subir tu filtro
 2rk4TGp_x14 // Spark AR Crea TEXTURE DISROSION
 UJuaIknCx-g // Crea tu filtro con FACE DISTORSION + LUT + FACE MESH (Spark AR)
+W9OSnJNsy-M // Filtro efecto GLITCH
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -771,6 +772,8 @@ PrvbkN9qQrM // Cómo hacer Filtros para Tiktok e Instagram: Colocando Objetos 3D
 
 # Mario Cuevas
 t5leI-3LWP8 // Introducción a SparkAR
+MEmM219Cb8k // SPARK AR + Backgrounds
+l4CixOsaAjM // SPARK AR Facetracker + Publicación
 
 # Mario Hernandez
 DRig13cIOaA // Spark AR  video objetos 3D
