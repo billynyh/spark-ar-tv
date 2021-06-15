@@ -300,6 +300,7 @@ e0O8w1VZRiM // Como Ficar Invisível Com Segmentação De Pele - Tutorial Spark 
 aUeP6roYKfg // Tatue todo seu corpo com essa nova técnica de segmentação de pele - Tutoriais Spark AR
 vXOMj3mlqWE // Aula 04 - Módulo de gestos faciais - Tutorial de script para Spark AR
 NzdaqLLtHe8 // Aprenda a fazer o filtro do meme invertido - Super fácil (tutorial Spark AR)
+xWBUVkkwt7c // Como Alterar A Cor Da Roupa No Seu Filtro - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -1188,6 +1189,7 @@ oPXJOclOMKU // Aplicar filtros em vídeos gravados - Spark Ar Studio Tutorial
 MbINhuQXgwk // Ativar e desativar elementos de modo avançado com toque na tela - Spark Ar Studio
 cKzjZSjU3YI // Arrumar bug das texturas sumindo nos cilios / filtros - Spark Ar Studio Tutorial
 UxbN0B9pnhI // Tatuagem no corpo com segmentação de pele - Spark Ar Studio Tutorial
+pLEfxBGj9ps // Block Olhos de Boneca (Doll/Disney) - Spark Ar Studio
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
