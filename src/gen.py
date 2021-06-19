@@ -253,7 +253,7 @@ def gen_site(config):
             pool.apply_async(gen_global_json, (master,)),
         ]
         results += [pool.apply_async(gen_lang_site, (master, master.lang_sites[lang], config)) for lang in langs]
-        [res.get(timeout=30) for res in results]
+        [res.get(timeout=60) for res in results]
 
     # Copy assets
     util.copy_all_assets(config)
