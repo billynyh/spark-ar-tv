@@ -434,6 +434,7 @@ AFvSWNaOabw // Caroline LIVE: New Project Ideas with Raspberry Pi and Alexa: Epi
 
 # Casie Millhouse
 rGuK5DdBBIk // How AR on Social Media Changes Everything - Filters, Filters, Filters Everywhere!
+EZekQ_6RObQ // Do Impressions Matter on Instagram? What You DON'T KNOW About Instagram Filter Impressions​
 
 # Catalyst
 S17KmuqySyU // Spark AR - Patch Editor: Tracking, Transitions and Animation
@@ -736,6 +737,7 @@ AibIMylQaBU // GET TRAVIS SCOTT IN YOUR HOME WITH THIS INSTAGRAM FILTER
 8RVJmQPgyU4 // INSTAGRAM FILTER - LOUIS VUITTON STORE *SPARK AR TUTORIAL*
 JSFWHuuan-w // FREE BEGINNERS GUIDE TO INSTAGRAM FILTERS / 5 MIN TUTORIAL
 9gkYFTAimKE // FACEBOOK F8 TALK - QUITTING MY 9-5 TO MAKE IG FILTERS
+PezciXg5VYw // AUGMENTED REALITY | Everything You Need To Know
 
 # Dominique Wu
 3GbLTe4E1_A // XR Talk #54: Spark AR Studio - Kick Start Tutorial (1)
@@ -1086,6 +1088,9 @@ xWBUVkkwt7c // Como Alterar A Cor Da Roupa No Seu Filtro - Tutorial Spark AR
 Ve0e9LQ0tBs // Aula 05 - Módulos de movimento do dispositivo e de câmera info - Tutorial de script para Spark AR
 g59ksZcgVkM // Como trocar de camisa no seu filtro - Tutorial Spark AR
 
+# Filtr-thon
+ePGfvUezpGM // Filtr-A-Thon Hands-on workshop
+
 # Fiona Viaje
 uHRfuGRA9ik // HOW TO MAKE YOUR OWN INSTAGRAM FILTER: Spark AR Beginner Tutorial
 QpylaiZysBc // MY SPARK AR FILTER COMPILATION (PT.1)
@@ -1342,6 +1347,7 @@ CA71H-u1qDQ // Hands-On Bootcamp - "How AR Will Change the Future of Communicati
 NHyEreDWtsA // Hands-On Workshop on Augmented Reality - Spark AR
 bunqgE0hM1c // Hands-On Workshop on Augmented Reality - Spark AR
 tPH6GWXXNOg // Hands-On Workshop on Augmented Reality - Spark AR
+JYk45Kl4Db0 // Hands-On Workshop on Augmented Reality - Spark AR
 
 # Interactive Initiative
 IOLnICm1FLU // Instagram Face Filters: Creating for the Social Space
@@ -2937,6 +2943,7 @@ D8cPaegWbB0 // Spark AR Lut + Retouch Filtros Instagram
 oveKr-RBuNk // FlyingTweetBird
 
 # Spark Ar World
+VHXAcd3xB0A // Welcome To Spark Ar World
 s5Ni-AXpN0M // How to create Instagram filters in Spark Ar
 UlWxgf2A7mY // How to upload your first Instagram effect.
 

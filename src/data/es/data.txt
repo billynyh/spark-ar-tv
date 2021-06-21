@@ -393,6 +393,7 @@ Av35h-ROoTE // SOLUCIÓN SI Spark Ar No te deja subir tu filtro
 2rk4TGp_x14 // Spark AR Crea TEXTURE DISROSION
 UJuaIknCx-g // Crea tu filtro con FACE DISTORSION + LUT + FACE MESH (Spark AR)
 W9OSnJNsy-M // Filtro efecto GLITCH
+lDYGn-ves-Y // Crea FILTRO de CIRCULO ANIMADO
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
