@@ -1087,6 +1087,7 @@ NzdaqLLtHe8 // Aprenda a fazer o filtro do meme invertido - Super fácil (tutori
 xWBUVkkwt7c // Como Alterar A Cor Da Roupa No Seu Filtro - Tutorial Spark AR
 Ve0e9LQ0tBs // Aula 05 - Módulos de movimento do dispositivo e de câmera info - Tutorial de script para Spark AR
 g59ksZcgVkM // Como trocar de camisa no seu filtro - Tutorial Spark AR
+DDCJ43TzHVg // Como inserir áudio no filtro - Tutorial Spark AR iniciante
 
 # Filtr-thon
 ePGfvUezpGM // Filtr-A-Thon Hands-on workshop
@@ -2859,6 +2860,7 @@ Xeue8e_1f-k // Favourite Filters #57 | Instagram & Facebook | Spark AR Studio #s
 eJKEF60eRSw // Favourite Filters #58 | Instagram & Facebook | Spark AR Studio #shorts
 2RcjbtNjBEo // Favourite Filters #59 | Instagram & Facebook | Spark AR Studio #shorts
 asm-CSI0Uv8 // Favourite Filters #60 | Instagram & Facebook | Spark AR Studio #shorts
+bHLWHSupDNc // Favourite Filters #51 - #60 | Instagram & Facebook | Spark AR Studio
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
