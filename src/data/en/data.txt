@@ -1088,6 +1088,7 @@ xWBUVkkwt7c // Como Alterar A Cor Da Roupa No Seu Filtro - Tutorial Spark AR
 Ve0e9LQ0tBs // Aula 05 - Módulos de movimento do dispositivo e de câmera info - Tutorial de script para Spark AR
 g59ksZcgVkM // Como trocar de camisa no seu filtro - Tutorial Spark AR
 DDCJ43TzHVg // Como inserir áudio no filtro - Tutorial Spark AR iniciante
+Lr0UFkz43kM // Aula 06 - Módulo de face tracking 2D - tutorial de Script para Spark AR
 
 # Filtr-thon
 ePGfvUezpGM // Filtr-A-Thon Hands-on workshop
@@ -1435,6 +1436,7 @@ bCcxHrvoz4g // My Effect went VIRAL on Instagram
 
 # Jojo honeytoast
 Ywak3Q4oCWw // SPARK AR: Background Filter (Super EASY)
+UzW8a1VE-Y8 // Spark AR: Background Filter (SUPER EASY LVL 1)
 
 # Jonathan Jones
 D-9CH095Ep8 // Spark AR Studio: How to make Animation Backgrounds with GIFS
@@ -2861,6 +2863,8 @@ eJKEF60eRSw // Favourite Filters #58 | Instagram & Facebook | Spark AR Studio #s
 2RcjbtNjBEo // Favourite Filters #59 | Instagram & Facebook | Spark AR Studio #shorts
 asm-CSI0Uv8 // Favourite Filters #60 | Instagram & Facebook | Spark AR Studio #shorts
 bHLWHSupDNc // Favourite Filters #51 - #60 | Instagram & Facebook | Spark AR Studio
+wGoWUxX_G9Q // Favourite Filters #61 | Instagram & Facebook | Spark AR Studio #shorts
+VAdjG0wPazU // Favourite Filters #62 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

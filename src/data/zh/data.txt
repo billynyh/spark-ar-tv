@@ -95,6 +95,9 @@ m_d5nACBdnM // EP.2 How to Add Animation, Texts, and Custom Frames to Instagram 
 yG5lvIzg-N0 // EP.3 How to Add Dynamic Texts to Instagram Filters | 簡單做IG濾鏡 | 如何在IG濾鏡加入日期時間和星期 | Spark AR Tutorial
 lQVgMazRGYA // Spark AR Q&A | Troubleshoot: Patch Editor, Get Static Text Approved, FastColorLUT, Weird Rectangles
 
+# 周定賢
+jQEk1FAiqQ8 // Spark AR Studio 國劇變臉教學
+
 # 宇潔廖
 7ck3HEVaptc // FB 濾鏡製作 Spark AR Atudio
 

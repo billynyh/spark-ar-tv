@@ -97,6 +97,7 @@ UbP2fYRkAlM // Pride filter Instagram spark Ar studio
 -W9OLREDkdI // Advanced ui piker tutorial Spark Ar studio - Ui Piker Avanzado
 w4a3oBShtkA // Tutorial pase morph Spar Ar Studio ( poses modelados) free, in spanish
 3iiUYSvNSAw // Tutorial Sculpting model 3d blender and Spark Ar Studio (spanish)
+HfKdTQnqJLE // Tutorial Blender, Create custom brushes and Spark Ar (spanish)
 
 # bibliofilica
 0ctGmfFNrwc // Hagamos filtros con Spark #abrilvideosamil. Partículas y filtro de luz
@@ -528,6 +529,7 @@ VVWAFQLICwA // Spark AR - Cómo crear 'multi target tracker' | EN Captions
 eAnQZEUCKFk // Spark AR Tutorial - 4 multi target tracker to create 1 animate scene
 w--uRF0J0nU // Spark AR Tutorial: Hombre Invisible | Render Pass + Gallery texture (EN Captions)
 Pr1Q_gxGnnY // ¿Object Capture impulsará el E-commerce? EL E3 VR Games trajo algunas novedades - Noticias XR 3
+LrkZ7ip48BU // Spark AR - Interactions with Multi Targets | One new object with two targets (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]

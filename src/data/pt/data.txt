@@ -27,6 +27,9 @@ HwJv482G1N4 // COMO TER FILTROS NO INSTAGRAM COM MUITAS VISUALIZAÇÕES
 # Ane Gabryelle
 xfdYw83YOXU // COMO FAZER FILTRO PRO INSTAGRAM E FACEBOOK
 
+# AREA Augmented Reality Entertaiment Apps
+C5D-P5RubWw // Cartão de Visitas com Realidade Aumentada | Spark AR Tutorial | Instagram/Facebook AR Effect
+
 # Arthur Spark AR -Tutoriais
 zu-ImE2dAkc // Spark AR - COLOQUE QUALQUER VIDEO COMO DEMO VIDEO!!
 WbmucBSHp9E // COMO FAZER CÍLIOS 3D 3D EYELASHES - SPARK AR
@@ -129,6 +132,9 @@ LqiY1VU6UnY // Como Fazer um FILTRO Para o INSTAGRAM no estilo MATRIX
 # Cosmica 021
 iyibwTvVakg // Filtro no Instagram | Tudo que você precisa saber
 
+# Criando Filtro
+6-ye3cdQ1fk // Início do Desenvolvimento do Filtro no Spark AR
+
 # Darli Donizete
 98EwdZhf8jQ // I'm back - Darli Donizete
 TkNBwcH7Y1M // CRIANDO FILTROS INCRÍVEIS PARA O INSTAGRAM USANDO LIGHTROOM  - 2020
@@ -207,6 +213,7 @@ yunZztQeTCY // Descubra o SEGREDO do filtro LUT + MAKE no Spark Ar #3
 oiNOE1K7NXQ // Aprenda a CRIAR efeitos de QUIZ no Spark Ar #4
 SCr4ojcA0i0 // Aprenda a criar os EFEITOS em 3D mais VENDIDOS do Instagram #5 Spark AR
 g-8r3jiBDRI // Como POSTAR filtros do Spark Ar na PÁGINA do CLIENTE #6
+FUBozRj8znQ // SPARK POST: Faça ARTES *INCRÍVEIS* muito RÁPIDO pelo CELULAR
 
 # Fabricio Info
 xt6kneElW7k // LUT (Presets) no SparkAr Juntamento com facemash
@@ -304,6 +311,7 @@ xWBUVkkwt7c // Como Alterar A Cor Da Roupa No Seu Filtro - Tutorial Spark AR
 Ve0e9LQ0tBs // Aula 05 - Módulos de movimento do dispositivo e de câmera info - Tutorial de script para Spark AR
 g59ksZcgVkM // Como trocar de camisa no seu filtro - Tutorial Spark AR
 DDCJ43TzHVg // Como inserir áudio no filtro - Tutorial Spark AR iniciante
+Lr0UFkz43kM // Aula 06 - Módulo de face tracking 2D - tutorial de Script para Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -1198,6 +1206,7 @@ cKzjZSjU3YI // Arrumar bug das texturas sumindo nos cilios / filtros - Spark Ar 
 UxbN0B9pnhI // Tatuagem no corpo com segmentação de pele - Spark Ar Studio Tutorial
 pLEfxBGj9ps // Block Olhos de Boneca (Doll/Disney) - Spark Ar Studio
 SkayHwy7GAY // Aplicar filtros em vídeos pelo PC - Spark Ar Studio Tutorial
+weMmhOPJQmU // Óculos na testa ao balançar a cabeça - Spark Ar Studio Tutorial
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
