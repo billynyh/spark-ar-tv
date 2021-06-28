@@ -90,6 +90,7 @@ HYQ_Kzyygk8 // How to Animate 3D Object in Spark AR
 78qNu6y_HfQ // Y2K Instagram Filter [Spark AR Tutorial]
 pKC6K-V-qxE // Spark AR Tutorial Prism Aesthetic with RGB Shift, LUT and Sparkle Effect
 dCPyG8Bvmm0 // Remove Eyebrows with Spark AR [Beginner Tutorial]
+4q_s86dU5qc // Create a Runaway Aurora Filter in Spark AR Studio [Beginner Tutorial]
 
 # Rene Schreiner
 _plGVziSg14 // INSTAGRAM Story-Filter erstellen - Spark AR Studio

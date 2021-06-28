@@ -149,6 +149,7 @@ qGGQd4UTdWc // Crea tu propio FILTRO de MAQUILLAJE + LUT en SPARK AR STUDIO | CU
 a4EN6M66n_E // Tutorial de INTERACCIÓN con GESTOS | PATCH EDITOR FACE GESTURES | CURSO SPARK AR STUDIO
 6JyJMoY0D4Y // Tutorial de TRACKING en SPARK AR | TARGET TRACKER | CURSO SPARK AR STUDIO
 c1rV6TPgsao // Filtros de Spark ar studio Vol 1 - Click media AR #Shorts
+tAvKVlNM3nk // Tutorial de SISTEMA de PARTÍCULAS  | PARTICLE SYSTEM | CURSO SPARK AR STUDIO
 
 # Color Space
 OVOZOnhxNd4 // COMO PUBLICAR FILTROS PARA INSTAGRAM EN SPARK - Filtros para instagram.
@@ -309,6 +310,7 @@ jElBm93UxLk // Creación de Filtros Artísticos de Realidad Aumentada | Un curso
 kl6MtBe60jI // ¿QUÉ ES y cómo funciona la Realidad Aumentada? | Solimán López | Domestika
 j2BlsxYYQsQ // Introducción a Spark AR | Un curso de Paul Brown | Domestika
 NyIonYDQeJU // TUTORIAL Spark AR | Tips Básicos para empezar desde Cero | Ayo Vega | Domestika
+W6Ehj0CedUM // Crea un filtro de realidad aumentada con temática LGBTQ+, con Ayo Vega
 
 # Doufreelancer
 E5AeBJNUQds // Cómo cargar un filtro o efecto en Instagram
@@ -396,6 +398,7 @@ Av35h-ROoTE // SOLUCIÓN SI Spark Ar No te deja subir tu filtro
 UJuaIknCx-g // Crea tu filtro con FACE DISTORSION + LUT + FACE MESH (Spark AR)
 W9OSnJNsy-M // Filtro efecto GLITCH
 lDYGn-ves-Y // Crea FILTRO de CIRCULO ANIMADO
+r3QTsFD_zHY // Crea tu propio FLITRO de RETRICA
 
 # Emiliusvgs
 CUDt2FXFGwM // Spark AR Tutorial Segmentation & Camera texture | Español
@@ -584,6 +587,7 @@ ALkEhjYl8d8 // how to create the filter "Kira Ar"?
 e4ITP5d0D4s // Como hacer el filtro de tiktok "VHS RETRO"
 _ODmHwiOVGY // ¿How Make filter "Eyes Colors"?
 ovmTbBGxgc0 // How make filter "Eyelashes + Brush"?
+2pXrulMZrY8 // How to make filter game?
 
 # filtros.instagram
 e8TuM0Lb6c8 // COMO CREAR UN FILTRO PARA INSTAGRAM EN 5 MINUTOS[SPARK AR TUTORIAL]
@@ -752,6 +756,7 @@ OTh9zokhdc8 // Como hacer filtro BLUR | Iphone Portrait effect | Spark Ar Tutori
 RLmpLoiVdC0 // COMO HACER UN FILTRO DE INSTAGRAM *TATTOO* | Spark Ar Tutorial
 P-8WZbQ9Nf0 // Como cambiar el DEMO VIDEO de Spark Ar
 EoL-xUbxClQ // KIRA KIRA + SCREEN TAP | Spark Ar Tutorial
+fzXASPMKe60 // Como Hacer Filtro RANDOM FRAMES | Viral Filters Spark Ar Tutorial.
 
 # MAB55
 heyGpK9TDsM // ▶️ ✅ Cómo descargar e instalar Spark AR Studio de Facebook en Mac [ 2021 ] | Tutorial PC Mab55
