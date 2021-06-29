@@ -2525,6 +2525,7 @@ ZVQZnpE7w08 // Outline Effect In Spark AR Using Key-frame [Instagram/Facebook]
 I3C7sUFXj6U // How To Create Multiple Image Target Tracking In Spark AR :[Instagram/Facebook]
 NDA05J8LBNM // Spark AR Tutorial: How To Use Skin Segmentation With Gallery Texture [Instagram]
 MUqgQ5TanMs // Spark AR Tutorial : How To Create Invisible Effect In Spark AR Using Skin Segmentation [Instagram]
+qbbO_oeFJa0 // How To Detect Mobile Camera Movement Using Global Transform In Spark AR [Instagram/Facebook]
 
 # Reality Visual Effects
 1UFbPzb-uBY // Creating Facebook And Instagram Camera Filter In Spark AR Studio
@@ -2870,6 +2871,7 @@ wGoWUxX_G9Q // Favourite Filters #61 | Instagram & Facebook | Spark AR Studio #s
 VAdjG0wPazU // Favourite Filters #62 | Instagram & Facebook | Spark AR Studio #shorts
 6e9FlHFGWjY // Favourite Filters #63 | Instagram & Facebook | Spark AR Studio #shorts
 mLq65V9duA4 // Favourite Filters #64 | Instagram & Facebook | Spark AR Studio #shorts
+qZsJHf86Nms // Favourite Filters #65 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
