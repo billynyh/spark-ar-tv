@@ -318,6 +318,7 @@ g59ksZcgVkM // Como trocar de camisa no seu filtro - Tutorial Spark AR
 DDCJ43TzHVg // Como inserir áudio no filtro - Tutorial Spark AR iniciante
 Lr0UFkz43kM // Aula 06 - Módulo de face tracking 2D - tutorial de Script para Spark AR
 RZSDSM5RrPA // Cria uma máscara de facemesh usando apenas SDF - Tutorial Spark AR
+q0sdL24kr-0 // Aula 07 -  Módulo de face tracking - Tutorial de Script para Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -1216,6 +1217,7 @@ pLEfxBGj9ps // Block Olhos de Boneca (Doll/Disney) - Spark Ar Studio
 SkayHwy7GAY // Aplicar filtros em vídeos pelo PC - Spark Ar Studio Tutorial
 weMmhOPJQmU // Óculos na testa ao balançar a cabeça - Spark Ar Studio Tutorial
 G3N6R4u8L_Y // Filtro com Logo - Spark Ar Studio Tutorial
+z2_X3h1gDOo // Filtro de Cliente no seu portfolio como colocar? - Spark Ar Studio Tutorial
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
