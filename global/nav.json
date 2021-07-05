@@ -522,7 +522,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCNpMVo0epALTwoje_KikAhg.html",
       "thumbnail_url": "https://i.ytimg.com/vi/Ym4Bc5XKt0c/hqdefault.jpg",
       "title": "Channel: Sindy Tia Ulfa",
-      "meta1": "Num videos: 102",
+      "meta1": "Num videos: 104",
       "meta2": null
     },
     {
@@ -808,10 +808,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-07-05.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/fWmmzFdvfLM/hqdefault.jpg",
+      "title": "Week 2021-07-05",
+      "meta1": "Num videos: 3",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-06-28.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/aDE3JoW4Sqc/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/nF9PLSUpLXY/hqdefault.jpg",
       "title": "Week 2021-06-28",
-      "meta1": "Num videos: 20",
+      "meta1": "Num videos: 27",
       "meta2": null
     },
     {
@@ -840,13 +847,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/rDNnhT-4Teg/hqdefault.jpg",
       "title": "Week 2021-05-31",
       "meta1": "Num videos: 49",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-05-24.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/5LV6Q8Wtals/hqdefault.jpg",
-      "title": "Week 2021-05-24",
-      "meta1": "Num videos: 51",
       "meta2": null
     }
   ]
