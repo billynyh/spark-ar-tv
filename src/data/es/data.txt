@@ -534,6 +534,7 @@ eAnQZEUCKFk // Spark AR Tutorial - 4 multi target tracker to create 1 animate sc
 w--uRF0J0nU // Spark AR Tutorial: Hombre Invisible | Render Pass + Gallery texture (EN Captions)
 Pr1Q_gxGnnY // ¿Object Capture impulsará el E-commerce? EL E3 VR Games trajo algunas novedades - Noticias XR 3
 LrkZ7ip48BU // Spark AR - Interactions with Multi Targets | One new object with two targets (EN Captions)
+rhuC9D76iFA // Spark AR Tutorial - Create your own interactive 3D Map with Blender (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
