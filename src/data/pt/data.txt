@@ -320,6 +320,7 @@ Lr0UFkz43kM // Aula 06 - Módulo de face tracking 2D - tutorial de Script para S
 RZSDSM5RrPA // Cria uma máscara de facemesh usando apenas SDF - Tutorial Spark AR
 q0sdL24kr-0 // Aula 07 -  Módulo de face tracking - Tutorial de Script para Spark AR
 WUT3IgYiymM // Como colocar efeito na voz no filtro - Tutorial Spark AR
+XTCYsGb1j-E // Aula 08 - Módulo de material - Tutorial de Script para Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -450,6 +451,7 @@ USWxaGnjqwE // Kira Kira +  Makup + Retouch (limpeza de pele) + Lut (filtro de c
 Rh2spEk78t8 // Como criar filtro de adesivos no rosto para instagram stories
 jDBMovFa6IE // Como criar filtros com data, hora e dia da semana no Spark Ar pro instagram stories
 EHCT0GK5O10 // Como ativar e desativar elementos com toque na tela(screen tap) no Spark Ar pra Instagram stories
+7sXKRjmccy0 // Como criar filtro de plastica (deformações) para instagram stories
 
 # Lary Ribeiro
 0xJt8iC2dFQ // COMO FAZER O SEU PRÓPRIO FILTRO PARA O INSTAGRAM NO CELULAR 📲✨⎢Super fácil e SEM photoshop
@@ -512,6 +514,7 @@ iHJmhAaGgSI // Como fazer filtro de Preset/LUT passo a passo - SPARK AR - Filtro
 4idcuECkef0 // delineado spark ar COMO USAR OS TRACKERS
 XHnkVZxNqW8 // Blush na ponta do nariz - Filtros para instagram - SPARK AR
 guiA5YaHp_w // 2o desafio de filtros - tema: Personagens
+PjMiyyW31DU // Atualize um filtro comigo - passo a passo - SPARK AR | Filtros Instagram
 
 # Luan Coutinho
 JK-8tY4UCWs // COMO CRIAR FILTROS PARA O INSTAGRAM!  ( Sem Photoshop),(BEM EXPLICADO!!)
