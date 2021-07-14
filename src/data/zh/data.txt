@@ -100,6 +100,9 @@ lQVgMazRGYA // Spark AR Q&A | Troubleshoot: Patch Editor, Get Static Text Approv
 
 # 周定賢
 jQEk1FAiqQ8 // Spark AR Studio 國劇變臉教學
+XbEvcgQwGk8 // AR01_Spark AR Studio 操作環境建置與安裝
+VbNo91r2dko // AR02_Spark AR Studio 基本操作1,2-臉部美肌及文字圖形特效
+B-Y76lQQEt4 // AR03_Spark AR Studio 基本操作3- 國劇換臉特效實作
 
 # 宇潔廖
 7ck3HEVaptc // FB 濾鏡製作 Spark AR Atudio
