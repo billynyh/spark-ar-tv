@@ -37,6 +37,7 @@ LANG_DISPLAY_NAME = {
   'uz': 'Uzbek',
   'si': 'Sinhala',
   'az': 'Azerbaijani',
+  'kk':'Kazakh',
   'global': 'All Languages',
 }
 

@@ -187,6 +187,11 @@
         "title": "Azerbaijani",
         "url": "https://billynyh.github.io/spark-ar-tv/az/index.html",
         "video_count": 0
+      },
+      {
+        "title": "Kazakh",
+        "url": "https://billynyh.github.io/spark-ar-tv/kk/index.html",
+        "video_count": 0
       }
     ],
     "topics": [
@@ -811,7 +816,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-07-12.html",
       "thumbnail_url": "https://i.ytimg.com/vi/np7uxYN0r54/hqdefault.jpg",
       "title": "Week 2021-07-12",
-      "meta1": "Num videos: 9",
+      "meta1": "Num videos: 14",
       "meta2": null
     },
     {
