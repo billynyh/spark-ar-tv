@@ -59,6 +59,7 @@ MwOYBAPTgXo // COMO INSERIR LENTE COLORIDAS NO SEU FILTRO DE FORMA FÁCIL NO SPA
 swdJYmZ0isg // Pack de Cílios 2.0 para Spark AR
 QWIRvjc8w4I // BOZZ Glitter Highlighter Pack
 vuY1EQcd1ik // Como colocar neve nos seus filtros do SparkAR
+9XNGJyshyCQ // Como usar o novo BLOCK de cílios 4.0 para o Spark AR
 
 # Bruno Bozz
 ZTR79dOzqFo // Como publicar um filtro no INSTAGRAM e enviar para análise? Spark AR
@@ -105,6 +106,7 @@ aJhOEJEgZ3o // COMO FAZER UM FILTRO PRETO E BRANCO PARA OS STORIES DO INSTAGRAM 
 up9RPedRGds // COMO CRIAR FILTROS PARA O INSTAGRAM STORIES TEMÁTICO DE VERÃO
 376CJW2Lx8A // COMO CRIAR FILTROS DE FRASES OU PALAVRAS PARA O INSTAGRAM STORIES
 iAB4lOGujfc // COMO CRIAR FILTROS QUE MUDAM A COR DO OLHOS
+hELHhq5UxVA // COMO CRIAR UM FILTRO DE MAKE NATURAL PARA OS STORIES DO INSTAGRAM
 
 # Catarina Unicórnio
 yJ7w569iSm4 // COMO CRIAR FILTROS PARA O INSTAGRAM
@@ -321,6 +323,9 @@ RZSDSM5RrPA // Cria uma máscara de facemesh usando apenas SDF - Tutorial Spark 
 q0sdL24kr-0 // Aula 07 -  Módulo de face tracking - Tutorial de Script para Spark AR
 WUT3IgYiymM // Como colocar efeito na voz no filtro - Tutorial Spark AR
 XTCYsGb1j-E // Aula 08 - Módulo de material - Tutorial de Script para Spark AR
+vNwdFH9VXjU // Aula 09 - Módulo de textura - Tutorial de Script para Spark AR
+apDs_-8Jkl8 // Como aplicar iluminador no filtro - Tutorial Spark AR
+cRw0t1fXQyA // Aula 10 - Módulo de gestos de toque na tela - Tutorial de Script para Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -676,9 +681,11 @@ BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 
 # Rauni Tutoriais
 eUqNter3Xrk // Como criar filtro para instagram - Spark Ar Studio
+6R2RGcJzLkQ // PLANT VS UNDEAD NFT COMO COMPRAR PVU TOKEN COM BNB DA BINANCE PARA METAMASK 2021
 
 # Reh Brandão
 ZgL4VQauDSY // COMO FAZER FILTROS AESTHETIC PARA O INSTAGRAM E COLOCAR KIRA KIRA. #aesthetic #kirakira #filtro
+NMLDHwTVdI4 // COMO CRIAR O SEU PRÓPRIO FILTRO PARA O INSTAGRAM STORIES ~LIGHTROOM~
 
 # Renata Ferreira
 gyps2QhTLFM // Como criei meu filtro do Instagram
@@ -1033,6 +1040,8 @@ WKwfahyHg0g // Spark AR Retângulos com retoque no rosto! Render Pass
 8lcYysSMCa4 // Spark AR Game Stop da Galinha!
 7cbFhvBdbE0 // Spark AR Filtro Big Head
 GlM-THur44c // Spark AR Maquiagem em 2 pessoas + LUT + Retouch + Noise
+q7UVvHbSPNQ // Spark AR Crie o seu primeiro jogo de pular agora! Parte 1
+0vMF3DsOOsE // Spark AR Game Over + Score + Colisão ! Parte 2
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
@@ -1078,6 +1087,7 @@ M1De7W0_AXE // COMO CRIAR SEU PRÓPIO FILTRO PARA O INSTAGRAM~~ TAINÁ PEPE
 # Taís Torbes - TUTORIAIS
 ZwSObx4i8K4 // COMO FAZER FILTRO DE QUIZ PARA O INSTAGRAM NO SPARK AR | TUTORIAL
 4GcQ9utH1fg // COMO FAZER FILTRO EM MENOS DE CINCO MINUTOS NO SPARK AR | TUTORIAL
+EWOzeI57olQ // COMO FAZER MENU FLUTUANTE NO XD | TUTORIAL
 
 # TecMax
 8Bq9gqCe9YQ // Spark AR Efeito Makeup Sem Photoshop Maquiagem sem usar photoshop LEIA DESCRIÇÃO
