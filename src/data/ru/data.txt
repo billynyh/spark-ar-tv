@@ -249,6 +249,8 @@ c7Vv4Yq6SKo // Skin Texture and Face Texture: Spark AR Studio v114 (Project on G
 La-CoUz0NRs // Тени в Spark AR, статические и динамические. Render to texture 3Ds MAX: Arnold Render, Corona Render
 YxUiMNSkLds // Работа на Фрилансе, плюсы и минусы удалённой работы фрилансера: 35 плюсов и 5 минусов
 LKFVgO9zbdk // Маска в Инстаграм Spark AR: бегущий человек с нашим лицом. Бесконечная сцена
+bmW0lpoNXtA // Как открыть файл маски Spark AR в предыдущей версии программы: couldn't be open project file version
+gS64WzqqC1E // Как импортировать GIF картинку в Spark AR в 2021
 
 # Arturka King
 KiTYX2wKcAk // 😍 КАК ПЕРЕНЕСТИ ПРЕСЕТ ИЗ LIGHTROOM В SPARK AR | Пресет без засветов для Инcтаграм + 4 пресета(FREE)
@@ -324,6 +326,8 @@ i7eFS4o2n7U // Spark AR - TikTok Zoom+LUT Tutorial
 qlXoY4Dzfyw // Как перенести фильтр , пресет в SPARK AR TUTORIAL
 gdGupdcIW_w // Animation Sequence Spark Ar VHS Effects
 pFAqPIxbhtg // VHS EFFECT SPARK AR STUDIO TUTORIAL
+gbtv5p4za2w // VLOGMAS #4 последний влог
+vjJMiUuEOcs // ИГРАЕМ В Outlast 1 С Аней 😤
 Rlw_NsYKtDk // Pinterest Filter - Spark Ar Studio
 EBv5MjxB-O0 // TIKTOK ZOOM + Music Spark AR
 SFHn7yeLQ6w // Zerno Spark Ar Studio Tutorial
@@ -621,6 +625,7 @@ o6T0UUrszNA // Spark AR/ Маска с картинкой на лице
 
 # Instagram AR & VR Mask | Инстаграм AR & VR Маски 
 IlCVguInhRI // Как сделать AR-маску в Instagram за 10 минут. Инстаграм маски на аккаунт для историй и фото 2021
+2qM0u5uxE9I // SPARK AR STUDIO | УРОК 3D АНИМАЦИИ КРЫЛЬЕВ | КРАСИВАЯ МАСКА ДЛЯ ФОТО И ВИДЕО В ИНСТАГРАМ | TUTORIAL
 
 # Instamasker - создание масок в инстаграм
 s2b0ZcQuRf0 // Spark AR | Как загрузить маску в Инстаграм?

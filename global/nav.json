@@ -478,14 +478,14 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCfgGh_akZMp7t_ln7t5OnPQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/qksHF3MFth4/hqdefault.jpg",
       "title": "Channel: Sid Farmer",
-      "meta1": "Num videos: 195",
+      "meta1": "Num videos: 199",
       "meta2": null
     },
     {
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCh2gFKv1dmrTxmMRgzchmrQ.html",
       "thumbnail_url": "https://i.ytimg.com/vi/U-sDe67gyNI/hqdefault.jpg",
       "title": "Channel: Spark AR Tutoriais em Portugu\u00eas",
-      "meta1": "Num videos: 191",
+      "meta1": "Num videos: 192",
       "meta2": null
     },
     {
@@ -499,7 +499,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCtTBLIjp8tpto5R9JYM8BNg.html",
       "thumbnail_url": "https://i.ytimg.com/vi/99wNU14mcKI/hqdefault.jpg",
       "title": "Channel: Tutoriais do Kewin",
-      "meta1": "Num videos: 136",
+      "meta1": "Num videos: 137",
       "meta2": null
     },
     {
@@ -513,7 +513,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCI7pSUi_CX5ElJGfOl6n4cA.html",
       "thumbnail_url": "https://i.ytimg.com/vi/Qh-Y9k8YaVw/hqdefault.jpg",
       "title": "Channel: Artem Maiko",
-      "meta1": "Num videos: 127",
+      "meta1": "Num videos: 129",
       "meta2": null
     },
     {
@@ -527,7 +527,7 @@
       "url": "https://billynyh.github.io/spark-ar-tv/global/channels/UCNpMVo0epALTwoje_KikAhg.html",
       "thumbnail_url": "https://i.ytimg.com/vi/Ym4Bc5XKt0c/hqdefault.jpg",
       "title": "Channel: Sindy Tia Ulfa",
-      "meta1": "Num videos: 105",
+      "meta1": "Num videos: 106",
       "meta2": null
     },
     {
@@ -813,10 +813,17 @@
   ],
   "recent_weeks": [
     {
+      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-07-26.html",
+      "thumbnail_url": "https://i.ytimg.com/vi/qrXVwDd82tk/hqdefault.jpg",
+      "title": "Week 2021-07-26",
+      "meta1": "Num videos: 31",
+      "meta2": null
+    },
+    {
       "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-07-19.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/zBNawHnqmSI/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/0Cj9rnrrU7o/hqdefault.jpg",
       "title": "Week 2021-07-19",
-      "meta1": "Num videos: 18",
+      "meta1": "Num videos: 26",
       "meta2": null
     },
     {
@@ -845,13 +852,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/W6Ehj0CedUM/hqdefault.jpg",
       "title": "Week 2021-06-21",
       "meta1": "Num videos: 48",
-      "meta2": null
-    },
-    {
-      "url": "https://billynyh.github.io/spark-ar-tv/global/weeks/week-2021-06-14.html",
-      "thumbnail_url": "https://i.ytimg.com/vi/tPH6GWXXNOg/hqdefault.jpg",
-      "title": "Week 2021-06-14",
-      "meta1": "Num videos: 54",
       "meta2": null
     }
   ]

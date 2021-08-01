@@ -414,6 +414,7 @@ hhI6ea4VAE8 // SPARK AR NEW COOL WING FILTER !! SPARK AR TUTORIAL
 96MEQ9xgk7c // Spark AR 3 Cool New AR Effect Filter | Spark AR Tutorial
 bSgiZCYY2vo // INSTAGRAM NEW HULK SKIN AR FILTER | SPARK AR TUTORIAL
 mWhR5-JVsmw // INSTAGRAM LO-FI VIBES FILTER | FREE PROJECT FILE
+J-5a-KFKZkA // HOW TO MAKE INSTAGRAM GLOWING SKIN FILTER IN SPARK AR STUDIO
 
 # Fatihah Ayu ACI
 hQEs-oCewWo // JujutsuKaisen Filter in Adobe Spark AR
@@ -553,6 +554,7 @@ hDMW-E-xPy0 // Animated Background + Face Retouch | GIF | Image Loop | How to ma
 KoC4rubZ-Hw // 2 ✧ Multiple Face Tracker | How to make an Instagram Filter | Spark Ar Tutorial
 G7znlbRpmt0 // Face Deformation ⊹ Plastic Surgery ⊹ Slimming Effect | How to make an Instagram Filter
 WYyRkTVSi1M // Outline Effect + Animated Neon Light | How to make an Instagram Filter | Spark Ar Tutorial
+EyNL4OrGlLM // Animated Glitter Face Mask | How to make an Instagram Filter | Spark Ar Tutorial
 
 # Chia May
 iw2XgvGgCxk // How To Make Butter Particles And Quick LUT Background -  Make a filter with SparkAR under 5 minutes!
@@ -670,6 +672,7 @@ OWX6BJjZbhU // Spark AR - Como fazer downgrade de um projeto
 kJL7QHlNB_M // Spark AR - Iridescent Shader
 vxXFh-LxH0w // Spark AR - Heat Distortion(Render Pass)
 nzl0ODk4TqQ // Spark AR - SDF Star #1
+QRHRX9hJbeE // Spark AR - LUT+RETOUCHING DE FORMA RAPIDA E SIMPLES
 
 # deanoDaDino1
 ZtgskqQTuu0 // I made an IG filter for a clothing company (HYPER BASIK)
@@ -745,6 +748,7 @@ JP7vS5slaWU // How to use any sound file in Spark AR Studio 🔊 | Import MP3 or
 PzdR12qmBtE // Blank Face Filter Tutorial - Spark AR Studio | Create a clean Face Effect for Instagram!
 KktdgINgf7M // Rotating Halo Text Filter - Spark AR Tutorial | How to create your own Instagram Filter.
 5wZIbqQZfeM // Start filter Automatically! ✨ By pressing the record button!  | Spark AR Tutorial
+zLCuNIx1UM0 // Simple Frame Filter! 📱 | Spark AR Studio Tutorial - Create a filter for Instagram and Facebook
 
 # Virtual Art Space
 t2CM0nTGtLA // 5 SPARK AR HACKS IN 2 MINUTES
@@ -1110,6 +1114,7 @@ XTCYsGb1j-E // Aula 08 - Módulo de material - Tutorial de Script para Spark AR
 vNwdFH9VXjU // Aula 09 - Módulo de textura - Tutorial de Script para Spark AR
 apDs_-8Jkl8 // Como aplicar iluminador no filtro - Tutorial Spark AR
 cRw0t1fXQyA // Aula 10 - Módulo de gestos de toque na tela - Tutorial de Script para Spark AR
+_zss5PODlrE // Aula 11 - Módulo de áudio
 
 # Filtr-thon
 ePGfvUezpGM // Filtr-A-Thon Hands-on workshop
@@ -1121,6 +1126,11 @@ t1Fe3eGS8K0 // Retouch (Smooth Skin) for Instagram Filters for Spark AR (with an
 oMT-S1hZ9-A // Make Your Own Color Lut Filter (using Lightroom app) | Spark AR Tutorial
 SPMs84OsL7c // Among Us Filter
 ubdughU7JpM // Among Us Filter Pt.2
+0Cj9rnrrU7o // Green Screen Filter
+UhtO3MX5FLI // Time Warp Scan Filter
+qrXVwDd82tk // Transition Scan Filter
+Cxx-LmQYA-M // Christmas Song Association Filter
+okd83ZNXzW4 // Infinite Mesh Filter
 
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
@@ -1375,6 +1385,7 @@ lEWT9EJdo84 // Gp muthu instagram filter | Irfan lesnar | Spark AR
 TUtbLI8aPCs // Creating Hair for a 3D face in easy way using blender | SparkAR studio | Irfan Lesnar | Trump part 2
 cscO0VdaxAQ // How to create Shapekeys for facial expressions using Blender | SparkAR | Irfan Lesnar
 9pih9Z1IJYA // facialExpression by Irfan Ahamed S | SparkAR studio | Blender | Irfan lesnar | Custom patch
+Ww5uNuUsguQ // Screen Brightness by Irfan Ahamed S | SparkAR Custom patch | Irfan Lesnar
 
 # It's Emma
 XaLXjR2y1gk // How to Create Your OWN Instagram Filter
@@ -1597,6 +1608,8 @@ me2nBVgUEUk // Spark AR - Falling patch asset
 7v-0f5BifEc // Spark AR - Quick Guide to do effect like "Line Art Drawing BW" from @dase.es
 CtVf8JnLzhE // Spark AR - LUT + Retouch + Sticker
 55gDxTFEa7U // Spark AR - Multiple Gallery Texture
+RGMpXfytLR8 // Spark AR - RandomBlock
+hdUR_T4nF6I // Spark AR - Try Cropping
 
 # Kendra Mishell
 3-vDOJFDHso // SPARKAR TUTORIAL - Beauty Filter/Mask/Instagram Filter
@@ -1690,6 +1703,7 @@ xM27be_APAI // [Spark AR] How to create an Instagram Filter using  VSCO/Lightroo
 cJap5-1vWmg // [Spark AR] How to create 3D Wings Filter
 YZ3jwfuxDM0 // [Spark AR] Photo Booth + Screen Tap + Crown Effect
 KuqdyGVSTJ4 // Recreating Olivia Rodrigo's Instagram filter [Spark AR]
+0qjX0HgiyL0 // [Spark AR] Guessing Game with timer
 
 # Liad Ben - Zur
 4p3DWPEc7rk // Preparing a filter in the spark ar
@@ -1883,6 +1897,7 @@ g_nHd4gPARk // Hướng dẫn tạo Filter Instagram SIÊU DỄ bằng Spark AR 
 4N8igbUt_Qk // Spark AR template: Quiz Game for Instagram Filter
 gF-mGgYOq0g // F8 Hackathon 2021: Save Ocean - Spark AR Track 2
 6PlbHc-OGGk // Spark AR Tutorial: Multiple Target Tracking
+POX10Q_HxyI // Spark AR Tutorial: Optimize 3D Assets
 
 # Masketing Design
 _JPCNaELw-I // Spark AR "Adaptive Light pack for makeup"
@@ -2396,6 +2411,8 @@ t0m2cHnPr-Y // SPARK AR GAME | WHAT DO YOU MEME quiz filter template
 fWYSCpCGoxc // SPARK AR GAME | COLLECTOR GAME 2 , CATCH FALLING item template ( patches only )
 INE3dtXS23w // SPARK AR | ANIME CARTOON FACE
 bm827foPp54 // SPARK AR MAKEUP | Earrings position ( EARRING )
+NKkBXFAFU2M // SPARK AR - Time Warp Scan (Renaissance challenge)
+82SzQF7ILG4 // SPARK AR | PHOTOBOOTH Snapshot Instagram filter
 
 # Q_Real_Dev
 E9yTzy3aXA4 // Creating Realistic Shadow Animation for Spark AR in Blender 2.8
@@ -2900,6 +2917,10 @@ C34mSVGu69U // Favourite Filters #75 | Instagram & Facebook | Spark AR Studio #s
 J2F-WdtF1MY // Favourite Filters #80 | Instagram & Facebook | Spark AR Studio #shorts
 FIF4zsyrwhE // Favourite Filters #71 - #80 | Instagram & Facebook | Spark AR Studio
 Q0Ez9Hnx9rE // Favourite Filters #81 | Instagram & Facebook | Spark AR Studio #shorts
+R25_p-lhGIs // Favourite Filters #84 | Instagram & Facebook | Spark AR Studio #shorts
+tOc0KioWK4E // Favourite Filters #85 | Instagram & Facebook | Spark AR Studio #shorts
+L93QHvpyISE // Favourite Filters #86 | Instagram & Facebook | Spark AR Studio #shorts
+mOt_750swDw // Favourite Filters #87 | Instagram & Facebook | Spark AR Studio #shorts
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv

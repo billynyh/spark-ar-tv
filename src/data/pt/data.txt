@@ -326,6 +326,7 @@ XTCYsGb1j-E // Aula 08 - Módulo de material - Tutorial de Script para Spark AR
 vNwdFH9VXjU // Aula 09 - Módulo de textura - Tutorial de Script para Spark AR
 apDs_-8Jkl8 // Como aplicar iluminador no filtro - Tutorial Spark AR
 cRw0t1fXQyA // Aula 10 - Módulo de gestos de toque na tela - Tutorial de Script para Spark AR
+_zss5PODlrE // Aula 11 - Módulo de áudio
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -1042,6 +1043,7 @@ WKwfahyHg0g // Spark AR Retângulos com retoque no rosto! Render Pass
 GlM-THur44c // Spark AR Maquiagem em 2 pessoas + LUT + Retouch + Noise
 q7UVvHbSPNQ // Spark AR Crie o seu primeiro jogo de pular agora! Parte 1
 0vMF3DsOOsE // Spark AR Game Over + Score + Colisão ! Parte 2
+Sxfvvn9uYss // Spark AR Liptint Boca e Bochechas sem Photoshop!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
@@ -1236,6 +1238,7 @@ weMmhOPJQmU // Óculos na testa ao balançar a cabeça - Spark Ar Studio Tutoria
 G3N6R4u8L_Y // Filtro com Logo - Spark Ar Studio Tutorial
 z2_X3h1gDOo // Filtro de Cliente no seu portfolio como colocar? - Spark Ar Studio Tutorial
 euKfakCclVo // Como "consertar" LUTs? - Spark Ar Studio Tutorial
+OppV0pTWEbQ // Usando imagem da galeria em Native UI com LUTS - Spark Ar Studio
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
