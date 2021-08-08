@@ -28,3 +28,4 @@ l9O6LN3LLf4 // آموزش فیلتر صندلی داغ و چالش کدوم شخ
 p72vG8HQxZ0 // آموزش ساخت فیلتر سُس ماست اینستاگرام. چالش افکت اینستاگرام / Spark Ar Tap Screen to Play Music + RGB
 st8dKPYhnlY // استفاده از لایه های رنگی و جذاب در فیلتر/افکت اینستاگرام How to add Lut, Dust and Grain in Spark Ar.
 7fk2s6W7mLs // آموزش فیلتر اینستاگرام،فعال کردن تغییر موقعیت،اندازه و زاویه | Enable Rotate Scale Position Spark AR
+oSfC4yiQjVE // اضافه کردن ویدئو دلخواه به برنامهSpark AR  | Spark AR:How to add Real-Time Simulation/Video Previews

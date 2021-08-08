@@ -327,6 +327,8 @@ vNwdFH9VXjU // Aula 09 - Módulo de textura - Tutorial de Script para Spark AR
 apDs_-8Jkl8 // Como aplicar iluminador no filtro - Tutorial Spark AR
 cRw0t1fXQyA // Aula 10 - Módulo de gestos de toque na tela - Tutorial de Script para Spark AR
 _zss5PODlrE // Aula 11 - Módulo de áudio
+FuGvGBPm0X8 // Aula 12 - Módulo  Native UI (parte 1)
+sK4kOAJujuE // Aula 13 - Módulo NativeUI (Parte 2)
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -458,6 +460,7 @@ Rh2spEk78t8 // Como criar filtro de adesivos no rosto para instagram stories
 jDBMovFa6IE // Como criar filtros com data, hora e dia da semana no Spark Ar pro instagram stories
 EHCT0GK5O10 // Como ativar e desativar elementos com toque na tela(screen tap) no Spark Ar pra Instagram stories
 7sXKRjmccy0 // Como criar filtro de plastica (deformações) para instagram stories
+mnd8L0ZyOHQ // Como criar filtro estilo Huji Cam para instagram stories Spark Ar
 
 # Lary Ribeiro
 0xJt8iC2dFQ // COMO FAZER O SEU PRÓPRIO FILTRO PARA O INSTAGRAM NO CELULAR 📲✨⎢Super fácil e SEM photoshop
@@ -1044,6 +1047,7 @@ GlM-THur44c // Spark AR Maquiagem em 2 pessoas + LUT + Retouch + Noise
 q7UVvHbSPNQ // Spark AR Crie o seu primeiro jogo de pular agora! Parte 1
 0vMF3DsOOsE // Spark AR Game Over + Score + Colisão ! Parte 2
 Sxfvvn9uYss // Spark AR Liptint Boca e Bochechas sem Photoshop!
+2-UXdoG5jds // Spark AR LUT + Óculos + Retouch com Render Pass!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›

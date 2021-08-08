@@ -59,6 +59,7 @@ gbkalxCuCG4 // 🧐Como hacer FILTRO OJO DE PEZ | 🐟 FISHEYE LENS FILTER | CUR
 E4ENXaQB0VU // 🐷 Tutorial de DEFORMACIÓN DE ROSTRO | 🔮BLENDER 3D | CURSO SPARK AR STUDIO
 rUxLqhXhCHQ // Como cambiar el VIDEO DEMO en SPARK AR STUDIO 🤳 | VIDEO PREVIEW
 NPogGhV4hOA // Tutorial de SECUENCIA ANIMADA 🎡| ANIMATION SEQUENCE | SPARK AR STUDIO
+WquNzZ-3ivw // 😎 Como hacer FILTRO DE GAFAS ó LENTES en SPARK AR STUDIO | OBJETOS 3D
 
 # Anibal Caballero
 gz8kNRGHBOA // practica 2 arspark targuet
@@ -302,6 +303,7 @@ e_d0x0KyDV4 // COMO INSTALAR SPARK AR PARA CREAR FILTROS PARA INSTAGRAM
 X1E6jYUfi1Q // COMO CONSEGUIR QUE TUS FILTROS APAREZCAN EN LA GALERIA DE EFECTOS DE INSTAGRAM - SPARK AR
 7ZCMttlGeXg // TUTORIAL PARA CREAR FILTRO CON MAQUILLAJE NATURAL  -SPARK AR (ARCHIVO GRATIS- FREE FILE EXPORT)
 lT1dpLRtos4 // COMO CREAR FILTRO CON STICKERS+LUT+RETOQUE - (EXPLICACION PARA SUBIR TUS FILTROS AL FINAL) SPARK AR
+WGg_A763flU // COMO HACER FILTRO Y2K(LUT+RETOQUE) - Viral Filter Spark AR - FREE FILE EXPORT
 
 # Diego Camilo Herrera Alvarez
 cm9NddLowPM // Exposición Spark
@@ -549,6 +551,7 @@ LrkZ7ip48BU // Spark AR - Interactions with Multi Targets | One new object with 
 rhuC9D76iFA // Spark AR Tutorial - Create your own interactive 3D Map with Blender (EN Captions)
 oSd4cQ5QyrI // Spark AR - Real Scale World | Realidad Aumentada para ecommerce (EN Captions)
 cE9uNP1jqQY // Spark AR - Head Shake Tutorial con sistema solar (EN Captions)
+fNdNx5iFUr0 // Crea  billetes interactivos con filtros de instagram - Spark AR (EN Captions)
 
 # Entretags
 7xO0xb7SNks // Spark AR: Move, rotate and scale object in scene [ESPAÑOL/ENGLISH]
@@ -628,6 +631,7 @@ p_zLJ-tsOZE // CREA ESTOS FILTROS DE MODA PARA INSTAGRAM RÁPIDO! EXPLICADO AL D
 
 # Gexe
 6MvMnOj9PwI // Guinxu + Alva Majo (Creando Filtros de Instagram)
+tFUhrvX3ZHU // Cómo hice este VFX de la Luna de Majora's Mask en After Effects - Gexe
 
 # HelenTech
 FpIApJHKDns // Cómo hacer filtros para Instagram, face mask | @helentech_
@@ -978,6 +982,7 @@ dkEJBJ5rCLA // Como subir un filtro a SPARK AR
 WR4Rwd4_u4w // Ojos claros, dientes blancos, LUT, objeto 3D (DOS O MAS FACE TRACKER) Spark Ar Tutorial
 k_xL0W0iuNE // Subí tu primer filtro a Instagram DESDE CERO (parte 1) FÁCIL
 qp2EwHVsF28 // Subí tu primer filtro a Instagram (parte 2) EFECTO MARCO (¡FÁCIL!)
+0iqTcL9HREA // Subí tu primer filtro a Instagram (parte 3) OBJETOS 2D CON ANIMACIÓN
 
 # Sebastian Herbel
 zkicUWJAAWo // Spark Ar Fuentes Letras
