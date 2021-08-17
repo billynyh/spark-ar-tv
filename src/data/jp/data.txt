@@ -111,6 +111,7 @@ XyXvWm1QtWg // 【パッチ紹介】Spark ARのパッチについて紹介
 BS7MjhWVMT4 // Spark AR エフェクトに使うパッチ（mouth open,pulse,counter）の紹介
 VSRDOscuym8 // 【インスタ エフェクト】Spark ARでリップを作ってみよう
 EG-tt9ubRYQ // 【インスタ エフェクト】 Spark ARで音楽をつけてみよう
+bXvhPGU9Ga8 // 【ストーリーエフェクト】After EffectsとSpark AR Studioの連携方法
 
 # SS PARK スケサンパーク
 hLKOQb_I1AI // Eng Sub | インスタARコミュニティ 運営メンバー入荷しました

@@ -329,6 +329,9 @@ cRw0t1fXQyA // Aula 10 - Módulo de gestos de toque na tela - Tutorial de Script
 _zss5PODlrE // Aula 11 - Módulo de áudio
 FuGvGBPm0X8 // Aula 12 - Módulo  Native UI (parte 1)
 sK4kOAJujuE // Aula 13 - Módulo NativeUI (Parte 2)
+Yvi4QlpVqNs // Aula14 -  Vamos desenvolver um filtro de maquiagem usando Script
+fK3Pc3H26TQ // Como aplicar diferentes texturas nos olhos - Tutorial Spark AR
+Piuhb-DjFUc // Como criar fumaça ao redor do corpo - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -461,6 +464,7 @@ jDBMovFa6IE // Como criar filtros com data, hora e dia da semana no Spark Ar pro
 EHCT0GK5O10 // Como ativar e desativar elementos com toque na tela(screen tap) no Spark Ar pra Instagram stories
 7sXKRjmccy0 // Como criar filtro de plastica (deformações) para instagram stories
 mnd8L0ZyOHQ // Como criar filtro estilo Huji Cam para instagram stories Spark Ar
+Wv7GjBZk4lc // Como adicionar botões (Native UI) em filtros de instagram para trocar elementos Spark Ar
 
 # Lary Ribeiro
 0xJt8iC2dFQ // COMO FAZER O SEU PRÓPRIO FILTRO PARA O INSTAGRAM NO CELULAR 📲✨⎢Super fácil e SEM photoshop
@@ -686,6 +690,7 @@ BP9QkRjiOOE // Spark AR: Native UI Simplificado PT-BR] - por @aliencandies
 # Rauni Tutoriais
 eUqNter3Xrk // Como criar filtro para instagram - Spark Ar Studio
 6R2RGcJzLkQ // PLANT VS UNDEAD NFT COMO COMPRAR PVU TOKEN COM BNB DA BINANCE PARA METAMASK 2021
+w2QWXbHhTkg // BINEMON NFT JOGO VAI SER LANÇADO EM BREVE E COMO ADICIONAR DRK AO METAMASK 2021
 
 # Reh Brandão
 ZgL4VQauDSY // COMO FAZER FILTROS AESTHETIC PARA O INSTAGRAM E COLOCAR KIRA KIRA. #aesthetic #kirakira #filtro
@@ -1048,6 +1053,8 @@ q7UVvHbSPNQ // Spark AR Crie o seu primeiro jogo de pular agora! Parte 1
 0vMF3DsOOsE // Spark AR Game Over + Score + Colisão ! Parte 2
 Sxfvvn9uYss // Spark AR Liptint Boca e Bochechas sem Photoshop!
 2-UXdoG5jds // Spark AR LUT + Óculos + Retouch com Render Pass!
+jD1Q1kRaR8o // Spark AR  Placar e Cronômetro SEM SCRIPT! To String
+Qq7n6TCbbKc // Spark AR Distorção de Logos e Imagens PNG!
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
@@ -1243,6 +1250,7 @@ G3N6R4u8L_Y // Filtro com Logo - Spark Ar Studio Tutorial
 z2_X3h1gDOo // Filtro de Cliente no seu portfolio como colocar? - Spark Ar Studio Tutorial
 euKfakCclVo // Como "consertar" LUTs? - Spark Ar Studio Tutorial
 OppV0pTWEbQ // Usando imagem da galeria em Native UI com LUTS - Spark Ar Studio
+T6MKwYL9K98 // Criando Efeitos de Cor (LUT) com Photoshop e Spark Ar
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
