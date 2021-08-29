@@ -558,6 +558,7 @@ EyNL4OrGlLM // Animated Glitter Face Mask | How to make an Instagram Filter | Sp
 MZuoJf0nSxc // Screen Tap to Change + Screen Tap and Hold to Change | How to make an Instagram Filter | Spark Ar
 hGp7rbLPn9E // Random Selector ♡ (Which/Who/What are you...?) | How to make an Instagram Filter | Spark Ar Tutorial
 wCESiwjeFQo // ✰ Color LUT + Retouch | How to make an Instagram Filter | Spark Ar Tutorial
+qOv8rOEnMGU // ⋆⁺₊⋆ Native Picker UI + Slider UI ⋆⁺₊⋆ | How to make an Instagram Filter | Spark Ar Tutorial
 
 # Chia May
 iw2XgvGgCxk // How To Make Butter Particles And Quick LUT Background -  Make a filter with SparkAR under 5 minutes!
@@ -1126,6 +1127,9 @@ sK4kOAJujuE // Aula 13 - Módulo NativeUI (Parte 2)
 Yvi4QlpVqNs // Aula14 -  Vamos desenvolver um filtro de maquiagem usando Script
 fK3Pc3H26TQ // Como aplicar diferentes texturas nos olhos - Tutorial Spark AR
 Piuhb-DjFUc // Como criar fumaça ao redor do corpo - Tutorial Spark AR
+6G-F-pV6Oto // Aula15 - Módulo de diagnóstico
+_USeQFvy2vY // Modelando chifres no Blender
+mJ4a7jfAn98 // Aula 16 - Módulo de patches
 
 # Filtr-thon
 ePGfvUezpGM // Filtr-A-Thon Hands-on workshop
@@ -1148,6 +1152,14 @@ sXTGWZvY67g // Neon Twin Filter
 wjatbKf7p78 // Sour Filter
 _o0CFffX6qU // Harry Potter Scarf Filter
 ar6Jh6srxmE // Animal Crossing Filter
+koWhMAe3Kxg // Incredibles Filter
+laosE1FAjW8 // Clone Filter
+Xp-CsUW9k0o // Avatar Aang Filter
+EQUxm3jrmL4 // Teleport Filter
+gJmcH6j4jKw // Comics Page Filter
+8xUBPxOXFVg // Comics Filter
+juZgLhk3EtE // Wonder Woman Filter
+kryA_Ot1rhM // Time Travel Filter
 
 # Firus Hanov
 9O-GZ8wRwtI // Spark-AR Tutorial #1 Setup
@@ -1273,6 +1285,7 @@ C4g88DbLtvo // How to make Mickey & Minnie Instagram Filter? | Spark AR Studio T
 VX8lQrVMbL8 // How to make two mix up Skin Smooth + LUT Instagram Filter? | Spark AR Studio Tutorial
 7CYsnYfgDxY // Makeup Tutorial + Free Materials | Spark AR Studio | Instagram Filter
 4RPEzFYoVNQ // How to create a Tattoo Filter for Instagram ? | Spark AR Studio
+XsMjkysRbeI // Fiverr
 
 # Gilligan Faust
 iJe0A35Abro // Instagram Filter upload tutorial (Spark AR)
@@ -1403,6 +1416,7 @@ TUtbLI8aPCs // Creating Hair for a 3D face in easy way using blender | SparkAR s
 cscO0VdaxAQ // How to create Shapekeys for facial expressions using Blender | SparkAR | Irfan Lesnar
 9pih9Z1IJYA // facialExpression by Irfan Ahamed S | SparkAR studio | Blender | Irfan lesnar | Custom patch
 Ww5uNuUsguQ // Screen Brightness by Irfan Ahamed S | SparkAR Custom patch | Irfan Lesnar
+MEElT6PosfM // High quality 3D Caps | Blender | SparkAR | Snapchat
 
 # It's Emma
 XaLXjR2y1gk // How to Create Your OWN Instagram Filter
@@ -2386,6 +2400,7 @@ u9wG1qnKEng // How to Create an Instagram Filter with Spark AR | Tutorial
 TH-TQxmx7sg // Custom All-Over Print Face Masks: Printful Showcase
 UoSivpTyGdE // Top 5 Print on Demand Product Trends In 2021 | What to sell with Printful?
 k-OidZdLQOQ // Instagram Marketing With Spark AR Filters: Printful 2021
+tTG_RWmk7to // Create Custom Face Masks with Printful #shorts
 
 # Programmer Me
 Qc96WHqR_Tw // LearnFromHome | Intro to Spark AR | Programmer-Me | TinkerHub CUCEK
@@ -2953,6 +2968,7 @@ p7hIucvo4L0 // Favourite Filters #94 | Instagram & Facebook | Spark AR Studio #s
 ZitudkwMljU // Favourite Filters #95 | Instagram & Facebook | Spark AR Studio #shorts
 vq9SycIOOC4 // Favourite Filters #96 | Instagram & Facebook | Spark AR Studio #shorts
 ok-vy5_ZtMo // Favourite Filters #97 | Instagram & Facebook | Spark AR Studio #shorts
+vYJt5MizzB0 // Favourite Filters #91 - #100 | Instagram & Facebook | Spark AR Studio
 
 # Silver Oak University IEEE SB
 BzYgczrVVpY // Shaping realities with Spark AR | Snehaal Dhruv
@@ -3084,6 +3100,7 @@ MYNkiTBPGmE // How To Create A Dynamic 2D Text on Spark AR Studio
 D0ilEGT0VTE // Creating A Face Tattoo & Plane Tracker on Spark AR Studio
 pWeTthYBKRA // Create A Custom LUT in Adobe Lightroom for Instagram Filter
 GqgFCRlKw4I // How To Create An Instagram Filter In 2021 with Spark AR Studio
+QDshLUBHRdE // How To Add Multiple Option Picker for IG Filter on Spark AR Studio
 
 # Sunny Youth
 nqncXtofMa4 // How I created my very own instagram filter with picsart!(easy and simple)

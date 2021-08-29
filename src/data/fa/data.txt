@@ -29,3 +29,4 @@ p72vG8HQxZ0 // آموزش ساخت فیلتر سُس ماست اینستاگرا
 st8dKPYhnlY // استفاده از لایه های رنگی و جذاب در فیلتر/افکت اینستاگرام How to add Lut, Dust and Grain in Spark Ar.
 7fk2s6W7mLs // آموزش فیلتر اینستاگرام،فعال کردن تغییر موقعیت،اندازه و زاویه | Enable Rotate Scale Position Spark AR
 oSfC4yiQjVE // اضافه کردن ویدئو دلخواه به برنامهSpark AR  | Spark AR:How to add Real-Time Simulation/Video Previews
+3QSGmtahtY8 // آموزش اضافه کردن چند گزینه، اسلایدر و لمس صفحه به فیلتر | Spark AR : Picker Ui + Slider + Tap Screen
