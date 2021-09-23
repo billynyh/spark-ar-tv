@@ -111,6 +111,15 @@ B-Y76lQQEt4 // AR03_Spark AR Studio 基本操作3- 國劇換臉特效實作
 OJqG7ohp0XQ // IG 濾鏡製作，如何做出隨機內容
 XsUkSF_QcaU // 連假不要出門，在家做 IG 濾鏡！
 
+# 毛小凡
+ox7j2DNIxGc // 【Spark AR】純新手30分鐘就能打造自己的濾鏡！New hand create fliter just 30 minutes - CC字幕
+l3Borv4z4cU // 【Spark AR】用嘴巴噴出火焰吧！粒子效果加上表情互動，讓濾鏡更豐富！Particle System combine with facial expression - CC字幕
+YoFdJakB158 // 【Spark AR】該如何上傳動畫？用動畫讓濾鏡更有趣吧！
+281u_CBCqJw // 【Spark AR】該如何上傳音檔？讓濾鏡加入有趣的音檔吧！
+l-78QrcJ3Ac // 【Spark AR】在臉部彩繪刺青與美妝！實作面具（Mask）濾鏡效果
+e0cFQV-OAk8 // 【Spark AR】幫濾鏡加上美美的背景！人物去背與佈景使用
+6bWMvG1f0xY // 【Spark AR】快速完成！製作屬於你的網美濾鏡！
+
 # 火力創新實驗室 Firelab
 tzsLMdujOfA // 數位時尚人物介紹 EP7｜濾鏡設計師 Johanna Jaskowska
 
@@ -121,9 +130,6 @@ jKyem1MJCrs // Instagram濾鏡製作DIY 分享過程與資源給你~my DIY proce
 Y0i8QhdUobc // Spark AR Studio Color Grabbing Test
 YWQn28AMoQ8 // 1027 不紙是工作坊 Spark AR Tutorial
 F6S7d92MOPs // 1110 不紙是工作坊 小房子 Project
-
-# 設計百草堂
-YoFdJakB158 // 【Spark AR】該如何上傳動畫？用動畫讓濾鏡更有趣吧！
 
 # 電商人妻 ec.wife
 j0sPTE14LE4 // 【 電商人妻 】把 Lightroom 色調變成 IG 濾鏡！

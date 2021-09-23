@@ -107,6 +107,7 @@ up9RPedRGds // COMO CRIAR FILTROS PARA O INSTAGRAM STORIES TEMÁTICO DE VERÃO
 376CJW2Lx8A // COMO CRIAR FILTROS DE FRASES OU PALAVRAS PARA O INSTAGRAM STORIES
 iAB4lOGujfc // COMO CRIAR FILTROS QUE MUDAM A COR DO OLHOS
 hELHhq5UxVA // COMO CRIAR UM FILTRO DE MAKE NATURAL PARA OS STORIES DO INSTAGRAM
+1lLgGlxVlyg // COMO CRIAR UM FILTRO DE COR PARA OS STORIES DO INSTAGRAM
 
 # Catarina Unicórnio
 yJ7w569iSm4 // COMO CRIAR FILTROS PARA O INSTAGRAM
@@ -335,6 +336,9 @@ Piuhb-DjFUc // Como criar fumaça ao redor do corpo - Tutorial Spark AR
 6G-F-pV6Oto // Aula15 - Módulo de diagnóstico
 _USeQFvy2vY // Modelando chifres no Blender
 mJ4a7jfAn98 // Aula 16 - Módulo de patches
+2AQe3E9CGJo // Criando um sol vapor wave com SDFs - Tutorial Spark AR
+dw3jnwZKVhQ // Como aplicar sardas no rosto - Tutorial Spark AR
+22Yey6v03OM // Aplicando barba no filtro - Tutorial Spark AR
 
 # Fino
 y41bM9QAhlA // Spark AR Studio - Destrinchando o efeito "I Red"
@@ -468,6 +472,7 @@ EHCT0GK5O10 // Como ativar e desativar elementos com toque na tela(screen tap) n
 7sXKRjmccy0 // Como criar filtro de plastica (deformações) para instagram stories
 mnd8L0ZyOHQ // Como criar filtro estilo Huji Cam para instagram stories Spark Ar
 Wv7GjBZk4lc // Como adicionar botões (Native UI) em filtros de instagram para trocar elementos Spark Ar
+m6-Et7pvKpI // Como adicionar Lip tint // Batom // Blush no seu filtro pra instagram stories Spark Ar
 
 # Lary Ribeiro
 0xJt8iC2dFQ // COMO FAZER O SEU PRÓPRIO FILTRO PARA O INSTAGRAM NO CELULAR 📲✨⎢Super fácil e SEM photoshop
@@ -1062,6 +1067,9 @@ Sxfvvn9uYss // Spark AR Liptint Boca e Bochechas sem Photoshop!
 jD1Q1kRaR8o // Spark AR  Placar e Cronômetro SEM SCRIPT! To String
 Qq7n6TCbbKc // Spark AR Distorção de Logos e Imagens PNG!
 q9EluPqb5eg // Spark AR LUT+ Retouch - Filtro sumindo da tela? Saiba o porquê!
+JyxH1UCSZOQ // Spark AR Atualize seu Filtro antes que ele desapareça!
+pSZIaWIyxHw // Spark AR Aprenda a criar o seu filtro de Selfie!
+7tA32FZ9Z0o // Spark AR Facebook está dando 700 mil dólares para criadores! Cyberware Challenge
 
 # Store Tutors HD
 ae91vZX-IiQ // Como criar Filtros para o Instagram ‹ 2020 ›
@@ -1260,6 +1268,11 @@ OppV0pTWEbQ // Usando imagem da galeria em Native UI com LUTS - Spark Ar Studio
 T6MKwYL9K98 // Criando Efeitos de Cor (LUT) com Photoshop e Spark Ar
 __mxkufJsEA // Como usar GIFS no Spark (2021) - Spark Ar Studio Tutorial
 mJdWTB7_a6o // Tutorial criando chuva nos seus filtros com partículas - Spark Ar Studio
+ZNABsz7zC_8 // Tirar várias snapshots/fotos dentro do seu filtro / Delay Frame - Spark Ar Studio
+gDUwv9xK10I // A forma mais rápida de criar filtros com LUT - Block Spark AR
+HzuVh3lutNY // Efeito fantasma / Motion Blur / Delay Frame - Spark Ar Studio
+--IGqBTVx4g // Filtro Polaroid com LUT Simples - Spark Ar Studio Tutorial
+EAZJgokpjjU // Como extrair texturas de um arquivo em 3d / Assets Cyberwarechallenge - Spark Ar Blender Tutorial
 
 # TVmood
 h7fdJEMZmJk // Spark AR Studio para iniciantes #1
@@ -1325,3 +1338,4 @@ cHJOXYXUyuc // COMO CRIAR FILTROS PRO INSTAGRAM ~LIGHTROOM~
 aXvLkIXZ0dI // COMO FAZER FILTRO DE MAKE AESTHETIC ~INSTAGRAM~
 fMH0xRXmqkA // COMO fazer FILTROS pro INSTAGRAM de MAKE e TOQUE PRA ALTERAR
 YIaXGKDftcg // TUTORIAL FILTRO DONUTS / ISIS COPINI 💖
+KHkKduo6EXY // COMO PUBLICAR FILTROS no INSTAGRAM!!!
